@@ -59,7 +59,9 @@ def main():
         #     for line in get_item_lines(base_url, item):
         #         print(line)
 
-        todo_filename = first_or_default(doc_html.xpath('//title/text()')) \
+        title = first_or_default(doc_html.xpath('//title/text()'))
+
+        todo_filename = title \
             .lower() \
             .replace(" | microsoft learn", "") \
             .replace(" documentation", "") \
@@ -69,8 +71,11 @@ def main():
 
         lines = []
         for item in toc_json['items']:
-            for line in get_item_lines(base_url, item):
+            for line in get_item_lines(base_url, item, 1):
                 lines.append(line)
+
+        if len(lines) > 0:
+            lines.insert(0, f"{title}:")
 
         if os.path.exists(f"todos/{todo_filename}.todo"):
             # filter lines that are not already in the file
@@ -90,6 +95,7 @@ def main():
         if len(lines) > 0:
             with open(f"todos/{todo_filename}.todo", "a", encoding="utf-8") as file:
                 for line in lines:
+                    print(line)
                     file.write(line + "\n")
                 file.write("\n")
 
@@ -112,12 +118,15 @@ def get_item_lines(base_url, item, level=0):
 
     if has_href:
         line += f" {urljoin(base_url, item['href'])}"
-        # href_html = get_html(urljoin(base_url, item['href']))
-        # <meta name="updated_at" content="2024-08-02 11:27 AM" />
-        # updated_at = first_or_default(href_html.xpath(
-        #     '//meta[@name="updated_at"]/@content'))
-        # if updated_at is not None:
-        #     line += f" ({updated_at})"
+        try:
+            href_html = get_html(urljoin(base_url, item['href']))
+            # <meta name="updated_at" content="2024-08-02 11:27 AM" />
+            updated_at = first_or_default(href_html.xpath(
+                '//meta[@name="updated_at"]/@content'))
+            if updated_at is not None:
+                line += f" ({updated_at})"
+        except Exception as e:
+            print(e)
 
     if has_children:
         line += postfix

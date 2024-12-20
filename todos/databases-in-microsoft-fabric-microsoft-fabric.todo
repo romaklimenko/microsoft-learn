@@ -1,81 +1,82 @@
-☐ Fabric Databases documentation https://learn.microsoft.com/en-us/fabric/database/
-SQL database in Fabric:
-    ☐ Overview https://learn.microsoft.com/en-us/fabric/database/sql/overview
-    ☐ Frequently asked questions https://learn.microsoft.com/en-us/fabric/database/sql/faq
-    ☐ Feature comparison https://learn.microsoft.com/en-us/fabric/database/sql/feature-comparison-sql-database-fabric
-    ☐ Decision guide: Which SQL database? https://learn.microsoft.com/en-us/fabric/database/sql/decision-guide
-    ☐ Decision guide: Choose a data store https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-data-store?toc=/fabric/database/toc.json&bc=/fabric/database/toc.json
-    Copilot:
-        ☐ FAQ https://learn.microsoft.com/en-us/fabric/database/sql/copilot-faq
-        ☐ Copilot in SQL database https://learn.microsoft.com/en-us/fabric/database/sql/copilot
-        ☐ Chat pane https://learn.microsoft.com/en-us/fabric/database/sql/copilot-chat-pane
-        ☐ Code completion https://learn.microsoft.com/en-us/fabric/database/sql/copilot-code-completion
-        ☐ Quick actions https://learn.microsoft.com/en-us/fabric/database/sql/copilot-quick-actions
-    Get started:
-        ☐ Connect to your SQL database https://learn.microsoft.com/en-us/fabric/database/sql/connect
-        ☐ 1. Enable SQL database in Fabric https://learn.microsoft.com/en-us/fabric/database/sql/enable
-        ☐ 2. Create a SQL database https://learn.microsoft.com/en-us/fabric/database/sql/create
-        ☐ 3. Load AdventureWorks sample Data https://learn.microsoft.com/en-us/fabric/database/sql/load-adventureworks-sample-data
-        ☐ 4. Create a table https://learn.microsoft.com/en-us/fabric/database/sql/create-table
-        ☐ 5. Query the database https://learn.microsoft.com/en-us/fabric/database/sql/query
-        ☐ 6. Query the SQL analytics endpoint https://learn.microsoft.com/en-us/fabric/database/sql/query-sql-analytics-endpoint
-        ☐ 7. Create GraphQL API in your database https://learn.microsoft.com/en-us/fabric/database/sql/graphql-api
-        ☐ 8. Create reports https://learn.microsoft.com/en-us/fabric/database/sql/create-reports
-        ☐ 9. Share data https://learn.microsoft.com/en-us/fabric/database/sql/share-data
-    Tutorial:
-        ☐ SQL database in Fabric tutorial introduction https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-introduction
-        ☐ 1. Create a workspace https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-create-workspace
-        ☐ 2. Create a SQL database https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-create-database
-        ☐ 3. Load sample data using T-SQL and pipelines https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-ingest-data
-        ☐ 4. Query the database and use Copilot https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-query-database
-        ☐ 5. Query the SQL analytics endpoint https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-use-analytics-endpoint
-        ☐ 6. Create and share visualizations https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-create-visualizations
-        ☐ 7. Perform data analysis using notebooks https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-perform-data-analysis
-        ☐ 8. Create an application with DevOps and GraphQL API https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-create-application
-        ☐ 9. Clean up resources https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-clean-up
-    Data recovery:
-        ☐ Backups https://learn.microsoft.com/en-us/fabric/database/sql/backup
-        ☐ Restore https://learn.microsoft.com/en-us/fabric/database/sql/restore
-    Develop:
-        ☐ SQL Query editor https://learn.microsoft.com/en-us/fabric/database/sql/query-editor
-        ☐ Source control https://learn.microsoft.com/en-us/fabric/database/sql/source-control
-        ☐ Deployment pipelines https://learn.microsoft.com/en-us/fabric/database/sql/deployment-pipelines
-        ☐ SqlPackage https://learn.microsoft.com/en-us/fabric/database/sql/sqlpackage
-        ☐ Deploy via REST API https://learn.microsoft.com/en-us/fabric/database/sql/deploy-rest-api
-    Load data into a SQL database:
-        ☐ Load data with data pipelines https://learn.microsoft.com/en-us/fabric/database/sql/load-data-pipelines
-        ☐ Load data with Fabric Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/database/sql/dataflows
-    Mirroring to OneLake:
-        ☐ Mirroring to OneLake Overview https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-overview
-        ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-limitations
-        ☐ Monitor https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-monitor
-        ☐ FAQ https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-faq
-        ☐ Troubleshooting https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-troubleshooting
-        ☐ Secure and share https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-secure
-    Monitor:
-        ☐ Monitor https://learn.microsoft.com/en-us/fabric/database/sql/monitor
-        ☐ Performance Dashboard https://learn.microsoft.com/en-us/fabric/database/sql/performance-dashboard
-        ☐ Capacity usage reporting https://learn.microsoft.com/en-us/fabric/database/sql/usage-reporting
-    Secure:
-        ☐ Overview https://learn.microsoft.com/en-us/fabric/database/sql/security-overview
-        ☐ Authentication in SQL database https://learn.microsoft.com/en-us/fabric/database/sql/authentication
-        ☐ Access control in SQL database https://learn.microsoft.com/en-us/fabric/database/sql/authorization
-        ☐ Share your SQL database and manage item permissions https://learn.microsoft.com/en-us/fabric/database/sql/share-sql-manage-permission
-        ☐ Configure granular access control for a SQL database https://learn.microsoft.com/en-us/fabric/database/sql/configure-sql-access-controls
-        ☐ Protect sensitive data with Microsoft Purview protection policies https://learn.microsoft.com/en-us/fabric/database/sql/protect-databases-with-protection-policies
-    Troubleshoot:
-        ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/sql/limitations
-    Reference:
-        ☐ T-SQL Reference for Fabric https://learn.microsoft.com/sql/t-sql/language-reference?view=fabric&preserve-view=true
-Resources:
-    ☐ Contribute to Fabric docs https://learn.microsoft.com/contribute/
-    Help:
-        ☐ Microsoft Q & A >> https://learn.microsoft.com/answers/
-        ☐ Submit feedback >> https://feedback.azure.com/
-    ☐ Ideas https://ideas.fabric.microsoft.com/
-    ☐ Community https://community.fabric.microsoft.com/
-    ☐ Service updates https://azure.microsoft.com/updates/
-    ☐ Azure Status https://azure.status.microsoft/
-    Learn:
-        ☐ Microsoft Learn training >> https://learn.microsoft.com/training/
+Databases in Microsoft Fabric - Microsoft Fabric | Microsoft Learn:
+    ☐ Fabric Databases documentation https://learn.microsoft.com/en-us/fabric/database/ (2024-11-21 12:08 PM)
+    SQL database in Fabric:
+        ☐ Overview https://learn.microsoft.com/en-us/fabric/database/sql/overview (2024-12-05 12:14 PM)
+        ☐ Frequently asked questions https://learn.microsoft.com/en-us/fabric/database/sql/faq (2024-12-11 10:59 PM)
+        ☐ Feature comparison https://learn.microsoft.com/en-us/fabric/database/sql/feature-comparison-sql-database-fabric (2024-12-05 06:05 PM)
+        ☐ Decision guide: Which SQL database? https://learn.microsoft.com/en-us/fabric/database/sql/decision-guide (2024-11-20 11:00 PM)
+        ☐ Decision guide: Choose a data store https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-data-store?toc=/fabric/database/toc.json&bc=/fabric/database/toc.json (2024-12-19 10:56 PM)
+        Copilot:
+            ☐ FAQ https://learn.microsoft.com/en-us/fabric/database/sql/copilot-faq (2024-11-20 11:00 PM)
+            ☐ Copilot in SQL database https://learn.microsoft.com/en-us/fabric/database/sql/copilot (2024-12-05 06:05 PM)
+            ☐ Chat pane https://learn.microsoft.com/en-us/fabric/database/sql/copilot-chat-pane (2024-12-04 11:03 PM)
+            ☐ Code completion https://learn.microsoft.com/en-us/fabric/database/sql/copilot-code-completion (2024-11-20 11:00 PM)
+            ☐ Quick actions https://learn.microsoft.com/en-us/fabric/database/sql/copilot-quick-actions (2024-11-20 11:00 PM)
+        Get started:
+            ☐ Connect to your SQL database https://learn.microsoft.com/en-us/fabric/database/sql/connect (2024-12-05 06:05 PM)
+            ☐ 1. Enable SQL database in Fabric https://learn.microsoft.com/en-us/fabric/database/sql/enable (2024-12-18 10:58 PM)
+            ☐ 2. Create a SQL database https://learn.microsoft.com/en-us/fabric/database/sql/create (2024-12-12 12:20 PM)
+            ☐ 3. Load AdventureWorks sample Data https://learn.microsoft.com/en-us/fabric/database/sql/load-adventureworks-sample-data (2024-11-20 11:00 PM)
+            ☐ 4. Create a table https://learn.microsoft.com/en-us/fabric/database/sql/create-table (2024-11-20 11:00 PM)
+            ☐ 5. Query the database https://learn.microsoft.com/en-us/fabric/database/sql/query (2024-11-20 11:00 PM)
+            ☐ 6. Query the SQL analytics endpoint https://learn.microsoft.com/en-us/fabric/database/sql/query-sql-analytics-endpoint (2024-11-20 11:00 PM)
+            ☐ 7. Create GraphQL API in your database https://learn.microsoft.com/en-us/fabric/database/sql/graphql-api (2024-11-20 11:00 PM)
+            ☐ 8. Create reports https://learn.microsoft.com/en-us/fabric/database/sql/create-reports (2024-11-20 11:00 PM)
+            ☐ 9. Share data https://learn.microsoft.com/en-us/fabric/database/sql/share-data (2024-11-21 12:08 PM)
+        Tutorial:
+            ☐ SQL database in Fabric tutorial introduction https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-introduction (2024-12-12 12:20 PM)
+            ☐ 1. Create a workspace https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-create-workspace (2024-11-20 11:00 PM)
+            ☐ 2. Create a SQL database https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-create-database (2024-11-20 11:00 PM)
+            ☐ 3. Load sample data using T-SQL and pipelines https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-ingest-data (2024-11-20 11:00 PM)
+            ☐ 4. Query the database and use Copilot https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-query-database (2024-11-20 11:00 PM)
+            ☐ 5. Query the SQL analytics endpoint https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-use-analytics-endpoint (2024-11-20 11:00 PM)
+            ☐ 6. Create and share visualizations https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-create-visualizations (2024-11-20 11:00 PM)
+            ☐ 7. Perform data analysis using notebooks https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-perform-data-analysis (2024-11-20 11:00 PM)
+            ☐ 8. Create an application with DevOps and GraphQL API https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-create-application (2024-11-20 11:00 PM)
+            ☐ 9. Clean up resources https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-clean-up (2024-11-20 11:00 PM)
+        Data recovery:
+            ☐ Backups https://learn.microsoft.com/en-us/fabric/database/sql/backup (2024-12-18 10:58 PM)
+            ☐ Restore https://learn.microsoft.com/en-us/fabric/database/sql/restore (2024-11-20 11:00 PM)
+        Develop:
+            ☐ SQL Query editor https://learn.microsoft.com/en-us/fabric/database/sql/query-editor (2024-11-20 11:00 PM)
+            ☐ Source control https://learn.microsoft.com/en-us/fabric/database/sql/source-control (2024-11-20 11:00 PM)
+            ☐ Deployment pipelines https://learn.microsoft.com/en-us/fabric/database/sql/deployment-pipelines (2024-11-20 11:00 PM)
+            ☐ SqlPackage https://learn.microsoft.com/en-us/fabric/database/sql/sqlpackage (2024-11-20 11:00 PM)
+            ☐ Deploy via REST API https://learn.microsoft.com/en-us/fabric/database/sql/deploy-rest-api (2024-11-20 11:00 PM)
+        Load data into a SQL database:
+            ☐ Load data with data pipelines https://learn.microsoft.com/en-us/fabric/database/sql/load-data-pipelines (2024-11-20 11:00 PM)
+            ☐ Load data with Fabric Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/database/sql/dataflows (2024-11-20 11:00 PM)
+        Mirroring to OneLake:
+            ☐ Mirroring to OneLake Overview https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-overview (2024-12-05 06:05 PM)
+            ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-limitations (2024-11-21 12:08 PM)
+            ☐ Monitor https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-monitor (2024-11-20 11:00 PM)
+            ☐ FAQ https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-faq (2024-11-20 11:00 PM)
+            ☐ Troubleshooting https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-troubleshooting (2024-11-20 11:00 PM)
+            ☐ Secure and share https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-secure (2024-11-20 11:00 PM)
+        Monitor:
+            ☐ Monitor https://learn.microsoft.com/en-us/fabric/database/sql/monitor (2024-11-20 11:00 PM)
+            ☐ Performance Dashboard https://learn.microsoft.com/en-us/fabric/database/sql/performance-dashboard (2024-11-20 11:00 PM)
+            ☐ Capacity usage reporting https://learn.microsoft.com/en-us/fabric/database/sql/usage-reporting (2024-11-20 11:00 PM)
+        Secure:
+            ☐ Overview https://learn.microsoft.com/en-us/fabric/database/sql/security-overview (2024-12-05 06:05 PM)
+            ☐ Authentication in SQL database https://learn.microsoft.com/en-us/fabric/database/sql/authentication (2024-11-21 12:08 PM)
+            ☐ Access control in SQL database https://learn.microsoft.com/en-us/fabric/database/sql/authorization (2024-11-21 12:08 PM)
+            ☐ Share your SQL database and manage item permissions https://learn.microsoft.com/en-us/fabric/database/sql/share-sql-manage-permission (2024-11-20 11:00 PM)
+            ☐ Configure granular access control for a SQL database https://learn.microsoft.com/en-us/fabric/database/sql/configure-sql-access-controls (2024-11-21 12:08 PM)
+            ☐ Protect sensitive data with Microsoft Purview protection policies https://learn.microsoft.com/en-us/fabric/database/sql/protect-databases-with-protection-policies (2024-11-21 12:08 PM)
+        Troubleshoot:
+            ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/sql/limitations (2024-12-12 12:20 PM)
+        Reference:
+            ☐ T-SQL Reference for Fabric https://learn.microsoft.com/sql/t-sql/language-reference?view=fabric&preserve-view=true (2024-11-22 07:03 PM)
+    Resources:
+        ☐ Contribute to Fabric docs https://learn.microsoft.com/contribute/ (2024-04-22 06:38 PM)
+        Help:
+            ☐ Microsoft Q & A >> https://learn.microsoft.com/answers/ (2024-06-05 01:05 AM)
+            ☐ Submit feedback >> https://feedback.azure.com/
+        ☐ Ideas https://ideas.fabric.microsoft.com/
+        ☐ Community https://community.fabric.microsoft.com/
+        ☐ Service updates https://azure.microsoft.com/updates/
+        ☐ Azure Status https://azure.status.microsoft/
+        Learn:
+            ☐ Microsoft Learn training >> https://learn.microsoft.com/training/ (2024-11-13 02:55 AM)
 

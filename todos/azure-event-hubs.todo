@@ -1,222 +1,223 @@
-☐ Event Hubs Documentation https://learn.microsoft.com/en-us/azure/event-hubs/
-Overview:
-    ☐ What is Event Hubs? https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about
-    ☐ Apache Kafka on Azure Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/azure-event-hubs-apache-kafka-overview
-    ☐ Schema Registry https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-overview
-    ☐ Terminology https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-features
-    ☐ Quotas https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quotas
-    ☐ Compare messaging services https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services
-Quickstarts:
-    Create an event hub or Kafka topic:
-        ☐ Azure portal https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-create
-        ☐ Azure CLI https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-cli
-        ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-powershell
-        ☐ Bicep https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-bicep-namespace-event-hub
-        ☐ ARM template https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-resource-manager-namespace-event-hub
-    Send and receive events:
-        Event Hubs SDKs (AMQP):
-            ☐ .NET https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send
-            ☐ Java https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-java-get-started-send
-            ☐ Python https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-python-get-started-send
-            ☐ JavaScript https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-node-get-started-send
-            ☐ Spring https://learn.microsoft.com/azure/developer/java/spring-framework/configure-spring-cloud-stream-binder-java-app-azure-event-hub?toc=/azure/event-hubs/TOC.json
-            ☐ Go https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-go-get-started-send
-            ☐ C (send only) https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-c-getstarted-send
-            ☐ Apache Storm (receive only) https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-storm-getstarted-receive
-        Apache Kafka:
-            ☐ Java https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-kafka-enabled-event-hubs
-        ☐ Stream large messages https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-stream-large-messages
-    Capture events:
-        ☐ Use the Azure portal to enable Event Hubs Capture https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-enable-through-portal
-        ☐ Use a Resource Manager template to enable Event Hubs Capture https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-resource-manager-namespace-event-hub-enable-capture
-        ☐ Read captured data using Python https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-python
-    Use Schema Registry:
-        ☐ Create a schema - Azure portal https://learn.microsoft.com/en-us/azure/event-hubs/create-schema-registry
-        ☐ Validate schemas for Kafka applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-kafka-java-send-receive-quickstart
-        ☐ Validate schemas for Event Hubs SDK based applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart
-    ☐ Create a dedicated cluster https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dedicated-cluster-create-portal
-Tutorials:
-    ☐ Analyze fraudulent call data with Stream Analytics https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-real-time-fraud-detection?toc=/azure/event-hubs/TOC.json
-    ☐ Capture Event Hubs data in Parquet format https://learn.microsoft.com/en-us/azure/stream-analytics/event-hubs-parquet-capture-tutorial?toc=/azure/event-hubs/TOC.json
-    ☐ Build real-time dashboards with Power BI https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-power-bi-tutorial
-    ☐ Process Apache Kafka for Event Hubs events using Stream analytics https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-stream-analytics
-    ☐ Stream data into Azure Databricks using Event Hubs https://learn.microsoft.com/azure/databricks/scenarios/databricks-stream-from-eventhubs
-    ☐ Use Event Hubs Data Explorer to run data operations on Azure Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-data-explorer
-Samples:
-    ☐ Code samples https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-samples
-Concepts:
-    Event Hubs Capture:
-        ☐ Capture event data in Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-overview
-        ☐ Authentication modes for capture destination https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-managed-identity
-        ☐ Explore captured Avro files https://learn.microsoft.com/en-us/azure/event-hubs/explore-captured-avro-files
-    ☐ Log compaction https://learn.microsoft.com/en-us/azure/event-hubs/log-compaction
-    ☐ Application groups https://learn.microsoft.com/en-us/azure/event-hubs/resource-governance-overview
-    Local emulator:
-        ☐ Overview of Event Hubs emulator https://learn.microsoft.com/en-us/azure/event-hubs/overview-emulator
-        ☐ What's new with Event Hubs emulator https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-emulator-whats-new
-    Tiers:
-        ☐ Premium tier https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-premium-overview
-        ☐ Dedicated tier https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dedicated-overview
-        ☐ Compare tiers https://learn.microsoft.com/en-us/azure/event-hubs/compare-tiers
-    Schema Registry:
-        ☐ Schema Registry concepts https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts
-        ☐ Client-side schema enforcement https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement
-    Event processing:
-        ☐ Event processor https://learn.microsoft.com/en-us/azure/event-hubs/event-processor-balance-partition-load
-        ☐ Event processing with no code editor https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-stream-processing?toc=/azure/event-hubs/toc.json
-    Federation:
-        ☐ Multi-site and multi-region federation https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-federation-overview
-        ☐ Event replication tasks and applications https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-federation-replicator-functions
-        ☐ Event replication task patterns https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-federation-patterns
-        ☐ Configured replication tasks https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-federation-configuration
-        ☐ Replicate events between Event Hubs https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/EventHubCopy
-        ☐ Send events to Azure Service Bus https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/EventHubCopyToServiceBus
-        ☐ Acquire events from Azure Service Bus https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/ServiceBusCopyToEventHub
-    Reliability:
-        ☐ Availability zones and disaster recovery https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs?toc=/azure/event-hubs/toc.json
-        ☐ Geo-replication https://learn.microsoft.com/en-us/azure/event-hubs/geo-replication
-        ☐ Metadata only geo-disaster recovery https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-geo-dr
-    Security:
-        Authentication and authorization:
-            ☐ Authenticate and authorize access to Event Hubs resources https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-event-hubs
-            Use Shared Access Signature (SAS):
-                ☐ Authenticate with a shared access signature https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-shared-access-signature
-                ☐ Authorize access with a shared access signature https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-shared-access-signature
-            Use Microsoft Entra ID:
-                ☐ Authenticate with a managed identity https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-managed-identity
-                ☐ Authenticate from an application https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-application
-                ☐ Authorize access with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-azure-active-directory
-        ☐ Network security https://learn.microsoft.com/en-us/azure/event-hubs/network-security
-        ☐ Network security perimeter https://learn.microsoft.com/en-us/azure/event-hubs/network-security-perimeter
-        ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/event-hubs/security-controls-policy
-        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/event-hubs-security-baseline?toc=/azure/event-hubs/TOC.json
-        ☐ Enforce minimum required TLS version https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-enforce-minimum-version
-    ☐ Availability and consistency https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-availability-and-consistency
-    ☐ Scalability https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability
-    AMQP:
-        ☐ AMQP 1.0 protocol guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-protocol-guide
-        ☐ AMQP errors https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-amqp-troubleshoot
-How-to guides:
-    Develop:
-        ☐ Get Event Hubs connection string https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-get-connection-string
-        ☐ Connect to an event hub (.NET) https://learn.microsoft.com/en-us/azure/event-hubs/connect-event-hub
-        ☐ Configure processing units for a premium namespace https://learn.microsoft.com/en-us/azure/event-hubs/configure-processing-units-premium-namespace
-        ☐ Add custom data to events https://learn.microsoft.com/en-us/azure/event-hubs/add-custom-data-event
-        ☐ Dynamically add partitions https://learn.microsoft.com/en-us/azure/event-hubs/dynamically-add-partitions
-        ☐ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management?toc=/azure/event-hubs/toc.json
-        ☐ Exchange events between applications using different protocols https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-exchange-events-different-protocols
-        ☐ Test locally with Event Hubs emulator https://learn.microsoft.com/en-us/azure/event-hubs/test-locally-with-event-hub-emulator
-        Programming language samples:
-            ☐ .NET samples in GitHub https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/eventhub/Azure.Messaging.EventHubs/README.md
-            ☐ Java samples in GitHub (azure-messaging-eventhubs) https://github.com/Azure/azure-sdk-for-java/blob/master/sdk/eventhubs/azure-messaging-eventhubs/README.md
-            ☐ Python samples in GitHub (azure-eventhub) https://github.com/Azure/azure-sdk-for-python/blob/master/sdk/eventhub/azure-eventhub/README.md
-            ☐ JavaScript in GitHub (azure/event-hubs) https://github.com/Azure/azure-sdk-for-js/blob/master/sdk/eventhub/event-hubs/README.md
-    Use Kafka on Azure Event Hubs:
-        ☐ Kafka developer guide for Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-developer-guide
-        ☐ Kafka migration guide for Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-migration-guide
-        ☐ Kafka troubleshooting guide for Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-troubleshooting-guide
-        ☐ Transactions in Apache Kafka for Azure Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-transactions
-        ☐ Kafka Streams for Azure Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-streams
-        Replicate data from a Kafka cluster to Event Hubs:
-            ☐ Using Apache Kafka Mirror Maker 2 https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-mirrormaker-2-tutorial
-            ☐ Using Apache Kafka Mirror Maker 1 https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-mirror-maker-tutorial
-        Kafka Connect with Event Hubs:
-            ☐ Integrate Apache Kafka Connect https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-connect-tutorial
-            ☐ Connect Apache Spark to an event hub https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-spark-tutorial
-            ☐ Connect Apache Flink to an event hub https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-flink-tutorial
-            ☐ Integrate Apache Kafka Connect with Debezium https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-connect-debezium
-            ☐ Connect Akka Streams to an event hub https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-akka-streams-tutorial
-        ☐ FAQ - Event Hubs for Kafka https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-frequently-asked-questions
-    ☐ Use log compaction https://learn.microsoft.com/en-us/azure/event-hubs/use-log-compaction
-    Use Schema Registry:
-        Client-side schema enforcement:
-            Using Avro schema:
-                ☐ Avro schema with Event Hubs SDK(AMQP) https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart
-            Using JSON Schema:
-                ☐ JSON Schema with Apache Kafka applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-json-schema-kafka
-    Process data:
-        ☐ Build real-time dashboard with Power BI dataset https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-build-power-bi-dashboard?toc=/azure/event-hubs/toc.json
-        ☐ Capture Event Hubs data in Delta Lake format https://learn.microsoft.com/en-us/azure/stream-analytics/capture-event-hub-data-delta-lake?toc=/azure/event-hubs/toc.json
-        ☐ Capture Event Hubs data in Parquet format https://learn.microsoft.com/en-us/azure/stream-analytics/capture-event-hub-data-parquet?toc=/azure/event-hubs/toc.json
-        ☐ Materialize data to Azure Cosmos DB https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-materialize-cosmos-db?toc=/azure/event-hubs/toc.json
-        ☐ Filter and ingest Synapse SQL data https://learn.microsoft.com/en-us/azure/stream-analytics/filter-ingest-synapse-sql?toc=/azure/event-hubs/toc.json
-        ☐ Filter and ingest to Data Lake Storage Gen2 https://learn.microsoft.com/en-us/azure/stream-analytics/filter-ingest-data-lake-storage-gen2?toc=/azure/event-hubs/toc.json
-        ☐ Enrich data and ingest to event hub https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-enrich-event-hub-data?toc=/azure/event-hubs/toc.json
-        ☐ Transform and ingest to SQL database https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-transform-filter-ingest-sql?toc=/azure/event-hubs/toc.json
-        ☐ Filter and ingest to Azure Data Explorer https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-filter-ingest-data-explorer?toc=/azure/event-hubs/toc.json
-        ☐ Process data using Azure Stream Analytics https://learn.microsoft.com/en-us/azure/event-hubs/process-data-azure-stream-analytics
-    Integrate with Spring framework:
-        ☐ Create a Spring Cloud Stream Binder app https://learn.microsoft.com/java/azure/spring-framework/configure-spring-cloud-stream-binder-java-app-azure-event-hub
-        ☐ Use the Spring Boot Starter for Apache Kafka https://learn.microsoft.com/java/azure/spring-framework/configure-spring-cloud-stream-binder-java-app-kafka-azure-event-hub
-    Manage:
-        ☐ Manage Application Groups https://learn.microsoft.com/en-us/azure/event-hubs/resource-governance-with-app-groups
-        ☐ Configure properties for an event hub https://learn.microsoft.com/en-us/azure/event-hubs/configure-event-hub-properties
-        ☐ Automatically scale throughput units https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-auto-inflate
-        ☐ Event Hubs management libraries https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-management-libraries
-        ☐ Use geo-replication https://learn.microsoft.com/en-us/azure/event-hubs/use-geo-replication
-    Monitor:
-        ☐ Monitor Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/monitor-event-hubs
-        ☐ Stream Azure Diagnostics data using Event Hubs https://learn.microsoft.com/azure/azure-monitor/agents/diagnostics-extension-stream-event-hubs
-    Secure:
-        ☐ Allow access from specific IP addresses https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-ip-filtering
-        ☐ Allow access from specific virtual networks https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-service-endpoints
-        ☐ Allow access via private endpoints https://learn.microsoft.com/en-us/azure/event-hubs/private-link-service
-        ☐ Encrypt data using customer-managed keys https://learn.microsoft.com/en-us/azure/event-hubs/configure-customer-managed-key
-        ☐ Configure minimum required TLS version https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-configure-minimum-version
-        ☐ Audit minimum required TLS version https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-audit-minimum-version
-        ☐ Configure TLS version for client https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-configure-client-version
-        ☐ Migrate to passwordless connections https://learn.microsoft.com/en-us/azure/event-hubs/passwordless-migration-event-hubs
-    Troubleshoot:
-        ☐ Troubleshoot connectivity issues https://learn.microsoft.com/en-us/azure/event-hubs/troubleshooting-guide
-        ☐ Troubleshoot authentication and authorization issues https://learn.microsoft.com/en-us/azure/event-hubs/troubleshoot-authentication-authorization
-        ☐ Troubleshoot checkpoint store issues https://learn.microsoft.com/en-us/azure/event-hubs/troubleshoot-checkpoint-store-issues
-        ☐ Kafka troubleshooting guide for Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-troubleshooting-guide
-        ☐ EventHubsException https://learn.microsoft.com/en-us/azure/event-hubs/exceptions-dotnet
-        ☐ .NET exceptions https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-messaging-exceptions
-        ☐ Resource Manager exceptions https://learn.microsoft.com/en-us/azure/event-hubs/resource-manager-exceptions
-    Move:
-        ☐ Move a namespace to another region https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-event-hub?toc=/azure/event-hubs/TOC.json
-        ☐ Move a dedicated cluster to another region https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-event-hub-cluster?toc=/azure/event-hubs/TOC.json
-Reference:
-    ☐ Monitor data reference https://learn.microsoft.com/en-us/azure/event-hubs/monitor-event-hubs-reference
-    ☐ SDKs https://learn.microsoft.com/en-us/azure/event-hubs/sdks
-    .NET:
-        Client library:
-            ☐ Migrate from Microsoft.Azure.Event Hubs to Azure.Messaging.EventHubs https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/eventhub/Azure.Messaging.EventHubs/MigrationGuide.md
-            ☐ Azure.Messaging.EventHubs (latest) https://learn.microsoft.com/dotnet/api/azure.messaging.eventhubs
-            ☐ Microsoft.Azure.EventHubs (legacy) https://learn.microsoft.com/dotnet/api/microsoft.azure.eventhubs
-            ☐ Microsoft.ServiceBus.Messaging (legacy) https://learn.microsoft.com/dotnet/api/microsoft.servicebus.messaging
-        ☐ Management library https://learn.microsoft.com/dotnet/api/microsoft.azure.management.eventhub
-    Java:
-        Client library:
-            ☐ Migrate from azure-eventhubs to azure-messaging-eventhubs https://github.com/Azure/azure-sdk-for-java/blob/master/sdk/eventhubs/azure-messaging-eventhubs/migration-guide.md
-            ☐ azure-messaging-eventhubs (latest) https://learn.microsoft.com/java/api/overview/azure/messaging-eventhubs-readme
-            ☐ azure-eventhubs (legacy) https://learn.microsoft.com/java/api/overview/azure/eventhubs/client?view=azure-java-legacy&preserve-view=true
-        ☐ Management library https://learn.microsoft.com/java/api/com.microsoft.azure.management.eventhub
-    Spring:
-        ☐ Spring integration https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?tabs=maven#spring-integration-with-azure-event-hubs?toc=/azure/event-hubs/TOC.json
-        ☐ Spring Cloud Stream https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?tabs=maven#spring-cloud-stream-binder-for-azure-event-hubs?toc=/azure/event-hubs/TOC.json
-    Python:
-        ☐ Client library https://learn.microsoft.com/python/api/overview/azure/eventhub-readme
-        ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub
-    JavaScript:
-        ☐ Client library https://learn.microsoft.com/javascript/api/overview/azure/event-hubs-readme
-        ☐ Management library https://learn.microsoft.com/javascript/api/@azure/arm-eventhub/
-    Go:
-        ☐ Client library https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/messaging/azeventhubs?tab=doc
-        ☐ Management library https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/eventhub/armeventhub?tab=doc
-    ☐ Azure CLI https://learn.microsoft.com/cli/azure/eventhubs
-    ☐ REST https://learn.microsoft.com/rest/api/eventhub
-    ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.eventhub/allversions
-    ☐ Apache Kafka configurations https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-configurations
-    ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/event-hubs/policy-reference
-Resources:
-    ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-event-hubs
-    ☐ FAQ https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-faq
-    ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=iot
-    ☐ Pricing https://azure.microsoft.com/pricing/details/event-hubs/
-    ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
-    ☐ Service updates https://azure.microsoft.com/updates/?product=event-hubs
-    ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-eventhub
-    ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=event-hubs
+Azure Event Hubs documentation | Microsoft Learn:
+    ☐ Event Hubs Documentation https://learn.microsoft.com/en-us/azure/event-hubs/ (2024-12-18 11:02 PM)
+    Overview:
+        ☐ What is Event Hubs? https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about (2024-12-18 11:02 PM)
+        ☐ Apache Kafka on Azure Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/azure-event-hubs-apache-kafka-overview (2024-12-19 12:13 PM)
+        ☐ Schema Registry https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-overview (2024-12-02 11:02 PM)
+        ☐ Terminology https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-features (2024-12-18 11:02 PM)
+        ☐ Quotas https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quotas (2024-11-19 06:02 PM)
+        ☐ Compare messaging services https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services (2024-09-27 10:04 PM)
+    Quickstarts:
+        Create an event hub or Kafka topic:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-create (2024-12-18 11:02 PM)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-cli (2024-06-27 05:04 PM)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-powershell (2024-06-27 05:04 PM)
+            ☐ Bicep https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-bicep-namespace-event-hub (2024-06-27 05:04 PM)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-resource-manager-namespace-event-hub (2024-03-21 05:07 PM)
+        Send and receive events:
+            Event Hubs SDKs (AMQP):
+                ☐ .NET https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send (2024-12-11 11:02 PM)
+                ☐ Java https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-java-get-started-send (2024-02-18 12:14 PM)
+                ☐ Python https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-python-get-started-send (2024-09-30 10:04 PM)
+                ☐ JavaScript https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-node-get-started-send (2024-04-07 11:25 AM)
+                ☐ Spring https://learn.microsoft.com/azure/developer/java/spring-framework/configure-spring-cloud-stream-binder-java-app-azure-event-hub?toc=/azure/event-hubs/TOC.json (2024-12-18 06:02 PM)
+                ☐ Go https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-go-get-started-send (2024-10-18 05:04 PM)
+                ☐ C (send only) https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-c-getstarted-send (2024-02-18 12:14 PM)
+                ☐ Apache Storm (receive only) https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-storm-getstarted-receive (2023-07-30 11:14 AM)
+            Apache Kafka:
+                ☐ Java https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-kafka-enabled-event-hubs (2024-12-18 11:02 PM)
+            ☐ Stream large messages https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quickstart-stream-large-messages (2024-06-11 05:45 PM)
+        Capture events:
+            ☐ Use the Azure portal to enable Event Hubs Capture https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-enable-through-portal (2024-12-12 11:04 PM)
+            ☐ Use a Resource Manager template to enable Event Hubs Capture https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-resource-manager-namespace-event-hub-enable-capture (2024-12-09 06:04 PM)
+            ☐ Read captured data using Python https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-python (2024-02-07 11:03 PM)
+        Use Schema Registry:
+            ☐ Create a schema - Azure portal https://learn.microsoft.com/en-us/azure/event-hubs/create-schema-registry (2024-06-12 05:46 AM)
+            ☐ Validate schemas for Kafka applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-kafka-java-send-receive-quickstart (2024-01-24 11:04 PM)
+            ☐ Validate schemas for Event Hubs SDK based applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart (2024-01-24 11:04 PM)
+        ☐ Create a dedicated cluster https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dedicated-cluster-create-portal (2024-12-18 11:02 PM)
+    Tutorials:
+        ☐ Analyze fraudulent call data with Stream Analytics https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-real-time-fraud-detection?toc=/azure/event-hubs/TOC.json (2024-10-02 11:12 AM)
+        ☐ Capture Event Hubs data in Parquet format https://learn.microsoft.com/en-us/azure/stream-analytics/event-hubs-parquet-capture-tutorial?toc=/azure/event-hubs/TOC.json (2024-12-18 12:12 PM)
+        ☐ Build real-time dashboards with Power BI https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-power-bi-tutorial (2024-12-16 11:03 PM)
+        ☐ Process Apache Kafka for Event Hubs events using Stream analytics https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-stream-analytics (2021-12-17 11:08 PM)
+        ☐ Stream data into Azure Databricks using Event Hubs https://learn.microsoft.com/azure/databricks/scenarios/databricks-stream-from-eventhubs (2024-11-22 10:04 PM)
+        ☐ Use Event Hubs Data Explorer to run data operations on Azure Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-data-explorer (2024-12-09 06:04 PM)
+    Samples:
+        ☐ Code samples https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-samples (2024-04-19 10:12 PM)
+    Concepts:
+        Event Hubs Capture:
+            ☐ Capture event data in Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-overview (2024-06-27 10:45 PM)
+            ☐ Authentication modes for capture destination https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-managed-identity (2024-08-06 11:20 AM)
+            ☐ Explore captured Avro files https://learn.microsoft.com/en-us/azure/event-hubs/explore-captured-avro-files (2024-08-01 10:22 PM)
+        ☐ Log compaction https://learn.microsoft.com/en-us/azure/event-hubs/log-compaction (2024-05-22 10:11 PM)
+        ☐ Application groups https://learn.microsoft.com/en-us/azure/event-hubs/resource-governance-overview (2024-02-05 11:27 PM)
+        Local emulator:
+            ☐ Overview of Event Hubs emulator https://learn.microsoft.com/en-us/azure/event-hubs/overview-emulator (2024-11-19 06:02 PM)
+            ☐ What's new with Event Hubs emulator https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-emulator-whats-new (2024-11-19 06:02 PM)
+        Tiers:
+            ☐ Premium tier https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-premium-overview (2024-12-11 05:32 AM)
+            ☐ Dedicated tier https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dedicated-overview (2024-11-22 05:58 AM)
+            ☐ Compare tiers https://learn.microsoft.com/en-us/azure/event-hubs/compare-tiers (2024-06-11 05:45 PM)
+        Schema Registry:
+            ☐ Schema Registry concepts https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts (2024-12-11 11:02 PM)
+            ☐ Client-side schema enforcement https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement (2024-01-24 11:04 PM)
+        Event processing:
+            ☐ Event processor https://learn.microsoft.com/en-us/azure/event-hubs/event-processor-balance-partition-load (2024-11-07 06:01 PM)
+            ☐ Event processing with no code editor https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-stream-processing?toc=/azure/event-hubs/toc.json (2024-12-16 11:03 PM)
+        Federation:
+            ☐ Multi-site and multi-region federation https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-federation-overview (2024-09-11 06:38 PM)
+            ☐ Event replication tasks and applications https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-federation-replicator-functions (2024-06-17 10:05 PM)
+            ☐ Event replication task patterns https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-federation-patterns (2024-05-24 11:18 AM)
+            ☐ Configured replication tasks https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-federation-configuration (2024-06-17 10:05 PM)
+            ☐ Replicate events between Event Hubs https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/EventHubCopy
+            ☐ Send events to Azure Service Bus https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/EventHubCopyToServiceBus
+            ☐ Acquire events from Azure Service Bus https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/ServiceBusCopyToEventHub
+        Reliability:
+            ☐ Availability zones and disaster recovery https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs?toc=/azure/event-hubs/toc.json (2024-11-20 11:04 PM)
+            ☐ Geo-replication https://learn.microsoft.com/en-us/azure/event-hubs/geo-replication (2024-12-09 06:04 PM)
+            ☐ Metadata only geo-disaster recovery https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-geo-dr (2024-07-30 05:42 AM)
+        Security:
+            Authentication and authorization:
+                ☐ Authenticate and authorize access to Event Hubs resources https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-event-hubs (2024-12-18 11:02 PM)
+                Use Shared Access Signature (SAS):
+                    ☐ Authenticate with a shared access signature https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-shared-access-signature (2024-06-27 05:38 AM)
+                    ☐ Authorize access with a shared access signature https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-shared-access-signature (2024-06-27 05:38 AM)
+                Use Microsoft Entra ID:
+                    ☐ Authenticate with a managed identity https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-managed-identity (2024-06-27 05:38 AM)
+                    ☐ Authenticate from an application https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-application (2024-06-27 05:38 AM)
+                    ☐ Authorize access with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-azure-active-directory (2024-12-18 11:02 PM)
+            ☐ Network security https://learn.microsoft.com/en-us/azure/event-hubs/network-security (2024-02-02 11:08 PM)
+            ☐ Network security perimeter https://learn.microsoft.com/en-us/azure/event-hubs/network-security-perimeter (2024-11-21 05:37 AM)
+            ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/event-hubs/security-controls-policy (2024-08-02 10:04 PM)
+            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/event-hubs-security-baseline?toc=/azure/event-hubs/TOC.json (2024-08-05 07:13 PM)
+            ☐ Enforce minimum required TLS version https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-enforce-minimum-version (2024-10-29 05:03 PM)
+        ☐ Availability and consistency https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-availability-and-consistency (2024-11-22 05:58 AM)
+        ☐ Scalability https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability (2024-12-12 11:04 PM)
+        AMQP:
+            ☐ AMQP 1.0 protocol guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-protocol-guide (2024-11-19 06:02 PM)
+            ☐ AMQP errors https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-amqp-troubleshoot (2021-09-20 10:02 PM)
+    How-to guides:
+        Develop:
+            ☐ Get Event Hubs connection string https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-get-connection-string (2024-11-19 06:02 PM)
+            ☐ Connect to an event hub (.NET) https://learn.microsoft.com/en-us/azure/event-hubs/connect-event-hub (2023-10-11 11:19 AM)
+            ☐ Configure processing units for a premium namespace https://learn.microsoft.com/en-us/azure/event-hubs/configure-processing-units-premium-namespace (2024-11-19 06:02 PM)
+            ☐ Add custom data to events https://learn.microsoft.com/en-us/azure/event-hubs/add-custom-data-event (2023-06-01 10:06 PM)
+            ☐ Dynamically add partitions https://learn.microsoft.com/en-us/azure/event-hubs/dynamically-add-partitions (2024-12-18 11:02 PM)
+            ☐ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management?toc=/azure/event-hubs/toc.json (2024-12-17 06:04 PM)
+            ☐ Exchange events between applications using different protocols https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-exchange-events-different-protocols (2024-12-18 11:02 PM)
+            ☐ Test locally with Event Hubs emulator https://learn.microsoft.com/en-us/azure/event-hubs/test-locally-with-event-hub-emulator (2024-12-09 06:04 PM)
+            Programming language samples:
+                ☐ .NET samples in GitHub https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/eventhub/Azure.Messaging.EventHubs/README.md
+                ☐ Java samples in GitHub (azure-messaging-eventhubs) https://github.com/Azure/azure-sdk-for-java/blob/master/sdk/eventhubs/azure-messaging-eventhubs/README.md
+                ☐ Python samples in GitHub (azure-eventhub) https://github.com/Azure/azure-sdk-for-python/blob/master/sdk/eventhub/azure-eventhub/README.md
+                ☐ JavaScript in GitHub (azure/event-hubs) https://github.com/Azure/azure-sdk-for-js/blob/master/sdk/eventhub/event-hubs/README.md
+        Use Kafka on Azure Event Hubs:
+            ☐ Kafka developer guide for Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-developer-guide (2024-12-18 11:02 PM)
+            ☐ Kafka migration guide for Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-migration-guide (2024-12-18 11:02 PM)
+            ☐ Kafka troubleshooting guide for Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-troubleshooting-guide (2024-08-22 05:04 PM)
+            ☐ Transactions in Apache Kafka for Azure Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-transactions (2024-12-18 11:02 PM)
+            ☐ Kafka Streams for Azure Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-streams (2024-12-18 11:02 PM)
+            Replicate data from a Kafka cluster to Event Hubs:
+                ☐ Using Apache Kafka Mirror Maker 2 https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-mirrormaker-2-tutorial (2024-12-18 11:02 PM)
+                ☐ Using Apache Kafka Mirror Maker 1 https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-mirror-maker-tutorial (2024-12-18 11:02 PM)
+            Kafka Connect with Event Hubs:
+                ☐ Integrate Apache Kafka Connect https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-connect-tutorial (2024-12-19 06:04 PM)
+                ☐ Connect Apache Spark to an event hub https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-spark-tutorial (2024-01-17 11:12 PM)
+                ☐ Connect Apache Flink to an event hub https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-flink-tutorial (2024-12-18 11:02 PM)
+                ☐ Integrate Apache Kafka Connect with Debezium https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-connect-debezium (2024-12-19 06:04 PM)
+                ☐ Connect Akka Streams to an event hub https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-kafka-akka-streams-tutorial (2024-12-18 11:02 PM)
+            ☐ FAQ - Event Hubs for Kafka https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-frequently-asked-questions (2024-12-18 11:02 PM)
+        ☐ Use log compaction https://learn.microsoft.com/en-us/azure/event-hubs/use-log-compaction (2023-08-03 09:55 PM)
+        Use Schema Registry:
+            Client-side schema enforcement:
+                Using Avro schema:
+                    ☐ Avro schema with Event Hubs SDK(AMQP) https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart (2024-01-24 11:04 PM)
+                Using JSON Schema:
+                    ☐ JSON Schema with Apache Kafka applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-json-schema-kafka (2024-05-21 05:56 PM)
+        Process data:
+            ☐ Build real-time dashboard with Power BI dataset https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-build-power-bi-dashboard?toc=/azure/event-hubs/toc.json (2024-08-09 11:21 AM)
+            ☐ Capture Event Hubs data in Delta Lake format https://learn.microsoft.com/en-us/azure/stream-analytics/capture-event-hub-data-delta-lake?toc=/azure/event-hubs/toc.json (2024-08-09 11:21 AM)
+            ☐ Capture Event Hubs data in Parquet format https://learn.microsoft.com/en-us/azure/stream-analytics/capture-event-hub-data-parquet?toc=/azure/event-hubs/toc.json (2024-08-09 11:21 AM)
+            ☐ Materialize data to Azure Cosmos DB https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-materialize-cosmos-db?toc=/azure/event-hubs/toc.json (2024-08-09 11:21 AM)
+            ☐ Filter and ingest Synapse SQL data https://learn.microsoft.com/en-us/azure/stream-analytics/filter-ingest-synapse-sql?toc=/azure/event-hubs/toc.json (2024-08-09 11:21 AM)
+            ☐ Filter and ingest to Data Lake Storage Gen2 https://learn.microsoft.com/en-us/azure/stream-analytics/filter-ingest-data-lake-storage-gen2?toc=/azure/event-hubs/toc.json (2024-08-09 11:21 AM)
+            ☐ Enrich data and ingest to event hub https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-enrich-event-hub-data?toc=/azure/event-hubs/toc.json (2024-08-09 11:21 AM)
+            ☐ Transform and ingest to SQL database https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-transform-filter-ingest-sql?toc=/azure/event-hubs/toc.json (2024-08-09 11:21 AM)
+            ☐ Filter and ingest to Azure Data Explorer https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-filter-ingest-data-explorer?toc=/azure/event-hubs/toc.json (2024-08-09 11:21 AM)
+            ☐ Process data using Azure Stream Analytics https://learn.microsoft.com/en-us/azure/event-hubs/process-data-azure-stream-analytics (2024-08-09 11:21 AM)
+        Integrate with Spring framework:
+            ☐ Create a Spring Cloud Stream Binder app https://learn.microsoft.com/java/azure/spring-framework/configure-spring-cloud-stream-binder-java-app-azure-event-hub (2024-12-18 06:02 PM)
+            ☐ Use the Spring Boot Starter for Apache Kafka https://learn.microsoft.com/java/azure/spring-framework/configure-spring-cloud-stream-binder-java-app-kafka-azure-event-hub (2024-12-18 06:02 PM)
+        Manage:
+            ☐ Manage Application Groups https://learn.microsoft.com/en-us/azure/event-hubs/resource-governance-with-app-groups (2024-12-09 06:04 PM)
+            ☐ Configure properties for an event hub https://learn.microsoft.com/en-us/azure/event-hubs/configure-event-hub-properties (2023-07-19 10:24 PM)
+            ☐ Automatically scale throughput units https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-auto-inflate (2024-11-19 06:02 PM)
+            ☐ Event Hubs management libraries https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-management-libraries (2023-10-11 11:19 AM)
+            ☐ Use geo-replication https://learn.microsoft.com/en-us/azure/event-hubs/use-geo-replication (2024-12-09 06:04 PM)
+        Monitor:
+            ☐ Monitor Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/monitor-event-hubs (2024-09-11 06:38 PM)
+            ☐ Stream Azure Diagnostics data using Event Hubs https://learn.microsoft.com/azure/azure-monitor/agents/diagnostics-extension-stream-event-hubs (2024-11-14 11:04 PM)
+        Secure:
+            ☐ Allow access from specific IP addresses https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-ip-filtering (2024-02-02 11:08 PM)
+            ☐ Allow access from specific virtual networks https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-service-endpoints (2023-12-04 11:04 PM)
+            ☐ Allow access via private endpoints https://learn.microsoft.com/en-us/azure/event-hubs/private-link-service (2024-08-22 07:16 PM)
+            ☐ Encrypt data using customer-managed keys https://learn.microsoft.com/en-us/azure/event-hubs/configure-customer-managed-key (2024-09-11 06:38 PM)
+            ☐ Configure minimum required TLS version https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-configure-minimum-version (2024-08-02 10:04 PM)
+            ☐ Audit minimum required TLS version https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-audit-minimum-version (2024-10-29 05:03 PM)
+            ☐ Configure TLS version for client https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-configure-client-version (2024-08-02 10:04 PM)
+            ☐ Migrate to passwordless connections https://learn.microsoft.com/en-us/azure/event-hubs/passwordless-migration-event-hubs (2024-08-02 10:04 PM)
+        Troubleshoot:
+            ☐ Troubleshoot connectivity issues https://learn.microsoft.com/en-us/azure/event-hubs/troubleshooting-guide (2024-07-30 05:42 AM)
+            ☐ Troubleshoot authentication and authorization issues https://learn.microsoft.com/en-us/azure/event-hubs/troubleshoot-authentication-authorization (2023-10-11 11:19 AM)
+            ☐ Troubleshoot checkpoint store issues https://learn.microsoft.com/en-us/azure/event-hubs/troubleshoot-checkpoint-store-issues (2023-06-16 11:48 PM)
+            ☐ Kafka troubleshooting guide for Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-troubleshooting-guide (2024-08-22 05:04 PM)
+            ☐ EventHubsException https://learn.microsoft.com/en-us/azure/event-hubs/exceptions-dotnet (2024-08-02 10:04 PM)
+            ☐ .NET exceptions https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-messaging-exceptions (2024-06-17 10:05 PM)
+            ☐ Resource Manager exceptions https://learn.microsoft.com/en-us/azure/event-hubs/resource-manager-exceptions (2023-09-14 04:49 PM)
+        Move:
+            ☐ Move a namespace to another region https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-event-hub?toc=/azure/event-hubs/TOC.json (2024-08-01 10:05 PM)
+            ☐ Move a dedicated cluster to another region https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-event-hub-cluster?toc=/azure/event-hubs/TOC.json (2024-08-01 10:05 PM)
+    Reference:
+        ☐ Monitor data reference https://learn.microsoft.com/en-us/azure/event-hubs/monitor-event-hubs-reference (2024-10-28 06:09 PM)
+        ☐ SDKs https://learn.microsoft.com/en-us/azure/event-hubs/sdks (2024-06-17 10:05 PM)
+        .NET:
+            Client library:
+                ☐ Migrate from Microsoft.Azure.Event Hubs to Azure.Messaging.EventHubs https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/eventhub/Azure.Messaging.EventHubs/MigrationGuide.md
+                ☐ Azure.Messaging.EventHubs (latest) https://learn.microsoft.com/dotnet/api/azure.messaging.eventhubs (2019-07-09 11:12 PM)
+                ☐ Microsoft.Azure.EventHubs (legacy) https://learn.microsoft.com/dotnet/api/microsoft.azure.eventhubs (2018-06-16 12:36 AM)
+                ☐ Microsoft.ServiceBus.Messaging (legacy) https://learn.microsoft.com/dotnet/api/microsoft.servicebus.messaging (2018-06-16 12:36 AM)
+            ☐ Management library https://learn.microsoft.com/dotnet/api/microsoft.azure.management.eventhub (2018-06-16 12:36 AM)
+        Java:
+            Client library:
+                ☐ Migrate from azure-eventhubs to azure-messaging-eventhubs https://github.com/Azure/azure-sdk-for-java/blob/master/sdk/eventhubs/azure-messaging-eventhubs/migration-guide.md
+                ☐ azure-messaging-eventhubs (latest) https://learn.microsoft.com/java/api/overview/azure/messaging-eventhubs-readme (2024-12-05 12:05 PM)
+                ☐ azure-eventhubs (legacy) https://learn.microsoft.com/java/api/overview/azure/eventhubs/client?view=azure-java-legacy&preserve-view=true (2024-12-20 12:14 PM)
+            ☐ Management library https://learn.microsoft.com/java/api/com.microsoft.azure.management.eventhub (2024-06-12 11:12 AM)
+        Spring:
+            ☐ Spring integration https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?tabs=maven#spring-integration-with-azure-event-hubs?toc=/azure/event-hubs/TOC.json (2024-12-18 06:02 PM)
+            ☐ Spring Cloud Stream https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?tabs=maven#spring-cloud-stream-binder-for-azure-event-hubs?toc=/azure/event-hubs/TOC.json (2024-12-18 06:02 PM)
+        Python:
+            ☐ Client library https://learn.microsoft.com/python/api/overview/azure/eventhub-readme (2024-11-16 06:57 AM)
+            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2024-12-20 12:08 PM)
+        JavaScript:
+            ☐ Client library https://learn.microsoft.com/javascript/api/overview/azure/event-hubs-readme (2024-10-14 11:08 AM)
+            ☐ Management library https://learn.microsoft.com/javascript/api/@azure/arm-eventhub/ (2024-09-09 11:10 AM)
+        Go:
+            ☐ Client library https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/messaging/azeventhubs?tab=doc
+            ☐ Management library https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/eventhub/armeventhub?tab=doc
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/eventhubs (2024-11-19 11:00 PM)
+        ☐ REST https://learn.microsoft.com/rest/api/eventhub (2024-08-06 10:08 PM)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.eventhub/allversions (2024-12-03 10:14 PM)
+        ☐ Apache Kafka configurations https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-configurations (2024-12-13 11:03 PM)
+        ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/event-hubs/policy-reference (2024-02-06 06:05 PM)
+    Resources:
+        ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-event-hubs (2024-10-07 11:05 PM)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-faq (2024-12-18 11:02 PM)
+        ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=iot
+        ☐ Pricing https://azure.microsoft.com/pricing/details/event-hubs/
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Service updates https://azure.microsoft.com/updates/?product=event-hubs
+        ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-eventhub
+        ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=event-hubs
 

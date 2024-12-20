@@ -1,181 +1,182 @@
-☐ Data Warehousing documentation https://learn.microsoft.com/en-us/fabric/data-warehouse/
-☐ Overview https://learn.microsoft.com/en-us/fabric/data-warehouse/data-warehousing
-Get started with Warehouse:
-    ☐ Decision guide - choose a data store https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-data-store?toc=/fabric/data-warehouse/toc.json&bc=/fabric/data-warehouse/toc.json
-    ☐ Decision guide - Warehouse and Lakehouse https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-lakehouse-warehouse?toc=/fabric/data-warehouse/toc.json&bc=/fabric/data-warehouse/toc.json
-    ☐ 1. Create a warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/create-warehouse
-    ☐ 2. Create a table https://learn.microsoft.com/en-us/fabric/data-warehouse/create-table
-    ☐ 3. Ingest data https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-pipelines
-    ☐ 4. Query the warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/query-warehouse
-    ☐ 5. Create reports https://learn.microsoft.com/en-us/fabric/data-warehouse/create-reports
-Tutorials:
-    ☐ Data warehouse tutorial introduction https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction
-    ☐ 1. Create a workspace https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-create-workspace
-    ☐ 2. Create a warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-create-warehouse
-    ☐ 3. Ingest data into a warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-ingest-data
-    ☐ 4. Create tables https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-create-tables
-    ☐ 5. Load data using T-SQL https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-load-data
-    ☐ 6. Clone a table using T-SQL https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-clone-table
-    ☐ 7. Transform data using stored procedure https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-transform-data
-    ☐ 8. Time travel using T-SQL https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-time-travel
-    ☐ 9. Create queries with visual query builder https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-visual-query
-    ☐ 10. Analyze data with a notebook https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-analyze-data-notebook
-    ☐ 11. Create queries with the SQL query editor https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-sql-cross-warehouse-query-editor
-    ☐ 12. Create Power BI reports https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-power-bi-report
-    ☐ 13. Build a report from the OneLake https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-build-report-onelake-data-hub
-    ☐ 14. Clean up resources https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-clean-up
-Connect to the warehouse:
-    ☐ Connectivity https://learn.microsoft.com/en-us/fabric/data-warehouse/connectivity
-Copilot for Data Warehouse:
-    ☐ Overview of Copilot for Data Warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/copilot
-    ☐ Use the Copilot chat pane https://learn.microsoft.com/en-us/fabric/data-warehouse/copilot-chat-pane
-    ☐ Use code completions https://learn.microsoft.com/en-us/fabric/data-warehouse/copilot-code-completion
-    ☐ Use quick actions https://learn.microsoft.com/en-us/fabric/data-warehouse/copilot-quick-action
-Design and Develop:
-    ☐ Better together - the lakehouse and warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/get-started-lakehouse-sql-analytics-endpoint
-    ☐ Warehouse collation https://learn.microsoft.com/en-us/fabric/data-warehouse/collation
-    ☐ Create a sample warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/create-warehouse-sample
-    ☐ Warehouse performance https://learn.microsoft.com/en-us/fabric/data-warehouse/guidelines-warehouse-performance
-    ☐ SQL analytics endpoint performance https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-analytics-endpoint-performance
-    ☐ Tables https://learn.microsoft.com/en-us/fabric/data-warehouse/tables
-    ☐ Data types https://learn.microsoft.com/en-us/fabric/data-warehouse/data-types
-    ☐ T-SQL surface area https://learn.microsoft.com/en-us/fabric/data-warehouse/tsql-surface-area
-    ☐ Primary, foreign, and unique keys https://learn.microsoft.com/en-us/fabric/data-warehouse/table-constraints
-    ☐ Generate unique identifiers https://learn.microsoft.com/en-us/fabric/data-warehouse/generate-unique-identifiers
-    ☐ Transactions https://learn.microsoft.com/en-us/fabric/data-warehouse/transactions
-    ☐ Warehouse settings and context menus https://learn.microsoft.com/en-us/fabric/data-warehouse/settings-context-menus
-    ☐ Source control with Warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/source-control
-    ☐ Analyze with range bands https://learn.microsoft.com/en-us/fabric/data-warehouse/analyze-range-bands
-Dimensional modeling:
-    ☐ Overview https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-overview
-    ☐ Dimension tables https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-dimension-tables
-    ☐ Fact tables https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-fact-tables
-    ☐ Load tables https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-load-tables
-Load data into the warehouse:
-    ☐ Ingesting data into the warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data
-    ☐ Ingest data with data pipelines https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-pipelines
-    ☐ Ingest data with the COPY statement https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-copy
-    ☐ Ingest data with TSQL https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-tsql
-    ☐ Use dbt with data warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-setup-dbt
-Create models and build Power BI reports:
-    ☐ Semantic models https://learn.microsoft.com/en-us/fabric/data-warehouse/semantic-models
-    ☐ Model data in the default Power BI semantic model https://learn.microsoft.com/en-us/fabric/data-warehouse/default-power-bi-semantic-model
-    ☐ Define relationships in data models https://learn.microsoft.com/en-us/fabric/data-warehouse/data-modeling-defining-relationships
-    ☐ Create reports in the Power BI service https://learn.microsoft.com/en-us/fabric/data-warehouse/reports-power-bi-service
-Collaborate, share, and manage security:
-    ☐ Data warehousing security https://learn.microsoft.com/en-us/fabric/data-warehouse/security
-    ☐ Microsoft Entra ID authentication https://learn.microsoft.com/en-us/fabric/data-warehouse/entra-id-authentication
-    ☐ Workspace roles https://learn.microsoft.com/en-us/fabric/data-warehouse/workspace-roles
-    ☐ Manage SQL granular permissions https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-granular-permissions
-    ☐ Share your data https://learn.microsoft.com/en-us/fabric/data-warehouse/share-warehouse-manage-permissions
-    ☐ Column-level security https://learn.microsoft.com/en-us/fabric/data-warehouse/column-level-security
-    ☐ Row-level security https://learn.microsoft.com/en-us/fabric/data-warehouse/row-level-security
-    ☐ Dynamic data masking https://learn.microsoft.com/en-us/fabric/data-warehouse/dynamic-data-masking
-    How to:
-        ☐ Implement column-level security https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-column-level-security
-        ☐ Implement row-level security https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-row-level-security
-        ☐ Implement dynamic data masking https://learn.microsoft.com/en-us/fabric/data-warehouse/howto-dynamic-data-masking
-Query the warehouse:
-    ☐ Query using Visual Query editor https://learn.microsoft.com/en-us/fabric/data-warehouse/visual-query-editor
-    ☐ Query using SQL Query editor https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-query-editor
-    ☐ View data in the Data preview https://learn.microsoft.com/en-us/fabric/data-warehouse/data-preview
-    ☐ Query Delta Lake logs https://learn.microsoft.com/en-us/fabric/data-warehouse/query-delta-lake-logs
-    ☐ Query data as it existed in the past https://learn.microsoft.com/en-us/fabric/data-warehouse/time-travel
-    ☐ How to: Query using time travel https://learn.microsoft.com/en-us/fabric/data-warehouse/how-to-query-using-time-travel
-    ☐ Query data with a T-SQL notebook https://learn.microsoft.com/en-us/fabric/data-engineering/author-tsql-notebook?toc=/fabric/data-warehouse/toc.json&bc=/fabric/data-warehouse/toc.json
-Data recovery:
-    ☐ Restore in-place https://learn.microsoft.com/en-us/fabric/data-warehouse/restore-in-place
-    ☐ Restore in-place in the Fabric portal https://learn.microsoft.com/en-us/fabric/data-warehouse/restore-in-place-portal
-    ☐ Clone tables https://learn.microsoft.com/en-us/fabric/data-warehouse/clone-table
-    ☐ Clone tables in the Fabric portal https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-clone-table-portal
-Mirroring databases:
-    ☐ Mirroring overview https://learn.microsoft.com/en-us/fabric/database/mirrored-database/overview
-    How to:
-        ☐ Monitor mirrored databases https://learn.microsoft.com/en-us/fabric/database/mirrored-database/monitor
-        ☐ Share and manage permissions https://learn.microsoft.com/en-us/fabric/database/mirrored-database/share-and-manage-permissions
-    Explore mirrored data:
-        ☐ Explore your mirrored database https://learn.microsoft.com/en-us/fabric/database/mirrored-database/explore
-        ☐ Explore directly in OneLake https://learn.microsoft.com/en-us/fabric/database/mirrored-database/explore-data-directly
-        ☐ Explore with notebooks https://learn.microsoft.com/en-us/fabric/database/mirrored-database/explore-onelake-shortcut
-    Mirroring Azure SQL Database:
-        ☐ Mirrored database from Azure SQL Database https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database
-        ☐ Azure SQL Database tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database-tutorial
-        ☐ FAQ about mirrored Azure SQL Database https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database-mirroring-faq
-        ☐ Secure data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database-how-to-data-security
-        ☐ Troubleshoot https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database-troubleshoot
-        ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database-limitations
-    Mirroring Azure SQL Managed Instance:
-        ☐ Mirrored database from Azure SQL Managed Instance https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance
-        ☐ Azure SQL Managed Instance tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance-tutorial
-        ☐ FAQ about mirrored Azure SQL Managed Instance https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance-faq
-        ☐ Secure data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance-how-to-data-security
-        ☐ Troubleshoot https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance-troubleshoot
-        ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance-limitations
-    Mirroring Azure Cosmos DB:
-        ☐ Mirrored databases from Azure Cosmos DB https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db
-        ☐ Azure Cosmos DB tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-tutorial
-        ☐ FAQ about mirrored Azure Cosmos DB https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-faq
-        ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-limitations
-        ☐ Troubleshoot https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-troubleshooting
+Fabric Data Warehouse - Microsoft Fabric | Microsoft Learn:
+    ☐ Data Warehousing documentation https://learn.microsoft.com/en-us/fabric/data-warehouse/ (2024-11-21 10:59 PM)
+    ☐ Overview https://learn.microsoft.com/en-us/fabric/data-warehouse/data-warehousing (2024-11-21 10:59 PM)
+    Get started with Warehouse:
+        ☐ Decision guide - choose a data store https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-data-store?toc=/fabric/data-warehouse/toc.json&bc=/fabric/data-warehouse/toc.json (2024-12-19 10:56 PM)
+        ☐ Decision guide - Warehouse and Lakehouse https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-lakehouse-warehouse?toc=/fabric/data-warehouse/toc.json&bc=/fabric/data-warehouse/toc.json (2024-12-19 10:56 PM)
+        ☐ 1. Create a warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/create-warehouse (2024-09-24 09:59 PM)
+        ☐ 2. Create a table https://learn.microsoft.com/en-us/fabric/data-warehouse/create-table (2024-09-24 07:03 AM)
+        ☐ 3. Ingest data https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-pipelines (2024-09-24 07:03 AM)
+        ☐ 4. Query the warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/query-warehouse (2024-11-20 11:00 PM)
+        ☐ 5. Create reports https://learn.microsoft.com/en-us/fabric/data-warehouse/create-reports (2024-11-20 11:00 PM)
+    Tutorials:
+        ☐ Data warehouse tutorial introduction https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-introduction (2024-11-20 11:00 PM)
+        ☐ 1. Create a workspace https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-create-workspace (2024-11-20 11:00 PM)
+        ☐ 2. Create a warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-create-warehouse (2024-08-05 10:18 PM)
+        ☐ 3. Ingest data into a warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-ingest-data (2024-11-19 06:02 PM)
+        ☐ 4. Create tables https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-create-tables (2024-08-05 10:18 PM)
+        ☐ 5. Load data using T-SQL https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-load-data (2024-09-08 11:04 AM)
+        ☐ 6. Clone a table using T-SQL https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-clone-table (2024-09-24 07:03 AM)
+        ☐ 7. Transform data using stored procedure https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-transform-data (2024-09-24 07:03 AM)
+        ☐ 8. Time travel using T-SQL https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-time-travel (2024-09-24 07:03 AM)
+        ☐ 9. Create queries with visual query builder https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-visual-query (2024-09-24 07:03 AM)
+        ☐ 10. Analyze data with a notebook https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-analyze-data-notebook (2024-11-19 06:02 PM)
+        ☐ 11. Create queries with the SQL query editor https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-sql-cross-warehouse-query-editor (2024-09-24 07:03 AM)
+        ☐ 12. Create Power BI reports https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-power-bi-report (2024-11-19 06:02 PM)
+        ☐ 13. Build a report from the OneLake https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-build-report-onelake-data-hub (2024-11-20 12:11 PM)
+        ☐ 14. Clean up resources https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-clean-up (2024-07-18 09:58 PM)
+    Connect to the warehouse:
+        ☐ Connectivity https://learn.microsoft.com/en-us/fabric/data-warehouse/connectivity (2024-11-20 11:00 PM)
+    Copilot for Data Warehouse:
+        ☐ Overview of Copilot for Data Warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/copilot (2024-11-20 11:00 PM)
+        ☐ Use the Copilot chat pane https://learn.microsoft.com/en-us/fabric/data-warehouse/copilot-chat-pane (2024-12-02 11:01 PM)
+        ☐ Use code completions https://learn.microsoft.com/en-us/fabric/data-warehouse/copilot-code-completion (2024-11-20 11:00 PM)
+        ☐ Use quick actions https://learn.microsoft.com/en-us/fabric/data-warehouse/copilot-quick-action (2024-11-20 11:00 PM)
+    Design and Develop:
+        ☐ Better together - the lakehouse and warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/get-started-lakehouse-sql-analytics-endpoint (2024-12-19 10:56 PM)
+        ☐ Warehouse collation https://learn.microsoft.com/en-us/fabric/data-warehouse/collation (2024-12-02 11:01 PM)
+        ☐ Create a sample warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/create-warehouse-sample (2024-09-24 07:03 AM)
+        ☐ Warehouse performance https://learn.microsoft.com/en-us/fabric/data-warehouse/guidelines-warehouse-performance (2024-11-20 11:00 PM)
+        ☐ SQL analytics endpoint performance https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-analytics-endpoint-performance (2024-11-20 11:00 PM)
+        ☐ Tables https://learn.microsoft.com/en-us/fabric/data-warehouse/tables (2024-10-14 05:03 PM)
+        ☐ Data types https://learn.microsoft.com/en-us/fabric/data-warehouse/data-types (2024-12-02 11:01 PM)
+        ☐ T-SQL surface area https://learn.microsoft.com/en-us/fabric/data-warehouse/tsql-surface-area (2024-11-20 11:00 PM)
+        ☐ Primary, foreign, and unique keys https://learn.microsoft.com/en-us/fabric/data-warehouse/table-constraints (2024-11-20 11:00 PM)
+        ☐ Generate unique identifiers https://learn.microsoft.com/en-us/fabric/data-warehouse/generate-unique-identifiers (2024-11-19 06:02 PM)
+        ☐ Transactions https://learn.microsoft.com/en-us/fabric/data-warehouse/transactions (2024-07-18 09:58 PM)
+        ☐ Warehouse settings and context menus https://learn.microsoft.com/en-us/fabric/data-warehouse/settings-context-menus (2024-11-20 11:00 PM)
+        ☐ Source control with Warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/source-control (2024-07-19 11:07 AM)
+        ☐ Analyze with range bands https://learn.microsoft.com/en-us/fabric/data-warehouse/analyze-range-bands (2024-10-17 11:14 AM)
+    Dimensional modeling:
+        ☐ Overview https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-overview (2024-07-18 09:58 PM)
+        ☐ Dimension tables https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-dimension-tables (2024-07-18 09:58 PM)
+        ☐ Fact tables https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-fact-tables (2024-07-18 09:58 PM)
+        ☐ Load tables https://learn.microsoft.com/en-us/fabric/data-warehouse/dimensional-modeling-load-tables (2024-07-18 09:58 PM)
+    Load data into the warehouse:
+        ☐ Ingesting data into the warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data (2024-11-20 11:00 PM)
+        ☐ Ingest data with data pipelines https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-pipelines (2024-09-24 07:03 AM)
+        ☐ Ingest data with the COPY statement https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-copy (2024-07-18 09:58 PM)
+        ☐ Ingest data with TSQL https://learn.microsoft.com/en-us/fabric/data-warehouse/ingest-data-tsql (2024-07-18 09:58 PM)
+        ☐ Use dbt with data warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-setup-dbt (2024-11-20 11:00 PM)
+    Create models and build Power BI reports:
+        ☐ Semantic models https://learn.microsoft.com/en-us/fabric/data-warehouse/semantic-models (2024-11-20 11:00 PM)
+        ☐ Model data in the default Power BI semantic model https://learn.microsoft.com/en-us/fabric/data-warehouse/default-power-bi-semantic-model (2024-11-20 11:00 PM)
+        ☐ Define relationships in data models https://learn.microsoft.com/en-us/fabric/data-warehouse/data-modeling-defining-relationships (2024-11-20 11:00 PM)
+        ☐ Create reports in the Power BI service https://learn.microsoft.com/en-us/fabric/data-warehouse/reports-power-bi-service (2024-11-20 11:00 PM)
+    Collaborate, share, and manage security:
+        ☐ Data warehousing security https://learn.microsoft.com/en-us/fabric/data-warehouse/security (2024-11-20 11:00 PM)
+        ☐ Microsoft Entra ID authentication https://learn.microsoft.com/en-us/fabric/data-warehouse/entra-id-authentication (2024-11-20 11:00 PM)
+        ☐ Workspace roles https://learn.microsoft.com/en-us/fabric/data-warehouse/workspace-roles (2024-07-18 09:58 PM)
+        ☐ Manage SQL granular permissions https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-granular-permissions (2024-11-20 11:00 PM)
+        ☐ Share your data https://learn.microsoft.com/en-us/fabric/data-warehouse/share-warehouse-manage-permissions (2024-11-20 11:00 PM)
+        ☐ Column-level security https://learn.microsoft.com/en-us/fabric/data-warehouse/column-level-security (2024-11-20 11:00 PM)
+        ☐ Row-level security https://learn.microsoft.com/en-us/fabric/data-warehouse/row-level-security (2024-11-20 11:00 PM)
+        ☐ Dynamic data masking https://learn.microsoft.com/en-us/fabric/data-warehouse/dynamic-data-masking (2024-11-20 11:00 PM)
         How to:
-            ☐ Join data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-how-to-join-multiple
-            ☐ Query nested data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-how-to-query-nested
-            ☐ Access data using Lakehouse and notebooks https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-lakehouse-notebooks
-    Mirroring Azure Databricks:
-        ☐ Mirroring Azure Databricks https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-databricks
-        ☐ Tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-databricks-tutorial
-        ☐ Secure data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-databricks-security
-        ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-databricks-limitations
-        ☐ FAQ about Mirroring Azure Databricks https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-databricks-faq
-    Mirroring Snowflake:
-        ☐ Mirrored warehouses from Snowflake https://learn.microsoft.com/en-us/fabric/database/mirrored-database/snowflake
-        ☐ Snowflake tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/snowflake-tutorial
-        ☐ FAQ about mirrored Snowflake https://learn.microsoft.com/en-us/fabric/database/mirrored-database/snowflake-mirroring-faq
-        ☐ Secure data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/snowflake-how-to-data-security
-        ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/mirrored-database/snowflake-limitations
-    Open mirroring:
-        ☐ Open mirroring overview https://learn.microsoft.com/en-us/fabric/database/mirrored-database/open-mirroring
-        ☐ Tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/open-mirroring-tutorial
-        ☐ Open mirroring landing zone https://learn.microsoft.com/en-us/fabric/database/mirrored-database/open-mirroring-landing-zone-format
-        ☐ Open mirroring FAQ https://learn.microsoft.com/en-us/fabric/database/mirrored-database/open-mirroring-faq
-        ☐ Open mirroring Partners Ecosystem https://learn.microsoft.com/en-us/fabric/database/mirrored-database/open-mirroring-partners-ecosystem
-    ☐ Mirroring REST API https://learn.microsoft.com/en-us/fabric/database/mirrored-database/mirrored-database-rest-api
-    ☐ Troubleshoot Mirroring https://learn.microsoft.com/en-us/fabric/database/mirrored-database/troubleshooting
-Manage performance:
-    ☐ Statistics https://learn.microsoft.com/en-us/fabric/data-warehouse/statistics
-    ☐ Caching https://learn.microsoft.com/en-us/fabric/data-warehouse/caching
-    ☐ V-Order https://learn.microsoft.com/en-us/fabric/data-warehouse/v-order
-Monitor the warehouse:
-    ☐ Monitoring overview https://learn.microsoft.com/en-us/fabric/data-warehouse/monitoring-overview
-    ☐ Monitor using Capacity Metrics app https://learn.microsoft.com/en-us/fabric/data-warehouse/usage-reporting
-    ☐ Monitor using DMVs https://learn.microsoft.com/en-us/fabric/data-warehouse/monitor-using-dmv
-    ☐ Query activity https://learn.microsoft.com/en-us/fabric/data-warehouse/query-activity
-    ☐ Query insights https://learn.microsoft.com/en-us/fabric/data-warehouse/query-insights
-    How to:
-        ☐ Observe utilization trends https://learn.microsoft.com/en-us/fabric/data-warehouse/how-to-observe-utilization
-Warehouse capacity:
-    ☐ Burstable capacity https://learn.microsoft.com/en-us/fabric/data-warehouse/burstable-capacity
-    ☐ Capacity pause and resume https://learn.microsoft.com/en-us/fabric/data-warehouse/pause-resume
-    ☐ Smoothing and throttling https://learn.microsoft.com/en-us/fabric/data-warehouse/compute-capacity-smoothing-throttling
-    ☐ Workload Management https://learn.microsoft.com/en-us/fabric/data-warehouse/workload-management
-Migrate:
-    ☐ Migrate Azure Synapse Analytics dedicated SQL pools to Fabric Warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/migration-synapse-dedicated-sql-pool-warehouse
-Troubleshoot:
-    ☐ Troubleshooting your Warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/troubleshoot-fabric-data-warehouse
-    ☐ Limitations https://learn.microsoft.com/en-us/fabric/data-warehouse/limitations
-    ☐ Change ownership of Warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/change-ownership
-    ☐ Disable V-Order https://learn.microsoft.com/en-us/fabric/data-warehouse/disable-v-order
-Reference:
-    ☐ T-SQL Reference for Fabric https://learn.microsoft.com/sql/t-sql/language-reference?view=fabric&preserve-view=true
-Resources:
-    ☐ Contribute to Fabric docs https://learn.microsoft.com/contribute/
-    Help:
-        ☐ Microsoft Q & A >> https://learn.microsoft.com/answers/
-        ☐ Submit feedback >> https://feedback.azure.com/
-    ☐ Ideas https://ideas.fabric.microsoft.com/
-    ☐ Community https://community.fabric.microsoft.com/
-    ☐ Service updates https://azure.microsoft.com/updates/
-    ☐ Azure Status https://azure.status.microsoft/
-    Learn:
-        ☐ Microsoft Learn training >> https://learn.microsoft.com/training/
+            ☐ Implement column-level security https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-column-level-security (2024-08-05 10:18 PM)
+            ☐ Implement row-level security https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-row-level-security (2024-08-05 10:18 PM)
+            ☐ Implement dynamic data masking https://learn.microsoft.com/en-us/fabric/data-warehouse/howto-dynamic-data-masking (2024-11-20 11:00 PM)
+    Query the warehouse:
+        ☐ Query using Visual Query editor https://learn.microsoft.com/en-us/fabric/data-warehouse/visual-query-editor (2024-11-20 11:00 PM)
+        ☐ Query using SQL Query editor https://learn.microsoft.com/en-us/fabric/data-warehouse/sql-query-editor (2024-11-20 11:00 PM)
+        ☐ View data in the Data preview https://learn.microsoft.com/en-us/fabric/data-warehouse/data-preview (2024-11-20 11:00 PM)
+        ☐ Query Delta Lake logs https://learn.microsoft.com/en-us/fabric/data-warehouse/query-delta-lake-logs (2024-11-20 11:00 PM)
+        ☐ Query data as it existed in the past https://learn.microsoft.com/en-us/fabric/data-warehouse/time-travel (2024-07-19 11:07 AM)
+        ☐ How to: Query using time travel https://learn.microsoft.com/en-us/fabric/data-warehouse/how-to-query-using-time-travel (2024-10-30 09:59 PM)
+        ☐ Query data with a T-SQL notebook https://learn.microsoft.com/en-us/fabric/data-engineering/author-tsql-notebook?toc=/fabric/data-warehouse/toc.json&bc=/fabric/data-warehouse/toc.json (2024-10-15 11:08 AM)
+    Data recovery:
+        ☐ Restore in-place https://learn.microsoft.com/en-us/fabric/data-warehouse/restore-in-place (2024-07-18 09:58 PM)
+        ☐ Restore in-place in the Fabric portal https://learn.microsoft.com/en-us/fabric/data-warehouse/restore-in-place-portal (2024-07-18 09:58 PM)
+        ☐ Clone tables https://learn.microsoft.com/en-us/fabric/data-warehouse/clone-table (2024-11-20 11:00 PM)
+        ☐ Clone tables in the Fabric portal https://learn.microsoft.com/en-us/fabric/data-warehouse/tutorial-clone-table-portal (2024-09-24 07:03 AM)
+    Mirroring databases:
+        ☐ Mirroring overview https://learn.microsoft.com/en-us/fabric/database/mirrored-database/overview (2024-11-21 10:59 PM)
+        How to:
+            ☐ Monitor mirrored databases https://learn.microsoft.com/en-us/fabric/database/mirrored-database/monitor (2024-11-20 12:11 PM)
+            ☐ Share and manage permissions https://learn.microsoft.com/en-us/fabric/database/mirrored-database/share-and-manage-permissions (2024-11-21 10:59 PM)
+        Explore mirrored data:
+            ☐ Explore your mirrored database https://learn.microsoft.com/en-us/fabric/database/mirrored-database/explore (2024-11-20 12:11 PM)
+            ☐ Explore directly in OneLake https://learn.microsoft.com/en-us/fabric/database/mirrored-database/explore-data-directly (2024-11-20 12:11 PM)
+            ☐ Explore with notebooks https://learn.microsoft.com/en-us/fabric/database/mirrored-database/explore-onelake-shortcut (2024-11-20 12:11 PM)
+        Mirroring Azure SQL Database:
+            ☐ Mirrored database from Azure SQL Database https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database (2024-11-27 12:13 PM)
+            ☐ Azure SQL Database tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database-tutorial (2024-12-19 06:02 PM)
+            ☐ FAQ about mirrored Azure SQL Database https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database-mirroring-faq (2024-11-20 11:00 PM)
+            ☐ Secure data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database-how-to-data-security (2024-11-20 11:00 PM)
+            ☐ Troubleshoot https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database-troubleshoot (2024-12-02 11:01 PM)
+            ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-database-limitations (2024-12-06 12:03 PM)
+        Mirroring Azure SQL Managed Instance:
+            ☐ Mirrored database from Azure SQL Managed Instance https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance (2024-11-27 12:13 PM)
+            ☐ Azure SQL Managed Instance tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance-tutorial (2024-11-27 12:13 PM)
+            ☐ FAQ about mirrored Azure SQL Managed Instance https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance-faq (2024-11-19 06:02 PM)
+            ☐ Secure data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance-how-to-data-security (2024-11-20 12:11 PM)
+            ☐ Troubleshoot https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance-troubleshoot (2024-11-20 12:11 PM)
+            ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-sql-managed-instance-limitations (2024-12-06 12:03 PM)
+        Mirroring Azure Cosmos DB:
+            ☐ Mirrored databases from Azure Cosmos DB https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db (2024-11-20 11:00 PM)
+            ☐ Azure Cosmos DB tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-tutorial (2024-11-20 12:11 PM)
+            ☐ FAQ about mirrored Azure Cosmos DB https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-faq (2024-11-20 11:00 PM)
+            ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-limitations (2024-12-06 12:03 PM)
+            ☐ Troubleshoot https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-troubleshooting (2024-11-08 12:11 PM)
+            How to:
+                ☐ Join data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-how-to-join-multiple (2024-11-20 12:11 PM)
+                ☐ Query nested data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-how-to-query-nested (2024-11-20 12:11 PM)
+                ☐ Access data using Lakehouse and notebooks https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-cosmos-db-lakehouse-notebooks (2024-11-20 12:11 PM)
+        Mirroring Azure Databricks:
+            ☐ Mirroring Azure Databricks https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-databricks (2024-11-20 12:11 PM)
+            ☐ Tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-databricks-tutorial (2024-11-20 12:11 PM)
+            ☐ Secure data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-databricks-security (2024-11-20 12:11 PM)
+            ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-databricks-limitations (2024-11-20 12:11 PM)
+            ☐ FAQ about Mirroring Azure Databricks https://learn.microsoft.com/en-us/fabric/database/mirrored-database/azure-databricks-faq (2024-09-24 07:03 AM)
+        Mirroring Snowflake:
+            ☐ Mirrored warehouses from Snowflake https://learn.microsoft.com/en-us/fabric/database/mirrored-database/snowflake (2024-11-20 11:00 PM)
+            ☐ Snowflake tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/snowflake-tutorial (2024-11-20 12:11 PM)
+            ☐ FAQ about mirrored Snowflake https://learn.microsoft.com/en-us/fabric/database/mirrored-database/snowflake-mirroring-faq (2024-09-30 10:01 PM)
+            ☐ Secure data https://learn.microsoft.com/en-us/fabric/database/mirrored-database/snowflake-how-to-data-security (2024-11-20 12:11 PM)
+            ☐ Limitations https://learn.microsoft.com/en-us/fabric/database/mirrored-database/snowflake-limitations (2024-12-18 10:58 PM)
+        Open mirroring:
+            ☐ Open mirroring overview https://learn.microsoft.com/en-us/fabric/database/mirrored-database/open-mirroring (2024-11-20 12:11 PM)
+            ☐ Tutorial https://learn.microsoft.com/en-us/fabric/database/mirrored-database/open-mirroring-tutorial (2024-11-20 12:11 PM)
+            ☐ Open mirroring landing zone https://learn.microsoft.com/en-us/fabric/database/mirrored-database/open-mirroring-landing-zone-format (2024-12-04 11:03 PM)
+            ☐ Open mirroring FAQ https://learn.microsoft.com/en-us/fabric/database/mirrored-database/open-mirroring-faq (2024-12-03 06:01 PM)
+            ☐ Open mirroring Partners Ecosystem https://learn.microsoft.com/en-us/fabric/database/mirrored-database/open-mirroring-partners-ecosystem (2024-11-20 12:11 PM)
+        ☐ Mirroring REST API https://learn.microsoft.com/en-us/fabric/database/mirrored-database/mirrored-database-rest-api (2024-11-27 12:13 PM)
+        ☐ Troubleshoot Mirroring https://learn.microsoft.com/en-us/fabric/database/mirrored-database/troubleshooting (2024-11-20 11:00 PM)
+    Manage performance:
+        ☐ Statistics https://learn.microsoft.com/en-us/fabric/data-warehouse/statistics (2024-09-10 10:02 PM)
+        ☐ Caching https://learn.microsoft.com/en-us/fabric/data-warehouse/caching (2024-11-20 11:00 PM)
+        ☐ V-Order https://learn.microsoft.com/en-us/fabric/data-warehouse/v-order (2024-08-05 10:18 PM)
+    Monitor the warehouse:
+        ☐ Monitoring overview https://learn.microsoft.com/en-us/fabric/data-warehouse/monitoring-overview (2024-11-20 11:00 PM)
+        ☐ Monitor using Capacity Metrics app https://learn.microsoft.com/en-us/fabric/data-warehouse/usage-reporting (2024-11-20 11:00 PM)
+        ☐ Monitor using DMVs https://learn.microsoft.com/en-us/fabric/data-warehouse/monitor-using-dmv (2024-09-24 07:03 AM)
+        ☐ Query activity https://learn.microsoft.com/en-us/fabric/data-warehouse/query-activity (2024-11-20 11:00 PM)
+        ☐ Query insights https://learn.microsoft.com/en-us/fabric/data-warehouse/query-insights (2024-11-20 11:00 PM)
+        How to:
+            ☐ Observe utilization trends https://learn.microsoft.com/en-us/fabric/data-warehouse/how-to-observe-utilization (2024-11-20 11:00 PM)
+    Warehouse capacity:
+        ☐ Burstable capacity https://learn.microsoft.com/en-us/fabric/data-warehouse/burstable-capacity (2024-11-20 11:00 PM)
+        ☐ Capacity pause and resume https://learn.microsoft.com/en-us/fabric/data-warehouse/pause-resume (2024-11-20 11:00 PM)
+        ☐ Smoothing and throttling https://learn.microsoft.com/en-us/fabric/data-warehouse/compute-capacity-smoothing-throttling (2024-11-20 11:00 PM)
+        ☐ Workload Management https://learn.microsoft.com/en-us/fabric/data-warehouse/workload-management (2024-07-18 09:58 PM)
+    Migrate:
+        ☐ Migrate Azure Synapse Analytics dedicated SQL pools to Fabric Warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/migration-synapse-dedicated-sql-pool-warehouse (2024-11-20 11:00 PM)
+    Troubleshoot:
+        ☐ Troubleshooting your Warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/troubleshoot-fabric-data-warehouse (2024-11-19 01:26 PM)
+        ☐ Limitations https://learn.microsoft.com/en-us/fabric/data-warehouse/limitations (2024-11-20 11:00 PM)
+        ☐ Change ownership of Warehouse https://learn.microsoft.com/en-us/fabric/data-warehouse/change-ownership (2024-09-15 11:09 AM)
+        ☐ Disable V-Order https://learn.microsoft.com/en-us/fabric/data-warehouse/disable-v-order (2024-08-02 10:00 PM)
+    Reference:
+        ☐ T-SQL Reference for Fabric https://learn.microsoft.com/sql/t-sql/language-reference?view=fabric&preserve-view=true (2024-11-22 07:03 PM)
+    Resources:
+        ☐ Contribute to Fabric docs https://learn.microsoft.com/contribute/ (2024-04-22 06:38 PM)
+        Help:
+            ☐ Microsoft Q & A >> https://learn.microsoft.com/answers/ (2024-06-05 01:05 AM)
+            ☐ Submit feedback >> https://feedback.azure.com/
+        ☐ Ideas https://ideas.fabric.microsoft.com/
+        ☐ Community https://community.fabric.microsoft.com/
+        ☐ Service updates https://azure.microsoft.com/updates/
+        ☐ Azure Status https://azure.status.microsoft/
+        Learn:
+            ☐ Microsoft Learn training >> https://learn.microsoft.com/training/ (2024-11-13 02:55 AM)
 

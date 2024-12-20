@@ -1,175 +1,176 @@
-☐ Azure Queue storage documentation https://learn.microsoft.com/en-us/azure/storage/queues/
-Overview:
-    ☐ What are Azure queues? https://learn.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction
-Quickstarts:
-    Manage queues without code:
-        ☐ Azure portal https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-portal
-    Develop with queues:
-        ☐ .NET https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-dotnet
-        ☐ Java https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-java
-        ☐ JavaScript https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-nodejs
-        ☐ Python https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-python
-Tutorials:
-    ☐ Work with Azure storage queues https://learn.microsoft.com/en-us/azure/storage/queues/storage-tutorial-queues?toc=/azure/storage/queues/toc.json
-Samples:
-    ☐ .NET https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-dotnet?toc=/azure/storage/queues/toc.json
-    ☐ Java https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-java?toc=/azure/storage/queues/toc.json
-    ☐ Spring https://github.com/Azure-Samples/azure-spring-boot-samples/tree/spring-cloud-azure_v4.3.0/storage/spring-cloud-azure-starter-storage-queue/storage-queue-client
-    ☐ Python https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-python?toc=/azure/storage/queues/toc.json
-    ☐ JavaScript https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-javascript?toc=/azure/storage/queues/toc.json
-    ☐ Other languages https://learn.microsoft.com/en-us/azure/storage/common/storage-samples?toc=/azure/storage/queues/toc.json
-    ☐ Azure Resource Graph queries https://learn.microsoft.com/en-us/azure/storage/common/resource-graph-samples
-Concepts:
-    ☐ Storage accounts https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=/azure/storage/queues/toc.json
-    Authorization https://learn.microsoft.com/en-us/azure/storage/common/authorize-data-access?toc=/azure/storage/queues/toc.json:
-        Authorizing data operations https://learn.microsoft.com/en-us/azure/storage/common/authorize-data-access?toc=/azure/storage/blobs/toc.json:
-            Authorize with Microsoft Entra ID:
-                ☐ Authorize with Azure roles https://learn.microsoft.com/en-us/azure/storage/queues/authorize-access-azure-active-directory
-                ☐ Authorize with conditions https://learn.microsoft.com/en-us/azure/storage/queues/queues-auth-abac
-                ☐ Actions and attributes for conditions https://learn.microsoft.com/en-us/azure/storage/queues/queues-auth-abac-attributes
-                ☐ Example conditions https://learn.microsoft.com/en-us/azure/storage/queues/queues-auth-abac-examples
-        ☐ Authenticate and authorize with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/storage/queues/authorize-access-azure-active-directory
-        Authorize with Shared Key:
-            ☐ View and manage account keys https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?toc=/azure/storage/queues/toc.json
-            ☐ Configure connection strings https://learn.microsoft.com/en-us/azure/storage/common/storage-configure-connection-string?toc=/azure/storage/queues/toc.json
-            ☐ Use the Azure Storage REST API https://learn.microsoft.com/en-us/azure/storage/common/storage-rest-api-auth?toc=/azure/storage/queues/toc.json
-        ☐ Authorize with SAS https://learn.microsoft.com/en-us/azure/storage/common/storage-sas-overview?toc=/azure/storage/queues/toc.json
-        ☐ Migrate to passwordless connections https://learn.microsoft.com/en-us/azure/storage/queues/passwordless-migrate-queues?toc=/azure/storage/queues/toc.json
-    ☐ Authorizing management operations https://learn.microsoft.com/en-us/azure/storage/common/authorization-resource-provider?toc=/azure/storage/queues/toc.json
-    Security:
-        Azure Storage encryption at rest https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=/azure/storage/queues/toc.json:
-            ☐ Encryption with customer-managed keys https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-overview?toc=/azure/storage/queues/toc.json
-        ☐ Use Azure Private Endpoints https://learn.microsoft.com/en-us/azure/storage/common/storage-private-endpoints?toc=/azure/storage/queues/toc.json
-        ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/storage/common/security-controls-policy?toc=/azure/storage/tables/toc.json
-        ☐ Security recommendations https://learn.microsoft.com/en-us/azure/storage/queues/security-recommendations
-        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/storage-security-baseline?toc=/azure/storage/queues/toc.json?toc=/azure/storage/queues/TOC.json
-    ☐ Data redundancy https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy?toc=/azure/storage/queues/toc.json
-    ☐ Disaster recovery and failover https://learn.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/storage/queues/toc.json
-    Performance, scaling, and cost optimization:
-        Scalability and performance targets:
-            ☐ Queue storage https://learn.microsoft.com/en-us/azure/storage/queues/scalability-targets
-            ☐ Standard storage accounts https://learn.microsoft.com/en-us/azure/storage/common/scalability-targets-standard-account?toc=/azure/storage/queues/toc.json
-            ☐ Storage resource provider https://learn.microsoft.com/en-us/azure/storage/common/scalability-targets-resource-provider?toc=/azure/storage/queues/toc.json
-        ☐ Performance and scalability checklist https://learn.microsoft.com/en-us/azure/storage/queues/storage-performance-checklist
-    Monitor and troubleshoot:
-        ☐ Monitor Queue storage https://learn.microsoft.com/en-us/azure/storage/queues/monitor-queue-storage
-        Monitoring (classic):
-            ☐ Storage Analytics https://learn.microsoft.com/en-us/azure/storage/common/storage-analytics?toc=/azure/storage/queues/toc.json
-            ☐ Logs https://learn.microsoft.com/en-us/azure/storage/common/storage-analytics-logging?toc=/azure/storage/queues/toc.json
-            ☐ Monitor, diagnose, and troubleshoot https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-monitoring-diagnosing-troubleshooting
-How to:
-    Create and manage storage accounts:
-        ☐ Create a storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?toc=/azure/storage/queues/toc.json
-        ☐ Upgrade a storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-upgrade?toc=/azure/storage/queues/toc.json
-        ☐ Recover a deleted storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-recover?toc=/azure/storage/queues/toc.json
-        ☐ Migrate a classic account to Azure Resource Manager https://learn.microsoft.com/en-us/azure/storage/common/classic-account-migrate?toc=/azure/storage/queues/toc.json
-        ☐ Get account configuration properties https://learn.microsoft.com/en-us/azure/storage/common/storage-account-get-info?toc=/azure/storage/queues/toc.json
-    Secure queue data:
-        Authorize access to queue data:
-            Authorization options for users:
-                ☐ Portal https://learn.microsoft.com/en-us/azure/storage/queues/authorize-data-operations-portal
-                ☐ PowerShell https://learn.microsoft.com/en-us/azure/storage/queues/authorize-data-operations-powershell
-                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/storage/queues/authorize-data-operations-cli
-            ☐ Manage access rights with Azure RBAC https://learn.microsoft.com/en-us/azure/storage/queues/assign-azure-role-data-access
+Azure Queue storage documentation | Microsoft Learn:
+    ☐ Azure Queue storage documentation https://learn.microsoft.com/en-us/azure/storage/queues/ (2024-01-21 12:36 PM)
+    Overview:
+        ☐ What are Azure queues? https://learn.microsoft.com/en-us/azure/storage/queues/storage-queues-introduction (2023-11-17 11:04 PM)
+    Quickstarts:
+        Manage queues without code:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-portal (2023-07-09 11:18 AM)
+        Develop with queues:
+            ☐ .NET https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-dotnet (2024-07-18 10:02 PM)
+            ☐ Java https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-java (2023-07-07 05:30 PM)
+            ☐ JavaScript https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-nodejs (2024-12-05 12:18 PM)
+            ☐ Python https://learn.microsoft.com/en-us/azure/storage/queues/storage-quickstart-queues-python (2024-01-23 06:04 PM)
+    Tutorials:
+        ☐ Work with Azure storage queues https://learn.microsoft.com/en-us/azure/storage/queues/storage-tutorial-queues?toc=/azure/storage/queues/toc.json (2024-08-08 05:34 AM)
+    Samples:
+        ☐ .NET https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-dotnet?toc=/azure/storage/queues/toc.json (2024-08-14 06:47 PM)
+        ☐ Java https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-java?toc=/azure/storage/queues/toc.json (2024-08-14 06:47 PM)
+        ☐ Spring https://github.com/Azure-Samples/azure-spring-boot-samples/tree/spring-cloud-azure_v4.3.0/storage/spring-cloud-azure-starter-storage-queue/storage-queue-client
+        ☐ Python https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-python?toc=/azure/storage/queues/toc.json (2024-08-14 06:47 PM)
+        ☐ JavaScript https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-javascript?toc=/azure/storage/queues/toc.json (2024-10-31 10:03 PM)
+        ☐ Other languages https://learn.microsoft.com/en-us/azure/storage/common/storage-samples?toc=/azure/storage/queues/toc.json (2023-07-06 10:41 PM)
+        ☐ Azure Resource Graph queries https://learn.microsoft.com/en-us/azure/storage/common/resource-graph-samples (2024-06-12 05:46 AM)
+    Concepts:
+        ☐ Storage accounts https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=/azure/storage/queues/toc.json (2024-09-19 06:07 PM)
+        Authorization https://learn.microsoft.com/en-us/azure/storage/common/authorize-data-access?toc=/azure/storage/queues/toc.json (2024-11-21 11:02 PM):
+            Authorizing data operations https://learn.microsoft.com/en-us/azure/storage/common/authorize-data-access?toc=/azure/storage/blobs/toc.json (2024-11-21 11:02 PM):
+                Authorize with Microsoft Entra ID:
+                    ☐ Authorize with Azure roles https://learn.microsoft.com/en-us/azure/storage/queues/authorize-access-azure-active-directory (2024-04-22 10:06 PM)
+                    ☐ Authorize with conditions https://learn.microsoft.com/en-us/azure/storage/queues/queues-auth-abac (2023-11-15 11:20 PM)
+                    ☐ Actions and attributes for conditions https://learn.microsoft.com/en-us/azure/storage/queues/queues-auth-abac-attributes (2024-10-25 10:04 PM)
+                    ☐ Example conditions https://learn.microsoft.com/en-us/azure/storage/queues/queues-auth-abac-examples (2024-09-10 10:03 PM)
+            ☐ Authenticate and authorize with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/storage/queues/authorize-access-azure-active-directory (2024-04-22 10:06 PM)
             Authorize with Shared Key:
-                ☐ View and manage account keys https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?toc=/azure/storage/queues/toc.json
-                ☐ Configure connection strings https://learn.microsoft.com/en-us/azure/storage/common/storage-configure-connection-string?toc=/azure/storage/queues/toc.json
-                ☐ Use the Azure Storage REST API https://learn.microsoft.com/en-us/azure/storage/common/storage-rest-api-auth?toc=/azure/storage/queues/toc.json
-                ☐ Prevent authorization with Shared Key https://learn.microsoft.com/en-us/azure/storage/common/shared-key-authorization-prevent?toc=/azure/storage/queues/toc.json
-        Manage Azure Storage encryption:
-            ☐ Create an account that supports customer-managed keys https://learn.microsoft.com/en-us/azure/storage/common/account-encryption-key-create?toc=/azure/storage/queues/toc.json
-            Configure encryption with customer-managed keys:
-                ☐ Check the encryption key model for the account https://learn.microsoft.com/en-us/azure/storage/common/storage-encryption-key-model-get?toc=/azure/storage/queues/toc.json
-                Configure customer-managed keys in Azure Key Vault:
-                    Configure customer-managed keys in the same tenant:
-                        ☐ Configure customer-managed keys for a new account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-new-account?toc=/azure/storage/queues/toc.json
-                        ☐ Configure customer-managed keys for an existing account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-existing-account?toc=/azure/storage/queues/toc.json
-                    Configure customer-managed keys in a different tenant:
-                        ☐ Configure customer-managed keys for a new account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-cross-tenant-new-account?toc=/azure/storage/queues/toc.json
-                        ☐ Configure customer-managed keys for an existing account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-cross-tenant-existing-account?toc=/azure/storage/queues/toc.json
-                ☐ Configure customer-managed keys in a managed HSM https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-key-vault-hsm?toc=/azure/storage/queues/toc.json
-            ☐ Enable infrastructure encryption for the account https://learn.microsoft.com/en-us/azure/storage/common/infrastructure-encryption-enable?toc=/azure/storage/queues/toc.json
-        ☐ Configure client-side encryption https://learn.microsoft.com/en-us/azure/storage/queues/client-side-encryption
-        Configure network security:
-            ☐ Configure firewalls and virtual networks https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=/azure/storage/queues/toc.json
-            ☐ Require secure transfer https://learn.microsoft.com/en-us/azure/storage/common/storage-require-secure-transfer?toc=/azure/storage/queues/toc.json
-            Manage Transport Layer Security (TLS):
-                ☐ Enforce minimum TLS version for incoming requests https://learn.microsoft.com/en-us/azure/storage/common/transport-layer-security-configure-minimum-version?toc=/azure/storage/queues/toc.json
-                ☐ Configure TLS version for a client application https://learn.microsoft.com/en-us/azure/storage/common/transport-layer-security-configure-client-version?toc=/azure/storage/queues/toc.json
-        ☐ Enable threat protection with Microsoft Defender for Storage https://learn.microsoft.com/en-us/azure/storage/common/azure-defender-storage-configure?toc=/azure/storage/queues/toc.json
-    Manage data redundancy:
-        ☐ Change how data is replicated https://learn.microsoft.com/en-us/azure/storage/common/redundancy-migration?toc=/azure/storage/queues/toc.json
-        ☐ Design highly available applications https://learn.microsoft.com/en-us/azure/storage/common/geo-redundant-design?toc=/azure/storage/queues/toc.json
-    Manage disaster recovery:
-        ☐ Check the Last Sync Time property https://learn.microsoft.com/en-us/azure/storage/common/last-sync-time-get?toc=/azure/storage/queues/toc.json
-        ☐ Initiate account failover https://learn.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?toc=/azure/storage/queues/toc.json
-    Use a storage emulator:
-        ☐ Use the Azurite open-source emulator https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?toc=/azure/storage/queues/toc.json
-        ☐ Use the Azure Storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/queues/toc.json
-    Manage queues:
-        ☐ PowerShell for Azure Queues https://learn.microsoft.com/en-us/azure/storage/queues/storage-powershell-how-to-use-queues
-        ☐ PowerShell for China, Government, and German clouds https://learn.microsoft.com/en-us/azure/storage/common/storage-powershell-independent-clouds?toc=/azure/storage/queues/toc.json
-        Monitor:
-            ☐ Scenarios and best practices https://learn.microsoft.com/en-us/azure/storage/queues/queues-storage-monitoring-scenarios
-            Monitor (classic):
-                ☐ Monitor in the Azure portal (classic) https://learn.microsoft.com/en-us/azure/storage/common/manage-storage-analytics-logs??toc=/azure/storage/queues/toc.json
-    Troubleshoot:
-        ☐ Performance https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-storage-performance
-        ☐ Availability https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-storage-availability
-        ☐ Client errors https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-storage-client-application-errors
-        ☐ Latency issues https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-latency-storage-analytics-logs
-Reference:
-    APIs for data access:
-        ☐ REST API https://learn.microsoft.com/rest/api/storageservices/queue-service-rest-api
-        ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage
-        ☐ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage
-        ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage
-        ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage
-    APIs for resource management:
-        ☐ REST API https://learn.microsoft.com/rest/api/storagerp/
-        ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.storage-readme
-        ☐ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management
-        ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management
-        ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management
-    ☐ Monitoring Queue Storage data reference https://learn.microsoft.com/en-us/azure/storage/queues/monitor-queue-storage-reference
-    ☐ Spring Integration with Azure Storage Queue https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/storage/queues/TOC.json#spring-integration-with-azure-storage-queue
-    ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.storage/allversions
-Resources:
-    ☐ Azure updates https://azure.microsoft.com/updates/?product=storage
-    Azure Storage Explorer:
-        ☐ Download Storage Explorer https://azure.microsoft.com/features/storage-explorer/
-        ☐ Get started with Storage Explorer https://learn.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?toc=/azure/storage/queues/toc.json
-        ☐ Storage Explorer release notes https://github.com/microsoft/AzureStorageExplorer/releases
-        ☐ Troubleshoot Storage Explorer https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-explorer-troubleshooting
-        ☐ Storage Explorer accessibility https://learn.microsoft.com/en-us/azure/vs-azure-tools-storage-explorer-accessibility?toc=/azure/storage/queues/toc.json
-    ☐ Queue storage on Microsoft Q&A https://learn.microsoft.com/answers/topics/azure-queue-storage.html
-    ☐ Queue storage on Stack Overflow https://stackoverflow.com/questions/tagged/azure-queues
-    ☐ Pricing for Queue storage https://azure.microsoft.com/pricing/details/storage/queues/
-    ☐ Azure pricing calculator https://azure.microsoft.com/pricing/calculator/
-    ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=storage
-    NuGet packages (.NET):
-        ☐ Microsoft.Azure.Storage.Common (version 11.x) https://www.nuget.org/packages/microsoft.azure.storage.common/
-        ☐ Azure.Storage.Common (version 12.x) https://www.nuget.org/packages/Azure.Storage.Common/
-        ☐ Microsoft.Azure.Storage.Queue (version 11.x) https://www.nuget.org/packages/microsoft.azure.storage.queue/
-        ☐ Azure.Storage.Queue (version 12.x) https://www.nuget.org/packages/azure.storage.queues/
-        ☐ Azure Configuration Manager https://www.nuget.org/packages/microsoft.azure.configurationmanager/
-        ☐ Storage Resource Provider library https://www.nuget.org/packages/microsoft.azure.management.storage/
-    Source code:
-        .NET:
-            Azure Storage client library:
-                ☐ Version 12.x https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/storage
-                ☐ Version 11.x and earlier https://github.com/Azure/azure-storage-net
-            ☐ Data Movement library https://learn.microsoft.com/dotnet/api/microsoft.azure.storage.datamovement
-            ☐ Storage Resource Provider library https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/storage/Azure.ResourceManager.Storage
-        Java:
-            ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-java/tree/master/sdk/storage
-            ☐ Blobs, Queues, and Files (version 8) https://learn.microsoft.com/java/api/overview/azure/storage
-            ☐ Azure Storage client library version 8.x and earlier https://github.com/Azure/azure-storage-java
-        Node.js:
-            ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-js/tree/master/sdk/storage
-            ☐ Azure Storage client library version 10.x https://github.com/Azure/azure-storage-node
-        Python:
-            ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-python/tree/master/sdk/storage
-            ☐ Azure Storage client library version 2.1 https://github.com/Azure/azure-storage-python
-    ☐ Compliance offerings https://learn.microsoft.com/en-us/azure/storage/common/storage-compliance-offerings
+                ☐ View and manage account keys https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?toc=/azure/storage/queues/toc.json (2024-11-19 06:02 PM)
+                ☐ Configure connection strings https://learn.microsoft.com/en-us/azure/storage/common/storage-configure-connection-string?toc=/azure/storage/queues/toc.json (2024-08-07 10:04 PM)
+                ☐ Use the Azure Storage REST API https://learn.microsoft.com/en-us/azure/storage/common/storage-rest-api-auth?toc=/azure/storage/queues/toc.json (2023-11-15 06:06 PM)
+            ☐ Authorize with SAS https://learn.microsoft.com/en-us/azure/storage/common/storage-sas-overview?toc=/azure/storage/queues/toc.json (2024-11-21 11:02 PM)
+            ☐ Migrate to passwordless connections https://learn.microsoft.com/en-us/azure/storage/queues/passwordless-migrate-queues?toc=/azure/storage/queues/toc.json (2024-07-18 10:02 PM)
+        ☐ Authorizing management operations https://learn.microsoft.com/en-us/azure/storage/common/authorization-resource-provider?toc=/azure/storage/queues/toc.json (2024-06-14 10:17 PM)
+        Security:
+            Azure Storage encryption at rest https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=/azure/storage/queues/toc.json (2024-08-22 07:16 PM):
+                ☐ Encryption with customer-managed keys https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-overview?toc=/azure/storage/queues/toc.json (2024-08-22 07:16 PM)
+            ☐ Use Azure Private Endpoints https://learn.microsoft.com/en-us/azure/storage/common/storage-private-endpoints?toc=/azure/storage/queues/toc.json (2024-11-06 05:33 AM)
+            ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/storage/common/security-controls-policy?toc=/azure/storage/tables/toc.json (2024-02-07 05:35 AM)
+            ☐ Security recommendations https://learn.microsoft.com/en-us/azure/storage/queues/security-recommendations (2024-08-07 10:04 PM)
+            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/storage-security-baseline?toc=/azure/storage/queues/toc.json?toc=/azure/storage/queues/TOC.json (2024-02-21 03:04 AM)
+        ☐ Data redundancy https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy?toc=/azure/storage/queues/toc.json (2024-11-22 05:58 AM)
+        ☐ Disaster recovery and failover https://learn.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/storage/queues/toc.json (2024-11-22 05:58 AM)
+        Performance, scaling, and cost optimization:
+            Scalability and performance targets:
+                ☐ Queue storage https://learn.microsoft.com/en-us/azure/storage/queues/scalability-targets (2024-06-17 10:05 PM)
+                ☐ Standard storage accounts https://learn.microsoft.com/en-us/azure/storage/common/scalability-targets-standard-account?toc=/azure/storage/queues/toc.json (2024-06-17 10:05 PM)
+                ☐ Storage resource provider https://learn.microsoft.com/en-us/azure/storage/common/scalability-targets-resource-provider?toc=/azure/storage/queues/toc.json (2024-06-17 10:05 PM)
+            ☐ Performance and scalability checklist https://learn.microsoft.com/en-us/azure/storage/queues/storage-performance-checklist (2023-10-26 10:02 PM)
+        Monitor and troubleshoot:
+            ☐ Monitor Queue storage https://learn.microsoft.com/en-us/azure/storage/queues/monitor-queue-storage (2024-12-16 11:03 PM)
+            Monitoring (classic):
+                ☐ Storage Analytics https://learn.microsoft.com/en-us/azure/storage/common/storage-analytics?toc=/azure/storage/queues/toc.json (2024-01-17 06:08 PM)
+                ☐ Logs https://learn.microsoft.com/en-us/azure/storage/common/storage-analytics-logging?toc=/azure/storage/queues/toc.json (2024-09-13 05:36 AM)
+                ☐ Monitor, diagnose, and troubleshoot https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-monitoring-diagnosing-troubleshooting (2024-04-09 09:02 AM)
+    How to:
+        Create and manage storage accounts:
+            ☐ Create a storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?toc=/azure/storage/queues/toc.json (2024-11-22 05:58 AM)
+            ☐ Upgrade a storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-upgrade?toc=/azure/storage/queues/toc.json (2024-06-27 05:04 PM)
+            ☐ Recover a deleted storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-recover?toc=/azure/storage/queues/toc.json (2024-11-07 11:02 PM)
+            ☐ Migrate a classic account to Azure Resource Manager https://learn.microsoft.com/en-us/azure/storage/common/classic-account-migrate?toc=/azure/storage/queues/toc.json (2024-08-22 07:16 PM)
+            ☐ Get account configuration properties https://learn.microsoft.com/en-us/azure/storage/common/storage-account-get-info?toc=/azure/storage/queues/toc.json (2023-12-06 11:03 PM)
+        Secure queue data:
+            Authorize access to queue data:
+                Authorization options for users:
+                    ☐ Portal https://learn.microsoft.com/en-us/azure/storage/queues/authorize-data-operations-portal (2024-02-05 06:03 PM)
+                    ☐ PowerShell https://learn.microsoft.com/en-us/azure/storage/queues/authorize-data-operations-powershell (2024-06-27 05:04 PM)
+                    ☐ Azure CLI https://learn.microsoft.com/en-us/azure/storage/queues/authorize-data-operations-cli (2023-11-06 05:42 AM)
+                ☐ Manage access rights with Azure RBAC https://learn.microsoft.com/en-us/azure/storage/queues/assign-azure-role-data-access (2024-08-28 07:22 PM)
+                Authorize with Shared Key:
+                    ☐ View and manage account keys https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?toc=/azure/storage/queues/toc.json (2024-11-19 06:02 PM)
+                    ☐ Configure connection strings https://learn.microsoft.com/en-us/azure/storage/common/storage-configure-connection-string?toc=/azure/storage/queues/toc.json (2024-08-07 10:04 PM)
+                    ☐ Use the Azure Storage REST API https://learn.microsoft.com/en-us/azure/storage/common/storage-rest-api-auth?toc=/azure/storage/queues/toc.json (2023-11-15 06:06 PM)
+                    ☐ Prevent authorization with Shared Key https://learn.microsoft.com/en-us/azure/storage/common/shared-key-authorization-prevent?toc=/azure/storage/queues/toc.json (2024-09-11 06:38 PM)
+            Manage Azure Storage encryption:
+                ☐ Create an account that supports customer-managed keys https://learn.microsoft.com/en-us/azure/storage/common/account-encryption-key-create?toc=/azure/storage/queues/toc.json (2023-08-25 09:58 PM)
+                Configure encryption with customer-managed keys:
+                    ☐ Check the encryption key model for the account https://learn.microsoft.com/en-us/azure/storage/common/storage-encryption-key-model-get?toc=/azure/storage/queues/toc.json (2023-10-22 11:24 AM)
+                    Configure customer-managed keys in Azure Key Vault:
+                        Configure customer-managed keys in the same tenant:
+                            ☐ Configure customer-managed keys for a new account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-new-account?toc=/azure/storage/queues/toc.json (2024-08-07 10:04 PM)
+                            ☐ Configure customer-managed keys for an existing account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-existing-account?toc=/azure/storage/queues/toc.json (2024-08-07 10:04 PM)
+                        Configure customer-managed keys in a different tenant:
+                            ☐ Configure customer-managed keys for a new account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-cross-tenant-new-account?toc=/azure/storage/queues/toc.json (2024-08-07 10:04 PM)
+                            ☐ Configure customer-managed keys for an existing account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-cross-tenant-existing-account?toc=/azure/storage/queues/toc.json (2024-08-07 10:04 PM)
+                    ☐ Configure customer-managed keys in a managed HSM https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-key-vault-hsm?toc=/azure/storage/queues/toc.json (2024-08-07 10:04 PM)
+                ☐ Enable infrastructure encryption for the account https://learn.microsoft.com/en-us/azure/storage/common/infrastructure-encryption-enable?toc=/azure/storage/queues/toc.json (2024-06-06 05:44 AM)
+            ☐ Configure client-side encryption https://learn.microsoft.com/en-us/azure/storage/queues/client-side-encryption (2024-09-10 10:03 PM)
+            Configure network security:
+                ☐ Configure firewalls and virtual networks https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=/azure/storage/queues/toc.json (2024-12-17 06:04 PM)
+                ☐ Require secure transfer https://learn.microsoft.com/en-us/azure/storage/common/storage-require-secure-transfer?toc=/azure/storage/queues/toc.json (2024-06-27 05:04 PM)
+                Manage Transport Layer Security (TLS):
+                    ☐ Enforce minimum TLS version for incoming requests https://learn.microsoft.com/en-us/azure/storage/common/transport-layer-security-configure-minimum-version?toc=/azure/storage/queues/toc.json (2024-09-11 06:38 PM)
+                    ☐ Configure TLS version for a client application https://learn.microsoft.com/en-us/azure/storage/common/transport-layer-security-configure-client-version?toc=/azure/storage/queues/toc.json (2023-10-22 11:24 AM)
+            ☐ Enable threat protection with Microsoft Defender for Storage https://learn.microsoft.com/en-us/azure/storage/common/azure-defender-storage-configure?toc=/azure/storage/queues/toc.json (2024-12-17 06:03 PM)
+        Manage data redundancy:
+            ☐ Change how data is replicated https://learn.microsoft.com/en-us/azure/storage/common/redundancy-migration?toc=/azure/storage/queues/toc.json (2024-12-16 11:03 PM)
+            ☐ Design highly available applications https://learn.microsoft.com/en-us/azure/storage/common/geo-redundant-design?toc=/azure/storage/queues/toc.json (2023-10-22 11:24 AM)
+        Manage disaster recovery:
+            ☐ Check the Last Sync Time property https://learn.microsoft.com/en-us/azure/storage/common/last-sync-time-get?toc=/azure/storage/queues/toc.json (2024-08-05 10:12 PM)
+            ☐ Initiate account failover https://learn.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?toc=/azure/storage/queues/toc.json (2024-08-05 10:12 PM)
+        Use a storage emulator:
+            ☐ Use the Azurite open-source emulator https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?toc=/azure/storage/queues/toc.json (2024-02-20 06:05 PM)
+            ☐ Use the Azure Storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/queues/toc.json (2024-06-27 05:04 PM)
+        Manage queues:
+            ☐ PowerShell for Azure Queues https://learn.microsoft.com/en-us/azure/storage/queues/storage-powershell-how-to-use-queues (2024-06-27 05:04 PM)
+            ☐ PowerShell for China, Government, and German clouds https://learn.microsoft.com/en-us/azure/storage/common/storage-powershell-independent-clouds?toc=/azure/storage/queues/toc.json (2024-06-27 05:04 PM)
+            Monitor:
+                ☐ Scenarios and best practices https://learn.microsoft.com/en-us/azure/storage/queues/queues-storage-monitoring-scenarios (2024-09-11 06:38 PM)
+                Monitor (classic):
+                    ☐ Monitor in the Azure portal (classic) https://learn.microsoft.com/en-us/azure/storage/common/manage-storage-analytics-logs??toc=/azure/storage/queues/toc.json (2024-08-20 05:41 AM)
+        Troubleshoot:
+            ☐ Performance https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-storage-performance (2024-04-09 09:02 AM)
+            ☐ Availability https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-storage-availability (2024-07-30 09:02 AM)
+            ☐ Client errors https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-storage-client-application-errors (2024-04-09 09:02 AM)
+            ☐ Latency issues https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-latency-storage-analytics-logs (2024-04-09 09:02 AM)
+    Reference:
+        APIs for data access:
+            ☐ REST API https://learn.microsoft.com/rest/api/storageservices/queue-service-rest-api (2023-06-27 09:44 PM)
+            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2024-12-06 12:27 PM)
+            ☐ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-20 12:09 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-20 12:08 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-20 12:08 PM)
+        APIs for resource management:
+            ☐ REST API https://learn.microsoft.com/rest/api/storagerp/ (2024-06-18 10:08 PM)
+            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.storage-readme (2024-08-02 02:42 AM)
+            ☐ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-20 12:14 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-20 12:08 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-20 12:08 PM)
+        ☐ Monitoring Queue Storage data reference https://learn.microsoft.com/en-us/azure/storage/queues/monitor-queue-storage-reference (2024-08-20 05:41 AM)
+        ☐ Spring Integration with Azure Storage Queue https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/storage/queues/TOC.json#spring-integration-with-azure-storage-queue (2024-12-18 06:02 PM)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.storage/allversions (2024-12-03 10:14 PM)
+    Resources:
+        ☐ Azure updates https://azure.microsoft.com/updates/?product=storage
+        Azure Storage Explorer:
+            ☐ Download Storage Explorer https://azure.microsoft.com/features/storage-explorer/
+            ☐ Get started with Storage Explorer https://learn.microsoft.com/en-us/azure/vs-azure-tools-storage-manage-with-storage-explorer?toc=/azure/storage/queues/toc.json (2024-08-29 05:56 AM)
+            ☐ Storage Explorer release notes https://github.com/microsoft/AzureStorageExplorer/releases
+            ☐ Troubleshoot Storage Explorer https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-explorer-troubleshooting (2024-04-19 09:01 AM)
+            ☐ Storage Explorer accessibility https://learn.microsoft.com/en-us/azure/vs-azure-tools-storage-explorer-accessibility?toc=/azure/storage/queues/toc.json (2024-02-04 12:25 PM)
+        ☐ Queue storage on Microsoft Q&A https://learn.microsoft.com/answers/topics/azure-queue-storage.html
+        ☐ Queue storage on Stack Overflow https://stackoverflow.com/questions/tagged/azure-queues
+        ☐ Pricing for Queue storage https://azure.microsoft.com/pricing/details/storage/queues/
+        ☐ Azure pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=storage
+        NuGet packages (.NET):
+            ☐ Microsoft.Azure.Storage.Common (version 11.x) https://www.nuget.org/packages/microsoft.azure.storage.common/
+            ☐ Azure.Storage.Common (version 12.x) https://www.nuget.org/packages/Azure.Storage.Common/
+            ☐ Microsoft.Azure.Storage.Queue (version 11.x) https://www.nuget.org/packages/microsoft.azure.storage.queue/
+            ☐ Azure.Storage.Queue (version 12.x) https://www.nuget.org/packages/azure.storage.queues/
+            ☐ Azure Configuration Manager https://www.nuget.org/packages/microsoft.azure.configurationmanager/
+            ☐ Storage Resource Provider library https://www.nuget.org/packages/microsoft.azure.management.storage/
+        Source code:
+            .NET:
+                Azure Storage client library:
+                    ☐ Version 12.x https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/storage
+                    ☐ Version 11.x and earlier https://github.com/Azure/azure-storage-net
+                ☐ Data Movement library https://learn.microsoft.com/dotnet/api/microsoft.azure.storage.datamovement (2019-05-02 06:21 PM)
+                ☐ Storage Resource Provider library https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/storage/Azure.ResourceManager.Storage
+            Java:
+                ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-java/tree/master/sdk/storage
+                ☐ Blobs, Queues, and Files (version 8) https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-20 12:09 PM)
+                ☐ Azure Storage client library version 8.x and earlier https://github.com/Azure/azure-storage-java
+            Node.js:
+                ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-js/tree/master/sdk/storage
+                ☐ Azure Storage client library version 10.x https://github.com/Azure/azure-storage-node
+            Python:
+                ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-python/tree/master/sdk/storage
+                ☐ Azure Storage client library version 2.1 https://github.com/Azure/azure-storage-python
+        ☐ Compliance offerings https://learn.microsoft.com/en-us/azure/storage/common/storage-compliance-offerings (2024-08-29 05:56 AM)
 

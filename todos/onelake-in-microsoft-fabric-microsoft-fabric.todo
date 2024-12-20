@@ -1,62 +1,63 @@
-☐ OneLake documentation https://learn.microsoft.com/en-us/fabric/onelake/
-Overview:
-    ☐ What is OneLake? https://learn.microsoft.com/en-us/fabric/onelake/onelake-overview
-Get started:
-    ☐ Bring your data to OneLake with Lakehouse https://learn.microsoft.com/en-us/fabric/onelake/create-lakehouse-onelake
-    ☐ Implement medallion lakehouse architecture https://learn.microsoft.com/en-us/fabric/onelake/onelake-medallion-lakehouse-architecture
-    ☐ Transform with Apache Spark and query data with SQL https://learn.microsoft.com/en-us/fabric/onelake/onelake-onecopy-quickstart
-    ☐ Connect to ADLS and transform data with Azure Databricks https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts-adb-quickstart
-    ☐ Ingest data and analyze with Azure Databricks https://learn.microsoft.com/en-us/fabric/onelake/onelake-open-access-quickstart
-Shortcuts:
-    ☐ What are shortcuts? https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts
-    ☐ Create a OneLake shortcut https://learn.microsoft.com/en-us/fabric/onelake/create-onelake-shortcut
-    ☐ Create an ADLS Gen2 shortcut https://learn.microsoft.com/en-us/fabric/onelake/create-adls-shortcut
-    ☐ Create an Amazon S3 shortcut https://learn.microsoft.com/en-us/fabric/onelake/create-s3-shortcut
-    ☐ Create an Amazon S3 compatible shortcut https://learn.microsoft.com/en-us/fabric/onelake/create-s3-compatible-shortcut
-    ☐ Create a Google Cloud Storage shortcut https://learn.microsoft.com/en-us/fabric/onelake/create-gcs-shortcut
-    ☐ Create shortcuts to on-premises data https://learn.microsoft.com/en-us/fabric/onelake/create-on-premises-shortcut
-    ☐ Create shortcuts to an Iceberg table https://learn.microsoft.com/en-us/fabric/onelake/onelake-iceberg-tables
-    ☐ Shortcut security https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcut-security
-    ☐ Access OneLake shortcuts in an Apache Spark notebook https://learn.microsoft.com/en-us/fabric/onelake/access-onelake-shortcuts
-    ☐ Use shortcuts REST API https://learn.microsoft.com/rest/api/fabric/core/onelake-shortcuts?toc=/fabric/onelake/toc.json&bc=/fabric/onelake/toc.json
-Open access:
-    ☐ How do I connect to OneLake? https://learn.microsoft.com/en-us/fabric/onelake/onelake-access-api
-    ☐ OneLake parity and integration https://learn.microsoft.com/en-us/fabric/onelake/onelake-api-parity
-    ☐ Use Python to manage OneLake https://learn.microsoft.com/en-us/fabric/onelake/onelake-access-python
-Integrate with Azure services:
-    ☐ Azure Synapse Analytics https://learn.microsoft.com/en-us/fabric/onelake/onelake-azure-synapse-analytics
-    ☐ Azure Storage Explorer https://learn.microsoft.com/en-us/fabric/onelake/onelake-azure-storage-explorer
-    ☐ Azure Databricks https://learn.microsoft.com/en-us/fabric/onelake/onelake-azure-databricks
-    ☐ Databricks Unity Catalog https://learn.microsoft.com/en-us/fabric/onelake/onelake-unity-catalog
-    ☐ Azure HDInsight https://learn.microsoft.com/en-us/fabric/onelake/onelake-azure-hdinsight
-    ☐ PowerShell https://learn.microsoft.com/en-us/fabric/onelake/onelake-powershell
-Secure and manage data:
-    ☐ Fabric and OneLake data security https://learn.microsoft.com/en-us/fabric/onelake/security/fabric-onelake-security
-    ☐ OneLake data access control model https://learn.microsoft.com/en-us/fabric/onelake/security/data-access-control-model
-    Get started with securing data in OneLake:
-        ☐ OneLake security overview https://learn.microsoft.com/en-us/fabric/onelake/security/get-started-security
-        ☐ Get started with data access roles https://learn.microsoft.com/en-us/fabric/onelake/security/get-started-data-access-roles
-        ☐ Best Practices https://learn.microsoft.com/en-us/fabric/onelake/security/best-practices-secure-data-in-onelake
-    How To Secure Data in OneLake:
-        ☐ For Data Science https://learn.microsoft.com/en-us/fabric/onelake/security/how-to-secure-data-onelake-for-data-science
-        ☐ For Data Warehousing https://learn.microsoft.com/en-us/fabric/onelake/security/how-to-secure-data-onelake-for-data-warehousing
-        ☐ For common data architectures https://learn.microsoft.com/en-us/fabric/onelake/security/how-to-common-data-architectures
-    Authorize with a OneLake shared access signature (SAS):
-        ☐ What is OneLake SAS? https://learn.microsoft.com/en-us/fabric/onelake/onelake-shared-access-signature-overview
-        ☐ Create a OneLake SAS https://learn.microsoft.com/en-us/fabric/onelake/how-to-create-a-onelake-shared-access-signature
-    ☐ Plan for disaster recovery and data protection https://learn.microsoft.com/en-us/fabric/onelake/onelake-disaster-recovery
-OneLake file explorer for Windows:
-    ☐ OneLake file explorer overview https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer
-    ☐ Release notes https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer-release-notes
-☐ Discover data in the OneLake data hub https://learn.microsoft.com/en-us/fabric/get-started/onelake-data-hub?toc=/fabric/onelake/TOC.json&bc=/fabric/onelake/breadcrumb/toc.json
-Billing and consumption:
-    ☐ OneLake compute and storage consumption https://learn.microsoft.com/en-us/fabric/onelake/onelake-consumption
-    ☐ OneLake capacity consumption example https://learn.microsoft.com/en-us/fabric/onelake/onelake-capacity-consumption
-OneLake events:
-    ☐ Explore OneLake events https://learn.microsoft.com/en-us/fabric/real-time-hub/explore-fabric-onelake-events?toc=/fabric/onelake/toc.json&bc=/fabric/onelake/toc.json
-    ☐ Get OneLake events in Real-Time hub https://learn.microsoft.com/en-us/fabric/real-time-hub/create-streams-fabric-onelake-events?toc=/fabric/onelake/toc.json&bc=/fabric/onelake/toc.json
-    ☐ Set alerts on OneLake events https://learn.microsoft.com/en-us/fabric/real-time-hub/set-alerts-fabric-onelake-events?toc=/fabric/onelake/toc.json&bc=/fabric/onelake/toc.json
-Reference:
-    ☐ OneLake shortcuts REST API https://learn.microsoft.com/rest/api/fabric/core/onelake-shortcuts
-    ☐ OneLake data access roles REST API https://learn.microsoft.com/rest/api/fabric/core/onelake-data-access-security
+OneLake in Microsoft Fabric documentation - Microsoft Fabric | Microsoft Learn:
+    ☐ OneLake documentation https://learn.microsoft.com/en-us/fabric/onelake/ (2024-11-13 11:53 PM)
+    Overview:
+        ☐ What is OneLake? https://learn.microsoft.com/en-us/fabric/onelake/onelake-overview (2024-07-31 09:57 PM)
+    Get started:
+        ☐ Bring your data to OneLake with Lakehouse https://learn.microsoft.com/en-us/fabric/onelake/create-lakehouse-onelake (2024-07-31 09:57 PM)
+        ☐ Implement medallion lakehouse architecture https://learn.microsoft.com/en-us/fabric/onelake/onelake-medallion-lakehouse-architecture (2024-07-31 09:57 PM)
+        ☐ Transform with Apache Spark and query data with SQL https://learn.microsoft.com/en-us/fabric/onelake/onelake-onecopy-quickstart (2024-09-08 11:04 AM)
+        ☐ Connect to ADLS and transform data with Azure Databricks https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts-adb-quickstart (2024-07-31 09:57 PM)
+        ☐ Ingest data and analyze with Azure Databricks https://learn.microsoft.com/en-us/fabric/onelake/onelake-open-access-quickstart (2024-07-31 09:57 PM)
+    Shortcuts:
+        ☐ What are shortcuts? https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts (2024-09-24 07:03 AM)
+        ☐ Create a OneLake shortcut https://learn.microsoft.com/en-us/fabric/onelake/create-onelake-shortcut (2024-07-31 09:57 PM)
+        ☐ Create an ADLS Gen2 shortcut https://learn.microsoft.com/en-us/fabric/onelake/create-adls-shortcut (2024-07-31 09:57 PM)
+        ☐ Create an Amazon S3 shortcut https://learn.microsoft.com/en-us/fabric/onelake/create-s3-shortcut (2024-07-31 09:57 PM)
+        ☐ Create an Amazon S3 compatible shortcut https://learn.microsoft.com/en-us/fabric/onelake/create-s3-compatible-shortcut (2024-09-24 07:03 AM)
+        ☐ Create a Google Cloud Storage shortcut https://learn.microsoft.com/en-us/fabric/onelake/create-gcs-shortcut (2024-09-24 07:03 AM)
+        ☐ Create shortcuts to on-premises data https://learn.microsoft.com/en-us/fabric/onelake/create-on-premises-shortcut (2024-07-31 09:57 PM)
+        ☐ Create shortcuts to an Iceberg table https://learn.microsoft.com/en-us/fabric/onelake/onelake-iceberg-tables (2024-11-26 11:01 PM)
+        ☐ Shortcut security https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcut-security (2024-07-31 09:57 PM)
+        ☐ Access OneLake shortcuts in an Apache Spark notebook https://learn.microsoft.com/en-us/fabric/onelake/access-onelake-shortcuts (2024-07-31 09:57 PM)
+        ☐ Use shortcuts REST API https://learn.microsoft.com/rest/api/fabric/core/onelake-shortcuts?toc=/fabric/onelake/toc.json&bc=/fabric/onelake/toc.json (2024-08-18 11:19 AM)
+    Open access:
+        ☐ How do I connect to OneLake? https://learn.microsoft.com/en-us/fabric/onelake/onelake-access-api (2024-07-31 09:57 PM)
+        ☐ OneLake parity and integration https://learn.microsoft.com/en-us/fabric/onelake/onelake-api-parity (2024-07-31 09:57 PM)
+        ☐ Use Python to manage OneLake https://learn.microsoft.com/en-us/fabric/onelake/onelake-access-python (2024-07-31 09:57 PM)
+    Integrate with Azure services:
+        ☐ Azure Synapse Analytics https://learn.microsoft.com/en-us/fabric/onelake/onelake-azure-synapse-analytics (2024-07-31 09:57 PM)
+        ☐ Azure Storage Explorer https://learn.microsoft.com/en-us/fabric/onelake/onelake-azure-storage-explorer (2024-07-31 09:57 PM)
+        ☐ Azure Databricks https://learn.microsoft.com/en-us/fabric/onelake/onelake-azure-databricks (2024-07-31 09:57 PM)
+        ☐ Databricks Unity Catalog https://learn.microsoft.com/en-us/fabric/onelake/onelake-unity-catalog (2024-11-20 11:00 PM)
+        ☐ Azure HDInsight https://learn.microsoft.com/en-us/fabric/onelake/onelake-azure-hdinsight (2024-07-31 09:57 PM)
+        ☐ PowerShell https://learn.microsoft.com/en-us/fabric/onelake/onelake-powershell (2024-07-31 09:57 PM)
+    Secure and manage data:
+        ☐ Fabric and OneLake data security https://learn.microsoft.com/en-us/fabric/onelake/security/fabric-onelake-security (2024-07-31 09:57 PM)
+        ☐ OneLake data access control model https://learn.microsoft.com/en-us/fabric/onelake/security/data-access-control-model (2024-11-20 11:00 PM)
+        Get started with securing data in OneLake:
+            ☐ OneLake security overview https://learn.microsoft.com/en-us/fabric/onelake/security/get-started-security (2024-07-31 09:57 PM)
+            ☐ Get started with data access roles https://learn.microsoft.com/en-us/fabric/onelake/security/get-started-data-access-roles (2024-08-07 10:00 PM)
+            ☐ Best Practices https://learn.microsoft.com/en-us/fabric/onelake/security/best-practices-secure-data-in-onelake (2024-07-31 09:57 PM)
+        How To Secure Data in OneLake:
+            ☐ For Data Science https://learn.microsoft.com/en-us/fabric/onelake/security/how-to-secure-data-onelake-for-data-science (2024-07-31 09:57 PM)
+            ☐ For Data Warehousing https://learn.microsoft.com/en-us/fabric/onelake/security/how-to-secure-data-onelake-for-data-warehousing (2024-11-20 11:00 PM)
+            ☐ For common data architectures https://learn.microsoft.com/en-us/fabric/onelake/security/how-to-common-data-architectures (2024-07-31 09:57 PM)
+        Authorize with a OneLake shared access signature (SAS):
+            ☐ What is OneLake SAS? https://learn.microsoft.com/en-us/fabric/onelake/onelake-shared-access-signature-overview (2024-09-29 11:11 AM)
+            ☐ Create a OneLake SAS https://learn.microsoft.com/en-us/fabric/onelake/how-to-create-a-onelake-shared-access-signature (2024-09-29 11:11 AM)
+        ☐ Plan for disaster recovery and data protection https://learn.microsoft.com/en-us/fabric/onelake/onelake-disaster-recovery (2024-07-31 09:57 PM)
+    OneLake file explorer for Windows:
+        ☐ OneLake file explorer overview https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer (2024-07-31 09:57 PM)
+        ☐ Release notes https://learn.microsoft.com/en-us/fabric/onelake/onelake-file-explorer-release-notes (2024-07-31 09:57 PM)
+    ☐ Discover data in the OneLake data hub https://learn.microsoft.com/en-us/fabric/get-started/onelake-data-hub?toc=/fabric/onelake/TOC.json&bc=/fabric/onelake/breadcrumb/toc.json (2024-11-26 12:06 PM)
+    Billing and consumption:
+        ☐ OneLake compute and storage consumption https://learn.microsoft.com/en-us/fabric/onelake/onelake-consumption (2024-09-20 10:00 PM)
+        ☐ OneLake capacity consumption example https://learn.microsoft.com/en-us/fabric/onelake/onelake-capacity-consumption (2024-09-06 11:04 AM)
+    OneLake events:
+        ☐ Explore OneLake events https://learn.microsoft.com/en-us/fabric/real-time-hub/explore-fabric-onelake-events?toc=/fabric/onelake/toc.json&bc=/fabric/onelake/toc.json (2024-11-25 12:13 PM)
+        ☐ Get OneLake events in Real-Time hub https://learn.microsoft.com/en-us/fabric/real-time-hub/create-streams-fabric-onelake-events?toc=/fabric/onelake/toc.json&bc=/fabric/onelake/toc.json (2024-12-03 12:04 PM)
+        ☐ Set alerts on OneLake events https://learn.microsoft.com/en-us/fabric/real-time-hub/set-alerts-fabric-onelake-events?toc=/fabric/onelake/toc.json&bc=/fabric/onelake/toc.json (2024-12-03 12:04 PM)
+    Reference:
+        ☐ OneLake shortcuts REST API https://learn.microsoft.com/rest/api/fabric/core/onelake-shortcuts (2024-08-18 11:19 AM)
+        ☐ OneLake data access roles REST API https://learn.microsoft.com/rest/api/fabric/core/onelake-data-access-security (2024-05-30 10:28 PM)
 
