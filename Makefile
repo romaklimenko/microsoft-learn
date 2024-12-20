@@ -1,0 +1,2 @@
+crawl:
+	python crawler.py

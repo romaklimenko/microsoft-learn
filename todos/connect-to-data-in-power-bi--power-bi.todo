@@ -1,0 +1,180 @@
+Connect to data in Power BI https://learn.microsoft.com/en-us/power-bi/connect-data/:
+    Overview:
+        ☐ Data sources in Power BI https://learn.microsoft.com/en-us/power-bi/connect-data/service-get-data
+        ☐ What is an on-premises data gateway? https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-onprem
+        ☐ OneLake data hub https://learn.microsoft.com/fabric/get-started/onelake-data-hub?toc=/power-bi/connect-data/toc.json&bc=/power-bi/connect-data/breadcrumb/toc.json
+        ☐ Semantic model details page https://learn.microsoft.com/en-us/power-bi/connect-data/service-dataset-details-page
+        ☐ Datamart details page https://learn.microsoft.com/en-us/power-bi/connect-data/service-datamart-details-page
+        ☐ Power BI for Azure users https://learn.microsoft.com/en-us/power-bi/connect-data/powerbi-azure-landing
+    Quickstarts:
+        ☐ Connect to data in Power BI Desktop https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-quickstart-connect-to-data
+    Tutorials:
+        ☐ Shape and combine multiple data sources https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-shape-and-combine-data
+        ☐ Import and analyze webpage data https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-tutorial-importing-and-analyzing-data-from-a-web-page
+        ☐ Analyze sales data from Excel and an OData feed https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed
+        ☐ Implement row-level security in an Analysis Services tabular model https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-tutorial-row-level-security-onprem-ssas-tabular
+        ☐ Connect to a GitHub sample https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-connect-to-github
+        ☐ Use Cognitive Services https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-use-cognitive-services
+        ☐ Build a machine learning model https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model
+        ☐ Refresh data from SQL Server https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sql-tutorial
+        ☐ Automate template app configuration https://learn.microsoft.com/en-us/power-bi/connect-data/template-apps-auto-install-tutorial
+    Concepts:
+        ☐ Power BI data sources https://learn.microsoft.com/en-us/power-bi/connect-data/power-bi-data-sources
+        ☐ New name for Power BI datasets https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-rename
+        ☐ Semantic models in the Power BI service https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-understand
+        ☐ Semantic model modes in the Power BI service https://learn.microsoft.com/en-us/power-bi/connect-data/service-dataset-modes-understand
+        ☐ Power BI data source prerequisites https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-source-prerequisites
+        ☐ Using enhanced semantic model metadata in Power BI Desktop https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-enhanced-dataset-metadata
+        ☐ Work with multidimensional models in Power BI https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-default-member-multidimensional-models
+        ☐ About using DirectQuery in Power BI https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-about
+        ☐ Live connection and DirectQuery comparison https://learn.microsoft.com/en-us/power-bi/connect-data/service-live-connect-dq-datasets
+    How-to guides:
+        ☐ Connect to data sources in Power BI Desktop https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-data
+        ☐ Connect to cloud data sources in the Power BI service https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-cloud-data-sources
+        ☐ Create and share cloud data sources in the Power BI service https://learn.microsoft.com/en-us/power-bi/connect-data/service-create-share-cloud-data-sources
+        Connect to data:
+            ☐ Connect to data sources https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-sources
+            ☐ Use dynamic M query parameters https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-dynamic-m-query-parameters
+            ☐ Create a semantic model from Log Analytics https://learn.microsoft.com/en-us/power-bi/connect-data/create-dataset-log-analytics
+            ☐ Create a semantic model from a SharePoint list https://learn.microsoft.com/en-us/power-bi/connect-data/create-dataset-sharepoint-online-list
+            ☐ Create a report on a SharePoint list https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-sharepoint-online-list
+            ☐ Connect to semantic models in the Power BI service https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-report-lifecycle-datasets
+            ☐ Import Excel workbooks https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-import-excel-workbooks
+            ☐ Create visuals with the Microsoft Cost Management connector https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-azure-cost-management
+            ☐ Connect to an Oracle database https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-oracle-database
+            ☐ Enter data directly into Power BI Desktop https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-enter-data-directly-into-desktop
+            ☐ Connect to webpages https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-web
+            Python:
+                ☐ Run Python scripts https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-scripts
+                ☐ Use Python in Query Editor https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-in-query-editor
+                ☐ Use an external Python IDE https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-ide
+                ☐ Create visuals with Python https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-python-visuals
+                ☐ Learn which Python packages are supported https://learn.microsoft.com/en-us/power-bi/connect-data/service-python-packages-support
+            R:
+                ☐ Run R scripts https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-r-scripts
+                ☐ Use R in Query Editor https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-r-in-query-editor
+                ☐ Use an external R IDE https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-r-ide
+                ☐ Create visuals with R packages https://learn.microsoft.com/en-us/power-bi/connect-data/service-r-packages-support
+            ☐ Connect to Snowflake in the Power BI service https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-snowflake
+            ☐ Connect to SSAS multidimensional models https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-ssas-multidimensional
+            ☐ Connect to Analysis Services tabular data https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-analysis-services-tabular-data
+            ☐ Connect to data sources with DirectQuery https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-use-directquery
+            ☐ Connect to SAP Business Warehouse with DirectQuery https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-sap-bw
+            ☐ Connect to SAP HANA data sources with DirectQuery https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-sap-hana
+            ☐ Apply the Assume Referential Integrity setting https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-assume-referential-integrity
+            ☐ Edit SAP variables in the Power BI service https://learn.microsoft.com/en-us/power-bi/connect-data/service-edit-sap-variables
+            ☐ Access SAP BW data with the SAP BW connector https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-sap-bw-connector
+            ☐ Connect to LinkedIn Sales Navigator https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-linkedin-sales-navigator
+            ☐ Use OneDrive for work or school links https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-use-onedrive-business-links
+            ☐ Connect to Project Online data through Power BI Desktop https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-project-online-connect-to-data
+        Gateways:
+            ☐ Guidance for deploying a data gateway https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-deployment-guidance
+            ☐ On-premises data gateway - in-depth https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-onprem-indepth
+            ☐ On-premises data gateway (personal mode) https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-personal-mode
+            ☐ On-premises data gateway FAQ https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-power-bi-faq
+            Manage gateway data sources:
+                ☐ Add or remove a gateway data source https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-data-sources
+                ☐ Manage your enterprise data source - Analysis Services https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-enterprise-manage-ssas
+                ☐ Manage your data source - Oracle https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-onprem-manage-oracle
+                ☐ Manage your enterprise data source - SAP HANA https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-enterprise-manage-sap
+                ☐ Manage your enterprise data source - SQL https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-enterprise-manage-sql
+                ☐ Manage your enterprise data source - import/scheduled refresh https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-enterprise-manage-scheduled-refresh
+                ☐ Merge on-premises and cloud data sources https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-mashup-on-premises-cloud
+            Enable single sign-on (SSO):
+                ☐ SSO overview https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sso-overview
+                Active Directory SSO:
+                    ☐ Active Directory SSO overview https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-active-directory-sso
+                    Kerberos-based SSO:
+                        ☐ Configure Kerberos-based SSO https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sso-kerberos
+                        Data source-specific configuration:
+                            ☐ SAP BW - gx64krb5.dll https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sso-kerberos-sap-bw-gx64krb
+                            ☐ SAP BW - sapcrypto.dll (Common Crypto Library) https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sso-kerberos-sap-bw-commoncryptolib
+                            ☐ SAP HANA https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sso-kerberos-sap-hana
+                            ☐ Teradata and SSO https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sso-kerberos-teradata
+                    ☐ SAML-based SSO https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sso-saml
+                    ☐ Test SSO configuration https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sso-test-configuration
+                ☐ Microsoft Entra SSO https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-azure-active-directory-sso
+            ☐ Troubleshoot the gateway https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-onprem-tshoot
+            ☐ Troubleshoot the gateway (personal mode) https://learn.microsoft.com/en-us/power-bi/connect-data/service-admin-troubleshooting-power-bi-personal-gateway
+            ☐ Use custom connectors https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-custom-connectors
+        Get data:
+            Get data from files:
+                ☐ Get data from files https://learn.microsoft.com/en-us/power-bi/connect-data/service-get-data-from-files
+                ☐ Get data from comma separated value (.csv) files https://learn.microsoft.com/en-us/power-bi/connect-data/service-comma-separated-value-files
+                ☐ Get data from Excel workbook files https://learn.microsoft.com/en-us/power-bi/connect-data/service-excel-workbook-files
+                ☐ Publish to Power BI from Excel https://learn.microsoft.com/en-us/power-bi/connect-data/service-publish-from-excel
+                ☐ Reduce the size of an Excel workbook https://learn.microsoft.com/en-us/power-bi/connect-data/reduce-the-size-of-an-excel-workbook
+                ☐ Get data from Power BI Desktop files https://learn.microsoft.com/en-us/power-bi/connect-data/service-desktop-files
+                ☐ Edit parameters https://learn.microsoft.com/en-us/power-bi/connect-data/service-parameters
+                ☐ Real-time streaming in Power BI https://learn.microsoft.com/en-us/power-bi/connect-data/service-real-time-streaming
+            Get data from shared semantic models:
+                ☐ Use semantic models across workspaces https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-across-workspaces
+                ☐ Provide a semantic model description https://learn.microsoft.com/en-us/power-bi/connect-data/service-dataset-description
+                ☐ Share semantic model access (preview) https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-share
+                ☐ Semantic model permissions https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-permissions
+                ☐ Manage semantic model access (preview) https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-manage-access-permissions
+                ☐ Build permission for shared semantic models https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-build-permissions
+                ☐ Create reports based on semantic models https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-discover-across-workspaces
+                ☐ Copy reports based on semantic models https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-copy-reports
+                ☐ Control the use of semantic models https://learn.microsoft.com/en-us/power-bi/connect-data/service-datasets-admin-across-workspaces
+            Get data from databases:
+                ☐ Azure and Power BI https://learn.microsoft.com/en-us/power-bi/connect-data/service-azure-and-power-bi
+                ☐ Power BI and Azure egress https://learn.microsoft.com/en-us/power-bi/connect-data/service-azure-egress-power-bi
+                ☐ Azure Synapse Analytics (formerly SQL Data Warehouse) with DirectQuery https://learn.microsoft.com/en-us/power-bi/connect-data/service-azure-sql-data-warehouse-with-direct-connect
+                ☐ Azure SQL Database with DirectQuery https://learn.microsoft.com/en-us/power-bi/connect-data/service-azure-sql-database-with-direct-connect
+        Refresh data:
+            ☐ Data refresh in Power BI https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-data
+            ☐ Configure scheduled refresh https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-scheduled-refresh
+            ☐ Refresh summaries https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-summaries
+            Incremental refresh:
+                ☐ Incremental refresh and real-time data for semantic models https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-overview
+                ☐ Configure incremental refresh and real-time data https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-configure
+                ☐ Advanced incremental refresh https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-xmla
+                ☐ Troubleshoot incremental refresh and real-time data https://learn.microsoft.com/en-us/power-bi/connect-data/incremental-refresh-troubleshoot
+            ☐ Manage query refresh https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-include-in-report-refresh
+            ☐ Query caching in Power BI Premium https://learn.microsoft.com/en-us/power-bi/connect-data/power-bi-query-caching
+            ☐ Enhanced refresh with REST API https://learn.microsoft.com/en-us/power-bi/connect-data/asynchronous-refresh
+            ☐ Refresh a semantic model from a local Power BI Desktop file https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-desktop-file-local-drive
+            ☐ Refresh a semantic model from a cloud Power BI Desktop file https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-desktop-file-onedrive
+            ☐ Refresh a semantic model from a local Excel workbook https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-excel-file-local-drive
+            ☐ Refresh a semantic model from a cloud Excel workbook https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-excel-file-onedrive
+            ☐ Refresh a semantic model from a .csv file on OneDrive https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-csv-file-onedrive
+            ☐ Frequent refreshes using Real-Time Intelligence https://learn.microsoft.com/en-us/power-bi/connect-data/real-time-intelligence-sample
+        Template apps:
+            ☐ Template apps overview https://learn.microsoft.com/en-us/power-bi/connect-data/service-template-apps-overview
+            ☐ Create and publish a template app https://learn.microsoft.com/en-us/power-bi/connect-data/service-template-apps-create
+            ☐ Tips for creating template apps https://learn.microsoft.com/en-us/power-bi/connect-data/service-template-apps-tips
+            ☐ Manage your published template app https://learn.microsoft.com/en-us/power-bi/connect-data/service-template-update-delete-extract
+            ☐ Install, share, and update a template app https://learn.microsoft.com/en-us/power-bi/connect-data/service-template-apps-install-distribute
+            ☐ Automated template app configuration https://learn.microsoft.com/en-us/power-bi/connect-data/template-apps-auto-install
+        Connect to services:
+            ☐ Connect to services with apps https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-services
+            ☐ Crisis Communication Presence Report https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-crisis-communication-presence-report
+            ☐ Emissions Impact Dashboard for Azure https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-emissions-impact-dashboard
+            ☐ Emissions Impact Dashboard for Microsoft 365 https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-emissions-impact-dashboard-microsoft-365
+            ☐ GitHub https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-github
+            ☐ Hospital Emergency Response Decision Support Dashboard https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-health-emergency-response
+            ☐ Office365Mon https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-office365mon
+            ☐ Project Online https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-project-online
+            ☐ Regional Emergency Response Dashboard https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-regional-emergency-response
+            ☐ Salesforce Analytics https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-salesforce
+            ☐ Smartsheet https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-smartsheet
+            ☐ Zendesk https://learn.microsoft.com/en-us/power-bi/connect-data/service-connect-to-zendesk
+        Troubleshoot:
+            ☐ Troubleshoot opening Power BI Desktop https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-error-launching-desktop
+            ☐ Troubleshoot refresh scenarios https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-troubleshooting-refresh-scenarios
+            ☐ Troubleshoot tile errors https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-troubleshooting-tile-errors
+            ☐ Troubleshoot an unsupported data source for refresh https://learn.microsoft.com/en-us/power-bi/connect-data/service-admin-troubleshoot-unsupported-data-source-for-refresh
+            ☐ Troubleshoot scheduled refresh for Azure SQL Databases https://learn.microsoft.com/en-us/power-bi/connect-data/service-admin-troubleshooting-scheduled-refresh-azure-sql-databases
+            ☐ Troubleshoot analyze in Excel https://learn.microsoft.com/en-us/power-bi/collaborate-share/desktop-troubleshooting-analyze-in-excel
+            ☐ Error: We couldn't find any data in your Excel workbook https://learn.microsoft.com/en-us/power-bi/connect-data/service-admin-troubleshoot-excel-workbook-data
+            ☐ Troubleshoot importing Access and Excel .xls files https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-access-database-errors
+            ☐ Troubleshoot developing DirectQuery models https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-directquery-troubleshoot
+            ☐ Troubleshoot nested values https://learn.microsoft.com/en-us/power-bi/connect-data/service-troubleshooting-nested-values
+            ☐ Troubleshoot sign in with OData feed connections https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-troubleshoot-odata
+    Reference:
+        ☐ Data types in Power BI Desktop https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-data-types
+        ☐ Connector extensibility https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connector-extensibility
+        ☐ Trusted third-party connectors https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-trusted-third-party-connectors
+        ☐ Manage DirectQuery connections to a published semantic model https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-discourage-directquery-connections-to-dataset
+

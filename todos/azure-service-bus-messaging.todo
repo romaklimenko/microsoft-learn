@@ -1,0 +1,199 @@
+☐ Service Bus Messaging Documentation https://learn.microsoft.com/en-us/azure/service-bus-messaging/
+Overview:
+    ☐ What is Service Bus Messaging? https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview
+    ☐ Use Service Bus with Java Message Service (JMS) 2.0 https://learn.microsoft.com/en-us/azure/service-bus-messaging/how-to-use-java-message-service-20
+    ☐ Compare messaging services https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services
+Quickstarts:
+    Service Bus queues:
+        Create a Service Bus queue:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-portal
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-powershell
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-cli
+            ☐ Bicep https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-queue-bicep
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-queue
+        Send and receive messages:
+            ☐ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues
+            ☐ Go https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-go-how-to-use-queues
+            Java:
+                ☐ Java https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-java-how-to-use-queues
+                ☐ Spring https://learn.microsoft.com/azure/developer/java/spring-framework/configure-spring-boot-starter-java-app-with-azure-service-bus?toc=/azure/service-bus-messaging/toc.json
+            ☐ JavaScript https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-nodejs-how-to-use-queues
+            ☐ Python https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues
+            ☐ TypeScript https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-typescript-how-to-use-queues
+    Services Bus topics and subscriptions:
+        Create topics and subscriptions:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-topics-subscriptions-portal
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-tutorial-topics-subscriptions-cli
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-topic
+        Publish and subscribe for messages:
+            ☐ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions
+            Java:
+                ☐ Java https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-java-how-to-use-topics-subscriptions
+                ☐ Spring https://learn.microsoft.com/azure/developer/java/spring-framework/configure-spring-boot-starter-java-app-with-azure-service-bus?toc=/azure/service-bus-messaging/toc.json
+            ☐ JavaScript https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-nodejs-how-to-use-topics-subscriptions
+            ☐ Python https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-topics-subscriptions
+            ☐ TypeScript https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-typescript-how-to-use-topics-subscriptions
+Tutorials:
+    ☐ Update inventory https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-tutorial-topics-subscriptions-portal
+    Handle Service Bus events via Event Grid:
+        ☐ Azure Logic Apps https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-to-event-grid-integration-example
+        ☐ Azure Functions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-to-event-grid-integration-function
+    ☐ Build message-driven business applications with NServiceBus https://learn.microsoft.com/en-us/azure/service-bus-messaging/build-message-driven-apps-nservicebus
+Samples:
+    ☐ Service Bus samples https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-samples
+Concepts:
+    ☐ Queues, topics, and subscriptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions
+    ☐ Premium messaging https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-premium-messaging
+    ☐ Compare Azure Queues and Service Bus queues https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted
+    Local emulator:
+        ☐ Overview of Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/overview-emulator
+        ☐ What's new with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-emulator-whats-new
+    Advanced features:
+        ☐ Overview of advanced features https://learn.microsoft.com/en-us/azure/service-bus-messaging/advanced-features-overview
+        ☐ Message sessions https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-sessions
+        ☐ Duplicate message detection https://learn.microsoft.com/en-us/azure/service-bus-messaging/duplicate-detection
+        ☐ Topic filters and actions https://learn.microsoft.com/en-us/azure/service-bus-messaging/topic-filters
+        ☐ Message browsing https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-browsing
+        ☐ Message transfers, locks, and settlement https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-transfers-locks-settlement
+        ☐ Dead-letter queues https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dead-letter-queues
+        ☐ Message deferral https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-deferral
+        ☐ Prefetch messages https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-prefetch
+        ☐ Chain entities with auto-forwarding https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-auto-forwarding
+        ☐ Transaction processing https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-transactions
+        ☐ Optimize performance https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-performance-improvements
+        ☐ Geo-Disaster Recovery https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-geo-dr
+        ☐ Geo-Replication https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-geo-replication
+        ☐ Asynchronous messaging and high availability https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-async-messaging
+        ☐ Handling outages and disasters https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters
+        ☐ Throttling https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-throttling
+        ☐ Enforce minimum required TLS version https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-enforce-minimum-version
+        ☐ Delete messages in Service Bus https://learn.microsoft.com/en-us/azure/service-bus-messaging/batch-delete
+    Federation:
+        ☐ Message replication and cross-region federation https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-overview
+        ☐ Message replication tasks and applications https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-replicator-functions
+        ☐ Message replication task patterns https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-patterns
+        ☐ Configured replication tasks https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-configuration
+        ☐ Replicate events between Service Bus entities https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/ServiceBusCopy
+        ☐ Replicate messages to Event Hubs https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/ServiceBusCopyToEventHub
+        ☐ Acquire messages from Event Hubs https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/EventHubCopyToServiceBus
+    Security:
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/service-bus-messaging-security-baseline?toc=/azure/service-bus-messaging/TOC.json
+        Authentication and authorization https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-authentication-and-authorization:
+            ☐ Authentication with Shared Access Signatures https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-sas
+            Use Microsoft Entra ID:
+                ☐ Authenticate with managed identities for Azure resources https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-managed-service-identity
+                ☐ Authenticate from an application https://learn.microsoft.com/en-us/azure/service-bus-messaging/authenticate-application
+        ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/service-bus-messaging/security-controls-policy
+        ☐ Network security https://learn.microsoft.com/en-us/azure/service-bus-messaging/network-security
+    Integration with other services:
+        ☐ Azure Service Bus and Azure Event Grid integration https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-to-event-grid-integration-concept
+How-to guides:
+    Develop:
+        ☐ Set subscription filters and actions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-filter-examples
+        Message handling:
+            ☐ Java message service (JMS) 2.0 entities https://learn.microsoft.com/en-us/azure/service-bus-messaging/java-message-service-20-entities
+            ☐ Java Message Service (JMS) Developer guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/jms-developer-guide
+            ☐ Messages, payloads, and serialization https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messages-payloads
+            ☐ Message sequencing and timestamps https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-sequencing
+            ☐ Message expiration (Time to Live) https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-expiration
+        ☐ Migrate from Standard to Premium namespaces https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-standard-premium
+        ☐ Partitioned queues and topics https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-partitioning
+        AMQP:
+            ☐ AMQP overview https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-overview
+            ☐ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-dotnet
+            ☐ Java Message Service (JMS) and AMQP https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-java-how-to-use-jms-api-amqp
+            ☐ AMQP protocol guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-protocol-guide
+            ☐ AMQP request-response-based operations https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-request-response
+            ☐ AMQP errors https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-troubleshoot
+        ☐ Build a multi-tier Service Bus application https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-multi-tier-app-using-service-bus-queues
+        ☐ Test locally with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator
+    Migrate:
+        ☐ Migrate from ActiveMQ to Azure Service Bus https://learn.microsoft.com/en-us/azure/service-bus-messaging/migrate-jms-activemq-to-servicebus
+        ☐ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management
+        ☐ Migrate to Passwordless Connections https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-azure-credentials
+    Monitor:
+        ☐ End-to-end tracing and diagnostics https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-end-to-end-tracing
+        ☐ Monitor Azure Service Bus https://learn.microsoft.com/en-us/azure/service-bus-messaging/monitor-service-bus
+        ☐ Azure Monitor - Service Bus insights https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-insights
+    Integrate:
+        ☐ Integrate with RabbitMQ https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-integrate-with-rabbitmq
+    Manage:
+        ☐ Enable sessions for a queue or subscription https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-message-sessions
+        ☐ Enable duplicate detection for a queue or topic https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-duplicate-detection
+        ☐ Enable partitions (basic / standard) https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-partitions-basic-standard
+        ☐ Enable partitions for queues or topics in premium tier https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-partitions-premium
+        ☐ Enable auto forwarding for a queue or subscription https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-auto-forward
+        ☐ Enable dead lettering for a queue or subscription https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-dead-letter
+        ☐ Get message counters https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-counters
+        ☐ Move across regions https://learn.microsoft.com/en-us/azure/service-bus-messaging/move-across-regions
+        ☐ Automatically update messaging units https://learn.microsoft.com/en-us/azure/service-bus-messaging/automate-update-messaging-units
+        ☐ Use Azure PowerShell to provision entities https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-manage-with-ps
+        ☐ Service Bus management libraries https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-management-libraries
+        ☐ Suspend and reactivate messaging entities https://learn.microsoft.com/en-us/azure/service-bus-messaging/entity-suspend
+        ☐ Use Service Bus Explorer https://learn.microsoft.com/en-us/azure/service-bus-messaging/explorer
+        ☐ Prepare for planned maintenance https://learn.microsoft.com/en-us/azure/service-bus-messaging/prepare-for-planned-maintenance
+        Use ARM templates https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-overview:
+            ☐ Create a namespace https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace
+            ☐ Create an authorization rule for namespace and queue https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-auth-rule
+            ☐ Create a namespace with topic, subscription, and rule https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-topic-with-rule
+    Secure:
+        ☐ Allow access from specific IP addresses https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-ip-filtering
+        ☐ Allow access from specific virtual networks https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-service-endpoints
+        ☐ Allow access via private endpoints https://learn.microsoft.com/en-us/azure/service-bus-messaging/private-link-service
+        ☐ Encrypt data using customer-managed keys https://learn.microsoft.com/en-us/azure/service-bus-messaging/configure-customer-managed-key
+        ☐ Disable local or SAS authentication https://learn.microsoft.com/en-us/azure/service-bus-messaging/disable-local-authentication
+        ☐ Configure minimum required TLS version https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-configure-minimum-version
+        ☐ Audit minimum required TLS version https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-audit-minimum-version
+        ☐ Configure TLS version for client https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-configure-client-version
+    Troubleshoot:
+        ☐ Troubleshooting guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-troubleshooting-guide
+        ☐ SDK troubleshooting guide https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/servicebus/Azure.Messaging.ServiceBus/TROUBLESHOOTING.md
+        ☐ Resource Manager exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-exceptions
+        ☐ Service Bus exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions-latest
+        ☐ Service Bus exceptions (deprecated) https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions
+Reference:
+    ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/service-bus-messaging/monitor-service-bus-reference
+    .NET:
+        ☐ Migrate from Microsoft.Azure.ServiceBus to Azure.Messaging.ServiceBus https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide.md
+        ☐ Migrate from WindowsAzure.ServiceBus to Azure.Messaging.ServiceBus https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide_WindowsAzureServiceBus.md
+        ☐ Azure.Messaging.ServiceBus (.NET Standard - latest) https://learn.microsoft.com/dotnet/api/azure.messaging.servicebus
+        ☐ Microsoft.Azure.ServiceBus (.NET Standard - legacy) https://learn.microsoft.com/dotnet/api/microsoft.azure.servicebus
+        ☐ Microsoft.ServiceBus.Messaging (.NET Framework - legacy) https://learn.microsoft.com/dotnet/api/microsoft.servicebus.messaging
+    Java:
+        ☐ Migrate from azure-servicebus to azure-messaging-servicebus https://github.com/Azure/azure-sdk-for-java/blob/master/sdk/servicebus/azure-messaging-servicebus/migration-guide.md
+        ☐ azure-messaging-servicebus (latest) https://learn.microsoft.com/java/api/com.azure.messaging.servicebus
+        ☐ azure-servicebus (legacy) https://learn.microsoft.com/java/api/com.microsoft.azure.servicebus
+    Spring:
+        ☐ Spring JMS support https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/service-bus-messaging/toc.json#spring-jms-support
+        ☐ Spring Integration with Azure Service Bus https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/service-bus-messaging/toc.json#spring-integration-with-azure-service-bus
+        ☐ Spring Cloud Stream Binder for Azure Service Bus https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/service-bus-messaging/toc.json#spring-cloud-stream-binder-for-azure-service-bus
+    Python:
+        ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus
+        ☐ Migrate from azure-servicebus version 0.50 to version 7 https://github.com/Azure/azure-sdk-for-python/blob/master/sdk/servicebus/azure-servicebus/migration_guide.md
+    JavaScript:
+        ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus
+        ☐ Migrate from version 1 to version 7 https://github.com/Azure/azure-sdk-for-js/blob/master/sdk/servicebus/service-bus/migrationguide.md
+    ☐ Go https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/messaging/azservicebus
+    ☐ PHP https://github.com/Azure/azure-sdk-for-php
+    ☐ Ruby https://github.com/Azure/azure-sdk-for-ruby
+    ☐ Azure CLI https://learn.microsoft.com/cli/azure/servicebus
+    ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.servicebus
+    ☐ REST https://learn.microsoft.com/rest/api/servicebus
+    ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.servicebus/allversions
+    ☐ Quotas https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quotas
+    ☐ Subscription Rule SQL filter syntax https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-sql-filter
+    ☐ Subscription Rule SQL action syntax https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-sql-rule-action
+    ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/service-bus-messaging/policy-reference
+Resources:
+    ☐ FAQ https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-faq
+    ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-service-bus
+    ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=enterprise-integration
+    ☐ Blog https://learn.microsoft.com/archive/blogs/servicebus/
+    ☐ Microsoft Q&A question page https://learn.microsoft.com/answers/tags/73/azure-service-bus
+    ☐ Pricing https://azure.microsoft.com/pricing/details/service-bus/
+    ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+    ☐ Service Bus Explorer https://github.com/paolosalvatori/ServiceBusExplorer
+    ☐ Service updates https://azure.microsoft.com/updates/?product=service-bus
+    ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azureservicebus
+    ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=service-bus
+

@@ -1,0 +1,185 @@
+☐ Data Science documentation https://learn.microsoft.com/en-us/fabric/data-science/
+Overview:
+    ☐ What is Data Science? https://learn.microsoft.com/en-us/fabric/data-science/data-science-overview
+    ☐ What is SynapseML? https://learn.microsoft.com/en-us/fabric/data-science/synapse-overview
+Get started:
+    ☐ Data science tutorial introduction https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-introduction
+    ☐ Prepare your system https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-prepare-system
+    ☐ 1 Ingest data into a Fabric lakehouse https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-ingest-data
+    ☐ 2 Explore and clean data using notebooks https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-explore-notebook
+    ☐ 3 Train and register machine learning models https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-train-models
+    ☐ 4 Perform batch scoring and save predictions https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-batch-scoring
+    ☐ 5 Create a Power BI report https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-science-create-report
+Copilot for Data Science:
+    ☐ Copilot for Data Science https://learn.microsoft.com/en-us/fabric/get-started/copilot-notebooks-overview?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Overview of Chat-magics in Notebooks https://learn.microsoft.com/en-us/fabric/get-started/copilot-notebooks-chat-magics?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Use the Copilot chat panel https://learn.microsoft.com/en-us/fabric/get-started/copilot-notebooks-chat-pane?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+AI skill:
+    ☐ What is the AI skill? https://learn.microsoft.com/en-us/fabric/data-science/concept-ai-skill
+    ☐ How to create an AI skill https://learn.microsoft.com/en-us/fabric/data-science/how-to-create-ai-skill
+    ☐ AI skill scenario https://learn.microsoft.com/en-us/fabric/data-science/ai-skill-scenario
+    ☐ AI skill tenant switch https://learn.microsoft.com/en-us/fabric/data-science/ai-skill-tenant-switch
+    ☐ AI skill sharing https://learn.microsoft.com/en-us/fabric/data-science/ai-skill-sharing
+Notebooks:
+    ☐ Create and use notebooks https://learn.microsoft.com/en-us/fabric/data-engineering/how-to-use-notebook?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Develop and run notebooks https://learn.microsoft.com/en-us/fabric/data-engineering/author-execute-notebook?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Use Python experience on notebook https://learn.microsoft.com/en-us/fabric/data-engineering/using-python-experience-on-notebook?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Format code in notebooks https://learn.microsoft.com/en-us/fabric/data-engineering/author-notebook-format-code?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Run notebooks in high concurrency mode https://learn.microsoft.com/en-us/fabric/data-engineering/configure-high-concurrency-session-notebooks?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Notebook visualization https://learn.microsoft.com/en-us/fabric/data-engineering/notebook-visualization?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Explore data in lakehouse https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-notebook-explore?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Load data in lakehouse https://learn.microsoft.com/en-us/fabric/data-engineering/lakehouse-notebook-load-data?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Notebook source control and deployment https://learn.microsoft.com/en-us/fabric/data-engineering/notebook-source-control-deployment?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Use Notebook public APIs https://learn.microsoft.com/en-us/fabric/data-engineering/notebook-public-api?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+Environments:
+    ☐ Create, configure and use an environment https://learn.microsoft.com/en-us/fabric/data-engineering/create-and-use-environment?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Manage Spark compute in environments https://learn.microsoft.com/en-us/fabric/data-engineering/environment-manage-compute?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Manage libraries in environments https://learn.microsoft.com/en-us/fabric/data-engineering/environment-manage-library?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Migrate the existing workspace libraries and Spark properties https://learn.microsoft.com/en-us/fabric/data-engineering/environment-workspace-migration?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+Tutorials:
+    Python tutorials:
+        ☐ How to use end-to-end AI samples https://learn.microsoft.com/en-us/fabric/data-science/use-ai-samples
+        ☐ Book recommendation https://learn.microsoft.com/en-us/fabric/data-science/retail-recommend-model
+        ☐ Customer churn prediction https://learn.microsoft.com/en-us/fabric/data-science/customer-churn
+        ☐ Fraud detection https://learn.microsoft.com/en-us/fabric/data-science/fraud-detection
+        ☐ Machine failure prediction https://learn.microsoft.com/en-us/fabric/data-science/predictive-maintenance
+        ☐ Sales forecasting https://learn.microsoft.com/en-us/fabric/data-science/sales-forecasting
+        ☐ Text (title genre) classification https://learn.microsoft.com/en-us/fabric/data-science/title-genre-classification
+        ☐ Time series forecasting https://learn.microsoft.com/en-us/fabric/data-science/time-series-forecasting
+        ☐ Uplift modeling https://learn.microsoft.com/en-us/fabric/data-science/uplift-modeling
+    R tutorials:
+        ☐ Customer churn https://learn.microsoft.com/en-us/fabric/data-science/r-customer-churn
+        ☐ Fraud detection https://learn.microsoft.com/en-us/fabric/data-science/r-fraud-detection
+        ☐ Avocado price prediction https://learn.microsoft.com/en-us/fabric/data-science/r-avocado
+        ☐ Flight delay prediction https://learn.microsoft.com/en-us/fabric/data-science/r-flight-delay
+Governance:
+    ☐ Lineage for models and experiments https://learn.microsoft.com/en-us/fabric/data-science/data-science-lineage
+Preparing data:
+    ☐ Read and write data with Pandas https://learn.microsoft.com/en-us/fabric/data-science/read-write-pandas
+    ☐ Accelerate data prep with Data Wrangler https://learn.microsoft.com/en-us/fabric/data-science/data-wrangler
+    ☐ Explore and transform Spark data with Data Wrangler https://learn.microsoft.com/en-us/fabric/data-science/data-wrangler-spark
+    ☐ Read from Power BI and write data usable by Power BI https://learn.microsoft.com/en-us/fabric/data-science/read-write-power-bi-python
+    ☐ Explore and validate functional dependencies in your data https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-validate-data
+    ☐ Explore and validate relationships in datasets https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-validate-relationship
+Train machine learning models:
+    ☐ Training Overview https://learn.microsoft.com/en-us/fabric/data-science/model-training-overview
+    ☐ Hyperparameter tuning https://learn.microsoft.com/en-us/fabric/data-science/hyperparameter-tuning-fabric
+    How-to guides:
+        ☐ Train with Spark MLlib https://learn.microsoft.com/en-us/fabric/data-science/fabric-sparkml-tutorial
+        ☐ Train models with Scikit-learn https://learn.microsoft.com/en-us/fabric/data-science/train-models-scikit-learn
+        ☐ Train models with SynapseML https://learn.microsoft.com/en-us/fabric/data-science/train-models-synapseml
+        ☐ Train models with PyTorch https://learn.microsoft.com/en-us/fabric/data-science/train-models-pytorch
+        ☐ Train interpretable models for classification https://learn.microsoft.com/en-us/fabric/data-science/explainable-boosting-machines-classification
+        ☐ Train interpretable models for regression https://learn.microsoft.com/en-us/fabric/data-science/explainable-boosting-machines-regression
+        ☐ Run hyperparameter tuning trials https://learn.microsoft.com/en-us/fabric/data-science/how-to-tune-lightgbm-flaml
+Automated machine learning (AutoML):
+    ☐ AutoML overview https://learn.microsoft.com/en-us/fabric/data-science/automated-ml-fabric
+    How-to guides:
+        ☐ Use AutoML (interface) https://learn.microsoft.com/en-us/fabric/data-science/low-code-automl
+        ☐ Use AutoML (Python) https://learn.microsoft.com/en-us/fabric/data-science/python-automated-machine-learning-fabric
+        ☐ Run AutoML trials https://learn.microsoft.com/en-us/fabric/data-science/how-to-use-automated-machine-learning-fabric
+        ☐ Use AutoML and tune visualizations https://learn.microsoft.com/en-us/fabric/data-science/tuning-automated-machine-learning-visualizations
+Track models and experiments:
+    ☐ Machine learning experiment https://learn.microsoft.com/en-us/fabric/data-science/machine-learning-experiment
+    ☐ Machine learning model https://learn.microsoft.com/en-us/fabric/data-science/machine-learning-model
+    ☐ Fabric autologging https://learn.microsoft.com/en-us/fabric/data-science/mlflow-autologging
+Model scoring:
+    ☐ Score models with PREDICT https://learn.microsoft.com/en-us/fabric/data-science/model-scoring-predict
+Secure and manage ML items:
+    ☐ Disaster recovery for ML items https://learn.microsoft.com/en-us/fabric/data-science/data-science-disaster-recovery
+    ☐ Roles and permissions https://learn.microsoft.com/en-us/fabric/data-science/models-experiments-rbac
+Apache Spark:
+    Spark compute:
+        ☐ Overview https://learn.microsoft.com/en-us/fabric/data-engineering/spark-compute?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Configure starter pools https://learn.microsoft.com/en-us/fabric/data-engineering/configure-starter-pools?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Billing and utilization https://learn.microsoft.com/en-us/fabric/data-engineering/billing-capacity-management-for-spark?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        Apache Spark Runtimes:
+            ☐ Runtimes overview https://learn.microsoft.com/en-us/fabric/data-engineering/runtime?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+            ☐ Runtime 1.3 (Spark 3.5) https://learn.microsoft.com/en-us/fabric/data-engineering/runtime-1-3?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+            ☐ Runtime 1.2 (Spark 3.4) https://learn.microsoft.com/en-us/fabric/data-engineering/runtime-1-2?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+            ☐ Runtime 1.1 (Spark 3.3) https://learn.microsoft.com/en-us/fabric/data-engineering/runtime-1-1?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Create custom pools https://learn.microsoft.com/en-us/fabric/data-engineering/create-custom-spark-pools?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ High Concurrency mode https://learn.microsoft.com/en-us/fabric/data-engineering/high-concurrency-overview?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Autotune Spark configuration https://learn.microsoft.com/en-us/fabric/data-engineering/autotune?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Spark concurrency limits and queueing https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-concurrency-and-queueing?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    Spark job definition:
+        ☐ What is a Spark job definition? https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-definition?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Create a Spark job definition https://learn.microsoft.com/en-us/fabric/data-engineering/create-spark-job-definition?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Run a Spark job definition https://learn.microsoft.com/en-us/fabric/data-engineering/run-spark-job-definition?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Spark job definition API tutorial https://learn.microsoft.com/en-us/fabric/data-engineering/spark-job-definition-api?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    Spark development:
+        ☐ Spark utilities https://learn.microsoft.com/en-us/fabric/data-engineering/microsoft-spark-utilities?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Library management https://learn.microsoft.com/en-us/fabric/data-engineering/library-management?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    Spark administration settings:
+        ☐ Capacity settings overview https://learn.microsoft.com/en-us/fabric/data-engineering/capacity-settings-overview?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Configure capacity Settings https://learn.microsoft.com/en-us/fabric/data-engineering/capacity-settings-management?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Spark workspace settings https://learn.microsoft.com/en-us/fabric/data-engineering/workspace-admin-settings?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Spark admin settings - FAQ https://learn.microsoft.com/en-us/fabric/data-engineering/spark-admin-settings-faq?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    Spark monitoring:
+        ☐ Apache Spark monitoring overview https://learn.microsoft.com/en-us/fabric/data-engineering/spark-monitoring-overview?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Apache Spark Advisor https://learn.microsoft.com/en-us/fabric/data-engineering/spark-advisor-introduction?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Monitoring hub - Browse Spark applications https://learn.microsoft.com/en-us/fabric/data-engineering/browse-spark-applications-monitoring-hub?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Browse item's recent runs https://learn.microsoft.com/en-us/fabric/data-engineering/spark-item-recent-runs?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Monitor Spark jobs in a notebook https://learn.microsoft.com/en-us/fabric/data-engineering/spark-monitor-debug?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Monitor Spark job definitions https://learn.microsoft.com/en-us/fabric/data-engineering/monitor-spark-job-definitions?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Monitor Spark application https://learn.microsoft.com/en-us/fabric/data-engineering/spark-detail-monitoring?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Navigate the Apache Spark history server https://learn.microsoft.com/en-us/fabric/data-engineering/apache-spark-history-server?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+        ☐ Monitor Spark capacity consumption https://learn.microsoft.com/en-us/fabric/data-engineering/monitor-spark-capacity-consumption?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+    ☐ Intelligent cache https://learn.microsoft.com/en-us/fabric/data-engineering/intelligent-cache?toc=/fabric/data-science/toc.json&bc=/fabric/data-science/breadcrumb/toc.json
+AI services:
+    ☐ Overview of AI services in Fabric https://learn.microsoft.com/en-us/fabric/data-science/ai-services/ai-services-overview
+    How-to guides:
+        Use prebuilt Azure openAI:
+            ☐ with REST API https://learn.microsoft.com/en-us/fabric/data-science/ai-services/how-to-use-openai-via-rest-api
+            ☐ with SynapseML or OpenAI Python SDK https://learn.microsoft.com/en-us/fabric/data-science/ai-services/how-to-use-openai-sdk-synapse
+        ☐ Use prebuilt text analytics with REST API or SynapseML https://learn.microsoft.com/en-us/fabric/data-science/ai-services/how-to-use-text-analytics
+        ☐ Use prebuilt Azure AI translator with REST API or SynapseML https://learn.microsoft.com/en-us/fabric/data-science/ai-services/how-to-use-text-translator
+Use Python:
+    ☐ Python overview https://learn.microsoft.com/en-us/fabric/data-science/python-guide/python-overview
+    ☐ Python visualizations https://learn.microsoft.com/en-us/fabric/data-science/python-guide/python-visualizations
+Use R:
+    ☐ R overview https://learn.microsoft.com/en-us/fabric/data-science/r-overview
+    ☐ R library management https://learn.microsoft.com/en-us/fabric/data-science/r-library-management
+    ☐ How to use SparkR https://learn.microsoft.com/en-us/fabric/data-science/r-use-sparkr
+    ☐ How to use sparklyr https://learn.microsoft.com/en-us/fabric/data-science/r-use-sparklyr
+    ☐ How to use Tidyverse https://learn.microsoft.com/en-us/fabric/data-science/r-use-tidyverse
+    ☐ R visualization https://learn.microsoft.com/en-us/fabric/data-science/r-visualization
+Semantic link:
+    Overview:
+        ☐ What is semantic link? https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-overview
+    Tutorials:
+        ☐ Clean data with functional dependencies https://learn.microsoft.com/en-us/fabric/data-science/tutorial-data-cleaning-functional-dependencies
+        ☐ Analyze functional dependencies in a sample semantic model https://learn.microsoft.com/en-us/fabric/data-science/tutorial-power-bi-dependencies
+        ☐ Extract and calculate Power BI measures from a notebook https://learn.microsoft.com/en-us/fabric/data-science/tutorial-power-bi-measures
+        ☐ Discover relationships in a semantic model, using semantic link https://learn.microsoft.com/en-us/fabric/data-science/tutorial-power-bi-relationships
+        ☐ Discover relationships in the Synthea dataset, using semantic link https://learn.microsoft.com/en-us/fabric/data-science/tutorial-relationships-detection
+        ☐ Validate data with Great Expectations (GX) https://learn.microsoft.com/en-us/fabric/data-science/tutorial-great-expectations
+    ☐ Power BI connectivity https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-power-bi
+    ☐ Semantic propagation https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-semantic-propagation
+    ☐ Semantic functions https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-semantic-functions
+    ☐ Read and write semantic models using python https://learn.microsoft.com/en-us/fabric/data-science/read-write-power-bi-python
+    ☐ Read and write semantic models using Spark https://learn.microsoft.com/en-us/fabric/data-science/read-write-power-bi-spark
+    ☐ Explore and validate functional dependencies in your data https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-validate-data
+    ☐ Explore and validate relationships in datasets https://learn.microsoft.com/en-us/fabric/data-science/semantic-link-validate-relationship
+SynapseML:
+    Overview:
+        ☐ What is LightGBM in SynapseML? https://learn.microsoft.com/en-us/fabric/data-science/lightgbm-overview
+        ☐ Azure AI services in SynapseML with bring your own key https://learn.microsoft.com/en-us/fabric/data-science/ai-services/ai-services-in-synapseml-bring-your-own-key
+    Get started:
+        ☐ Build your first SynapseML model https://learn.microsoft.com/en-us/fabric/data-science/synapseml-first-model
+        ☐ Install another version of SynapseML https://learn.microsoft.com/en-us/fabric/data-science/install-synapseml
+    How-to guides:
+        ☐ Use OpenAI for big data with SynapseML https://learn.microsoft.com/en-us/fabric/data-science/open-ai
+        ☐ Use LightGBM with SynapseML https://learn.microsoft.com/en-us/fabric/data-science/how-to-use-lightgbm-with-synapseml
+        ☐ Use Azure AI services with SynapseML https://learn.microsoft.com/en-us/fabric/data-science/how-to-use-ai-services-with-synapseml
+        ☐ Perform classification with and without SynapseML https://learn.microsoft.com/en-us/fabric/data-science/classification-before-and-after-synapseml
+        ☐ Use k-nearest neighbors with SynapseML https://learn.microsoft.com/en-us/fabric/data-science/conditional-k-nearest-neighbors-exploring-art
+        ☐ Perform deep learning using ONNX with SynapseML https://learn.microsoft.com/en-us/fabric/data-science/onnx-overview
+        ☐ Explain a tabular classification model with tabular SHAP https://learn.microsoft.com/en-us/fabric/data-science/tabular-shap-explainer
+        ☐ Perform multivariate anomaly detection with SynapseML https://learn.microsoft.com/en-us/fabric/data-science/isolation-forest-multivariate-anomaly-detection
+        ☐ Build a Search engine with SynapseML https://learn.microsoft.com/en-us/fabric/data-science/create-a-multilingual-search-engine-from-forms
+        ☐ Use SynapseML and Azure AI services for multivariate anomaly detection https://learn.microsoft.com/en-us/fabric/data-science/multivariate-anomaly-detection
+        ☐ Tune hyperparameters using SynapseML https://learn.microsoft.com/en-us/fabric/data-science/hyperparameter-tuning-fighting-breast-cancer
+Reference:
+    ☐ SemPy Python SDK https://learn.microsoft.com/python/api/semantic-link/overview-semantic-link
+
