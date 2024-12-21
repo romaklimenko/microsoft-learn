@@ -1,0 +1,453 @@
+What is Azure AI Language - Azure AI services | Microsoft Learn:
+    ☐ Azure AI Language documentation https://learn.microsoft.com/en-us/azure/ai-services/language-service/ (2024-08-28 04:59 PM)
+    Overview:
+        ☐ What is Azure AI Language? https://learn.microsoft.com/en-us/azure/ai-services/language-service/overview (2024-08-28 04:59 PM)
+        ☐ Pricing https://aka.ms/unifiedLanguagePricing
+        ☐ Language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/language-support (2024-11-24 12:06 PM)
+        ☐ Region support https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/regional-support (2024-10-22 10:00 PM)
+        ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/data-limits (2024-10-22 10:00 PM)
+        ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/language-service/whats-new (2024-11-05 11:00 PM)
+    Azure AI Language capabilities:
+        Custom text classification:
+            ☐ Custom text classification overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/overview (2024-09-29 11:19 AM)
+            ☐ Custom text classification quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/quickstart (2024-10-22 10:00 PM)
+            ☐ Custom text classification language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/language-support (2024-11-24 12:06 PM)
+            ☐ Custom text classification FAQ https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/faq (2024-11-24 12:06 PM)
+            Responsible use of AI:
+                ☐ Transparency note for custom text classification https://learn.microsoft.com/legal/cognitive-services/language-service/ctc-transparency-note?context=/azure/ai-services/language-service/context/context (2024-12-18 07:02 PM)
+                ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/language-service/ctc-guidance-integration-responsible-use?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                ☐ Characteristics and limitations https://learn.microsoft.com/legal/cognitive-services/language-service/ctc-characteristics-and-limitations?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/language-service/ctc-data-privacy-security?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+            How-to guides:
+                ☐ Create projects https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/how-to/create-project (2024-11-24 12:06 PM)
+                ☐ Data selection and schema design https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/how-to/design-schema (2024-11-24 12:06 PM)
+                ☐ Label data https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/how-to/tag-data (2024-11-24 12:06 PM)
+                ☐ Auto label your data (preview) https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/how-to/use-autolabeling (2024-11-24 12:06 PM)
+                ☐ Label data with Azure Machine Learning https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom/azure-machine-learning-labeling (2024-11-24 12:06 PM)
+                ☐ Train a model https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/how-to/train-model (2024-11-24 12:06 PM)
+                ☐ Model performance (preview) https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/how-to/view-model-evaluation (2024-11-24 12:06 PM)
+                ☐ Deploy a model https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/how-to/deploy-model (2024-11-24 12:06 PM)
+                ☐ Classify text https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/how-to/call-api (2024-11-24 12:06 PM)
+                ☐ Back up and recover your models https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/fail-over (2024-11-24 12:06 PM)
+                ☐ Deploy to multiple regions https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/custom-features/multi-region-deployment (2024-11-21 06:03 PM)
+            Concepts:
+                ☐ Evaluation metrics https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/concepts/evaluation-metrics (2024-11-24 12:06 PM)
+                ☐ Accepted data formats https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/concepts/data-formats (2024-11-24 12:06 PM)
+                ☐ Project versioning https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/custom-features/project-versioning (2024-11-24 12:06 PM)
+            Tutorials:
+                ☐ Triage incoming emails with power automate https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/tutorials/triage-email (2024-11-24 12:06 PM)
+            Reference:
+                ☐ Glossary https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/glossary (2024-11-24 12:06 PM)
+                ☐ Service limits https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/service-limits (2024-11-24 12:06 PM)
+        Conversational language understanding:
+            ☐ Conversational language understanding overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/overview (2024-08-28 04:59 PM)
+            ☐ Conversational language understanding quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/quickstart (2024-10-22 10:00 PM)
+            ☐ Conversational language understanding language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/language-support (2024-11-24 12:06 PM)
+            ☐ Conversational language understanding FAQ https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/faq (2024-11-24 12:06 PM)
+            How-to guides:
+                Use containers:
+                    ☐ Use Docker Containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/how-to/use-containers (2024-11-21 06:03 PM)
+                    ☐ Configure containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/configure-containers (2024-11-21 06:03 PM)
+                    ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/language-service/context/context (2024-10-04 10:00 PM)
+                    ☐ Azure AI containers overview https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support (2024-10-08 10:04 PM)
+                ☐ Create projects https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/how-to/create-project (2024-11-24 12:06 PM)
+                ☐ Build a schema https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/how-to/build-schema (2024-11-24 12:06 PM)
+                ☐ Label utterances https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/how-to/tag-utterances (2024-11-24 12:06 PM)
+                ☐ Train a model https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/how-to/train-model (2024-10-22 10:00 PM)
+                ☐ View your model's performance https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/how-to/view-model-evaluation (2024-11-24 12:06 PM)
+                ☐ Deploy a model https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/how-to/deploy-model (2024-11-24 12:06 PM)
+                ☐ Call the API to make predictions https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/how-to/call-api (2024-11-24 12:06 PM)
+                ☐ Back up and recover your models https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/how-to/fail-over (2024-11-24 12:06 PM)
+                ☐ Migrate from LUIS https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/how-to/migrate-from-luis (2024-10-22 10:00 PM)
+            Concepts:
+                ☐ Best practices https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/concepts/best-practices (2024-11-24 12:06 PM)
+                ☐ Multilingual projects https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/concepts/multiple-languages (2024-11-24 12:06 PM)
+                ☐ Entity components https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/concepts/entity-components (2024-11-24 12:06 PM)
+                ☐ Evaluation metrics https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/concepts/evaluation-metrics (2024-11-24 12:06 PM)
+                ☐ Data formats https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/concepts/data-formats (2024-11-24 12:06 PM)
+                ☐ None intent https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/concepts/none-intent (2024-11-24 12:06 PM)
+                ☐ Deploy to multiple regions https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/custom-features/multi-region-deployment (2024-11-21 06:03 PM)
+                ☐ Choosing between conversational apps https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/concepts/app-architecture (2024-11-24 12:06 PM)
+            Tutorials:
+                ☐ Use Bot Framework https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/tutorials/bot-framework (2024-11-24 12:06 PM)
+            Reference:
+                ☐ Prebuilt component reference https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/prebuilt-component-reference (2024-11-24 12:06 PM)
+                ☐ Service limits https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/service-limits (2024-11-24 12:06 PM)
+                ☐ Glossary https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/glossary (2024-11-24 12:06 PM)
+        Entity linking:
+            ☐ Entity linking overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/entity-linking/overview (2024-11-24 12:06 PM)
+            ☐ Entity linking quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/entity-linking/quickstart (2024-11-24 12:06 PM)
+            ☐ Entity linking language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/entity-linking/language-support (2024-11-24 12:06 PM)
+            Responsible use of AI:
+                ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/language-service/guidance-integration-responsible-use?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/language-service/data-privacy?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+            How-to guides:
+                ☐ How to call the API https://learn.microsoft.com/en-us/azure/ai-services/language-service/entity-linking/how-to/call-api (2024-11-24 12:06 PM)
+        Language detection:
+            ☐ Language detection overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/language-detection/overview (2024-09-29 11:19 AM)
+            ☐ Language detection quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/language-detection/quickstart (2024-10-22 10:00 PM)
+            ☐ Language detection language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/language-detection/language-support (2024-11-24 12:06 PM)
+            Responsible use of AI:
+                ☐ Transparency note for language detection https://learn.microsoft.com/legal/cognitive-services/language-service/transparency-note-language-detection?context=/azure/ai-services/language-service/context/context (2024-12-18 07:02 PM)
+                ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/language-service/guidance-integration-responsible-use?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/language-service/data-privacy?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+            How-to guides:
+                ☐ Call the API https://learn.microsoft.com/en-us/azure/ai-services/language-service/language-detection/how-to/call-api (2024-11-24 12:06 PM)
+                Use containers:
+                    ☐ Use Docker containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/language-detection/how-to/use-containers (2024-11-24 12:06 PM)
+                    ☐ Configure containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/configure-containers (2024-11-21 06:03 PM)
+                    ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/language-service/context/context (2024-10-04 10:00 PM)
+                    ☐ Use containers in disconnected environments https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-containers (2024-10-08 10:04 PM)
+                    ☐ Azure AI containers overview https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support (2024-10-08 10:04 PM)
+        Key phrase extraction:
+            ☐ Key phrase extraction overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/key-phrase-extraction/overview (2024-11-11 11:00 PM)
+            ☐ Key phrase extraction quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/key-phrase-extraction/quickstart (2024-11-24 12:06 PM)
+            ☐ Key phrase extraction language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/key-phrase-extraction/language-support (2024-11-24 12:06 PM)
+            Responsible use of AI:
+                ☐ Transparency note for key phrase extraction https://learn.microsoft.com/legal/cognitive-services/language-service/transparency-note-key-phrase-extraction?context=/azure/ai-services/language-service/context/context (2024-12-18 07:02 PM)
+                ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/language-service/guidance-integration-responsible-use?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/language-service/data-privacy?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+            How-to guides:
+                ☐ Call key phrase extraction https://learn.microsoft.com/en-us/azure/ai-services/language-service/key-phrase-extraction/how-to/call-api (2024-11-24 12:06 PM)
+                Use containers:
+                    ☐ Use Docker containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/key-phrase-extraction/how-to/use-containers (2024-11-24 12:06 PM)
+                    ☐ Configure containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/configure-containers (2024-11-21 06:03 PM)
+                    ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/language-service/context/context (2024-10-04 10:00 PM)
+                    ☐ Use containers in disconnected environments https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-containers (2024-10-08 10:04 PM)
+                    ☐ Azure AI containers overview https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support (2024-10-08 10:04 PM)
+            Tutorials:
+                ☐ Integrate Power BI https://learn.microsoft.com/en-us/azure/ai-services/language-service/key-phrase-extraction/tutorials/integrate-power-bi (2024-11-24 12:06 PM)
+        Named Entity Recognition (NER):
+            ☐ NER overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/overview (2024-09-29 11:19 AM)
+            ☐ NER quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/quickstart (2024-10-22 10:00 PM)
+            ☐ NER language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/language-support (2024-11-24 12:06 PM)
+            Responsible use of AI:
+                ☐ Transparency note for NER https://learn.microsoft.com/legal/cognitive-services/language-service/transparency-note-named-entity-recognition?context=/azure/ai-services/language-service/context/context (2024-12-18 07:02 PM)
+                ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/language-service/guidance-integration-responsible-use?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/language-service/data-privacy?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+            Prebuilt:
+                How-to guides:
+                    ☐ Call NER https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/how-to-call (2024-11-24 12:06 PM)
+                    ☐ Use skill parameters https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/how-to/skill-parameters (2024-11-24 12:06 PM)
+                    Use containers:
+                        ☐ Use Docker containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/how-to/use-containers (2024-11-24 12:06 PM)
+                        ☐ Configure containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/configure-containers (2024-11-21 06:03 PM)
+                        ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/language-service/context/context (2024-10-04 10:00 PM)
+                        ☐ Use containers in disconnected environments https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-containers (2024-10-08 10:04 PM)
+                        ☐ Azure AI containers overview https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support (2024-10-08 10:04 PM)
+                Concepts:
+                    ☐ Recognized entity categories https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/concepts/named-entity-categories (2024-10-22 10:00 PM)
+                    ☐ Entity Metadata https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/concepts/entity-metadata (2024-11-24 12:06 PM)
+                    ☐ API version mapping https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/concepts/ga-preview-mapping (2024-11-24 12:06 PM)
+                Tutorials:
+                    ☐ Extract information in Excel using Power Automate https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/tutorials/extract-excel-information (2024-09-29 11:19 AM)
+            Custom:
+                ☐ Custom NER overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/overview (2024-10-22 10:00 PM)
+                ☐ Custom NER quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/quickstart (2024-08-28 04:59 PM)
+                ☐ Custom NER language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/language-support (2024-11-24 12:06 PM)
+                ☐ Custom NER FAQ https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/faq (2024-11-24 12:06 PM)
+                How-to guides:
+                    ☐ Create projects https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/how-to/create-project (2024-11-24 12:06 PM)
+                    ☐ Data selection and schema design https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/how-to/design-schema (2024-11-24 12:06 PM)
+                    ☐ Label data https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/how-to/tag-data (2024-11-24 12:06 PM)
+                    ☐ Auto label your data (preview) https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/how-to/use-autolabeling (2024-11-24 12:06 PM)
+                    ☐ Label data with Azure Machine Learning https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom/azure-machine-learning-labeling (2024-11-24 12:06 PM)
+                    ☐ Train a model https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/how-to/train-model (2024-11-24 12:06 PM)
+                    ☐ Model performance (preview) https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/how-to/view-model-evaluation (2024-11-24 12:06 PM)
+                    ☐ Deploy a model https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/how-to/deploy-model (2024-11-24 12:06 PM)
+                    ☐ Extract entities from text https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/how-to/call-api (2024-11-24 12:06 PM)
+                    ☐ Back up and recover your models https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/fail-over (2024-11-24 12:06 PM)
+                    Use Custom NER containers:
+                        ☐ Use Custom NER Docker containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/how-to/use-containers (2024-11-24 12:06 PM)
+                        ☐ Configure containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/configure-containers (2024-11-21 06:03 PM)
+                        ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/language-service/context/context (2024-10-04 10:00 PM)
+                        ☐ Azure AI containers overview https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support (2024-10-08 10:04 PM)
+                Concepts:
+                    ☐ Evaluation metrics https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/concepts/evaluation-metrics (2024-11-24 12:06 PM)
+                    ☐ Accepted data formats https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/concepts/data-formats (2024-11-24 12:06 PM)
+                    ☐ Deploy to multiple regions https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/custom-features/multi-region-deployment (2024-11-21 06:03 PM)
+                    ☐ Project versioning https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/custom-features/project-versioning (2024-11-24 12:06 PM)
+        Orchestration workflow:
+            ☐ Orchestration workflow overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/overview (2024-11-24 12:06 PM)
+            ☐ Orchestration workflow quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/quickstart (2024-11-24 12:06 PM)
+            ☐ Orchestration workflow FAQ https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/faq (2024-11-24 12:06 PM)
+            ☐ Orchestration workflow language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/language-support (2024-11-24 12:06 PM)
+            How-to guides:
+                ☐ Create project https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/how-to/create-project (2024-11-24 12:06 PM)
+                ☐ Build schema https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/how-to/build-schema (2024-11-24 12:06 PM)
+                ☐ Label utterances https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/how-to/tag-utterances (2024-11-24 12:06 PM)
+                ☐ Train a model https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/how-to/train-model (2024-11-24 12:06 PM)
+                ☐ View your model's performance https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/how-to/view-model-evaluation (2024-11-24 12:06 PM)
+                ☐ Deploy a model https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/how-to/deploy-model (2024-11-24 12:06 PM)
+                ☐ Get predictions by calling the API https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/how-to/call-api (2024-11-24 12:06 PM)
+                ☐ Back up and recover your models https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/how-to/fail-over (2024-11-24 12:06 PM)
+            Concepts:
+                ☐ Evaluation metrics https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/concepts/evaluation-metrics (2024-11-24 12:06 PM)
+                ☐ Back up and recover your models https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/concepts/fail-over (2024-11-24 12:06 PM)
+                ☐ None intent https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/concepts/none-intent (2024-11-24 12:06 PM)
+                ☐ Data formats https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/concepts/data-formats (2024-11-24 12:06 PM)
+                ☐ Deploy to multiple regions https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/custom-features/multi-region-deployment (2024-11-21 06:03 PM)
+                ☐ Project versioning https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/custom-features/project-versioning (2024-11-24 12:06 PM)
+                ☐ Choosing between conversational apps https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/concepts/app-architecture (2024-11-24 12:06 PM)
+            Tutorials:
+                ☐ Connect conversational language understanding and custom question answering https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/tutorials/connect-services (2024-11-24 12:06 PM)
+            Reference:
+                ☐ Service limits https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/service-limits (2024-11-24 12:06 PM)
+                ☐ Glossary https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/glossary (2024-11-24 12:06 PM)
+        Personally Identifiable Information (PII) detection:
+            ☐ PII overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/overview (2024-12-04 11:02 PM)
+            ☐ PII quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/quickstart (2024-10-22 10:00 PM)
+            ☐ PII language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/language-support (2024-11-24 12:06 PM)
+            Responsible use of AI:
+                ☐ Transparency note for PII https://learn.microsoft.com/legal/cognitive-services/language-service/transparency-note-personally-identifiable-information?context=/azure/ai-services/language-service/context/context (2024-12-18 07:02 PM)
+                ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/language-service/guidance-integration-responsible-use?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/language-service/data-privacy?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+            How-to guides:
+                ☐ Call PII https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/how-to-call (2024-11-24 12:06 PM)
+                ☐ Call PII for conversations https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/how-to-call-for-conversations (2024-11-21 06:03 PM)
+                Use containers:
+                    ☐ Use Docker containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/how-to/use-containers (2024-10-11 08:18 AM)
+                    ☐ Configure containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/configure-containers (2024-11-21 06:03 PM)
+                    ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/language-service/context/context (2024-10-04 10:00 PM)
+                    ☐ Use containers in disconnected environments https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-containers (2024-10-08 10:04 PM)
+                    ☐ Azure AI containers overview https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support (2024-10-08 10:04 PM)
+            Concepts:
+                ☐ Recognized entity categories https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/concepts/entity-categories (2024-11-24 12:06 PM)
+                ☐ Recognized entity categories for conversation https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/concepts/conversations-entity-categories (2024-11-24 12:06 PM)
+        Custom question answering:
+            ☐ Custom question answering overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/overview (2024-10-30 11:08 AM)
+            ☐ Custom question answering quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/quickstart/sdk (2024-10-30 11:08 AM)
+            ☐ Custom question answering language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/language-support (2024-11-24 12:06 PM)
+            Responsible use of AI:
+                ☐ Transparency note for custom question answering https://learn.microsoft.com/legal/cognitive-services/language-service/transparency-note-question-answering?context=/azure/ai-services/language-service/context/context (2024-12-18 07:02 PM)
+                ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/language-service/guidance-integration-responsible-use-question-answering?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/language-service/data-privacy-security-question-answering?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+            How-to guides:
+                ☐ Migrate from QnA Maker to custom question Answering https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/migrate-qnamaker-to-question-answering (2024-11-24 12:06 PM)
+                ☐ Migrate projects from QnA Maker https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/migrate-qnamaker (2024-11-24 12:06 PM)
+                ☐ Getting started with custom question answering https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/create-test-deploy (2024-11-24 12:06 PM)
+                ☐ Export/import/refresh https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/export-import-refresh (2024-11-24 12:06 PM)
+                ☐ Smart URL refresh https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/smart-url-refresh (2024-11-24 12:06 PM)
+                ☐ Encrypt data at rest https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/encrypt-data-at-rest (2024-11-24 12:06 PM)
+                ☐ Move projects https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/migrate-knowledge-base (2024-11-24 12:06 PM)
+                ☐ Add chit-chat https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/chit-chat (2024-11-24 12:06 PM)
+                ☐ Change default answer https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/change-default-answer (2024-11-24 12:06 PM)
+                ☐ Configure resources https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/configure-resources (2024-11-24 12:06 PM)
+                ☐ Analytics https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/analytics (2024-11-24 12:06 PM)
+                ☐ Manage projects https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/manage-knowledge-base (2024-11-24 12:06 PM)
+                ☐ Network isolation and private endpoints https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/network-isolation (2024-11-24 12:06 PM)
+                ☐ Authoring API https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/authoring (2024-11-24 12:06 PM)
+                ☐ Prebuilt API https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/prebuilt (2024-11-24 12:06 PM)
+                ☐ Project Best practices https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/best-practices (2024-11-24 12:06 PM)
+                ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/troubleshooting (2024-11-24 12:06 PM)
+                ☐ Connect to Azure OpenAI https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/how-to/azure-openai-integration (2024-10-30 11:08 AM)
+            Concepts:
+                ☐ Development lifecycle https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/concepts/project-development-lifecycle (2024-11-24 12:06 PM)
+                ☐ Resource planning https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/concepts/azure-resources (2024-11-24 12:06 PM)
+                ☐ App planning https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/concepts/plan (2024-11-24 12:06 PM)
+                ☐ Precise answering https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/concepts/precise-answering (2024-11-24 12:06 PM)
+                ☐ Confidence score https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/concepts/confidence-score (2024-11-24 12:06 PM)
+                ☐ Best practices https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/concepts/best-practices (2024-11-24 12:06 PM)
+                ☐ Limits https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/concepts/limits (2024-11-24 12:06 PM)
+                ☐ Choosing between conversational apps https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/concepts/app-architecture (2024-11-24 12:06 PM)
+            Tutorials:
+                ☐ Create a FAQ Bot https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/tutorials/bot-service (2024-11-24 12:06 PM)
+                ☐ Guided conversations https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/tutorials/guided-conversations (2024-11-24 12:06 PM)
+                ☐ Active learning https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/tutorials/active-learning (2024-11-24 12:06 PM)
+                ☐ Adding synonyms https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/tutorials/adding-synonyms (2024-11-24 12:06 PM)
+                ☐ Multiple languages https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/tutorials/multiple-languages (2024-11-24 12:06 PM)
+                ☐ Multiple domains https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/tutorials/multiple-domains (2024-11-24 12:06 PM)
+                ☐ Add your custom question answering project to Power Virtual Agents https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/tutorials/power-virtual-agents (2024-11-24 12:06 PM)
+            Reference:
+                General:
+                    ☐ Markdown format https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/reference/markdown-format (2024-11-24 12:06 PM)
+                    ☐ Format guidelines https://learn.microsoft.com/en-us/azure/ai-services/language-service/question-answering/reference/document-format-guidelines (2024-11-24 12:06 PM)
+        Sentiment analysis and opinion mining:
+            ☐ Sentiment analysis and opinion mining overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/overview (2024-09-29 11:19 AM)
+            ☐ Sentiment analysis and opinion mining language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/language-support (2024-11-24 12:06 PM)
+            Prebuilt:
+                ☐ Sentiment analysis and opinion mining quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/quickstart (2024-10-22 10:00 PM)
+                Responsible use of AI:
+                    ☐ Transparency note for sentiment analysis and opinion mining https://learn.microsoft.com/legal/cognitive-services/language-service/transparency-note-sentiment-analysis?context=/azure/ai-services/language-service/context/context (2024-12-18 07:02 PM)
+                    ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/language-service/guidance-integration-responsible-use?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                    ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/language-service/data-privacy?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                How-to guides:
+                    ☐ Call Sentiment Analysis and Opinion Mining https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/how-to/call-api (2024-10-22 10:00 PM)
+                    Use containers:
+                        ☐ Use Docker Containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/how-to/use-containers (2024-11-24 12:06 PM)
+                        ☐ Configure containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/configure-containers (2024-11-21 06:03 PM)
+                        ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/language-service/context/context (2024-10-04 10:00 PM)
+                        ☐ Use containers in disconnected environments https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-containers (2024-10-08 10:04 PM)
+                        ☐ Azure AI containers overview https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support (2024-10-08 10:04 PM)
+                Tutorials:
+                    ☐ Use Flask to translate text, analyze sentiment, and synthesize speech https://learn.microsoft.com/training/modules/python-flask-build-ai-web-app/ (2024-11-01 07:22 PM)
+                Reference:
+                    REST API:
+                        ☐ Text analysis runtime API (v2023-04-01) https://go.microsoft.com/fwlink/?linkid=2239169 (2024-10-24 05:02 PM)
+                        ☐ Text analysis runtime API (v2022-04-15-preview) https://learn.microsoft.com/rest/api/language/2023-04-15-preview/text-analysis-runtime (2024-10-24 05:02 PM)
+                        Previous versions:
+                            ☐ v3.2-preview.2 https://westus2.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v3-2-Preview-2/operations/Sentiment
+                            ☐ v3.1 https://westus2.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v3-1/operations/Sentiment
+                    SDKs:
+                        Latest:
+                            ☐ .NET https://learn.microsoft.com/dotnet/api/azure.ai.textanalytics?view=azure-dotnet&preserve-view=true (2020-01-14 11:41 PM)
+                            ☐ Python https://learn.microsoft.com/python/api/overview/azure/ai-textanalytics-readme?view=azure-python&preserve-view=true (2023-10-03 10:16 PM)
+                            ☐ Java https://learn.microsoft.com/java/api/overview/azure/ai-textanalytics-readme?view=azure-java-stable&preserve-view=true (2024-12-05 12:05 PM)
+                            ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/ai-language-text-readme?view=azure-node-latest&preserve-view=true (2023-10-03 10:12 PM)
+                        Preview:
+                            ☐ .NET https://learn.microsoft.com/dotnet/api/azure.ai.textanalytics?view=azure-dotnet-preview&preserve-view=true (2020-01-14 11:41 PM)
+                            ☐ Python https://learn.microsoft.com/python/api/azure-ai-textanalytics/azure.ai.textanalytics?view=azure-python-preview&preserve-view=true (2024-04-30 12:19 AM)
+                            ☐ Java https://learn.microsoft.com/java/api/overview/azure/ai-textanalytics-readme?view=azure-java-preview&preserve-view=true (2024-12-05 12:05 PM)
+                            ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/ai-language-text-readme?view=azure-node-preview&preserve-view=true (2023-10-03 10:12 PM)
+            Custom (preview):
+                ☐ Quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/custom/quickstart (2024-11-24 12:06 PM)
+                Concepts:
+                    ☐ Data formats https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/custom/concepts/data-formats (2024-11-24 12:06 PM)
+                How-to guides:
+                    ☐ Data preparation https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/custom/how-to/design-schema (2024-11-24 12:06 PM)
+                    ☐ Label data https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/custom/how-to/label-data (2024-11-24 12:06 PM)
+                    ☐ Create projects https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/custom/how-to/create-project (2024-11-24 12:06 PM)
+                    ☐ Train model https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/custom/how-to/train-model (2024-11-24 12:06 PM)
+                    ☐ Deploy model https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/custom/how-to/deploy-model (2024-11-24 12:06 PM)
+                    ☐ Call the API https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/custom/how-to/call-api (2024-11-24 12:06 PM)
+        Text Analytics for health:
+            ☐ Text Analytics for health overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/overview (2024-11-26 06:02 PM)
+            ☐ Text Analytics for health quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/quickstart (2024-11-24 12:06 PM)
+            ☐ Text Analytics for health language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/language-support (2024-11-24 12:06 PM)
+            Prebuilt:
+                Responsible use of AI:
+                    ☐ Transparency note for Text Analytics for health https://learn.microsoft.com/legal/cognitive-services/language-service/transparency-note-health?context=/azure/ai-services/language-service/context/context (2024-12-18 07:02 PM)
+                    ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/language-service/guidance-integration-responsible-use?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                    ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/language-service/data-privacy?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                How-to guides:
+                    ☐ How to call the API https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/how-to/call-api (2024-11-24 12:06 PM)
+                    Use containers:
+                        ☐ Use Docker containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/how-to/use-containers (2024-11-24 12:06 PM)
+                        ☐ Configure Docker containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/how-to/configure-containers (2024-11-24 12:06 PM)
+                        ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/language-service/context/context (2024-10-04 10:00 PM)
+                        ☐ Azure AI containers overview https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support (2024-10-08 10:04 PM)
+                Concepts:
+                    ☐ Recognized entity categories https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/concepts/health-entity-categories (2024-11-24 12:06 PM)
+                    ☐ Relation extraction https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/concepts/relation-extraction (2024-11-24 12:06 PM)
+                    ☐ Assertion detection https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/concepts/assertion-detection (2024-11-24 12:06 PM)
+                    ☐ Fast Healthcare Interoperability Resources (FHIR) structuring https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/concepts/fhir (2024-11-21 06:03 PM)
+            Custom (preview):
+                ☐ Custom text analytics for health overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/overview (2024-11-24 12:06 PM)
+                ☐ Custom text analytics for health quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/quickstart (2024-11-24 12:06 PM)
+                ☐ Custom text analytics for health language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/language-support (2024-11-24 12:06 PM)
+                How-to guides:
+                    ☐ Create projects https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/how-to/create-project (2024-11-24 12:06 PM)
+                    ☐ Data selection and schema design https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/how-to/design-schema (2024-11-24 12:06 PM)
+                    ☐ Label data https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/how-to/label-data (2024-11-24 12:06 PM)
+                    ☐ Train a model https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/how-to/train-model (2024-11-24 12:06 PM)
+                    ☐ View your model's evaluation https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/how-to/view-model-evaluation (2024-11-24 12:06 PM)
+                    ☐ Deploy a model https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/how-to/deploy-model (2024-11-24 12:06 PM)
+                    ☐ Call the API https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/how-to/call-api (2024-11-24 12:06 PM)
+                    ☐ Back up and recover your models https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/how-to/fail-over (2024-11-24 12:06 PM)
+                Concepts:
+                    ☐ Data formats https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/concepts/data-formats (2024-11-24 12:06 PM)
+                    ☐ Entity components https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/concepts/entity-components (2024-11-24 12:06 PM)
+                    ☐ Evaluation metrics https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/concepts/evaluation-metrics (2024-11-24 12:06 PM)
+                Reference:
+                    ☐ Service limits https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-analytics-for-health/reference/service-limits (2024-11-24 12:06 PM)
+        Summarization:
+            ☐ Summarization overview https://learn.microsoft.com/en-us/azure/ai-services/language-service/summarization/overview (2024-11-26 06:02 PM)
+            ☐ Summarization quickstart https://learn.microsoft.com/en-us/azure/ai-services/language-service/summarization/quickstart (2024-11-24 12:06 PM)
+            ☐ Summarization region support https://learn.microsoft.com/en-us/azure/ai-services/language-service/summarization/region-support (2024-12-04 11:02 PM)
+            ☐ Summarization language support https://learn.microsoft.com/en-us/azure/ai-services/language-service/summarization/language-support (2024-11-24 12:06 PM)
+            How-to guides:
+                ☐ Call the document summarization API https://learn.microsoft.com/en-us/azure/ai-services/language-service/summarization/how-to/document-summarization (2024-10-22 10:00 PM)
+                ☐ Call the conversation summarization API https://learn.microsoft.com/en-us/azure/ai-services/language-service/summarization/how-to/conversation-summarization (2024-11-24 12:06 PM)
+                Use containers:
+                    ☐ Use Docker Containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/summarization/how-to/use-containers (2024-11-24 12:06 PM)
+                    ☐ Configure containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/configure-containers (2024-11-21 06:03 PM)
+                    ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/language-service/context/context (2024-10-04 10:00 PM)
+                    ☐ Use containers in disconnected environments https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-containers (2024-10-08 10:04 PM)
+                    ☐ Azure AI containers overview https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support (2024-10-08 10:04 PM)
+            Responsible use of AI:
+                ☐ Transparency note for summarization https://learn.microsoft.com/legal/cognitive-services/language-service/transparency-note-extractive-summarization?context=/azure/ai-services/language-service/context/context (2024-12-18 07:02 PM)
+                ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/language-service/guidance-integration-responsible-use-summarization?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                ☐ Characteristics and limitations https://learn.microsoft.com/legal/cognitive-services/language-service/characteristics-and-limitations-summarization?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+                ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/language-service/data-privacy?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+    Concepts:
+        ☐ Language Studio https://learn.microsoft.com/en-us/azure/ai-services/language-service/language-studio (2024-09-29 11:19 AM)
+        ☐ Developer guide https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/developer-guide (2024-11-24 12:06 PM)
+        ☐ Role-based-access-control https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/role-based-access-control (2024-11-24 12:06 PM)
+        ☐ Multilingual and emoji support https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/multilingual-emoji-support (2024-11-24 12:06 PM)
+        ☐ Model lifecycle https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/model-lifecycle (2024-11-11 11:00 PM)
+        ☐ Send requests asynchronously https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/use-asynchronously (2024-11-24 12:06 PM)
+    Responsible use of AI:
+        ☐ Transparency note for Azure AI Language https://learn.microsoft.com/legal/cognitive-services/language-service/transparency-note?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+        ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/language-service/guidance-integration-responsible-use?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+        ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/language-service/data-privacy?context=/azure/ai-services/language-service/context/context (2024-07-17 05:30 PM)
+    How-tos:
+        ☐ Migrate from LUIS, QnA Maker, and Text Analytics https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/migrate (2024-11-24 12:06 PM)
+        ☐ Use Azure Kubernetes Service https://learn.microsoft.com/en-us/azure/ai-services/language-service/tutorials/use-kubernetes-service (2024-11-24 12:06 PM)
+        ☐ Use language in power automate flows https://learn.microsoft.com/en-us/azure/ai-services/language-service/tutorials/power-automate (2024-11-24 12:06 PM)
+        ☐ Use language in prompt flow https://learn.microsoft.com/en-us/azure/ai-services/language-service/tutorials/prompt-flow (2024-11-26 06:02 PM)
+        Native document support:
+            ☐ Use native documents for language processing https://learn.microsoft.com/en-us/azure/ai-services/language-service/native-document-support/use-native-documents (2024-11-21 06:03 PM)
+            ☐ Create SAS tokens for storage containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/native-document-support/shared-access-signatures (2024-11-24 12:06 PM)
+            ☐ Create a managed identity for storage containers https://learn.microsoft.com/en-us/azure/ai-services/language-service/native-document-support/managed-identities (2024-11-24 12:06 PM)
+        Scenario deep-dives:
+            Call Center:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/call-center-overview?context=/azure/ai-services/language-service/context/context (2024-09-12 04:57 PM)
+                ☐ Post-call transcription and analytics quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/call-center-quickstart?context=/azure/ai-services/language-service/context/context (2024-09-12 04:57 PM)
+                ☐ Ingestion Client https://learn.microsoft.com/en-us/azure/ai-services/speech-service/ingestion-client?context=/azure/ai-services/language-service/context/context (2024-09-20 05:36 AM)
+    Reference:
+        ☐ REST API https://learn.microsoft.com/rest/api/language/ (2024-11-19 11:05 PM)
+        SDK:
+            Generally available:
+                C#:
+                    ☐ Text analysis https://learn.microsoft.com/dotnet/api/overview/azure/ai.textanalytics-readme (2023-10-03 11:36 PM)
+                    ☐ Custom question answering https://learn.microsoft.com/dotnet/api/overview/azure/ai.language.questionanswering-readme (2023-10-03 11:36 PM)
+                Python:
+                    ☐ Text analysis https://learn.microsoft.com/python/api/overview/azure/ai-textanalytics-readme (2023-10-03 10:16 PM)
+                    ☐ Custom question answering https://learn.microsoft.com/python/api/overview/azure/ai-language-questionanswering-readme (2023-10-03 10:16 PM)
+                    ☐ Conversational Language Understanding https://learn.microsoft.com/python/api/overview/azure/ai-language-conversations-readme (2023-10-03 10:16 PM)
+                Java:
+                    ☐ Text analysis https://learn.microsoft.com/java/api/overview/azure/ai-textanalytics-readme (2024-12-05 12:05 PM)
+                JavaScript:
+                    ☐ Text analysis https://learn.microsoft.com/javascript/api/overview/azure/ai-language-text-readme (2023-10-03 10:12 PM)
+            Preview:
+                C#:
+                    ☐ Text analysis https://learn.microsoft.com/dotnet/api/overview/azure/ai.textanalytics-readme?view=azure-dotnet-preview&preserve-view=true (2023-10-03 11:36 PM)
+                    ☐ Custom question answering https://learn.microsoft.com/dotnet/api/overview/azure/ai.language.questionanswering-readme?view=azure-dotnet-preview&preserve-view=true (2023-10-03 11:36 PM)
+                Python:
+                    ☐ Text analysis https://learn.microsoft.com/python/api/overview/azure/ai-textanalytics-readme?view=azure-python-preview&preserve-view=true (2023-10-03 10:16 PM)
+                    ☐ Custom question answering https://learn.microsoft.com/python/api/overview/azure/ai-language-questionanswering-readme?view=azure-python-preview&preserve-view=true (2023-10-03 10:16 PM)
+                    ☐ Conversational Language Understanding https://learn.microsoft.com/python/api/overview/azure/ai-language-conversations-readme?view=azure-python-preview&preserve-view=true (2023-10-03 10:16 PM)
+                Java:
+                    ☐ Text analysis https://learn.microsoft.com/java/api/overview/azure/ai-textanalytics-readme?view=azure-java-preview&preserve-view=true (2024-12-05 12:05 PM)
+                JavaScript:
+                    ☐ Text analysis https://learn.microsoft.com/javascript/api/overview/azure/ai-language-text-readme?view=azure-node-preview&preserve-view=true (2023-10-03 10:12 PM)
+            Code samples:
+                C#:
+                    ☐ Azure.AI.TextAnalytics namespace https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/textanalytics/Azure.AI.TextAnalytics/samples
+                    ☐ Azure.AI.Language.Conversations namespace https://aka.ms/sdk-sample-conversation-dot-net
+                    ☐ Azure.AI.Language.QuestionAnswering namespace https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/cognitivelanguage/Azure.AI.Language.QuestionAnswering
+                Java:
+                    ☐ Azure.AI.TextAnalytics namespace https://github.com/Azure/azure-sdk-for-java/tree/main/sdk/textanalytics/azure-ai-textanalytics/src/samples
+                JavaScript:
+                    ☐ AI.Text.Language namespace https://github.com/Azure/azure-sdk-for-js/tree/main/sdk/cognitivelanguage/ai-language-text/samples/v1
+                Python:
+                    ☐ Azure.AI.TextAnalytics namespace https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/textanalytics/azure-ai-textanalytics/samples
+                    ☐ Azure.AI.Language.Conversations namespace https://aka.ms/sdk-samples-conversation-python
+                    ☐ Azure.AI.Language.QuestionAnswering namespace https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/cognitivelanguage/azure-ai-language-questionanswering
+    Resources:
+        ☐ Support and help options https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-support-options?context=/azure/ai-services/language-service/context/context (2024-11-20 10:59 PM)
+        ☐ Previous service updates https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/previous-updates (2024-11-24 12:06 PM)
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/#cognitive-services
+        ☐ Azure roadmap https://azure.microsoft.com/roadmap/?category=ai-machine-learning
+        ☐ Azure products by region https://azure.microsoft.com/global-infrastructure/services/?products=cognitive-services
+        Learn modules:
+            ☐ Explore natural language processing https://learn.microsoft.com/training/paths/explore-natural-language-processing (2024-09-04 05:01 PM)
+            ☐ Build a custom question answering solution https://learn.microsoft.com/training/paths/build-qna-solution (2024-11-11 11:56 PM)
+            ☐ Extract insights from text with the Language service https://learn.microsoft.com/training/modules/extract-insights-text-with-text-analytics-service/ (2024-11-01 07:22 PM)
+            ☐ Build custom text analytics solutions https://learn.microsoft.com/training/paths/build-custom-text-analytics (2024-11-11 11:56 PM)
+        Enterprise readiness:
+            ☐ Virtual networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/language-service/context/context (2024-11-20 06:02 PM)
+            ☐ Azure AI services security https://learn.microsoft.com/en-us/azure/ai-services/security-features?context=/azure/ai-services/language-service/context/context (2024-10-17 05:31 AM)
+            ☐ Encryption of data at rest https://learn.microsoft.com/en-us/azure/ai-services/language-service/concepts/encryption-data-at-rest (2024-11-24 12:06 PM)
+            ☐ Compliance and certification https://azure.microsoft.com/support/legal/cognitive-services-compliance-and-privacy/
+

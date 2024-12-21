@@ -1,0 +1,217 @@
+What is Azure AI Vision? - Azure AI services | Microsoft Learn:
+    ☐ Azure AI Vision Documentation https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/ (2024-12-19 06:03 PM)
+    Overview:
+        ☐ What is Azure AI Vision? https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview (2024-12-19 06:03 PM)
+        ☐ Vision Studio https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-vision-studio (2024-12-19 06:03 PM)
+        ☐ Language support https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/language-support (2024-12-19 06:03 PM)
+        ☐ Pricing https://azure.microsoft.com/pricing/details/cognitive-services/computer-vision
+        ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/whats-new (2024-12-19 06:03 PM)
+        ☐ Azure AI Vision FAQ https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/faq (2024-12-19 06:03 PM)
+    Scenario deep-dives:
+        ☐ Generate alt text for images https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/use-case-alt-text (2024-12-19 06:03 PM)
+        ☐ Verify a user https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/use-case-identity-verification (2024-08-28 04:59 PM)
+        ☐ Monitor customer dwell time https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/use-case-dwell-time (2024-12-19 06:03 PM)
+        ☐ Measure queue wait time https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/use-case-queue-time (2024-12-19 06:03 PM)
+    Optical character recognition (OCR):
+        ☐ OCR overview https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-ocr (2024-12-19 06:03 PM)
+        ☐ OCR quickstart https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/client-library (2024-12-19 06:03 PM)
+        ☐ Samples https://learn.microsoft.com/samples/browse/?products=azure&terms=computer-vision (2024-11-01 08:16 PM)
+        Responsible use of AI:
+            Transparency notes:
+                ☐ OCR use cases https://learn.microsoft.com/legal/cognitive-services/computer-vision/ocr-transparency-note?context=/azure/ai-services/computer-vision/context/context (2024-12-18 07:02 PM)
+                ☐ Characteristics and limitations https://learn.microsoft.com/legal/cognitive-services/computer-vision/ocr-characteristics-and-limitations?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+            ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/computer-vision/ocr-guidance-integration-responsible-use?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+            ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/computer-vision/ocr-data-privacy-security?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+        How-to guides:
+            ☐ Call the Read API https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/call-read-api (2024-12-19 06:03 PM)
+            ☐ Upgrade from Read 2.x to Read 3.x https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/upgrade-api-versions (2024-12-19 06:03 PM)
+            Use the Read container:
+                ☐ Install and run containers https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/computer-vision-how-to-install-containers (2024-12-19 06:03 PM)
+                ☐ Configure containers https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/computer-vision-resource-container-config (2024-12-19 06:03 PM)
+                ☐ Migrate to v3.x of the Read OCR container https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/read-container-migration-guide (2024-12-19 06:03 PM)
+                ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe (2024-10-04 10:00 PM)
+                ☐ Use containers in disconnected environments https://learn.microsoft.com/en-us/azure/ai-services/containers/disconnected-containers (2024-10-08 10:04 PM)
+                ☐ All Azure AI containers https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support (2024-10-08 10:04 PM)
+        Reference:
+            ☐ OCR REST API v4.0 (preview) https://aka.ms/vision-4-0-ref (2024-07-30 10:00 PM)
+            ☐ OCR REST API v3.2 https://learn.microsoft.com/rest/api/computervision/recognize-printed-text?view=rest-computervision-v3.2 (2024-07-09 10:55 PM)
+            ☐ OCR REST API v3.1 https://learn.microsoft.com/rest/api/computervision/read?view=rest-computervision-v3.1 (2024-07-09 10:55 PM)
+            ☐ OCR REST API v2.1 https://learn.microsoft.com/rest/api/computervision/recognize-printed-text?view=rest-computervision-v2.1 (2024-07-09 10:55 PM)
+            ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/computer-vision (2023-10-03 11:36 PM)
+            ☐ Node.js https://learn.microsoft.com/javascript/api/@azure/cognitiveservices-computervision/ (2023-03-14 10:11 PM)
+            ☐ Python https://learn.microsoft.com/python/api/overview/azure/cognitiveservices-vision-computervision-readme (2024-11-16 06:57 AM)
+            ☐ Go https://godoc.org/github.com/Azure/azure-sdk-for-go/services/cognitiveservices/v2.1/computervision
+            ☐ Java https://learn.microsoft.com/java/api/overview/azure/cognitiveservices/client/computervision (2024-12-20 12:14 PM)
+            ☐ Azure CLI https://learn.microsoft.com/cli/azure/cognitiveservices#az_cognitiveservices_list (2023-10-17 09:59 PM)
+            ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/azurerm.cognitiveservices/ (2019-01-19 01:40 AM)
+    Image Analysis:
+        ☐ Image Analysis overview https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-image-analysis (2024-12-19 06:03 PM)
+        Image Analysis SDK:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/sdk/overview-sdk (2024-12-19 06:03 PM)
+            ☐ Install the SDK https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/sdk/install-sdk (2024-12-19 06:03 PM)
+        Quickstarts:
+            ☐ Version 4.0 quickstart https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40 (2024-12-19 06:03 PM)
+            ☐ Version 3.2 quickstart https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library (2024-12-19 06:03 PM)
+        Samples:
+            Version 4.0:
+                ☐ Azure Image Analysis Java SDK samples https://aka.ms/azsdk/image-analysis/samples/java
+                ☐ Azure Image Analysis Python SDK samples https://aka.ms/azsdk/image-analysis/samples/python
+                ☐ Azure Image Analysis .NET SDK samples https://aka.ms/azsdk/image-analysis/samples/csharp
+                ☐ Azure Image Analysis JavaScript SDK samples https://aka.ms/azsdk/image-analysis/samples/js
+            Version 3.2:
+                ☐ Azure AI services .NET SDK samples https://github.com/Azure-Samples/cognitive-services-dotnet-sdk-samples
+                ☐ Azure AI services Java SDK samples https://github.com/Azure-Samples/cognitive-services-java-sdk-samples
+                ☐ Azure AI services Node.js SDK samples https://github.com/Azure-Samples/cognitive-services-node-sdk-samples
+                ☐ JavaScript Static Web app https://github.com/azure-samples/js-e2e-client-cognitive-services/tree/main/
+                ☐ Azure AI services Python SDK samples https://github.com/Azure-Samples/cognitive-services-python-sdk-samples
+        Responsible use of AI:
+            ☐ Transparency note https://learn.microsoft.com/legal/cognitive-services/computer-vision/imageanalysis-transparency-note?context=/azure/ai-services/computer-vision/context/context (2024-12-18 07:02 PM)
+            ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/computer-vision/imageanalysis-data-privacy-security?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+            ☐ Limited Access features https://learn.microsoft.com/legal/cognitive-services/computer-vision/limited-access?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+        How-to guides:
+            Version 4.0:
+                ☐ Call the Analyze API https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/call-analyze-image-40 (2024-12-19 06:03 PM)
+                Model customization:
+                    ☐ Create a custom model (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/model-customization (2024-12-19 06:03 PM)
+                    ☐ Verify a custom model COCO file (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/coco-verification (2024-12-19 06:03 PM)
+                Product Recognition (preview):
+                    ☐ Prepare images for Product Recognition https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/shelf-modify-images (2024-12-19 06:03 PM)
+                    ☐ Product Recognition with prebuilt model https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/shelf-analyze (2024-12-19 06:03 PM)
+                    ☐ Product Recognition with custom model https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/shelf-model-customization (2024-12-19 06:03 PM)
+                    ☐ Check planogram compliance https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/shelf-planogram (2024-12-19 06:03 PM)
+                ☐ Call the Multimodal embeddings APIs https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/image-retrieval (2024-12-19 06:03 PM)
+                ☐ Call the Background removal API (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/background-removal (2024-12-19 06:03 PM)
+                ☐ Configure a storage account https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/blob-storage-search (2024-12-19 06:03 PM)
+            Version 3.2:
+                ☐ Call the Analyze API https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/call-analyze-image (2024-12-19 06:03 PM)
+                ☐ Analyze videos in real time https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/analyze-video (2024-12-19 06:03 PM)
+                ☐ Generate a smart-cropped thumbnail https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/generate-thumbnail (2024-12-19 06:03 PM)
+        Concepts:
+            Version 4.0:
+                ☐ Image tagging https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-tag-images-40 (2024-12-19 06:03 PM)
+                ☐ Image captions https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-describe-images-40 (2024-12-19 06:03 PM)
+                ☐ Object detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-object-detection-40 (2024-11-20 10:59 PM)
+                ☐ Optical Character Recognition https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-ocr (2024-12-19 06:03 PM)
+                ☐ Smart-cropped thumbnails https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-generate-thumbnails-40 (2024-12-19 06:03 PM)
+                ☐ People detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-people-detection (2024-08-28 04:59 PM)
+                ☐ Model customization https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-model-customization (2024-12-19 06:03 PM)
+                ☐ Product Recognition (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-shelf-analysis (2024-12-19 06:03 PM)
+                ☐ Multimodal embeddings https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-image-retrieval (2024-12-19 06:03 PM)
+                ☐ Background removal (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-background-removal (2024-12-19 06:03 PM)
+            Version 3.2:
+                ☐ Image tagging https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-tagging-images (2024-12-19 06:03 PM)
+                ☐ Image categorization https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-categorizing-images (2024-12-19 06:03 PM)
+                ☐ Category taxonomy https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/category-taxonomy (2024-12-19 06:03 PM)
+                ☐ Image descriptions https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-describing-images (2024-12-19 06:03 PM)
+                ☐ Object detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-object-detection (2024-10-15 06:58 AM)
+                ☐ Brand detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-brand-detection (2024-11-20 10:59 PM)
+                ☐ Face detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-faces (2024-08-28 04:59 PM)
+                ☐ Image type detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-image-types (2024-12-19 06:03 PM)
+                ☐ Domain-specific content https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-domain-content (2024-12-19 06:03 PM)
+                ☐ Color scheme detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-color-schemes (2024-12-19 06:03 PM)
+                ☐ Adult content detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-adult-content (2024-12-19 06:03 PM)
+                ☐ Smart-cropped thumbnails https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-generating-thumbnails (2024-12-19 06:03 PM)
+        Reference:
+            Version 4.0:
+                ☐ Image Analysis REST API v4.0 (Analyze and multimodal embeddings, GA) https://aka.ms/vision-4-0-ref (2024-07-30 10:00 PM)
+                ☐ Image Analysis REST API v4.0 (other features, preview) https://learn.microsoft.com/rest/api/computervision/operation-groups?view=rest-computervision-2023-04-01-preview (2024-07-30 10:00 PM)
+                ☐ .NET https://aka.ms/azsdk/image-analysis/ref-docs/csharp (2024-06-19 11:37 AM)
+                ☐ Python https://aka.ms/azsdk/image-analysis/ref-docs/python (2024-07-31 09:24 PM)
+                ☐ Java https://aka.ms/azsdk/image-analysis/ref-docs/java (2024-09-06 11:09 AM)
+                ☐ JavaScript https://aka.ms/azsdk/image-analysis/ref-docs/js (2024-07-24 11:05 AM)
+            Version 3.2:
+                ☐ Image Analysis REST API v3.2 https://learn.microsoft.com/rest/api/computervision/operation-groups?view=rest-computervision-v3.2 (2024-07-30 10:00 PM)
+                ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/computer-vision (2023-10-03 11:36 PM)
+                ☐ Node.js https://learn.microsoft.com/javascript/api/@azure/cognitiveservices-computervision (2023-03-14 10:11 PM)
+                ☐ Python https://learn.microsoft.com/python/api/overview/azure/cognitiveservices-vision-computervision-readme (2024-11-16 06:57 AM)
+                ☐ Go https://godoc.org/github.com/Azure/azure-sdk-for-go/services/cognitiveservices/v2.1/computervision
+                ☐ Java https://learn.microsoft.com/java/api/overview/azure/cognitiveservices/client/computervision (2024-12-20 12:14 PM)
+            Older versions:
+                ☐ Image Analysis REST API v3.1 https://learn.microsoft.com/rest/api/computervision/operation-groups?view=rest-computervision-v3.1 (2024-07-30 10:00 PM)
+                ☐ Image Analysis REST API v2.1 https://learn.microsoft.com/rest/api/computervision/operation-groups?view=rest-computervision-v2.1 (2024-07-30 10:00 PM)
+            ☐ Azure CLI https://learn.microsoft.com/cli/azure/cognitiveservices#az_cognitiveservices_list (2023-10-17 09:59 PM)
+            ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/azurerm.cognitiveservices/ (2019-01-19 01:40 AM)
+    Face:
+        ☐ Face overview https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-identity (2024-11-28 05:35 AM)
+        ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/identity-quotas-limits (2024-11-28 05:35 AM)
+        ☐ Pricing https://azure.microsoft.com/pricing/details/cognitive-services/face-api
+        ☐ Face quickstart https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/identity-client-library (2024-11-22 06:02 PM)
+        Concepts:
+            ☐ Face detection, attributes, and input data https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-face-detection (2024-11-22 06:02 PM)
+            ☐ Face recognition https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-face-recognition (2024-11-22 06:02 PM)
+            ☐ Face recognition data structures https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-face-recognition-data-structures (2024-11-28 05:35 AM)
+            ☐ Face liveness abuse monitoring https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-liveness-abuse-monitoring (2024-11-22 06:02 PM)
+        How-to guides:
+            Face detection, landmarks, and attributes:
+                ☐ Detect and analyze faces https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/identity-detect-faces (2024-11-22 06:02 PM)
+                ☐ Specify a face detection model version https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-detection-model (2024-11-22 06:02 PM)
+                ☐ Use the HeadPose attribute https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/use-headpose (2024-11-22 06:02 PM)
+            Face recognition (limited access):
+                ☐ Specify a face recognition model version https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-recognition-model (2024-11-22 06:02 PM)
+                ☐ Add faces to a PersonGroup https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/add-faces (2024-11-22 06:02 PM)
+                ☐ Use the PersonDirectory structure (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/use-persondirectory (2024-11-28 05:35 AM)
+                ☐ Scale to handle more enrolled users https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/use-large-scale (2024-11-28 05:35 AM)
+                ☐ Find similar faces https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/find-similar-faces (2024-11-22 06:02 PM)
+            Service management:
+                ☐ Mitigate latency and improve performance https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/mitigate-latency (2024-11-22 06:02 PM)
+                ☐ Use limited access tokens https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/identity-access-token (2024-12-04 06:01 PM)
+                ☐ Use customer-managed keys https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/identity-encrypt-data-at-rest (2024-11-22 06:02 PM)
+        Tutorials:
+            ☐ Detect liveness in faces https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/tutorials/liveness (2024-11-22 06:02 PM)
+            ☐ Add users to a Face identification app https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/tutorials/build-enrollment-app (2024-11-22 06:02 PM)
+        ☐ Samples https://aka.ms/FaceSamples
+        Responsible use of AI:
+            Transparency notes:
+                ☐ Face use cases https://learn.microsoft.com/legal/cognitive-services/face/transparency-note?context=/azure/ai-services/computer-vision/context/context (2024-12-18 07:02 PM)
+                ☐ Characteristics and limitations https://learn.microsoft.com/legal/cognitive-services/face/characteristics-and-limitations?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+            ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/face/guidance-integration-responsible-use?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+            ☐ Best practices for enrolling users https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/enrollment-overview (2024-11-22 06:02 PM)
+            ☐ Code of conduct https://learn.microsoft.com/legal/cognitive-services/face/code-of-conduct?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+            ☐ Data privacy and security https://learn.microsoft.com/legal/cognitive-services/face/data-privacy-security?context=/azure/ai-services/computer-vision/context/context (2024-10-24 10:22 PM)
+            ☐ Limited Access features https://learn.microsoft.com/legal/cognitive-services/computer-vision/limited-access-identity?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+        Reference:
+            Server-side:
+                ☐ Face REST API https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/identity-api-reference (2024-11-22 06:02 PM)
+                ☐ Face API error codes https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/reference-face-error-codes (2024-11-28 05:35 AM)
+                ☐ .NET https://aka.ms/azsdk-csharp-face-ref (2024-10-23 11:40 AM)
+                ☐ Java https://aka.ms/azsdk-java-face-ref (2024-10-23 11:09 AM)
+                ☐ Node.js https://aka.ms/azsdk-javascript-face-ref (2024-10-31 11:09 AM)
+                ☐ Python https://aka.ms/azsdk-python-face-ref (2024-10-23 11:10 AM)
+            Client-side:
+                ☐ Kotlin (Android) https://aka.ms/azure-ai-vision-face-liveness-client-sdk-android-api-reference
+                ☐ Swift (iOS) https://aka.ms/azure-ai-vision-face-liveness-client-sdk-ios-api-reference
+                ☐ JavaScript (Web) https://aka.ms/azure-ai-vision-face-liveness-client-sdk-web-api-reference
+    Video Analysis:
+        ☐ Video Analysis overview https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/intro-to-spatial-analysis-public-preview (2024-12-19 06:03 PM)
+        Responsible use of AI:
+            ☐ Transparency note https://learn.microsoft.com/legal/cognitive-services/computer-vision/transparency-note-spatial-analysis?context=/azure/ai-services/computer-vision/context/context (2024-12-18 07:02 PM)
+            Integration and responsible use:
+                ☐ Responsible use in AI deployment https://learn.microsoft.com/legal/cognitive-services/computer-vision/responsible-use-deployment?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+                ☐ Disclosure design guidelines https://learn.microsoft.com/legal/cognitive-services/computer-vision/disclosure-design?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+                ☐ Research insights https://learn.microsoft.com/legal/cognitive-services/computer-vision/research-insights?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+            ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/computer-vision/compliance-privacy-security-2?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
+        How-to guides:
+            ☐ Call the Video Retrieval APIs https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/video-retrieval (2024-12-19 06:03 PM)
+            Use the Spatial Analysis container:
+                ☐ Set up the host machine and run the container https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-container (2024-12-19 06:03 PM)
+                ☐ Configure operations https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-operations (2024-12-19 06:03 PM)
+                ☐ Configure vehicle analysis https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/vehicle-analysis (2024-12-19 06:03 PM)
+                ☐ Use a local video file https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-local (2024-12-19 06:03 PM)
+                ☐ Logging and troubleshooting https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-logging (2024-12-19 06:03 PM)
+                ☐ Zone and line placement https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-zone-line-placement (2024-12-19 06:03 PM)
+                ☐ Camera placement https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-camera-placement (2024-12-19 06:03 PM)
+                ☐ All Azure AI containers https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-container-support?context=/azure/ai-services/computer-vision/context/context (2024-10-08 10:04 PM)
+        Reference:
+            ☐ Video Retrieval REST API https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/reference-video-search (2024-12-19 06:03 PM)
+    How-to guides:
+        Enterprise readiness:
+            ☐ Set up Virtual Networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/cognitive-services/computer-vision/context/context (2024-11-20 06:02 PM)
+            ☐ Use Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/ai-services/authentication?tabs=powershell?context=/azure/cognitive-services/computer-vision/context/context (2024-08-28 04:59 PM)
+    Resources:
+        Enterprise readiness:
+            ☐ Region support https://azure.microsoft.com/global-infrastructure/services/?products=cognitive-services
+            ☐ Compliance and certification https://azure.microsoft.com/support/legal/cognitive-services-compliance-and-privacy/
+        ☐ Support and help options https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-support-options?context=/azure/ai-services/computer-vision/context/context (2024-11-20 10:59 PM)
+        ☐ Training modules https://learn.microsoft.com/training/paths/explore-computer-vision-microsoft-azure/ (2024-07-16 05:05 PM)
+        ☐ Azure updates https://azure.microsoft.com/updates/?product=cognitive-services
+

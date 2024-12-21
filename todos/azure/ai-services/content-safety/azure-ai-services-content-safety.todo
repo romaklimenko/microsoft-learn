@@ -1,0 +1,61 @@
+Azure AI Content Safety documentation - Quickstarts, Tutorials, API Reference - Azure AI services | Microsoft Learn:
+    ☐ Azure AI Content Safety Documentation https://learn.microsoft.com/en-us/azure/ai-services/content-safety/ (2024-09-25 11:36 PM)
+    Overview:
+        ☐ Azure AI Content Safety overview https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview (2024-12-11 11:00 PM)
+        ☐ Language support https://learn.microsoft.com/en-us/azure/ai-services/content-safety/language-support (2024-09-05 05:34 AM)
+        ☐ Pricing https://aka.ms/content-safety-pricing
+        ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/content-safety/whats-new (2024-12-06 05:36 AM)
+        ☐ Azure AI Content Safety FAQ https://learn.microsoft.com/en-us/azure/ai-services/content-safety/faq (2024-11-20 06:02 PM)
+    Concepts:
+        ☐ Prompt Shields https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection (2024-10-17 05:31 AM)
+        ☐ Groundedness detection (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/groundedness (2024-10-17 05:31 AM)
+        ☐ Protected material detection (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/protected-material (2024-09-24 11:10 AM)
+        ☐ Custom categories (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/custom-categories (2024-10-30 05:35 AM)
+        ☐ Harm categories https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/harm-categories (2024-10-17 05:31 AM)
+    Quickstarts:
+        ☐ Prompt Shields https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-jailbreak (2024-10-17 05:31 AM)
+        ☐ Groundedness detection (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-groundedness (2024-10-29 05:31 AM)
+        ☐ Protected material detection for text https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-protected-material (2024-10-17 05:31 AM)
+        ☐ Protected material detection for code (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-protected-material-code (2024-09-26 03:31 PM)
+        ☐ Custom categories (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-custom-categories (2024-11-07 10:59 PM)
+        ☐ Content Safety Studio https://learn.microsoft.com/en-us/azure/ai-services/content-safety/studio-quickstart (2024-10-14 09:59 PM)
+        ☐ Text moderation https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-text (2024-08-28 04:59 PM)
+        ☐ Image moderation https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-image (2024-08-28 04:59 PM)
+        ☐ Multimodal moderation (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-multimodal (2024-09-24 11:10 AM)
+    Samples:
+        ☐ Azure AI Content Safety Python samples https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/contentsafety/azure-ai-contentsafety/samples
+        ☐ Azure AI Content Safety C# samples https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/contentsafety/Azure.AI.ContentSafety/samples
+    Responsible use of AI:
+        ☐ Transparency note https://learn.microsoft.com/legal/cognitive-services/content-safety/transparency-note?context=/azure/ai-services/content-safety/context/context (2024-12-18 07:02 PM)
+        ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/content-safety/data-privacy?context=/azure/ai-services/content-safety/context/context (2024-10-30 05:50 PM)
+        ☐ Limited access https://learn.microsoft.com/en-us/azure/ai-services/content-safety/limited-access (2024-10-01 08:16 PM)
+    How-to guides:
+        ☐ Use custom categories (rapid) (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/custom-categories-rapid (2024-09-05 05:04 PM)
+        ☐ Use a blocklist https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/use-blocklist (2024-11-07 10:59 PM)
+        ☐ Mitigate false results https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/improve-performance (2024-11-26 06:02 PM)
+        Containers (preview):
+            ☐ Content Safety containers overview https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/containers/container-overview (2024-09-24 11:10 AM)
+            ☐ Install and run containers https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/containers/install-run-container (2024-09-24 11:10 AM)
+            ☐ Text analysis container https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/containers/text-container (2024-09-24 11:10 AM)
+            ☐ Image analysis container https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/containers/image-container (2024-09-24 11:10 AM)
+        ☐ Embedded Content Safety (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/embedded-content-safety (2024-10-04 10:00 PM)
+        ☐ Encryption of data at rest https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/encrypt-data-at-rest (2024-08-28 04:59 PM)
+        ☐ Migrate from public preview to GA https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/migrate-to-general-availability (2024-08-28 04:59 PM)
+        Enterprise readiness:
+            ☐ Set up Virtual Networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/content-safety/context/context (2024-11-20 06:02 PM)
+    Reference:
+        ☐ Azure AI Content Safety REST API https://aka.ms/content-safety-api (2024-11-05 11:09 PM)
+        ☐ Azure AI Content Safety Python SDK https://learn.microsoft.com/python/api/overview/azure/ai-contentsafety-readme (2023-12-12 11:03 PM)
+        ☐ Azure AI Content Safety C# SDK https://learn.microsoft.com/dotnet/api/overview/azure/ai.contentsafety-readme (2023-12-13 12:38 AM)
+        ☐ Azure AI Content Safety Java SDK https://learn.microsoft.com/java/api/overview/azure/ai-contentsafety-readme (2024-12-05 12:05 PM)
+        ☐ Azure AI Content Safety JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/ai-content-safety-rest-readme (2023-12-12 10:52 PM)
+        ☐ Response codes https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/response-codes (2024-11-26 06:02 PM)
+    Resources:
+        Enterprise readiness:
+            ☐ Region support https://azure.microsoft.com/global-infrastructure/services/?products=cognitive-services
+            ☐ Compliance and certification https://azure.microsoft.com/support/legal/cognitive-services-compliance-and-privacy/
+        ☐ Support and help options https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-support-options?context=/azure/ai-services/content-safety/context/context (2024-11-20 10:59 PM)
+        ☐ Azure Government and global Azure https://learn.microsoft.com/azure/azure-government/compare-azure-government-global-azure (2024-09-30 11:14 AM)
+        ☐ Azure updates https://azure.microsoft.com/updates/?product=cognitive-services
+        ☐ Compliance https://azure.microsoft.com/support/legal/cognitive-services-compliance-and-privacy/
+

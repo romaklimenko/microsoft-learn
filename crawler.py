@@ -1,12 +1,15 @@
 # pylint: disable=missing-module-docstring, missing-function-docstring
+import json
 import os
 import re
+import time
 from urllib.parse import urljoin
 
 import requests
 from lxml import html
 
 DOCS_FILE_PATH = "docs.txt"
+DOCS_CACHE_PATH = ".docs.cache.json"
 
 
 def get_html(url):
@@ -18,6 +21,7 @@ def get_doc_urls():
     lines = []
     with open(DOCS_FILE_PATH, "r", encoding="utf-8") as file:
         for line in file:
+            line = line.replace("\n", "")
             lines.append(line.replace("\n", ""))
     lines = list(set(lines))
     lines.sort()
@@ -35,6 +39,16 @@ def first_or_default(lst, default=None):
 def main():
     for doc_url in get_doc_urls():
         print(doc_url)
+
+        if os.path.exists(DOCS_CACHE_PATH):
+            with open(DOCS_CACHE_PATH, "r", encoding="utf-8") as file:
+                cache = json.load(file)
+        else:
+            cache = {}
+
+        if doc_url in cache and cache[doc_url]["updated_at"] > time.time() - 60 * 60 * 8:
+            continue
+
         doc_html = get_html(doc_url)
 
         # <meta name="toc_rel" content="toc.json" />
@@ -49,25 +63,16 @@ def main():
             print(f"No table of contents found for {doc_url}.")
             continue
 
-        toc_url = f"{doc_url}{toc_rel}"
+        toc_url = urljoin(base_url, toc_rel)
 
-        print(f"TOC: {toc_url}")
+        print(f"  TOC: {toc_url}")
 
         toc_json = requests.get(toc_url, timeout=30).json()
 
-        # for item in toc_json['items']:
-        #     for line in get_item_lines(base_url, item):
-        #         print(line)
-
         title = first_or_default(doc_html.xpath('//title/text()'))
 
-        todo_filename = title \
-            .lower() \
-            .replace(" | microsoft learn", "") \
-            .replace(" documentation", "") \
-            .replace(" ", "-") \
-            .replace("---", "-") \
-            .replace("--", "-")
+        todo_filename = f"{doc_url.replace(
+            'https://learn.microsoft.com/en-us/', '').replace('/', '-').rstrip('-')}.todo"
 
         lines = []
         for item in toc_json['items']:
@@ -77,9 +82,16 @@ def main():
         if len(lines) > 0:
             lines.insert(0, f"{title}:")
 
-        if os.path.exists(f"todos/{todo_filename}.todo"):
+        file_path = os.path.join(
+            "todos",
+            doc_url.replace('https://learn.microsoft.com/en-us/', ''),
+            todo_filename)
+
+        os.makedirs(os.path.dirname(file_path), exist_ok=True)
+
+        if os.path.exists(file_path):
             # filter lines that are not already in the file
-            with open(f"todos/{todo_filename}.todo", "r", encoding="utf-8") as file:
+            with open(file_path, "r", encoding="utf-8") as file:
                 existing_lines = [
                     re.sub(
                         r" (@done.*|@cancelled.*)", "",
@@ -93,11 +105,16 @@ def main():
                 lines.insert(0, "\n---\n")
 
         if len(lines) > 0:
-            with open(f"todos/{todo_filename}.todo", "a", encoding="utf-8") as file:
+            with open(file_path, "a", encoding="utf-8") as file:
                 for line in lines:
-                    print(line)
+                    # print(line)
                     file.write(line + "\n")
                 file.write("\n")
+
+        cache[doc_url] = {'updated_at': time.time()}
+
+        with open(DOCS_CACHE_PATH, "w", encoding="utf-8") as file:
+            json.dump(cache, file, indent=2)
 
 
 def get_item_lines(base_url, item, level=0):
@@ -125,6 +142,7 @@ def get_item_lines(base_url, item, level=0):
                 '//meta[@name="updated_at"]/@content'))
             if updated_at is not None:
                 line += f" ({updated_at})"
+        # pylint: disable=broad-except
         except Exception as e:
             print(e)
 
