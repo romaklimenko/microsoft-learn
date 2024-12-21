@@ -46,18 +46,19 @@ def main():
         else:
             cache = {}
 
-        if doc_url in cache and cache[doc_url]["updated_at"] > time.time() - 60 * 60 * 8:
+        if (
+            doc_url in cache
+            and cache[doc_url]["updated_at"] > time.time() - 60 * 60 * 8
+        ):
             continue
 
         doc_html = get_html(doc_url)
 
         # <meta name="toc_rel" content="toc.json" />
-        toc_rel = first_or_default(doc_html.xpath(
-            '//meta[@name="toc_rel"]/@content'))
+        toc_rel = first_or_default(doc_html.xpath('//meta[@name="toc_rel"]/@content'))
 
         # <link href="https://learn.microsoft.com/en-us/azure/event-grid/" rel="canonical">
-        base_url = first_or_default(
-            doc_html.xpath('//link[@rel="canonical"]/@href'))
+        base_url = first_or_default(doc_html.xpath('//link[@rel="canonical"]/@href'))
 
         if toc_rel is None:
             print(f"No table of contents found for {doc_url}.")
@@ -69,13 +70,13 @@ def main():
 
         toc_json = requests.get(toc_url, timeout=30).json()
 
-        title = first_or_default(doc_html.xpath('//title/text()'))
+        title = first_or_default(doc_html.xpath("//title/text()"))
 
         todo_filename = f"{doc_url.replace(
             'https://learn.microsoft.com/en-us/', '').replace('/', '-').rstrip('-')}.todo"
 
         lines = []
-        for item in toc_json['items']:
+        for item in toc_json["items"]:
             for line in get_item_lines(base_url, item, 1):
                 lines.append(line)
 
@@ -84,8 +85,9 @@ def main():
 
         file_path = os.path.join(
             "todos",
-            doc_url.replace('https://learn.microsoft.com/en-us/', ''),
-            todo_filename)
+            doc_url.replace("https://learn.microsoft.com/en-us/", ""),
+            todo_filename,
+        )
 
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
@@ -94,11 +96,12 @@ def main():
             with open(file_path, "r", encoding="utf-8") as file:
                 existing_lines = [
                     re.sub(
-                        r" (@done.*|@cancelled.*)", "",
-                        line.replace("\n", "")
-                            .replace("✔ ", "☐ ")
-                            .replace("✔ ", "✘ "))
-                    for line in file]
+                        r" (@done.*|@cancelled.*)",
+                        "",
+                        line.replace("\n", "").replace("✔ ", "☐ ").replace("✔ ", "✘ "),
+                    )
+                    for line in file
+                ]
             lines = [line for line in lines if line not in existing_lines]
 
             if len(lines) > 0:
@@ -111,15 +114,15 @@ def main():
                     file.write(line + "\n")
                 file.write("\n")
 
-        cache[doc_url] = {'updated_at': time.time()}
+        cache[doc_url] = {"updated_at": time.time()}
 
         with open(DOCS_CACHE_PATH, "w", encoding="utf-8") as file:
             json.dump(cache, file, indent=2)
 
 
 def get_item_lines(base_url, item, level=0):
-    has_href = 'href' in item
-    has_children = 'children' in item
+    has_href = "href" in item
+    has_children = "children" in item
 
     if has_href and not has_children:
         prefix = "☐ "
@@ -136,10 +139,11 @@ def get_item_lines(base_url, item, level=0):
     if has_href:
         line += f" {urljoin(base_url, item['href'])}"
         try:
-            href_html = get_html(urljoin(base_url, item['href']))
+            href_html = get_html(urljoin(base_url, item["href"]))
             # <meta name="updated_at" content="2024-08-02 11:27 AM" />
-            updated_at = first_or_default(href_html.xpath(
-                '//meta[@name="updated_at"]/@content'))
+            updated_at = first_or_default(
+                href_html.xpath('//meta[@name="updated_at"]/@content')
+            )
             if updated_at is not None:
                 line += f" ({updated_at})"
         # pylint: disable=broad-except
@@ -151,8 +155,8 @@ def get_item_lines(base_url, item, level=0):
 
     yield line
 
-    if 'children' in item:
-        for child in item['children']:
+    if "children" in item:
+        for child in item["children"]:
             yield from get_item_lines(base_url, child, level + 1)
 
 
