@@ -138,6 +138,10 @@ def get_item_lines(base_url, item, level=0):
 
     if has_href:
         line += f" {urljoin(base_url, item['href'])}"
+        # it smells bad, but it works
+        line = line \
+            .replace("sql-server/sql-server", "sql-server") \
+            .replace("sql/sql-server", "sql")
         try:
             href_html = get_html(urljoin(base_url, item["href"]))
             # <meta name="updated_at" content="2024-08-02 11:27 AM" />
