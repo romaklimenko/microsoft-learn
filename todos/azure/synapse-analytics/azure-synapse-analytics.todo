@@ -283,7 +283,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Query using Python https://learn.microsoft.com/azure/azure-sql/database/connect-query-python?context=/azure/synapse-analytics/context/context (2024-07-31 05:33 PM)
                 ☐ Query with sqlcmd https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/get-started-connect-sqlcmd (2024-08-01 05:35 AM)
             Troubleshoot serverless SQL pools:
-                ☐ Troubleshoot serverless SQL pools https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/resources-self-help-sql-on-demand (2024-12-05 11:02 PM)
+                ✘ Troubleshoot serverless SQL pools https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/resources-self-help-sql-on-demand (2024-12-05 11:02 PM) @cancelled(24-12-24 15:33)
     Data Explorer:
         Overview:
             ☐ Data Explorer overview https://learn.microsoft.com/en-us/azure/synapse-analytics/data-explorer/data-explorer-overview (2024-08-01 05:35 AM)
@@ -921,7 +921,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ series_atan() https://learn.microsoft.com/kusto/query/series-atan-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ series_ceiling() https://learn.microsoft.com/kusto/query/series-ceiling-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ series_cos() https://learn.microsoft.com/kusto/query/series-cos-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ series_cosine_similarity() https://learn.microsoft.com/kusto/query/series-cosine-similarity-function?view=azure-data-explorer&preserve-view=true (2024-11-25 12:07 AM)
+                ✘ series_cosine_similarity() https://learn.microsoft.com/kusto/query/series-cosine-similarity-function?view=azure-data-explorer&preserve-view=true (2024-11-25 12:07 AM) @cancelled(24-12-24 15:44)
                 ☐ series_decompose() https://learn.microsoft.com/kusto/query/series-decompose-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ series_decompose_anomalies() https://learn.microsoft.com/kusto/query/series-decompose-anomalies-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ series_decompose_forecast() https://learn.microsoft.com/kusto/query/series-decompose-forecast-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1682,7 +1682,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Azure Database for MySQL https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-database-for-mysql?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-14 06:47 PM)
                 ☐ Azure Database for PostgreSQL https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-database-for-postgresql?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-13 12:09 PM)
                 ☐ Azure Databricks Delta Lake https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-databricks-delta-lake?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-11 06:03 PM)
-                ☐ Azure File Storage https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-file-storage?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-20 11:16 AM)
+                ✘ Azure File Storage https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-file-storage?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-20 11:16 AM) @cancelled(24-12-24 15:45)
                 ☐ Azure SQL Database https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-sql-database?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-07 10:04 PM)
                 ☐ Azure SQL Managed Instance https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-sql-managed-instance?toc=/azure/synapse-analytics/toc.json (2024-08-07 10:04 PM)
                 ☐ Azure Synapse Analytics https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-sql-data-warehouse?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-06 05:39 AM)
@@ -2031,4 +2031,11 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             ☐ Machine learning and AI https://learn.microsoft.com/en-us/azure/synapse-analytics/partner/machine-learning-ai (2024-08-01 05:35 AM)
             ☐ System integration https://learn.microsoft.com/en-us/azure/synapse-analytics/partner/system-integration (2024-08-01 05:35 AM)
             ☐ Compatibility issues with third-party applications https://learn.microsoft.com/en-us/azure/synapse-analytics/partner/compatibility-issues (2024-08-01 05:35 AM)
+
+
+---
+
+                ✔ Troubleshoot serverless SQL pools https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/resources-self-help-sql-on-demand (2024-12-23 06:06 PM) @done(24-12-24 15:39)
+                ✔ series_cosine_similarity() https://learn.microsoft.com/kusto/query/series-cosine-similarity-function?view=azure-data-explorer&preserve-view=true (2024-12-23 12:12 PM) @done(24-12-24 15:43)
+                ✔ Azure File Storage https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-file-storage?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-23 12:14 PM) @done(24-12-24 15:45)
 

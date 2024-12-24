@@ -161,19 +161,19 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
             ☐ Microsoft.Azure.ServiceBus (.NET Standard - legacy) https://learn.microsoft.com/dotnet/api/microsoft.azure.servicebus (2018-06-16 12:36 AM)
             ☐ Microsoft.ServiceBus.Messaging (.NET Framework - legacy) https://learn.microsoft.com/dotnet/api/microsoft.servicebus.messaging (2018-06-16 12:36 AM)
         Java:
-            ☐ Migrate from azure-servicebus to azure-messaging-servicebus https://github.com/Azure/azure-sdk-for-java/blob/master/sdk/servicebus/azure-messaging-servicebus/migration-guide.md
-            ☐ azure-messaging-servicebus (latest) https://learn.microsoft.com/java/api/com.azure.messaging.servicebus (2024-12-05 12:05 PM)
-            ☐ azure-servicebus (legacy) https://learn.microsoft.com/java/api/com.microsoft.azure.servicebus (2023-09-19 10:51 PM)
+            ✘ Migrate from azure-servicebus to azure-messaging-servicebus https://github.com/Azure/azure-sdk-for-java/blob/master/sdk/servicebus/azure-messaging-servicebus/migration-guide.md @cancelled(24-12-24 15:29)
+            ✘ azure-messaging-servicebus (latest) https://learn.microsoft.com/java/api/com.azure.messaging.servicebus (2024-12-05 12:05 PM) @cancelled(24-12-24 15:29)
+            ✘ azure-servicebus (legacy) https://learn.microsoft.com/java/api/com.microsoft.azure.servicebus (2023-09-19 10:51 PM) @cancelled(24-12-24 15:29)
         Spring:
-            ☐ Spring JMS support https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/service-bus-messaging/toc.json#spring-jms-support (2024-12-18 06:02 PM)
-            ☐ Spring Integration with Azure Service Bus https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/service-bus-messaging/toc.json#spring-integration-with-azure-service-bus (2024-12-18 06:02 PM)
-            ☐ Spring Cloud Stream Binder for Azure Service Bus https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/service-bus-messaging/toc.json#spring-cloud-stream-binder-for-azure-service-bus (2024-12-18 06:02 PM)
+            ✘ Spring JMS support https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/service-bus-messaging/toc.json#spring-jms-support (2024-12-18 06:02 PM) @cancelled(24-12-24 15:29)
+            ✘ Spring Integration with Azure Service Bus https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/service-bus-messaging/toc.json#spring-integration-with-azure-service-bus (2024-12-18 06:02 PM) @cancelled(24-12-24 15:29)
+            ✘ Spring Cloud Stream Binder for Azure Service Bus https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/service-bus-messaging/toc.json#spring-cloud-stream-binder-for-azure-service-bus (2024-12-18 06:02 PM) @cancelled(24-12-24 15:29)
         Python:
-            ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2024-12-20 12:08 PM)
-            ☐ Migrate from azure-servicebus version 0.50 to version 7 https://github.com/Azure/azure-sdk-for-python/blob/master/sdk/servicebus/azure-servicebus/migration_guide.md
+            ✘ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2024-12-20 12:08 PM) @cancelled(24-12-24 15:29)
+            ✘ Migrate from azure-servicebus version 0.50 to version 7 https://github.com/Azure/azure-sdk-for-python/blob/master/sdk/servicebus/azure-servicebus/migration_guide.md @cancelled(24-12-24 15:30)
         JavaScript:
-            ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2024-12-20 12:08 PM)
-            ☐ Migrate from version 1 to version 7 https://github.com/Azure/azure-sdk-for-js/blob/master/sdk/servicebus/service-bus/migrationguide.md
+            ✘ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2024-12-20 12:08 PM) @cancelled(24-12-24 15:30)
+            ✘ Migrate from version 1 to version 7 https://github.com/Azure/azure-sdk-for-js/blob/master/sdk/servicebus/service-bus/migrationguide.md @cancelled(24-12-24 15:30)
         ☐ Go https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/messaging/azservicebus
         ☐ PHP https://github.com/Azure/azure-sdk-for-php
         ☐ Ruby https://github.com/Azure/azure-sdk-for-ruby
@@ -197,4 +197,10 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
         ☐ Service updates https://azure.microsoft.com/updates/?product=service-bus
         ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azureservicebus
         ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=service-bus
+
+
+---
+
+            ✔ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2024-12-23 12:07 PM) @done(24-12-24 15:29)
+            ✔ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2024-12-23 12:09 PM) @done(24-12-24 15:29)
 

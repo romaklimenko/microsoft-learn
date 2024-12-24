@@ -5474,7 +5474,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                 ☐ Configure least privilege https://learn.microsoft.com/en-us/sql/azure-arc/configure-least-privilege (2024-09-09 10:27 PM)
                 ☐ Configure advanced data Security https://learn.microsoft.com/en-us/sql/azure-arc/configure-advanced-data-security (2024-09-09 10:27 PM)
                 ☐ Certificate rotation https://learn.microsoft.com/en-us/sql/azure-arc/rotate-certificates (2024-09-09 10:27 PM)
-                ☐ Enable Defender https://learn.microsoft.com/azure/defender-for-cloud/defender-for-sql-usage?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-09-25 05:04 PM)
+                ✘ Enable Defender https://learn.microsoft.com/azure/defender-for-cloud/defender-for-sql-usage?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-09-25 05:04 PM) @cancelled(24-12-24 15:48)
                 ☐ Register Purview https://learn.microsoft.com/purview/register-scan-azure-arc-enabled-sql-server?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-12-12 10:31 PM)
                 Roles, permissions, & files:
                     ☐ Agent roles https://learn.microsoft.com/en-us/sql/azure-arc/permissions-granted-agent-extension (2024-09-09 10:27 PM)
@@ -9436,4 +9436,10 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
 ---
 
                 ☐ SQLColAttribute https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolattribute
+
+
+---
+
+            ✔ Install and connect (WSL2) https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-wsl-2 (2024-09-09 10:27 PM) @done(24-12-24 15:47)
+                ✔ Enable Defender https://learn.microsoft.com/azure/defender-for-cloud/defender-for-sql-usage?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-12-23 05:59 PM) @done(24-12-24 15:48)
 
