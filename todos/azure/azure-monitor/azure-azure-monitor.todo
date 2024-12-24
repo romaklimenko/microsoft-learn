@@ -1,0 +1,788 @@
+Azure Monitor documentation - Azure Monitor | Microsoft Learn:
+    ☐ Azure Monitor Documentation https://learn.microsoft.com/en-us/azure/azure-monitor/ (2024-09-11 04:50 PM)
+    Overview:
+        ☐ Azure Monitor overview https://learn.microsoft.com/en-us/azure/azure-monitor/overview (2024-10-30 05:35 AM)
+        ☐ Insights and curated visualizations https://learn.microsoft.com/en-us/azure/azure-monitor/insights/insights-overview (2024-09-11 04:50 PM)
+        ☐ Multicloud monitoring https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-multicloud (2024-09-11 04:50 PM)
+        ☐ AIOps and machine learning https://learn.microsoft.com/en-us/azure/azure-monitor/logs/aiops-machine-learning (2024-11-17 12:05 PM)
+        ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-monitor/whats-new (2024-12-09 05:37 AM)
+    Getting started:
+        ☐ Get started with Azure Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/getting-started (2024-09-11 04:50 PM)
+        ☐ Plan your implementation https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-plan (2024-09-11 04:50 PM)
+        ☐ Configure data collection https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-data-collection (2024-12-10 11:03 PM)
+        ☐ Understand analysis and visualization tools https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-analysis (2024-10-09 04:58 PM)
+        ☐ Plan alerts and automated actions https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-plan (2024-09-11 04:50 PM)
+        ☐ At-scale monitoring solutions https://learn.microsoft.com/en-us/azure/azure-monitor/monitor-at-scale (2024-10-30 05:00 PM)
+    Monitoring scenarios https://learn.microsoft.com/en-us/azure/azure-monitor/monitor-azure-monitor (2024-10-28 05:03 PM):
+        Monitor an Azure resource:
+            ☐ Use Azure Monitor to monitor an Azure resource https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/monitor-azure-resource (2024-09-11 04:50 PM)
+            ☐ Analyze metric data https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/tutorial-metrics (2024-09-11 04:50 PM)
+            ☐ Collect and view resource logs https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/tutorial-resource-logs (2024-09-11 04:50 PM)
+            ☐ Monitor resources using Activity log insights https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log-insights (2024-09-11 04:50 PM)
+            ☐ Create alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alert-options (2024-12-08 12:04 PM)
+        Monitor applications with Application Insights:
+            ☐ Application Insights overview https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview (2024-12-10 11:03 PM)
+            ☐ OpenTelemetry on Azure https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry (2024-09-11 04:50 PM)
+            Enable Application Insights:
+                ☐ Data Collection Basics https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-overview (2024-11-07 10:59 PM)
+                Automatic instrumentation:
+                    ☐ Autoinstrumentation supported scenarios https://learn.microsoft.com/en-us/azure/azure-monitor/app/codeless-overview (2024-10-23 05:32 AM)
+                    ☐ Azure VM and Virtual Machine Scale Sets https://learn.microsoft.com/en-us/azure/azure-monitor/app/azure-vm-vmss-apps (2024-09-11 04:50 PM)
+                    ☐ Azure App Service https://learn.microsoft.com/en-us/azure/azure-monitor/app/codeless-app-service (2024-12-10 11:03 PM)
+                    ☐ Azure Functions https://learn.microsoft.com/en-us/azure/azure-monitor/app/monitor-functions (2024-10-11 04:59 PM)
+                    ☐ Azure Kubernetes Service https://learn.microsoft.com/en-us/azure/azure-monitor/app/kubernetes-codeless (2024-09-11 04:50 PM)
+                    ☐ ASP.NET on-premises agent https://learn.microsoft.com/en-us/azure/azure-monitor/app/application-insights-asp-net-agent (2024-10-11 04:59 PM)
+                OpenTelemetry Distro:
+                    ☐ Get started with OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-enable (2024-11-01 05:03 PM)
+                    ☐ Configure OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-configuration (2024-11-11 11:00 PM)
+                    ☐ Add and modify OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-add-modify (2024-12-12 11:02 PM)
+                    ☐ Filter OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-filter (2024-12-12 11:02 PM)
+                    ☐ Help, support, and feedback https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-help-support-feedback (2024-12-10 11:03 PM)
+                    .NET (supplemental):
+                        ☐ Migrate from Application Insights .NET SDKs to OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-dotnet-migrate (2024-10-30 09:59 PM)
+                    Java (supplemental):
+                        ☐ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2024-11-14 06:02 PM)
+                        ☐ Profiler https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-profiler (2024-12-10 11:03 PM)
+                        ☐ Get started (supplemental) https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-get-started-supplemental (2024-11-01 05:03 PM)
+                        Configuration:
+                            ☐ General https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-config (2024-11-14 06:02 PM)
+                            ☐ JMX metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-jmx-metrics-configuration (2024-09-11 04:50 PM)
+                            ☐ Sampling overrides https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-sampling-overrides (2024-12-20 10:59 PM)
+                            Telemetry processors:
+                                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors (2024-09-11 04:50 PM)
+                                ☐ Examples https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors-examples (2024-09-11 04:50 PM)
+                        ☐ Upgrade from 2.x https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-upgrade-from-2x (2024-11-01 05:03 PM)
+                    Node.js (supplemental):
+                        ☐ Upgrade from SDK 2.X https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-nodejs-migrate (2024-09-30 05:01 PM)
+                    Python (supplemental):
+                        ☐ Migrate from Opencensus https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-python-opencensus-migrate (2024-10-06 11:07 AM)
+                Client-side JavaScript SDK:
+                    ☐ Get Started with JavaScript SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk (2024-11-07 10:59 PM)
+                    ☐ Configure JavaScript SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk-configuration (2024-09-11 04:50 PM)
+                    ☐ Enable React, React Native, Angular https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-framework-extensions (2024-09-11 04:50 PM)
+                    ☐ Enable Click Analytics https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-feature-extensions (2024-09-11 04:50 PM)
+                    ☐ Upgrade https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk-upgrade (2024-09-11 04:50 PM)
+                    ☐ Troubleshooting https://learn.microsoft.com/troubleshoot/azure/azure-monitor/app-insights/javascript-sdk-troubleshooting (2024-06-24 09:01 AM)
+                Application Insights SDK (Classic API):
+                    .NET:
+                        ☐ ASP.NET Core App Monitoring https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-core (2024-12-12 11:02 PM)
+                        ☐ ILogger https://learn.microsoft.com/en-us/azure/azure-monitor/app/ilogger (2024-11-07 10:59 PM)
+                        ☐ ASP.NET App Monitoring https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net (2024-11-07 10:59 PM)
+                        ☐ Non-HTTP, console, and background apps https://learn.microsoft.com/en-us/azure/azure-monitor/app/worker-service (2024-11-08 11:00 PM)
+                        Advanced ASP.NET SDK topics:
+                            ☐ GetMetric https://learn.microsoft.com/en-us/azure/azure-monitor/app/get-metric (2024-09-11 04:50 PM)
+                            ☐ EventCounters https://learn.microsoft.com/en-us/azure/azure-monitor/app/eventcounters (2024-09-11 04:50 PM)
+                            ☐ ApplicationInsights.config https://learn.microsoft.com/en-us/azure/azure-monitor/app/configuration-with-applicationinsights-config (2024-10-11 04:59 PM)
+                            ☐ TelemetryChannels https://learn.microsoft.com/en-us/azure/azure-monitor/app/telemetry-channels (2024-09-11 04:50 PM)
+                            ☐ Track custom operations in .NET SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/custom-operations-tracking (2024-11-07 10:59 PM)
+                            ☐ Performance counters https://learn.microsoft.com/en-us/azure/azure-monitor/app/performance-counters (2024-09-11 04:50 PM)
+                            ☐ Exceptions https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-exceptions (2024-09-17 05:01 PM)
+                            ☐ ASP.NET Dependencies https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-dependencies (2024-12-10 11:03 PM)
+                    ☐ Node.js https://learn.microsoft.com/en-us/azure/azure-monitor/app/nodejs (2024-09-11 04:50 PM)
+                    ☐ Python OpenCensus (deprecated) https://learn.microsoft.com/previous-versions/azure/azure-monitor/app/opencensus-python (2024-10-07 10:33 PM)
+                    Advanced SDK topics:
+                        ☐ Connection strings https://learn.microsoft.com/en-us/azure/azure-monitor/app/sdk-connection-string (2024-12-10 11:03 PM)
+                        ☐ Sampling https://learn.microsoft.com/en-us/azure/azure-monitor/app/sampling-classic-api (2024-09-11 04:50 PM)
+                        ☐ Application Insights API summary https://learn.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics (2024-10-08 05:00 PM)
+                        ☐ Log traces https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-trace-logs (2024-09-11 04:50 PM)
+                        ☐ TelemetryProcessors https://learn.microsoft.com/en-us/azure/azure-monitor/app/api-filtering-sampling (2024-09-11 04:50 PM)
+                        ☐ Distributed tracing and telemetry correlation https://learn.microsoft.com/en-us/azure/azure-monitor/app/distributed-trace-data (2024-11-07 10:59 PM)
+                    ☐ SDK support policy https://learn.microsoft.com/en-us/azure/azure-monitor/app/sdk-support-guidance (2024-09-11 04:50 PM)
+                Upgrade from classic resources and iKey:
+                    ☐ Migrate to a workspace-based resource https://learn.microsoft.com/previous-versions/azure/azure-monitor/app/convert-classic-resource (2024-10-28 10:44 PM)
+                    ☐ Migrate to connection strings https://learn.microsoft.com/en-us/azure/azure-monitor/app/migrate-from-instrumentation-keys-to-connection-strings (2024-10-11 04:59 PM)
+                ☐ Create a resource https://learn.microsoft.com/en-us/azure/azure-monitor/app/create-workspace-resource (2024-12-10 11:03 PM)
+                ☐ Manage Application Insights https://learn.microsoft.com/en-us/azure/azure-monitor/app/powershell (2024-12-08 12:04 PM)
+            Experiences:
+                ☐ Application dashboard https://learn.microsoft.com/en-us/azure/azure-monitor/app/overview-dashboard (2024-11-07 10:59 PM)
+                ☐ Application Map https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-map (2024-10-11 10:00 PM)
+                ☐ Failures and Performance Views https://learn.microsoft.com/en-us/azure/azure-monitor/app/failures-and-performance-views (2024-09-11 04:50 PM)
+                ☐ Availability https://learn.microsoft.com/en-us/azure/azure-monitor/app/availability (2024-12-13 05:33 AM)
+                ☐ Live Metric stream https://learn.microsoft.com/en-us/azure/azure-monitor/app/live-stream (2024-12-10 11:03 PM)
+                ☐ Usage (user behavior analytics) https://learn.microsoft.com/en-us/azure/azure-monitor/app/usage (2024-09-11 04:50 PM)
+                ☐ Release and work item insights https://learn.microsoft.com/en-us/azure/azure-monitor/app/release-and-work-item-insights (2024-10-30 09:59 PM)
+                ☐ Transaction Search and Diagnostics https://learn.microsoft.com/en-us/azure/azure-monitor/app/transaction-search-and-diagnostics (2024-12-10 11:03 PM)
+            Code analysis:
+                Code Optimizations:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations (2024-12-10 11:03 PM)
+                    ☐ Set up Code Optimizations https://learn.microsoft.com/en-us/azure/azure-monitor/insights/set-up-code-optimizations (2024-12-10 11:03 PM)
+                    ☐ View insights https://learn.microsoft.com/en-us/azure/azure-monitor/insights/view-code-optimizations (2024-10-28 05:03 PM)
+                    Extensions (preview):
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-extensions (2024-10-28 05:03 PM)
+                        ☐ Visual Studio https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-vs-extension (2024-11-19 06:02 PM)
+                        ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-vscode-extension (2024-10-28 05:03 PM)
+                    ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-troubleshoot (2024-12-10 11:03 PM)
+                    Profiler:
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-overview (2024-10-28 05:03 PM)
+                        Enable Profiler:
+                            ☐ Azure App Service https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler (2024-11-19 06:02 PM)
+                            ☐ Azure Functions app https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-azure-functions (2024-11-19 06:02 PM)
+                            ☐ Azure Cloud Service https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-cloudservice (2024-10-24 04:59 PM)
+                            ☐ Azure Service Fabric app https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-servicefabric (2024-10-24 04:59 PM)
+                            ☐ Azure Virtual Machines https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-vm (2024-10-24 04:59 PM)
+                            ☐ ASP.NET Core app hosted in Linux on App Service https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-aspnetcore-linux (2024-11-19 06:02 PM)
+                            ☐ ASP.NET Core app running in container https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-containers (2024-10-24 04:59 PM)
+                        ☐ View Profiler data https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-data (2024-10-24 04:59 PM)
+                        Configure:
+                            ☐ Configure Profiler https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-settings (2024-10-28 05:03 PM)
+                            ☐ Configure BYOS (Bring Your Own Storage) https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-bring-your-own-storage (2024-10-24 04:59 PM)
+                        ☐ Track Requests https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-trackrequests (2024-10-24 04:59 PM)
+                        ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-troubleshooting (2024-10-24 04:59 PM)
+                Snapshot Debugger:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/snapshot-debugger/snapshot-debugger (2024-09-11 04:50 PM)
+                    ☐ View snapshots https://learn.microsoft.com/en-us/azure/azure-monitor/snapshot-debugger/snapshot-debugger-data (2024-09-11 04:50 PM)
+                    Enable Snapshot Debugger:
+                        ☐ Enable Snapshot Debugger for an App Service https://learn.microsoft.com/en-us/azure/azure-monitor/snapshot-debugger/snapshot-debugger-app-service (2024-12-10 11:03 PM)
+                        ☐ Enable Snapshot Debugger for a Function App https://learn.microsoft.com/en-us/azure/azure-monitor/snapshot-debugger/snapshot-debugger-function-app (2024-09-11 04:50 PM)
+                        ☐ Enable Snapshot Debugger for other environments https://learn.microsoft.com/en-us/azure/azure-monitor/snapshot-debugger/snapshot-debugger-vm (2024-09-11 04:50 PM)
+                    ☐ Configure BYOS (Bring Your Own Storage) https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-bring-your-own-storage (2024-10-24 04:59 PM)
+                    ☐ Snapshot Debugger troubleshooting https://learn.microsoft.com/en-us/azure/azure-monitor/snapshot-debugger/snapshot-debugger-troubleshoot (2024-12-10 11:03 PM)
+                Smart detection https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/proactive-diagnostics (2024-09-11 04:50 PM):
+                    ☐ Upgrade to alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-smart-detections-migration (2024-10-30 09:59 PM)
+                    ☐ Failure anomalies https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/proactive-failure-diagnostics (2024-10-30 09:59 PM)
+                    ☐ Performance anomalies https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/smart-detection-performance (2024-12-10 11:03 PM)
+                    ☐ Trace degradation https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/proactive-trace-severity (2024-09-11 04:50 PM)
+                    ☐ Exception volume https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/proactive-exception-volume (2024-09-11 04:50 PM)
+                    ☐ Memory leak https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/proactive-potential-memory-leak (2024-09-11 04:50 PM)
+                    ☐ Security detection https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/proactive-application-security-detection-pack (2024-09-11 04:50 PM)
+                    ☐ Manage smart detection rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/proactive-arm-config (2024-10-30 09:59 PM)
+                    ☐ E-mail notification https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/proactive-email-notification (2024-09-11 04:50 PM)
+            Terms and concepts:
+                ☐ Connection strings https://learn.microsoft.com/en-us/azure/azure-monitor/app/connection-strings (2024-12-10 11:03 PM)
+                ☐ Geolocation and IP address handling https://learn.microsoft.com/en-us/azure/azure-monitor/app/ip-collection (2024-09-11 04:50 PM)
+                ☐ Metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/metrics-overview (2024-12-05 06:04 PM)
+                ☐ Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/azure-monitor/app/azure-ad-authentication (2024-12-10 11:03 PM)
+            Help and support:
+                ☐ Create an Azure support ticket https://azure.microsoft.com/support/create-ticket
+                ☐ Q&A forum (general questions) https://learn.microsoft.com/answers/tags/20/azure-monitor
+                ☐ Stack Overflow (coding questions) https://stackoverflow.com/questions/tagged/azure-application-insights
+                ☐ Application Insights product feedback https://feedback.azure.com/d365community/forum/3887dc70-2025-ec11-b6e6-000d3a4f09d0
+        Monitor virtual machines:
+            ☐ Best practices https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-vm (2024-09-11 04:50 PM)
+            Deployment guide:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine (2024-09-11 04:50 PM)
+                ☐ Deploy agents https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-agent (2024-09-13 09:56 PM)
+                ☐ Collect data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-data-collection (2024-12-09 05:37 AM)
+                ☐ Analyze data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-analyze (2024-09-11 04:50 PM)
+                ☐ Create alerts https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-alerts (2024-09-24 09:59 PM)
+                ☐ Troubleshoot VM performance issues https://learn.microsoft.com/troubleshoot/azure/virtual-machines/performance-diagnostics?toc=/azure/azure-monitor/toc.json (2024-09-04 09:01 AM)
+            VM insights:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-overview (2024-11-07 10:59 PM)
+                Enable and configure:
+                    ☐ Enable VM insights https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable (2024-12-09 05:37 AM)
+                    ☐ Enable with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-policy (2024-12-04 05:31 AM)
+                    ☐ Windows client machines https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-client (2024-11-07 10:59 PM)
+                    ☐ Dependency agent https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-dependency-agent (2024-11-07 10:59 PM)
+                    ☐ Disable monitoring https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-optout (2024-11-07 10:59 PM)
+                    ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-troubleshoot (2024-11-07 10:59 PM)
+                Migrate:
+                    ☐ Migrate to Azure Monitor agent https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-migrate-agent (2024-11-07 10:59 PM)
+                    ☐ Migrate from deprecated policies https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-migrate-deprecated-policies (2024-11-07 10:59 PM)
+                Use VM insights:
+                    ☐ Monitor performance https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-performance (2024-10-30 11:09 AM)
+                    ☐ Map dependencies https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-maps (2024-11-08 11:00 PM)
+                    ☐ Query map data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-log-query (2024-10-30 11:09 AM)
+                    ☐ Monitor changes https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-change-analysis (2024-09-11 04:50 PM)
+                    ☐ Visualize data with workbooks https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-workbooks (2024-09-11 04:50 PM)
+            System Center:
+                ☐ Migrate from Operations Manager https://learn.microsoft.com/en-us/azure/azure-monitor/azure-monitor-operations-manager (2024-09-11 04:50 PM)
+                ☐ Assess Operations Manager https://learn.microsoft.com/en-us/azure/azure-monitor/insights/scom-assessment (2024-09-11 04:50 PM)
+            Tutorials:
+                ☐ Enable recommended alerts for VMs https://learn.microsoft.com/en-us/azure/azure-monitor/vm/tutorial-monitor-vm-alert-recommended (2024-11-28 05:34 AM)
+                ☐ Create an availability alert for VMs https://learn.microsoft.com/en-us/azure/azure-monitor/vm/tutorial-monitor-vm-alert-availability (2024-09-11 04:50 PM)
+                ☐ Enable VM insights https://learn.microsoft.com/en-us/azure/azure-monitor/vm/tutorial-monitor-vm-enable-insights (2024-11-07 10:59 PM)
+                ☐ Collect VM guest logs and metrics https://learn.microsoft.com/en-us/azure/azure-monitor/vm/tutorial-monitor-vm-guest (2024-11-07 10:59 PM)
+        Monitor containers:
+            ☐ Azure Monitor features https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-overview (2024-09-11 04:50 PM)
+            ☐ Full stack monitoring https://learn.microsoft.com/en-us/azure/azure-monitor/containers/monitor-kubernetes (2024-12-10 11:03 PM)
+            ☐ Best practices https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-containers (2024-09-11 04:50 PM)
+            ☐ Analyze and reduce costs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-cost (2024-09-11 04:50 PM)
+            Enable Container Insights and Managed Prometheus:
+                ☐ Onboard cluster https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-monitoring-enable (2024-12-11 11:00 PM)
+                ☐ Onboard hybrid cluster https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-hybrid-setup (2024-09-11 04:50 PM)
+                ☐ Prometheus based Container Insights https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-experience-v2 (2024-09-11 04:50 PM)
+                ☐ Firewall requirements https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-monitoring-firewall (2024-12-12 06:02 PM)
+                ☐ Private Link https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-monitoring-private-link (2024-12-19 12:14 PM)
+                ☐ Agent management https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-manage-agent (2024-09-11 04:50 PM)
+                ☐ Legacy authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-authentication (2024-09-22 11:15 AM)
+                ☐ Supported region mappings https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-region-mapping (2024-09-11 04:50 PM)
+                ☐ Transition from Container monitoring solution https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-transition-solution (2024-10-17 10:00 PM)
+            Configure Container Insights (logs):
+                ☐ Collect logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-data-collection-configure (2024-10-16 10:00 PM)
+                ☐ Filter logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-data-collection-filter (2024-09-11 04:50 PM)
+                ☐ Container log schema https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-logs-schema (2024-11-19 11:01 PM)
+                ☐ High scale https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-high-scale (2024-09-11 04:50 PM)
+                ☐ Data transformations https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-transformations (2024-12-09 05:37 AM)
+                ☐ Authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-authentication (2024-09-22 11:15 AM)
+            Configure Prometheus (metrics):
+                Customize data collection:
+                    ☐ Default configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-default (2024-11-29 11:00 PM)
+                    ☐ Custom configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration (2024-12-04 05:31 AM)
+                    ☐ Configure collection using Service and Pod Monitor Custom Resources https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-crd (2024-11-18 10:59 PM)
+                    ☐ Create and validate custom scrape config https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-validate (2024-09-11 04:50 PM)
+                    ☐ Minimal ingestion profile https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration-minimal (2024-09-11 04:50 PM)
+                    ☐ High scale https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-scale (2024-10-29 05:01 PM)
+                Integrations:
+                    Setup exporters for common workloads https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-exporters (2024-09-11 04:50 PM):
+                        ☐ Monitor Apache Kafka https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-kafka-integration (2024-09-11 04:50 PM)
+                        ☐ Monitor Argo CD https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-argo-cd-integration (2024-09-11 04:50 PM)
+                        ☐ Monitor Elastic Search https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-elasticsearch-integration (2024-09-11 04:50 PM)
+                    ☐ Scale using KEDA based on Prometheus metrics https://learn.microsoft.com/en-us/azure/azure-monitor/containers/integrate-keda (2024-10-30 09:59 PM)
+                ☐ Send to multiple metric workspaces https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-multiple-workspaces (2024-09-11 04:50 PM)
+                ☐ Send Prometheus metrics to Logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-prometheus-logs (2024-09-11 04:50 PM)
+            Remote-write with Prometheus:
+                ☐ Prometheus remote-write https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write (2024-11-19 06:02 PM)
+                ☐ Managed identity authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-managed-identity (2024-09-11 04:50 PM)
+                ☐ Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-active-directory (2024-09-11 04:50 PM)
+                ☐ Microsoft Entra Workload ID authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-azure-workload-identity (2024-10-02 10:02 PM)
+                ☐ Troubleshoot remote-write https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-troubleshooting (2024-09-11 04:50 PM)
+            Monitor:
+                ☐ Monitor performance https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-analyze (2024-09-11 04:50 PM)
+                ☐ Monitor GPU performance https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-gpu-monitoring (2024-09-11 04:50 PM)
+                ☐ Monitor network configuration https://learn.microsoft.com/azure/virtual-network/kubernetes-network-policies#monitor-and-visualize-network-configurations-with-azure-npm (2024-09-11 06:38 PM)
+                ☐ Monitor Deployments & HPAs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-deployment-hpa-metrics (2024-09-11 04:50 PM)
+                ☐ Monitor Persistent Volumes (PVs) https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-persistent-volumes (2024-09-11 04:50 PM)
+                ☐ Monitor Syslog https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-syslog (2024-12-03 11:01 PM)
+                ☐ Reports tab https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-reports (2024-09-11 04:50 PM)
+                ☐ Log queries https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-log-query (2024-10-08 10:01 PM)
+            View live data:
+                ☐ Live Data overview https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-livedata-overview (2024-10-09 09:59 PM)
+                ☐ Setup https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-livedata-setup (2024-09-11 04:50 PM)
+                ☐ View cluster metrics https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-livedata-metrics (2024-09-11 04:50 PM)
+            Alerting:
+                ☐ Metric alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-metric-alerts (2024-09-11 04:50 PM)
+                ☐ Log alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-log-alerts (2024-09-11 04:50 PM)
+            ☐ Disable monitoring https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-monitoring-disable (2024-09-11 04:50 PM)
+            Troubleshooting:
+                ☐ Prometheus https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-troubleshoot (2024-10-28 05:03 PM)
+                ☐ Container insights https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-troubleshoot (2024-09-11 04:50 PM)
+        Monitor networks:
+            ☐ Network Watcher https://learn.microsoft.com/azure/network-watcher/network-watcher-overview?toc=/azure/azure-monitor/toc.json (2024-10-30 07:28 PM)
+            Network Insights:
+                ☐ Overview https://learn.microsoft.com/azure/network-watcher/network-insights-overview?toc=/azure/azure-monitor/toc.json (2024-09-11 06:38 PM)
+                ☐ Topology https://learn.microsoft.com/azure/network-watcher/network-insights-topology?toc=/azure/azure-monitor/toc.json (2024-08-04 11:36 AM)
+                ☐ Troubleshoot https://learn.microsoft.com/azure/network-watcher/network-insights-troubleshooting?toc=/azure/azure-monitor/toc.json (2024-09-11 06:38 PM)
+        Azure Monitor SCOM Managed Instance:
+            ☐ SCOM Managed Instance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/ (2024-09-11 04:50 PM)
+            Overview:
+                ☐ About Azure Monitor SCOM Managed Instance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/overview (2024-10-22 05:00 PM)
+                ☐ What's new in SCOM Managed Instance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/whats-new-scom-managed-instance (2024-10-29 11:15 AM)
+            Quickstarts:
+                ☐ Migrate from Operations Manager on-premises to SCOM Managed Instance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/migrate-to-operations-manager-managed-instance (2024-09-11 04:50 PM)
+            Tutorials:
+                ☐ Create SCOM Managed Instance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/tutorial-create-scom-managed-instance (2024-09-11 04:50 PM)
+            Concepts:
+                ☐ SCOM Managed Instance Service Health Dashboard https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/monitor-health-scom-managed-instance (2024-09-11 04:50 PM)
+                ☐ Customizations on Azure Monitor SCOM Managed Instance management servers https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/customizations-on-scom-managed-instance-management-servers (2024-09-11 04:50 PM)
+            How-to guides:
+                Create SCOM Managed Instance:
+                    ☐ Step 1. Register the SCOM Managed Instance resource provider https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/register-scom-managed-instance-resource-provider (2024-09-11 04:50 PM)
+                    ☐ Step 2. Create separate subnet in a VNet https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/create-separate-subnet-in-vnet (2024-09-11 04:50 PM)
+                    ☐ Step 3. Create a SQL MI https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/create-sql-managed-instance (2024-09-11 04:50 PM)
+                    ☐ Step 4. Create a Key vault https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/create-key-vault (2024-09-11 04:50 PM)
+                    ☐ Step 5. Create a user assigned identity https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/create-user-assigned-identity (2024-09-12 11:18 AM)
+                    ☐ Step 6. Create a computer group and gMSA account https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/create-group-managed-service-account (2024-09-11 04:50 PM)
+                    ☐ Step 7. Store domain credentials in Key vault https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/store-domain-credentials-key-vault (2024-09-11 04:50 PM)
+                    ☐ Step 8. Create a static IP https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/create-static-ip (2024-09-11 04:50 PM)
+                    ☐ Step 9. Configure the network firewall https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/configure-network-firewall (2024-09-11 04:50 PM)
+                    ☐ Step 10. Verify Azure and internal GPO policies https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/verify-azure-internal-group-policy-object-policies (2024-09-11 04:50 PM)
+                    ☐ Step 11. SCOM Managed Instance self-verification of steps https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/self-verification-steps (2024-09-11 04:50 PM)
+                    ☐ Step 12. Create a SCOM Managed Instance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/create-operations-manager-managed-instance (2024-09-11 04:50 PM)
+                Post Deployment:
+                    ☐ Connect to the Ops Console https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/connect-managed-instance-ops-console (2024-09-11 04:50 PM)
+                    ☐ Scale SCOM Managed Instance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/scale-scom-managed-instance (2024-09-11 04:50 PM)
+                    ☐ Patch SCOM Managed Instance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/patch-scom-managed-instance (2024-09-11 04:50 PM)
+                    ☐ Report using Power BI https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/create-reports-power-bi (2024-10-22 05:29 AM)
+                    ☐ Dashboards on Azure Managed Grafana https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/dashboards-on-azure-managed-grafana (2024-09-11 04:50 PM)
+                    ☐ Query SCOM Managed Instance data on Azure Managed Grafana https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/query-scom-managed-instance-data-on-grafana (2024-09-11 04:50 PM)
+                    ☐ View System Center Operations Manager's alerts in Azure Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/view-operations-manager-alerts-azure-monitor (2024-09-11 04:50 PM)
+                    ☐ Monitor Azure and Off-Azure Virtual machines with SCOM Managed Instance extensions https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/monitor-azure-off-azure-vm-with-scom-managed-instance (2024-09-11 04:50 PM)
+                    ☐ Monitor Off-Azure Virtual machines https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/monitor-off-azure-vm-with-scom-managed-instance (2024-09-11 04:50 PM)
+                    ☐ Monitor Linux machines https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/monitor-linux-machines (2024-09-11 04:50 PM)
+            Logs:
+                ☐ Activity Log https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/scom-mi-activity-log (2024-09-11 04:50 PM)
+                ☐ Configure Log Analytics for Azure Monitor SCOM Managed Instance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/configure-log-analytics-for-scom-managed-instance (2024-09-11 04:50 PM)
+            Troubleshoot:
+                ☐ Troubleshoot issues with Azure Monitor SCOM Managed Instance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/troubleshoot-scom-managed-instance (2024-09-11 04:50 PM)
+                ☐ Troubleshoot commonly encountered errors while validating input parameters https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/troubleshooting-input-parameters-scom-managed-instance (2024-09-11 04:50 PM)
+                ☐ FAQs https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/scom-managed-instance-faq (2024-11-21 06:03 PM)
+            Security:
+                ☐ Managed Identity https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/use-managed-identities-with-scom-mi (2024-10-22 05:29 AM)
+                ☐ Encryption at rest https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/scom-mi-data-encryption-at-rest (2024-09-11 04:50 PM)
+        Monitor Azure Monitor
+    Data collection:
+        ☐ Data sources https://learn.microsoft.com/en-us/azure/azure-monitor/data-sources (2024-12-10 05:35 AM)
+        Data collection methods:
+            Data collection rules (DCR):
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-overview (2024-12-09 05:37 AM)
+                Create DCRs:
+                    ☐ Create and edit https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-create-edit (2024-12-09 05:37 AM)
+                    ☐ Samples and scenarios https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-samples (2024-12-09 05:37 AM)
+                    ☐ Manage associations https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-associations (2024-12-09 05:37 AM)
+                    ☐ DCR structure https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-structure (2024-12-09 05:37 AM)
+                    ☐ Best practices https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-rule-best-practices (2024-11-12 06:03 PM)
+                Transformations:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-transformations (2024-12-09 05:37 AM)
+                    ☐ Create https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-transformations-create (2024-12-09 05:37 AM)
+                    ☐ Supported KQL https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-transformations-kql (2024-12-09 05:37 AM)
+                    ☐ Best practices and samples https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-transformations-samples (2024-12-09 05:37 AM)
+                Metrics export:
+                    ☐ Metrics export using DCRs https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-metrics (2024-12-09 05:37 AM)
+                    ☐ Create metrics export DCR https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-export-create (2024-12-09 05:37 AM)
+                    ☐ Data plane batch query versus Metrics export https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-plane-versus-metrics-export (2024-09-16 05:32 PM)
+                ☐ Monitor DCRs https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-monitor (2024-12-09 05:37 AM)
+                ☐ Data collection endpoints https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-collection-endpoint-overview (2024-12-10 05:35 AM)
+                ☐ Edge pipeline configuration https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/edge-pipeline-configure (2024-12-09 05:37 AM)
+                Tutorials:
+                    ☐ Transformation in text logs https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-transformation (2024-11-14 11:04 PM)
+                    ☐ Workspace transformation in Azure portal https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tutorial-workspace-transformations-portal (2024-12-09 05:37 AM)
+                    ☐ Workspace transformation with ARM templates https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tutorial-workspace-transformations-api (2024-12-09 05:37 AM)
+            Diagnostic Settings:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings (2024-09-11 04:50 PM)
+                ☐ Create Diagnostic Settings in Azure Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/create-diagnostic-settings (2024-09-11 04:50 PM)
+                ☐ Create Diagnostic Settings with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings-policy (2024-11-20 06:02 PM)
+                ☐ Enable Diagnostics settings using built-in policies. https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostics-settings-policies-deployifnotexists (2024-12-04 05:31 AM)
+                ☐ Migrate retention to Azure Storage lifecycle https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/migrate-to-azure-storage-lifecycle-policy (2024-11-07 10:59 PM)
+            Azure Monitor Agent:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview (2024-11-14 11:04 PM)
+                ☐ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2024-11-14 11:04 PM)
+                ☐ Requirements https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-requirements (2024-11-14 11:04 PM)
+                ☐ Network settings https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-network-configuration (2024-11-19 11:01 PM)
+                Install Azure Monitor Agent:
+                    ☐ Virtual machines https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-manage (2024-12-09 05:37 AM)
+                    ☐ Windows clients https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-windows-client (2024-11-14 11:04 PM)
+                    ☐ Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-policy (2024-11-14 11:04 PM)
+                Configure data collection:
+                    ☐ Create data collection rule https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-collection (2024-12-09 05:37 AM)
+                    Data sources:
+                        ☐ Windows events https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-windows-events (2024-11-28 05:59 PM)
+                        ☐ Syslog events https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-syslog (2024-12-06 06:00 PM)
+                        ☐ IIS logs https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-iis (2024-11-14 11:04 PM)
+                        ☐ Performance data https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-performance (2024-11-14 11:04 PM)
+                        ☐ Text logs https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-log-text (2024-12-09 05:37 AM)
+                        ☐ JSON logs https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-log-json (2024-12-16 06:01 PM)
+                        ☐ SNMP traps https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-snmp-data (2024-11-14 11:04 PM)
+                        ☐ Windows Firewall logs https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-firewall-logs (2024-11-14 11:04 PM)
+                        ☐ Configure a syslog forwarder https://learn.microsoft.com/azure/sentinel/forward-syslog-monitor-agent (2024-11-28 05:37 AM)
+                    ☐ Log Analytics gateway https://learn.microsoft.com/en-us/azure/azure-monitor/agents/gateway (2024-11-14 11:04 PM)
+                    ☐ Send data to Event Hubs and Storage https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-send-data-to-event-hubs-and-storage (2024-12-12 11:02 PM)
+                ☐ Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-health (2024-11-14 11:04 PM)
+                ☐ Private link https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-private-link (2024-11-19 11:01 PM)
+                Migrate from Log Analytics Agent:
+                    ☐ Migration guidance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration (2024-12-17 12:06 PM)
+                    ☐ AMA migration helper workbook https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-helper-workbook (2024-11-14 11:04 PM)
+                    ☐ DCR Config Generator https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-data-collection-rule-generator (2024-11-14 11:04 PM)
+                    ☐ MMA removal tool https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-mma-removal-tool (2024-11-14 11:04 PM)
+                    ☐ AMA data field differences from MMA https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-field-differences (2024-11-14 11:04 PM)
+                    ☐ Migration custom text log tables https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-custom-text-log-migration (2024-11-14 11:04 PM)
+                ☐ Performance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-performance (2024-11-14 11:04 PM)
+                ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview#frequently-asked-questions (2024-11-14 11:04 PM)
+                Legacy agents:
+                    Log Analytics agent:
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent (2024-11-14 11:04 PM)
+                        ☐ Windows agents https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows (2024-11-14 11:04 PM)
+                        ☐ Linux agents https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux (2024-11-14 11:04 PM)
+                        ☐ VM Extension for Windows https://learn.microsoft.com/azure/virtual-machines/extensions/oms-windows (2024-10-13 11:09 AM)
+                        ☐ VM Extension for Linux https://learn.microsoft.com/azure/virtual-machines/extensions/oms-linux (2024-10-13 11:09 AM)
+                        ☐ LA Agent Management https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-manage (2024-11-14 11:04 PM)
+                        ☐ LA Agent Health https://learn.microsoft.com/en-us/azure/azure-monitor/agents/solution-agenthealth (2024-11-14 11:04 PM)
+                        LA Agent data sources:
+                            ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-data-sources (2024-11-14 11:04 PM)
+                            ☐ Windows events https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-windows-events (2024-11-14 11:04 PM)
+                            ☐ Custom JSON data https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-json (2024-11-14 11:04 PM)
+                            ☐ CollectD performance data https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-collectd (2024-12-08 12:04 PM)
+                            ☐ Syslog https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-syslog (2024-11-14 11:04 PM)
+                            ☐ Performance counters https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-performance-counters (2024-11-14 11:04 PM)
+                            ☐ Linux application performance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-linux-applications (2024-12-08 12:04 PM)
+                            ☐ IIS logs https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-iis-logs (2024-12-13 05:33 AM)
+                            ☐ Event Tracing for Windows data https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-event-tracing-windows (2024-12-13 05:33 AM)
+                            ☐ Text logs https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-custom-logs (2024-11-14 11:04 PM)
+                            ☐ Custom fields https://learn.microsoft.com/en-us/azure/azure-monitor/logs/custom-fields (2024-10-28 10:02 PM)
+                            ☐ Migrate from custom fields https://learn.microsoft.com/en-us/azure/azure-monitor/logs/custom-fields-migrate (2024-12-09 05:37 AM)
+                    Azure Diagnostics extension:
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-overview (2024-11-14 11:04 PM)
+                        Windows:
+                            Install and configure:
+                                ☐ Installation options https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-windows-install (2024-11-14 11:04 PM)
+                                ☐ PowerShell https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-windows (2024-10-13 11:09 AM)
+                                ☐ Resource Manager template https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-template (2024-10-13 11:09 AM)
+                            Send to Azure Monitor Metrics:
+                                ☐ Virtual Machine https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-guestos-resource-manager-vm (2024-09-11 04:50 PM)
+                                ☐ Virtual Machine Scale Set https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-guestos-resource-manager-vmss (2024-09-11 04:50 PM)
+                                ☐ VM classic https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-guestos-vm-classic (2024-09-11 04:50 PM)
+                                ☐ Cloud service https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-guestos-vm-cloud-service-classic (2024-09-11 04:50 PM)
+                            ☐ Send to Event Hubs https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-stream-event-hubs (2024-11-14 11:04 PM)
+                            ☐ Send to Logs https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-logs (2024-12-23 05:59 PM)
+                            ☐ Send to Application Insights https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-to-application-insights (2024-11-14 11:04 PM)
+                            ☐ Version history https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-versions (2024-11-14 11:04 PM)
+                            ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-troubleshooting (2024-11-14 11:04 PM)
+                        Linux:
+                            ☐ Version 4.0 https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-linux (2024-10-13 11:09 AM)
+                            ☐ Version 3.0 https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-linux-v3 (2024-10-13 11:09 AM)
+                            ☐ Collect metrics with Telegraf https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-linux-telegraf (2024-12-23 05:59 PM)
+            ☐ Custom metrics ingestion using REST https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-store-custom-rest-api (2024-11-12 06:03 PM)
+            Logs ingestion API:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-ingestion-api-overview (2024-11-04 06:00 PM)
+                ☐ Configure with PowerShell https://learn.microsoft.com/en-us/azure/azure-monitor/logs/set-up-logs-ingestion-api-prerequisites (2024-09-11 04:50 PM)
+                ☐ Migrate from Data Collector API https://learn.microsoft.com/en-us/azure/azure-monitor/logs/custom-logs-migrate (2024-12-09 05:37 AM)
+                Tutorials:
+                    ☐ Configure with Azure portal https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tutorial-logs-ingestion-portal (2024-11-26 06:03 PM)
+                    ☐ Configure with ARM templates https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tutorial-logs-ingestion-api (2024-09-11 04:50 PM)
+                    ☐ Sample code https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tutorial-logs-ingestion-code (2024-09-11 04:50 PM)
+        ☐ Collect logs from Event Hubs https://learn.microsoft.com/en-us/azure/azure-monitor/logs/ingest-logs-event-hub (2024-12-09 05:37 AM)
+        Send data:
+            ☐ Send resource log data https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/resource-logs (2024-12-04 05:31 AM)
+            ☐ Send activity log data https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log (2024-12-04 05:31 AM)
+            ☐ Stream monitoring data to Event Hubs https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/stream-monitoring-data-event-hubs (2024-10-14 05:38 AM)
+        Troubleshoot:
+            ☐ Data collection https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-collection-troubleshoot (2024-09-11 04:50 PM)
+            ☐ Windows AMA Troubleshooter https://learn.microsoft.com/en-us/azure/azure-monitor/agents/troubleshooter-ama-windows (2024-11-14 11:04 PM)
+            ☐ Linux AMA Troubleshooter https://learn.microsoft.com/en-us/azure/azure-monitor/agents/troubleshooter-ama-linux (2024-11-14 11:04 PM)
+            ☐ Linux VM https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-troubleshoot-linux-vm (2024-11-14 11:04 PM)
+            ☐ Linux Syslog issues https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-troubleshoot-linux-vm-rsyslog (2024-11-14 11:04 PM)
+            ☐ Windows VM https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-troubleshoot-windows-vm (2024-11-14 11:04 PM)
+            ☐ Windows Arc-enabled server https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-troubleshoot-windows-arc (2024-11-14 11:04 PM)
+            Troubleshoot legacy Agents:
+                ☐ Log Analytics VM Extension https://learn.microsoft.com/en-us/azure/azure-monitor/agents/vmext-troubleshoot (2024-11-14 11:04 PM)
+                ☐ Log Analytics Windows agent https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows-troubleshoot (2024-11-14 11:04 PM)
+                ☐ Log Analytics Linux agent https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot (2024-11-14 11:04 PM)
+    Data platform:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/data-platform (2024-10-30 05:35 AM)
+        Metrics:
+            ☐ Overview of Azure Monitor Metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics (2024-09-11 04:50 PM)
+            ☐ Custom metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-custom-overview (2024-12-05 06:04 PM)
+            Prometheus metrics:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-metrics-overview (2024-12-23 05:59 PM)
+                ☐ Prometheus remote-write from virtual machines https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-remote-write-virtual-machines (2024-12-23 05:59 PM)
+                Azure Monitor workspace:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-overview (2024-10-28 05:03 PM)
+                    ☐ Manage https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-manage (2024-11-20 06:02 PM)
+                    ☐ Monitor metrics ingestion limits https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-monitor-ingest-limits (2024-10-28 05:03 PM)
+                    ☐ Best practices for scaling Azure Monitor workspaces https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-scaling-best-practice (2024-10-30 09:59 PM)
+                    ☐ Private endpoints for Azure Monitor workspaces https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-private-endpoint (2024-09-11 04:50 PM)
+                    ☐ Private link data query of Prometheus metrics https://learn.microsoft.com/azure/managed-grafana/how-to-connect-to-data-source-privately (2024-09-12 05:07 PM)
+                ☐ Alerting and rule groups https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-rule-groups (2024-12-04 05:31 AM)
+                Query Prometheus metrics:
+                    Query using Grafana:
+                        ☐ Configure Grafana with managed system identity https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-grafana (2024-09-11 04:50 PM)
+                        ☐ Configure Grafana with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-self-managed-grafana-azure-active-directory (2024-10-09 04:58 PM)
+                    ☐ Query using Azure workbooks https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-workbooks (2024-09-23 04:58 PM)
+                    ☐ Query using the API and PromQL https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-api-promql (2024-11-04 06:00 PM)
+        Logs:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs (2024-12-13 11:02 PM)
+            ☐ Best practices https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-logs (2024-09-11 04:50 PM)
+            ☐ Cost details https://learn.microsoft.com/en-us/azure/azure-monitor/logs/cost-logs (2024-12-19 12:14 PM)
+            Log Analytics workspaces:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-overview (2024-12-09 05:37 AM)
+                Manage Log Analytics workspaces:
+                    ☐ Create a Log Analytics workspace https://learn.microsoft.com/en-us/azure/azure-monitor/logs/quick-create-workspace (2024-09-11 04:50 PM)
+                    ☐ Manage access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-access (2024-12-09 05:37 AM)
+                    ☐ Change pricing tier https://learn.microsoft.com/en-us/azure/azure-monitor/logs/change-pricing-tier (2024-09-11 04:50 PM)
+                    ☐ Set a daily cap https://learn.microsoft.com/en-us/azure/azure-monitor/logs/daily-cap (2024-12-01 12:10 PM)
+                    Move, delete, or recover a Log Analytics workspace:
+                        ☐ Move a workspace https://learn.microsoft.com/en-us/azure/azure-monitor/logs/move-workspace (2024-12-04 05:31 AM)
+                        ☐ Move a workspace across regions https://learn.microsoft.com/azure/operational-excellence/relocation-log-analytics (2024-09-11 06:38 PM)
+                        ☐ Delete and recover a workspace https://learn.microsoft.com/en-us/azure/azure-monitor/logs/delete-workspace (2024-11-11 05:31 AM)
+                    ☐ Replicate workspace across regions https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-replication (2024-10-08 11:05 AM)
+                Manage tables:
+                    ☐ View and manage table properties https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-logs-tables (2024-09-11 04:50 PM)
+                    ☐ Select a table plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-table-plans (2024-09-11 04:50 PM)
+                    ☐ Manage data retention https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-retention-configure (2024-12-17 12:06 PM)
+                    ☐ Add or delete tables and columns https://learn.microsoft.com/en-us/azure/azure-monitor/logs/create-custom-table (2024-10-16 10:00 PM)
+                    ☐ Set up a table with the Auxiliary plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/create-custom-table-auxiliary (2024-11-03 12:06 PM)
+                    ☐ Manage table-level read access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-table-access (2024-09-11 04:50 PM)
+                Search jobs and data restore:
+                    ☐ Run a search job https://learn.microsoft.com/en-us/azure/azure-monitor/logs/search-jobs (2024-12-19 12:14 PM)
+                    ☐ Restore logs https://learn.microsoft.com/en-us/azure/azure-monitor/logs/restore (2024-12-04 11:03 PM)
+                Design:
+                    ☐ Design a workspace architecture https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-design (2024-09-11 04:50 PM)
+                    ☐ Dedicated clusters https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-dedicated-clusters (2024-11-21 05:31 AM)
+                    ☐ Enhance resilience with availability zones https://learn.microsoft.com/en-us/azure/azure-monitor/logs/availability-zones (2024-11-21 05:31 AM)
+                Monitor:
+                    ☐ Log Analytics workspace insights https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-insights-overview (2024-09-11 04:50 PM)
+                    ☐ Monitor Log Analytics workspace health https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-health (2024-12-09 05:37 AM)
+                    ☐ Monitor operational issues https://learn.microsoft.com/en-us/azure/azure-monitor/logs/monitor-workspace (2024-09-11 04:50 PM)
+                    ☐ Log data ingestion time https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-ingestion-time (2024-12-17 12:06 PM)
+                    ☐ Analyze usage and cost https://learn.microsoft.com/en-us/azure/azure-monitor/logs/analyze-usage (2024-10-08 05:00 PM)
+            Data security:
+                ☐ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2024-09-11 04:50 PM)
+                ☐ Log data https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-security (2024-11-08 11:00 PM)
+                ☐ Customer-managed keys https://learn.microsoft.com/en-us/azure/azure-monitor/logs/customer-managed-keys (2024-12-16 05:37 AM)
+                ☐ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2024-09-11 04:50 PM)
+                ☐ Personal log data handling https://learn.microsoft.com/en-us/azure/azure-monitor/logs/personal-data-mgmt (2024-09-11 04:50 PM)
+            Integrate with Azure Logic Apps:
+                ☐ Azure Monitor Logs connector https://learn.microsoft.com/azure/connectors/connectors-azure-monitor-logs (2024-09-11 06:38 PM)
+                ☐ Application Insights connector https://learn.microsoft.com/azure/connectors/connectors-azure-application-insights (2024-02-15 12:15 PM)
+            Data export:
+                ☐ Workspace data export https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-data-export (2024-12-04 05:31 AM)
+                ☐ Export with Logic Apps https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-export-logic-app (2024-12-04 05:31 AM)
+                ☐ Send to Excel https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-excel (2024-12-09 05:37 AM)
+            ☐ Migrate from Splunk to Azure Monitor Logs https://learn.microsoft.com/en-us/azure/azure-monitor/logs/migrate-splunk-to-azure-monitor-logs (2024-09-11 04:50 PM)
+    Security and networking:
+        Data security:
+            ☐ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2024-09-11 04:50 PM)
+            ☐ Log data https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-security (2024-11-08 11:00 PM)
+            ☐ Customer-managed keys https://learn.microsoft.com/en-us/azure/azure-monitor/logs/customer-managed-keys (2024-12-16 05:37 AM)
+            ☐ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2024-09-11 04:50 PM)
+            ☐ Personal log data handling https://learn.microsoft.com/en-us/azure/azure-monitor/logs/personal-data-mgmt (2024-09-11 04:50 PM)
+        Network isolation:
+            Private Link networking:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-link-security (2024-12-10 11:03 PM)
+                ☐ Design https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-link-design (2024-12-10 11:03 PM)
+                ☐ Configuration https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-link-configure (2024-12-17 11:02 PM)
+            ☐ Network security perimeter https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/network-security-perimeter (2024-12-10 11:03 PM)
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-monitor-security-baseline?toc=/azure/azure-monitor/toc.json (2024-02-21 03:04 AM)
+        ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/security-controls-policy (2024-09-11 04:50 PM)
+    Visualize:
+        Workbooks:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-overview (2024-09-23 04:58 PM)
+            ☐ Create or edit an Azure workbook https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-create-workbook (2024-09-17 05:01 PM)
+            ☐ Using Azure Workbook templates https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-templates (2024-09-17 05:01 PM)
+            ☐ Create interactive reports https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-interactive-reports (2024-09-17 05:01 PM)
+            Managing Azure Workbooks:
+                ☐ Manage Azure Workbooks https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-manage (2024-09-20 05:37 AM)
+                ☐ Deploy with Azure Resource Manager https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-automate (2024-09-17 05:01 PM)
+                ☐ Bring your own storage https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-bring-your-own-storage (2024-11-12 10:56 PM)
+                ☐ Transform JSON data with JSONPath https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-jsonpath (2024-09-17 05:01 PM)
+                ☐ Move Workbooks to another region https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-move-region (2024-10-30 05:00 PM)
+                ☐ Move Workbook templates to another region https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbook-templates-move-region (2024-09-17 05:01 PM)
+            Azure Workbook components:
+                ☐ Data sources https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-data-sources (2024-10-30 05:35 AM)
+                Visualizations:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-visualizations (2024-10-14 10:00 PM)
+                    ☐ Text https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-text-visualizations (2024-10-30 05:00 PM)
+                    ☐ Chart https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-chart-visualizations (2024-09-17 05:01 PM)
+                    ☐ Grid https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-grid-visualizations (2024-09-17 05:01 PM)
+                    ☐ Tile https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-tile-visualizations (2024-09-17 05:01 PM)
+                    ☐ Tree https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-tree-visualizations (2024-09-17 05:01 PM)
+                    ☐ Graph https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-graph-visualizations (2024-09-17 05:01 PM)
+                    ☐ Map https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-map-visualizations (2024-09-17 05:01 PM)
+                    ☐ Stat https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-stat-visualizations (2024-10-14 10:00 PM)
+                    ☐ Honey comb https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-honey-comb (2024-09-17 05:01 PM)
+                    ☐ Composite bar https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-composite-bar (2024-09-17 05:01 PM)
+                    ☐ Renderers https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-renderers (2024-09-17 05:01 PM)
+                    ☐ Link actions https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-link-actions (2024-12-04 05:31 AM)
+                    ☐ Time range brushing https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-time-brushing (2024-09-17 05:01 PM)
+                    ☐ Visual indicators and icons https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-traffic-lights (2024-09-17 05:01 PM)
+                Parameters:
+                    ☐ Workbook parameters https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-parameters (2024-09-17 05:01 PM)
+                    ☐ Time parameters https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-time (2024-09-17 05:01 PM)
+                    ☐ Drop down parameters https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-dropdowns (2024-09-17 05:01 PM)
+                    ☐ Options group parameters https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-options-group (2024-09-17 05:01 PM)
+                    ☐ Text parameters https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-text (2024-09-17 05:01 PM)
+                    ☐ Criteria https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-criteria (2024-09-17 05:01 PM)
+                    ☐ Resource parameters https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-resources (2024-09-17 05:01 PM)
+                    ☐ Multi-value parameters https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-multi-value (2024-09-17 05:01 PM)
+                ☐ Workbook result limits https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-limits (2024-09-17 05:01 PM)
+            ☐ Access Troubleshooting guides https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-access-troubleshooting-guide (2024-09-17 05:01 PM)
+            ☐ Workbook Samples https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-samples (2024-09-17 05:01 PM)
+            ☐ Troubleshoot insights https://learn.microsoft.com/en-us/azure/azure-monitor/insights/troubleshoot-workbooks (2024-10-09 04:58 PM)
+            ☐ Dashboard Preview https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-dashboard-preview (2024-10-03 09:58 PM)
+        ☐ Grafana https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/grafana-plugin (2024-12-03 05:31 AM)
+        Dashboards:
+            ☐ Dashboard using log data https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/tutorial-logs-dashboards (2024-09-11 04:50 PM)
+        ☐ Power BI https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-powerbi (2024-09-11 04:50 PM)
+    Analyze:
+        Metrics explorer:
+            ☐ Analyze metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/analyze-metrics (2024-11-20 06:02 PM)
+            ☐ Metrics explorer with PromQL https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-explorer (2024-11-20 06:02 PM)
+            ☐ Understanding metrics aggregation https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-aggregation-explained (2024-09-11 04:50 PM)
+            ☐ Examples of metric charts https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metric-chart-samples (2024-09-11 04:50 PM)
+            ☐ Troubleshooting metric charts https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-troubleshoot (2024-09-11 04:50 PM)
+        REST API for metrics:
+            ☐ Metrics REST API Walkthrough https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/rest-api-walkthrough (2024-09-11 04:50 PM)
+            ☐ Migrate to the metrics getBatch API https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/migrate-to-batch-api (2024-12-23 05:59 PM)
+        Log Analytics:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-overview (2024-09-11 04:50 PM)
+            ☐ Simple mode https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-simple-mode (2024-11-18 12:04 PM)
+            ☐ Query scope https://learn.microsoft.com/en-us/azure/azure-monitor/logs/scope (2024-09-11 04:50 PM)
+            ☐ Saving queries https://learn.microsoft.com/en-us/azure/azure-monitor/logs/save-query (2024-09-11 04:50 PM)
+            ☐ Using queries https://learn.microsoft.com/en-us/azure/azure-monitor/logs/queries (2024-10-06 11:07 AM)
+            ☐ Summary rules https://learn.microsoft.com/en-us/azure/azure-monitor/logs/summary-rules (2024-12-08 12:04 PM)
+            ☐ Query packs https://learn.microsoft.com/en-us/azure/azure-monitor/logs/query-packs (2024-12-04 05:31 AM)
+            ☐ Tutorial https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-tutorial (2024-10-06 11:07 AM)
+        Log queries:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-query-overview (2024-09-11 04:50 PM)
+            ☐ Get started https://learn.microsoft.com/en-us/azure/azure-monitor/logs/get-started-queries (2024-09-11 04:50 PM)
+            ☐ KQL reference https://learn.microsoft.com/azure/data-explorer/kusto/query?toc=/azure/azure-monitor/toc.json (2024-08-20 02:54 PM)
+            ☐ Detect and analyze anomalies in log data https://learn.microsoft.com/en-us/azure/azure-monitor/logs/kql-machine-learning-azure-monitor (2024-09-11 04:50 PM)
+            ☐ Analyze data in Azure Monitor Logs using a notebook https://learn.microsoft.com/en-us/azure/azure-monitor/logs/notebooks-azure-monitor-logs (2024-09-11 04:50 PM)
+            ☐ Standard columns https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-standard-columns (2024-09-11 04:50 PM)
+            ☐ Query Basic and Auxliary logs https://learn.microsoft.com/en-us/azure/azure-monitor/logs/basic-logs-query (2024-12-20 12:04 PM)
+            ☐ Audit queries https://learn.microsoft.com/en-us/azure/azure-monitor/logs/query-audit (2024-12-09 12:05 PM)
+            ☐ Optimize queries https://learn.microsoft.com/en-us/azure/azure-monitor/logs/query-optimization (2024-10-16 05:31 AM)
+            ☐ Functions https://learn.microsoft.com/en-us/azure/azure-monitor/logs/functions (2024-10-09 04:58 PM)
+            ☐ Parse text data https://learn.microsoft.com/en-us/azure/azure-monitor/logs/parse-text (2024-09-11 04:50 PM)
+            ☐ Send to Excel https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-excel (2024-12-09 05:37 AM)
+            ☐ Computer groups https://learn.microsoft.com/en-us/azure/azure-monitor/logs/computer-groups (2024-09-11 04:50 PM)
+            Cross-service and cross-resource queries:
+                ☐ Query data across workspaces and resources https://learn.microsoft.com/en-us/azure/azure-monitor/logs/cross-workspace-query (2024-12-04 05:31 AM)
+                ☐ Query data in Azure Data Explorer or Resource Graph https://learn.microsoft.com/en-us/azure/azure-monitor/logs/azure-monitor-data-explorer-proxy (2024-11-28 05:34 AM)
+            API:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/overview (2024-09-17 05:01 PM)
+                Using the API:
+                    ☐ API access, authentication and authorization https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/access-api (2024-09-11 04:50 PM)
+                    ☐ Register an app for API access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/register-app-for-token (2024-12-04 05:31 AM)
+                    ☐ Request format https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/request-format (2024-09-11 04:50 PM)
+                    ☐ Response format https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/response-format (2024-09-11 04:50 PM)
+                    ☐ Batch queries https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/batch-queries (2024-10-29 05:01 PM)
+                    ☐ Cross-resource queries https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/cross-workspace-queries (2024-09-11 04:50 PM)
+                    ☐ Azure resource queries https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/azure-resource-queries (2024-12-04 05:31 AM)
+                    ☐ Response caching https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/cache (2024-09-11 04:50 PM)
+                    ☐ Server timeouts https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/timeouts (2024-09-11 04:50 PM)
+                    ☐ Prefer headers https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/prefer-options (2024-09-11 04:50 PM)
+                    ☐ Errors https://learn.microsoft.com/en-us/azure/azure-monitor/logs/api/errors (2024-09-11 04:50 PM)
+        ☐ Get the Activity log using the REST API https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/rest-activity-log (2024-11-20 06:02 PM)
+        Change Analysis (classic):
+            ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/change/change-analysis (2024-11-05 11:00 PM)
+            ☐ Migrate Change Analysis https://learn.microsoft.com/en-us/azure/azure-monitor/change/change-analysis-migration (2024-11-05 11:00 PM)
+            ☐ Enable https://learn.microsoft.com/en-us/azure/azure-monitor/change/change-analysis-enable (2024-11-05 11:00 PM)
+            ☐ Visualizations https://learn.microsoft.com/en-us/azure/azure-monitor/change/change-analysis-visualizations (2024-11-05 11:00 PM)
+            ☐ Track a web outage https://learn.microsoft.com/en-us/azure/azure-monitor/change/change-analysis-track-outages (2024-11-05 11:00 PM)
+            ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/azure-monitor/change/change-analysis-troubleshoot (2024-11-05 11:00 PM)
+    Respond:
+        Alerts:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview (2024-09-11 04:50 PM)
+            ☐ Choosing the type of alert rule https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-types (2024-09-11 04:50 PM)
+            ☐ Best practices https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-alerts (2024-09-11 04:50 PM)
+            Set up alerts:
+                Set up alert rules:
+                    ☐ Metric alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-create-metric-alert-rule (2024-12-02 06:04 PM)
+                    ☐ Log search alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-create-log-alert-rule (2024-12-08 12:04 PM)
+                    ☐ Activity log, service health or resource health alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-create-activity-log-alert-rule (2024-11-05 06:05 PM)
+                    ☐ Prometheus alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/prometheus-alerts (2024-09-11 04:50 PM)
+                    ☐ Metric alert rule with dynamic thresholds https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-dynamic-thresholds (2024-12-02 06:04 PM)
+                    ☐ Metric alert on Azure Monitor Logs https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-metric-logs (2024-09-11 04:50 PM)
+                    ☐ Create one alert rule for multiple time series https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-metric-multiple-time-series-single-rule (2024-09-11 04:50 PM)
+                    ☐ Create alert rules using CLI, PowerShell, or ARM templates https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-create-rule-cli-powershell-arm (2024-09-30 05:01 PM)
+                    ☐ Optimize log search alert queries https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-log-query (2024-12-09 11:01 PM)
+                ☐ Set up action groups https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/action-groups (2024-11-21 05:31 AM)
+                ☐ Set up alert processing rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-processing-rules (2024-12-02 06:04 PM)
+                Set up alert integrations:
+                    ☐ The alerts common schema https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-common-schema (2024-12-08 12:04 PM)
+                    ☐ Non-common alerts schema https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-non-common-schema-definitions (2024-10-30 09:59 PM)
+                    ☐ Integrate with Logic apps https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-logic-apps (2024-09-11 04:50 PM)
+                    ☐ Integrate with webhooks https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/activity-log-alerts-webhook (2024-10-30 09:59 PM)
+                    Integrate with ITSM providers:
+                        ☐ ITSM overview https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-overview (2024-12-12 06:02 PM)
+                        Connect using a Secure Webhook action:
+                            ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/it-service-management-connector-secure-webhook-connections (2024-09-11 04:50 PM)
+                            ☐ Configure Azure for a Secure Webhook https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsm-connector-secure-webhook-connections-azure-configuration (2024-09-11 04:50 PM)
+                            ITSM Connector Partners Setup:
+                                ☐ BMC Helix https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-secure-webhook-connections-bmc (2024-12-11 06:02 PM)
+                                ☐ ServiceNow ITOM https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-secure-webhook-connections-servicenow (2024-12-11 06:02 PM)
+                        Connect using an ITSM action:
+                            ☐ Connect ServiceNow with an ITSM Connector https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-connections-servicenow (2024-09-11 04:50 PM)
+                            ☐ Configure Azure for an ITSM Connector https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-definition (2024-09-11 04:50 PM)
+                            ☐ Data Synced From Your ITSM Product https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-synced-data (2024-09-11 04:50 PM)
+                            ☐ Convert ITSM ServiceNow actions to secure webhook actions https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsm-convert-servicenow-to-webhook (2024-09-11 04:50 PM)
+                            Troubleshooting problems in ITSM Connector:
+                                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-troubleshoot-overview (2024-09-11 04:50 PM)
+                                ☐ Dashboard Investigation https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-dashboard (2024-12-11 06:02 PM)
+                                ☐ Common Errors https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-dashboard-errors (2024-10-30 05:00 PM)
+                                ☐ Sync ITSM Connector https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-resync-servicenow (2024-09-11 04:50 PM)
+                                ☐ Connector deletion https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-connector-deletion (2024-12-11 06:02 PM)
+            Manage alerts:
+                ☐ Manage alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-manage-alert-rules (2024-12-10 06:01 PM)
+                ☐ Monitor the health of log search alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/log-alert-rule-health (2024-11-20 12:12 PM)
+                ☐ Manage alert instances https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-manage-alert-instances (2024-12-08 12:04 PM)
+                ☐ Update alerts for region moves https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-resource-move (2024-09-11 04:50 PM)
+                ☐ Query alerts using ARG https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/migrate-from-alerts-summary-api (2024-10-30 09:59 PM)
+            Tutorials:
+                ☐ Create a metric alert https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/tutorial-metric-alert (2024-09-11 04:50 PM)
+                ☐ Create a log search alert https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/tutorial-log-alert (2024-12-11 06:02 PM)
+            Troubleshooting:
+                ☐ Troubleshoot alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-troubleshoot (2024-09-11 04:50 PM)
+                ☐ Troubleshoot metric alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-troubleshoot-metric (2024-12-02 06:04 PM)
+                ☐ Troubleshoot log search alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-troubleshoot-log (2024-11-18 05:32 AM)
+                ☐ Test notification troubleshooting guide https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/test-action-group-errors (2024-12-08 12:04 PM)
+            Legacy alerts:
+                ☐ Upgrade from the legacy Log Analytics alerts API https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-log-api-switch (2024-12-11 06:02 PM)
+                ☐ Edit log search alerts created in previous versions https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-manage-alerts-previous-version (2024-09-11 04:50 PM)
+        AutoScale:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-overview (2024-12-03 06:01 PM)
+            ☐ Walkthrough https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-get-started (2024-11-12 06:03 PM)
+            ☐ Configuration settings https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-understanding-settings (2024-11-12 06:03 PM)
+            ☐ Predictive autoscale https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-predictive (2024-11-12 06:03 PM)
+            ☐ Best practices https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-best-practices (2024-11-12 06:03 PM)
+            ☐ Flapping in autoscale https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-flapping (2024-11-12 06:03 PM)
+            ☐ Common metrics https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-common-metrics (2024-11-12 06:03 PM)
+            ☐ Autoscale with multiple profiles https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-multiprofile (2024-11-12 06:03 PM)
+            ☐ Common patterns https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-common-scale-patterns (2024-11-12 06:03 PM)
+            ☐ Scale with custom metrics https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-custom-metric (2024-11-12 06:03 PM)
+            ☐ Autoscale Virtual Machine Scale Sets using PowerShell https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-using-powershell (2024-11-12 06:03 PM)
+            ☐ Scale Virtual Machine Scale Sets using CLI https://learn.microsoft.com/azure/virtual-machine-scale-sets/tutorial-autoscale-cli (2024-08-22 05:37 PM)
+            ☐ Use webhooks and email notifications https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-webhook-email (2024-11-12 06:03 PM)
+            ☐ Autoscale diagnostics https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-diagnostics (2024-11-12 06:03 PM)
+            ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-troubleshoot (2024-11-12 06:03 PM)
+    Samples:
+        Resource Manager templates:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/resource-manager-samples (2024-09-11 04:50 PM)
+            Alerts:
+                ☐ Log search alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/resource-manager-alerts-log (2024-12-11 06:02 PM)
+                ☐ Metric alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/resource-manager-alerts-metric (2024-09-11 04:50 PM)
+                ☐ Activity log alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/resource-manager-alerts-activity-log (2024-09-11 04:50 PM)
+                ☐ Service health alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/resource-manager-alerts-service-health (2024-09-11 04:50 PM)
+                ☐ Resource health alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/resource-manager-alerts-resource-health (2024-09-11 04:50 PM)
+                ☐ Action groups https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/resource-manager-action-groups (2024-09-11 04:50 PM)
+            ☐ Diagnostic settings https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/resource-manager-diagnostic-settings (2024-09-11 04:50 PM)
+            ☐ Log queries https://learn.microsoft.com/en-us/azure/azure-monitor/logs/resource-manager-log-queries (2024-09-11 04:50 PM)
+            ☐ SQL Insights (preview) https://learn.microsoft.com/en-us/azure/azure-monitor/insights/resource-manager-sql-insights (2024-10-28 10:02 PM)
+            ☐ Workbooks https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/resource-manager-workbooks (2024-09-17 05:01 PM)
+        Alerts:
+            ☐ Alerts payloads https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-payload-samples (2024-10-30 09:59 PM)
+            ☐ Log search alert rule queries with ADX and ARG https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-log-alert-query-samples (2024-09-11 04:50 PM)
+            ☐ Log search alert payloads with webhooks https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-log-webhook (2024-10-30 09:59 PM)
+        ☐ Azure Resource Graph queries https://learn.microsoft.com/en-us/azure/azure-monitor/resource-graph-samples (2024-09-11 04:50 PM)
+        ☐ Azure CLI metric alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/azure-cli-metrics-alert-sample (2024-09-11 04:50 PM)
+    Reference:
+        ☐ IP addresses, ports, and firewall settings https://learn.microsoft.com/en-us/azure/azure-monitor/ip-addresses (2024-12-10 11:03 PM)
+        ☐ Service limits https://learn.microsoft.com/en-us/azure/azure-monitor/service-limits (2024-09-11 04:50 PM)
+        Security:
+            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-monitor-security-baseline?toc=/azure/azure-monitor/toc.json (2024-02-21 03:04 AM)
+            ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/security-controls-policy (2024-09-11 04:50 PM)
+        ☐ Self-monitoring data reference https://learn.microsoft.com/en-us/azure/azure-monitor/monitor-azure-monitor-reference (2024-10-04 10:00 PM)
+        Supported metrics:
+            ☐ Resource metrics https://learn.microsoft.com/azure/azure-monitor/reference/metrics-index (2024-12-23 12:13 PM)
+            ☐ Metrics in alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-metric-near-real-time (2024-11-28 05:34 AM)
+        Log sources:
+            ☐ Supported resource log categories https://learn.microsoft.com/azure/azure-monitor/reference/logs-index (2024-12-23 12:13 PM)
+            ☐ Resource log schemas https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/resource-logs-schema (2024-09-13 05:33 AM)
+            ☐ Activity log schema https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log-schema (2024-12-04 05:31 AM)
+        Azure Monitor Logs:
+            ☐ Logs tables reference https://learn.microsoft.com/azure/azure-monitor/reference/tables-index (2024-11-04 11:01 PM)
+            ☐ Tables that support transformations https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tables-feature-support (2024-09-11 04:50 PM)
+            ☐ Tables that support the Basic table plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/basic-logs-azure-tables (2024-11-04 12:06 PM)
+        ☐ Windows diagnostics extension schema https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-schema-windows (2024-11-14 11:04 PM)
+        ☐ Azure Monitor Agent extension versions https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-extension-versions (2024-12-16 06:01 PM)
+        Application Insights:
+            ☐ Application Insights data model https://learn.microsoft.com/en-us/azure/azure-monitor/app/data-model-complete (2024-09-11 04:50 PM)
+            ☐ Statsbeat https://learn.microsoft.com/en-us/azure/azure-monitor/app/statsbeat (2024-09-25 04:59 PM)
+        Azure PowerShell:
+            ☐ Azure Monitor https://learn.microsoft.com/powershell/module/az.monitor/ (2024-11-19 05:50 PM)
+            ☐ Azure Monitor Logs https://learn.microsoft.com/powershell/module/az.operationalinsights/ (2024-11-19 05:50 PM)
+            ☐ Application Insights https://learn.microsoft.com/powershell/module/az.applicationinsights/ (2024-11-19 05:50 PM)
+            ☐ Change Analysis https://learn.microsoft.com/powershell/module/az.changeanalysis/ (2024-11-19 05:50 PM)
+        Azure CLI:
+            ☐ Azure Monitor https://learn.microsoft.com/cli/azure/azure-cli-reference-for-monitor (2023-07-05 10:45 AM)
+            ☐ Application Insights https://learn.microsoft.com/cli/azure/monitor/app-insights (2024-01-19 11:02 PM)
+            ☐ Activity Logs https://learn.microsoft.com/cli/azure/monitor/activity-log (2023-11-14 09:47 AM)
+            ☐ Log Analytics https://learn.microsoft.com/cli/azure/monitor/log-analytics (2024-10-08 10:05 PM)
+        REST API:
+            ☐ Azure Monitor REST API index https://learn.microsoft.com/en-us/azure/azure-monitor/azure-monitor-rest-api-index (2024-09-11 04:50 PM)
+        ☐ Azure alerts management SDK for Python https://learn.microsoft.com/python/api/azure-mgmt-monitor/azure.mgmt.monitor.monitormanagementclient (2024-03-06 12:07 PM)
+        Resource Manager templates:
+            ☐ Azure Monitor https://learn.microsoft.com/azure/templates/microsoft.insights/allversions (2024-12-16 07:04 PM)
+            ☐ Azure Monitor Logs https://learn.microsoft.com/azure/templates/microsoft.operationalinsights/allversions (2024-12-03 10:14 PM)
+        ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/azure-monitor/policy-reference (2024-09-11 04:50 PM)
+        ☐ Archived documentation https://learn.microsoft.com/previous-versions/azure/azure-monitor/azure-monitor-documentation-archive (2023-03-15 10:25 PM)
+    Resources:
+        ☐ Azure updates https://azure.microsoft.com/updates/?category=management-tools
+        Pricing:
+            ☐ Analyze usage and cost https://learn.microsoft.com/en-us/azure/azure-monitor/cost-usage (2024-10-08 05:00 PM)
+            ☐ Billing meters https://learn.microsoft.com/en-us/azure/azure-monitor/cost-meters (2024-11-27 05:59 PM)
+            ☐ Estimate cost https://learn.microsoft.com/en-us/azure/azure-monitor/cost-estimate (2024-09-11 04:50 PM)
+            ☐ Azure Monitor Pricing page https://azure.microsoft.com/pricing/details/monitor/
+            ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Regional availability https://azure.microsoft.com/global-infrastructure/services/?regions=all&products=monitor
+

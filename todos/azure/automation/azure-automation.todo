@@ -1,0 +1,214 @@
+Azure Automation documentation | Microsoft Learn:
+    ☐ Azure Automation User Documentation https://learn.microsoft.com/en-us/azure/automation/ (2024-08-13 05:44 AM)
+    Overview:
+        ☐ What is Azure Automation? https://learn.microsoft.com/en-us/azure/automation/overview (2024-11-05 12:07 PM)
+        ☐ What are the various Automation services in Azure? https://learn.microsoft.com/en-us/azure/automation/automation-services (2024-08-12 11:22 AM)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/automation/automation-faq (2024-08-20 10:03 PM)
+        ☐ What's new? https://learn.microsoft.com/en-us/azure/automation/whats-new (2024-09-19 06:07 PM)
+        ☐ Archive for What's new https://learn.microsoft.com/en-us/azure/automation/whats-new-archive (2024-10-18 05:04 PM)
+    Quickstarts:
+        ☐ Create Automation account - Azure portal https://learn.microsoft.com/en-us/azure/automation/quickstarts/create-azure-automation-account-portal (2024-08-02 05:38 AM)
+        ☐ Update runbook from PowerShell 5.1 to PowerShell 7.2 https://learn.microsoft.com/en-us/azure/automation/quickstart-update-runbook-in-runtime-environment (2024-09-15 11:22 AM)
+        ☐ Run Azure CLI commands in PowerShell 7.2 runbooks https://learn.microsoft.com/en-us/azure/automation/quickstart-cli-support-powershell-runbook-runtime-environment (2024-09-15 11:22 AM)
+        ☐ Install Hybrid Worker extension - Azure portal https://learn.microsoft.com/en-us/azure/automation/quickstarts/install-hybrid-worker-extension (2024-09-19 06:07 PM)
+        ☐ Enable managed identities - Azure portal https://learn.microsoft.com/en-us/azure/automation/quickstarts/enable-managed-identity (2024-08-02 05:38 AM)
+        ☐ Enable Desired State Configuration for a machine https://learn.microsoft.com/en-us/azure/automation/quickstarts/dsc-configuration (2024-10-04 10:03 PM)
+    Tutorials:
+        ☐ Create PowerShell runbook using managed identity https://learn.microsoft.com/en-us/azure/automation/learn/powershell-runbook-managed-identity (2024-08-22 07:16 PM)
+        ☐ Create a PowerShell Workflow runbook https://learn.microsoft.com/en-us/azure/automation/learn/automation-tutorial-runbook-textual (2024-08-22 07:16 PM)
+        ☐ Create a Python 3 runbook https://learn.microsoft.com/en-us/azure/automation/learn/automation-tutorial-runbook-textual-python-3 (2024-08-02 05:38 AM)
+        Scenarios:
+            ☐ Manage databases in Azure SQL database using Azure Automation https://learn.microsoft.com/en-us/azure/automation/manage-sql-server-in-automation (2024-09-15 11:22 AM)
+            ☐ Configure data based on STIG https://learn.microsoft.com/en-us/azure/automation/automation-dsc-configuration-based-on-stig (2024-10-04 10:03 PM)
+            ☐ Configure data at scale https://learn.microsoft.com/en-us/azure/automation/automation-dsc-config-data-at-scale (2024-10-04 10:03 PM)
+            ☐ Create config from existing servers https://learn.microsoft.com/en-us/azure/automation/automation-dsc-config-from-server (2024-10-04 10:03 PM)
+            ☐ Convert configurations to composite resources https://learn.microsoft.com/en-us/azure/automation/automation-dsc-create-composite (2024-10-04 10:03 PM)
+    Concepts:
+        ☐ Automation account authentication overview https://learn.microsoft.com/en-us/azure/automation/automation-security-overview (2024-12-20 12:09 PM)
+        ☐ Runbook execution overview https://learn.microsoft.com/en-us/azure/automation/automation-runbook-execution (2024-09-11 06:38 PM)
+        ☐ Hybrid Runbook Worker overview https://learn.microsoft.com/en-us/azure/automation/automation-hybrid-runbook-worker (2024-09-19 06:07 PM)
+        ☐ Automation runbook types https://learn.microsoft.com/en-us/azure/automation/automation-runbook-types (2024-10-15 05:04 PM)
+        ☐ Automation Runtime environment https://learn.microsoft.com/en-us/azure/automation/runtime-environment-overview (2024-11-19 11:02 PM)
+        ☐ Automation limits and quotas https://learn.microsoft.com/en-us/azure/automation/automation-subscription-limits-faq (2024-12-05 12:18 PM)
+        ☐ PowerShell DSC https://learn.microsoft.com/powershell/dsc/overview (2024-10-15 10:00 PM)
+        ☐ Automation network configuration details https://learn.microsoft.com/en-us/azure/automation/automation-network-configuration (2024-11-29 05:33 AM)
+        ☐ Azure Automation extension for Visual Studio Code https://learn.microsoft.com/en-us/azure/automation/automation-runbook-authoring (2024-09-09 10:10 PM)
+        Security:
+            ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/automation/security-controls-policy (2024-08-13 05:44 AM)
+            ☐ Azure security baseline for Automation https://learn.microsoft.com/security/benchmark/azure/baselines/automation-security-baseline?toc=/azure/automation/TOC.json (2024-08-13 05:34 PM)
+            ☐ Best practices for security in Azure Automation https://learn.microsoft.com/en-us/azure/automation/automation-security-guidelines (2024-12-03 12:08 PM)
+        Data security:
+            ☐ Encryption of secure assets https://learn.microsoft.com/en-us/azure/automation/automation-secure-asset-encryption (2024-10-23 11:25 AM)
+            ☐ Management of Azure Automation data https://learn.microsoft.com/en-us/azure/automation/automation-managing-data (2024-09-11 06:38 PM)
+        High availability:
+            ☐ Availability zones https://learn.microsoft.com/en-us/azure/automation/automation-availability-zones (2024-11-20 11:04 PM)
+            ☐ Disaster recovery for Automation accounts https://learn.microsoft.com/en-us/azure/automation/automation-disaster-recovery (2024-11-22 05:58 AM)
+    How-to guides:
+        Automation Account:
+            ☐ Create Automation account - Azure portal https://learn.microsoft.com/en-us/azure/automation/automation-create-standalone-account (2024-08-20 10:03 PM)
+            ☐ Create Automation account - Resource Manager template https://learn.microsoft.com/en-us/azure/automation/quickstart-create-automation-account-template (2024-09-15 11:22 AM)
+            ☐ Disable local authentication https://learn.microsoft.com/en-us/azure/automation/disable-local-authentication (2024-10-28 05:04 PM)
+            Managed identity:
+                ☐ Using system-assigned managed identity https://learn.microsoft.com/en-us/azure/automation/enable-managed-identity-for-automation (2024-10-23 11:25 AM)
+                ☐ Using user-assigned managed identity https://learn.microsoft.com/en-us/azure/automation/add-user-assigned-identity (2024-10-23 11:25 AM)
+                ☐ Disable system-assigned managed identity https://learn.microsoft.com/en-us/azure/automation/disable-managed-identity-for-automation (2024-10-23 11:25 AM)
+                ☐ Remove user-assigned managed identity https://learn.microsoft.com/en-us/azure/automation/remove-user-assigned-identity (2024-10-23 11:25 AM)
+                ☐ Troubleshoot managed identity https://learn.microsoft.com/en-us/azure/automation/troubleshoot/managed-identity (2024-07-28 11:21 AM)
+            Run As account:
+                ☐ Delete Run As account https://learn.microsoft.com/en-us/azure/automation/delete-run-as-account (2024-09-13 05:36 AM)
+                ☐ Migrate Run As account to managed identity https://learn.microsoft.com/en-us/azure/automation/migrate-run-as-accounts-managed-identity (2024-12-03 05:33 AM)
+            ☐ Use Automation extension for Visual Studio Code https://learn.microsoft.com/en-us/azure/automation/how-to/runbook-authoring-extension-for-vscode (2023-01-18 06:06 PM)
+            ☐ Configure authentication with Amazon Web Services https://learn.microsoft.com/en-us/azure/automation/automation-config-aws-account (2024-08-02 05:38 AM)
+            ☐ Configure authentication with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/automation/automation-use-azure-ad (2024-09-09 10:10 PM)
+            ☐ Manage DNS records used by Automation https://learn.microsoft.com/en-us/azure/automation/how-to/automation-region-dns-records (2024-09-11 06:38 PM)
+            ☐ Connect privately to Automation account https://learn.microsoft.com/en-us/azure/automation/how-to/private-link-security (2024-09-11 06:38 PM)
+            ☐ Manage role permissions and security https://learn.microsoft.com/en-us/azure/automation/automation-role-based-access-control (2024-10-23 11:25 AM)
+            Relocate Automation:
+                ☐ Move Automation account to another subscription https://learn.microsoft.com/en-us/azure/automation/how-to/move-account (2024-09-10 05:10 PM)
+                ☐ Move Automation account to another region https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-automation?toc=/azure/private-link/toc.json (2024-12-17 05:33 AM)
+            ☐ Manage Automation account https://learn.microsoft.com/en-us/azure/automation/delete-account (2024-10-18 05:37 AM)
+            ☐ Migrate from Orchestrator to Azure Automation (Beta) https://learn.microsoft.com/en-us/azure/automation/automation-orchestrator-migration (2024-09-09 10:10 PM)
+            ☐ Context switching in Azure Automation https://learn.microsoft.com/en-us/azure/automation/context-switching (2024-12-03 05:33 AM)
+        Shared resources:
+            ☐ Manage certificates https://learn.microsoft.com/en-us/azure/automation/shared-resources/certificates (2024-09-10 05:10 PM)
+            ☐ Manage connections https://learn.microsoft.com/en-us/azure/automation/automation-connections (2024-08-20 10:03 PM)
+            ☐ Manage credentials https://learn.microsoft.com/en-us/azure/automation/shared-resources/credentials (2024-09-10 05:10 PM)
+            Manage PowerShell modules:
+                ☐ Manage modules in Azure Automation https://learn.microsoft.com/en-us/azure/automation/shared-resources/modules (2024-10-01 02:04 PM)
+                ☐ Update Azure PowerShell modules https://learn.microsoft.com/en-us/azure/automation/automation-update-azure-modules (2024-09-09 10:10 PM)
+            ☐ Manage schedules https://learn.microsoft.com/en-us/azure/automation/shared-resources/schedules (2024-09-10 05:10 PM)
+            ☐ Manage variables https://learn.microsoft.com/en-us/azure/automation/shared-resources/variables (2024-10-30 05:03 PM)
+            ☐ Manage Python 2 packages https://learn.microsoft.com/en-us/azure/automation/python-packages (2024-09-10 05:10 PM)
+            ☐ Manage Python 3 packages https://learn.microsoft.com/en-us/azure/automation/python-3-packages (2024-12-03 05:33 AM)
+            ☐ Troubleshoot shared resources https://learn.microsoft.com/en-us/azure/automation/troubleshoot/shared-resources (2024-07-28 11:21 AM)
+        Process automation:
+            ☐ Use existing runbooks and modules https://learn.microsoft.com/en-us/azure/automation/automation-runbook-gallery (2024-09-09 10:10 PM)
+            ☐ Learn PowerShell Workflow https://learn.microsoft.com/en-us/azure/automation/automation-powershell-workflow (2024-09-09 10:10 PM)
+            ☐ Runtime environment scenarios https://learn.microsoft.com/en-us/azure/automation/manage-runtime-environment (2024-09-10 05:10 PM)
+            ☐ Manage runbooks https://learn.microsoft.com/en-us/azure/automation/manage-runbooks (2024-09-10 05:10 PM)
+            Author and run runbooks:
+                ☐ Edit textual runbooks https://learn.microsoft.com/en-us/azure/automation/automation-edit-textual-runbook (2024-08-20 10:03 PM)
+                ☐ Edit Graphical runbooks https://learn.microsoft.com/en-us/azure/automation/automation-graphical-authoring-intro (2024-09-09 10:10 PM)
+                ☐ Create modular runbooks https://learn.microsoft.com/en-us/azure/automation/automation-child-runbooks (2024-09-05 10:06 PM)
+                ☐ Configure runbook input parameters https://learn.microsoft.com/en-us/azure/automation/runbook-input-parameters (2024-09-10 05:10 PM)
+                ☐ Test a runbook https://learn.microsoft.com/en-us/azure/automation/manage-runbooks (2024-09-10 05:10 PM)
+                ☐ Start a runbook https://learn.microsoft.com/en-us/azure/automation/start-runbooks (2024-09-11 06:38 PM)
+                ☐ Start a runbook from a webhook https://learn.microsoft.com/en-us/azure/automation/automation-webhooks (2024-12-23 06:06 PM)
+                ☐ Work with the Graphical runbook SDK https://learn.microsoft.com/en-us/azure/automation/graphical-runbook-sdk (2024-09-09 10:10 PM)
+            Monitor runbooks:
+                ☐ Configure runbook output https://learn.microsoft.com/en-us/azure/automation/automation-runbook-output-and-messages (2024-09-09 10:10 PM)
+                ☐ Handle errors in graphical runbooks https://learn.microsoft.com/en-us/azure/automation/automation-runbook-graphical-error-handling (2024-09-09 10:10 PM)
+                ☐ Forward Azure Automation diagnostic logs to Azure Monitor https://learn.microsoft.com/en-us/azure/automation/automation-manage-send-joblogs-log-analytics (2024-12-06 06:02 PM)
+            Troubleshoot runbooks:
+                ☐ Troubleshoot runbook issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/runbooks (2024-12-03 05:33 AM)
+                ☐ Data to collect when opening a case for Microsoft Azure Automation https://learn.microsoft.com/en-us/azure/automation/troubleshoot/collect-data-microsoft-azure-automation-case (2024-07-28 11:21 AM)
+            Work with Hybrid Runbook Worker:
+                ☐ Deploy extension-based worker https://learn.microsoft.com/en-us/azure/automation/extension-based-hybrid-runbook-worker-install (2024-12-23 12:14 PM)
+                ☐ Migrate existing Agent-based Hybrid Workers to Extension-based Workers https://learn.microsoft.com/en-us/azure/automation/migrate-existing-agent-based-hybrid-worker-to-extension-based-workers (2024-09-19 06:07 PM)
+                ☐ Deploy agent-based Windows worker https://learn.microsoft.com/en-us/azure/automation/automation-windows-hrw-install (2024-09-19 06:07 PM)
+                ☐ Deploy agent-based Linux worker https://learn.microsoft.com/en-us/azure/automation/automation-linux-hrw-install (2024-09-27 10:04 PM)
+                ☐ Run runbooks on Hybrid Runbook Worker https://learn.microsoft.com/en-us/azure/automation/automation-hrw-run-runbooks (2024-12-03 05:33 AM)
+                ☐ Use Azure Policy to enforce job execution https://learn.microsoft.com/en-us/azure/automation/enforce-job-execution-hybrid-worker (2024-10-23 11:25 AM)
+                ☐ Troubleshoot extension-based worker issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/extension-based-hybrid-runbook-worker (2024-09-19 06:07 PM)
+                ☐ Troubleshoot agent-based worker issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/hybrid-runbook-worker (2024-09-11 06:38 PM)
+            ☐ Use source control integration https://learn.microsoft.com/en-us/azure/automation/source-control-integration (2024-10-17 11:18 AM)
+        Configuration Management:
+            Azure Automation State Configuration:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/automation/automation-dsc-overview (2024-10-22 11:12 AM)
+                ☐ Get started with State Configuration https://learn.microsoft.com/en-us/azure/automation/automation-dsc-getting-started (2024-10-22 11:12 AM)
+                ☐ Enable State Configuration https://learn.microsoft.com/en-us/azure/automation/automation-dsc-onboarding (2024-10-22 11:12 AM)
+                ☐ Configure servers to a desired state and manage drift https://learn.microsoft.com/en-us/azure/automation/tutorial-configure-servers-desired-state (2024-12-03 05:33 AM)
+                ☐ Compose DSC configurations https://learn.microsoft.com/en-us/azure/automation/compose-configurationwithcompositeresources (2024-10-22 11:12 AM)
+                ☐ Compile DSC configurations https://learn.microsoft.com/en-us/azure/automation/automation-dsc-compile (2024-10-22 11:12 AM)
+                ☐ Remediate noncompliant State Configuration servers https://learn.microsoft.com/en-us/azure/automation/automation-dsc-remediate (2024-10-22 11:12 AM)
+                ☐ Remove node and configuration https://learn.microsoft.com/en-us/azure/automation/state-configuration/remove-node-and-configuration-package (2024-10-22 11:12 AM)
+                ☐ Set up continuous deployment with Chocolatey https://learn.microsoft.com/en-us/azure/automation/automation-dsc-cd-chocolatey (2024-12-03 06:03 PM)
+                ☐ Integrate with Azure Monitor Logs https://learn.microsoft.com/en-us/azure/automation/automation-dsc-diagnostics (2024-10-22 11:12 AM)
+                ☐ Work with State Configuration extension version history https://learn.microsoft.com/en-us/azure/automation/automation-dsc-extension-history (2024-10-22 11:12 AM)
+                ☐ Troubleshoot State Configuration issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/desired-state-configuration (2024-10-22 11:12 AM)
+        Change Tracking and Inventory using AMA:
+            ☐ About Change tracking and inventory https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview-monitoring-agent (2024-12-09 12:10 PM)
+            ☐ Change tracking extension version https://learn.microsoft.com/en-us/azure/automation/change-tracking/extension-version-details (2024-09-09 10:10 PM)
+            ☐ Supported regions https://learn.microsoft.com/en-us/azure/automation/change-tracking/region-mappings-monitoring-agent (2024-09-09 10:10 PM)
+            ☐ Enable change tracking and inventory https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-vms-monitoring-agent (2024-11-21 12:10 PM)
+            ☐ Manage change tracking and inventory https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-change-tracking-monitoring-agent (2024-12-03 05:33 AM)
+            ☐ Configure alerts https://learn.microsoft.com/en-us/azure/automation/change-tracking/configure-alerts (2024-09-22 11:24 AM)
+        Migration from Change Tracking and Inventory using AMA to Change Tracking using LA:
+            ☐ Migration from Log Analytics to Azure Monitoring Agent version https://learn.microsoft.com/en-us/azure/automation/change-tracking/guidance-migration-log-analytics-monitoring-agent (2024-10-21 11:19 AM)
+        Change Tracking and Inventory using Log Analytics (Retired):
+            ☐ Overview https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview (2024-10-23 05:10 PM)
+            ☐ Support regions for linked Log Analytics workspace https://learn.microsoft.com/en-us/azure/automation/how-to/region-mappings (2024-10-17 10:03 PM)
+            ☐ Discover the software installed on your VMs https://learn.microsoft.com/en-us/azure/automation/automation-tutorial-installed-software (2024-10-24 11:16 AM)
+            Enable:
+                ☐ Enable from the Azure portal https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-portal (2024-10-24 11:16 AM)
+                ☐ Enable from an Azure VM https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-vm (2024-10-24 11:16 AM)
+                ☐ Enable from an Automation account https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-automation-account (2024-10-24 11:16 AM)
+                ☐ Enable from a runbook https://learn.microsoft.com/en-us/azure/automation/change-tracking/enable-from-runbook (2024-10-24 11:16 AM)
+                ☐ Manage change tracking and inventory https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-change-tracking (2024-11-21 12:10 PM)
+                ☐ Manage inventory collection from VMs https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-inventory-vms (2024-09-22 11:24 AM)
+                ☐ Work with scope configurations https://learn.microsoft.com/en-us/azure/automation/change-tracking/manage-scope-configurations (2024-09-22 11:24 AM)
+                ☐ Configure alerts https://learn.microsoft.com/en-us/azure/automation/change-tracking/configure-alerts (2024-09-22 11:24 AM)
+            Disable:
+                ☐ Remove Change Tracking and Inventory https://learn.microsoft.com/en-us/azure/automation/change-tracking/remove-feature (2024-09-09 10:10 PM)
+                ☐ Remove machines https://learn.microsoft.com/en-us/azure/automation/change-tracking/remove-vms-from-change-tracking (2024-09-09 10:10 PM)
+            Troubleshoot:
+                ☐ Troubleshoot feature deployment issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/onboarding (2024-09-11 06:38 PM)
+                ☐ Troubleshoot Change Tracking and Inventory issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/change-tracking (2024-09-23 05:04 PM)
+        Update Management (Retired):
+            ☐ Overview https://learn.microsoft.com/en-us/azure/automation/update-management/overview (2024-10-18 05:04 PM)
+            ☐ Supported regions for linked Log Analytics workspace https://learn.microsoft.com/en-us/azure/automation/how-to/region-mappings (2024-10-17 10:03 PM)
+            ☐ Plan your deployment https://learn.microsoft.com/en-us/azure/automation/update-management/plan-deployment (2024-09-19 06:07 PM)
+            Enable:
+                ☐ System prerequisites https://learn.microsoft.com/en-us/azure/automation/update-management/operating-system-requirements (2024-10-17 05:04 PM)
+                ☐ Enable using Azure Resource Manager template https://learn.microsoft.com/en-us/azure/automation/update-management/enable-from-template (2024-09-15 11:06 PM)
+                ☐ Enable from the Azure portal https://learn.microsoft.com/en-us/azure/automation/update-management/enable-from-portal (2024-09-22 11:24 AM)
+                ☐ Enable from an Azure VM https://learn.microsoft.com/en-us/azure/automation/update-management/enable-from-vm (2024-11-19 06:02 PM)
+                ☐ Enable from an Automation account https://learn.microsoft.com/en-us/azure/automation/update-management/enable-from-automation-account (2024-11-19 06:02 PM)
+                ☐ Enable from a runbook https://learn.microsoft.com/en-us/azure/automation/update-management/enable-from-runbook (2024-11-19 06:02 PM)
+            Manage updates for your VMs:
+                ☐ Get started https://learn.microsoft.com/en-us/azure/automation/update-management/manage-updates-for-vm (2024-10-18 05:04 PM)
+                ☐ Assess compliance https://learn.microsoft.com/en-us/azure/automation/update-management/view-update-assessments (2024-10-18 05:04 PM)
+                ☐ Deploy updates and review status https://learn.microsoft.com/en-us/azure/automation/update-management/deploy-updates (2024-10-18 05:04 PM)
+                ☐ Use pre-scripts and post-scripts https://learn.microsoft.com/en-us/azure/automation/update-management/pre-post-scripts (2024-12-03 05:33 AM)
+                ☐ Configure alerts https://learn.microsoft.com/en-us/azure/automation/update-management/configure-alerts (2024-09-15 11:06 PM)
+            ☐ Integrate with Configuration Manager https://learn.microsoft.com/en-us/azure/automation/update-management/mecmintegration (2024-09-15 11:06 PM)
+            ☐ Configure Windows Update client https://learn.microsoft.com/en-us/azure/automation/update-management/configure-wuagent (2024-09-15 11:06 PM)
+            ☐ Use dynamic groups https://learn.microsoft.com/en-us/azure/automation/update-management/configure-groups (2024-09-15 11:06 PM)
+            ☐ Query Update Management logs https://learn.microsoft.com/en-us/azure/automation/update-management/query-logs (2024-09-15 11:06 PM)
+            ☐ Work with scope configurations https://learn.microsoft.com/en-us/azure/automation/update-management/scope-configuration (2024-09-15 11:06 PM)
+            Disable:
+                ☐ Remove Update Management https://learn.microsoft.com/en-us/azure/automation/update-management/remove-feature (2024-09-15 11:06 PM)
+                ☐ Remove machines https://learn.microsoft.com/en-us/azure/automation/update-management/remove-vms (2024-09-15 11:06 PM)
+            Troubleshoot:
+                ☐ Troubleshoot feature deployment issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/onboarding (2024-09-11 06:38 PM)
+                ☐ Troubleshoot Update Management issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/update-management (2024-10-23 11:25 AM)
+                ☐ Troubleshoot Windows update agent issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/update-agent-issues (2024-09-11 06:38 PM)
+                ☐ Troubleshoot Linux update agent issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/update-agent-issues-linux (2024-10-23 11:25 AM)
+        Scenarios:
+            ☐ Send an email from a runbook https://learn.microsoft.com/en-us/azure/automation/automation-send-email (2024-08-07 10:04 PM)
+            ☐ Monitor runbooks with metric alert https://learn.microsoft.com/en-us/azure/automation/automation-alert-metric (2024-09-11 06:38 PM)
+            ☐ Trigger runbook from Azure alert https://learn.microsoft.com/en-us/azure/automation/automation-create-alert-triggered-runbook (2024-12-03 05:33 AM)
+            ☐ Track updated files with watcher task https://learn.microsoft.com/en-us/azure/automation/automation-scenario-using-watcher-task (2024-08-02 05:38 AM)
+            ☐ Manage Office 365 services https://learn.microsoft.com/en-us/azure/automation/manage-office-365 (2024-09-15 11:22 AM)
+            ☐ Deploy AWS VM with Automation runbook https://learn.microsoft.com/en-us/azure/automation/automation-scenario-aws-deployment (2024-09-09 10:10 PM)
+            ☐ Deploy Resource Manager template with runbook https://learn.microsoft.com/en-us/azure/automation/automation-deploy-template-runbook (2024-08-02 05:38 AM)
+            ☐ Integrate with Event Grid and Microsoft Teams https://learn.microsoft.com/en-us/azure/event-grid/ensure-tags-exists-on-new-virtual-machines (2024-08-13 05:44 AM)
+            ☐ Automate start/stop of Azure-SSIS IR https://learn.microsoft.com/en-us/azure/data-factory/how-to-schedule-azure-ssis-integration-runtime#create-and-schedule-an-azure-automation-runbook-that-starts-and-stops-an-azure-ssis-ir (2024-08-02 11:27 AM)
+    Reference:
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/automation (2024-02-21 10:58 PM)
+        ☐ Azure PowerShell Az https://learn.microsoft.com/powershell/module/az.automation/ (2024-11-19 05:50 PM)
+        ☐ Azure PowerShell AzureRM https://learn.microsoft.com/powershell/module/azurerm.automation/ (2019-01-19 01:40 AM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.automation (2018-06-16 12:36 AM)
+        ☐ REST https://learn.microsoft.com/rest/api/automation/ (2023-10-31 09:45 PM)
+        ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/automation/policy-reference (2024-02-06 06:05 PM)
+    Resources:
+        ☐ Automation introduction video https://azure.microsoft.com/documentation/videos/azure-automation-101-with-powershell-and-eamon-o-reilly/
+        ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=management-tools&query=automation
+        ☐ Microsoft Q&A question page https://learn.microsoft.com/answers/topics/azure-automation.html
+        ☐ Pricing https://azure.microsoft.com/pricing/details/automation/
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Release notes https://azure.microsoft.com/updates/?product=automation
+        ☐ Service updates https://azure.microsoft.com/updates/?product=automation
+        ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-automation
+        ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=automation
+
