@@ -1,43 +1,63 @@
 Azure AI Agent Service documentation - Quickstarts, Tutorials, API Reference - Azure AI services | Microsoft Learn:
-    ☐ Azure AI Agent Service Documentation https://learn.microsoft.com/en-us/azure/ai-services/agents/ (2024-12-20 06:03 PM)
+    ✔ Azure AI Agent Service Documentation https://learn.microsoft.com/en-us/azure/ai-services/agents/ (2024-12-20 06:03 PM) @done(24-12-24 17:51)
     Overview:
-        ☐ What is Azure AI Agent Service? https://learn.microsoft.com/en-us/azure/ai-services/agents/overview (2024-12-20 06:03 PM)
-        ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/agents/quotas-limits (2024-12-20 06:03 PM)
-        ☐ Model and region support https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/model-region-support (2024-12-20 06:03 PM)
-        ☐ Pricing https://azure.microsoft.com/pricing/details/ai-studio/
-        ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/agents/whats-new (2024-12-20 06:03 PM)
-        ☐ FAQ https://learn.microsoft.com/en-us/azure/ai-services/agents/faq (2024-12-20 06:03 PM)
+        ✘ What is Azure AI Agent Service? https://learn.microsoft.com/en-us/azure/ai-services/agents/overview (2024-12-20 06:03 PM) @cancelled
+        ✘ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/agents/quotas-limits (2024-12-20 06:03 PM) @cancelled
+        ✘ Model and region support https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/model-region-support (2024-12-20 06:03 PM) @cancelled
+        ✔ Pricing https://azure.microsoft.com/pricing/details/ai-studio/ @done(24-12-24 21:35)
+        ✘ What's new https://learn.microsoft.com/en-us/azure/ai-services/agents/whats-new (2024-12-20 06:03 PM) @cancelled
+        ✘ FAQ https://learn.microsoft.com/en-us/azure/ai-services/agents/faq (2024-12-20 06:03 PM) @cancelled
     ☐ Quickstart https://learn.microsoft.com/en-us/azure/ai-services/agents/quickstart (2024-12-20 06:03 PM)
     Concepts:
-        ☐ Agents https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/agents (2024-12-20 06:03 PM)
-        ☐ Tracing with Application Insights https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/tracing (2024-12-20 06:03 PM)
+        ✘ Agents https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/agents (2024-12-20 06:03 PM) @cancelled
+        ✘ Tracing with Application Insights https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/tracing (2024-12-20 06:03 PM) @cancelled
     How-to:
         Tools:
-            ☐ Overview https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/overview (2024-12-20 06:03 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/overview (2024-12-20 06:03 PM) @cancelled
             Knowledge tools:
-                ☐ Grounding with Bing Search https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/bing-grounding (2024-12-20 06:03 PM)
-                ☐ File search https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/file-search (2024-12-20 06:03 PM)
-                ☐ Azure AI Search https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/azure-ai-search (2024-12-20 06:03 PM)
+                ✘ Grounding with Bing Search https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/bing-grounding (2024-12-20 06:03 PM) @cancelled
+                ✘ File search https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/file-search (2024-12-20 06:03 PM) @cancelled
+                ✔ Azure AI Search https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/azure-ai-search (2024-12-20 06:03 PM) @done(24-12-24 22:10)
             Action tools:
-                ☐ Function calling https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/function-calling (2024-12-20 06:03 PM)
-                ☐ Code interpreter https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/code-interpreter (2024-12-20 06:03 PM)
-                ☐ Use OpenAPI defined tools https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/openapi-spec (2024-12-20 06:03 PM)
-                ☐ Azure Functions https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/azure-functions (2024-12-20 06:03 PM)
-        ☐ Content filtering https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/content-filters?context=/azure/ai-services/agents/context/context (2024-12-06 05:36 AM)
-        ☐ Use your own resources https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/use-your-own-resources (2024-12-20 06:03 PM)
+                ✘ Function calling https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/function-calling (2024-12-20 06:03 PM) @cancelled
+                ✘ Code interpreter https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/code-interpreter (2024-12-20 06:03 PM) @cancelled
+                ✘ Use OpenAPI defined tools https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/openapi-spec (2024-12-20 06:03 PM) @cancelled
+                ✘ Azure Functions https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/azure-functions (2024-12-20 06:03 PM) @cancelled
+        ✔ Content filtering https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/content-filters?context=/azure/ai-services/agents/context/context (2024-12-06 05:36 AM) @done(24-12-24 22:35)
+        ✘ Use your own resources https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/use-your-own-resources (2024-12-20 06:03 PM) @cancelled
     Responsible AI:
-        ☐ Data, privacy, and security For Azure AI Agent Service https://learn.microsoft.com/legal/cognitive-services/agents/data-privacy-security?context=/azure/ai-services/agents/context/context (2024-12-13 11:30 PM)
+        ✔ Data, privacy, and security For Azure AI Agent Service https://learn.microsoft.com/legal/cognitive-services/agents/data-privacy-security?context=/azure/ai-services/agents/context/context (2024-12-13 11:30 PM) @done(24-12-24 22:39)
     Reference:
         SDK:
             Azure SDK:
-                ☐ C# https://learn.microsoft.com/dotnet/api/overview/azure/ai.projects-readme?context=/azure/ai-services/agents/context/context (2024-11-20 12:32 PM)
-                ☐ Python https://learn.microsoft.com/python/api/overview/azure/ai-projects-readme?context=/azure/ai-services/agents/context/context (2024-12-16 12:08 PM)
+                ✔ C# https://learn.microsoft.com/dotnet/api/overview/azure/ai.projects-readme?context=/azure/ai-services/agents/context/context (2024-11-20 12:32 PM) @done(24-12-24 22:40)
+                ✘ Python https://learn.microsoft.com/python/api/overview/azure/ai-projects-readme?context=/azure/ai-services/agents/context/context (2024-12-16 12:08 PM) @cancelled
             OpenAI SDK:
-                ☐ C# https://github.com/openai/openai-dotnet/blob/main/README.md
-                ☐ Python https://github.com/openai/openai-python/blob/main/README.md
+                ✔ C# https://github.com/openai/openai-dotnet/blob/main/README.md @done(24-12-24 22:40)
+                ✔ Python https://github.com/openai/openai-python/blob/main/README.md @done(24-12-24 22:40)
     Resources:
-        ☐ Support and help options https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-support-options?context=/azure/ai-services/agents/context/context (2024-11-20 10:59 PM)
-        ☐ Region support https://azure.microsoft.com/global-infrastructure/services/?products=cognitive-services
-        ☐ Terms of use https://www.microsoft.com/licensing/terms/productoffering/MicrosoftAzure/MCA#ServiceSpecificTerms
-        ☐ Azure compliance offerings https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/
+        ✔ Support and help options https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-support-options?context=/azure/ai-services/agents/context/context (2024-11-20 10:59 PM) @done(24-12-24 22:41)
+        ✔ Region support https://azure.microsoft.com/global-infrastructure/services/?products=cognitive-services @done(24-12-24 22:42)
+        ✔ Terms of use https://www.microsoft.com/licensing/terms/productoffering/MicrosoftAzure/MCA#ServiceSpecificTerms @done(24-12-24 22:42)
+        ✔ Azure compliance offerings https://azure.microsoft.com/resources/microsoft-azure-compliance-offerings/ @done(24-12-24 22:42)
+
+
+---
+
+        ✔ What is Azure AI Agent Service? https://learn.microsoft.com/en-us/azure/ai-services/agents/overview (2024-12-23 05:59 PM) @done(24-12-24 21:23)
+        ✔ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/agents/quotas-limits (2024-12-23 05:59 PM) @done(24-12-24 21:27)
+        ✔ Model and region support https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/model-region-support (2024-12-23 05:59 PM) @done(24-12-24 21:34)
+        ✔ What's new https://learn.microsoft.com/en-us/azure/ai-services/agents/whats-new (2024-12-23 05:59 PM) @done(24-12-24 21:36)
+        ✔ FAQ https://learn.microsoft.com/en-us/azure/ai-services/agents/faq (2024-12-23 05:59 PM) @done(24-12-24 21:42)
+        ✔ Agents https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/agents (2024-12-23 05:59 PM) @done(24-12-24 21:55)
+        ✔ Tracing with Application Insights https://learn.microsoft.com/en-us/azure/ai-services/agents/concepts/tracing (2024-12-23 11:00 PM) @done(24-12-24 21:55)
+            ✔ Overview https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/overview (2024-12-23 05:59 PM) @done(24-12-24 22:01)
+                ✔ Grounding with Bing Search https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/bing-grounding (2024-12-23 05:59 PM) @done(24-12-24 22:03)
+                ✔ File search https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/file-search (2024-12-23 05:59 PM) @done(24-12-24 22:09)
+                ✔ Function calling https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/function-calling (2024-12-23 05:59 PM) @done(24-12-24 22:12)
+                ✔ Code interpreter https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/code-interpreter (2024-12-23 11:00 PM) @done(24-12-24 22:25)
+                ✔ Use OpenAPI defined tools https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/openapi-spec (2024-12-23 05:59 PM) @done(24-12-24 22:28)
+                ✔ Azure Functions https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/tools/azure-functions (2024-12-23 05:59 PM) @done(24-12-24 22:29)
+        ✔ Use your own resources https://learn.microsoft.com/en-us/azure/ai-services/agents/how-to/use-your-own-resources (2024-12-23 05:59 PM) @done(24-12-24 22:36)
+                ✔ Python https://learn.microsoft.com/python/api/overview/azure/ai-projects-readme?context=/azure/ai-services/agents/context/context (2024-12-23 12:07 PM) @done(24-12-24 22:42)
 

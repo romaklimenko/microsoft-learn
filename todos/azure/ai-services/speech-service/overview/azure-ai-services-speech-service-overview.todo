@@ -11,7 +11,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
     Speech to text:
         ☐ Speech to text documentation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/index-speech-to-text (2024-09-20 05:36 AM)
         ☐ Speech to text overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-to-text (2024-11-28 12:06 PM)
-        ☐ Speech to text quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text (2024-11-21 06:03 PM)
+        ✘ Speech to text quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text (2024-11-21 06:03 PM) @cancelled
         Real-time speech to text:
             ☐ How to recognize speech https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-recognize-speech (2024-10-22 05:29 AM)
             ☐ Get speech recognition results https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-speech-recognition-results (2024-09-18 05:30 AM)
@@ -25,7 +25,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
             ☐ Power automate batch transcription https://learn.microsoft.com/en-us/azure/ai-services/speech-service/power-automate-batch-transcription (2024-09-20 10:00 PM)
         Custom speech:
             ☐ Custom speech overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-speech-overview (2024-09-16 11:09 AM)
-            ☐ Fine-tune in the Azure AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-speech-ai-foundry-portal (2024-12-01 12:11 PM)
+            ✘ Fine-tune in the Azure AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-speech-ai-foundry-portal (2024-12-01 12:11 PM) @cancelled
             Create a custom speech model:
                 ☐ Part 1: Create a project https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-create-project (2024-09-19 09:59 PM)
                 ☐ Part 2: Upload training and testing datasets https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-upload-data (2024-09-19 09:59 PM)
@@ -131,7 +131,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
         Language learning:
             ☐ Overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-learning-overview (2024-09-20 05:36 AM)
             Pronunciation Assessment with speech to text:
-                ☐ Reading and speaking assessment in AI Foundry https://learn.microsoft.com/en-us/azure/ai-services/speech-service/pronunciation-assessment-tool (2024-11-27 06:00 PM)
+                ✘ Reading and speaking assessment in AI Foundry https://learn.microsoft.com/en-us/azure/ai-services/speech-service/pronunciation-assessment-tool (2024-11-27 06:00 PM) @cancelled
                 ☐ Interactive language learning with pronunciation assessment https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-learning-with-pronunciation-assessment (2024-09-20 05:36 AM)
         ☐ Azure OpenAI speech to speech chat https://learn.microsoft.com/en-us/azure/ai-services/speech-service/openai-speech (2024-09-20 10:00 PM)
         Conversation transcription multichannel diarization (preview):
@@ -232,7 +232,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
             ☐ C++ https://learn.microsoft.com/cpp/cognitive-services/speech/ (2024-06-13 11:16 PM)
             ☐ C# https://learn.microsoft.com/dotnet/api/microsoft.cognitiveservices.speech (2018-05-07 01:24 PM)
             ☐ Go https://pkg.go.dev/github.com/Microsoft/cognitive-services-speech-sdk-go
-            ☐ Java https://learn.microsoft.com/java/api/com.microsoft.cognitiveservices.speech (2024-06-19 11:10 AM)
+            ✘ Java https://learn.microsoft.com/java/api/com.microsoft.cognitiveservices.speech (2024-06-19 11:10 AM) @cancelled
             ☐ JavaScript https://learn.microsoft.com/javascript/api/microsoft-cognitiveservices-speech-sdk/ (2024-06-19 11:06 AM)
             ☐ Objective-C https://learn.microsoft.com/objectivec/cognitive-services/speech/ (2024-06-12 09:20 PM)
             ☐ Python https://learn.microsoft.com/python/api/azure-cognitiveservices-speech/ (2024-04-30 12:19 AM)
@@ -280,4 +280,12 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
         ☐ Azure products by region https://azure.microsoft.com/global-infrastructure/services/?products=cognitive-services
         ☐ Compliance and certification https://azure.microsoft.com/support/legal/cognitive-services-compliance-and-privacy/
         ☐ Privacy and cookies https://privacy.microsoft.com/privacystatement
+
+
+---
+
+        ✔ Speech to text quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text (2024-12-23 11:00 PM) @done(24-12-24 22:43)
+            ✔ Fine-tune in the Azure AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-speech-ai-foundry-portal (2024-12-23 11:00 PM) @done(24-12-24 22:47)
+                ✔ Reading and speaking assessment in Azure AI Foundry https://learn.microsoft.com/en-us/azure/ai-services/speech-service/pronunciation-assessment-tool (2024-12-23 11:00 PM) @done(24-12-24 22:49)
+            ✘ Java https://learn.microsoft.com/java/api/com.microsoft.cognitiveservices.speech (2024-12-24 12:06 PM) @cancelled(24-12-24 22:49)
 

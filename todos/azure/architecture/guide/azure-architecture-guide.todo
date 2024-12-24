@@ -69,7 +69,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
             Choose a hybrid service:
                 ☐ Hybrid options https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/hybrid-considerations (2024-09-09 10:27 PM)
                 ☐ Compare Azure Stack Hub and Azure https://learn.microsoft.com/azure-stack/user/azure-stack-considerations (2024-02-01 10:55 PM)
-                ☐ Compare Azure, Stack Hub, and Stack HCI https://learn.microsoft.com/azure-stack/operator/compare-azure-azure-stack (2024-11-19 01:46 PM)
+                ✘ Compare Azure, Stack Hub, and Stack HCI https://learn.microsoft.com/azure-stack/operator/compare-azure-azure-stack (2024-11-19 01:46 PM) @cancelled
                 ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2024-11-20 06:02 PM)
                 ☐ Compare Stack HCI and Windows Server https://learn.microsoft.com/azure-stack/hci/concepts/compare-windows-server (2024-11-19 01:46 PM)
                 ☐ Choose drives for Azure Local https://learn.microsoft.com/azure-stack/hci/concepts/choose-drives (2024-11-19 01:46 PM)
@@ -579,7 +579,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 Technology choices:
                     ☐ Azure hybrid options https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/hybrid-considerations (2024-09-09 10:27 PM)
                     ☐ Compare Azure Stack Hub and Azure https://learn.microsoft.com/azure-stack/user/azure-stack-considerations (2024-02-01 10:55 PM)
-                    ☐ Compare Azure, Stack Hub, Stack HCI https://learn.microsoft.com/azure-stack/operator/compare-azure-azure-stack (2024-11-19 01:46 PM)
+                    ✘ Compare Azure, Stack Hub, Stack HCI https://learn.microsoft.com/azure-stack/operator/compare-azure-azure-stack (2024-11-19 01:46 PM) @cancelled
                     ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2024-11-20 06:02 PM)
                     ☐ Compare Stack HCI to Windows Server https://learn.microsoft.com/azure-stack/hci/concepts/compare-windows-server (2024-11-19 01:46 PM)
                     ☐ Choose drives for Azure Local https://learn.microsoft.com/azure-stack/hci/concepts/choose-drives (2024-11-19 01:46 PM)
@@ -753,7 +753,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Backup cloud and on-premises https://learn.microsoft.com/azure/backup/guidance-best-practices (2024-12-11 12:11 PM)
                 Disaster recovery:
                     ☐ Azure to Azure disaster recovery https://learn.microsoft.com/azure/site-recovery/azure-to-azure-architecture (2024-09-23 05:04 PM)
-                    ☐ Support matrix for Azure VM DR https://learn.microsoft.com/azure/site-recovery/azure-to-azure-support-matrix (2024-11-25 06:03 PM)
+                    ✘ Support matrix for Azure VM DR https://learn.microsoft.com/azure/site-recovery/azure-to-azure-support-matrix (2024-11-25 06:03 PM) @cancelled
                     ☐ ExpressRoute with Azure VM DR https://learn.microsoft.com/azure/site-recovery/azure-vm-disaster-recovery-with-expressroute (2024-09-23 05:04 PM)
                     ☐ Recover from a region-wide disruption https://learn.microsoft.com/en-us/azure/architecture/guide/resiliency/recovery-loss-azure-region (2024-09-09 10:27 PM)
                     ☐ Move Azure VMs to another region https://learn.microsoft.com/azure/site-recovery/azure-to-azure-move-overview (2024-11-22 05:58 AM)
@@ -1100,4 +1100,11 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ All sports architectures https://learn.microsoft.com/azure/architecture/browse/?terms=sports (2024-11-07 06:33 PM)
     ☐ Microsoft Azure Well-Architected Framework https://learn.microsoft.com/azure/well-architected/ (2024-11-18 08:00 PM)
     ☐ Cloud Adoption Framework for Azure https://learn.microsoft.com/azure/cloud-adoption-framework/ (2024-11-18 06:02 PM)
+
+
+---
+
+                ✔ Compare Azure, Stack Hub, and Stack HCI https://learn.microsoft.com/azure-stack/operator/compare-azure-azure-stack (2024-12-23 10:59 PM) @done(24-12-24 22:52)
+                    ✔ Compare Azure, Stack Hub, Stack HCI https://learn.microsoft.com/azure-stack/operator/compare-azure-azure-stack (2024-12-23 10:59 PM) @done(24-12-24 22:53)
+                    ✔ Support matrix for Azure VM DR https://learn.microsoft.com/azure/site-recovery/azure-to-azure-support-matrix (2024-12-23 12:14 PM) @done(24-12-24 22:53)
 
