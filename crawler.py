@@ -55,10 +55,12 @@ def main():
         doc_html = get_html(doc_url)
 
         # <meta name="toc_rel" content="toc.json" />
-        toc_rel = first_or_default(doc_html.xpath('//meta[@name="toc_rel"]/@content'))
+        toc_rel = first_or_default(doc_html.xpath(
+            '//meta[@name="toc_rel"]/@content'))
 
         # <link href="https://learn.microsoft.com/en-us/azure/event-grid/" rel="canonical">
-        base_url = first_or_default(doc_html.xpath('//link[@rel="canonical"]/@href'))
+        base_url = first_or_default(
+            doc_html.xpath('//link[@rel="canonical"]/@href'))
 
         if toc_rel is None:
             print(f"No table of contents found for {doc_url}.")
@@ -98,7 +100,8 @@ def main():
                     re.sub(
                         r" (@done.*|@cancelled.*)",
                         "",
-                        line.replace("\n", "").replace("✔ ", "☐ ").replace("✔ ", "✘ "),
+                        line.replace("\n", "").replace(
+                            "✔ ", "☐ ").replace("✔ ", "✘ "),
                     )
                     for line in file
                 ]
@@ -108,6 +111,27 @@ def main():
                 lines.insert(0, "\n---\n")
 
         if len(lines) > 0:
+            if os.path.exists(file_path):
+                new_lines_urls = [
+                    re.search(r"(?P<url>https?://[^\s]+)", line).group("url")
+                    for line in lines
+                    if re.search(r"(?P<url>https?://[^\s]+)", line)
+                ]
+
+                with open(file_path, "r+", encoding="utf-8") as file:
+                    file_lines = file.readlines()
+
+                    file.seek(0)
+
+                    for line in file_lines:
+                        for new_line_url in new_lines_urls:
+                            if new_line_url in line and line.strip().startswith(""):
+                                line = f'{line.replace(
+                                    "☐", "✘").rstrip()} @cancelled\n'
+                                break
+
+                        file.write(line)
+
             with open(file_path, "a", encoding="utf-8") as file:
                 for line in lines:
                     # print(line)
