@@ -1,0 +1,170 @@
+ExpressRoute documentation | Microsoft Learn:
+    ☐ ExpressRoute documentation https://learn.microsoft.com/en-us/azure/expressroute/ (2024-12-12 11:04 PM)
+    Overview:
+        ☐ What is ExpressRoute? https://learn.microsoft.com/en-us/azure/expressroute/expressroute-introduction (2024-12-10 11:02 PM)
+        ☐ Well-Architected for ExpressRoute https://learn.microsoft.com/azure/well-architected/service-guides/azure-expressroute (2024-11-25 11:00 PM)
+    Quickstarts:
+        ☐ Create an ExpressRoute circuit - Portal https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager (2024-08-27 05:04 PM)
+        ☐ Create an ExpressRoute circuit - PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-arm (2024-09-25 05:04 PM)
+        ☐ Create an ExpressRoute circuit - CLI https://learn.microsoft.com/en-us/azure/expressroute/howto-circuit-cli (2024-11-22 05:58 AM)
+        ☐ Create an ExpressRoute circuit - Bicep https://learn.microsoft.com/en-us/azure/expressroute/quickstart-create-expressroute-vnet-bicep (2024-08-01 05:04 PM)
+        ☐ Create an ExpressRoute circuit - ARM template https://learn.microsoft.com/en-us/azure/expressroute/quickstart-create-expressroute-vnet-template (2024-08-01 05:04 PM)
+    Tutorials:
+        ☐ Establish a private connection to a virtual network https://learn.microsoft.com/en-us/azure/expressroute/configure-expressroute-private-peering (2024-08-01 05:04 PM)
+    Concepts:
+        Work remotely:
+            ☐ Support for working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/expressroute/toc.json (2024-09-06 10:05 PM)
+            ☐ Hybrid connectivity for remote users https://learn.microsoft.com/en-us/azure/expressroute/work-remotely-support (2024-08-01 05:04 PM)
+        Before you start using ExpressRoute:
+            ☐ Prerequisites https://learn.microsoft.com/en-us/azure/expressroute/expressroute-prerequisites (2024-09-13 05:36 AM)
+            ☐ Connectivity models https://learn.microsoft.com/en-us/azure/expressroute/expressroute-connectivity-models (2024-10-18 10:05 PM)
+            ☐ Workflows https://learn.microsoft.com/en-us/azure/expressroute/expressroute-workflows (2024-09-13 05:05 PM)
+            ☐ Routing requirements https://learn.microsoft.com/en-us/azure/expressroute/expressroute-routing (2024-08-01 05:04 PM)
+        Locations and partners:
+            ☐ Providers by location https://learn.microsoft.com/en-us/azure/expressroute/expressroute-locations-providers (2024-12-18 12:12 PM)
+            ☐ Locations by provider https://learn.microsoft.com/en-us/azure/expressroute/expressroute-locations (2024-12-18 12:12 PM)
+        ☐ ExpressRoute FAQ https://learn.microsoft.com/en-us/azure/expressroute/expressroute-faqs (2024-12-09 06:04 PM)
+        Circuits and peering:
+            ☐ About circuits and peering https://learn.microsoft.com/en-us/azure/expressroute/expressroute-circuit-peerings (2024-12-12 11:04 PM)
+            ☐ About upgrading circuit bandwidth https://learn.microsoft.com/en-us/azure/expressroute/about-upgrade-circuit-bandwidth (2024-08-01 05:04 PM)
+            ☐ Moving circuits from classic to Resource Manager https://learn.microsoft.com/en-us/azure/expressroute/expressroute-move (2024-08-01 05:04 PM)
+        ☐ About ExpressRoute gateways https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-virtual-network-gateways (2024-09-11 05:35 AM)
+        ☐ About zone-redundant gateways for Availability Zones https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways?toc=/azure/expressroute/toc.json (2024-11-22 05:58 AM)
+        ☐ About Migrating to an AZ gateway https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration (2024-11-19 06:02 PM)
+        ☐ About ExpressRoute FastPath https://learn.microsoft.com/en-us/azure/expressroute/about-fastpath (2024-12-03 11:07 PM)
+        ☐ About ExpressRoute Direct https://learn.microsoft.com/en-us/azure/expressroute/expressroute-erdirect-about (2024-12-03 11:07 PM)
+        ☐ About ExpressRoute Global Reach https://learn.microsoft.com/en-us/azure/expressroute/expressroute-global-reach (2024-08-01 05:04 PM)
+        ☐ About ExpressRoute Metro https://learn.microsoft.com/en-us/azure/expressroute/metro (2024-11-25 12:43 PM)
+        ☐ About ExpressRoute encryption https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption (2024-08-12 05:05 PM)
+        ☐ About ExpressRoute limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/expressroute/toc.json#expressroute-limits (2024-12-12 12:24 PM)
+        ☐ Design architecture for ExpressRoute resiliency https://learn.microsoft.com/en-us/azure/expressroute/design-architecture-for-resiliency (2024-12-08 12:09 PM)
+        ☐ ExpressRoute Traffic Collector https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector (2024-10-30 07:28 PM)
+        ☐ Connect Azure to public cloud https://learn.microsoft.com/en-us/azure/expressroute/expressroute-connect-azure-to-public-cloud (2024-09-06 05:33 AM)
+        ☐ Connectivity between virtual networks https://learn.microsoft.com/en-us/azure/expressroute/virtual-network-connectivity-guidance (2024-08-01 05:04 PM)
+        ☐ Planned maintenance guidance https://learn.microsoft.com/en-us/azure/expressroute/planned-maintenance (2024-08-01 05:04 PM)
+        ☐ Cross-network connectivity https://learn.microsoft.com/en-us/azure/expressroute/cross-network-connectivity (2024-09-06 05:33 AM)
+        ☐ BGP communities https://learn.microsoft.com/en-us/azure/expressroute/bgp-communities (2024-08-01 05:04 PM)
+        Security:
+            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/expressroute-security-baseline?toc=/azure/expressroute/TOC.json (2024-08-05 07:13 PM)
+            ☐ Roles and permissions https://learn.microsoft.com/en-us/azure/expressroute/roles-permissions (2024-12-20 11:04 PM)
+        ☐ BFD over ExpressRoute https://learn.microsoft.com/en-us/azure/expressroute/expressroute-bfd (2024-12-20 11:04 PM)
+        ☐ QoS requirements https://learn.microsoft.com/en-us/azure/expressroute/expressroute-qos (2024-08-01 05:04 PM)
+        ☐ Rate limit for service provider ports https://learn.microsoft.com/en-us/azure/expressroute/provider-rate-limit (2024-08-06 05:10 PM)
+        ☐ Routing Microsoft 365 traffic over ExpressRoute https://learn.microsoft.com/microsoft-365/enterprise/azure-expressroute?toc=/azure/expressroute/TOC.json (2024-07-02 05:47 PM)
+        ☐ Routing Microsoft PSTN traffic over ExpressRoute https://learn.microsoft.com/en-us/azure/expressroute/using-expressroute-for-microsoft-pstn (2024-08-02 05:06 PM)
+        ☐ High Availability - Design https://learn.microsoft.com/en-us/azure/expressroute/designing-for-high-availability-with-expressroute (2024-12-12 11:04 PM)
+        Disaster Recovery - Design:
+            ☐ Private Peering https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering (2024-12-12 11:04 PM)
+            ☐ Using VPN as a backup https://learn.microsoft.com/en-us/azure/expressroute/use-s2s-vpn-as-backup-for-expressroute-privatepeering (2024-08-01 05:04 PM)
+    How-to guides:
+        Configure ExpressRoute:
+            Create and modify peering configuration:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-routing-portal-resource-manager (2024-08-01 05:04 PM)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-routing-arm (2024-08-01 05:04 PM)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/expressroute/howto-routing-cli (2024-11-22 05:58 AM)
+            Configure a virtual network gateway for ExpressRoute:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-gateway-portal-resource-manager (2024-12-05 11:02 PM)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-gateway-resource-manager (2024-12-06 11:03 PM)
+            Link a virtual network to an ExpressRoute circuit:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager (2024-10-08 10:04 PM)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-arm (2024-10-09 05:35 AM)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-cli (2024-10-18 05:04 PM)
+        Configure route filters for Microsoft peering:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-routefilter-portal (2024-08-01 05:04 PM)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/how-to-routefilter-powershell (2024-10-14 10:04 PM)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/expressroute/how-to-routefilter-cli (2024-08-01 05:04 PM)
+        Configuring ExpressRoute Direct:
+            Configure ExpressRoute Direct:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-expressroute-direct-portal (2024-08-01 05:04 PM)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-erdirect (2024-11-22 05:58 AM)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-expressroute-direct-cli (2024-08-01 05:04 PM)
+            ☐ Configure MACsec for ExpressRoute Direct ports https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-macsec (2024-08-07 10:04 PM)
+        Configure ExpressRoute Global Reach:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-set-global-reach-portal (2024-09-13 10:05 PM)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-set-global-reach (2024-08-01 05:04 PM)
+        Add IPv6 support for private peering:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-ipv6-portal (2024-08-01 05:04 PM)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-ipv6-powershell (2024-08-01 05:04 PM)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-add-ipv6-cli (2024-08-01 05:04 PM)
+        Monitoring:
+            ☐ Monitor ExpressRoute https://learn.microsoft.com/en-us/azure/expressroute/monitor-expressroute (2024-09-11 06:38 PM)
+            ☐ Network Insights https://learn.microsoft.com/en-us/azure/expressroute/expressroute-network-insights (2024-08-28 05:05 PM)
+            ☐ Configure Connection Monitoring for ExpressRoute https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-connection-monitor (2024-09-11 06:38 PM)
+            ☐ Configure ExpressRoute Traffic Collector https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-traffic-collector (2024-08-01 05:04 PM)
+            ☐ View and configure maintenance alerts https://learn.microsoft.com/en-us/azure/expressroute/maintenance-alerts (2024-09-11 06:38 PM)
+            ☐ Configure custom alerts to monitor advertised routes https://learn.microsoft.com/en-us/azure/expressroute/how-to-custom-route-alert (2024-08-01 05:04 PM)
+        ☐ Evaluate ExpressRoute circuit resiliency https://learn.microsoft.com/en-us/azure/expressroute/evaluate-circuit-resiliency (2024-08-01 05:04 PM)
+        ☐ Configure customer-controlled gateway maintenance https://learn.microsoft.com/en-us/azure/expressroute/customer-controlled-gateway-maintenance (2024-08-02 05:06 PM)
+        Managing peerings:
+            Enable and disable peerings:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-reset-peering-portal (2024-11-10 12:12 PM)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-reset-peering (2024-08-01 05:04 PM)
+            Configure BGP community value for VNet:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-custom-bgp-communities-portal (2024-08-01 05:04 PM)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-custom-bgp-communities (2024-08-01 05:04 PM)
+        Encrypt traffic over circuits:
+            ☐ Configure a site-to-site VPN over Microsoft peering https://learn.microsoft.com/en-us/azure/expressroute/site-to-site-vpn-over-microsoft-peering (2024-12-09 06:04 PM)
+            ☐ IPsec VPN over private peering https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-vpn-private-peering?toc=/azure/expressroute/toc.json (2024-08-23 05:14 PM)
+            ☐ Configure IPsec transport mode for Windows hosts https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-ipsec-transport-private-windows (2024-08-01 05:04 PM)
+        Redundancy:
+            Configure ExpressRoute and site-to-site coexisting connections:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-coexisting-gateway-portal (2024-11-04 11:02 PM)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager (2024-08-01 05:04 PM)
+            ☐ Create a zone-redundant VNet gateway in Azure Availability Zones https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway?toc=/azure/expressroute/toc.json (2024-12-13 06:02 PM)
+        ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/expressroute/plan-manage-cost (2024-08-01 05:04 PM)
+        ☐ Rate limit for ExpressRoute Direct circuit https://learn.microsoft.com/en-us/azure/expressroute/rate-limit (2024-09-09 05:05 PM)
+        ☐ Migrate to a new circuit https://learn.microsoft.com/en-us/azure/expressroute/circuit-migration (2024-08-29 05:56 AM)
+        Migrate to an AZ gateway:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-portal (2024-10-29 10:09 PM)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-gateway-migration-powershell (2024-10-29 10:09 PM)
+        Moving from classic to Resource Manager:
+            ☐ Move a circuit from classic to Resource Manager https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-move-arm (2024-08-01 05:04 PM)
+            ☐ Migrate associated virtual networks from classic to Resource Manager https://learn.microsoft.com/en-us/azure/expressroute/expressroute-migration-classic-resource-manager (2024-08-22 07:16 PM)
+        Best Practices:
+            ☐ Best practices for network security and cloud services https://learn.microsoft.com/azure/cloud-adoption-framework/reference/networking-vdc (2024-08-02 05:02 PM)
+            ☐ Optimize routing https://learn.microsoft.com/en-us/azure/expressroute/expressroute-optimize-routing (2024-08-01 05:04 PM)
+            ☐ Asymmetric routing https://learn.microsoft.com/en-us/azure/expressroute/expressroute-asymmetric-routing (2024-09-06 05:33 AM)
+            ☐ NAT for ExpressRoute https://learn.microsoft.com/en-us/azure/expressroute/expressroute-nat (2024-08-01 05:04 PM)
+        Troubleshoot:
+            ☐ Obtain correlation ID https://learn.microsoft.com/en-us/azure/expressroute/get-correlation-id (2024-12-12 11:04 PM)
+            ☐ Verifying ExpressRoute connectivity https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-expressroute-overview (2024-12-12 11:04 PM)
+            ☐ Resolving network performance issues https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-network-performance (2024-08-28 05:05 PM)
+            ☐ Reset a failed circuit https://learn.microsoft.com/en-us/azure/expressroute/reset-circuit (2024-08-01 05:04 PM)
+            ☐ Getting ARP tables https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-arp-resource-manager (2024-09-13 05:05 PM)
+            ☐ Getting ARP tables (Classic) https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-arp-classic (2024-10-22 05:03 PM)
+    Reference:
+        ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/expressroute/monitor-expressroute-reference (2024-10-10 05:36 AM)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network#expressroute (2024-11-19 05:50 PM)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/express-route (2024-11-11 10:58 PM)
+        ☐ REST https://learn.microsoft.com/rest/api/expressroute/ (2024-08-06 10:08 PM)
+        ☐ REST (classic) https://learn.microsoft.com/previous-versions/azure/reference/dn606310(v=azure.100) (2021-10-21 07:54 AM)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.network/expressroutecircuits (2024-12-03 10:14 PM)
+    Resources:
+        Configure a router for ExpressRoute:
+            ☐ Configure a router https://learn.microsoft.com/en-us/azure/expressroute/expressroute-config-samples-routing (2024-09-06 05:33 AM)
+            ☐ Router configuration samples for NAT https://learn.microsoft.com/en-us/azure/expressroute/expressroute-config-samples-nat (2024-09-06 05:33 AM)
+        Backend Connectivity Interoperability:
+            ☐ Control Plane Analysis https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-control-plane?toc=/azure/expressroute/toc.json (2024-09-06 10:05 PM)
+        ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=networking
+        ☐ Networking Blog https://azure.microsoft.com/blog/topics/networking/
+        ☐ Pricing https://azure.microsoft.com/pricing/details/expressroute/
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Service updates https://azure.microsoft.com/updates/?product=expressroute
+        ☐ SLA https://azure.microsoft.com/support/legal/sla/
+        ☐ Subscription and Service Limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/expressroute/toc.json (2024-12-12 12:24 PM)
+        ☐ ExpressRoute for Cloud Solution Providers (CSP) https://learn.microsoft.com/en-us/azure/expressroute/expressroute-for-cloud-solution-providers (2024-12-20 11:04 PM)
+        Videos https://azure.microsoft.com/documentation/videos/index/?services=expressroute:
+            ☐ Connect a virtual network gateway to a circuit https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-a-connection-between-your-vpn-gateway-and-expressroute-circuit/
+            ☐ Create a virtual network for ExpressRoute https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-a-virtual-network/
+            ☐ Create a virtual network gateway for ExpressRoute https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-a-vpn-gateway-for-your-virtual-network/
+            ☐ Create an ExpressRoute circuit https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-an-expressroute-circuit/
+            ☐ Evolve your network infrastructure for connectivity https://learn.microsoft.com/events/ignite-2015/brk2481 (2024-05-08 03:10 PM)
+            ☐ How to set up private peering for your circuit https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-set-up-azure-private-peering-for-your-expressroute-circuit/
+            ☐ Hybrid partnerships: Enabling on-premises scenarios https://learn.microsoft.com/events/ignite-2015/brk1454 (2024-05-08 03:10 PM)
+            ☐ Set up Microsoft peering for your circuit https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-set-up-microsoft-peering-for-your-expressroute-circuit/
+        Classic and legacy articles:
+            ☐ Modify a circuit https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-classic (2024-08-01 05:04 PM)
+            ☐ Create and modify peering configuration https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-routing-classic (2024-08-01 05:04 PM)
+            ☐ Link a virtual network to an ExpressRoute circuit https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-classic (2024-08-01 05:04 PM)
+            ☐ Configure ExpressRoute and S2S coexisting connections https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-classic (2024-08-01 05:04 PM)
+

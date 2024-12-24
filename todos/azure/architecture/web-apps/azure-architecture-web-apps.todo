@@ -1,0 +1,43 @@
+Web architecture design - Azure Architecture Center | Microsoft Learn:
+    Web applications https://learn.microsoft.com/en-us/azure/architecture/web-apps/ (2024-12-18 07:03 PM):
+        Explore ideas about:
+            ☐ Hosting an e-commerce web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/scalable-ecommerce-web-app (2024-10-11 05:31 PM)
+            ☐ Network securing an e-commerce web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/ecommerce-website-running-in-secured-ase (2024-10-11 05:31 PM)
+            ☐ Migrating a workload to containers with App Service https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/migrate-existing-applications-to-container-apps (2024-10-11 05:31 PM)
+        Design architectures:
+            Host web apps with App Service:
+                ☐ Basic web application https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/basic-web-app (2024-10-11 05:31 PM)
+                ☐ Baseline web application with zone redundancy https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/baseline-zone-redundant (2024-10-11 05:31 PM)
+                ☐ Active-passive multi-region web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/multi-region (2024-10-11 05:31 PM)
+            Host web apps with App Service Environment:
+                ☐ Standard deployment https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service-environment/architectures/ase-standard-deployment (2024-10-11 05:31 PM)
+                ☐ High availability deployment https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service-environment/architectures/ase-high-availability-deployment (2024-10-11 05:31 PM)
+            Manage your APIs with Azure API Management (APIM):
+                ☐ Protect APIs with Application Gateway and APIM https://learn.microsoft.com/en-us/azure/architecture/web-apps/api-management/architectures/protect-apis (2024-10-11 05:31 PM)
+                ☐ Design API with API Management and GitHub https://learn.microsoft.com/en-us/azure/architecture/example-scenario/web/design-api-developer-experiences-management-github (2024-09-12 04:46 PM)
+            Host serverless web apps with Azure Functions:
+                ☐ Serverless web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/serverless/architectures/web-app (2024-10-11 05:31 PM)
+                ☐ Serverless code walkthrough https://learn.microsoft.com/en-us/azure/architecture/web-apps/serverless/architectures/code (2024-10-11 05:31 PM)
+        Apply guidance:
+            Networking guidance for web apps:
+                ☐ Securing access to multitenant web apps from on prem https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/networking/access-multitenant-web-app-from-on-premises (2024-10-15 05:30 PM)
+                ☐ Automate Application Gateway reconfiguration for web apps https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/networking/automation-application-gateway (2024-10-11 05:31 PM)
+            Security guidance for web apps:
+                ☐ Single-page application authorization https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/security/secure-single-page-application-authorization (2024-10-11 05:31 PM)
+            Application development guidance for web apps:
+                Enterprise web app patterns:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview (2024-11-26 06:32 PM)
+                    Reliable Web App pattern:
+                        ☐ .NET https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance (2024-11-11 06:32 PM)
+                        ☐ Java https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/java/guidance (2024-11-11 06:32 PM)
+                    Modern Web App pattern:
+                        ☐ .NET https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/modern-web-app/dotnet/guidance (2024-11-11 06:32 PM)
+                        ☐ Java https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/modern-web-app/java/guidance (2024-11-11 06:32 PM)
+            Disaster recovery for web apps:
+                ☐ Multi-region App Service apps for disaster recovery https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/multi-region-app-service/multi-region-app-service (2024-11-08 06:32 PM)
+        Hosting Wordpress on Azure:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/guide/infrastructure/wordpress-overview (2024-09-12 04:46 PM)
+            ☐ Container hosting (AKS) https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-container (2024-10-11 05:31 PM)
+            ☐ App Service hosting https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-app-service (2024-10-11 05:31 PM)
+            ☐ VM hosting https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-iaas (2024-09-12 04:46 PM)
+

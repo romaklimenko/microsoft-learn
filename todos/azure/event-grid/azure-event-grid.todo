@@ -176,7 +176,7 @@ Azure Event Grid documentation | Microsoft Learn:
                     Azure Communication Services:
                         ☐ Overview https://learn.microsoft.com/en-us/azure/event-grid/event-schema-communication-services (2024-12-16 11:03 PM)
                         ☐ Chat Events https://learn.microsoft.com/en-us/azure/event-grid/communication-services-chat-events (2024-09-18 10:09 PM)
-                        ☐ Telephony and SMS Events https://learn.microsoft.com/en-us/azure/event-grid/communication-services-telephony-sms-events (2024-12-11 05:32 AM)
+                        ✘ Telephony and SMS Events https://learn.microsoft.com/en-us/azure/event-grid/communication-services-telephony-sms-events (2024-12-11 05:32 AM) @cancelled
                         ☐ Voice and video calling Events https://learn.microsoft.com/en-us/azure/event-grid/communication-services-voice-video-events (2024-11-04 11:02 PM)
                         ☐ Presence Events https://learn.microsoft.com/en-us/azure/event-grid/communication-services-presence-events (2023-06-22 05:03 PM)
                         ☐ Email Events https://learn.microsoft.com/en-us/azure/event-grid/communication-services-email-events (2023-07-28 09:49 PM)
@@ -344,13 +344,13 @@ Azure Event Grid documentation | Microsoft Learn:
             ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2024-12-09 12:33 PM)
         Java:
             ☐ Preview https://learn.microsoft.com/java/api/overview/azure/messaging-eventgrid-readme?view=azure-java-preview&preserve-view=true (2023-11-21 10:56 PM)
-            ☐ GA https://learn.microsoft.com/java/api/overview/azure/event-grid (2024-12-20 12:09 PM)
+            ✘ GA https://learn.microsoft.com/java/api/overview/azure/event-grid (2024-12-20 12:09 PM) @cancelled
         Python:
             ☐ Preview https://learn.microsoft.com/python/api/overview/azure/eventgrid-readme?view=azure-python-preview&preserve-view=true (2024-04-30 12:19 AM)
-            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2024-12-20 12:08 PM)
+            ✘ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2024-12-20 12:08 PM) @cancelled
         Node.js:
             ☐ Preview https://learn.microsoft.com/javascript/api/overview/azure/eventgrid-readme?view=azure-node-preview&preserve-view=true (2023-11-14 10:44 PM)
-            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2024-12-20 12:08 PM)
+            ✘ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2024-12-20 12:08 PM) @cancelled
         ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/event-grid/quotas-limits (2023-05-23 02:25 PM)
     Resources:
         ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-event-grid (2024-10-07 11:05 PM)
@@ -359,4 +359,12 @@ Azure Event Grid documentation | Microsoft Learn:
         ☐ Pricing https://azure.microsoft.com/pricing/details/event-grid/
         ☐ Pricing Calculator https://azure.microsoft.com/pricing/calculator/
         ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-eventgrid
+
+
+---
+
+                        ✔ Telephony and SMS Events https://learn.microsoft.com/en-us/azure/event-grid/communication-services-telephony-sms-events (2024-12-23 06:06 PM) @done(24-12-24 18:55)
+            ✘ GA https://learn.microsoft.com/java/api/overview/azure/event-grid (2024-12-24 12:06 PM) @cancelled(24-12-24 18:54)
+            ✔ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2024-12-24 12:08 PM) @done(24-12-24 18:54)
+            ✔ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2024-12-24 12:12 PM) @done(24-12-24 18:54)
 

@@ -1,0 +1,156 @@
+Load Balancer | Microsoft Learn:
+    ☐ Load Balancer documentation https://learn.microsoft.com/en-us/azure/load-balancer/ (2024-11-19 06:02 PM)
+    Overview:
+        ☐ What is Azure Load Balancer? https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-overview (2024-12-10 11:02 PM)
+    Quickstarts:
+        Create a public load balancer:
+            ☐ Portal https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal (2024-11-22 05:58 AM)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-powershell (2024-08-01 05:04 PM)
+            ☐ CLI https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-cli (2024-09-30 05:05 PM)
+            ☐ Bicep https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-bicep (2024-12-06 11:03 PM)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-template (2024-11-26 11:03 PM)
+            ☐ Terraform https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-terraform (2024-12-09 06:04 PM)
+        Create an internal load balancer:
+            ☐ Portal https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-portal (2024-08-01 05:04 PM)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-powershell (2024-08-01 05:04 PM)
+            ☐ CLI https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-cli (2024-09-30 05:05 PM)
+            ☐ Bicep https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-bicep (2024-11-04 06:02 PM)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-template (2024-08-01 05:04 PM)
+            ☐ Terraform https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-terraform (2024-12-09 06:04 PM)
+    Tutorials:
+        Inbound NAT rule:
+            ☐ Create a single VM inbound NAT rule https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-port-forwarding-portal (2024-11-22 05:58 AM)
+            ☐ Create a multiple VMs inbound NAT rule https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-nat-rule-multi-instance-portal (2024-11-22 05:58 AM)
+            ☐ Migrate Inbound NAT Pools to NAT Rules https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-nat-pool-migration (2024-12-09 06:04 PM)
+        Scaling and availability:
+            ☐ Load balance a VM within a specific availability zone https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-public-zonal-portal (2024-08-01 05:04 PM)
+            ☐ Load balance VMs with multiple availability sets https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-multi-availability-sets-portal (2024-08-01 05:04 PM)
+        Cross-region load balancer:
+            ☐ Create cross-region load balancer - Portal https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-cross-region-portal (2024-08-01 10:05 PM)
+            ☐ Deploy cross-region load balancer - ARM template https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-deploy-cross-region-load-balancer-template (2024-08-01 05:04 PM)
+        Gateway load balancer:
+            ☐ Create gateway load balancer - Portal https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-gateway-portal (2024-11-26 11:03 PM)
+            ☐ Create gateway load balancer - PowerShell https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-gateway-powershell (2024-08-01 10:05 PM)
+            ☐ Create gateway load balancer - Azure CLI https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-gateway-cli (2024-08-01 10:05 PM)
+            ☐ Deploy a dual-stack gateway load balancer https://learn.microsoft.com/en-us/azure/load-balancer/gateway-deploy-dual-stack-load-balancer (2024-09-30 05:05 PM)
+            ☐ Configure outbound connectivity with a gateway load balancer https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-gateway-outbound-connectivity (2024-12-11 06:03 PM)
+        NAT gateway:
+            ☐ Integrate NAT gateway public load balancer https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/tutorial-nat-gateway-load-balancer-public-portal?toc=/azure/load-balancer/toc.json (2024-10-22 05:31 AM)
+            ☐ Integrate NAT gateway internal load balancer https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/tutorial-nat-gateway-load-balancer-internal-portal?toc=/azure/load-balancer/toc.json (2024-10-22 05:31 AM)
+        IP-based backend:
+            ☐ Create a public load balancer with an IP-based backend - Portal https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-ip-backend-portal (2024-12-09 06:04 PM)
+        ☐ Deploy public load balancer with DDoS protection https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-protect-load-balancer (2024-11-22 05:58 AM)
+    Concepts:
+        ☐ What's new? https://learn.microsoft.com/en-us/azure/load-balancer/whats-new (2024-12-06 11:03 PM)
+        ☐ Portal settings https://learn.microsoft.com/en-us/azure/load-balancer/manage (2024-12-09 06:04 PM)
+        ☐ Components https://learn.microsoft.com/en-us/azure/load-balancer/components (2024-08-22 07:16 PM)
+        ☐ Load balancing algorithm https://learn.microsoft.com/en-us/azure/load-balancer/concepts (2024-08-01 05:04 PM)
+        ☐ Distribution modes https://learn.microsoft.com/en-us/azure/load-balancer/distribution-mode-concepts (2024-09-25 10:03 PM)
+        ☐ Health probes https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-custom-probe-overview (2024-12-06 11:03 PM)
+        ☐ Cross-subscription load balancer https://learn.microsoft.com/en-us/azure/load-balancer/cross-subscription-overview (2024-11-06 11:02 PM)
+        ☐ Cross-region load balancer https://learn.microsoft.com/en-us/azure/load-balancer/cross-region-overview (2024-09-26 05:05 PM)
+        ☐ Administrative state https://learn.microsoft.com/en-us/azure/load-balancer/admin-state-overview (2024-11-06 11:02 PM)
+        Reliability:
+            ☐ Availability zones and cross-region load balancer https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer?toc=/azure/load-balancer/toc.json&bc=/azure/load-balancer/breadcrumb/toc.json (2024-11-20 11:04 PM)
+            ☐ Availability zone migration https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer?toc=/azure/load-balancer/toc.json&bc=/azure/load-balancer/breadcrumb/toc.json (2024-01-21 12:36 PM)
+        Gateway load balancer:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/load-balancer/gateway-overview (2024-08-26 05:04 PM)
+            ☐ Partners https://learn.microsoft.com/en-us/azure/load-balancer/gateway-partners (2024-08-01 05:04 PM)
+        ☐ SKUs https://learn.microsoft.com/en-us/azure/load-balancer/skus (2024-11-04 11:02 PM)
+        ☐ Standard Load Balancer and Virtual Machine Scale Sets https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-standard-virtual-machine-scale-sets (2024-09-25 10:03 PM)
+        ☐ Retrieve information using the Azure Instance Metadata Service https://learn.microsoft.com/en-us/azure/load-balancer/instance-metadata-service-load-balancer (2024-08-22 07:16 PM)
+        Health monitoring:
+            ☐ Monitor Load Balancer https://learn.microsoft.com/en-us/azure/load-balancer/monitor-load-balancer (2024-12-15 12:14 PM)
+            ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/load-balancer/monitor-load-balancer-reference (2024-08-23 10:04 PM)
+            ☐ Azure Monitor Insights for Load Balancer https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-insights (2024-09-11 06:38 PM)
+            ☐ Standard Load Balancer metrics and diagnostics https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-standard-diagnostics (2024-12-06 06:02 PM)
+            ☐ Load Balancer Health Event Logs https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-health-event-logs (2024-08-01 05:04 PM)
+            ☐ Manage Load Balancer health status https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-manage-health-status (2024-12-11 06:03 PM)
+        Inbound connectivity:
+            ☐ Inbound NAT rules https://learn.microsoft.com/en-us/azure/load-balancer/inbound-nat-rules (2024-12-09 06:04 PM)
+            ☐ High Availability ports https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-ha-ports-overview (2024-08-01 05:04 PM)
+            ☐ Multiple frontends https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multivip-overview (2024-11-04 11:02 PM)
+            ☐ TCP reset on idle timeout https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-tcp-reset (2024-08-07 10:04 PM)
+        Outbound connectivity:
+            ☐ SNAT for outbound connections to internet https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-outbound-connections (2024-12-09 06:04 PM)
+            ☐ Configuring outbound rules https://learn.microsoft.com/en-us/azure/load-balancer/outbound-rules (2024-08-01 05:04 PM)
+        Security:
+            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-load-balancer-security-baseline?toc=/azure/load-balancer/TOC.json (2024-08-05 07:13 PM)
+    How-to:
+        ☐ Backend Pool management https://learn.microsoft.com/en-us/azure/load-balancer/backend-pool-management (2024-08-01 05:04 PM)
+        ☐ Retrieve metadata using the Azure IMDS https://learn.microsoft.com/en-us/azure/load-balancer/howto-load-balancer-imds (2024-08-22 07:16 PM)
+        ☐ Manage admin state https://learn.microsoft.com/en-us/azure/load-balancer/manage-admin-state-how-to (2024-12-11 06:03 PM)
+        Health probes:
+            ☐ Manage health probes https://learn.microsoft.com/en-us/azure/load-balancer/manage-probes-how-to (2024-12-06 06:02 PM)
+            ☐ Create a custom HTTP/HTTPS health probe https://learn.microsoft.com/en-us/azure/load-balancer/create-custom-http-health-probe-howto (2024-12-09 06:04 PM)
+        Load Balancer metrics and logs:
+            ☐ Get Load Balancer metrics with Azure Monitor CLI https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-monitor-metrics-cli (2024-12-09 06:04 PM)
+            ☐ Get Load Balancer metrics with REST https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-query-metrics-rest-api (2024-08-01 05:04 PM)
+            ☐ Monitor and alert with LoadBalancerHealthEvent logs https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-monitor-alert-health-event-logs (2024-12-11 06:03 PM)
+        Inbound connectivity:
+            ☐ Floating IP configuration https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-floating-ip (2024-12-11 05:32 AM)
+            ☐ Manage load balancer rules https://learn.microsoft.com/en-us/azure/load-balancer/manage-rules-how-to (2024-12-06 06:02 PM)
+            ☐ Manage inbound NAT rules https://learn.microsoft.com/en-us/azure/load-balancer/manage-inbound-nat-rules (2024-12-06 06:02 PM)
+            ☐ Configure TCP reset and idle timeout https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-tcp-idle-timeout (2024-12-06 06:02 PM)
+            ☐ Configure distribution mode for Load Balancer https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-distribution-mode (2024-12-06 06:02 PM)
+        Outbound connectivity:
+            ☐ Migrate outbound access https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/tutorial-migrate-outbound-nat?toc=/azure/load-balancer/toc.json (2024-10-22 05:31 AM)
+            ☐ Outbound only load balancer configuration https://learn.microsoft.com/en-us/azure/load-balancer/egress-only (2024-11-22 05:58 AM)
+        Virtual machine scale sets:
+            ☐ Configure inbound NAT rules for Virtual Machine Scale Sets https://learn.microsoft.com/en-us/azure/load-balancer/configure-inbound-nat-rules-vm-scale-set (2024-08-01 05:04 PM)
+            ☐ Add multiple Virtual Machine Scale Set instances behind one Azure Load Balancer https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-virtual-machine-scale-set (2024-08-22 07:16 PM)
+            ☐ Use Virtual Machine Scale Set instance with an existing Azure Load Balancer https://learn.microsoft.com/en-us/azure/load-balancer/configure-vm-scale-set-portal (2024-09-12 05:07 PM)
+        Upgrade from a basic to standard load balancer:
+            ☐ Upgrade options and guidance https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-basic-upgrade-guidance (2024-11-04 11:02 PM)
+            ☐ Upgrade from Basic to Standard with PowerShell https://learn.microsoft.com/en-us/azure/load-balancer/upgrade-basic-standard-with-powershell (2024-12-06 11:03 PM)
+        Using multiple IP configurations:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip (2024-12-06 06:02 PM)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip-cli (2024-08-22 07:16 PM)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip-powershell (2024-08-22 07:16 PM)
+        ☐ Move a load balancer across regions https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-azure-load-balancer (2024-12-06 11:03 PM)
+        Cross-subscription load balancing:
+            ☐ Attach a cross-subscription backend to an Azure Load Balancer https://learn.microsoft.com/en-us/azure/load-balancer/cross-subscription-how-to-attach-backend (2024-11-06 11:02 PM)
+            ☐ Attach a cross-subscription frontend to an Azure Load Balancer https://learn.microsoft.com/en-us/azure/load-balancer/cross-subscription-how-to-attach-frontend (2024-11-06 11:02 PM)
+            ☐ Create a global load balancer with cross-subscription backends https://learn.microsoft.com/en-us/azure/load-balancer/cross-subscription-how-to-global-backend (2024-11-06 11:02 PM)
+            ☐ Create a cross-subscription internal load balancer https://learn.microsoft.com/en-us/azure/load-balancer/cross-subscription-how-to-internal-load-balancer (2024-11-06 11:02 PM)
+        IPv6:
+            ☐ Configure DHCPv6 for Linux VMs https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-ipv6-for-linux (2024-09-17 05:04 PM)
+            Public Load Balancer:
+                ☐ Standard Public Load Balancer with IPv6 - PowerShell https://learn.microsoft.com/en-us/azure/load-balancer/virtual-network-ipv4-ipv6-dual-stack-standard-load-balancer-powershell (2024-09-30 05:05 PM)
+                ☐ Standard Public Load Balancer with IPv6 - Azure CLI https://learn.microsoft.com/en-us/azure/load-balancer/virtual-network-ipv4-ipv6-dual-stack-standard-load-balancer-cli (2024-12-11 06:03 PM)
+                ☐ Standard Public Load Balancer with IPv6 - ARM template https://learn.microsoft.com/en-us/azure/load-balancer/ipv6-configure-standard-load-balancer-template-json (2024-12-06 11:03 PM)
+            Internal Load Balancer:
+                ☐ Standard Internal Load Balancer with IPv6 - PowerShell https://learn.microsoft.com/en-us/azure/load-balancer/ipv6-dual-stack-standard-internal-load-balancer-powershell (2024-08-06 05:10 PM)
+            Add IPv6 to existing deployments:
+                ☐ Add IPv6 to an IPv4 application- PowerShell https://learn.microsoft.com/en-us/azure/load-balancer/ipv6-add-to-existing-vnet-powershell (2024-12-09 06:04 PM)
+                ☐ Add IPv6 to an IPv4 application - Azure CLI https://learn.microsoft.com/en-us/azure/load-balancer/ipv6-add-to-existing-vnet-cli (2024-09-30 05:05 PM)
+        Troubleshoot:
+            ☐ Troubleshoot Azure Load Balancer https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot (2024-10-30 05:03 PM)
+            ☐ Testing inbound frontend IP address reachability https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-test-frontend-reachability (2024-12-11 06:03 PM)
+            ☐ Health Probe status https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot-health-probe-status (2024-08-01 05:04 PM)
+            ☐ Backend pool (VM) traffic https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot-backend-traffic (2024-08-01 05:04 PM)
+            ☐ Troubleshoot SNAT exhaustion and connection timeouts https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-outbound-connection (2024-09-30 05:05 PM)
+            ☐ Resource health and inbound availability issues https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-rhc (2024-10-30 05:03 PM)
+            ☐ Common error codes for Azure Instance Metadata Service (IMDS) https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-load-balancer-imds (2024-08-22 07:16 PM)
+            ☐ Common deployment errors https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-common-deployment-errors (2024-12-09 06:04 PM)
+            ☐ Troubleshoot load balancer health event logs https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot-health-event-logs (2024-08-01 05:04 PM)
+    Reference:
+        ☐ Code samples https://azure.microsoft.com/resources/samples/?service=load-balancer (2024-11-01 08:16 PM)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network#load-balancer (2024-11-19 05:50 PM)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/lb (2024-11-11 10:58 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.network.models (2018-06-16 12:36 AM)
+        ☐ Java https://learn.microsoft.com/java/api/com.microsoft.azure.management.network (2024-06-12 11:12 AM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/arm-network-readme (2024-12-20 12:08 PM)
+        ☐ Ruby https://www.rubydoc.info/gems/azure_mgmt_network/Azure/Network/Mgmt/V2020_03_01/LoadBalancers
+        ☐ Python https://learn.microsoft.com/python/api/azure-mgmt-network/azure.mgmt.network.operations.loadbalancersoperations (2024-11-04 12:04 PM)
+        ☐ REST https://learn.microsoft.com/rest/api/load-balancer/loadbalancers (2024-12-03 11:02 PM)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.network/loadbalancers (2024-12-03 10:14 PM)
+    Resources:
+        ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-load-balancer (2024-10-07 11:05 PM)
+        ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=networking
+        ☐ Azure Load Balancer feedback https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789?c=e8894060-8326-ec11-b6e6-000d3a4f0789
+        ☐ Pricing https://azure.microsoft.com/pricing/details/load-balancer/
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Product updates https://azure.microsoft.com/updates/?product=load-balancer
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-faqs (2024-08-01 05:04 PM)
+

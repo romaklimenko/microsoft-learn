@@ -1,0 +1,212 @@
+Azure Container Apps documentation | Microsoft Learn:
+    ☐ Azure Container Apps documentation https://learn.microsoft.com/en-us/azure/container-apps/ (2024-09-27 11:13 AM)
+    Get started:
+        ☐ About Azure Container Apps https://learn.microsoft.com/en-us/azure/container-apps/overview (2024-11-20 05:36 AM)
+        ☐ Introduction to containers https://learn.microsoft.com/en-us/azure/container-apps/start-containers (2024-08-04 11:36 AM)
+        ☐ Use serverless containers https://learn.microsoft.com/en-us/azure/container-apps/start-serverless-containers (2024-08-04 11:36 AM)
+        Quickstarts:
+            Deploy from an existing container image:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/container-apps/quickstart-portal (2024-08-01 05:04 PM)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/container-apps/get-started (2024-08-04 11:36 AM)
+            Deploy from code:
+                ☐ Local filesystem https://learn.microsoft.com/en-us/azure/container-apps/quickstart-code-to-cloud (2024-12-16 06:03 PM)
+                ☐ Code repository https://learn.microsoft.com/en-us/azure/container-apps/quickstart-repo-to-cloud (2024-08-04 11:36 AM)
+                ☐ Visual Studio https://learn.microsoft.com/en-us/azure/container-apps/deploy-visual-studio (2024-10-16 05:09 PM)
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/container-apps/deploy-visual-studio-code (2024-08-05 05:33 AM)
+            Deploy from artifact (preview):
+                ☐ Command line https://learn.microsoft.com/en-us/azure/container-apps/deploy-artifact (2024-09-26 05:05 PM)
+            Run a job:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-portal (2024-08-04 11:36 AM)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/container-apps/jobs-get-started-cli (2024-08-20 05:04 PM)
+    Key concepts:
+        ☐ Compare container options in Azure https://learn.microsoft.com/en-us/azure/container-apps/compare-options (2024-12-09 06:04 PM)
+        ☐ Plans https://learn.microsoft.com/en-us/azure/container-apps/plans (2024-11-21 11:02 PM)
+        ☐ Environment https://learn.microsoft.com/en-us/azure/container-apps/environment (2024-08-04 11:36 AM)
+        ☐ Containers https://learn.microsoft.com/en-us/azure/container-apps/containers (2024-09-23 10:04 PM)
+        ☐ Revisions https://learn.microsoft.com/en-us/azure/container-apps/revisions (2024-08-04 11:36 AM)
+        ☐ Application lifecycle management https://learn.microsoft.com/en-us/azure/container-apps/application-lifecycle-management (2024-08-04 11:36 AM)
+        ☐ Jobs https://learn.microsoft.com/en-us/azure/container-apps/jobs (2024-12-19 06:04 PM)
+        Dynamic sessions:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/sessions (2024-11-21 11:02 PM)
+            ☐ Code interpreter sessions https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter (2024-11-21 11:02 PM)
+            ☐ Custom container sessions https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container (2024-11-21 11:02 PM)
+        ☐ Microservices https://learn.microsoft.com/en-us/azure/container-apps/microservices (2024-08-05 10:12 PM)
+        ☐ Planned maintenance https://learn.microsoft.com/en-us/azure/container-apps/planned-maintenance (2024-12-06 11:03 PM)
+        ☐ Build and deliver apps with Container Apps (video) https://youtu.be/OxmVds31qL8
+    Develop & deploy:
+        ☐ Deployment options https://learn.microsoft.com/en-us/azure/container-apps/code-to-cloud-options (2024-10-14 05:05 PM)
+        ☐ Deploy an app with containerapp up https://learn.microsoft.com/en-us/azure/container-apps/containerapp-up (2024-08-04 11:36 AM)
+        ☐ Create and deploy a container app using the CLI https://learn.microsoft.com/en-us/azure/container-apps/tutorial-deploy-first-app-cli (2024-08-04 11:36 AM)
+        Connect to apps & services:
+            Connect to services:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/services (2024-08-04 11:36 AM)
+            ☐ Connect multiple apps https://learn.microsoft.com/en-us/azure/container-apps/connect-apps (2024-08-04 11:36 AM)
+            Connect to a cloud service using Service Connector:
+                ☐ .NET app with Blob Storage https://learn.microsoft.com/en-us/azure/container-apps/service-connector (2024-08-20 05:04 PM)
+                ☐ Java Quarkus app with Postgres DB https://learn.microsoft.com/en-us/azure/container-apps/tutorial-java-quarkus-connect-managed-identity-postgresql-database (2024-12-12 11:04 PM)
+        Build a multiple app scenario:
+            ☐ Deploy a backend microservice app https://learn.microsoft.com/en-us/azure/container-apps/tutorial-code-to-cloud (2024-12-13 05:38 AM)
+            ☐ Deploy a frontend microservice app https://learn.microsoft.com/en-us/azure/container-apps/communicate-between-microservices (2024-08-04 11:36 AM)
+        Continuous deployment:
+            ☐ Azure Pipelines https://learn.microsoft.com/en-us/azure/container-apps/azure-pipelines (2024-10-21 05:07 PM)
+            ☐ GitHub Actions https://learn.microsoft.com/en-us/azure/container-apps/github-actions (2024-09-19 06:07 PM)
+            ☐ GitHub Actions with Azure CLI https://learn.microsoft.com/en-us/azure/container-apps/github-actions-cli (2024-11-19 11:02 PM)
+            ☐ Deploy self-hosted CI/CD runners with jobs https://learn.microsoft.com/en-us/azure/container-apps/tutorial-ci-cd-runners-jobs (2024-12-20 06:07 PM)
+        ☐ Revision management https://learn.microsoft.com/en-us/azure/container-apps/revisions-manage (2024-08-04 11:36 AM)
+        ☐ Environment Variables https://learn.microsoft.com/en-us/azure/container-apps/environment-variables (2024-12-11 11:02 PM)
+        ☐ Use health probes https://learn.microsoft.com/en-us/azure/container-apps/health-probes (2024-11-26 11:03 PM)
+        Storage mounts:
+            ☐ Use storage mounts https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts (2024-09-19 05:06 PM)
+            ☐ Create an Azure Files storage mount https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts-azure-files (2024-08-04 11:36 AM)
+        Use dynamic sessions:
+            Code interpreter sessions:
+                ☐ AutoGen https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-autogen (2024-11-21 11:02 PM)
+                ☐ LangChain https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain (2024-11-21 11:02 PM)
+                ☐ LlamaIndex https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex (2024-11-21 11:02 PM)
+                ☐ Semantic Kernel https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel (2024-11-21 11:02 PM)
+                ☐ JavaScript Code Interpreter (preview) https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs (2024-11-19 06:02 PM)
+        Event-driven processing:
+            ☐ With a job https://learn.microsoft.com/en-us/azure/container-apps/tutorial-event-driven-jobs (2024-12-10 11:02 PM)
+        ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/container-apps/troubleshooting (2024-11-25 12:08 AM)
+        ☐ Reliability in Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json (2024-11-20 11:04 PM)
+    Observability:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/observability (2024-11-25 12:08 AM)
+        ☐ Application logging https://learn.microsoft.com/en-us/azure/container-apps/logging (2024-11-25 12:08 AM)
+        ☐ Real time data https://learn.microsoft.com/en-us/azure/container-apps/aspire-dashboard (2024-12-06 11:03 PM)
+        ☐ Logging options https://learn.microsoft.com/en-us/azure/container-apps/log-options (2024-12-13 11:03 PM)
+        ☐ Log streaming https://learn.microsoft.com/en-us/azure/container-apps/log-streaming (2024-12-02 11:02 PM)
+        ☐ Container console https://learn.microsoft.com/en-us/azure/container-apps/container-console (2024-11-25 12:08 AM)
+        ☐ Metrics https://learn.microsoft.com/en-us/azure/container-apps/metrics (2024-11-25 12:08 AM)
+        ☐ Log monitoring https://learn.microsoft.com/en-us/azure/container-apps/log-monitoring (2024-11-25 12:08 AM)
+        ☐ Alerts https://learn.microsoft.com/en-us/azure/container-apps/alerts (2024-11-25 12:08 AM)
+        ☐ OpenTelemetry agents https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents (2024-12-13 11:03 PM)
+    Scaling & performance:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/scale-app (2024-08-04 11:36 AM)
+        ☐ Scale a container app https://learn.microsoft.com/en-us/azure/container-apps/tutorial-scaling (2024-11-25 12:08 AM)
+    Domains & certificates:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/certificates-overview (2024-08-04 11:36 AM)
+        ☐ Custom domain with a free certificate https://learn.microsoft.com/en-us/azure/container-apps/custom-domains-managed-certificates (2024-11-26 05:33 AM)
+        ☐ Set up custom domain with existing certificate https://learn.microsoft.com/en-us/azure/container-apps/custom-domains-certificates (2024-12-17 11:03 PM)
+        ☐ Set up environment custom DNS suffix https://learn.microsoft.com/en-us/azure/container-apps/environment-custom-dns-suffix (2024-08-04 11:36 AM)
+        ☐ Certificates from Key Vault https://learn.microsoft.com/en-us/azure/container-apps/key-vault-certificates-manage (2024-09-19 10:05 PM)
+    Authentication:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/authentication (2024-08-09 05:35 AM)
+        Enable authentication:
+            ☐ Microsoft Entra ID https://learn.microsoft.com/en-us/azure/container-apps/authentication-azure-active-directory (2024-12-20 06:07 PM)
+            ☐ Facebook https://learn.microsoft.com/en-us/azure/container-apps/authentication-facebook (2024-10-16 05:09 PM)
+            ☐ GitHub https://learn.microsoft.com/en-us/azure/container-apps/authentication-github (2024-10-28 06:09 PM)
+            ☐ Google https://learn.microsoft.com/en-us/azure/container-apps/authentication-google (2024-11-19 11:02 PM)
+            ☐ X https://learn.microsoft.com/en-us/azure/container-apps/authentication-twitter (2024-11-19 11:02 PM)
+            ☐ Custom OpenID Connect https://learn.microsoft.com/en-us/azure/container-apps/authentication-openid (2024-10-16 05:09 PM)
+    Security:
+        ☐ Manage secrets https://learn.microsoft.com/en-us/azure/container-apps/manage-secrets (2024-12-13 11:03 PM)
+        ☐ Token store https://learn.microsoft.com/en-us/azure/container-apps/token-store (2024-08-04 11:36 AM)
+        Managed identities:
+            ☐ Use managed identities https://learn.microsoft.com/en-us/azure/container-apps/managed-identity (2024-11-25 12:08 AM)
+            ☐ Azure Container Registry image pull with managed identity https://learn.microsoft.com/en-us/azure/container-apps/managed-identity-image-pull (2024-12-19 11:02 PM)
+    Resiliency (preview):
+        ☐ Service discovery resiliency https://learn.microsoft.com/en-us/azure/container-apps/service-discovery-resiliency (2024-11-19 06:02 PM)
+        ☐ Dapr component resiliency https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency (2024-11-20 05:36 AM)
+    Reliability:
+        ☐ Reliability in Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps (2024-11-20 11:04 PM)
+    Dedicated compute:
+        ☐ Workload profiles https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-overview (2024-11-21 11:02 PM)
+        Manage workload profiles:
+            ☐ CLI https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-manage-cli (2024-11-19 06:02 PM)
+            ☐ Portal https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-manage-portal (2024-10-04 05:06 PM)
+    GPUs:
+        ☐ Serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview (2024-12-10 05:41 AM)
+        Tutorials:
+            ☐ Generate images with serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation (2024-11-21 11:02 PM)
+    Microservices:
+        Developing with Dapr:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview (2024-12-12 11:04 PM)
+            Get started:
+                ☐ Deploy using Azure CLI https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr (2024-12-12 11:04 PM)
+                ☐ Deploy using ARM or Bicep https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-azure-resource-manager (2024-12-12 11:04 PM)
+                ☐ Enable Dapr on an existing container app https://learn.microsoft.com/en-us/azure/container-apps/enable-dapr (2024-12-12 11:04 PM)
+                ☐ Deploy using the Dapr extension for Azure Functions https://learn.microsoft.com/en-us/azure/container-apps/dapr-functions-extension (2024-12-12 11:04 PM)
+            Components:
+                ☐ Components overview https://learn.microsoft.com/en-us/azure/container-apps/dapr-components (2024-12-12 11:04 PM)
+                ☐ Connect to Azure or third-party services https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-connect-services (2024-12-12 11:04 PM)
+                ☐ Connect to Azure services via Azure portal https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-connection (2024-12-12 11:04 PM)
+            Configure:
+                ☐ Set up Dapr resiliency policies (preview) https://learn.microsoft.com/en-us/azure/container-apps/dapr-component-resiliency (2024-11-20 05:36 AM)
+                ☐ Scale Dapr apps with KEDA using Bicep https://learn.microsoft.com/en-us/azure/container-apps/dapr-keda-scaling (2024-09-12 05:07 PM)
+                ☐ Enable token authentication for Dapr requests https://learn.microsoft.com/en-us/azure/container-apps/dapr-authentication-token (2024-08-28 05:05 PM)
+            Tutorials:
+                ☐ Microservices communication using Dapr Pub/Sub https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-pubsub (2024-11-19 06:02 PM)
+                ☐ Event-driven work using Dapr Bindings https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-bindings (2024-12-11 11:02 PM)
+                ☐ Microservices communication using Dapr Service Invocation https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-service-invoke (2024-08-05 10:12 PM)
+    Networking, ingress, and network security:
+        ☐ Architecture overview https://learn.microsoft.com/en-us/azure/container-apps/networking (2024-12-20 06:07 PM)
+        ☐ Use a custom virtual network https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom (2024-12-20 06:07 PM)
+        Ingress:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/ingress-overview (2024-11-21 11:02 PM)
+            ☐ Configure ingress https://learn.microsoft.com/en-us/azure/container-apps/ingress-how-to (2024-12-11 11:02 PM)
+            ☐ Configure IP restrictions https://learn.microsoft.com/en-us/azure/container-apps/ip-restrictions (2024-12-02 11:02 PM)
+            ☐ Add client certificates https://learn.microsoft.com/en-us/azure/container-apps/client-certificate-authorization (2024-08-04 11:36 AM)
+            ☐ Configure traffic-splitting https://learn.microsoft.com/en-us/azure/container-apps/traffic-splitting (2024-08-04 11:36 AM)
+            ☐ Blue/Green deployment https://learn.microsoft.com/en-us/azure/container-apps/blue-green-deployment (2024-12-11 11:02 PM)
+            ☐ Session affinity https://learn.microsoft.com/en-us/azure/container-apps/sticky-sessions (2024-08-04 11:36 AM)
+            ☐ CORS https://learn.microsoft.com/en-us/azure/container-apps/cors (2024-10-21 10:04 PM)
+        Security:
+            ☐ Configure WAF Application Gateway https://learn.microsoft.com/en-us/azure/container-apps/waf-app-gateway (2024-12-20 06:07 PM)
+            ☐ Enable User Defined Routes (UDR) https://learn.microsoft.com/en-us/azure/container-apps/user-defined-routes (2024-10-21 10:04 PM)
+            ☐ Securing a custom VNET with an NSG https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration (2024-12-15 12:14 PM)
+            ☐ Use a private endpoint https://learn.microsoft.com/en-us/azure/container-apps/how-to-use-private-endpoint (2024-12-12 06:02 PM)
+            ☐ Integrate with Azure Front Door https://learn.microsoft.com/en-us/azure/container-apps/how-to-integrate-with-azure-front-door (2024-12-12 11:04 PM)
+    Languages and runtimes:
+        .NET:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/dotnet-overview (2024-08-04 11:36 AM)
+            ☐ Deploy a .NET Aspire app https://learn.microsoft.com/dotnet/aspire/deployment/azure/aca-deployment (2024-06-21 12:06 AM)
+            ☐ Deploy and scale an ASP.NET Core app https://learn.microsoft.com/aspnet/core/host-and-deploy/scaling-aspnet-apps/scaling-aspnet-apps (2024-09-18 01:16 PM)
+        Java:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/java-overview (2024-12-11 06:03 PM)
+            ☐ Turn on Java features https://learn.microsoft.com/en-us/azure/container-apps/java-feature-switch (2024-10-14 11:21 AM)
+            ☐ Launch your first Java app https://learn.microsoft.com/en-us/azure/container-apps/java-get-started (2024-09-19 05:06 PM)
+            ☐ Launch your first Java microservice apps with managed Java components https://learn.microsoft.com/en-us/azure/container-apps/java-microservice-get-started (2024-12-05 11:02 PM)
+            ☐ Get started using IntelliJ https://learn.microsoft.com/azure/developer/java/toolkit-for-intellij/create-container-apps-intellij?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json (2024-06-10 04:59 PM)
+            ☐ Automatic memory fitting (preview) https://learn.microsoft.com/en-us/azure/container-apps/java-memory-fit (2024-09-26 05:05 PM)
+            ☐ Build environment variables (preview) https://learn.microsoft.com/en-us/azure/container-apps/java-build-environment-variables (2024-09-26 05:05 PM)
+            ☐ Metrics https://learn.microsoft.com/en-us/azure/container-apps/java-metrics (2024-09-16 05:37 PM)
+            ☐ Connect to Eureka Server for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server (2024-12-11 11:02 PM)
+            ☐ Connect to Admin for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-admin (2024-11-19 06:02 PM)
+            ☐ Connect to Config Server for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-config-server (2024-11-19 06:02 PM)
+            ☐ Connect to Gateway for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-gateway-for-spring (2024-12-11 11:02 PM)
+            ☐ Set dynamic logger level https://learn.microsoft.com/en-us/azure/container-apps/java-dynamic-log-level (2024-12-09 11:06 PM)
+            Tutorials:
+                ☐ Integrate Eureka Server with Admin for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-admin-eureka-integration (2024-11-19 06:02 PM)
+                ☐ Query managed component logs https://learn.microsoft.com/en-us/azure/container-apps/java-component-logs (2024-08-04 11:36 AM)
+                ☐ Configure Application Performance Management (APM) Java agent with init-container https://learn.microsoft.com/en-us/azure/container-apps/java-application-performance-management-config (2024-11-25 11:02 PM)
+                ☐ Create a highly available Eureka server component cluster https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server-highly-available (2024-11-19 06:02 PM)
+    Billing & quotas:
+        ☐ Billing https://learn.microsoft.com/en-us/azure/container-apps/billing (2024-11-21 11:02 PM)
+        ☐ Quotas https://learn.microsoft.com/en-us/azure/container-apps/quotas (2024-08-04 11:36 AM)
+    Product updates:
+        ☐ What's new https://learn.microsoft.com/en-us/azure/container-apps/whats-new (2024-11-26 05:33 AM)
+    API docs & reference:
+        ☐ ARM & YAML specifications https://learn.microsoft.com/en-us/azure/container-apps/azure-resource-manager-api-spec (2024-12-05 05:33 AM)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/containerapp?view=azure-cli-latest&preserve-view=true (2024-11-14 11:02 PM)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.app/#container-apps (2024-11-19 05:50 PM)
+        ☐ Azure policy definitions https://learn.microsoft.com/en-us/azure/container-apps/policy-reference (2024-11-25 12:08 AM)
+        ☐ REST API https://learn.microsoft.com/rest/api/containerapps/ (2024-11-18 08:31 PM)
+        ☐ Supported regions https://azure.microsoft.com/explore/global-infrastructure/products-by-region/?products=container-apps
+        Management SDKs:
+            ☐ .NET https://learn.microsoft.com/dotnet/api/azure.resourcemanager.appcontainers (2022-07-19 10:43 PM)
+            ☐ Go https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/resourcemanager/appcontainers/armappcontainers
+            ☐ Java https://learn.microsoft.com/java/api/overview/azure/resourcemanager-appcontainers-readme (2024-08-07 11:11 AM)
+            ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/arm-appcontainers-readme (2024-08-09 06:04 PM)
+            ☐ Python https://learn.microsoft.com/python/api/azure-mgmt-appcontainers/azure.mgmt.appcontainers (2024-04-30 12:19 AM)
+    Azure Arc:
+        ☐ Azure Arc-enabled Kubernetes clusters https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-overview (2024-10-21 11:19 AM)
+        ☐ 1 - Set up Azure Arc-enabled Kubernetes clusters https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-enable-cluster (2024-11-25 12:08 AM)
+        ☐ 2 - Create container app https://learn.microsoft.com/en-us/azure/container-apps/azure-arc-create-container-app (2024-12-13 11:03 PM)
+    Compliance:
+        ☐ Microsoft Azure Compliance Offerings https://servicetrust.microsoft.com/DocumentPage/7adf2d9e-d7b5-4e71-bad8-713e6a183cf3
+        ☐ Azure, Dynamics 365, Microsoft 365, and Power Platform compliance offerings https://learn.microsoft.com/azure/compliance/offerings/ (2024-10-10 08:28 PM)
+        ☐ Azure security baseline for Azure Container Apps https://learn.microsoft.com/security/benchmark/azure/baselines/azure-container-apps-security-baseline (2024-08-05 07:13 PM)
+    Samples & FAQs:
+        ☐ Samples https://learn.microsoft.com/en-us/azure/container-apps/samples (2024-12-04 06:02 PM)
+        ☐ Frequently asked questions https://learn.microsoft.com/en-us/azure/container-apps/faq (2024-12-13 11:03 PM)
+

@@ -1,0 +1,543 @@
+Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
+    ☐ Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/ (2024-08-01 08:29 PM)
+    Overview:
+        ☐ What is AKS? https://learn.microsoft.com/en-us/azure/aks/what-is-aks (2024-12-13 11:02 PM)
+        ☐ What is AKS Automatic? https://learn.microsoft.com/en-us/azure/aks/intro-aks-automatic (2024-08-01 08:29 PM)
+        ☐ Quotas and regional limits https://learn.microsoft.com/en-us/azure/aks/quotas-skus-regions (2024-10-31 05:34 AM)
+        ☐ Track releases and region availability https://learn.microsoft.com/en-us/azure/aks/release-tracker (2024-08-01 08:29 PM)
+        ☐ Supported Kubernetes versions https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions (2024-12-11 06:01 PM)
+        ☐ Long-term support https://learn.microsoft.com/en-us/azure/aks/long-term-support (2024-11-27 11:02 PM)
+        ☐ Add-ons, extensions, and other integrations https://learn.microsoft.com/en-us/azure/aks/integrations (2024-11-25 11:00 PM)
+    Getting started:
+        ☐ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-21 10:01 PM)
+        ☐ Plan your implementation https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-start-here?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-02 06:29 PM)
+        ☐ Windows container considerations https://learn.microsoft.com/en-us/azure/aks/windows-vs-linux-containers (2024-09-16 10:00 PM)
+    Quickstarts:
+        Create a Linux-based AKS Cluster:
+            ☐ Use AKS Automatic https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-automatic-deploy (2024-11-21 05:31 AM)
+            ☐ Use the Azure CLI https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-cli (2024-11-10 12:11 PM)
+            ☐ Use the Azure Developer CLI https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-azd (2024-08-01 08:29 PM)
+            ☐ Use Azure PowerShell https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-powershell (2024-12-12 11:02 PM)
+            ☐ Use the Azure portal https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-portal (2024-11-11 10:57 PM)
+            ☐ Use Bicep Kubernetes extension https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-bicep-kubernetes-extension (2024-12-12 05:31 AM)
+            ☐ Use Bicep https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-bicep (2024-12-12 05:31 AM)
+            ☐ Use ARM template https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-rm-template (2024-12-12 05:31 AM)
+            ☐ Use Terraform https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-terraform (2024-12-16 11:01 PM)
+        Create a Windows-based AKS Cluster:
+            ☐ Use the Azure CLI https://learn.microsoft.com/en-us/azure/aks/learn/quick-windows-container-deploy-cli (2024-12-12 05:31 AM)
+            ☐ Use Azure PowerShell https://learn.microsoft.com/en-us/azure/aks/learn/quick-windows-container-deploy-powershell (2024-12-12 05:31 AM)
+            ☐ Use the Azure portal https://learn.microsoft.com/en-us/azure/aks/learn/quick-windows-container-deploy-portal (2024-11-01 09:59 PM)
+            ☐ Use Terraform https://learn.microsoft.com/en-us/azure/aks/learn/quick-windows-container-deploy-terraform (2024-08-01 08:29 PM)
+        Work with package managers:
+            ☐ Develop with Helm https://learn.microsoft.com/en-us/azure/aks/quickstart-helm (2024-10-31 05:34 AM)
+            ☐ Develop with Dapr https://learn.microsoft.com/en-us/azure/aks/quickstart-dapr (2024-12-18 06:02 PM)
+            ☐ Use Draft and the DevX extension for Visual Studio Code https://learn.microsoft.com/en-us/azure/aks/draft-devx-extension-aks (2024-12-03 06:01 PM)
+        ☐ Subscribe to AKS events with Event Grid https://learn.microsoft.com/en-us/azure/aks/quickstart-event-grid (2024-10-31 05:34 AM)
+    Tutorials:
+        ☐ 1 - Prepare application for AKS https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app (2024-11-08 10:59 PM)
+        ☐ 2 - Create container registry https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-acr (2024-09-06 09:56 PM)
+        ☐ 3 - Create Kubernetes cluster https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-cluster (2024-08-01 08:29 PM)
+        ☐ 4 - Deploy containerized application https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-application (2024-11-08 10:59 PM)
+        ☐ 5 - Use PaaS services https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-paas-services (2024-08-01 08:29 PM)
+        ☐ 6 - Scale application https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-scale (2024-11-07 12:05 PM)
+        ☐ 7 - Upgrade cluster https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-upgrade-cluster (2024-08-27 10:00 PM)
+    Concepts:
+        ☐ Core concepts https://learn.microsoft.com/en-us/azure/aks/core-aks-concepts (2024-09-03 10:05 PM)
+        ☐ Pricing tiers for AKS https://learn.microsoft.com/en-us/azure/aks/free-standard-pricing-tiers (2024-08-20 04:59 PM)
+        ☐ Maintain and upgrade an AKS cluster https://learn.microsoft.com/en-us/azure/aks/upgrade (2024-08-01 08:29 PM)
+        ☐ AKS Communication Manager (Preview) https://learn.microsoft.com/en-us/azure/aks/aks-communication-manager (2024-11-05 10:59 PM)
+        ☐ Resource reservations https://learn.microsoft.com/en-us/azure/aks/node-resource-reservations (2024-08-01 08:29 PM)
+        ☐ Backup and recover cluster https://learn.microsoft.com/azure/backup/azure-kubernetes-service-backup-overview?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM)
+        Observability:
+            ☐ Monitor AKS https://learn.microsoft.com/en-us/azure/aks/monitor-aks (2024-12-13 11:02 PM)
+            ☐ Monitor control plane metrics https://learn.microsoft.com/en-us/azure/aks/control-plane-metrics-monitor (2024-12-06 05:36 AM)
+            ☐ Container Network Observability https://learn.microsoft.com/en-us/azure/aks/container-network-observability-concepts (2024-12-20 12:04 PM)
+        Security:
+            ☐ Security concepts https://learn.microsoft.com/en-us/azure/aks/concepts-security (2024-11-10 12:11 PM)
+            ☐ Access and identity https://learn.microsoft.com/en-us/azure/aks/concepts-identity (2024-10-30 09:59 PM)
+            ☐ Security vulnerability management https://learn.microsoft.com/en-us/azure/aks/concepts-vulnerability-management (2024-08-01 08:29 PM)
+            ☐ Security Baseline https://learn.microsoft.com/security/benchmark/azure/baselines/aks-security-baseline?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-06-04 02:12 PM)
+            ☐ Confidential Containers security policy https://learn.microsoft.com/azure/confidential-computing/confidential-containers-aks-security-policy?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-08-02 05:06 PM)
+            ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/aks/security-controls-policy (2024-12-12 05:31 AM)
+            Compliance:
+                ☐ CIS Baseline overview https://learn.microsoft.com/compliance/regulatory/offering-CIS-Benchmark?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-09-12 10:42 PM)
+                ☐ CIS Kubernetes benchmark https://learn.microsoft.com/en-us/azure/aks/cis-kubernetes (2024-10-31 05:34 AM)
+                ☐ CIS Azure Linux benchmark https://learn.microsoft.com/en-us/azure/aks/cis-azure-linux (2024-12-12 05:31 AM)
+                ☐ CIS Windows Server benchmark https://learn.microsoft.com/en-us/azure/aks/cis-windows (2024-12-12 05:31 AM)
+        Networking:
+            ☐ Networking concepts https://learn.microsoft.com/en-us/azure/aks/concepts-network (2024-12-17 10:59 PM)
+            CNI networking:
+                ☐ CNI networking overview https://learn.microsoft.com/en-us/azure/aks/concepts-network-cni-overview (2024-10-02 10:02 PM)
+                ☐ Azure CNI Overlay https://learn.microsoft.com/en-us/azure/aks/concepts-network-azure-cni-overlay (2024-08-01 08:29 PM)
+                ☐ Azure CNI Pod subnet https://learn.microsoft.com/en-us/azure/aks/concepts-network-azure-cni-pod-subnet (2024-08-15 05:00 PM)
+                ☐ Legacy CNI options https://learn.microsoft.com/en-us/azure/aks/concepts-network-legacy-cni (2024-09-16 10:00 PM)
+            ☐ IP address planning https://learn.microsoft.com/en-us/azure/aks/concepts-network-ip-address-planning (2024-09-09 10:10 PM)
+            ☐ Services https://learn.microsoft.com/en-us/azure/aks/concepts-network-services (2024-09-25 09:56 PM)
+            ☐ Ingress https://learn.microsoft.com/en-us/azure/aks/concepts-network-ingress (2024-11-04 11:00 PM)
+            Egress:
+                ☐ Outbound network and FQDN rules for AKS clusters https://learn.microsoft.com/en-us/azure/aks/outbound-rules-control-egress (2024-12-11 11:00 PM)
+                ☐ Network isolated clusters https://learn.microsoft.com/en-us/azure/aks/concepts-network-isolated (2024-12-08 12:04 PM)
+        AI and machine learning:
+            ☐ Small and large language models https://learn.microsoft.com/en-us/azure/aks/concepts-ai-ml-language-models (2024-08-01 08:29 PM)
+            ☐ Fine-tuning language models https://learn.microsoft.com/en-us/azure/aks/concepts-fine-tune-language-models (2024-08-01 08:29 PM)
+            ☐ Machine learning operations (MLOps) https://learn.microsoft.com/en-us/azure/aks/concepts-machine-learning-ops (2024-10-22 10:00 PM)
+        Advanced Container Networking Services:
+            ☐ Advanced Container Networking Services (ACNS) overview https://learn.microsoft.com/en-us/azure/aks/advanced-container-networking-services-overview (2024-12-20 12:04 PM)
+            ☐ Container Network Observability overview https://learn.microsoft.com/en-us/azure/aks/container-network-observability-concepts (2024-12-20 12:04 PM)
+            ☐ Container Network Security overview https://learn.microsoft.com/en-us/azure/aks/container-network-security-concepts (2024-12-20 12:04 PM)
+        ☐ Storage https://learn.microsoft.com/en-us/azure/aks/concepts-storage (2024-12-12 05:31 AM)
+        ☐ Scaling https://learn.microsoft.com/en-us/azure/aks/concepts-scale (2024-11-07 05:31 AM)
+        Node health:
+            ☐ Node auto-repair https://learn.microsoft.com/en-us/azure/aks/node-auto-repair (2024-08-01 08:29 PM)
+            ☐ Node Problem Detector (NPD) https://learn.microsoft.com/en-us/azure/aks/node-problem-detector (2024-10-01 11:06 AM)
+        ☐ Service meshes https://learn.microsoft.com/en-us/azure/aks/servicemesh-about (2024-11-29 05:32 AM)
+        ☐ Sustainable software engineering https://learn.microsoft.com/en-us/azure/aks/concepts-sustainable-software-engineering (2024-08-01 08:29 PM)
+        ☐ Preview API life cycle https://learn.microsoft.com/en-us/azure/aks/concepts-preview-api-life-cycle (2024-10-31 05:34 AM)
+        ☐ Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-overview (2024-09-24 05:00 PM)
+        ☐ GitOps https://learn.microsoft.com/azure/azure-arc/kubernetes/conceptual-gitops-flux2?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-22 05:55 AM)
+    Best practices:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/aks/best-practices (2024-10-31 05:34 AM)
+        ☐ Baseline architecture for an AKS cluster https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-09-12 04:46 PM)
+        ☐ Cost optimization https://learn.microsoft.com/en-us/azure/aks/best-practices-cost (2024-12-11 11:00 PM)
+        High availability disaster recovery:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/aks/ha-dr-overview (2024-08-01 08:29 PM)
+            Solutions:
+                ☐ Active-active https://learn.microsoft.com/en-us/azure/aks/active-active-solution (2024-08-01 08:29 PM)
+                ☐ Active-passive https://learn.microsoft.com/en-us/azure/aks/active-passive-solution (2024-08-01 08:29 PM)
+                ☐ Passive-cold https://learn.microsoft.com/en-us/azure/aks/passive-cold-solution (2024-08-01 08:29 PM)
+        ☐ Deployment and cluster reliability https://learn.microsoft.com/en-us/azure/aks/best-practices-app-cluster-reliability (2024-10-31 05:34 AM)
+        Security:
+            ☐ Authentication and authorization https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-identity (2024-10-31 05:34 AM)
+            ☐ Cluster security https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-cluster-security (2024-11-10 12:11 PM)
+            ☐ Container image management https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-container-image-management (2024-10-31 05:34 AM)
+        Cluster operations:
+            ☐ Multi-tenancy and cluster isolation https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-cluster-isolation (2024-10-31 05:34 AM)
+            ☐ Basic scheduler features https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-scheduler (2024-10-31 05:34 AM)
+            ☐ Advanced scheduler features https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-advanced-scheduler (2024-10-31 05:34 AM)
+            ☐ Networking https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-network (2024-10-31 05:34 AM)
+            ☐ Storage https://learn.microsoft.com/en-us/azure/aks/operator-best-practices-storage (2024-12-12 05:31 AM)
+        Performance and scaling:
+            ☐ For small to medium workloads https://learn.microsoft.com/en-us/azure/aks/best-practices-performance-scale (2024-10-31 05:34 AM)
+            ☐ For large workloads https://learn.microsoft.com/en-us/azure/aks/best-practices-performance-scale-large (2024-11-21 05:31 AM)
+        Monitoring and troubleshooting:
+            ☐ Proactive monitoring https://learn.microsoft.com/en-us/azure/aks/best-practices-monitoring-proactive (2024-11-10 12:11 PM)
+        Application development:
+            ☐ Resource management https://learn.microsoft.com/en-us/azure/aks/developer-best-practices-resource-management (2024-10-31 05:34 AM)
+            ☐ Pod security https://learn.microsoft.com/en-us/azure/aks/developer-best-practices-pod-security (2024-10-31 05:34 AM)
+        Networking:
+            ☐ TCP Keepalive https://learn.microsoft.com/en-us/azure/aks/improve-network-fault-tolerance-in-aks-using-tcp-keepalive (2024-12-03 06:01 PM)
+        ☐ Back up and recover cluster https://learn.microsoft.com/azure/backup/azure-kubernetes-service-backup-overview?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM)
+        ☐ Windows containers https://learn.microsoft.com/en-us/azure/aks/windows-best-practices (2024-08-01 08:29 PM)
+        ☐ Enforce best practices with deployment safeguards https://learn.microsoft.com/en-us/azure/aks/deployment-safeguards (2024-08-01 08:29 PM)
+        AI and machine learning:
+            ☐ Machine learning operations (MLOps) https://learn.microsoft.com/en-us/azure/aks/best-practices-ml-ops (2024-10-22 10:00 PM)
+    How-to guides:
+        AKS extension for Visual Studio Code:
+            ☐ Attach to Azure Container Registry (ACR) https://learn.microsoft.com/en-us/azure/aks/aks-extension-attach-azure-container-registry (2024-08-01 08:29 PM)
+            ☐ Create a Dockerfile https://learn.microsoft.com/en-us/azure/aks/aks-extension-draft-dockerfile (2024-08-01 08:29 PM)
+            ☐ Create a Kubernetes deployment https://learn.microsoft.com/en-us/azure/aks/aks-extension-draft-deployment (2024-08-01 08:29 PM)
+            ☐ Create a GitHub Workflow https://learn.microsoft.com/en-us/azure/aks/aks-extension-draft-github-workflow (2024-08-01 08:29 PM)
+            ☐ Use AKS plugins for GitHub Copilot for Azure https://learn.microsoft.com/en-us/azure/aks/aks-extension-ghcopilot-plugins (2024-10-29 05:04 PM)
+            ☐ Deploy and test inference models with the AI toolchain operator (KAITO) in Visual Studio Code https://learn.microsoft.com/en-us/azure/aks/aks-extension-kaito (2024-12-09 05:36 AM)
+        Migration:
+            ☐ Plan and execute a migration https://learn.microsoft.com/en-us/azure/aks/aks-migration (2024-10-31 05:34 AM)
+            ☐ Tomcat https://learn.microsoft.com/azure/developer/java/migration/migrate-tomcat-to-containers-on-azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-25 05:59 PM)
+            ☐ Wildfly https://learn.microsoft.com/azure/developer/java/migration/migrate-wildfly-to-wildfly-on-azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-30 05:01 PM)
+            ☐ WebLogic https://learn.microsoft.com/azure/developer/java/migration/migrate-weblogic-to-wildfly-on-azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2023-06-13 11:16 PM)
+            ☐ WebSphere https://learn.microsoft.com/azure/developer/java/migration/migrate-websphere-to-wildfly-on-azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-30 05:01 PM)
+            ☐ JBoss EAP https://learn.microsoft.com/azure/developer/java/migration/migrate-jboss-eap-to-wildfly-on-azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-30 05:01 PM)
+            ☐ Java web app containerization and migration https://learn.microsoft.com/azure/migrate/tutorial-app-containerization-java-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-16 06:03 PM)
+            ☐ ASP.NET app containerization and migration https://learn.microsoft.com/azure/migrate/tutorial-app-containerization-aspnet-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-16 06:03 PM)
+        Clusters:
+            ☐ Deploy a cluster in an Azure Extended Zone https://learn.microsoft.com/en-us/azure/aks/extended-zones (2024-10-02 10:02 PM)
+            ☐ Deploy a cluster with a fully managed resource group https://learn.microsoft.com/en-us/azure/aks/node-resource-group-lockdown (2024-10-31 05:34 AM)
+            ☐ Scale an AKS cluster https://learn.microsoft.com/en-us/azure/aks/scale-cluster (2024-10-31 05:34 AM)
+            ☐ Stop and start an AKS cluster https://learn.microsoft.com/en-us/azure/aks/start-stop-cluster (2024-10-31 05:34 AM)
+            ☐ Delete an AKS cluster https://learn.microsoft.com/en-us/azure/aks/delete-cluster (2024-08-01 08:29 PM)
+            Configure private clusters:
+                ☐ Create a private cluster https://learn.microsoft.com/en-us/azure/aks/private-clusters (2024-11-01 09:59 PM)
+                ☐ Access a private cluster remotely https://learn.microsoft.com/en-us/azure/aks/access-private-cluster (2024-11-22 11:01 PM)
+            Integration:
+                ☐ Integrate ACR with an AKS cluster https://learn.microsoft.com/en-us/azure/aks/cluster-container-registry-integration (2024-11-08 06:01 PM)
+                Use cluster extensions:
+                    ☐ About cluster extensions https://learn.microsoft.com/en-us/azure/aks/cluster-extensions (2024-08-01 08:29 PM)
+                    ☐ Use the Azure CLI https://learn.microsoft.com/en-us/azure/aks/deploy-extensions-az-cli (2024-08-01 08:29 PM)
+                ☐ Use the AKS Visual Studio Code extension https://learn.microsoft.com/en-us/azure/aks/aks-extension-vs-code (2024-10-31 05:34 AM)
+        Nodes:
+            Cluster nodes:
+                ☐ Custom node configuration https://learn.microsoft.com/en-us/azure/aks/custom-node-configuration (2024-11-10 12:11 PM)
+                ☐ Abort long running operations https://learn.microsoft.com/en-us/azure/aks/manage-abort-operations (2024-12-12 05:31 AM)
+                ☐ Stop/deallocate nodes with Scale-down Mode https://learn.microsoft.com/en-us/azure/aks/scale-down-mode (2024-10-31 05:34 AM)
+                ☐ Connect securely to cluster nodes https://learn.microsoft.com/en-us/azure/aks/node-access (2024-08-01 08:29 PM)
+                ☐ Manage SSH key https://learn.microsoft.com/en-us/azure/aks/manage-ssh-node-access (2024-10-31 05:34 AM)
+                ☐ Deploy trusted launch on AKS https://learn.microsoft.com/en-us/azure/aks/use-trusted-launch (2024-12-16 11:01 PM)
+            Node pools:
+                ☐ Create node pools https://learn.microsoft.com/en-us/azure/aks/create-node-pools (2024-10-31 05:34 AM)
+                ☐ Manage node pools https://learn.microsoft.com/en-us/azure/aks/manage-node-pools (2024-12-03 11:00 PM)
+                ☐ Reduce image pull time with Artifact Streaming on AKS https://learn.microsoft.com/en-us/azure/aks/artifact-streaming (2024-08-01 08:29 PM)
+                ☐ Use generation 2 VMs https://learn.microsoft.com/en-us/azure/aks/generation-2-vm (2024-10-31 05:34 AM)
+                ☐ Add an Azure Spot node pool https://learn.microsoft.com/en-us/azure/aks/spot-node-pool (2024-10-31 05:34 AM)
+                ☐ Node pool snapshot https://learn.microsoft.com/en-us/azure/aks/node-pool-snapshot (2024-08-01 08:29 PM)
+                ☐ Add a Virtual Machines node pool https://learn.microsoft.com/en-us/azure/aks/virtual-machines-node-pools (2024-12-04 05:30 AM)
+                ☐ Use system node pools https://learn.microsoft.com/en-us/azure/aks/use-system-pools (2024-10-31 05:34 AM)
+                ☐ Resize node pools https://learn.microsoft.com/en-us/azure/aks/resize-node-pool (2024-12-09 11:00 PM)
+                ☐ Delete node pools https://learn.microsoft.com/en-us/azure/aks/delete-node-pool (2024-12-03 11:00 PM)
+            Virtual nodes:
+                ☐ Use virtual nodes https://learn.microsoft.com/en-us/azure/aks/virtual-nodes (2024-10-30 09:59 PM)
+                ☐ Use the Azure CLI https://learn.microsoft.com/en-us/azure/aks/virtual-nodes-cli (2024-12-09 06:02 PM)
+                ☐ Use the Azure portal https://learn.microsoft.com/en-us/azure/aks/virtual-nodes-portal (2024-08-01 08:29 PM)
+        Workloads:
+            Stateful workloads:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/aks/stateful-workloads-overview (2024-12-13 11:02 PM)
+                Deploy a MongoDB cluster:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/aks/mongodb-overview (2024-10-31 05:04 PM)
+                    ☐ Create MongoDB infrastructure https://learn.microsoft.com/en-us/azure/aks/create-mongodb-infrastructure (2024-11-07 12:05 PM)
+                    ☐ Deploy MongoDB cluster https://learn.microsoft.com/en-us/azure/aks/deploy-mongodb-cluster (2024-10-31 05:04 PM)
+                Deploy a highly available PostgreSQL database:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/aks/postgresql-ha-overview (2024-10-31 05:34 AM)
+                    ☐ Create infrastructure resources https://learn.microsoft.com/en-us/azure/aks/create-postgresql-ha (2024-11-07 12:05 PM)
+                    ☐ Deploy and test PostgreSQL https://learn.microsoft.com/en-us/azure/aks/deploy-postgresql-ha (2024-10-31 05:34 AM)
+                Deploy a Valkey cluster:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/aks/valkey-overview (2024-10-31 05:34 AM)
+                    ☐ Create Valkey infrastructure resources https://learn.microsoft.com/en-us/azure/aks/create-valkey-infrastructure (2024-11-07 12:05 PM)
+                    ☐ Configure and deploy a Valkey cluster https://learn.microsoft.com/en-us/azure/aks/deploy-valkey-cluster (2024-12-13 11:02 PM)
+                    ☐ Test Valkey with Locust https://learn.microsoft.com/en-us/azure/aks/validate-valkey-cluster (2024-12-16 11:01 PM)
+                    ☐ Test resiliency during an AKS node pool upgrade https://learn.microsoft.com/en-us/azure/aks/upgrade-valkey-aks-nodepool (2024-12-16 11:01 PM)
+            GPU workloads:
+                ☐ Use GPUs https://learn.microsoft.com/en-us/azure/aks/gpu-cluster (2024-10-31 05:34 AM)
+                ☐ Use Windows GPUs https://learn.microsoft.com/en-us/azure/aks/use-windows-gpu (2024-10-31 05:34 AM)
+                ☐ Multi-instance GPU node pool https://learn.microsoft.com/en-us/azure/aks/gpu-multi-instance (2024-11-22 11:01 PM)
+            Vertical Pod Autoscaler:
+                ☐ Vertical Pod Autoscaler overview https://learn.microsoft.com/en-us/azure/aks/vertical-pod-autoscaler (2024-08-01 08:29 PM)
+                ☐ Use the Vertical Pod Autoscaler on AKS https://learn.microsoft.com/en-us/azure/aks/use-vertical-pod-autoscaler (2024-10-08 10:01 PM)
+                ☐ Vertical Pod Autoscaler API reference https://learn.microsoft.com/en-us/azure/aks/vertical-pod-autoscaler-api-reference (2024-10-31 05:34 AM)
+            ☐ Configure Metrics Server VPA https://learn.microsoft.com/en-us/azure/aks/use-metrics-server-vertical-pod-autoscaler (2024-11-11 10:57 PM)
+            ☐ Proximity placement groups https://learn.microsoft.com/en-us/azure/aks/reduce-latency-ppg (2024-10-31 05:34 AM)
+            Cluster autoscaler:
+                ☐ Cluster autoscaler overview https://learn.microsoft.com/en-us/azure/aks/cluster-autoscaler-overview (2024-10-30 09:59 PM)
+                ☐ Use the cluster autoscaler on AKS https://learn.microsoft.com/en-us/azure/aks/cluster-autoscaler (2024-10-31 05:34 AM)
+            ☐ Node autoprovision https://learn.microsoft.com/en-us/azure/aks/node-autoprovision (2024-12-10 12:05 PM)
+            Availability zones:
+                ☐ Availability zones overview https://learn.microsoft.com/en-us/azure/aks/availability-zones-overview (2024-10-31 05:34 AM)
+                ☐ Create a cluster with availability zones https://learn.microsoft.com/en-us/azure/aks/availability-zones (2024-10-31 05:34 AM)
+            ☐ Zone resiliency https://learn.microsoft.com/en-us/azure/aks/aks-zone-resiliency (2024-08-01 08:29 PM)
+            ☐ Propagate Kubernetes resources across multiple clusters https://learn.microsoft.com/azure/kubernetes-fleet/resource-propagation?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-19 06:01 PM)
+            ☐ Deploy SpinKube to run serverless Wasm workloads https://learn.microsoft.com/en-us/azure/aks/deploy-spinkube (2024-11-11 10:57 PM)
+        Cluster management:
+            ☐ Azure portal Kubernetes resource view https://learn.microsoft.com/en-us/azure/aks/kubernetes-portal (2024-08-27 05:04 PM)
+            ☐ Tags https://learn.microsoft.com/en-us/azure/aks/use-tags (2024-10-31 05:34 AM)
+            ☐ Labels https://learn.microsoft.com/en-us/azure/aks/use-labels (2024-10-31 05:34 AM)
+            ☐ Node taints https://learn.microsoft.com/en-us/azure/aks/use-node-taints (2024-10-31 05:34 AM)
+        Security:
+            Container security:
+                ☐ Defender for Containers overview https://learn.microsoft.com/azure/defender-for-cloud/defender-for-containers-introduction?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-09 12:05 PM)
+                ☐ Enable Defender for Containers https://learn.microsoft.com/azure/defender-for-cloud/defender-for-containers-enable?pivots=defender-for-container-aks&toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-29 05:01 PM)
+                ☐ Confidential Containers overview https://learn.microsoft.com/en-us/azure/aks/confidential-containers-overview (2024-10-31 05:34 AM)
+                ☐ Deploy Confidential Containers with default policy https://learn.microsoft.com/en-us/azure/aks/deploy-confidential-containers-default-policy (2024-08-01 08:29 PM)
+            Image security:
+                ☐ Validate signed images with Image Integrity https://learn.microsoft.com/en-us/azure/aks/image-integrity (2024-08-01 08:29 PM)
+                ☐ Remove vulnerable images with ImageCleaner https://learn.microsoft.com/en-us/azure/aks/image-cleaner (2024-12-05 11:00 PM)
+                ☐ Scan images in your CI/CD Workflow https://learn.microsoft.com/azure/defender-for-cloud/defender-for-container-registries-cicd?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-17 06:03 PM)
+                ☐ Scan images in ACR registries https://learn.microsoft.com/azure/defender-for-cloud/defender-for-containers-introduction?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-09 12:05 PM)
+            Cluster security:
+                ☐ Azure kubelogin https://learn.microsoft.com/en-us/azure/aks/kubelogin-authentication (2024-12-12 05:31 AM)
+                ☐ Use managed identities https://learn.microsoft.com/en-us/azure/aks/use-managed-identity (2024-12-12 05:31 AM)
+                ☐ Create a service principal https://learn.microsoft.com/en-us/azure/aks/kubernetes-service-principal (2024-12-12 05:31 AM)
+                ☐ Enable access to AKS clusters using Trusted Access https://learn.microsoft.com/en-us/azure/aks/trusted-access-feature (2024-11-05 10:59 PM)
+                ☐ Limit access to cluster configuration file https://learn.microsoft.com/en-us/azure/aks/control-kubeconfig-access (2024-10-31 05:34 AM)
+                ☐ Define API server authorized IP ranges https://learn.microsoft.com/en-us/azure/aks/api-server-authorized-ip-ranges (2024-10-31 05:34 AM)
+                ☐ Manage cluster certificates and rotation https://learn.microsoft.com/en-us/azure/aks/certificate-rotation (2024-12-12 05:31 AM)
+                ☐ Use custom certificate authorities https://learn.microsoft.com/en-us/azure/aks/custom-certificate-authority (2024-12-04 11:02 PM)
+                ☐ Use Azure Policy https://learn.microsoft.com/en-us/azure/aks/use-azure-policy (2024-08-01 08:29 PM)
+                ☐ Control deployments with Azure Policy https://learn.microsoft.com/azure/governance/policy/concepts/policy-for-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-22 12:11 PM)
+                ☐ Create an OIDC Issuer for your cluster https://learn.microsoft.com/en-us/azure/aks/use-oidc-issuer (2024-12-12 05:31 AM)
+                ☐ Use KMS etcd encryption https://learn.microsoft.com/en-us/azure/aks/use-kms-etcd-encryption (2024-12-03 05:31 AM)
+                ☐ Secure container access to resources https://learn.microsoft.com/en-us/azure/aks/secure-container-access (2024-12-05 05:31 AM)
+            Node security:
+                ☐ BYOK for Azure managed disks https://learn.microsoft.com/en-us/azure/aks/azure-disk-customer-managed-keys (2024-12-12 05:31 AM)
+                ☐ Enable host-based encryption https://learn.microsoft.com/en-us/azure/aks/enable-host-encryption (2024-12-12 05:31 AM)
+                ☐ Enable FIPS https://learn.microsoft.com/en-us/azure/aks/enable-fips-nodes (2024-12-12 05:31 AM)
+                ☐ Use Confidential Virtual Machines https://learn.microsoft.com/en-us/azure/aks/use-cvm (2024-10-31 05:34 AM)
+                ☐ Use Dedicated Hosts with AKS https://learn.microsoft.com/en-us/azure/aks/use-azure-dedicated-hosts (2024-12-12 05:31 AM)
+                ☐ Restrict access to IMDS https://learn.microsoft.com/en-us/azure/aks/imds-restriction (2024-12-03 06:01 PM)
+            Authentication and authorization:
+                ☐ Use managed identities https://learn.microsoft.com/en-us/azure/aks/use-managed-identity (2024-12-12 05:31 AM)
+                ☐ Create service principal https://learn.microsoft.com/en-us/azure/aks/kubernetes-service-principal (2024-12-12 05:31 AM)
+                Enable Microsoft Entra integration:
+                    AKS-managed Microsoft Entra ID:
+                        ☐ Enable AKS-managed Microsoft Entra integration https://learn.microsoft.com/en-us/azure/aks/enable-authentication-microsoft-entra-id (2024-10-31 05:34 AM)
+                        ☐ Manage local accounts https://learn.microsoft.com/en-us/azure/aks/manage-local-accounts-managed-azure-ad (2024-12-12 05:31 AM)
+                        ☐ Cluster access control with Conditional Access https://learn.microsoft.com/en-us/azure/aks/access-control-managed-azure-ad (2024-12-12 05:31 AM)
+                        ☐ Cluster access control with Privileged Identity Management https://learn.microsoft.com/en-us/azure/aks/privileged-identity-management (2024-09-03 10:05 PM)
+                    ☐ Microsoft Entra integration (legacy) https://learn.microsoft.com/en-us/azure/aks/azure-ad-integration-cli (2024-10-31 05:34 AM)
+                    ☐ Enable GMSA integration https://learn.microsoft.com/en-us/azure/aks/use-group-managed-service-accounts (2024-10-31 05:34 AM)
+                ☐ Use Azure RBAC for Kubernetes authorization https://learn.microsoft.com/en-us/azure/aks/manage-azure-rbac (2024-11-08 06:01 PM)
+                ☐ Use Kubernetes RBAC with Microsoft Entra integration https://learn.microsoft.com/en-us/azure/aks/azure-ad-rbac (2024-10-31 05:34 AM)
+                ☐ Update cluster credentials https://learn.microsoft.com/en-us/azure/aks/update-credentials (2024-10-31 05:34 AM)
+                ☐ Limit access to cluster configuration file https://learn.microsoft.com/en-us/azure/aks/control-kubeconfig-access (2024-10-31 05:34 AM)
+                ☐ Control deployments with Azure Policy https://learn.microsoft.com/azure/governance/policy/concepts/policy-for-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-22 12:11 PM)
+            Application security:
+                ☐ Create an OIDC Issuer for your cluster https://learn.microsoft.com/en-us/azure/aks/use-oidc-issuer (2024-12-12 05:31 AM)
+                Workload identity:
+                    ☐ Workload identity overview https://learn.microsoft.com/en-us/azure/aks/workload-identity-overview (2024-12-12 05:31 AM)
+                    ☐ Deploy and configure workload identity for a cluster https://learn.microsoft.com/en-us/azure/aks/workload-identity-deploy-cluster (2024-12-12 05:31 AM)
+                    ☐ Configure cross-tenant workload identity https://learn.microsoft.com/en-us/azure/aks/workload-identity-cross-tenant (2024-10-31 05:34 AM)
+                    ☐ Migrate your app from pod identity to workload identity https://learn.microsoft.com/en-us/azure/aks/workload-identity-migrate-from-pod-identity (2024-12-12 05:31 AM)
+                ☐ Microsoft Entra pod identity https://learn.microsoft.com/en-us/azure/aks/use-azure-ad-pod-identity (2024-10-31 05:34 AM)
+                ☐ Pod Sandboxing https://learn.microsoft.com/en-us/azure/aks/use-pod-sandboxing (2024-12-12 06:01 PM)
+                ☐ Secure pod traffic with network policies https://learn.microsoft.com/en-us/azure/aks/use-network-policies (2024-12-20 12:04 PM)
+                ☐ Pod security policies https://learn.microsoft.com/en-us/azure/aks/use-pod-security-policies (2024-10-31 05:34 AM)
+                ☐ Pod Security Admission https://learn.microsoft.com/en-us/azure/aks/use-psa (2024-12-12 05:31 AM)
+                Secrets Store CSI Driver:
+                    ☐ Configure TLS for NGINX Ingress controller https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-nginx-tls (2024-08-01 08:29 PM)
+                    Azure Key Vault provider with Secrets Store CSI Driver:
+                        ☐ 1 - Configure Secrets Store CSI Driver https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-driver (2024-09-10 10:02 PM)
+                        ☐ 2 - Provide Azure Key Vault access https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-identity-access (2024-12-16 12:05 PM)
+                        ☐ 3 - Apply extra configurations or perform troubleshooting https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-configuration-options (2024-08-01 08:29 PM)
+        Configure networking:
+            CNI:
+                ☐ Use Azure CNI Overlay https://learn.microsoft.com/en-us/azure/aks/azure-cni-overlay (2024-12-20 12:04 PM)
+                ☐ Use Azure CNI for dynamic IP allocation https://learn.microsoft.com/en-us/azure/aks/configure-azure-cni-dynamic-ip-allocation (2024-09-26 05:33 AM)
+                ☐ Use Azure CNI VNet - Static Block Allocation (Preview) https://learn.microsoft.com/en-us/azure/aks/configure-azure-cni-static-block-allocation (2024-09-05 09:55 PM)
+                ☐ Use Azure CNI Powered by Cilium https://learn.microsoft.com/en-us/azure/aks/azure-cni-powered-by-cilium (2024-12-20 12:04 PM)
+                ☐ Use kubenet https://learn.microsoft.com/en-us/azure/aks/configure-kubenet (2024-11-07 12:05 PM)
+                ☐ Use kubenet with dual-stack networking https://learn.microsoft.com/en-us/azure/aks/configure-kubenet-dual-stack (2024-09-16 10:00 PM)
+                ☐ Use Azure CNI https://learn.microsoft.com/en-us/azure/aks/configure-azure-cni (2024-12-11 11:00 PM)
+                ☐ Bring your own CNI https://learn.microsoft.com/en-us/azure/aks/use-byo-cni (2024-08-01 08:29 PM)
+                ☐ Upgrade AKS IPAM and dataplane https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-ipam-and-dataplane (2024-12-20 12:04 PM)
+            DNS:
+                ☐ Use a static IP address and DNS label https://learn.microsoft.com/en-us/azure/aks/static-ip (2024-08-01 08:29 PM)
+                ☐ Customize CoreDNS https://learn.microsoft.com/en-us/azure/aks/coredns-custom (2024-10-30 05:00 PM)
+            Egress:
+                ☐ Configure outbound type for AKS https://learn.microsoft.com/en-us/azure/aks/egress-outboundtype (2024-12-20 12:04 PM)
+                ☐ Use a user-defined route for egress https://learn.microsoft.com/en-us/azure/aks/egress-udr (2024-09-05 09:55 PM)
+                ☐ Use an HTTP proxy https://learn.microsoft.com/en-us/azure/aks/http-proxy (2024-12-05 05:31 AM)
+                ☐ Use a NAT Gateway https://learn.microsoft.com/en-us/azure/aks/nat-gateway (2024-10-27 11:07 AM)
+                ☐ Use instance-level public IP addresses https://learn.microsoft.com/en-us/azure/aks/use-node-public-ips (2024-11-11 10:57 PM)
+                ☐ Restrict and control cluster egress traffic https://learn.microsoft.com/en-us/azure/aks/limit-egress-traffic (2024-08-09 10:01 PM)
+                ☐ Configure Static Egress Gateway https://learn.microsoft.com/en-us/azure/aks/configure-static-egress-gateway (2024-11-06 11:00 PM)
+                ☐ Network isolated clusters https://learn.microsoft.com/en-us/azure/aks/network-isolated (2024-12-08 12:04 PM)
+            Ingress:
+                Use application routing add-on:
+                    ☐ Application routing add-on overview https://learn.microsoft.com/en-us/azure/aks/app-routing (2024-09-03 04:59 PM)
+                    ☐ Advanced application routing add-on configurations (NGINX) https://learn.microsoft.com/en-us/azure/aks/app-routing-nginx-configuration (2024-09-10 10:02 PM)
+                    ☐ Custom domain name and SSL certificate configuration https://learn.microsoft.com/en-us/azure/aks/app-routing-dns-ssl (2024-08-01 08:29 PM)
+                    ☐ Internal NGINX controller and private DNS zone https://learn.microsoft.com/en-us/azure/aks/create-nginx-ingress-private-controller (2024-11-07 12:05 PM)
+                    ☐ Monitor using Prometheus and Grafana https://learn.microsoft.com/en-us/azure/aks/app-routing-nginx-prometheus (2024-08-01 08:29 PM)
+                    ☐ Migrate from HTTP application routing to the application routing add-on https://learn.microsoft.com/en-us/azure/aks/app-routing-migration (2024-08-01 08:29 PM)
+                ☐ Use Application Gateway Ingress Controller add-on https://learn.microsoft.com/azure/application-gateway/tutorial-ingress-controller-add-on-existing?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-08-23 10:04 PM)
+                ☐ Use Istio gateway with Istio Service Mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-deploy-ingress (2024-11-05 10:59 PM)
+                ☐ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2024-08-01 08:29 PM)
+            Load balancing:
+                ☐ Create an internal load balancer https://learn.microsoft.com/en-us/azure/aks/internal-lb (2024-12-11 11:00 PM)
+                ☐ Use a Standard Load Balancer https://learn.microsoft.com/en-us/azure/aks/load-balancer-standard (2024-11-20 06:02 PM)
+                ☐ Use kube-proxy configuration (IPVS) https://learn.microsoft.com/en-us/azure/aks/configure-kube-proxy (2024-08-01 08:29 PM)
+            Security:
+                ☐ Use API Server VNet Integration https://learn.microsoft.com/en-us/azure/aks/api-server-vnet-integration (2024-11-08 10:59 PM)
+                ☐ Private Endpoint https://learn.microsoft.com/en-us/azure/aks/private-clusters#use-a-private-endpoint-connection (2024-11-01 09:59 PM)
+                ☐ Diagnose and solve UDP packet drops https://learn.microsoft.com/en-us/azure/aks/troubleshoot-udp-packet-drops (2024-11-04 11:00 PM)
+                Container Network Security:
+                    ☐ FQDN Filtering with Advanced Container Networking Services (ACNS) https://learn.microsoft.com/en-us/azure/aks/how-to-apply-fqdn-filtering-policies (2024-12-20 12:04 PM)
+        Storage:
+            CSI storage drivers:
+                ☐ CSI storage drivers overview https://learn.microsoft.com/en-us/azure/aks/csi-storage-drivers (2024-12-12 05:31 AM)
+                ☐ Migrate from in-tree to CSI driver https://learn.microsoft.com/en-us/azure/aks/csi-migrate-in-tree-volumes (2024-10-31 05:34 AM)
+            Block storage:
+                Azure Disks:
+                    ☐ Provision Azure Disk storage https://learn.microsoft.com/en-us/azure/aks/azure-csi-disk-storage-provision (2024-12-12 05:31 AM)
+                    ☐ Azure Disks CSI driver https://learn.microsoft.com/en-us/azure/aks/azure-disk-csi (2024-12-12 05:31 AM)
+                    ☐ Use Azure Premium SSD v2 disks https://learn.microsoft.com/en-us/azure/aks/use-premium-v2-disks (2024-12-12 05:31 AM)
+                    ☐ Use Azure ultra disks https://learn.microsoft.com/en-us/azure/aks/use-ultra-disks (2024-12-12 05:31 AM)
+                    ☐ Bring your own keys for disks https://learn.microsoft.com/en-us/azure/aks/azure-disk-customer-managed-keys (2024-12-12 05:31 AM)
+                    ☐ Move a persistent volume between clusters https://learn.microsoft.com/en-us/azure/aks/csi-disk-move-subscriptions (2024-12-12 05:31 AM)
+                    ☐ Use Azure Container Storage with Azure Disks https://learn.microsoft.com/azure/storage/container-storage/use-container-storage-with-managed-disks?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-09-06 10:05 PM)
+                Azure Elastic SAN:
+                    ☐ Use Azure Container Storage with Elastic SAN https://learn.microsoft.com/azure/storage/container-storage/use-container-storage-with-elastic-san?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-08-22 07:16 PM)
+                    ☐ Use Kubernetes iSCSI CSI driver https://learn.microsoft.com/azure/storage/elastic-san/elastic-san-connect-aks?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-08-01 10:22 PM)
+                Ephemeral Disk:
+                    ☐ Use Azure Container Storage with Ephemeral Disk https://learn.microsoft.com/azure/storage/container-storage/use-container-storage-with-local-disk?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-05 12:18 PM)
+            Shared file storage:
+                Azure Files storage:
+                    ☐ Azure Files CSI driver https://learn.microsoft.com/en-us/azure/aks/azure-files-csi (2024-12-12 05:31 AM)
+                    ☐ Provision Azure Files storage https://learn.microsoft.com/en-us/azure/aks/azure-csi-files-storage-provision (2024-12-12 05:31 AM)
+                Azure NetApp Files for AKS:
+                    ☐ Configure Azure NetApp Files for AKS https://learn.microsoft.com/en-us/azure/aks/azure-netapp-files (2024-12-12 05:31 AM)
+                    ☐ Provision Azure NetApp Files NFS volumes for AKS https://learn.microsoft.com/en-us/azure/aks/azure-netapp-files-nfs (2024-12-12 05:31 AM)
+                    ☐ Provision Azure NetApp Files SMB volumes for AKS https://learn.microsoft.com/en-us/azure/aks/azure-netapp-files-smb (2024-12-12 05:31 AM)
+                    ☐ Provision Azure NetApp Files dual-protocol volumes for AKS https://learn.microsoft.com/en-us/azure/aks/azure-netapp-files-dual-protocol (2024-12-12 05:31 AM)
+                    ☐ Azure Files and Azure NetApp Files comparison https://learn.microsoft.com/azure/storage/files/storage-files-netapp-comparison?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-21 05:07 PM)
+                Azure Blob storage:
+                    ☐ Azure Blob CSI driver https://learn.microsoft.com/en-us/azure/aks/azure-blob-csi (2024-12-12 05:31 AM)
+                    ☐ Provision Azure Blob storage https://learn.microsoft.com/en-us/azure/aks/azure-csi-blob-storage-provision (2024-12-12 05:31 AM)
+            Other storage options:
+                ☐ Azure HPC Cache https://learn.microsoft.com/en-us/azure/aks/azure-hpc-cache (2024-10-31 05:34 AM)
+                ☐ NFS Server - static https://learn.microsoft.com/en-us/azure/aks/azure-nfs-volume (2024-12-12 05:31 AM)
+        Configure backup:
+            ☐ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-08 06:02 PM)
+            ☐ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-08 06:02 PM)
+            ☐ Restore https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-restore?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM)
+            ☐ Manage https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-manage-backups?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-21 11:02 PM)
+        Observability:
+            ☐ Configure AKS diagnostics https://learn.microsoft.com/en-us/azure/aks/aks-diagnostics (2024-10-09 09:59 PM)
+            ☐ Enable monitoring for AKS clusters https://learn.microsoft.com/azure/azure-monitor/containers/kubernetes-monitoring-enable?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-11 11:00 PM)
+            ☐ Monitor Kubernetes object events https://learn.microsoft.com/en-us/azure/aks/events (2024-09-24 05:36 AM)
+            ☐ Monitor kube-audit events https://learn.microsoft.com/en-us/azure/aks/monitor-apiserver (2024-12-13 11:02 PM)
+            ☐ View the kubelet logs https://learn.microsoft.com/en-us/azure/aks/kubelet-logs (2024-10-31 05:34 AM)
+            Cost analysis:
+                ☐ Enable cost analysis on your cluster https://learn.microsoft.com/en-us/azure/aks/cost-analysis (2024-08-01 08:29 PM)
+            Network Observability:
+                ☐ Container Network Observability https://learn.microsoft.com/en-us/azure/aks/container-network-observability-how-to (2024-12-20 12:04 PM)
+        Service Mesh:
+            Istio service mesh AKS add-on:
+                ☐ About Istio https://learn.microsoft.com/en-us/azure/aks/istio-about (2024-11-04 11:00 PM)
+                ☐ Deploy Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-deploy-addon (2024-11-21 11:00 PM)
+                ☐ Enable native sidecar mode (Preview) https://learn.microsoft.com/en-us/azure/aks/istio-native-sidecar (2024-10-31 05:34 AM)
+                ☐ Configure Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-meshconfig (2024-10-31 05:34 AM)
+                ☐ Deploy external or internal Istio Ingress https://learn.microsoft.com/en-us/azure/aks/istio-deploy-ingress (2024-11-05 10:59 PM)
+                ☐ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2024-08-01 08:29 PM)
+                ☐ Plug-in CA certificates for Istio https://learn.microsoft.com/en-us/azure/aks/istio-plugin-ca (2024-08-01 08:29 PM)
+                ☐ Upgrade Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-upgrade (2024-10-31 05:34 AM)
+                ☐ Istio service mesh add-on support policy https://learn.microsoft.com/en-us/azure/aks/istio-support-policy (2024-10-31 05:34 AM)
+                ☐ Istio service mesh add-on performance https://learn.microsoft.com/en-us/azure/aks/istio-scale (2024-10-31 05:34 AM)
+                ☐ Latency comparison for Istio https://learn.microsoft.com/en-us/azure/aks/istio-latency (2024-10-31 05:34 AM)
+                ☐ Telemetry API for Istio service mesh https://learn.microsoft.com/en-us/azure/aks/istio-telemetry (2024-10-31 05:34 AM)
+            Open Service Mesh AKS add-on:
+                ☐ About Open Service Mesh https://learn.microsoft.com/en-us/azure/aks/open-service-mesh-about (2024-10-31 05:34 AM)
+                ☐ Migration Guidance to Istio AKS add-on https://learn.microsoft.com/en-us/azure/aks/open-service-mesh-istio-migration-guidance (2024-10-31 05:34 AM)
+                ☐ Use the Azure CLI https://learn.microsoft.com/en-us/azure/aks/open-service-mesh-deploy-addon-az-cli (2024-10-31 05:34 AM)
+                ☐ Use Bicep template https://learn.microsoft.com/en-us/azure/aks/open-service-mesh-deploy-addon-bicep (2024-10-31 05:34 AM)
+                ☐ Install the OSM CLI https://learn.microsoft.com/en-us/azure/aks/open-service-mesh-binary (2024-10-31 05:34 AM)
+                ☐ Open Service Mesh integrations https://learn.microsoft.com/en-us/azure/aks/open-service-mesh-integrations (2024-10-31 05:34 AM)
+                ☐ Troubleshoot Open Service Mesh https://learn.microsoft.com/en-us/azure/aks/open-service-mesh-troubleshoot (2024-10-31 05:34 AM)
+                ☐ Uninstall the Open Service Mesh AKS add-on https://learn.microsoft.com/en-us/azure/aks/open-service-mesh-uninstall-add-on (2024-10-31 05:34 AM)
+        Scaling:
+            Vertical Pod Autoscaler:
+                ☐ Vertical Pod Autoscaler overview https://learn.microsoft.com/en-us/azure/aks/vertical-pod-autoscaler (2024-08-01 08:29 PM)
+                ☐ Use the Vertical Pod Autoscaler on AKS https://learn.microsoft.com/en-us/azure/aks/use-vertical-pod-autoscaler (2024-10-08 10:01 PM)
+                ☐ Vertical Pod Autoscaler API reference https://learn.microsoft.com/en-us/azure/aks/vertical-pod-autoscaler-api-reference (2024-10-31 05:34 AM)
+            ☐ Configure Metrics Server VPA https://learn.microsoft.com/en-us/azure/aks/use-metrics-server-vertical-pod-autoscaler (2024-11-11 10:57 PM)
+            ☐ Proximity placement groups https://learn.microsoft.com/en-us/azure/aks/reduce-latency-ppg (2024-10-31 05:34 AM)
+            Cluster autoscaler:
+                ☐ Cluster autoscaler overview https://learn.microsoft.com/en-us/azure/aks/cluster-autoscaler-overview (2024-10-30 09:59 PM)
+                ☐ Use the cluster autoscaler on AKS https://learn.microsoft.com/en-us/azure/aks/cluster-autoscaler (2024-10-31 05:34 AM)
+            Kubernetes Event-driven Autoscaler (KEDA) add-on:
+                ☐ About Kubernetes Event-driven Autoscaler (KEDA) https://learn.microsoft.com/en-us/azure/aks/keda-about (2024-11-06 11:00 PM)
+                Enable KEDA add-on for your cluster:
+                    ☐ Use an ARM template https://learn.microsoft.com/en-us/azure/aks/keda-deploy-add-on-arm (2024-08-06 05:07 PM)
+                    ☐ Use the Azure CLI https://learn.microsoft.com/en-us/azure/aks/keda-deploy-add-on-cli (2024-10-31 05:34 AM)
+                    ☐ Enable on an existing cluster using the Azure portal https://learn.microsoft.com/en-us/azure/aks/enable-keda-existing-cluster (2024-09-30 10:00 PM)
+                ☐ Securely scale your applications using the Kubernetes Event-driven Autoscaling (KEDA) add-on and workload identity https://learn.microsoft.com/en-us/azure/aks/keda-workload-identity (2024-08-01 08:29 PM)
+                ☐ Kubernetes Event-driven Autoscaler (KEDA) integrations https://learn.microsoft.com/en-us/azure/aks/keda-integrations (2024-10-31 05:34 AM)
+                ☐ Troubleshoot Kubernetes Event-driven Autoscaler (KEDA) https://learn.microsoft.com/troubleshoot/azure/azure-kubernetes/troubleshoot-kubernetes-event-driven-autoscaling-add-on?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-08-13 09:01 AM)
+        Upgrade:
+            ☐ Upgrade options https://learn.microsoft.com/en-us/azure/aks/upgrade-cluster (2024-10-31 05:34 AM)
+            Perform manual upgrades:
+                ☐ Upgrade an AKS cluster https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-cluster (2024-11-19 06:01 PM)
+                ☐ Orchestrate upgrade across multiple clusters https://learn.microsoft.com/azure/kubernetes-fleet/update-orchestration?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-24 12:06 PM)
+                ☐ Upgrade node OS images https://learn.microsoft.com/en-us/azure/aks/node-image-upgrade (2024-09-23 10:01 PM)
+                ☐ Customize node surge upgrade https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-cluster#customize-node-surge-upgrade (2024-11-19 06:01 PM)
+                ☐ Process node OS updates https://learn.microsoft.com/en-us/azure/aks/node-updates-kured (2024-10-31 05:34 AM)
+            Configure automatic upgrades:
+                ☐ Automatically upgrade an AKS cluster https://learn.microsoft.com/en-us/azure/aks/auto-upgrade-cluster (2024-09-24 05:00 PM)
+                ☐ Use Planned Maintenance to schedule and control upgrades https://learn.microsoft.com/en-us/azure/aks/planned-maintenance (2024-11-06 11:00 PM)
+                ☐ Automatically upgrade AKS cluster node OS images https://learn.microsoft.com/en-us/azure/aks/auto-upgrade-node-os-image (2024-12-04 11:02 PM)
+                ☐ Upgrade node OS images automatically with GitHub Actions https://learn.microsoft.com/en-us/azure/aks/node-upgrade-github-actions (2024-10-31 05:34 AM)
+                ☐ Stop cluster upgrades automatically on API breaking changes https://learn.microsoft.com/en-us/azure/aks/stop-cluster-upgrade-api-breaking-changes (2024-10-31 05:34 AM)
+        Azure Linux container host for AKS:
+            ☐ Use Azure Linux for AKS https://learn.microsoft.com/en-us/azure/aks/use-azure-linux (2024-11-06 05:31 AM)
+            ☐ Azure Linux AKS partner solutions https://learn.microsoft.com/en-us/azure/aks/azure-linux-aks-partner-solutions (2024-12-03 11:00 PM)
+        Windows Server containers:
+            ☐ Windows Server containers FAQ https://learn.microsoft.com/en-us/azure/aks/windows-faq (2024-09-16 10:00 PM)
+            ☐ Connect remotely https://learn.microsoft.com/en-us/azure/aks/rdp (2024-10-31 05:34 AM)
+            ☐ Use HostProcess containers https://learn.microsoft.com/en-us/azure/aks/use-windows-hpc (2024-10-31 05:34 AM)
+            ☐ Use Windows Annual Channel for Containers https://learn.microsoft.com/en-us/azure/aks/windows-annual-channel (2024-10-30 09:59 PM)
+            ☐ Upgrade from Windows Server 2019 to 2022 https://learn.microsoft.com/en-us/azure/aks/upgrade-windows-2019-2022 (2024-10-31 05:34 AM)
+            ☐ Create Dockerfiles for Windows Server containers https://learn.microsoft.com/virtualization/windowscontainers/manage-docker/manage-windows-dockerfile?context=/azure/aks/context/aks-context (2024-10-17 09:35 AM)
+            ☐ Optimize Dockerfiles for Windows Server containers https://learn.microsoft.com/virtualization/windowscontainers/manage-docker/optimize-windows-dockerfile?context=/azure/aks/context/aks-context (2024-10-17 09:35 AM)
+            ☐ Windows AKS partner solutions https://learn.microsoft.com/en-us/azure/aks/windows-aks-partner-solutions (2024-10-31 05:34 AM)
+            ☐ Windows AKS customer stories https://learn.microsoft.com/en-us/azure/aks/windows-aks-customer-stories (2024-10-31 05:34 AM)
+            ☐ Migration and modernization solutions for Windows containers on AKS https://learn.microsoft.com/en-us/azure/aks/windows-aks-migration-modernization-solutions (2024-10-31 05:34 AM)
+            ☐ Use Azure Hybrid Benefit https://learn.microsoft.com/en-us/azure/aks/azure-hybrid-benefit (2024-10-31 05:34 AM)
+        Develop and run applications:
+            ☐ Install existing applications with Helm https://learn.microsoft.com/en-us/azure/aks/kubernetes-helm (2024-10-31 05:34 AM)
+            ☐ Use Bridge to Kubernetes with Visual Studio Code https://learn.microsoft.com/visualstudio/bridge/bridge-to-kubernetes-vs-code?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-25 01:04 AM)
+            ☐ Use Bridge to Kubernetes with Visual Studio https://learn.microsoft.com/visualstudio/bridge/bridge-to-kubernetes-vs?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-25 01:04 AM)
+            ☐ Use OpenFaaS https://learn.microsoft.com/en-us/azure/aks/openfaas (2024-10-09 05:32 AM)
+            ☐ Create containerized app with Draft https://learn.microsoft.com/en-us/azure/aks/draft (2024-10-31 05:34 AM)
+            ☐ Build Django app with PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/tutorial-django-aks-database?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-19 12:13 PM)
+            ☐ Build Java app with WebSphere Liberty or Open Liberty https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-liberty-app (2024-12-05 06:03 PM)
+            ☐ Build Java app with WebLogic Server https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-wls-app (2024-11-03 12:04 PM)
+            ☐ Build Java app with Quarkus https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-quarkus-app (2024-12-17 10:59 PM)
+            ☐ Build WordPress app with MySQL https://learn.microsoft.com/azure/mysql/flexible-server/tutorial-deploy-wordpress-on-aks?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-02 11:02 PM)
+            ☐ Azure API Management https://learn.microsoft.com/azure/api-management/api-management-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-08-02 11:27 AM)
+            Deploy Kubernetes applications:
+                ☐ Deploy Kubernetes applications from Azure Marketplace https://learn.microsoft.com/en-us/azure/aks/deploy-marketplace (2024-10-15 10:00 PM)
+                ☐ Deploy Kubernetes applications with ARM template https://learn.microsoft.com/en-us/azure/aks/deploy-application-template (2024-08-01 08:29 PM)
+                ☐ Deploy Kubernetes applications with Azure CLI https://learn.microsoft.com/en-us/azure/aks/deploy-application-az-cli (2024-10-31 10:00 PM)
+            ☐ Connect an AKS app to Azure SQL Database https://learn.microsoft.com/azure/service-connector/tutorial-python-aks-sql-database-connection-string?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-13 05:38 AM)
+            Dapr:
+                ☐ Install the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr (2024-10-31 05:34 AM)
+                ☐ Configure the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-settings (2024-12-10 06:00 PM)
+                ☐ Migrate from Dapr OSS to the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-migration (2024-10-31 05:34 AM)
+                ☐ Deploy and run workflows with the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-workflow (2024-10-31 05:34 AM)
+                ☐ Troubleshoot the Dapr extension https://learn.microsoft.com/troubleshoot/azure/azure-kubernetes/troubleshoot-dapr-extension-installation-errors?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-04-10 09:01 AM)
+            ☐ GitOps https://learn.microsoft.com/azure/azure-arc/kubernetes/tutorial-use-gitops-flux2?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-31 10:01 PM)
+            Build applications with Azure App Configuration:
+                ☐ Install the Azure App Configuration extension https://learn.microsoft.com/en-us/azure/aks/azure-app-configuration (2024-11-28 05:35 AM)
+                ☐ Configure the Azure App Configuration extension https://learn.microsoft.com/en-us/azure/aks/azure-app-configuration-settings (2024-10-31 05:34 AM)
+                ☐ Azure App Configuration extension quickstart https://learn.microsoft.com/azure/azure-app-configuration/quickstart-azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-28 05:37 AM)
+                ☐ Azure App Configuration extension reference https://learn.microsoft.com/azure/azure-app-configuration/reference-kubernetes-provider?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-21 12:10 PM)
+                ☐ Troubleshoot the Azure App Configuration extension https://learn.microsoft.com/troubleshoot/azure/azure-kubernetes/welcome-azure-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-27 10:00 AM)
+        AI and machine learning:
+            ☐ Deploy an application that uses OpenAI on Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-quickstart (2024-08-01 08:29 PM)
+            ☐ Secure access to Azure OpenAI from Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-secure-access-quickstart (2024-08-01 08:29 PM)
+            ☐ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2024-11-19 06:01 PM)
+            ☐ Deploy data and ML pipelines with Flyte https://learn.microsoft.com/en-us/azure/aks/use-flyte (2024-08-09 10:01 PM)
+            ☐ Work with clusters using Copilot https://learn.microsoft.com/azure/copilot/work-aks-clusters?toc/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-20 10:59 PM)
+        DevOps:
+            ☐ Azure DevOps Project https://learn.microsoft.com/azure/devops-project/azure-devops-project-aks?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2023-03-20 10:15 PM)
+            ☐ CI/CD with Azure Pipelines https://learn.microsoft.com/en-us/azure/aks/devops-pipeline (2024-10-31 05:34 AM)
+            ☐ GitHub Actions for Kubernetes https://learn.microsoft.com/en-us/azure/aks/kubernetes-action (2024-10-31 05:34 AM)
+            ☐ Configure automated deployments https://learn.microsoft.com/en-us/azure/aks/automated-deployments (2024-12-03 06:01 PM)
+            ☐ Jenkins continuous deployment https://learn.microsoft.com/azure/developer/jenkins/deploy-from-github-to-aks?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 06:01 PM)
+            ☐ Use Ansible to create AKS clusters https://learn.microsoft.com/azure/developer/ansible/aks-configure-clusters?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2023-10-19 05:27 PM)
+        AKS for Amazon EKS professionals:
+            Migrate EKS event-driven workloads:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/aks/eks-edw-overview (2024-12-04 11:02 PM)
+                ☐ Understand platform differences https://learn.microsoft.com/en-us/azure/aks/eks-edw-understand (2024-12-04 11:02 PM)
+                ☐ Rearchitect for AKS https://learn.microsoft.com/en-us/azure/aks/eks-edw-rearchitect (2024-12-04 11:02 PM)
+                ☐ Refactor app https://learn.microsoft.com/en-us/azure/aks/eks-edw-refactor (2024-12-04 11:02 PM)
+                ☐ Prepare for deployment https://learn.microsoft.com/en-us/azure/aks/eks-edw-prepare (2024-12-04 11:02 PM)
+                ☐ Deploy to Azure https://learn.microsoft.com/en-us/azure/aks/eks-edw-deploy (2024-12-04 11:02 PM)
+            Migrate EKS web application workloads:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/aks/eks-web-overview (2024-12-13 11:02 PM)
+                ☐ Understand platform differences https://learn.microsoft.com/en-us/azure/aks/eks-web-understand (2024-12-13 11:02 PM)
+                ☐ Rearchitect for AKS https://learn.microsoft.com/en-us/azure/aks/eks-web-rearchitect (2024-12-13 11:02 PM)
+                ☐ Refactor app https://learn.microsoft.com/en-us/azure/aks/eks-web-refactor (2024-12-13 11:02 PM)
+                ☐ Prepare for deployment https://learn.microsoft.com/en-us/azure/aks/eks-web-prepare (2024-12-13 11:02 PM)
+                ☐ Deploy to Azure https://learn.microsoft.com/en-us/azure/aks/eks-web-deploy (2024-12-13 11:02 PM)
+    ☐ FAQ https://learn.microsoft.com/en-us/azure/aks/faq (2024-12-02 11:02 PM)
+    Reference:
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/aks (2024-11-19 11:00 PM)
+        ☐ REST https://learn.microsoft.com/rest/api/aks/ (2023-10-31 09:45 PM)
+        ☐ PowerShell https://learn.microsoft.com/powershell/module/az.aks/#aks (2024-11-19 05:50 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2024-12-06 12:27 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2024-12-24 12:08 PM)
+        ☐ Java https://learn.microsoft.com/java/api/overview/azure/containerservice (2024-12-24 12:11 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2024-12-24 12:12 PM)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.containerservice/managedclusters (2024-12-03 10:14 PM)
+        ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/aks/policy-reference (2024-08-01 08:29 PM)
+        ☐ AKS monitoring data reference https://learn.microsoft.com/en-us/azure/aks/monitor-aks-reference (2024-09-23 04:58 PM)
+    Resources:
+        ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-kubernetes-service (2024-10-07 11:05 PM)
+        ☐ Region availability https://azure.microsoft.com/global-infrastructure/services/
+        ☐ Pricing https://azure.microsoft.com/pricing/details/kubernetes-service/
+        ☐ Support policies https://learn.microsoft.com/en-us/azure/aks/support-policies (2024-10-31 05:34 AM)
+        ☐ Azure Roadmap https://azure.microsoft.com/roadmap/
+        ☐ AKS Roadmap https://github.com/Azure/AKS/projects/1
+        ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-container-service
+        ☐ Videos https://azure.microsoft.com/resources/videos/index/?services=container-service&sort=newest
+    Support and troubleshooting:
+        ☐ Support options for AKS https://learn.microsoft.com/en-us/azure/aks/aks-support-help (2024-08-01 08:29 PM)
+        ☐ Troubleshooting documentation for AKS https://learn.microsoft.com/troubleshoot/azure/azure-kubernetes/welcome-azure-kubernetes (2024-11-27 10:00 AM)
+

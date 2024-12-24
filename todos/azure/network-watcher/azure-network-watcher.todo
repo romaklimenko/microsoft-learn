@@ -1,0 +1,123 @@
+Network Watcher Documentation | Microsoft Learn:
+    ☐ Network Watcher Documentation https://learn.microsoft.com/en-us/azure/network-watcher/ (2024-08-04 11:36 AM)
+    Overview:
+        ☐ About Network Watcher https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-overview (2024-10-30 07:28 PM)
+    Quickstarts:
+        ☐ Diagnose VM traffic filter problem - Portal https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-traffic-filtering-problem (2024-10-14 10:04 PM)
+        ☐ Diagnose VM traffic filter problem - PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-traffic-filtering-problem-powershell (2024-10-01 11:13 AM)
+        ☐ Diagnose VM traffic filter problem - Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-traffic-filtering-problem-cli (2024-10-01 11:13 AM)
+        ☐ Configure NSG flow logs - Bicep https://learn.microsoft.com/en-us/azure/network-watcher/quickstart-configure-network-security-group-flow-logs-from-bicep (2024-09-30 10:04 PM)
+        ☐ Configure NSG flow logs - ARM template https://learn.microsoft.com/en-us/azure/network-watcher/quickstart-configure-network-security-group-flow-logs-from-arm-template (2024-08-04 11:36 AM)
+    Tutorials:
+        ☐ Diagnose a VM routing problem https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem (2024-10-29 10:09 PM)
+        ☐ Monitor communication between VMs https://learn.microsoft.com/en-us/azure/network-watcher/monitor-vm-communication (2024-09-30 10:04 PM)
+        ☐ Diagnose a communication problem between networks https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-communication-problem-between-networks (2024-08-04 11:36 AM)
+        ☐ Log VM network traffic https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-tutorial (2024-11-01 10:03 PM)
+    Concepts:
+        ☐ Network Watcher FAQ https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions (2024-10-30 07:28 PM)
+        Connection monitor:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-overview (2024-12-13 06:02 PM)
+            ☐ Schema https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-schema (2024-08-04 11:36 AM)
+        ☐ IP flow verify https://learn.microsoft.com/en-us/azure/network-watcher/ip-flow-verify-overview (2024-10-30 07:28 PM)
+        ☐ NSG diagnostics https://learn.microsoft.com/en-us/azure/network-watcher/nsg-diagnostics-overview (2024-10-30 07:28 PM)
+        ☐ Next hop https://learn.microsoft.com/en-us/azure/network-watcher/next-hop-overview (2024-08-04 11:36 AM)
+        ☐ Connection troubleshoot https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-overview (2024-08-16 10:04 PM)
+        ☐ VPN troubleshoot https://learn.microsoft.com/en-us/azure/network-watcher/vpn-troubleshoot-overview (2024-12-20 11:04 PM)
+        ☐ Packet capture https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-overview (2024-08-16 10:04 PM)
+        ☐ Effective security rules https://learn.microsoft.com/en-us/azure/network-watcher/effective-security-rules-overview (2024-09-30 10:04 PM)
+        ☐ NSG flow logs https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview (2024-10-22 05:31 AM)
+        ☐ VNet flow logs https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-overview (2024-11-04 11:02 PM)
+        Traffic analytics:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics (2024-12-24 12:17 PM)
+            ☐ Usage scenarios https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-usage-scenarios (2024-10-18 10:05 PM)
+            ☐ Schema and data aggregation https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-schema (2024-12-23 12:14 AM)
+            ☐ Schema update (March 2020) https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-schema-update (2024-08-04 11:36 AM)
+            ☐ Frequently asked questions https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-faq (2024-09-11 06:38 PM)
+        ☐ RBAC permissions https://learn.microsoft.com/en-us/azure/network-watcher/required-rbac-permissions (2024-09-24 05:37 AM)
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/network-watcher-security-baseline?toc=/azure/network-watcher/toc.json (2024-08-05 07:13 PM)
+    How-to guides:
+        ☐ Enable Network Watcher https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-create (2024-08-04 11:36 AM)
+        Network Watcher Agent:
+            ☐ Windows https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-agent-windows (2024-08-16 10:04 PM)
+            ☐ Linux https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-agent-linux (2024-08-22 07:16 PM)
+            ☐ Update to latest version https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-agent-update (2024-10-28 06:09 PM)
+        ☐ View topology https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-topology (2024-08-04 11:36 AM)
+        Create a connection monitor:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-create-using-portal (2024-09-11 06:38 PM)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-create-using-powershell (2024-08-04 11:36 AM)
+        Migrate to Connection monitor:
+            ☐ From Network performance monitor https://learn.microsoft.com/en-us/azure/network-watcher/migrate-to-connection-monitor-from-network-performance-monitor (2024-08-16 10:04 PM)
+            ☐ From Connection monitor (classic) https://learn.microsoft.com/en-us/azure/network-watcher/migrate-to-connection-monitor-from-connection-monitor-classic (2024-08-04 11:36 AM)
+        Connection monitor using Azure Monitor agent:
+            ☐ Monitor connectivity using Azure Monitor agent https://learn.microsoft.com/en-us/azure/network-watcher/azure-monitor-agent-with-connection-monitor (2024-09-19 06:07 PM)
+            ☐ Install Azure Connected Machine agent https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-connected-machine-agent (2024-09-19 06:07 PM)
+            ☐ Install Azure Monitor agent https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-install-azure-monitor-agent (2024-09-11 06:38 PM)
+        ☐ Diagnose network security rules https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-network-security-rules (2024-11-01 10:03 PM)
+        Diagnose a routing problem:
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem-powershell (2024-10-29 10:09 PM)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-vm-network-routing-problem-cli (2024-10-29 10:09 PM)
+        Diagnose outbound connection problems:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-portal (2024-08-16 10:04 PM)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-powershell (2024-11-01 10:03 PM)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-cli (2024-11-01 10:03 PM)
+        Diagnose VPN gateway and connections:
+            Troubleshoot:
+                ☐ PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/vpn-troubleshoot-powershell (2024-08-04 11:36 AM)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/vpn-troubleshoot-cli (2024-08-04 11:36 AM)
+            ☐ Monitor VPN gateway with Azure Automation https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-monitor-with-azure-automation (2024-08-04 11:36 AM)
+            ☐ Diagnose on-premises connectivity via VPN gateway https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-diagnose-on-premises-connectivity (2024-08-04 11:36 AM)
+        Capture and analyze packets:
+            Manage packet captures for VMs:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-vm-portal (2024-08-16 10:04 PM)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-vm-powershell (2024-11-01 10:03 PM)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-vm-cli (2024-11-01 10:03 PM)
+            Manage packet captures for scale sets:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-packet-capture-manage-portal-vmss (2024-08-04 11:36 AM)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-packet-capture-manage-powershell-vmss (2024-11-01 10:03 PM)
+            Analyze a packet capture:
+                ☐ Inspect to find anomalies https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-inspect (2024-08-04 11:36 AM)
+                ☐ Proactive network monitoring with Azure Functions https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-alert-triggered-packet-capture (2024-09-11 06:38 PM)
+                ☐ Perform intrusion detection using open source tools https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-intrusion-detection-open-source-tools (2024-10-16 10:05 PM)
+                ☐ Visualize network traffic patterns using open source tools https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-using-open-source-tools (2024-10-24 05:35 AM)
+        Log network traffic:
+            Manage NSG flow logs:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-portal (2024-09-26 10:04 PM)
+                ☐ PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-powershell (2024-09-26 10:04 PM)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-cli (2024-09-26 10:04 PM)
+                ☐ REST https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-rest (2024-11-01 10:03 PM)
+                ☐ ARM template https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-azure-resource-manager (2024-11-01 10:03 PM)
+                ☐ Built-in Policy https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-policy-portal (2024-12-17 05:33 AM)
+            Manage VNet flow logs:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-portal (2024-09-11 06:38 PM)
+                ☐ PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-powershell (2024-11-11 06:07 PM)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-cli (2024-08-04 11:36 AM)
+                ☐ Built-in Policy https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-policy (2024-08-04 11:36 AM)
+            ☐ Migrate NSG flow logs https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-migrate (2024-10-28 10:05 PM)
+            ☐ Read flow logs https://learn.microsoft.com/en-us/azure/network-watcher/flow-logs-read (2024-11-01 10:03 PM)
+            Analyze NSG flow logs:
+                ☐ Use Power BI https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-power-bi (2024-10-23 10:05 PM)
+                ☐ Use Elastic Stack https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-visualize-nsg-flow-logs-open-source-tools (2024-12-17 05:33 AM)
+                ☐ Use Grafana https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-grafana (2024-10-16 10:05 PM)
+                ☐ Use Graylog https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-analyze-nsg-flow-logs-graylog (2024-10-15 11:13 AM)
+            ☐ Delete NSG flow log storage blobs https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-delete-nsg-flow-log-blobs (2024-09-26 10:04 PM)
+            ☐ Enable traffic analytics using Azure policy https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics-policy-portal (2024-11-01 10:03 PM)
+            ☐ Perform compliance and audit your network https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-auditing-powershell (2024-11-01 10:03 PM)
+        ☐ Determine relative latency between a location and Azure region https://learn.microsoft.com/en-us/azure/network-watcher/view-relative-latencies (2024-08-04 11:36 AM)
+    Reference:
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/watcher (2024-11-11 10:58 PM)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network/#network-watcher (2024-11-19 05:50 PM)
+        ☐ Java https://learn.microsoft.com/java/api/com.microsoft.azure.management.network (2024-06-12 11:12 AM)
+        ☐ Ruby https://www.rubydoc.info/gems/azure_mgmt_network/Azure/Network/Mgmt/V2016_09_01/Models/NetworkWatcher
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/network (2024-12-24 12:08 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/virtual-network (2023-10-03 11:36 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/arm-network-readme (2024-12-20 12:08 PM)
+        ☐ REST https://learn.microsoft.com/rest/api/network-watcher/ (2024-08-06 10:08 PM)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.network/networkWatchers/ (2024-12-03 10:14 PM)
+    Resources:
+        ☐ Microsoft Q&A https://learn.microsoft.com/answers/topics/azure-network-watcher.html
+        ☐ Azure support https://azure.microsoft.com/support/
+        ☐ Pricing https://azure.microsoft.com/pricing/details/network-watcher/
+        ☐ Service updates https://azure.microsoft.com/updates/?query=network%20watcher
+        ☐ SLA https://azure.microsoft.com/support/legal/sla/network-watcher/
+        ☐ Stack Overflow http://stackoverflow.com/questions/tagged/network-watcher
+
