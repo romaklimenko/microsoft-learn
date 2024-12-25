@@ -41,10 +41,10 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                 ☐ Custom endpoint https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-custom-app (2024-11-20 11:00 PM)
                 ☐ Sample data https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-sample-data (2024-11-20 11:00 PM)
                 ☐ Azure SQL Database Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-azure-sql-database-change-data-capture (2024-11-20 11:00 PM)
-                ☐ PostgreSQL Database Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-postgresql-database-change-data-capture (2024-11-20 11:00 PM)
-                ☐ MySQL Database Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-mysql-database-change-data-capture (2024-11-20 11:00 PM)
+                ✘ PostgreSQL Database Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-postgresql-database-change-data-capture (2024-11-20 11:00 PM) @cancelled
+                ✘ MySQL Database Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-mysql-database-change-data-capture (2024-11-20 11:00 PM) @cancelled
                 ☐ Azure Cosmos DB Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-azure-cosmos-db-change-data-capture (2024-11-20 11:00 PM)
-                ☐ SQL Server on VM DB Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-sql-server-change-data-capture (2024-11-20 11:00 PM)
+                ✘ SQL Server on VM DB Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-sql-server-change-data-capture (2024-11-20 11:00 PM) @cancelled
                 ☐ Azure SQL Managed Instance Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-azure-sql-managed-instance-change-data-capture (2024-11-20 11:00 PM)
                 ☐ Google Cloud Pub/Sub https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-google-cloud-pub-sub (2024-11-25 12:10 AM)
                 ☐ Amazon Kinesis Data Streams https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-amazon-kinesis-data-streams (2024-11-20 11:00 PM)
@@ -66,7 +66,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ Preview data https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/preview-data (2024-11-26 12:06 PM)
             Manage eventstreams:
                 ☐ Manage an eventstream https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/manage-eventstream (2024-11-20 11:00 PM)
-                ☐ Configure settings https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/configure-settings (2024-12-12 12:20 PM)
+                ✘ Configure settings https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/configure-settings (2024-12-12 12:20 PM) @cancelled
                 ☐ Pause and resume data streams https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/pause-resume-data-streams (2024-12-02 12:03 PM)
             ☐ Monitor status and performance of eventstreams https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/monitor (2024-11-26 12:06 PM)
             ☐ Integrate with other Fabric items https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/get-data-from-eventstream-in-multiple-fabric-items (2024-11-20 11:00 PM)
@@ -1013,7 +1013,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ strcat() https://learn.microsoft.com/kusto/query/strcat-function?view=microsoft-fabric&preserve-view=true (2024-12-03 12:04 PM)
             ☐ strcat_array() https://learn.microsoft.com/kusto/query/strcat-array-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ strcat_delim() https://learn.microsoft.com/kusto/query/strcat-delim-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ✘ strcmp() https://learn.microsoft.com/kusto/query/strcmp-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled(24-12-22 22:49)
+            ✘ strcmp() https://learn.microsoft.com/kusto/query/strcmp-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled(24-12-22 22:49) @cancelled
             ☐ string_size() https://learn.microsoft.com/kusto/query/string-size-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ strlen() https://learn.microsoft.com/kusto/query/strlen-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ strrep() https://learn.microsoft.com/kusto/query/strrep-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1099,7 +1099,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ Graph best practices https://learn.microsoft.com/kusto/query/graph-best-practices?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ Graph scenarios https://learn.microsoft.com/kusto/query/graph-scenarios?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ Graph operators overview https://learn.microsoft.com/kusto/query/graph-operators?view=microsoft-fabric&preserve-view=true (2024-11-07 12:05 PM)
-            ☐ make-graph https://learn.microsoft.com/kusto/query/make-graph-operator?view=microsoft-fabric&preserve-view=true (2024-11-05 12:06 PM)
+            ✘ make-graph https://learn.microsoft.com/kusto/query/make-graph-operator?view=microsoft-fabric&preserve-view=true (2024-11-05 12:06 PM) @cancelled
             ☐ graph-match https://learn.microsoft.com/kusto/query/graph-match-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ graph-to-table https://learn.microsoft.com/kusto/query/graph-to-table-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ graph-shortest-paths https://learn.microsoft.com/kusto/query/graph-shortest-paths-operator?view=microsoft-fabric&preserve-view=true (2024-11-07 12:05 PM)
@@ -1149,7 +1149,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ geo_h3cell_to_polygon() https://learn.microsoft.com/kusto/query/geo-h3cell-to-polygon-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ geo_h3cell_parent() https://learn.microsoft.com/kusto/query/geo-h3cell-parent-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ geo_h3cell_children() https://learn.microsoft.com/kusto/query/geo-h3cell-children-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ geo_h3cell_level() https://learn.microsoft.com/kusto/query/geo-h3cell-level-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ geo_h3cell_level() https://learn.microsoft.com/kusto/query/geo-h3cell-level-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ geo_h3cell_rings() https://learn.microsoft.com/kusto/query/geo-h3cell-rings-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ geo_simplify_polygons_array() https://learn.microsoft.com/kusto/query/geo-simplify-polygons-array-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ geo_union_lines_array() https://learn.microsoft.com/kusto/query/geo-union-lines-array-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1167,7 +1167,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ series_atan() https://learn.microsoft.com/kusto/query/series-atan-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_ceiling() https://learn.microsoft.com/kusto/query/series-ceiling-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_cos() https://learn.microsoft.com/kusto/query/series-cos-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ series_cosine_similarity() https://learn.microsoft.com/kusto/query/series-cosine-similarity-function?view=microsoft-fabric&preserve-view=true (2024-11-25 12:07 AM)
+            ✘ series_cosine_similarity() https://learn.microsoft.com/kusto/query/series-cosine-similarity-function?view=microsoft-fabric&preserve-view=true (2024-11-25 12:07 AM) @cancelled
             ☐ series_decompose() https://learn.microsoft.com/kusto/query/series-decompose-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_decompose_anomalies() https://learn.microsoft.com/kusto/query/series-decompose-anomalies-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_decompose_forecast() https://learn.microsoft.com/kusto/query/series-decompose-forecast-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1203,7 +1203,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ series_periods_validate() https://learn.microsoft.com/kusto/query/series-periods-validate-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_pow() https://learn.microsoft.com/kusto/query/series-pow-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_seasonal() https://learn.microsoft.com/kusto/query/series-seasonal-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ✘ series_sign() https://learn.microsoft.com/kusto/query/series-sign-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled(24-12-23 19:36)
+            ✘ series_sign() https://learn.microsoft.com/kusto/query/series-sign-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled(24-12-23 19:36) @cancelled
             ☐ series_sin() https://learn.microsoft.com/kusto/query/series-sin-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_stats() https://learn.microsoft.com/kusto/query/series-stats-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_stats_dynamic() https://learn.microsoft.com/kusto/query/series-stats-dynamic-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1281,10 +1281,23 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
 
 ---
 
-            ✔ strcmp() https://learn.microsoft.com/kusto/query/strcmp-function?view=microsoft-fabric&preserve-view=true @done(24-12-22 22:49)
+            ✔ strcmp() https://learn.microsoft.com/kusto/query/strcmp-function?view=microsoft-fabric&preserve-view=true @done(24-12-22 22:49) @cancelled
 
 
 ---
 
-            ✔ series_sign() https://learn.microsoft.com/kusto/query/series-sign-function?view=microsoft-fabric&preserve-view=true @done(24-12-23 19:36)
+            ✔ series_sign() https://learn.microsoft.com/kusto/query/series-sign-function?view=microsoft-fabric&preserve-view=true @done(24-12-23 19:36) @cancelled
+
+
+---
+
+                ✔ PostgreSQL Database Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-postgresql-database-change-data-capture (2024-12-23 12:12 PM) @done(24-12-25 20:02)
+                ✘ MySQL Database Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-mysql-database-change-data-capture (2024-12-23 12:12 PM) @cancelled(24-12-25 20:02)
+                ✔ SQL Server on VM DB Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-sql-server-change-data-capture (2024-12-23 12:12 PM) @done(24-12-25 20:02)
+                ✔ Configure settings https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/configure-settings (2024-12-23 12:12 PM) @done(24-12-25 20:05)
+            ✔ strcmp() https://learn.microsoft.com/kusto/query/strcmp-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @done(24-12-25 20:05)
+            ✔ make-graph https://learn.microsoft.com/kusto/query/make-graph-operator?view=microsoft-fabric&preserve-view=true (2024-12-24 12:05 PM) @done(24-12-25 20:06)
+            ✔ geo_h3cell_level() https://learn.microsoft.com/kusto/query/geo-h3cell-level-function?view=microsoft-fabric&preserve-view=true @done(24-12-25 20:09)
+            ✔ series_cosine_similarity() https://learn.microsoft.com/kusto/query/series-cosine-similarity-function?view=microsoft-fabric&preserve-view=true (2024-12-23 12:12 PM) @done(24-12-25 20:09)
+            ✔ series_sign() https://learn.microsoft.com/kusto/query/series-sign-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @done(24-12-25 20:11)
 

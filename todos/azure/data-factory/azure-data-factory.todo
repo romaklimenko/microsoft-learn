@@ -189,7 +189,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ Azure Database for MySQL https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-database-for-mysql (2024-08-14 06:47 PM)
             ☐ Azure Database for PostgreSQL https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-database-for-postgresql (2024-12-13 12:09 PM)
             ☐ Azure Databricks Delta Lake https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-databricks-delta-lake (2024-12-11 06:03 PM)
-            ☐ Azure File Storage https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-file-storage (2024-09-20 11:16 AM)
+            ✘ Azure File Storage https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-file-storage (2024-09-20 11:16 AM) @cancelled
             ☐ Azure SQL Database https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-sql-database (2024-08-07 10:04 PM)
             ☐ Azure SQL Managed Instance https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-sql-managed-instance (2024-08-07 10:04 PM)
             ☐ Azure Synapse Analytics https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-sql-data-warehouse (2024-08-06 05:39 AM)
@@ -234,7 +234,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ Marketo https://learn.microsoft.com/en-us/azure/data-factory/connector-marketo (2024-12-11 06:03 PM)
             ☐ Microsoft 365 https://learn.microsoft.com/en-us/azure/data-factory/connector-office-365 (2024-10-29 05:03 PM)
             ☐ Microsoft Access https://learn.microsoft.com/en-us/azure/data-factory/connector-microsoft-access (2024-08-02 11:27 AM)
-            ☐ Microsoft Fabric Lakehouse https://learn.microsoft.com/en-us/azure/data-factory/connector-microsoft-fabric-lakehouse (2024-08-02 11:27 AM)
+            ✘ Microsoft Fabric Lakehouse https://learn.microsoft.com/en-us/azure/data-factory/connector-microsoft-fabric-lakehouse (2024-08-02 11:27 AM) @cancelled
             ☐ Microsoft Fabric Warehouse https://learn.microsoft.com/en-us/azure/data-factory/connector-microsoft-fabric-warehouse (2024-09-25 11:13 AM)
             MongoDB https://learn.microsoft.com/en-us/azure/data-factory/connector-mongodb (2024-08-02 11:27 AM):
                 ☐ MongoDB (legacy) https://learn.microsoft.com/en-us/azure/data-factory/connector-mongodb-legacy (2024-08-02 11:27 AM)
@@ -611,7 +611,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
         ☐ PowerShell https://learn.microsoft.com/powershell/module/az.datafactory/ (2024-11-19 11:49 PM)
         ☐ REST API https://learn.microsoft.com/rest/api/datafactory (2024-10-08 10:59 AM)
         ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.datafactory/allversions (2024-12-03 10:14 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2024-12-20 12:08 PM)
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2024-12-20 12:08 PM) @cancelled
         ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/data-factory/policy-reference (2024-08-02 11:27 AM)
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/datafactory (2023-10-31 09:52 PM)
         ☐ Compute optimized data flows retired https://learn.microsoft.com/en-us/azure/data-factory/compute-optimized-data-flow-retire (2024-08-02 11:27 AM)
@@ -632,4 +632,11 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
         ☐ Support options https://azure.microsoft.com/support/options/
         ☐ Request quota increases from support https://learn.microsoft.com/en-us/azure/data-factory/quota-increase (2024-10-04 11:22 AM)
         ☐ Limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#data-factory-limits (2024-12-12 12:24 PM)
+
+
+---
+
+            ✔ Azure File Storage https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-file-storage (2024-12-23 12:14 PM) @done(24-12-25 20:37)
+            ✔ Microsoft Fabric Lakehouse https://learn.microsoft.com/en-us/azure/data-factory/connector-microsoft-fabric-lakehouse (2024-12-23 12:14 PM) @done(24-12-25 20:37)
+        ✔ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2024-12-24 12:08 PM) @done(24-12-25 20:38)
 

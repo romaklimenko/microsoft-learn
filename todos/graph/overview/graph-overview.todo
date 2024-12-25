@@ -17,7 +17,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
         Metered APIs:
             ☐ Overview https://learn.microsoft.com/en-us/graph/metered-api-overview (2024-11-08 02:44 AM)
             ☐ List of metered APIs https://learn.microsoft.com/en-us/graph/metered-api-list (2024-11-08 02:44 AM)
-        ☐ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2024-12-18 09:52 AM)
+        ✘ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2024-12-18 09:52 AM) @cancelled
         ☐ API changelog https://developer.microsoft.com/graph/changelog
     Get started:
         ☐ Try the APIs https://learn.microsoft.com/en-us/graph/graph-explorer/graph-explorer-overview (2024-11-08 02:44 AM)
@@ -135,10 +135,10 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
                 ☐ Disambiguation of components https://learn.microsoft.com/en-us/graph/toolkit/customize-components/disambiguation (2024-11-08 02:44 AM)
             ☐ Permissions https://learn.microsoft.com/en-us/graph/toolkit/permissions (2024-11-08 02:44 AM)
             ☐ Upgrade to the latest version https://learn.microsoft.com/en-us/graph/toolkit/upgrade (2024-11-08 02:44 AM)
-        ☐ Deploy with Bicep https://learn.microsoft.com/graph/templates?context=graph/context (2024-12-04 09:07 PM)
+        ✘ Deploy with Bicep https://learn.microsoft.com/graph/templates?context=graph/context (2024-12-04 09:07 PM) @cancelled
     Services and features:
         Users:
-            ☐ Overview https://learn.microsoft.com/en-us/graph/azuread-users-concept-overview (2024-04-18 04:02 AM)
+            ✘ Overview https://learn.microsoft.com/en-us/graph/azuread-users-concept-overview (2024-04-18 04:02 AM) @cancelled
             ☐ Default user permissions https://learn.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?context=graph/context (2024-12-20 12:05 PM)
             ☐ Profile photo settings https://learn.microsoft.com/en-us/graph/profilephoto-configure-settings (2024-12-10 05:32 AM)
         Groups:
@@ -462,13 +462,13 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
     Develop:
         Authentication and authorization:
             ☐ Overview https://learn.microsoft.com/en-us/graph/auth/ (2024-03-06 06:12 AM)
-            ☐ Basics https://learn.microsoft.com/en-us/graph/auth/auth-concepts (2024-11-28 03:45 PM)
+            ✘ Basics https://learn.microsoft.com/en-us/graph/auth/auth-concepts (2024-11-28 03:45 PM) @cancelled
             ☐ Register your app https://learn.microsoft.com/en-us/graph/auth-register-app-v2 (2024-03-27 04:20 AM)
-            ☐ Get access on behalf of a user https://learn.microsoft.com/en-us/graph/auth-v2-user (2024-09-12 02:40 AM)
+            ✘ Get access on behalf of a user https://learn.microsoft.com/en-us/graph/auth-v2-user (2024-09-12 02:40 AM) @cancelled
             ☐ Get access without a user https://learn.microsoft.com/en-us/graph/auth-v2-service (2024-12-03 04:37 AM)
             Permissions:
                 ☐ Overview https://learn.microsoft.com/en-us/graph/permissions-overview (2024-10-31 01:21 AM)
-                ☐ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2024-12-16 06:41 PM)
+                ✘ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2024-12-16 06:41 PM) @cancelled
                 ☐ Microsoft Entra built-in roles https://learn.microsoft.com/entra/identity/role-based-access-control/permissions-reference?toc=/graph/toc.json (2024-12-19 10:57 PM)
                 ☐ Best practices for Teams app permissions https://learn.microsoft.com/en-us/graph/best-practices-graph-permission (2024-11-08 02:44 AM)
                 ☐ Selected permissions in OneDrive and SharePoint https://learn.microsoft.com/en-us/graph/permissions-selected-overview (2024-11-08 02:44 AM)
@@ -497,12 +497,12 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
                 ☐ Set up delegated authentication https://learn.microsoft.com/en-us/graph/use-postman-with-delegated-authentication (2024-11-08 02:44 AM)
                 ☐ Set up app-only authentication https://learn.microsoft.com/en-us/graph/use-postman-with-app-only-authentication (2024-11-08 02:44 AM)
         Change notifications:
-            ☐ Overview https://learn.microsoft.com/en-us/graph/change-notifications-overview (2024-04-18 04:02 AM)
+            ✘ Overview https://learn.microsoft.com/en-us/graph/change-notifications-overview (2024-04-18 04:02 AM) @cancelled
             Notifications delivery channels:
                 ☐ Notifications through webhooks https://learn.microsoft.com/en-us/graph/change-notifications-delivery-webhooks (2024-10-29 02:14 AM)
                 ☐ Notifications through Azure Event Hubs https://learn.microsoft.com/en-us/graph/change-notifications-delivery-event-hubs (2024-09-20 01:25 AM)
                 ☐ Notifications through Azure Event Grid (preview) https://learn.microsoft.com/azure/event-grid/subscribe-to-graph-api-events?context=graph%2Fcontext (2024-08-21 10:04 PM)
-            ☐ Lifecycle notifications for subscriptions https://learn.microsoft.com/en-us/graph/change-notifications-lifecycle-events (2024-04-18 04:02 AM)
+            ✘ Lifecycle notifications for subscriptions https://learn.microsoft.com/en-us/graph/change-notifications-lifecycle-events (2024-04-18 04:02 AM) @cancelled
             ☐ Rich notifications https://learn.microsoft.com/en-us/graph/change-notifications-with-resource-data (2024-11-23 02:13 AM)
             ☐ Notifications for cloud printing https://learn.microsoft.com/en-us/graph/universal-print-webhook-notifications (2024-11-08 02:44 AM)
             Notifications for Microsoft Teams resources:
@@ -556,4 +556,18 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
             ☐ API mapping https://learn.microsoft.com/en-us/graph/migrate-exchange-web-services-api-mapping (2024-11-08 02:44 AM)
     ☐ API v1.0 reference https://learn.microsoft.com/graph/api/overview?view=graph-rest-1.0&preserve-view=true (2024-12-06 03:14 AM)
     ☐ API beta reference https://learn.microsoft.com/graph/api/overview?view=graph-rest-beta&preserve-view=true (2024-12-06 03:14 AM)
+
+
+---
+
+        ✔ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2024-12-24 04:39 PM) @done(24-12-25 21:03)
+        ✔ Deploy with Bicep https://learn.microsoft.com/graph/templates?context=graph/context (2024-12-23 12:17 PM) @done(24-12-25 21:04)
+            ✔ Overview https://learn.microsoft.com/en-us/graph/azuread-users-concept-overview (2024-12-23 03:18 PM) @done(24-12-25 21:05)
+            Network access (preview):
+                ✔ Configure Microsoft Entra Private Access https://learn.microsoft.com/en-us/graph/tutorial-entra-private-access (2024-12-23 03:18 PM) @done(24-12-25 21:06)
+            ✔ Basics https://learn.microsoft.com/en-us/graph/auth/auth-concepts (2024-12-23 03:18 PM) @done(24-12-25 21:06)
+            ✔ Get access on behalf of a user https://learn.microsoft.com/en-us/graph/auth-v2-user (2024-12-23 03:18 PM) @done(24-12-25 21:07)
+                ✔ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2024-12-23 03:18 PM) @done(24-12-25 21:08)
+            ✔ Overview https://learn.microsoft.com/en-us/graph/change-notifications-overview (2024-12-23 03:18 PM) @done(24-12-25 21:08)
+            ✔ Lifecycle notifications for subscriptions https://learn.microsoft.com/en-us/graph/change-notifications-lifecycle-events (2024-12-23 03:18 PM) @done(24-12-25 21:09)
 

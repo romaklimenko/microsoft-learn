@@ -1551,7 +1551,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                 ☐ SQLBrowseConnect https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlbrowseconnect (2024-09-09 10:27 PM)
                 ☐ SQLCancel https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcancel (2024-09-09 10:27 PM)
                 ☐ SQLCloseCursor https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlclosecursor (2024-09-09 10:27 PM)
-                ☐ SQLColAttribute https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolattribute (2024-09-09 10:27 PM)
+                ✘ SQLColAttribute https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolattribute (2024-09-09 10:27 PM) @cancelled(24-12-25 19:57)
                 ☐ SQLColumnPrivileges https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolumnprivileges (2024-09-09 10:27 PM)
                 ☐ SQLColumns https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolumns (2024-09-09 10:27 PM)
                 ☐ SQLConfigDataSource https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlconfigdatasource (2024-09-09 10:27 PM)
@@ -3360,23 +3360,23 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
             ☐ Configuration Manager https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-configuration-manager (2024-09-09 10:27 PM)
             ☐ Database Lifecycle Management https://learn.microsoft.com/en-us/sql/relational-databases/database-lifecycle-management (2024-09-09 10:27 PM)
             Database mail:
-                ☐ Overview https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail (2024-09-09 10:27 PM)
-                ☐ Database Mail Configuration Objects https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-configuration-objects (2024-09-09 10:27 PM)
-                ☐ Create a Profile https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/create-a-database-mail-profile (2024-09-09 10:27 PM)
-                ☐ Create an account https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/create-a-database-mail-account (2024-09-09 10:27 PM)
-                ☐ Configure https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/configure-database-mail (2024-09-09 10:27 PM)
-                ☐ Messaging Objects https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-messaging-objects (2024-09-09 10:27 PM)
-                ☐ External Program https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-external-program (2024-09-09 10:27 PM)
-                ☐ Configure SQL Server Agent Mail to Use Database Mail https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/configure-sql-server-agent-mail-to-use-database-mail (2024-09-09 10:27 PM)
+                ✔ Overview https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail (2024-09-09 10:27 PM) @done(24-12-25 19:49)
+                ✔ Database Mail Configuration Objects https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-configuration-objects (2024-09-09 10:27 PM) @done(24-12-25 19:49)
+                ✔ Create a Profile https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/create-a-database-mail-profile (2024-09-09 10:27 PM) @done(24-12-25 19:49)
+                ✔ Create an account https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/create-a-database-mail-account (2024-09-09 10:27 PM) @done(24-12-25 19:50)
+                ✔ Configure https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/configure-database-mail (2024-09-09 10:27 PM) @done(24-12-25 19:48)
+                ✔ Messaging Objects https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-messaging-objects (2024-09-09 10:27 PM) @done(24-12-25 19:50)
+                ✔ External Program https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-external-program (2024-09-09 10:27 PM) @done(24-12-25 19:51)
+                ✔ Configure SQL Server Agent Mail to Use Database Mail https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/configure-sql-server-agent-mail-to-use-database-mail (2024-09-09 10:27 PM) @done(24-12-25 19:51)
                 Log & audits:
-                    ☐ Overview https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-log-and-audits (2024-09-09 10:27 PM)
-                    ☐ SQL Agent Job to archive events https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/create-a-sql-server-agent-job-to-archive-database-mail-messages-and-event-logs (2024-09-09 10:27 PM)
-                    ☐ Check the Status of E-Mail Messages Sent With Database Mail https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/check-the-status-of-e-mail-messages-sent-with-database-mail (2024-09-09 10:27 PM)
+                    ✔ Overview https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-log-and-audits (2024-09-09 10:27 PM) @done(24-12-25 19:51)
+                    ✔ SQL Agent Job to archive events https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/create-a-sql-server-agent-job-to-archive-database-mail-messages-and-event-logs (2024-09-09 10:27 PM) @done(24-12-25 19:51)
+                    ✔ Check the Status of E-Mail Messages Sent With Database Mail https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/check-the-status-of-e-mail-messages-sent-with-database-mail (2024-09-09 10:27 PM) @done(24-12-25 19:52)
                 Troubleshooting:
-                    ☐ Overview https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-general-troubleshooting (2024-09-09 10:27 PM)
-                    ☐ Sending test email https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-sending-test-email (2024-09-09 10:27 PM)
-                    ☐ Common errors https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-common-errors (2024-09-09 10:27 PM)
-                    ☐ Mail queued, not delivered https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-mail-queued-not-delivered (2024-09-09 10:27 PM)
+                    ✔ Overview https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-general-troubleshooting (2024-09-09 10:27 PM) @done(24-12-25 19:52)
+                    ✔ Sending test email https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-sending-test-email (2024-09-09 10:27 PM) @done(24-12-25 19:54)
+                    ✔ Common errors https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-common-errors (2024-09-09 10:27 PM) @done(24-12-25 19:54)
+                    ✔ Mail queued, not delivered https://learn.microsoft.com/en-us/sql/relational-databases/database-mail/database-mail-mail-queued-not-delivered (2024-09-09 10:27 PM) @done(24-12-25 19:55)
             Data compression:
                 ☐ Overview https://learn.microsoft.com/en-us/sql/relational-databases/data-compression/data-compression (2024-09-09 10:27 PM)
                 ☐ Row compression https://learn.microsoft.com/en-us/sql/relational-databases/data-compression/row-compression-implementation (2024-09-09 10:27 PM)
@@ -4812,7 +4812,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                     Delete:
                         ☐ a Job Category https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-job-category (2024-09-09 10:27 PM)
                         ☐ a Job Step Log https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-job-step-log (2024-09-09 10:27 PM)
-                        ☐ a SQL Server Agent Proxy https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-sql-server-agent-proxy (2024-09-09 10:27 PM)
+                        ✘ a SQL Server Agent Proxy https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-sql-server-agent-proxy (2024-09-09 10:27 PM) @cancelled(24-12-25 19:57)
                         ☐ an Alert https://learn.microsoft.com/en-us/sql/ssms/agent/delete-an-alert (2024-09-09 10:27 PM)
                         ☐ an Operator https://learn.microsoft.com/en-us/sql/ssms/agent/delete-an-operator (2024-09-09 10:27 PM)
                         ☐ Jobs https://learn.microsoft.com/en-us/sql/ssms/agent/delete-jobs (2024-09-09 10:27 PM)
@@ -9430,12 +9430,12 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
 
 ---
 
-                        ☐ a SQL Server Agent Proxy https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-sql-server-agent-proxy
+                        ✔ a SQL Server Agent Proxy https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-sql-server-agent-proxy @done(24-12-25 19:55)
 
 
 ---
 
-                ☐ SQLColAttribute https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolattribute
+                ✔ SQLColAttribute https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolattribute @done(24-12-25 19:56)
 
 
 ---
