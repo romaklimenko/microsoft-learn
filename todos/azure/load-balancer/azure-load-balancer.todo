@@ -78,7 +78,7 @@ Load Balancer | Microsoft Learn:
             ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-load-balancer-security-baseline?toc=/azure/load-balancer/TOC.json (2024-08-05 07:13 PM)
     How-to:
         ☐ Backend Pool management https://learn.microsoft.com/en-us/azure/load-balancer/backend-pool-management (2024-08-01 05:04 PM)
-        ☐ Retrieve metadata using the Azure IMDS https://learn.microsoft.com/en-us/azure/load-balancer/howto-load-balancer-imds (2024-08-22 07:16 PM)
+        ✘ Retrieve metadata using the Azure IMDS https://learn.microsoft.com/en-us/azure/load-balancer/howto-load-balancer-imds (2024-08-22 07:16 PM) @cancelled
         ☐ Manage admin state https://learn.microsoft.com/en-us/azure/load-balancer/manage-admin-state-how-to (2024-12-11 06:03 PM)
         Health probes:
             ☐ Manage health probes https://learn.microsoft.com/en-us/azure/load-balancer/manage-probes-how-to (2024-12-06 06:02 PM)
@@ -105,7 +105,7 @@ Load Balancer | Microsoft Learn:
             ☐ Upgrade from Basic to Standard with PowerShell https://learn.microsoft.com/en-us/azure/load-balancer/upgrade-basic-standard-with-powershell (2024-12-06 11:03 PM)
         Using multiple IP configurations:
             ☐ Azure portal https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip (2024-12-06 06:02 PM)
-            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip-cli (2024-08-22 07:16 PM)
+            ✘ Azure CLI https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip-cli (2024-08-22 07:16 PM) @cancelled
             ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip-powershell (2024-08-22 07:16 PM)
         ☐ Move a load balancer across regions https://learn.microsoft.com/en-us/azure/load-balancer/move-across-regions-azure-load-balancer (2024-12-06 11:03 PM)
         Cross-subscription load balancing:
@@ -153,4 +153,10 @@ Load Balancer | Microsoft Learn:
         ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
         ☐ Product updates https://azure.microsoft.com/updates/?product=load-balancer
         ☐ FAQ https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-faqs (2024-08-01 05:04 PM)
+
+
+---
+
+        ✔ Retrieve metadata using the Azure IMDS https://learn.microsoft.com/en-us/azure/load-balancer/howto-load-balancer-imds (2024-12-24 06:15 PM) @done(24-12-26 18:13)
+            ✔ Azure CLI https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multiple-ip-cli (2024-12-24 06:15 PM) @done(24-12-26 18:16)
 

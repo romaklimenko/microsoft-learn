@@ -87,7 +87,7 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
         ☐ Change management https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-change-management?context=/fabric/context/context (2024-07-24 10:30 PM)
         ☐ Conclusion https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-conclusion?context=/fabric/context/context (2024-07-24 10:30 PM)
     Known issues:
-        ☐ Active known issues for Fabric + Power BI - chart https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues (2024-12-17 11:00 PM)
+        ✘ Active known issues for Fabric + Power BI - chart https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues (2024-12-17 11:00 PM) @cancelled
         ☐ Active known issues for Fabric and Power BI - interactive report https://support.fabric.microsoft.com/known-issues
         ☐ Renamed eventstream fails to open https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-978-renamed-eventstream-fails-open (2024-12-17 11:00 PM)
         ☐ Export to Excel using live connection with show items with no data turned on fails https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-977-export-excel-live-connection-show-items-no-data-fails (2024-12-17 11:00 PM)
@@ -101,7 +101,7 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
         ☐ Create Gateway public API doesn't work for service principals https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-955-create-gateway-public-api-not-work-service-principals (2024-12-05 11:01 PM)
         ☐ Create, configure, or delete a mirror fails https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-954-create-configure-delete-mirror-fails (2024-12-02 11:01 PM)
         ☐ Incorrect column names after column format or aggregation change https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-950-incorrect-column-names-column-format-aggregation-change (2024-12-02 11:01 PM)
-        ☐ Power BI Copilot can excessively retry in rare error scenarios https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-949-power-bi-copilot-retry-rare-error-scenarios (2024-11-27 11:01 PM)
+        ✘ Power BI Copilot can excessively retry in rare error scenarios https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-949-power-bi-copilot-retry-rare-error-scenarios (2024-11-27 11:01 PM) @cancelled
         ☐ Metrics app timepoint details missing for new P2 capacities https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-948-metrics-app-timepoint-details-missing-new-p2-capacities (2024-11-27 11:01 PM)
         ☐ Intermittent failures on deployment of Sustainability solution https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-945-intermittent-failures-deployment-sustainability-solution (2024-11-22 11:01 PM)
         ☐ Pipeline copy data to Kusto using an on-premises data gateway doesn't work https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-940-pipeline-copy-kusto-on-premises-data-gateway-not-work (2024-11-22 11:01 PM)
@@ -164,7 +164,7 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
         ☐ Fabric Runtime 1.3 causes invalid libraries https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-811-fabric-runtime-invalid-libraries (2024-11-07 10:59 PM)
         ☐ Inserting nulls into Data Warehouse tables fail with incorrect error message https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-810-inserting-nulls-tables-fail-incorrect-error (2024-08-18 11:03 AM)
         ☐ Dataflow Gen2 refresh fails due to missing SQL analytics endpoint https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-809-dataflow-gen2-refresh-fails-missing-endpoint (2024-08-14 09:57 PM)
-        ☐ Custom visuals are blurry in zoomed in or out Microsoft Edge (Chromium) browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-808-custom-visuals-blurry-zoomed-edge-browser (2024-08-14 09:57 PM)
+        ✘ Custom visuals are blurry in zoomed in or out Microsoft Edge (Chromium) browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-808-custom-visuals-blurry-zoomed-edge-browser (2024-08-14 09:57 PM) @cancelled
         ☐ Mirroring for Azure Cosmos DB fails when you create a new container https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-807-mirroring-cosmos-db-fails-create-container (2024-10-15 04:58 PM)
         ☐ Mirroring for Azure Cosmos DB fails https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-796-mirroring-cosmos-db-fails (2024-10-15 04:58 PM)
         ☐ Pipeline copy to Oracle using on-premises data gateway errors https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-781-pipeline-copy-oracle-data-gateway-errors (2024-09-04 10:01 PM)
@@ -258,9 +258,9 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
         ☐ Warehouse's object explorer doesn't support case-sensitive object names https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-454-data-warehouse-object-explorer-unsupport-case-sensitive-names (2024-01-22 06:02 PM)
         ☐ Temp tables in Warehouse and SQL analytics endpoint https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-447-temp-tables-data-warehouse-sql-endpoint (2024-01-22 06:02 PM)
         ☐ Contributor can't update organizational app https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-552-autoscale-not-triggered-carry-forward-accumulated-usage (2024-05-24 09:59 PM)
-        ☐ Closing a Dataflow Gen1 takes you to the wrong workspace https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-546-closing-dataflow-gen1-takes-wrong-workspace (2024-12-17 11:00 PM)
-        ☐ New card visual formatting appears or disappears in Service https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-535-new-card-visual-formatting-appears-disappears (2024-12-17 11:00 PM)
-        ☐ Sign in fails for securely embedded reports using Chrome or Microsoft Edge browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-532-sign-in-fails-securely-embedded-reports-using-chrome-browser (2024-12-17 11:00 PM)
+        ✘ Closing a Dataflow Gen1 takes you to the wrong workspace https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-546-closing-dataflow-gen1-takes-wrong-workspace (2024-12-17 11:00 PM) @cancelled
+        ✘ New card visual formatting appears or disappears in Service https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-535-new-card-visual-formatting-appears-disappears (2024-12-17 11:00 PM) @cancelled
+        ✘ Sign in fails for securely embedded reports using Chrome or Microsoft Edge browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-532-sign-in-fails-securely-embedded-reports-using-chrome-browser (2024-12-17 11:00 PM) @cancelled
         ☐ Dataflow REST API returns more data sources and gateways than expected https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-526-dataflow-rest-api-returns-more-data-sources-gateways (2024-06-06 09:58 PM)
     Resources:
         ☐ Icons https://learn.microsoft.com/en-us/fabric/get-started/icons (2024-10-15 10:00 PM)
@@ -271,4 +271,14 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
 
             ✔ What is workspace monitoring? https://learn.microsoft.com/en-us/fabric/get-started/workspace-monitoring-overview (2024-12-22 12:10 PM) @done(24-12-23 22:21)
         ✔ Copilot in Fabric overview https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-overview (2024-12-22 12:10 PM) @done(24-12-23 22:22)
+
+
+---
+
+        ✔ Active known issues for Fabric + Power BI - chart https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues (2024-12-24 06:09 PM) @done(24-12-26 19:21)
+        ✔ Power BI Copilot can excessively retry in rare error scenarios https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-949-power-bi-copilot-retry-rare-error-scenarios (2024-12-24 06:09 PM) @done(24-12-26 19:21)
+        ✔ Custom visuals are blurry in zoomed in or out Microsoft Edge (Chromium) browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-808-custom-visuals-blurry-zoomed-edge-browser (2024-12-24 06:09 PM) @done(24-12-26 19:21)
+        ✔ Closing a Dataflow Gen1 takes you to the wrong workspace https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-546-closing-dataflow-gen1-takes-wrong-workspace (2024-12-24 06:09 PM) @done(24-12-26 19:24)
+        ✔ New card visual formatting appears or disappears in Service https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-535-new-card-visual-formatting-appears-disappears (2024-12-24 06:09 PM) @done(24-12-26 19:24)
+        ✔ Sign in fails for securely embedded reports using Chrome or Microsoft Edge browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-532-sign-in-fails-securely-embedded-reports-using-chrome-browser (2024-12-24 06:09 PM) @done(24-12-26 19:24)
 

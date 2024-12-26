@@ -159,11 +159,11 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
         ☐ JavaScript https://learn.microsoft.com/azure/ai-services/openai/supported-languages?tabs=dotnet-secure%2Csecure%2Cpython-secure%2Ccommand&pivots=programming-language-javascript (2024-11-19 06:01 PM)
         ☐ .NET https://learn.microsoft.com/dotnet/api/azure.ai.openai?view=azure-dotnet-preview&preserve-view=true (2023-02-08 12:31 PM)
         ☐ REST API (fine-tuning) https://learn.microsoft.com/rest/api/azureopenai/fine-tuning?view=rest-azureopenai-2024-03-01-preview&preserve-view=true (2024-04-02 10:45 PM)
-        ☐ REST API (resource creation & deployment) https://learn.microsoft.com/rest/api/aiservices/accountmanagement/deployments/create-or-update?tabs=HTTP (2024-12-17 11:07 PM)
+        ✘ REST API (resource creation & deployment) https://learn.microsoft.com/rest/api/aiservices/accountmanagement/deployments/create-or-update?tabs=HTTP (2024-12-17 11:07 PM) @cancelled
         Templates:
             Retrieval Augmented Generation (RAG) enterprise chat:
                 ✘ C# https://learn.microsoft.com/dotnet/ai/get-started-app-chat-template (2024-06-19 11:56 AM) @cancelled(24-12-23 22:30)
-                ✘ Java https://learn.microsoft.com/azure/developer/java/quickstarts/get-started-app-chat-template (2024-07-31 09:11 PM) @cancelled(24-12-23 22:31) @cancelled
+                ✘ Java https://learn.microsoft.com/azure/developer/java/quickstarts/get-started-app-chat-template (2024-07-31 09:11 PM) @cancelled(24-12-23 22:31) @cancelled @cancelled
                 ☐ JavaScript https://learn.microsoft.com/azure/developer/javascript/get-started-app-chat-template (2024-12-05 11:00 PM)
                 ✘ Python https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template (2024-12-17 06:03 PM) @cancelled(24-12-23 22:31)
         ☐ Azure OpenAI monitoring data reference https://learn.microsoft.com/en-us/azure/ai-services/openai/monitor-openai-reference (2024-11-11 11:00 PM)
@@ -202,5 +202,11 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
             ✔ Deploy and use web apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-web-app (2024-12-23 11:00 PM) @done(24-12-25 20:35)
         ✔ Use the Realtime API (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/realtime-audio (2024-12-23 11:00 PM) @done(24-12-25 20:36)
             ✔ Network and access configuration https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/on-your-data-configuration (2024-12-23 11:00 PM) @done(24-12-25 20:36)
-                ✘ Java https://learn.microsoft.com/azure/developer/java/quickstarts/get-started-app-chat-template (2024-07-31 09:11 PM) @cancelled(24-12-25 20:36)
+                ✘ Java https://learn.microsoft.com/azure/developer/java/quickstarts/get-started-app-chat-template (2024-07-31 09:11 PM) @cancelled(24-12-25 20:36) @cancelled
+
+
+---
+
+        ✔ REST API (resource creation & deployment) https://learn.microsoft.com/rest/api/aiservices/accountmanagement/deployments/create-or-update?tabs=HTTP (2024-12-24 11:24 PM) @done(24-12-25 22:41)
+                ✘ Java https://learn.microsoft.com/azure/developer/java/quickstarts/get-started-app-chat-template (2024-07-31 09:11 PM) @cancelled(24-12-25 22:41)
 

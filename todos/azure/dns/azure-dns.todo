@@ -15,12 +15,12 @@ Azure DNS documentation | Microsoft Learn:
             ☐ Create a public zone - ARM Template https://learn.microsoft.com/en-us/azure/dns/dns-get-started-template (2024-11-05 11:02 PM)
             ☐ Create a public zone - Terraform https://learn.microsoft.com/en-us/azure/dns/dns-get-started-terraform (2024-08-02 05:06 PM)
         Private DNS:
-            ☐ Create a private zone - portal https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal (2024-08-02 05:06 PM)
+            ✘ Create a private zone - portal https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal (2024-08-02 05:06 PM) @cancelled
             ☐ Create a private zone - CLI https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-cli (2024-08-02 05:06 PM)
             ☐ Create a private zone - PowerShell https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-powershell (2024-08-02 05:06 PM)
         Private resolver:
-            ☐ Create a private resolver - portal https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-portal (2024-08-22 05:37 AM)
-            ☐ Create a private resolver - PowerShell https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-powershell (2024-08-02 05:06 PM)
+            ✘ Create a private resolver - portal https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-portal (2024-08-22 05:37 AM) @cancelled
+            ✘ Create a private resolver - PowerShell https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-powershell (2024-08-02 05:06 PM) @cancelled
             ☐ Create a private resolver - Bicep https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-bicep (2024-08-02 05:06 PM)
             ☐ Create a private resolver - ARM Template https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-template (2024-12-11 06:03 PM)
     Tutorials:
@@ -32,7 +32,7 @@ Azure DNS documentation | Microsoft Learn:
             ☐ Create alias records for public IP addresses https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-pip (2024-08-02 05:06 PM)
             ☐ Create alias records for Traffic Manager https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-tm (2024-09-19 10:05 PM)
         Private Resolver:
-            ☐ Set up DNS failover using private resolvers https://learn.microsoft.com/en-us/azure/dns/tutorial-dns-private-resolver-failover (2024-08-02 05:06 PM)
+            ✘ Set up DNS failover using private resolvers https://learn.microsoft.com/en-us/azure/dns/tutorial-dns-private-resolver-failover (2024-08-02 05:06 PM) @cancelled
     Concepts:
         Security:
             ☐ DNS security policy https://learn.microsoft.com/en-us/azure/dns/dns-security-policy (2024-12-19 06:04 PM)
@@ -41,7 +41,7 @@ Azure DNS documentation | Microsoft Learn:
             ☐ Zones and records https://learn.microsoft.com/en-us/azure/dns/dns-zones-records (2024-11-05 05:32 AM)
             ☐ Alias records https://learn.microsoft.com/en-us/azure/dns/dns-alias (2024-09-24 10:04 PM)
             ☐ Delegation with Azure DNS https://learn.microsoft.com/en-us/azure/dns/dns-domain-delegation (2024-08-02 05:06 PM)
-            ☐ DNSSEC https://learn.microsoft.com/en-us/azure/dns/dnssec (2024-10-31 05:34 AM)
+            ✘ DNSSEC https://learn.microsoft.com/en-us/azure/dns/dnssec (2024-10-31 05:34 AM) @cancelled
             ☐ FAQ https://learn.microsoft.com/en-us/azure/dns/dns-faq (2024-11-05 05:32 AM)
             ☐ DNS metrics and alerts https://learn.microsoft.com/en-us/azure/dns/dns-alerts-metrics (2024-09-11 06:38 PM)
             ☐ Reverse DNS https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-overview (2024-10-30 07:28 PM)
@@ -64,8 +64,8 @@ Azure DNS documentation | Microsoft Learn:
         Public DNS:
             ☐ Alias records for load balanced web apps https://learn.microsoft.com/en-us/azure/dns/dns-alias-appservice (2024-08-02 05:06 PM)
             Manage DNSSEC:
-                ☐ Sign a DNS zone https://learn.microsoft.com/en-us/azure/dns/dnssec-how-to (2024-10-30 10:05 PM)
-                ☐ Unsign a DNS zone https://learn.microsoft.com/en-us/azure/dns/dnssec-unsign (2024-10-30 10:05 PM)
+                ✘ Sign a DNS zone https://learn.microsoft.com/en-us/azure/dns/dnssec-how-to (2024-10-30 10:05 PM) @cancelled
+                ✘ Unsign a DNS zone https://learn.microsoft.com/en-us/azure/dns/dnssec-unsign (2024-10-30 10:05 PM) @cancelled
             Manage DNS zones:
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/dns/dns-operations-dnszones-portal (2024-08-02 05:06 PM)
                 ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/dns/dns-operations-dnszones (2024-08-02 05:06 PM)
@@ -76,7 +76,7 @@ Azure DNS documentation | Microsoft Learn:
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/dns/dns-operations-recordsets-cli (2024-08-30 05:36 AM)
             Manage reverse DNS:
                 ☐ Host reverse lookup zones in Azure DNS https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-hosting (2024-10-30 07:28 PM)
-                ☐ Manage reverse DNS records for Azure services https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-for-azure-services (2024-10-30 07:28 PM)
+                ✘ Manage reverse DNS records for Azure services https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-for-azure-services (2024-10-30 07:28 PM) @cancelled
             Import and export a DNS zone file:
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/dns/dns-import-export-portal (2024-10-03 11:22 AM)
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/dns/dns-import-export (2024-08-02 05:06 PM)
@@ -92,8 +92,8 @@ Azure DNS documentation | Microsoft Learn:
             Import and export a DNS zone file:
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/dns/private-dns-import-export-portal (2024-12-11 06:03 PM)
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/dns/private-dns-import-export (2024-08-02 05:06 PM)
-            ☐ Create and manage reverse DNS zones https://learn.microsoft.com/en-us/azure/dns/private-reverse-dns (2024-08-02 05:06 PM)
-            ☐ Use Azure Resource Graph Explorer https://learn.microsoft.com/en-us/azure/dns/private-dns-arg (2024-08-02 05:06 PM)
+            ✘ Create and manage reverse DNS zones https://learn.microsoft.com/en-us/azure/dns/private-reverse-dns (2024-08-02 05:06 PM) @cancelled
+            ✘ Use Azure Resource Graph Explorer https://learn.microsoft.com/en-us/azure/dns/private-dns-arg (2024-08-02 05:06 PM) @cancelled
             ☐ Fallback to internet resolution https://learn.microsoft.com/en-us/azure/dns/private-dns-fallback (2024-11-24 12:10 PM)
         Private Resolver:
             ☐ Resolve Azure and on-premises domains https://learn.microsoft.com/en-us/azure/dns/private-resolver-hybrid-dns (2024-11-22 05:58 AM)
@@ -139,4 +139,16 @@ Azure DNS documentation | Microsoft Learn:
         ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
         ☐ Service updates https://azure.microsoft.com/updates/?product=dns
         ☐ Private DNS zone migration guide https://learn.microsoft.com/en-us/azure/dns/private-dns-migration-guide (2024-08-02 05:06 PM)
+
+
+---
+
+            ✔ Create a private zone - portal https://learn.microsoft.com/en-us/azure/dns/private-dns-getstarted-portal (2024-12-24 06:15 PM) @done(24-12-26 13:24)
+            ✔ Create a private resolver - portal https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-portal (2024-12-24 06:15 PM) @done(24-12-26 17:45)
+            ✔ Create a private resolver - PowerShell https://learn.microsoft.com/en-us/azure/dns/dns-private-resolver-get-started-powershell (2024-12-24 06:15 PM) @done(24-12-26 17:45)
+            ✔ Set up DNS failover using private resolvers https://learn.microsoft.com/en-us/azure/dns/tutorial-dns-private-resolver-failover (2024-12-24 06:15 PM) @done(24-12-26 18:00)
+            ✔ DNSSEC https://learn.microsoft.com/en-us/azure/dns/dnssec (2024-12-24 06:15 PM) @done(24-12-26 18:06)
+                ✔ Manage reverse DNS records for Azure services https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-for-azure-services (2024-12-24 06:15 PM) @done(24-12-26 18:07)
+            ✔ Create and manage reverse DNS zones https://learn.microsoft.com/en-us/azure/dns/private-reverse-dns (2024-12-24 06:15 PM) @done(24-12-26 18:08)
+            ✔ Use Azure Resource Graph Explorer https://learn.microsoft.com/en-us/azure/dns/private-dns-arg (2024-12-24 06:15 PM) @done(24-12-26 18:09)
 

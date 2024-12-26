@@ -44,7 +44,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ Load Balance VMs https://learn.microsoft.com/azure/load-balancer/quickstart-load-balancer-standard-public-powershell?toc=/azure/virtual-machines/toc.json (2024-08-01 05:04 PM)
             ☐ Create and manage a scale set https://learn.microsoft.com/azure/virtual-machine-scale-sets/tutorial-create-and-manage-powershell?toc=/azure/virtual-machines/toc.json (2024-08-22 05:37 PM)
     Develop:
-        ☐ REST API https://learn.microsoft.com/rest/api/compute/virtual-machines?toc=/azure/virtual-machines/toc.json (2024-07-30 10:00 PM)
+        ✘ REST API https://learn.microsoft.com/rest/api/compute/virtual-machines?toc=/azure/virtual-machines/toc.json (2024-07-30 10:00 PM) @cancelled
         Python:
             ☐ Python SDK https://github.com/Azure/azure-sdk-for-python
             ☐ Samples https://github.com/Azure-Samples/virtual-machines-python-manage
@@ -482,7 +482,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             Linux:
                 ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-cli-complete (2024-08-22 05:37 PM)
                 ☐ ARM template https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-secured-vm-from-template (2024-08-22 05:37 PM)
-                ☐ REST with SSH https://learn.microsoft.com/rest/api/compute/virtual-machines/create-or-update?tabs=HTTP#create-a-vm-with-ssh-authentication (2024-12-17 11:07 PM)
+                ✘ REST with SSH https://learn.microsoft.com/rest/api/compute/virtual-machines/create-or-update?tabs=HTTP#create-a-vm-with-ssh-authentication (2024-12-17 11:07 PM) @cancelled
                 ☐ LAMP stack https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-lamp-stack (2024-08-23 04:58 PM)
                 ☐ LEMP stack https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-lemp-stack (2024-11-21 05:32 AM)
                 Continuous delivery:
@@ -1038,4 +1038,10 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/faq (2024-12-04 11:03 PM)
             ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/faq (2024-08-22 05:37 PM)
     ☐ Support and troubleshooting https://learn.microsoft.com/en-us/azure/virtual-machines/vm-support-help (2024-08-22 05:37 PM)
+
+
+---
+
+        ✔ REST API https://learn.microsoft.com/rest/api/compute/virtual-machines?toc=/azure/virtual-machines/toc.json (2024-12-24 11:24 PM) @done(24-12-25 22:49)
+                ✔ REST with SSH https://learn.microsoft.com/rest/api/compute/virtual-machines/create-or-update?tabs=HTTP#create-a-vm-with-ssh-authentication (2024-12-24 11:24 PM) @done(24-12-25 22:49)
 

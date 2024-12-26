@@ -375,7 +375,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         Configure backup:
             ☐ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-08 06:02 PM)
             ☐ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-08 06:02 PM)
-            ☐ Restore https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-restore?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM)
+            ✘ Restore https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-restore?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM) @cancelled
             ☐ Manage https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-manage-backups?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-21 11:02 PM)
         Observability:
             ☐ Configure AKS diagnostics https://learn.microsoft.com/en-us/azure/aks/aks-diagnostics (2024-10-09 09:59 PM)
@@ -522,9 +522,9 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ☐ REST https://learn.microsoft.com/rest/api/aks/ (2023-10-31 09:45 PM)
         ☐ PowerShell https://learn.microsoft.com/powershell/module/az.aks/#aks (2024-11-19 05:50 PM)
         ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2024-12-06 12:27 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2024-12-24 12:08 PM)
-        ☐ Java https://learn.microsoft.com/java/api/overview/azure/containerservice (2024-12-24 12:11 PM)
-        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2024-12-24 12:12 PM)
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2024-12-24 12:08 PM) @cancelled
+        ✘ Java https://learn.microsoft.com/java/api/overview/azure/containerservice (2024-12-24 12:11 PM) @cancelled
+        ✘ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2024-12-24 12:12 PM) @cancelled
         ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.containerservice/managedclusters (2024-12-03 10:14 PM)
         ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/aks/policy-reference (2024-08-01 08:29 PM)
         ☐ AKS monitoring data reference https://learn.microsoft.com/en-us/azure/aks/monitor-aks-reference (2024-09-23 04:58 PM)
@@ -540,4 +540,12 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
     Support and troubleshooting:
         ☐ Support options for AKS https://learn.microsoft.com/en-us/azure/aks/aks-support-help (2024-08-01 08:29 PM)
         ☐ Troubleshooting documentation for AKS https://learn.microsoft.com/troubleshoot/azure/azure-kubernetes/welcome-azure-kubernetes (2024-11-27 10:00 AM)
+
+
+---
+
+            ✔ Restore https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-restore?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-24 06:15 PM) @done(24-12-25 22:45)
+        ✔ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2024-12-25 12:09 PM) @done(24-12-25 22:42)
+        ✘ Java https://learn.microsoft.com/java/api/overview/azure/containerservice (2024-12-25 12:12 PM) @cancelled(24-12-25 22:42)
+        ✔ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2024-12-25 12:09 PM) @done(24-12-25 22:42)
 

@@ -123,15 +123,15 @@ Azure Queue storage documentation | Microsoft Learn:
         APIs for data access:
             ☐ REST API https://learn.microsoft.com/rest/api/storageservices/queue-service-rest-api (2023-06-27 09:44 PM)
             ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2024-12-06 12:27 PM)
-            ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-20 12:09 PM) @cancelled
-            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled
-            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled
+            ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-20 12:09 PM) @cancelled @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled @cancelled
         APIs for resource management:
             ☐ REST API https://learn.microsoft.com/rest/api/storagerp/ (2024-06-18 10:08 PM)
             ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.storage-readme (2024-08-02 02:42 AM)
-            ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-20 12:14 PM) @cancelled
-            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled
-            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled
+            ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-20 12:14 PM) @cancelled @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled @cancelled
         ☐ Monitoring Queue Storage data reference https://learn.microsoft.com/en-us/azure/storage/queues/monitor-queue-storage-reference (2024-08-20 05:41 AM)
         ☐ Spring Integration with Azure Storage Queue https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/storage/queues/TOC.json#spring-integration-with-azure-storage-queue (2024-12-18 06:02 PM)
         ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.storage/allversions (2024-12-03 10:14 PM)
@@ -164,7 +164,7 @@ Azure Queue storage documentation | Microsoft Learn:
                 ☐ Storage Resource Provider library https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/storage/Azure.ResourceManager.Storage
             Java:
                 ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-java/tree/master/sdk/storage
-                ✘ Blobs, Queues, and Files (version 8) https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-20 12:09 PM) @cancelled
+                ✘ Blobs, Queues, and Files (version 8) https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-20 12:09 PM) @cancelled @cancelled
                 ☐ Azure Storage client library version 8.x and earlier https://github.com/Azure/azure-storage-java
             Node.js:
                 ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-js/tree/master/sdk/storage
@@ -177,12 +177,23 @@ Azure Queue storage documentation | Microsoft Learn:
 
 ---
 
-            ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-24 12:06 PM) @cancelled(24-12-24 18:22)
-            ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-24 12:08 PM) @done(24-12-24 18:22)
-            ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-24 12:12 PM) @done(24-12-24 18:22)
-            ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-24 12:11 PM) @cancelled(24-12-24 18:22)
-            ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-24 12:08 PM) @done(24-12-24 18:22)
-            ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-24 12:12 PM) @done(24-12-24 18:22)
+            ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-24 12:06 PM) @cancelled(24-12-24 18:22) @cancelled
+            ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-24 12:08 PM) @done(24-12-24 18:22) @cancelled
+            ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-24 12:12 PM) @done(24-12-24 18:22) @cancelled
+            ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-24 12:11 PM) @cancelled(24-12-24 18:22) @cancelled
+            ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-24 12:08 PM) @done(24-12-24 18:22) @cancelled
+            ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-24 12:12 PM) @done(24-12-24 18:22) @cancelled
             ✔ Troubleshoot Storage Explorer https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-explorer-troubleshooting (2024-12-23 10:00 AM) @done(24-12-24 18:23)
-                ✘ Blobs, Queues, and Files (version 8) https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-24 12:06 PM) @cancelled(24-12-24 18:24)
+                ✘ Blobs, Queues, and Files (version 8) https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-24 12:06 PM) @cancelled(24-12-24 18:24) @cancelled
+
+
+---
+
+            ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-25 12:06 PM) @cancelled(24-12-25 22:50)
+            ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-25 12:09 PM) @done(24-12-25 22:50)
+            ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-25 12:09 PM) @done(24-12-25 22:50)
+            ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-25 12:12 PM) @cancelled(24-12-25 22:50)
+            ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-25 12:09 PM) @done(24-12-25 22:50)
+            ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-25 12:09 PM) @done(24-12-25 22:50)
+                ✔ Blobs, Queues, and Files (version 8) https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-25 12:06 PM) @done(24-12-25 22:50)
 

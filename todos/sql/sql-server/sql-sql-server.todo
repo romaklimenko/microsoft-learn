@@ -1551,7 +1551,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                 ☐ SQLBrowseConnect https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlbrowseconnect (2024-09-09 10:27 PM)
                 ☐ SQLCancel https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcancel (2024-09-09 10:27 PM)
                 ☐ SQLCloseCursor https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlclosecursor (2024-09-09 10:27 PM)
-                ✘ SQLColAttribute https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolattribute (2024-09-09 10:27 PM) @cancelled(24-12-25 19:57)
+                ✘ SQLColAttribute https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolattribute (2024-09-09 10:27 PM) @cancelled(24-12-25 19:57) @cancelled
                 ☐ SQLColumnPrivileges https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolumnprivileges (2024-09-09 10:27 PM)
                 ☐ SQLColumns https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolumns (2024-09-09 10:27 PM)
                 ☐ SQLConfigDataSource https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlconfigdatasource (2024-09-09 10:27 PM)
@@ -4812,7 +4812,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                     Delete:
                         ☐ a Job Category https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-job-category (2024-09-09 10:27 PM)
                         ☐ a Job Step Log https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-job-step-log (2024-09-09 10:27 PM)
-                        ✘ a SQL Server Agent Proxy https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-sql-server-agent-proxy (2024-09-09 10:27 PM) @cancelled(24-12-25 19:57)
+                        ✘ a SQL Server Agent Proxy https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-sql-server-agent-proxy (2024-09-09 10:27 PM) @cancelled(24-12-25 19:57) @cancelled
                         ☐ an Alert https://learn.microsoft.com/en-us/sql/ssms/agent/delete-an-alert (2024-09-09 10:27 PM)
                         ☐ an Operator https://learn.microsoft.com/en-us/sql/ssms/agent/delete-an-operator (2024-09-09 10:27 PM)
                         ☐ Jobs https://learn.microsoft.com/en-us/sql/ssms/agent/delete-jobs (2024-09-09 10:27 PM)
@@ -9430,16 +9430,22 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
 
 ---
 
-                        ✔ a SQL Server Agent Proxy https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-sql-server-agent-proxy @done(24-12-25 19:55)
+                        ✔ a SQL Server Agent Proxy https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-sql-server-agent-proxy @done(24-12-25 19:55) @cancelled
 
 
 ---
 
-                ✔ SQLColAttribute https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolattribute @done(24-12-25 19:56)
+                ✔ SQLColAttribute https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolattribute @done(24-12-25 19:56) @cancelled
 
 
 ---
 
             ✔ Install and connect (WSL2) https://learn.microsoft.com/en-us/sql/linux/quickstart-install-connect-wsl-2 (2024-09-09 10:27 PM) @done(24-12-24 15:47)
                 ✔ Enable Defender https://learn.microsoft.com/azure/defender-for-cloud/defender-for-sql-usage?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-12-23 05:59 PM) @done(24-12-24 15:48)
+
+
+---
+
+                ✔ SQLColAttribute https://learn.microsoft.com/en-us/sql/relational-databases/native-client-odbc-api/sqlcolattribute (2024-09-09 10:27 PM) @done(24-12-26 11:25)
+                        ✔ a SQL Server Agent Proxy https://learn.microsoft.com/en-us/sql/ssms/agent/delete-a-sql-server-agent-proxy (2024-09-09 10:27 PM) @done(24-12-26 11:25)
 

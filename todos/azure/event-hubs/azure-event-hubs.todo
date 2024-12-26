@@ -82,7 +82,7 @@ Azure Event Hubs documentation | Microsoft Learn:
                 ☐ Authenticate and authorize access to Event Hubs resources https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-event-hubs (2024-12-18 11:02 PM)
                 Use Shared Access Signature (SAS):
                     ☐ Authenticate with a shared access signature https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-shared-access-signature (2024-06-27 05:38 AM)
-                    ☐ Authorize access with a shared access signature https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-shared-access-signature (2024-06-27 05:38 AM)
+                    ✘ Authorize access with a shared access signature https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-shared-access-signature (2024-06-27 05:38 AM) @cancelled
                 Use Microsoft Entra ID:
                     ☐ Authenticate with a managed identity https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-managed-identity (2024-06-27 05:38 AM)
                     ☐ Authenticate from an application https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-application (2024-06-27 05:38 AM)
@@ -192,14 +192,14 @@ Azure Event Hubs documentation | Microsoft Learn:
             Client library:
                 ☐ Migrate from azure-eventhubs to azure-messaging-eventhubs https://github.com/Azure/azure-sdk-for-java/blob/master/sdk/eventhubs/azure-messaging-eventhubs/migration-guide.md
                 ☐ azure-messaging-eventhubs (latest) https://learn.microsoft.com/java/api/overview/azure/messaging-eventhubs-readme (2024-12-05 12:05 PM)
-                ✘ azure-eventhubs (legacy) https://learn.microsoft.com/java/api/overview/azure/eventhubs/client?view=azure-java-legacy&preserve-view=true (2024-12-20 12:14 PM) @cancelled(24-12-24 15:32) @cancelled
+                ✘ azure-eventhubs (legacy) https://learn.microsoft.com/java/api/overview/azure/eventhubs/client?view=azure-java-legacy&preserve-view=true (2024-12-20 12:14 PM) @cancelled(24-12-24 15:32) @cancelled @cancelled
             ☐ Management library https://learn.microsoft.com/java/api/com.microsoft.azure.management.eventhub (2024-06-12 11:12 AM)
         Spring:
             ☐ Spring integration https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?tabs=maven#spring-integration-with-azure-event-hubs?toc=/azure/event-hubs/TOC.json (2024-12-18 06:02 PM)
             ☐ Spring Cloud Stream https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?tabs=maven#spring-cloud-stream-binder-for-azure-event-hubs?toc=/azure/event-hubs/TOC.json (2024-12-18 06:02 PM)
         Python:
             ☐ Client library https://learn.microsoft.com/python/api/overview/azure/eventhub-readme (2024-11-16 06:57 AM)
-            ✘ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2024-12-20 12:08 PM) @cancelled(24-12-24 15:32) @cancelled
+            ✘ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2024-12-20 12:08 PM) @cancelled(24-12-24 15:32) @cancelled @cancelled
         JavaScript:
             ☐ Client library https://learn.microsoft.com/javascript/api/overview/azure/event-hubs-readme (2024-10-14 11:08 AM)
             ☐ Management library https://learn.microsoft.com/javascript/api/@azure/arm-eventhub/ (2024-09-09 11:10 AM)
@@ -224,12 +224,19 @@ Azure Event Hubs documentation | Microsoft Learn:
 
 ---
 
-                ✔ azure-eventhubs (legacy) https://learn.microsoft.com/java/api/overview/azure/eventhubs/client?view=azure-java-legacy&preserve-view=true (2024-12-23 12:12 PM) @done(24-12-24 15:31) @cancelled
-            ✔ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2024-12-23 12:07 PM) @done(24-12-24 15:32) @cancelled
+                ✔ azure-eventhubs (legacy) https://learn.microsoft.com/java/api/overview/azure/eventhubs/client?view=azure-java-legacy&preserve-view=true (2024-12-23 12:12 PM) @done(24-12-24 15:31) @cancelled @cancelled
+            ✔ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2024-12-23 12:07 PM) @done(24-12-24 15:32) @cancelled @cancelled
 
 
 ---
 
-                ✔ azure-eventhubs (legacy) https://learn.microsoft.com/java/api/overview/azure/eventhubs/client?view=azure-java-legacy&preserve-view=true (2024-12-24 12:11 PM) @done(24-12-24 18:43)
-            ✔ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2024-12-24 12:08 PM) @done(24-12-24 18:43)
+                ✔ azure-eventhubs (legacy) https://learn.microsoft.com/java/api/overview/azure/eventhubs/client?view=azure-java-legacy&preserve-view=true (2024-12-24 12:11 PM) @done(24-12-24 18:43) @cancelled
+            ✔ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2024-12-24 12:08 PM) @done(24-12-24 18:43) @cancelled
+
+
+---
+
+                    ✔ Authorize access with a shared access signature https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-shared-access-signature (2024-12-24 06:15 PM) @done(24-12-25 22:53)
+                ✘ azure-eventhubs (legacy) https://learn.microsoft.com/java/api/overview/azure/eventhubs/client?view=azure-java-legacy&preserve-view=true (2024-12-25 12:12 PM) @cancelled(24-12-25 22:52)
+            ✔ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2024-12-25 12:09 PM) @done(24-12-25 22:52)
 
