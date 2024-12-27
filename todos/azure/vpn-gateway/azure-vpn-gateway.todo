@@ -3,8 +3,8 @@ VPN Gateway documentation | Microsoft Learn:
     Overview:
         ☐ What is VPN Gateway? https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways (2024-12-10 11:02 PM)
     Tutorials:
-        ☐ Create and manage a VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2024-11-20 11:04 PM)
-        ☐ Configure a site-to-site connection https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2024-11-20 11:04 PM)
+        ✘ Create and manage a VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2024-11-20 11:04 PM) @cancelled
+        ✘ Configure a site-to-site connection https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2024-11-20 11:04 PM) @cancelled
     Concepts:
         ☐ What's new in VPN Gateway? https://learn.microsoft.com/en-us/azure/vpn-gateway/whats-new (2024-12-10 11:02 PM)
         Work remotely:
@@ -37,7 +37,7 @@ VPN Gateway documentation | Microsoft Learn:
     How-to guides:
         Create and manage a VPN gateway:
             Create a VPN gateway:
-                ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2024-11-20 11:04 PM)
+                ✘ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2024-11-20 11:04 PM) @cancelled
                 ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-powershell (2024-11-20 11:04 PM)
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-cli (2024-11-20 11:04 PM)
                 ☐ Create a Basic SKU gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-basic-sku-powershell (2024-08-15 10:07 PM)
@@ -49,7 +49,7 @@ VPN Gateway documentation | Microsoft Learn:
                 ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-powershell (2024-08-02 11:27 AM)
         Site-to-site (S2S):
             Configure site-to-site connections - shared key:
-                ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2024-11-20 11:04 PM)
+                ✘ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2024-11-20 11:04 PM) @cancelled
                 ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell (2024-12-02 11:02 PM)
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-cli (2024-12-02 11:02 PM)
             ☐ Configure site-to-site connections - certificate https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-certificate-authentication-gateway-portal (2024-12-17 11:03 PM)
@@ -141,7 +141,7 @@ VPN Gateway documentation | Microsoft Learn:
             ☐ Configure site-to-site forced tunneling https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-tunneling (2024-08-02 11:27 AM)
             ☐ Configure gateway transit for VNet peering https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-peering-gateway-transit (2024-08-02 11:27 AM)
             ☐ Connect AWS and Azure using a BGP-enabled VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-aws-bgp (2024-12-13 11:03 PM)
-        ☐ Configure NAT for VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-howto (2024-10-16 10:05 PM)
+        ✘ Configure NAT for VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-howto (2024-10-16 10:05 PM) @cancelled
         Modify a local network gateway:
             ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway-portal (2024-12-13 11:03 PM)
             ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway (2024-08-02 11:27 AM)
@@ -156,7 +156,7 @@ VPN Gateway documentation | Microsoft Learn:
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/ipsec-ike-policy-howto (2024-12-03 05:33 AM)
                 ☐ PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-ipsecikepolicy-rm-powershell (2024-08-02 11:27 AM)
         Configure active-active gateways:
-            ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2024-11-20 11:04 PM)
+            ✘ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2024-11-20 11:04 PM) @cancelled
             ☐ PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-powershell (2024-11-20 11:04 PM)
         ☐ Configure zone redundant gateways https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway (2024-12-13 06:02 PM)
         Monitoring:
@@ -193,4 +193,14 @@ VPN Gateway documentation | Microsoft Learn:
         ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
         ☐ SLA https://azure.microsoft.com/support/legal/sla
         ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=vpn-gateway
+
+
+---
+
+        ✔ Create and manage a VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2024-12-26 06:03 PM) @done(24-12-27 17:53)
+        ✔ Configure a site-to-site connection https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2024-12-26 06:03 PM) @done(24-12-27 17:53)
+                ✔ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2024-12-26 06:03 PM) @done(24-12-27 17:53)
+                ✔ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2024-12-26 06:03 PM) @done(24-12-27 17:53)
+        ✔ Configure NAT for VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-howto (2024-12-26 06:03 PM) @done(24-12-27 17:53)
+            ✔ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2024-12-26 06:03 PM) @done(24-12-27 17:53)
 

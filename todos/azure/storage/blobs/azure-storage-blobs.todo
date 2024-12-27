@@ -104,7 +104,7 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ☐ Tutorial: Calculate container statistics https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-calculate-container-statistics-databricks (2024-04-22 10:06 PM)
             Blob index tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-manage-find-blobs (2024-11-27 11:03 PM):
                 ☐ Use blob index tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-index-how-to (2024-05-01 10:11 PM)
-            Lifecycle management policies https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-overview (2024-11-27 05:32 AM):
+            Lifecycle management policies https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-overview (2024-11-27 05:32 AM): @cancelled
                 ☐ Configure lifecycle management policies https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-policy-configure (2024-07-03 10:09 PM)
             ☐ Full text search https://learn.microsoft.com/azure/search/search-blob-storage-integration?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-12-06 11:01 PM)
             Static websites:
@@ -391,7 +391,7 @@ Azure Blob Storage documentation | Microsoft Learn:
                     Client library configuration options:
                         ☐ Performance tuning for uploads and downloads https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-tune-upload-download-javascript (2024-10-30 10:05 PM)
                         ☐ Implement a retry policy https://learn.microsoft.com/en-us/azure/storage/blobs/storage-retry-policy-javascript (2024-10-30 10:05 PM)
-                    ☐ Tutorial: Upload and process image files https://learn.microsoft.com/en-us/azure/storage/blobs/blob-upload-function-trigger-javascript (2024-12-16 11:03 PM)
+                    ✘ Tutorial: Upload and process image files https://learn.microsoft.com/en-us/azure/storage/blobs/blob-upload-function-trigger-javascript (2024-12-16 11:03 PM) @cancelled
                 Python:
                     ☐ Get started https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-python-get-started (2024-11-05 06:07 PM)
                     Authorize access from your application:
@@ -486,22 +486,22 @@ Azure Blob Storage documentation | Microsoft Learn:
                 APIs for data access:
                     ☐ REST API https://learn.microsoft.com/rest/api/storageservices/blob-service-rest-api (2023-11-07 10:33 PM)
                     ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2024-12-06 12:27 PM)
-                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-20 12:09 PM) @cancelled @cancelled
-                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled @cancelled
-                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled @cancelled
+                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-20 12:09 PM) @cancelled @cancelled @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled @cancelled @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled @cancelled @cancelled
                 APIs for resource management:
                     ☐ REST API https://learn.microsoft.com/rest/api/storagerp/ (2024-06-18 10:08 PM)
                     ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.storage-readme (2024-08-02 02:42 AM)
-                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-20 12:14 PM) @cancelled @cancelled
-                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled @cancelled
-                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled @cancelled
+                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-20 12:14 PM) @cancelled @cancelled @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled @cancelled @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled @cancelled @cancelled
                 ☐ Spring Cloud Azure https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json#resource-handing (2024-12-18 06:02 PM)
             Data Lake Storage Gen2 APIs:
                 ☐ REST https://learn.microsoft.com/rest/api/storageservices/data-lake-storage-gen2 (2023-11-07 10:33 PM)
                 ☐ .NET https://learn.microsoft.com/dotnet/api/azure.storage.files.datalake (2019-11-26 11:24 PM)
-                ✘ Java https://learn.microsoft.com/java/api/overview/azure/storage-file-datalake-readme (2024-11-14 12:06 PM) @cancelled @cancelled
-                ✘ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2024-11-16 06:57 AM) @cancelled @cancelled
-                ✘ JavaScript https://learn.microsoft.com/javascript/api/overview/azure/storage-file-datalake-readme (2024-11-20 12:07 PM) @cancelled @cancelled
+                ✘ Java https://learn.microsoft.com/java/api/overview/azure/storage-file-datalake-readme (2024-11-14 12:06 PM) @cancelled @cancelled @cancelled
+                ✘ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2024-11-16 06:57 AM) @cancelled @cancelled @cancelled
+                ✘ JavaScript https://learn.microsoft.com/javascript/api/overview/azure/storage-file-datalake-readme (2024-11-20 12:07 PM) @cancelled @cancelled @cancelled
                 ☐ C++ https://github.com/Azure/azure-sdk-for-cpp/tree/master/sdk/storage/azure-storage-files-datalake
             ☐ Query acceleration reference https://learn.microsoft.com/en-us/azure/storage/blobs/query-acceleration-sql-reference (2024-11-26 11:03 PM)
             AzCopy v10:
@@ -686,22 +686,22 @@ Azure Blob Storage documentation | Microsoft Learn:
             APIs for data access:
                 ☐ REST API https://learn.microsoft.com/rest/api/storageservices/blob-service-rest-api (2023-11-07 10:33 PM)
                 ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2024-12-06 12:27 PM)
-                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-20 12:09 PM) @cancelled @cancelled
-                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled @cancelled
-                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled @cancelled
+                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-20 12:09 PM) @cancelled @cancelled @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled @cancelled @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-20 12:08 PM) @cancelled @cancelled @cancelled
             APIs for resource management:
                 ☐ REST API https://learn.microsoft.com/rest/api/storagerp/ (2024-06-18 10:08 PM)
                 ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.storage-readme (2024-08-02 02:42 AM)
-                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-20 12:14 PM) @cancelled @cancelled
-                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled @cancelled
-                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled @cancelled
+                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-20 12:14 PM) @cancelled @cancelled @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled @cancelled @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-20 12:08 PM) @cancelled @cancelled @cancelled
             ☐ Spring Cloud Azure https://learn.microsoft.com/azure/developer/java/spring-framework/spring-cloud-azure?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json#resource-handing (2024-12-18 06:02 PM)
         Data Lake Storage Gen2 APIs:
             ☐ REST https://learn.microsoft.com/rest/api/storageservices/data-lake-storage-gen2 (2023-11-07 10:33 PM)
             ☐ .NET https://learn.microsoft.com/dotnet/api/azure.storage.files.datalake (2019-11-26 11:24 PM)
-            ✘ Java https://learn.microsoft.com/java/api/overview/azure/storage-file-datalake-readme (2024-11-14 12:06 PM) @cancelled @cancelled
-            ✘ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2024-11-16 06:57 AM) @cancelled @cancelled
-            ✘ JavaScript https://learn.microsoft.com/javascript/api/overview/azure/storage-file-datalake-readme (2024-11-20 12:07 PM) @cancelled @cancelled
+            ✘ Java https://learn.microsoft.com/java/api/overview/azure/storage-file-datalake-readme (2024-11-14 12:06 PM) @cancelled @cancelled @cancelled
+            ✘ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2024-11-16 06:57 AM) @cancelled @cancelled @cancelled
+            ✘ JavaScript https://learn.microsoft.com/javascript/api/overview/azure/storage-file-datalake-readme (2024-11-20 12:07 PM) @cancelled @cancelled @cancelled
             ☐ C++ https://github.com/Azure/azure-sdk-for-cpp/tree/master/sdk/storage/azure-storage-files-datalake
         ☐ Query acceleration reference https://learn.microsoft.com/en-us/azure/storage/blobs/query-acceleration-sql-reference (2024-11-26 11:03 PM)
         AzCopy v10:
@@ -810,40 +810,60 @@ Azure Blob Storage documentation | Microsoft Learn:
 ---
 
             ✔ Go https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-go (2024-12-23 06:06 PM) @done(24-12-24 18:53)
-                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-24 12:06 PM) @cancelled(24-12-24 18:14) @cancelled
-                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-24 12:08 PM) @done(24-12-24 18:53) @cancelled
-                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-24 12:12 PM) @started(24-12-24 18:14) @done(24-12-24 18:53) @lasted(39m31s) @cancelled
-                    ✔ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-24 12:11 PM) @done(24-12-24 18:53) @cancelled
-                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-24 12:08 PM) @done(24-12-24 18:53) @cancelled
-                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-24 12:12 PM) @done(24-12-24 18:53) @cancelled
+                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-24 12:06 PM) @cancelled(24-12-24 18:14) @cancelled @cancelled
+                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-24 12:08 PM) @done(24-12-24 18:53) @cancelled @cancelled
+                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-24 12:12 PM) @started(24-12-24 18:14) @done(24-12-24 18:53) @lasted(39m31s) @cancelled @cancelled
+                    ✔ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-24 12:11 PM) @done(24-12-24 18:53) @cancelled @cancelled
+                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-24 12:08 PM) @done(24-12-24 18:53) @cancelled @cancelled
+                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-24 12:12 PM) @done(24-12-24 18:53) @cancelled @cancelled
                 ✔ Troubleshoot Storage Explorer https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-explorer-troubleshooting?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-12-23 10:00 AM) @done(24-12-24 18:53)
-                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-24 12:06 PM) @cancelled(24-12-24 18:14) @cancelled
-                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-24 12:08 PM) @done(24-12-24 18:53) @cancelled
-                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-24 12:12 PM) @done(24-12-24 18:53) @cancelled
-                ✔ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-24 12:11 PM) @done(24-12-24 18:53) @cancelled
-                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-24 12:08 PM) @done(24-12-24 18:53) @cancelled
-                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-24 12:12 PM) @done(24-12-24 18:53) @cancelled
+                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-24 12:06 PM) @cancelled(24-12-24 18:14) @cancelled @cancelled
+                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-24 12:08 PM) @done(24-12-24 18:53) @cancelled @cancelled
+                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-24 12:12 PM) @done(24-12-24 18:53) @cancelled @cancelled
+                ✔ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-24 12:11 PM) @done(24-12-24 18:53) @cancelled @cancelled
+                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-24 12:08 PM) @done(24-12-24 18:53) @cancelled @cancelled
+                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-24 12:12 PM) @done(24-12-24 18:53) @cancelled @cancelled
             ✔ Troubleshoot Storage Explorer https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-explorer-troubleshooting?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-12-23 10:00 AM) @done(24-12-24 18:53)
 
 
 ---
 
-                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-25 12:06 PM) @cancelled(24-12-25 22:50)
-                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-25 12:09 PM) @done(24-12-25 22:50)
-                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-25 12:09 PM) @done(24-12-25 22:50)
-                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-25 12:12 PM) @cancelled(24-12-25 22:50)
-                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-25 12:09 PM) @done(24-12-25 22:50)
-                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-25 12:09 PM) @done(24-12-25 22:50)
-                ✘ Java https://learn.microsoft.com/java/api/overview/azure/storage-file-datalake-readme (2024-11-14 12:06 PM) @cancelled(24-12-25 22:50)
-                ✔ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2024-11-16 06:57 AM) @done(24-12-25 22:50)
-                ✔ JavaScript https://learn.microsoft.com/javascript/api/overview/azure/storage-file-datalake-readme (2024-11-20 12:07 PM) @done(24-12-25 22:50)
-                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-25 12:06 PM) @cancelled(24-12-25 22:50)
-                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-25 12:09 PM) @done(24-12-25 22:50)
-                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-25 12:09 PM) @done(24-12-25 22:50)
-                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-25 12:12 PM) @cancelled(24-12-25 22:50)
-                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-25 12:09 PM) @done(24-12-25 22:50)
-                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-25 12:09 PM) @done(24-12-25 22:50)
-            ✘ Java https://learn.microsoft.com/java/api/overview/azure/storage-file-datalake-readme (2024-11-14 12:06 PM) @cancelled(24-12-25 22:50)
-            ✔ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2024-11-16 06:57 AM) @done(24-12-25 22:50)
-            ✔ JavaScript https://learn.microsoft.com/javascript/api/overview/azure/storage-file-datalake-readme (2024-11-20 12:07 PM) @done(24-12-25 22:50)
+                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-25 12:06 PM) @cancelled(24-12-25 22:50) @cancelled
+                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-25 12:09 PM) @done(24-12-25 22:50) @cancelled
+                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-25 12:09 PM) @done(24-12-25 22:50) @cancelled
+                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-25 12:12 PM) @cancelled(24-12-25 22:50) @cancelled
+                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-25 12:09 PM) @done(24-12-25 22:50) @cancelled
+                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-25 12:09 PM) @done(24-12-25 22:50) @cancelled
+                ✘ Java https://learn.microsoft.com/java/api/overview/azure/storage-file-datalake-readme (2024-11-14 12:06 PM) @cancelled(24-12-25 22:50) @cancelled
+                ✔ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2024-11-16 06:57 AM) @done(24-12-25 22:50) @cancelled
+                ✔ JavaScript https://learn.microsoft.com/javascript/api/overview/azure/storage-file-datalake-readme (2024-11-20 12:07 PM) @done(24-12-25 22:50) @cancelled
+                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-25 12:06 PM) @cancelled(24-12-25 22:50) @cancelled
+                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-25 12:09 PM) @done(24-12-25 22:50) @cancelled
+                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-25 12:09 PM) @done(24-12-25 22:50) @cancelled
+                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-25 12:12 PM) @cancelled(24-12-25 22:50) @cancelled
+                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-25 12:09 PM) @done(24-12-25 22:50) @cancelled
+                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-25 12:09 PM) @done(24-12-25 22:50) @cancelled
+            ✘ Java https://learn.microsoft.com/java/api/overview/azure/storage-file-datalake-readme (2024-11-14 12:06 PM) @cancelled(24-12-25 22:50) @cancelled
+            ✔ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2024-11-16 06:57 AM) @done(24-12-25 22:50) @cancelled
+            ✔ JavaScript https://learn.microsoft.com/javascript/api/overview/azure/storage-file-datalake-readme (2024-11-20 12:07 PM) @done(24-12-25 22:50) @cancelled
+
+
+---
+
+            ✔ Lifecycle management policies https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-overview (2024-12-26 06:03 PM): @done(24-12-27 14:10)
+                    ✘ Tutorial: Upload and process image files https://learn.microsoft.com/en-us/azure/storage/blobs/blob-upload-function-trigger-javascript (2024-12-26 06:03 PM) @cancelled(24-12-27 14:09)
+                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-26 12:09 PM) @cancelled(24-12-27 14:07)
+                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-26 12:05 PM) @done(24-12-27 14:07)
+                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-26 12:09 PM) @done(24-12-27 14:07)
+                    ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-26 12:16 PM) @cancelled(24-12-27 14:07)
+                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-26 12:05 PM) @done(24-12-27 14:07)
+                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-26 12:09 PM) @done(24-12-27 14:07)
+                ✘ Java https://learn.microsoft.com/java/api/overview/azure/storage-file-datalake-readme (2024-11-14 12:06 PM) @cancelled(24-12-27 14:07)
+                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-26 12:09 PM) @cancelled(24-12-27 14:07)
+                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-26 12:05 PM) @done(24-12-27 14:07)
+                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-26 12:09 PM) @done(24-12-27 14:07)
+                ✘ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-26 12:16 PM) @cancelled(24-12-27 14:07)
+                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-26 12:05 PM) @done(24-12-27 14:07)
+                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-26 12:09 PM) @done(24-12-27 14:07)
+            ✘ Java https://learn.microsoft.com/java/api/overview/azure/storage-file-datalake-readme (2024-11-14 12:06 PM) @cancelled(24-12-27 14:07)
 

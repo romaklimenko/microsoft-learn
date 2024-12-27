@@ -80,7 +80,7 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
             Connectivity scenarios:
                 ☐ Virtual network to Virtual network https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vnet-vnet-rm-ps?toc=/azure/virtual-network/toc.json (2024-09-25 05:04 PM)
                 ☐ VNet (Resource Manager) to a VNet (Classic) https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-different-deployment-models-portal?toc=/azure/virtual-network/toc.json (2024-08-02 11:27 AM)
-                ☐ VNet to on-premises network (VPN) https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?toc=/azure/virtual-network/toc.json (2024-11-20 11:04 PM)
+                ✘ VNet to on-premises network (VPN) https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?toc=/azure/virtual-network/toc.json (2024-11-20 11:04 PM) @cancelled
                 ☐ VNet to on-premises network (ExpressRoute) https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager?toc=/azure/virtual-network/toc.json (2024-10-08 10:04 PM)
                 ☐ Highly available hybrid network architecture https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-vpn-failover?toc=/azure/virtual-network/toc.json (2024-11-06 06:31 PM)
             ☐ Configure Virtual network TAP https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-tap-virtual-network-cli (2024-08-08 05:34 AM)
@@ -165,4 +165,9 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
         ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
         ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-virtual-network
         ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq (2024-12-04 06:02 PM)
+
+
+---
+
+                ✔ VNet to on-premises network (VPN) https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?toc=/azure/virtual-network/toc.json (2024-12-26 06:03 PM) @done(24-12-27 17:52)
 

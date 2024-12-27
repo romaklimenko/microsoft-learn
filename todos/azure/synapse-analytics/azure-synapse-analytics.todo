@@ -37,7 +37,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Shared databases https://learn.microsoft.com/en-us/azure/synapse-analytics/metadata/database (2024-08-01 11:20 AM)
                     ☐ Shared tables https://learn.microsoft.com/en-us/azure/synapse-analytics/metadata/table (2024-10-16 05:09 PM)
                 Code artifacts:
-                    ☐ Apache Spark Notebooks https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks (2024-09-12 05:35 AM)
+                    ✘ Apache Spark Notebooks https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks (2024-09-12 05:35 AM) @cancelled
                     ☐ SQL script https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/author-sql-script (2024-08-08 10:03 PM)
                     ☐ Data Flow https://learn.microsoft.com/en-us/azure/synapse-analytics/concepts-data-flow-overview (2024-12-11 11:02 PM)
             ☐ Maintenance schedule https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/maintenance-scheduling?context=/azure/synapse-analytics/context/context (2024-09-11 10:07 PM)
@@ -180,7 +180,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ OPENROWSET https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-openrowset (2024-09-18 05:37 AM)
                     ☐ Partitions https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-partition?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
                     ☐ Replicated tables https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-guidance-for-replicated-tables?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
-                    ☐ Statistics https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-statistics (2024-08-01 11:20 AM)
+                    ✘ Statistics https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-statistics (2024-08-01 11:20 AM) @cancelled
                     ☐ Temporary https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-temporary (2024-08-01 11:20 AM)
                 T-SQL language elements:
                     ☐ Loops https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-loops (2024-08-01 11:20 AM)
@@ -1539,11 +1539,11 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Manage Workspace packages https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-manage-workspace-packages (2024-12-03 11:07 PM)
                 ☐ Manage Spark pool packages https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-manage-pool-packages (2024-08-01 05:35 AM)
                 ☐ Manage Notebook session packages https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-manage-session-packages (2024-08-01 05:35 AM)
-                ☐ Troubleshoot Python package installation errors https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-troubleshoot-library-errors (2024-12-17 06:04 PM)
+                ✘ Troubleshoot Python package installation errors https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-troubleshoot-library-errors (2024-12-17 06:04 PM) @cancelled
                 ☐ Create a Conda private channel https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-custom-conda-channel (2024-08-01 05:35 AM)
                 ☐ Automate the library management process through Azure PowerShell cmdlets and REST APIs https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-manage-packages-outside-ui (2024-08-01 05:35 AM)
             Use notebooks and IDE tools:
-                ☐ Manage notebooks https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks (2024-09-12 05:35 AM)
+                ✘ Manage notebooks https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks (2024-09-12 05:35 AM) @cancelled
                 ☐ Visualize data https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-data-visualization (2024-08-01 05:35 AM)
                 ☐ Connect to Spark with IntelliJ plug-in https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/intellij-tool-synapse (2024-09-27 10:04 PM)
             Explore languages:
@@ -1631,7 +1631,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
         Quickstarts:
             ☐ Load data into SQL pools using copy activity https://learn.microsoft.com/en-us/azure/synapse-analytics/quickstart-copy-activity-load-sql-pool (2024-08-01 05:35 AM)
             ☐ Transform data using mapping data flows https://learn.microsoft.com/en-us/azure/synapse-analytics/quickstart-data-flow (2024-12-11 11:02 PM)
-            ☐ Transform data using Apache Spark job definition https://learn.microsoft.com/en-us/azure/synapse-analytics/quickstart-transform-data-using-spark-job-definition (2024-12-11 11:02 PM)
+            ✘ Transform data using Apache Spark job definition https://learn.microsoft.com/en-us/azure/synapse-analytics/quickstart-transform-data-using-spark-job-definition (2024-12-11 11:02 PM) @cancelled
         Concepts:
             ☐ Pipeline and activity https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipelines-activities?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-10-11 08:21 AM)
             ☐ Linked services https://learn.microsoft.com/en-us/azure/data-factory/concepts-linked-services?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM)
@@ -1912,7 +1912,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ With Apache Spark MLlib https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-mllib-notebook (2024-08-01 11:20 AM)
                 With automated machine learning (deprecated):
                     ☐ Code-free (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-automl (2024-08-28 07:22 PM)
-                    ☐ In Python (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-machine-learning-tutorial (2024-08-28 07:22 PM)
+                    ✘ In Python (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-machine-learning-tutorial (2024-08-28 07:22 PM) @cancelled
                 With Horovod and Petastorm (deprecated):
                     ☐ Train a model with Horovod and PyTorch (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-horovod-pytorch (2024-08-28 07:22 PM)
                     ☐ Train a model with Horovod and TensorFlow https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-horovod-tensorflow (2024-08-28 07:22 PM)
@@ -1966,7 +1966,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Perform monitoring review https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/implementation-success-perform-monitoring-review (2024-09-11 06:38 PM)
         Migration guides:
             ☐ All migration guides https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/ (2024-08-01 11:20 AM)
-            ☐ Migrate to a dedicated SQL pool https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/migrate-to-synapse-analytics-guide (2024-08-01 11:20 AM)
+            ✘ Migrate to a dedicated SQL pool https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/migrate-to-synapse-analytics-guide (2024-08-01 11:20 AM) @cancelled
             From Teradata:
                 ☐ 1 Design performance for Teradata migration https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/teradata/1-design-performance-migration (2024-08-01 05:35 AM)
                 ☐ 2 ETL and load migration considerations https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/teradata/2-etl-load-migration-considerations (2024-08-01 05:35 AM)
@@ -2049,4 +2049,15 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
 
                         ✔ Storage Access Control https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-storage-files-storage-access-control (2024-12-24 06:15 PM) @done(24-12-26 18:17)
                 ✔ Continuous Integration and Deployment https://learn.microsoft.com/en-us/azure/data-factory/ci-cd-github-troubleshoot-guide?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-24 06:15 PM) @done(24-12-26 18:17)
+
+
+---
+
+                    ✔ Apache Spark Notebooks https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks (2024-12-26 06:03 PM) @done(24-12-27 18:40)
+                    ✔ Statistics https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-statistics (2024-12-26 06:03 PM) @done(24-12-27 18:44)
+                ✔ Troubleshoot Python package installation errors https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-troubleshoot-library-errors (2024-12-26 06:03 PM) @done(24-12-27 18:45)
+                ✔ Manage notebooks https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks (2024-12-26 06:03 PM) @done(24-12-27 18:45)
+            ✔ Transform data using Apache Spark job definition https://learn.microsoft.com/en-us/azure/synapse-analytics/quickstart-transform-data-using-spark-job-definition (2024-12-26 06:03 PM) @done(24-12-27 18:47)
+                    ✔ In Python (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-machine-learning-tutorial (2024-12-26 06:03 PM) @done(24-12-27 18:48)
+            ✔ Migrate to a dedicated SQL pool https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/migrate-to-synapse-analytics-guide (2024-12-26 06:03 PM) @done(24-12-27 18:49)
 

@@ -25,7 +25,7 @@ Network Watcher Documentation | Microsoft Learn:
         ☐ VPN troubleshoot https://learn.microsoft.com/en-us/azure/network-watcher/vpn-troubleshoot-overview (2024-12-20 11:04 PM)
         ☐ Packet capture https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-overview (2024-08-16 10:04 PM)
         ☐ Effective security rules https://learn.microsoft.com/en-us/azure/network-watcher/effective-security-rules-overview (2024-09-30 10:04 PM)
-        ☐ NSG flow logs https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview (2024-10-22 05:31 AM)
+        ✘ NSG flow logs https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview (2024-10-22 05:31 AM) @cancelled
         ☐ VNet flow logs https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-overview (2024-11-04 11:02 PM)
         Traffic analytics:
             ☐ Overview https://learn.microsoft.com/en-us/azure/network-watcher/traffic-analytics (2024-12-24 12:17 PM)
@@ -108,7 +108,7 @@ Network Watcher Documentation | Microsoft Learn:
         ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network/#network-watcher (2024-11-19 05:50 PM)
         ☐ Java https://learn.microsoft.com/java/api/com.microsoft.azure.management.network (2024-06-12 11:12 AM)
         ☐ Ruby https://www.rubydoc.info/gems/azure_mgmt_network/Azure/Network/Mgmt/V2016_09_01/Models/NetworkWatcher
-        ✘ Python https://learn.microsoft.com/python/api/overview/azure/network (2024-12-24 12:08 PM) @cancelled
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/network (2024-12-24 12:08 PM) @cancelled @cancelled
         ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/virtual-network (2023-10-03 11:36 PM)
         ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/arm-network-readme (2024-12-20 12:08 PM)
         ☐ REST https://learn.microsoft.com/rest/api/network-watcher/ (2024-08-06 10:08 PM)
@@ -124,5 +124,11 @@ Network Watcher Documentation | Microsoft Learn:
 
 ---
 
-        ✔ Python https://learn.microsoft.com/python/api/overview/azure/network (2024-12-25 12:09 PM) @done(24-12-25 22:52)
+        ✔ Python https://learn.microsoft.com/python/api/overview/azure/network (2024-12-25 12:09 PM) @done(24-12-25 22:52) @cancelled
+
+
+---
+
+        ✔ NSG flow logs https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-overview (2024-12-26 06:03 PM) @done(24-12-27 14:00)
+        ✔ Python https://learn.microsoft.com/python/api/overview/azure/network (2024-12-26 12:05 PM) @done(24-12-27 13:57)
 

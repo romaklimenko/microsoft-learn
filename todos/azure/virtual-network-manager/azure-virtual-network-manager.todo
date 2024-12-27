@@ -6,7 +6,7 @@ Azure Virtual Network Manager documentation | Microsoft Learn:
     Quickstarts:
         ☐ Create Virtual Network Manager - Portal https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-portal (2024-12-11 06:03 PM)
         ☐ Create Virtual Network Manager - PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-powershell (2024-10-24 10:04 PM)
-        ☐ Create Virtual Network Manager - CLI https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-cli (2024-08-01 05:04 PM)
+        ✘ Create Virtual Network Manager - CLI https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-cli (2024-08-01 05:04 PM) @cancelled
         ☐ Create Virtual Network Manager - Terraform https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-terraform (2024-08-01 05:04 PM)
         ☐ Create Virtual Network Manager - ARM https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-template (2024-12-12 05:33 AM)
         ☐ Create Virtual Network Manager - Bicep https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-bicep (2024-12-16 11:03 PM)
@@ -48,10 +48,10 @@ Azure Virtual Network Manager documentation | Microsoft Learn:
         Create a network topology:
             Hub-and-spoke:
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke (2024-12-11 06:03 PM)
-                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke-powershell (2024-10-21 05:07 PM)
+                ✘ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke-powershell (2024-10-21 05:07 PM) @cancelled
             Mesh:
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network (2024-12-11 06:03 PM)
-                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network-powershell (2024-08-01 05:04 PM)
+                ✘ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network-powershell (2024-08-01 05:04 PM) @cancelled
         Cross-tenant connection support:
             ☐ Configure cross-tenant connection - Portal https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-portal (2024-12-12 05:33 AM)
             ☐ Configure cross-tenant connection - CLI https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-cli (2024-10-15 10:04 PM)
@@ -79,4 +79,11 @@ Azure Virtual Network Manager documentation | Microsoft Learn:
         ☐ Azure roadmap https://azure.microsoft.com/roadmap/?category=networking
         ☐ Networking blog https://azure.microsoft.com/blog/topics/networking/
         ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+
+
+---
+
+        ✔ Create Virtual Network Manager - CLI https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-cli (2024-12-26 06:03 PM) @done(24-12-27 14:12)
+                ✔ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke-powershell (2024-12-26 06:03 PM) @done(24-12-27 14:12)
+                ✔ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network-powershell (2024-12-26 06:03 PM) @done(24-12-27 14:12)
 

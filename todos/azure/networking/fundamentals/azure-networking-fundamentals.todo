@@ -7,7 +7,7 @@ Azure Networking Fundamentals Documentation | Microsoft Learn:
         ☐ Create a public load balancer https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?toc=/azure/networking/fundamentals/toc.json (2024-11-22 05:58 AM)
         ☐ Create a front door https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-portal?toc=/azure/networking/fundamentals/toc.json (2024-11-21 11:02 PM)
     Tutorials:
-        ☐ Deploy and manage a VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal?toc=/azure/networking/fundamentals/toc.json (2024-11-20 11:04 PM)
+        ✘ Deploy and manage a VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal?toc=/azure/networking/fundamentals/toc.json (2024-11-20 11:04 PM) @cancelled
         ☐ Restrict network access https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources?toc=/azure/networking/fundamentals/toc.json (2024-10-24 05:04 PM)
         ☐ Deploy and configure Azure Firewall using the Azure portal https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal-policy?toc=/azure/networking/fundamentals/toc.json (2024-11-08 11:02 PM)
     Concepts:
@@ -69,7 +69,7 @@ Azure Networking Fundamentals Documentation | Microsoft Learn:
                 ☐ Connect virtual networks with peering https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal?toc=/azure/networking/fundamentals/toc.json (2024-11-20 11:04 PM)
                 ☐ Create a hub and spoke topology with Virtual Network Manager https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke?toc=/azure/networking/fundamentals/toc.json (2024-12-11 06:03 PM)
             ☐ Private access to resources https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal?toc=/azure/networking/fundamentals/toc.json (2024-12-05 05:33 AM)
-            ☐ Connect on-premises network to a virtual network - VPN encryption https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?toc=/azure/networking/fundamentals/toc.json (2024-11-20 11:04 PM)
+            ✘ Connect on-premises network to a virtual network - VPN encryption https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?toc=/azure/networking/fundamentals/toc.json (2024-11-20 11:04 PM) @cancelled
             ☐ Cross-premises connectivity - dedicated https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager?toc=/azure/networking/fundamentals/toc.json (2024-08-27 05:04 PM)
         Secure your network:
             ☐ Restrict network access https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources?toc=/azure/networking/fundamentals/toc.json (2024-10-24 05:04 PM)
@@ -89,4 +89,10 @@ Azure Networking Fundamentals Documentation | Microsoft Learn:
             ☐ Troubleshoot Microsoft.Network Failed provisioning state https://learn.microsoft.com/en-us/azure/networking/troubleshoot-failed-state?toc=/azure/networking/fundamentals/toc.json (2024-08-08 05:34 AM)
     Resources:
         ☐ Lumenisity UoS Patents https://learn.microsoft.com/en-us/azure/networking/fundamentals/lumenisity-patent-list (2024-11-21 11:02 PM)
+
+
+---
+
+        ✔ Deploy and manage a VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal?toc=/azure/networking/fundamentals/toc.json (2024-12-26 06:03 PM) @done(24-12-27 14:47)
+            ✔ Connect on-premises network to a virtual network - VPN encryption https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?toc=/azure/networking/fundamentals/toc.json (2024-12-26 06:03 PM) @done(24-12-27 14:47)
 

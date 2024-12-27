@@ -6,7 +6,7 @@ OneLake in Microsoft Fabric documentation - Microsoft Fabric | Microsoft Learn:
         ☐ Bring your data to OneLake with Lakehouse https://learn.microsoft.com/en-us/fabric/onelake/create-lakehouse-onelake (2024-07-31 09:57 PM)
         ☐ Implement medallion lakehouse architecture https://learn.microsoft.com/en-us/fabric/onelake/onelake-medallion-lakehouse-architecture (2024-07-31 09:57 PM)
         ☐ Transform with Apache Spark and query data with SQL https://learn.microsoft.com/en-us/fabric/onelake/onelake-onecopy-quickstart (2024-09-08 11:04 AM)
-        ✘ Connect to ADLS and transform data with Azure Databricks https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts-adb-quickstart (2024-07-31 09:57 PM) @cancelled
+        ✘ Connect to ADLS and transform data with Azure Databricks https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts-adb-quickstart (2024-07-31 09:57 PM) @cancelled @cancelled
         ☐ Ingest data and analyze with Azure Databricks https://learn.microsoft.com/en-us/fabric/onelake/onelake-open-access-quickstart (2024-07-31 09:57 PM)
     Shortcuts:
         ✘ What are shortcuts? https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts (2024-09-24 07:03 AM) @cancelled
@@ -52,18 +52,25 @@ OneLake in Microsoft Fabric documentation - Microsoft Fabric | Microsoft Learn:
     ☐ Discover data in the OneLake data hub https://learn.microsoft.com/en-us/fabric/get-started/onelake-data-hub?toc=/fabric/onelake/TOC.json&bc=/fabric/onelake/breadcrumb/toc.json (2024-11-26 12:06 PM)
     Billing and consumption:
         ☐ OneLake compute and storage consumption https://learn.microsoft.com/en-us/fabric/onelake/onelake-consumption (2024-09-20 10:00 PM)
-        ☐ OneLake capacity consumption example https://learn.microsoft.com/en-us/fabric/onelake/onelake-capacity-consumption (2024-09-06 11:04 AM)
+        ✘ OneLake capacity consumption example https://learn.microsoft.com/en-us/fabric/onelake/onelake-capacity-consumption (2024-09-06 11:04 AM) @cancelled
     OneLake events:
         ☐ Explore OneLake events https://learn.microsoft.com/en-us/fabric/real-time-hub/explore-fabric-onelake-events?toc=/fabric/onelake/toc.json&bc=/fabric/onelake/toc.json (2024-11-25 12:13 PM)
         ☐ Get OneLake events in Real-Time hub https://learn.microsoft.com/en-us/fabric/real-time-hub/create-streams-fabric-onelake-events?toc=/fabric/onelake/toc.json&bc=/fabric/onelake/toc.json (2024-12-03 12:04 PM)
         ☐ Set alerts on OneLake events https://learn.microsoft.com/en-us/fabric/real-time-hub/set-alerts-fabric-onelake-events?toc=/fabric/onelake/toc.json&bc=/fabric/onelake/toc.json (2024-12-03 12:04 PM)
     Reference:
         ☐ OneLake shortcuts REST API https://learn.microsoft.com/rest/api/fabric/core/onelake-shortcuts (2024-08-18 11:19 AM)
-        ☐ OneLake data access roles REST API https://learn.microsoft.com/rest/api/fabric/core/onelake-data-access-security (2024-05-30 10:28 PM)
+        ✘ OneLake data access roles REST API https://learn.microsoft.com/rest/api/fabric/core/onelake-data-access-security (2024-05-30 10:28 PM) @cancelled
 
 
 ---
 
         ✔ What are shortcuts? https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts (2024-12-25 06:00 PM) @done(24-12-26 20:07)
         ✔ Create a OneLake shortcut https://learn.microsoft.com/en-us/fabric/onelake/create-onelake-shortcut (2024-12-25 06:00 PM) @done(24-12-26 20:08)
+
+
+---
+
+        ✔ Connect to ADLS and transform data with Azure Databricks https://learn.microsoft.com/en-us/fabric/onelake/onelake-shortcuts-adb-quickstart (2024-07-31 09:57 PM) @done(24-12-27 19:19)
+        ✔ OneLake capacity consumption example https://learn.microsoft.com/en-us/fabric/onelake/onelake-capacity-consumption (2024-12-26 06:01 PM) @done(24-12-27 19:32)
+        ✔ OneLake data access roles REST API https://learn.microsoft.com/rest/api/fabric/core/onelake-data-access-security (2024-12-25 11:00 PM) @done(24-12-27 19:32)
 

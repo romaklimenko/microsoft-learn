@@ -352,7 +352,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                     ☐ Specialized https://learn.microsoft.com/en-us/azure/virtual-machines/vm-specialized-image-version (2024-08-22 05:37 PM)
                 ☐ Update image resources https://learn.microsoft.com/en-us/azure/virtual-machines/update-image-resources (2024-08-22 05:37 PM)
                 Resource Manager Templates:
-                    ☐ Create an Azure Compute Gallery https://azure.microsoft.com/resources/templates/sig-create/
+                    ✘ Create an Azure Compute Gallery https://azure.microsoft.com/resources/templates/sig-create/ @cancelled
                     ☐ Create an Image Definition in an Azure Compute Gallery https://azure.microsoft.com/resources/templates/sig-image-definition-create/ (2022-07-11 01:45 PM)
                     ☐ Create an Image Version in an Azure Compute Gallery https://azure.microsoft.com/resources/templates/sig-image-version-create/ (2022-07-11 01:45 PM)
                 ☐ Troubleshoot shared images https://learn.microsoft.com/en-us/azure/virtual-machines/troubleshooting-shared-images (2024-08-22 05:37 PM)
@@ -1000,7 +1000,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2024-10-29 05:03 PM)
             ☐ Change subscription for Marketplace VMs https://learn.microsoft.com/en-us/azure/virtual-machines/azure-cli-change-subscription-marketplace (2024-08-22 05:37 PM)
             ☐ Move VMs to another region https://learn.microsoft.com/azure/site-recovery/azure-to-azure-tutorial-migrate?toc=/azure/virtual-machines/toc.json (2024-08-02 11:27 AM)
-            ☐ Move to an availability zone https://learn.microsoft.com/azure/site-recovery/move-azure-vms-avset-azone?toc=/azure/virtual-machines/toc.json (2024-11-20 11:04 PM)
+            ✘ Move to an availability zone https://learn.microsoft.com/azure/site-recovery/move-azure-vms-avset-azone?toc=/azure/virtual-machines/toc.json (2024-11-20 11:04 PM) @cancelled
             ☐ Move Maintenance Control configurations to another region https://learn.microsoft.com/en-us/azure/virtual-machines/move-region-maintenance-configuration (2024-08-22 05:37 PM)
             ☐ Move Maintenance Control configuration resources to another region https://learn.microsoft.com/en-us/azure/virtual-machines/move-region-maintenance-configuration-resources (2024-08-22 05:37 PM)
             ☐ Migrate AWS VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2024-12-19 06:04 PM)
@@ -1044,4 +1044,10 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 
         ✔ REST API https://learn.microsoft.com/rest/api/compute/virtual-machines?toc=/azure/virtual-machines/toc.json (2024-12-24 11:24 PM) @done(24-12-25 22:49)
                 ✔ REST with SSH https://learn.microsoft.com/rest/api/compute/virtual-machines/create-or-update?tabs=HTTP#create-a-vm-with-ssh-authentication (2024-12-24 11:24 PM) @done(24-12-25 22:49)
+
+
+---
+
+                    ✔ Create an Azure Compute Gallery https://azure.microsoft.com/resources/templates/sig-create/ (2022-07-11 01:45 PM) @done(24-12-27 17:43)
+            ✔ Move to an availability zone https://learn.microsoft.com/azure/site-recovery/move-azure-vms-avset-azone?toc=/azure/virtual-machines/toc.json (2024-12-26 06:03 PM) @done(24-12-27 17:51)
 
