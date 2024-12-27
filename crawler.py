@@ -125,7 +125,7 @@ def main():
 
                     for line in file_lines:
                         for new_line_url in new_lines_urls:
-                            if new_line_url in line and line.strip().startswith(""):
+                            if new_line_url in line and line.strip().startswith("☐"):
                                 line = f'{line.replace(
                                     "☐", "✘").rstrip()} @cancelled\n'
                                 break
