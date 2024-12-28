@@ -1,0 +1,124 @@
+Azure for Python developers | Microsoft Learn:
+    ☐ Azure for Python developers https://learn.microsoft.com/en-us/azure/developer/python/ (2024-07-23 05:01 PM)
+    ☐ Get started https://learn.microsoft.com/en-us/azure/developer/python/get-started (2024-07-23 05:01 PM)
+    Azure AI apps:
+        ☐ Develop with Azure AI services https://learn.microsoft.com/en-us/azure/developer/python/azure-ai-for-python-developers (2024-11-08 06:00 PM)
+        ☐ Get started with the Python enterprise chat sample https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-template (2024-12-22 06:01 PM)
+        ☐ Configure document security https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-document-security-trim (2024-12-20 06:02 PM)
+        ☐ Secure your chat endpoint https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-private-endpoint (2024-12-17 06:03 PM)
+        ☐ Evaluate your chat app https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-evaluations (2024-12-20 06:02 PM)
+        ☐ Scale Azure OpenAI with Azure Container Apps https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-scaling-with-azure-container-apps (2024-12-20 06:02 PM)
+        ☐ Scale Azure OpenAI with Azure API Management https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-scaling-with-azure-api-management (2024-12-22 06:01 PM)
+        ☐ Load test with Locust https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-app-load-test-locust (2024-12-22 06:01 PM)
+    Web:
+        ☐ Set up local web dev environment https://learn.microsoft.com/en-us/azure/developer/python/configure-python-web-app-local-environment (2024-12-03 06:01 PM)
+        Python Web azd Templates:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/developer/python/overview-azd-templates (2024-12-03 06:01 PM)
+            ☐ Quickstart in local env https://learn.microsoft.com/en-us/azure/developer/python/quickstart-python-web-azd-templates (2024-12-17 06:03 PM)
+            ☐ Quickstart in Codespaces https://learn.microsoft.com/en-us/azure/developer/python/quickstart-python-web-azd-codespaces (2024-12-17 06:03 PM)
+            ☐ Scale with Bicep https://learn.microsoft.com/en-us/azure/developer/python/quickstart-python-scale-bicep (2024-12-17 06:03 PM)
+        Web app solutions:
+            ☐ Django/Flask https://learn.microsoft.com/azure/app-service/quickstart-python?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-12-23 06:06 PM)
+            ☐ Django/Flask + db https://learn.microsoft.com/azure/app-service/tutorial-python-postgresql-app?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-12-20 06:07 PM)
+            ☐ Passwordless auth - system-assigned managed identity https://learn.microsoft.com/en-us/azure/developer/python/tutorial-python-managed-identity-cli (2024-09-23 04:59 PM)
+            ☐ Passwordless auth - user-assigned managed identity https://learn.microsoft.com/en-us/azure/developer/python/tutorial-python-managed-identity-user-assigned-cli (2024-09-23 04:59 PM)
+            Static websites:
+                ☐ Hosting in Azure Storage https://learn.microsoft.com/azure/storage/blobs/storage-blob-static-website?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-11-21 06:04 PM)
+                ☐ Deploy from VS Code https://learn.microsoft.com/azure/static-web-apps/getting-started?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-09-18 06:09 PM)
+            Configure web apps:
+                ☐ Codespaces dev environment https://learn.microsoft.com/en-us/azure/developer/python/configure-python-web-app-codespaces (2024-06-24 05:00 PM)
+                ☐ Configure a startup file for App Service https://learn.microsoft.com/en-us/azure/developer/python/configure-python-web-app-on-app-service (2024-03-15 04:56 PM)
+            CI/CD with App Service:
+                ☐ GitHub Actions https://learn.microsoft.com/en-us/azure/developer/python/python-web-app-github-actions-app-service (2024-12-03 06:01 PM)
+                ☐ Azure Pipelines https://learn.microsoft.com/azure/devops/pipelines/ecosystems/python-webapp?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-12-20 01:01 AM)
+            ☐ Add sign in https://learn.microsoft.com/entra/identity-platform/quickstart-web-app-python-sign-in?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-04-19 04:58 PM)
+            ☐ Store and retrieve secrets https://learn.microsoft.com/azure/key-vault/secrets/quick-create-python?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-10-04 10:15 PM)
+            ☐ Set up Azure monitor https://learn.microsoft.com/azure/azure-monitor/app/opencensus-python?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-10-07 10:33 PM)
+        Serverless solutions:
+            Create a function:
+                ☐ Using Visual Studio Code https://learn.microsoft.com/azure/azure-functions/create-first-function-vs-code-python?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-09-11 05:35 AM)
+                ☐ Using the Azure CLI https://learn.microsoft.com/azure/azure-functions/create-first-function-cli-python?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-03-05 11:13 PM)
+            Connect to Azure Storage:
+                ☐ Using Visual Studio Code https://learn.microsoft.com/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-python&toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-09-06 10:05 PM)
+                ☐ Using the Azure CLI https://learn.microsoft.com/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-python&toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-06-10 05:07 PM)
+    Data:
+        ☐ Data engineering solutions https://learn.microsoft.com/en-us/azure/developer/python/quickstarts-data-solutions (2024-03-14 04:56 PM)
+        Data science solutions:
+            ☐ Deploy machine learning models https://learn.microsoft.com/en-us/azure/developer/python/quickstarts-machine-learning (2024-03-14 04:56 PM)
+    Containers:
+        ☐ Python containers overview https://learn.microsoft.com/en-us/azure/developer/python/containers-in-azure-overview-python (2024-01-15 06:04 PM)
+        Deploy to App Service:
+            ☐ Simple web app https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-simple-web-app-for-app-service (2024-09-17 05:01 PM)
+            Web app + MongoDB:
+                ☐ 1. Overview https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-deploy-python-web-app-azure-01 (2023-11-07 06:17 PM)
+                ☐ 2. Build and test container locally https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-deploy-python-web-app-azure-02 (2024-12-22 06:01 PM)
+                ☐ 3. Build container in Azure https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-deploy-python-web-app-azure-03 (2023-10-13 05:08 PM)
+                ☐ 4. Deploy container App Service https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-deploy-python-web-app-azure-04 (2023-10-13 05:08 PM)
+                ☐ 5. Clean up resources https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-deploy-python-web-app-azure-05 (2023-10-13 05:08 PM)
+        Deploy to Container Apps:
+            ☐ Simple web app https://learn.microsoft.com/en-us/azure/developer/python/tutorial-containerize-simple-web-app (2024-12-19 06:02 PM)
+            Web app + PostgreSQL:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/developer/python/tutorial-deploy-python-web-app-azure-container-apps-01 (2024-12-19 06:02 PM)
+                ☐ Build and deploy a container app https://learn.microsoft.com/en-us/azure/developer/python/tutorial-deploy-python-web-app-azure-container-apps-02 (2024-12-19 06:02 PM)
+                ☐ Configure CI/CD https://learn.microsoft.com/en-us/azure/developer/python/tutorial-deploy-python-web-app-azure-container-apps-03 (2024-12-20 06:02 PM)
+        ☐ Deploy a Kubernetes cluster https://learn.microsoft.com/azure/aks/learn/quick-kubernetes-deploy-cli?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-11-10 12:11 PM)
+    ☐ Logs https://learn.microsoft.com/azure/azure-monitor/app/opencensus-python (2024-10-07 10:33 PM)
+    Azure SDK for Python:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/developer/python/sdk/azure-sdk-overview (2023-12-29 05:55 PM)
+        ☐ Library usage patterns https://learn.microsoft.com/en-us/azure/developer/python/sdk/azure-sdk-library-usage-patterns (2024-04-10 05:10 PM)
+        Authentication:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/developer/python/sdk/authentication/overview (2024-09-20 05:02 PM)
+            Auth during local development:
+                ☐ Auth using developer service principals https://learn.microsoft.com/en-us/azure/developer/python/sdk/authentication/local-development-service-principal (2024-10-18 05:00 PM)
+                ☐ Auth using developer accounts https://learn.microsoft.com/en-us/azure/developer/python/sdk/authentication/local-development-dev-accounts (2024-10-18 05:00 PM)
+            ☐ Auth from Azure-hosted apps https://learn.microsoft.com/en-us/azure/developer/python/sdk/authentication/azure-hosted-apps (2024-10-16 05:02 PM)
+            ☐ Auth from on-premises apps https://learn.microsoft.com/en-us/azure/developer/python/sdk/authentication/on-premises-apps (2024-10-18 05:00 PM)
+            ☐ Additional auth methods https://learn.microsoft.com/en-us/azure/developer/python/sdk/authentication/additional-methods (2024-08-22 05:01 PM)
+            ☐ Credential chains https://learn.microsoft.com/en-us/azure/developer/python/sdk/authentication/credential-chains (2024-11-12 06:57 PM)
+            Walkthrough tutorial:
+                ☐ 1. Introduction and background https://learn.microsoft.com/en-us/azure/developer/python/walkthrough-tutorial-authentication-01 (2024-02-26 06:01 PM)
+                ☐ 2. Authentication requirements https://learn.microsoft.com/en-us/azure/developer/python/walkthrough-tutorial-authentication-02 (2024-02-26 06:01 PM)
+                ☐ 3. Third-party API implementation https://learn.microsoft.com/en-us/azure/developer/python/walkthrough-tutorial-authentication-03 (2024-02-26 06:01 PM)
+                ☐ 4. Main app implementation https://learn.microsoft.com/en-us/azure/developer/python/walkthrough-tutorial-authentication-04 (2024-02-26 06:01 PM)
+                ☐ 5. Dependencies and environment variables https://learn.microsoft.com/en-us/azure/developer/python/walkthrough-tutorial-authentication-05 (2024-03-05 05:58 PM)
+                ☐ 6. Main app startup code https://learn.microsoft.com/en-us/azure/developer/python/walkthrough-tutorial-authentication-06 (2024-02-26 06:01 PM)
+                ☐ 7. Main app endpoint https://learn.microsoft.com/en-us/azure/developer/python/walkthrough-tutorial-authentication-07 (2024-02-26 06:01 PM)
+        ☐ Install Azure packages https://learn.microsoft.com/en-us/azure/developer/python/sdk/azure-sdk-install (2023-11-28 05:58 PM)
+        Use Azure packages:
+            ☐ Create a resource group https://learn.microsoft.com/en-us/azure/developer/python/sdk/examples/azure-sdk-example-resource-group (2024-03-06 05:55 PM)
+            ☐ List groups and resources https://learn.microsoft.com/en-us/azure/developer/python/sdk/examples/azure-sdk-example-list-resource-groups (2024-03-06 05:55 PM)
+            ☐ Create Azure storage https://learn.microsoft.com/en-us/azure/developer/python/sdk/examples/azure-sdk-example-storage (2024-01-18 05:57 PM)
+            ☐ Use Azure storage https://learn.microsoft.com/en-us/azure/developer/python/sdk/examples/azure-sdk-example-storage-use (2024-10-03 04:59 PM)
+            ☐ Create & deploy a web app https://learn.microsoft.com/en-us/azure/developer/python/sdk/examples/azure-sdk-example-web-app (2023-12-29 05:55 PM)
+            ☐ Create & query a database https://learn.microsoft.com/en-us/azure/developer/python/sdk/examples/azure-sdk-example-database (2024-02-12 06:15 PM)
+            ☐ Create a virtual machine https://learn.microsoft.com/en-us/azure/developer/python/sdk/examples/azure-sdk-example-virtual-machines (2024-07-04 04:58 PM)
+            ☐ Use Azure Managed Disks with a VM https://learn.microsoft.com/en-us/azure/developer/python/sdk/examples/azure-sdk-samples-managed-disks (2024-03-14 04:56 PM)
+            ☐ Configure logging https://learn.microsoft.com/en-us/azure/developer/python/sdk/azure-sdk-logging (2024-11-13 06:02 PM)
+            ☐ Configure proxies https://learn.microsoft.com/en-us/azure/developer/python/sdk/azure-sdk-configure-proxy (2024-02-12 06:15 PM)
+            ☐ Use a sovereign domain https://learn.microsoft.com/en-us/azure/developer/python/sdk/azure-sdk-sovereign-domain (2023-12-15 06:06 PM)
+    ☐ SDK PyPI package index https://learn.microsoft.com/en-us/azure/developer/python/sdk/azure-sdk-library-package-index (2024-01-17 06:04 PM)
+    ☐ SDK reference documentation https://learn.microsoft.com/python/api/overview/azure/ (2024-12-27 12:24 PM)
+    Explore services supporting Python:
+        ☐ App hosting https://learn.microsoft.com/en-us/azure/developer/python/quickstarts-app-hosting (2024-07-04 04:58 PM)
+        ☐ Data solutions https://learn.microsoft.com/en-us/azure/developer/python/quickstarts-data-solutions (2024-03-14 04:56 PM)
+        ☐ Identity and access management https://learn.microsoft.com/en-us/azure/developer/python/quickstarts-identity-security (2024-03-11 05:02 PM)
+        ☐ Machine learning https://learn.microsoft.com/en-us/azure/developer/python/quickstarts-machine-learning (2024-03-14 04:56 PM)
+        ☐ Azure AI services https://learn.microsoft.com/en-us/azure/developer/python/quickstarts-ai-services (2024-03-11 05:02 PM)
+        ☐ Messaging, Events & IoT https://learn.microsoft.com/en-us/azure/developer/python/quickstarts-messaging-iot (2024-03-11 05:02 PM)
+        ☐ Other services https://learn.microsoft.com/en-us/azure/developer/python/quickstarts-other-services (2024-07-04 04:58 PM)
+    Samples:
+        ☐ Web apps & serverless https://learn.microsoft.com/samples/browse/?languages=python&products=azure-functions%2Cazure-app-service%2Cazure-logic-apps (2024-11-01 08:16 PM)
+        ☐ Databases https://learn.microsoft.com/samples/browse/?languages=python&products=azure-cosmos-db%2Cazure-sql-database (2024-11-01 08:16 PM)
+        Storage:
+            ☐ Azure Storage https://learn.microsoft.com/samples/browse/?languages=python&products=azure-storage (2024-11-01 08:16 PM)
+            ☐ Redis Cache https://learn.microsoft.com/samples/browse/?languages=python&products=azure-redis-cache (2024-11-01 08:16 PM)
+        ☐ Identity & Security https://learn.microsoft.com/samples/browse/?languages=python&products=entra%2Cazure-key-vault (2024-11-01 08:16 PM)
+        ☐ IoT https://learn.microsoft.com/samples/browse/?languages=python&products=azure-iot-hub%2Cazure-iot-edge%2Cazure-iot-central (2024-11-01 08:16 PM)
+        Data science:
+            ☐ Machine Learning Service https://learn.microsoft.com/samples/browse/?languages=python&products=azure-machine-learning-service (2024-11-01 08:16 PM)
+            ☐ Databricks https://learn.microsoft.com/samples/browse/?languages=python&products=azure-databricks (2024-11-01 08:16 PM)
+            ☐ HDInsight https://learn.microsoft.com/samples/browse/?languages=python&products=azure-hdinsight (2024-11-01 08:16 PM)
+        ☐ Azure AI services https://learn.microsoft.com/samples/browse/?languages=python&filter-products=AI&products=ai-services (2024-11-01 08:16 PM)
+        ☐ Search https://learn.microsoft.com/samples/browse/?languages=python&products=azure-search (2024-11-01 08:16 PM)
+        ☐ All Samples https://learn.microsoft.com/samples/browse/?languages=python (2024-11-01 08:16 PM)
+

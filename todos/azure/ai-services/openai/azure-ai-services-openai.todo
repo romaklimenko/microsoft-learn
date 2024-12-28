@@ -18,8 +18,8 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
         ☐ DALL-E https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart (2024-10-29 10:03 PM)
         ☐ Use your data https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart (2024-11-27 11:02 PM)
         ✘ Realtime API for speech and audio (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-quickstart (2024-12-12 11:02 PM) @cancelled
-        ☐ Whisper model https://learn.microsoft.com/en-us/azure/ai-services/openai/whisper-quickstart (2024-10-30 11:08 AM)
-        ☐ Text to speech (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/text-to-speech-quickstart (2024-10-30 11:08 AM)
+        ✘ Whisper model https://learn.microsoft.com/en-us/azure/ai-services/openai/whisper-quickstart (2024-10-30 11:08 AM) @cancelled
+        ✘ Text to speech (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/text-to-speech-quickstart (2024-10-30 11:08 AM) @cancelled
         ☐ Completions (legacy) https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart (2024-11-01 09:59 PM)
     Concepts:
         ☐ Assistants https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/assistants (2024-11-26 06:02 PM)
@@ -70,7 +70,7 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
             ☐ Work with code https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/work-with-code (2024-11-26 06:02 PM)
             ✘ Deploy and use web apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-web-app (2024-11-26 06:02 PM) @cancelled
             Legacy:
-                ☐ Chat Markup Language (ChatML) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/chat-markup-language (2024-12-02 06:04 PM)
+                ✘ Chat Markup Language (ChatML) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/chat-markup-language (2024-12-02 06:04 PM) @cancelled
         ☐ Content filtering https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/content-filters (2024-12-06 05:36 AM)
         ☐ Use blocklists https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-blocklists (2024-12-09 05:36 AM)
         ☐ Risks & Safety Monitoring https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/risks-safety-monitor (2024-12-06 05:36 AM)
@@ -101,12 +101,12 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
             ☐ Managed identity https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/managed-identity (2024-08-28 04:59 PM)
         Service management:
             ☐ Resource creation & model deployment https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource (2024-08-28 04:59 PM)
-            ☐ OpenAI vs Azure OpenAI (Python) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/switching-endpoints (2024-08-30 05:04 PM)
+            ✘ OpenAI vs Azure OpenAI (Python) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/switching-endpoints (2024-08-30 05:04 PM) @cancelled
             ☐ Manage quota https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/quota (2024-11-26 06:02 PM)
             ☐ Dynamic quota https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/dynamic-quota (2024-09-20 10:00 PM)
             ☐ Monitor Azure OpenAI https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/monitor-openai (2024-11-26 06:02 PM)
             ☐ Onboarding to Provisioned Throughput Units (PTU) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/provisioned-throughput-onboarding (2024-12-03 11:00 PM)
-            ☐ Get started with Provisioned Deployments https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/provisioned-get-started (2024-12-05 06:03 PM)
+            ✘ Get started with Provisioned Deployments https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/provisioned-get-started (2024-12-05 06:03 PM) @cancelled
             ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/manage-costs (2024-11-19 06:01 PM)
             ☐ Performance & latency https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/latency (2024-11-20 10:59 PM)
             ☐ Role-based access control (Azure RBAC) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/role-based-access-control (2024-12-18 06:01 PM)
@@ -214,4 +214,19 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
 ---
 
                 ✘ Java https://learn.microsoft.com/azure/developer/java/quickstarts/get-started-app-chat-template (2024-07-31 09:11 PM) @cancelled(24-12-26 20:47)
+
+
+---
+
+        ✔ Whisper model https://learn.microsoft.com/en-us/azure/ai-services/openai/whisper-quickstart (2024-12-27 06:02 PM) @done(24-12-28 14:14)
+        ✔ Text to speech (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/text-to-speech-quickstart (2024-12-27 06:02 PM) @done(24-12-28 14:17)
+        ✔ Provisioned throughput units (PTU) https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput (2024-12-27 06:02 PM) @done(24-12-28 14:17)
+        ✔ Batch https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/batch (2024-12-27 06:02 PM) @done(24-12-28 14:27)
+            ✔ Deploy and use web apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-web-app (2024-12-27 06:02 PM) @done(24-12-28 14:34)
+                ✔ Chat Markup Language (ChatML) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/chat-markup-language (2024-12-27 06:02 PM) @done(24-12-28 14:35)
+            ✔ Deploy and use web apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-web-app (2024-12-27 06:02 PM) @done(24-12-28 14:35)
+            ✔ OpenAI vs Azure OpenAI (Python) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/switching-endpoints (2024-12-27 06:02 PM) @done(24-12-28 14:36)
+            ✔ Get started with Provisioned Deployments https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/provisioned-get-started (2024-12-27 06:02 PM) @done(24-12-28 14:37)
+                ✘ Java https://learn.microsoft.com/azure/developer/java/quickstarts/get-started-app-chat-template (2024-07-31 09:11 PM) @cancelled(24-12-28 14:37)
+        ✔ Azure OpenAI Samples https://github.com/Azure-Samples/openai @done(24-12-28 14:38)
 
