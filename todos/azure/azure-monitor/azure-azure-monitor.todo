@@ -471,7 +471,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
         Logs:
             ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs (2024-12-13 11:02 PM)
             ☐ Best practices https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-logs (2024-09-11 04:50 PM)
-            ☐ Cost details https://learn.microsoft.com/en-us/azure/azure-monitor/logs/cost-logs (2024-12-19 12:14 PM)
+            ✘ Cost details https://learn.microsoft.com/en-us/azure/azure-monitor/logs/cost-logs (2024-12-19 12:14 PM) @cancelled
             Log Analytics workspaces:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-overview (2024-12-09 05:37 AM)
                 Manage Log Analytics workspaces:
@@ -503,7 +503,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ Monitor Log Analytics workspace health https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-health (2024-12-09 05:37 AM)
                     ☐ Monitor operational issues https://learn.microsoft.com/en-us/azure/azure-monitor/logs/monitor-workspace (2024-09-11 04:50 PM)
                     ☐ Log data ingestion time https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-ingestion-time (2024-12-17 12:06 PM)
-                    ☐ Analyze usage and cost https://learn.microsoft.com/en-us/azure/azure-monitor/logs/analyze-usage (2024-10-08 05:00 PM)
+                    ✘ Analyze usage and cost https://learn.microsoft.com/en-us/azure/azure-monitor/logs/analyze-usage (2024-10-08 05:00 PM) @cancelled
             Data security:
                 ☐ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2024-09-11 04:50 PM)
                 ☐ Log data https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-security (2024-11-08 11:00 PM)
@@ -779,7 +779,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
     Resources:
         ☐ Azure updates https://azure.microsoft.com/updates/?category=management-tools
         Pricing:
-            ☐ Analyze usage and cost https://learn.microsoft.com/en-us/azure/azure-monitor/cost-usage (2024-10-08 05:00 PM)
+            ✘ Analyze usage and cost https://learn.microsoft.com/en-us/azure/azure-monitor/cost-usage (2024-10-08 05:00 PM) @cancelled
             ☐ Billing meters https://learn.microsoft.com/en-us/azure/azure-monitor/cost-meters (2024-11-27 05:59 PM)
             ☐ Estimate cost https://learn.microsoft.com/en-us/azure/azure-monitor/cost-estimate (2024-09-11 04:50 PM)
             ☐ Azure Monitor Pricing page https://azure.microsoft.com/pricing/details/monitor/
@@ -814,4 +814,17 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Metric alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/resource-manager-alerts-metric (2024-12-27 12:20 PM)
         ☐ Azure CLI metric alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/azure-cli-metrics-alert-sample (2024-12-27 12:20 PM)
         ☐ Supported metrics https://learn.microsoft.com/azure/azure-monitor/reference/metrics-index (2024-12-23 12:13 PM)
+
+
+---
+
+                ✔ Troubleshoot log search alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-troubleshoot-log (2024-11-18 05:32 AM) @done(24-12-30 20:35)
+
+
+---
+
+            ✔ Cost details https://learn.microsoft.com/en-us/azure/azure-monitor/logs/cost-logs (2024-12-30 12:09 PM) @done(24-12-30 20:35)
+                    ✔ Enhance resilience with availability zones https://learn.microsoft.com/en-us/azure/azure-monitor/logs/availability-zones (2024-12-30 12:09 PM) @done(24-12-30 20:36)
+                    ✔ Analyze usage and cost https://learn.microsoft.com/en-us/azure/azure-monitor/logs/analyze-usage (2024-12-29 12:11 PM) @done(24-12-30 20:38)
+            ✔ Analyze usage and cost https://learn.microsoft.com/en-us/azure/azure-monitor/cost-usage (2024-12-30 12:09 PM) @done(24-12-30 20:38)
 

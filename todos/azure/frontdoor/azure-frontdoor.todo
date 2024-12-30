@@ -115,7 +115,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 ☐ HTTP/2 https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http2 (2024-11-19 06:02 PM)
             ☐ FAQ https://learn.microsoft.com/en-us/azure/frontdoor/front-door-faq (2024-10-29 05:03 PM)
         CDN:
-            ☐ About migration to Azure Front Door https://learn.microsoft.com/en-us/azure/cdn/tier-migration?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+            ✘ About migration to Azure Front Door https://learn.microsoft.com/en-us/azure/cdn/tier-migration?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
             ☐ CDN and Front Door price comparison https://learn.microsoft.com/en-us/azure/frontdoor/compare-cdn-front-door-price (2024-12-11 06:03 PM)
             ☐ Migrate CDN provider https://learn.microsoft.com/en-us/azure/cdn/cdn-change-provider?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
             ☐ Microsoft CDN (classic) retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/classic-cdn-retirement-faq (2024-09-25 10:03 PM)
@@ -123,10 +123,10 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
             ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/content-delivery-network-security-baseline?toc=/azure/frontdoor/TOC.json (2024-03-22 05:43 PM)
             ☐ DDoS protection https://learn.microsoft.com/en-us/azure/cdn/cdn-ddos?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
             ☐ How caching works https://learn.microsoft.com/en-us/azure/cdn/cdn-how-caching-works?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-            ☐ HTTP/2 support https://learn.microsoft.com/en-us/azure/cdn/cdn-http2?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+            ✘ HTTP/2 support https://learn.microsoft.com/en-us/azure/cdn/cdn-http2?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
             ☐ Retrieve POP IP's https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-list-api?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
             ☐ Migrate from Standard Edgio to Premium Edgio https://learn.microsoft.com/en-us/azure/cdn/cdn-migrate?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
-            ☐ China content delivery https://learn.microsoft.com/en-us/azure/cdn/cdn-china-delivery?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
+            ✘ China content delivery https://learn.microsoft.com/en-us/azure/cdn/cdn-china-delivery?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM) @cancelled
     How-to guides:
         Front Door:
             Standard/Premium:
@@ -197,7 +197,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 ☐ Subscription offers and bandwidth throttling https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/subscription-offers (2024-11-19 06:02 PM)
         CDN:
             Microsoft (classic):
-                ☐ Migrate to Azure Front Door https://learn.microsoft.com/en-us/azure/cdn/migrate-tier?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                ✘ Migrate to Azure Front Door https://learn.microsoft.com/en-us/azure/cdn/migrate-tier?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                 Optimized content https://learn.microsoft.com/en-us/azure/cdn/cdn-optimization-overview?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM):
                     ☐ Large-file optimization https://learn.microsoft.com/en-us/azure/cdn/cdn-large-file-optimization?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                     ☐ Media streaming optimization https://learn.microsoft.com/en-us/azure/cdn/cdn-media-streaming-optimization?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
@@ -205,23 +205,23 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                     ☐ Create an endpoint https://learn.microsoft.com/en-us/azure/cdn/cdn-create-endpoint-how-to?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                     ☐ Manage by using Azure PowerShell https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-powershell?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                     ☐ Onboard a root or apex domain https://learn.microsoft.com/en-us/azure/cdn/onboard-apex-domain?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-                    ☐ Set up managed identity https://learn.microsoft.com/en-us/azure/cdn/managed-identity?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                    ✘ Set up managed identity https://learn.microsoft.com/en-us/azure/cdn/managed-identity?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                     ☐ Improve performance by compressing files https://learn.microsoft.com/en-us/azure/cdn/cdn-improve-performance?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                     ☐ Endpoint multi-origin https://learn.microsoft.com/en-us/azure/cdn/endpoint-multiorigin?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                     ☐ Enforce HTTPS by using the Standard rules engine https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                     Control caching behavior:
-                        ☐ Cache content by query strings https://learn.microsoft.com/en-us/azure/cdn/cdn-query-string?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-                        ☐ Purge cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                        ✘ Cache content by query strings https://learn.microsoft.com/en-us/azure/cdn/cdn-query-string?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
+                        ✘ Purge cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                     ☐ Shared access signature storage support https://learn.microsoft.com/en-us/azure/cdn/cdn-sas-storage-support?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                     ☐ Cross-origin resource sharing https://learn.microsoft.com/en-us/azure/cdn/cdn-cors?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-                    ☐ Monitor resources https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                    ✘ Monitor resources https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                     ☐ Use Traffic Manager https://learn.microsoft.com/en-us/azure/cdn/cdn-traffic-manager?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                 Analyze https://learn.microsoft.com/en-us/azure/cdn/cdn-log-analysis?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM):
                     ☐ Monitoring, metrics, and access Logs https://learn.microsoft.com/en-us/azure/cdn/monitoring-and-access-log?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                     ☐ Azure diagnostics logs https://learn.microsoft.com/en-us/azure/cdn/cdn-azure-diagnostic-logs?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                 Develop:
-                    ☐ .NET https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json (2024-11-11 06:07 PM)
-                    ☐ Node.js https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                    ✘ .NET https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json (2024-11-11 06:07 PM) @cancelled
+                    ✘ Node.js https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
             Edgio:
                 Migrate to Azure Front Door:
                     ✘ Custom domain https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door (2024-12-19 06:04 PM) @cancelled
@@ -240,24 +240,24 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                         ☐ Endpoint multi-origin https://learn.microsoft.com/en-us/azure/cdn/endpoint-multiorigin?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                         Control caching behavior:
                             ☐ Control caching behavior by using caching rules https://learn.microsoft.com/en-us/azure/cdn/cdn-caching-rules?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-                            ☐ Cache content by query strings https://learn.microsoft.com/en-us/azure/cdn/cdn-query-string?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-                            ☐ Purge cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-                            ☐ Preload cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-preload-endpoint?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
+                            ✘ Cache content by query strings https://learn.microsoft.com/en-us/azure/cdn/cdn-query-string?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
+                            ✘ Purge cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
+                            ✘ Preload cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-preload-endpoint?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM) @cancelled
                         Configure time to live (TTL):
-                            ☐ Azure web content https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-cloud-service-content?toc=/azure/frontdoor/TOC.json (2024-10-16 05:09 PM)
-                            ☐ Azure Blob storage https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-blob-content?toc=/azure/frontdoor/TOC.json (2024-10-16 05:09 PM)
+                            ✘ Azure web content https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-cloud-service-content?toc=/azure/frontdoor/TOC.json (2024-10-16 05:09 PM) @cancelled
+                            ✘ Azure Blob storage https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-blob-content?toc=/azure/frontdoor/TOC.json (2024-10-16 05:09 PM) @cancelled
                         ☐ Shared access signature storage support https://learn.microsoft.com/en-us/azure/cdn/cdn-sas-storage-support?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                         ☐ Cross-origin resource sharing https://learn.microsoft.com/en-us/azure/cdn/cdn-cors?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-                        ☐ Monitor resources https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                        ✘ Monitor resources https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                         ☐ Use Traffic Manager https://learn.microsoft.com/en-us/azure/cdn/cdn-traffic-manager?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                     Analyze https://learn.microsoft.com/en-us/azure/cdn/cdn-log-analysis?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM):
                         ☐ Azure diagnostics logs https://learn.microsoft.com/en-us/azure/cdn/cdn-azure-diagnostic-logs?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                         Analytics tools for Azure CDN from Edgio:
-                            ☐ Core reports https://learn.microsoft.com/en-us/azure/cdn/cdn-analyze-usage-patterns?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
+                            ✘ Core reports https://learn.microsoft.com/en-us/azure/cdn/cdn-analyze-usage-patterns?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM) @cancelled
                             ☐ Custom reports https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-custom-reports?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
                     Develop:
-                        ☐ .NET https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json (2024-11-11 06:07 PM)
-                        ☐ Node.js https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                        ✘ .NET https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json (2024-11-11 06:07 PM) @cancelled
+                        ✘ Node.js https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                 Premium:
                     Optimize content https://learn.microsoft.com/en-us/azure/cdn/cdn-optimization-overview?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM):
                         ☐ Large-file optimization https://learn.microsoft.com/en-us/azure/cdn/cdn-large-file-optimization?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
@@ -270,32 +270,32 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                         ☐ Restrict access by country or region https://learn.microsoft.com/en-us/azure/cdn/cdn-restrict-access-by-country-region?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                         ☐ Improve performance by compressing files https://learn.microsoft.com/en-us/azure/cdn/cdn-improve-performance?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                         Control caching behavior:
-                            ☐ Cache content by query strings https://learn.microsoft.com/en-us/azure/cdn/cdn-query-string-premium?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
-                            ☐ Purge cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-                            ☐ Preload cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-preload-endpoint?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
+                            ✘ Cache content by query strings https://learn.microsoft.com/en-us/azure/cdn/cdn-query-string-premium?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM) @cancelled
+                            ✘ Purge cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
+                            ✘ Preload cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-preload-endpoint?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM) @cancelled
                         Configure time to live (TTL):
-                            ☐ Azure web content https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-cloud-service-content?toc=/azure/frontdoor/TOC.json (2024-10-16 05:09 PM)
-                            ☐ Azure Blob storage https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-blob-content?toc=/azure/frontdoor/TOC.json (2024-10-16 05:09 PM)
-                        ☐ Token authentication https://learn.microsoft.com/en-us/azure/cdn/cdn-token-auth?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
+                            ✘ Azure web content https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-cloud-service-content?toc=/azure/frontdoor/TOC.json (2024-10-16 05:09 PM) @cancelled
+                            ✘ Azure Blob storage https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-blob-content?toc=/azure/frontdoor/TOC.json (2024-10-16 05:09 PM) @cancelled
+                        ✘ Token authentication https://learn.microsoft.com/en-us/azure/cdn/cdn-token-auth?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM) @cancelled
                         ☐ Shared access signature storage support https://learn.microsoft.com/en-us/azure/cdn/cdn-sas-storage-support?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                         ☐ Cross-origin resource sharing https://learn.microsoft.com/en-us/azure/cdn/cdn-cors?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-                        ☐ Monitor resources https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                        ✘ Monitor resources https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                         ☐ Use rules to override behavior https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
                         ☐ Use Traffic Manager https://learn.microsoft.com/en-us/azure/cdn/cdn-traffic-manager?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
                     Analyze https://learn.microsoft.com/en-us/azure/cdn/cdn-log-analysis?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM):
                         ☐ Azure diagnostics logs https://learn.microsoft.com/en-us/azure/cdn/cdn-azure-diagnostic-logs?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-                        ☐ Core reports https://learn.microsoft.com/en-us/azure/cdn/cdn-analyze-usage-patterns?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
+                        ✘ Core reports https://learn.microsoft.com/en-us/azure/cdn/cdn-analyze-usage-patterns?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM) @cancelled
                         ☐ Custom reports https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-custom-reports?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
-                        ☐ Generate advanced HTTP reports https://learn.microsoft.com/en-us/azure/cdn/cdn-advanced-http-reports?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
-                        ☐ View real-time statistics https://learn.microsoft.com/en-us/azure/cdn/cdn-real-time-stats?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
-                        ☐ Analyze edge node performance https://learn.microsoft.com/en-us/azure/cdn/cdn-edge-performance?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
-                        ☐ Get real-time alerts https://learn.microsoft.com/en-us/azure/cdn/cdn-real-time-alerts?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM)
+                        ✘ Generate advanced HTTP reports https://learn.microsoft.com/en-us/azure/cdn/cdn-advanced-http-reports?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM) @cancelled
+                        ✘ View real-time statistics https://learn.microsoft.com/en-us/azure/cdn/cdn-real-time-stats?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM) @cancelled
+                        ✘ Analyze edge node performance https://learn.microsoft.com/en-us/azure/cdn/cdn-edge-performance?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM) @cancelled
+                        ✘ Get real-time alerts https://learn.microsoft.com/en-us/azure/cdn/cdn-real-time-alerts?toc=/azure/frontdoor/TOC.json (2024-03-21 10:05 PM) @cancelled
                     Develop:
-                        ☐ .NET https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json (2024-11-11 06:07 PM)
-                        ☐ Node.js https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                        ✘ .NET https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json (2024-11-11 06:07 PM) @cancelled
+                        ✘ Node.js https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
             Troubleshoot:
-                ☐ 404 status https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-endpoint?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-                ☐ File compression https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-compression?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                ✘ 404 status https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-endpoint?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
+                ✘ File compression https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-compression?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                 ☐ Allowed certificate authorities https://ccadb-public.secure.force.com/microsoft/IncludedCACertificateReportForMSFT
                 ☐ Subscription offers and bandwidth throttling https://learn.microsoft.com/en-us/azure/cdn/subscription-offerings?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
     Reference:
@@ -323,22 +323,22 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 ☐ Java SDK https://learn.microsoft.com/java/api/overview/azure/resourcemanager-cdn-readme (2024-12-23 12:06 PM)
         CDN:
             Azure CDN POP locations:
-                ☐ POP locations by region https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-locations?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                ✘ POP locations by region https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-locations?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                 POP locations by abbreviation:
-                    ☐ Microsoft (classic) https://learn.microsoft.com/en-us/azure/cdn/microsoft-pop-abbreviations?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM)
-                    ☐ Edgio https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-abbreviations?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM)
+                    ✘ Microsoft (classic) https://learn.microsoft.com/en-us/azure/cdn/microsoft-pop-abbreviations?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM) @cancelled
+                    ✘ Edgio https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-abbreviations?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM) @cancelled
             Standard rules engine https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-reference?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM):
-                ☐ Standard rules engine match conditions https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-match-conditions?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                ✘ Standard rules engine match conditions https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-match-conditions?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                 ☐ Standard rules engine actions https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-actions?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-            ☐ Microsoft-specific HTTP headers https://learn.microsoft.com/en-us/azure/cdn/cdn-msft-http-debug-headers?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+            ✘ Microsoft-specific HTTP headers https://learn.microsoft.com/en-us/azure/cdn/cdn-msft-http-debug-headers?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
             Edgio:
                 Edgio Premium rules engine reference https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine-reference?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM):
-                    ☐ Rules engine conditional expressions https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine-reference-conditional-expressions?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM)
-                    ☐ Rules engine match conditions https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine-reference-match-conditions?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM)
-                    ☐ Rules engine features https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine-reference-features?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM)
-                    ☐ HTTP variables https://learn.microsoft.com/en-us/azure/cdn/cdn-http-variables?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+                    ✘ Rules engine conditional expressions https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine-reference-conditional-expressions?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM) @cancelled
+                    ✘ Rules engine match conditions https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine-reference-match-conditions?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM) @cancelled
+                    ✘ Rules engine features https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine-reference-features?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM) @cancelled
+                    ✘ HTTP variables https://learn.microsoft.com/en-us/azure/cdn/cdn-http-variables?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                 Edgio-specific HTTP headers https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-http-headers?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM):
-                    ☐ X-EC-Debug headers https://learn.microsoft.com/en-us/azure/cdn/cdn-http-debug-headers?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM)
+                    ✘ X-EC-Debug headers https://learn.microsoft.com/en-us/azure/cdn/cdn-http-debug-headers?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM) @cancelled
             ☐ Azure CLI https://learn.microsoft.com/cli/azure/cdn (2024-08-06 06:38 AM)
             ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn/ (2024-11-19 05:50 PM)
             ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.cdn (2018-06-16 12:36 AM)
@@ -351,7 +351,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
             ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
             ☐ Service updates https://azure.microsoft.com/updates/?product=frontdoor
         CDN:
-            ☐ Azure Content Delivery Network billing https://learn.microsoft.com/en-us/azure/cdn/cdn-billing?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
+            ✘ Azure Content Delivery Network billing https://learn.microsoft.com/en-us/azure/cdn/cdn-billing?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
             ☐ Azure Roadmap https://azure.microsoft.com/roadmap/
             ☐ Microsoft Q&A question page https://learn.microsoft.com/answers/tags/155/azure-cdn.html
             ☐ Pricing https://azure.microsoft.com/pricing/details/cdn/
@@ -375,6 +375,65 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
 ---
 
                 ☐ Best practices https://learn.microsoft.com/en-us/azure/frontdoor/best-practices (2024-12-27 06:03 PM)
-            ☐ Edgio retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2024-12-27 12:22 PM)
+            ✘ Edgio retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2024-12-27 12:22 PM) @cancelled
                     ☐ Custom domain https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door (2024-12-27 12:22 PM)
+
+
+---
+
+            ✘ Edgio retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2024-12-27 11:03 PM) @cancelled
+
+
+---
+
+            ☐ About migration to Azure Front Door https://learn.microsoft.com/en-us/azure/cdn/tier-migration?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+            ☐ Edgio retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2024-12-30 12:11 PM)
+            ☐ HTTP/2 support https://learn.microsoft.com/en-us/azure/cdn/cdn-http2?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+            ☐ China content delivery https://learn.microsoft.com/en-us/azure/cdn/cdn-china-delivery?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                ☐ Migrate to Azure Front Door https://learn.microsoft.com/en-us/azure/cdn/migrate-tier?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                    ☐ Set up managed identity https://learn.microsoft.com/en-us/azure/cdn/managed-identity?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ Cache content by query strings https://learn.microsoft.com/en-us/azure/cdn/cdn-query-string?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ Purge cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                    ☐ Monitor resources https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                    ☐ .NET https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                    ☐ Node.js https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                            ☐ Cache content by query strings https://learn.microsoft.com/en-us/azure/cdn/cdn-query-string?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                            ☐ Purge cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                            ☐ Preload cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-preload-endpoint?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                            ☐ Azure web content https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-cloud-service-content?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                            ☐ Azure Blob storage https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-blob-content?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ Monitor resources https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                            ☐ Core reports https://learn.microsoft.com/en-us/azure/cdn/cdn-analyze-usage-patterns?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ .NET https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ Node.js https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                            ☐ Cache content by query strings https://learn.microsoft.com/en-us/azure/cdn/cdn-query-string-premium?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                            ☐ Purge cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                            ☐ Preload cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-preload-endpoint?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                            ☐ Azure web content https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-cloud-service-content?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                            ☐ Azure Blob storage https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-expiration-of-blob-content?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ Token authentication https://learn.microsoft.com/en-us/azure/cdn/cdn-token-auth?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ Monitor resources https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ Core reports https://learn.microsoft.com/en-us/azure/cdn/cdn-analyze-usage-patterns?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ Generate advanced HTTP reports https://learn.microsoft.com/en-us/azure/cdn/cdn-advanced-http-reports?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ View real-time statistics https://learn.microsoft.com/en-us/azure/cdn/cdn-real-time-stats?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ Analyze edge node performance https://learn.microsoft.com/en-us/azure/cdn/cdn-edge-performance?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ Get real-time alerts https://learn.microsoft.com/en-us/azure/cdn/cdn-real-time-alerts?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ .NET https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                        ☐ Node.js https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                ☐ 404 status https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-endpoint?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                ☐ File compression https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-compression?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                ☐ POP locations by region https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-locations?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                    ☐ Microsoft (classic) https://learn.microsoft.com/en-us/azure/cdn/microsoft-pop-abbreviations?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                    ☐ Edgio https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-abbreviations?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+            Standard rules engine https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-reference?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM):
+                ☐ Standard rules engine match conditions https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-match-conditions?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+            ☐ Microsoft-specific HTTP headers https://learn.microsoft.com/en-us/azure/cdn/cdn-msft-http-debug-headers?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                Edgio Premium rules engine reference https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine-reference?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM):
+                    ☐ Rules engine conditional expressions https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine-reference-conditional-expressions?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                    ☐ Rules engine match conditions https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine-reference-match-conditions?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                    ☐ Rules engine features https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-premium-rules-engine-reference-features?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                    ☐ HTTP variables https://learn.microsoft.com/en-us/azure/cdn/cdn-http-variables?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+                Edgio-specific HTTP headers https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-http-headers?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM):
+                    ☐ X-EC-Debug headers https://learn.microsoft.com/en-us/azure/cdn/cdn-http-debug-headers?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+            ☐ Azure Content Delivery Network billing https://learn.microsoft.com/en-us/azure/cdn/cdn-billing?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
 

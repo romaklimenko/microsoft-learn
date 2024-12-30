@@ -142,7 +142,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
             ☐ Default user permissions https://learn.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?context=graph/context (2024-12-20 12:05 PM)
             ☐ Profile photo settings https://learn.microsoft.com/en-us/graph/profilephoto-configure-settings (2024-12-10 05:32 AM)
         Groups:
-            ☐ Overview https://learn.microsoft.com/graph/api/resources/groups-overview?context=graph/context (2024-09-11 03:40 AM)
+            ✘ Overview https://learn.microsoft.com/graph/api/resources/groups-overview?context=graph/context (2024-09-11 03:40 AM) @cancelled
             ☐ Microsoft 365 group behaviors and provisioning options https://learn.microsoft.com/en-us/graph/group-set-options (2024-05-30 04:35 AM)
             ☐ Microsoft 365 group settings https://learn.microsoft.com/en-us/graph/group-directory-settings (2024-03-27 04:20 AM)
         Applications:
@@ -465,11 +465,11 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
             ✘ Basics https://learn.microsoft.com/en-us/graph/auth/auth-concepts (2024-11-28 03:45 PM) @cancelled
             ☐ Register your app https://learn.microsoft.com/en-us/graph/auth-register-app-v2 (2024-03-27 04:20 AM)
             ✘ Get access on behalf of a user https://learn.microsoft.com/en-us/graph/auth-v2-user (2024-09-12 02:40 AM) @cancelled
-            ☐ Get access without a user https://learn.microsoft.com/en-us/graph/auth-v2-service (2024-12-03 04:37 AM)
+            ✘ Get access without a user https://learn.microsoft.com/en-us/graph/auth-v2-service (2024-12-03 04:37 AM) @cancelled
             Permissions:
                 ☐ Overview https://learn.microsoft.com/en-us/graph/permissions-overview (2024-10-31 01:21 AM)
                 ✘ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2024-12-16 06:41 PM) @cancelled
-                ☐ Microsoft Entra built-in roles https://learn.microsoft.com/entra/identity/role-based-access-control/permissions-reference?toc=/graph/toc.json (2024-12-19 10:57 PM)
+                ✘ Microsoft Entra built-in roles https://learn.microsoft.com/entra/identity/role-based-access-control/permissions-reference?toc=/graph/toc.json (2024-12-19 10:57 PM) @cancelled
                 ☐ Best practices for Teams app permissions https://learn.microsoft.com/en-us/graph/best-practices-graph-permission (2024-11-08 02:44 AM)
                 ☐ Selected permissions in OneDrive and SharePoint https://learn.microsoft.com/en-us/graph/permissions-selected-overview (2024-11-08 02:44 AM)
             ☐ Manage app access (CSPs) https://learn.microsoft.com/en-us/graph/auth-cloudsolutionprovider (2024-11-27 03:54 PM)
@@ -507,7 +507,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
             ☐ Notifications for cloud printing https://learn.microsoft.com/en-us/graph/universal-print-webhook-notifications (2024-11-08 02:44 AM)
             Notifications for Microsoft Teams resources:
                 ☐ Notification types and payloads https://learn.microsoft.com/en-us/graph/teams-change-notification-in-microsoft-teams-overview (2024-11-08 02:44 AM)
-                ☐ Call recordings and transcripts https://learn.microsoft.com/en-us/graph/teams-changenotifications-callrecording-and-calltranscript (2024-11-08 02:44 AM)
+                ✘ Call recordings and transcripts https://learn.microsoft.com/en-us/graph/teams-changenotifications-callrecording-and-calltranscript (2024-11-08 02:44 AM) @cancelled
                 ☐ Chat https://learn.microsoft.com/en-us/graph/teams-changenotifications-chat (2024-11-08 02:44 AM)
                 ☐ Chat and channel messages https://learn.microsoft.com/en-us/graph/teams-changenotifications-chatmessage (2024-11-08 02:44 AM)
                 ☐ Chat membership https://learn.microsoft.com/en-us/graph/teams-changenotifications-chatmembership (2024-11-08 02:44 AM)
@@ -575,4 +575,20 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
 ---
 
                 ✔ Configure Microsoft Entra Private Access https://learn.microsoft.com/en-us/graph/tutorial-entra-private-access (2024-12-25 01:27 AM) @done(24-12-26 20:21)
+
+
+---
+
+        ☐ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2024-12-27 11:44 PM)
+            ☐ Overview https://learn.microsoft.com/graph/api/resources/groups-overview?context=graph/context (2024-12-27 11:44 PM)
+            ☐ Basics https://learn.microsoft.com/en-us/graph/auth/auth-concepts (2024-12-27 11:44 PM)
+            ☐ Get access on behalf of a user https://learn.microsoft.com/en-us/graph/auth-v2-user (2024-12-27 11:44 PM)
+            ☐ Get access without a user https://learn.microsoft.com/en-us/graph/auth-v2-service (2024-12-27 11:44 PM)
+            ☐ Overview https://learn.microsoft.com/en-us/graph/change-notifications-overview (2024-12-27 11:44 PM)
+                ☐ Call recordings and transcripts https://learn.microsoft.com/en-us/graph/teams-changenotifications-callrecording-and-calltranscript (2024-12-27 11:44 PM)
+
+
+---
+
+                ☐ Microsoft Entra built-in roles https://learn.microsoft.com/entra/identity/role-based-access-control/permissions-reference?toc=/graph/toc.json (2024-12-29 12:10 PM)
 

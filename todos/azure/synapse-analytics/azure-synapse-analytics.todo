@@ -66,7 +66,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Synapse RBAC https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-synapse-rbac (2024-08-01 05:35 AM)
                     ☐ Synapse RBAC roles https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-synapse-rbac-roles (2024-11-05 11:02 PM)
                     ☐ Understand Synapse RBAC roles https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-understand-what-role-you-need (2024-08-01 05:35 AM)
-                    ☐ System and user-assigned managed identity https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-service-identity?context=/azure/synapse-analytics/context/context (2024-11-12 06:06 PM)
+                    ✘ System and user-assigned managed identity https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-service-identity?context=/azure/synapse-analytics/context/context (2024-11-12 06:06 PM) @cancelled
                     ☐ Credentials for user-assigned managed identity https://learn.microsoft.com/en-us/azure/data-factory/credentials?context=/azure/synapse-analytics/context/context (2024-09-26 10:04 PM)
         How-to guides:
             Manage and Monitor:
@@ -145,10 +145,10 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
         Concepts:
             ☐ Back up and restore https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/backup-and-restore?context=/azure/synapse-analytics/context/context (2024-11-22 05:58 AM)
             Data ingestion and preparation:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-elt-data-loading?context=/azure/synapse-analytics/context/context (2024-08-01 05:35 AM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-elt-data-loading?context=/azure/synapse-analytics/context/context (2024-08-01 05:35 AM) @cancelled
                 ☐ Best practices https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/data-loading-best-practices (2024-08-01 05:35 AM)
                 ☐ Columnstore compression https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/data-load-columnstore-compression (2024-08-01 11:20 AM)
-                ☐ Data loading overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/load-data-overview (2024-08-01 05:35 AM)
+                ✘ Data loading overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/load-data-overview (2024-08-01 05:35 AM) @cancelled
             Development:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-overview (2024-08-01 11:20 AM)
                 ☐ Best practices serverless SQL pool https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/best-practices-serverless-sql-pool (2024-11-08 11:02 PM)
@@ -246,7 +246,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Azure Databricks https://learn.microsoft.com/azure/databricks/scenarios/databricks-extract-load-sql-data-warehouse?toc=%2fazure%2fsynapse-analytics%2ftoc.json (2024-12-18 09:37 PM)
                     ☐ SSIS https://learn.microsoft.com/sql/integration-services/load-data-to-sql-data-warehouse (2023-08-10 10:29 PM)
                     ☐ New York taxi cab data https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/load-data-from-azure-blob-storage-using-copy?context=/azure/synapse-analytics/context/context (2024-08-21 05:38 AM)
-                    ☐ Contoso public data https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-load-from-azure-blob-storage-with-polybase?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
+                    ✘ Contoso public data https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-load-from-azure-blob-storage-with-polybase?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM) @cancelled
                     ☐ Load WideWorldImporters https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/load-data-wideworldimportersdw?context=/azure/synapse-analytics/context/context (2024-08-01 05:35 AM)
                     ☐ With the copy activity https://learn.microsoft.com/en-us/azure/synapse-analytics/data-integration/data-integration-sql-pool (2024-12-11 11:02 PM)
                 Into the Data Lake:
@@ -2060,4 +2060,14 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             ✔ Transform data using Apache Spark job definition https://learn.microsoft.com/en-us/azure/synapse-analytics/quickstart-transform-data-using-spark-job-definition (2024-12-26 06:03 PM) @done(24-12-27 18:47)
                     ✔ In Python (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-machine-learning-tutorial (2024-12-26 06:03 PM) @done(24-12-27 18:48)
             ✔ Migrate to a dedicated SQL pool https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/migrate-to-synapse-analytics-guide (2024-12-26 06:03 PM) @done(24-12-27 18:49)
+
+
+---
+
+                    ☐ System and user-assigned managed identity https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-service-identity?context=/azure/synapse-analytics/context/context (2024-12-29 12:12 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-elt-data-loading?context=/azure/synapse-analytics/context/context (2024-12-29 12:12 PM)
+                ☐ Data loading overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/load-data-overview (2024-12-29 12:12 PM)
+                    ☐ Load external data using Entra ID https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-load-data-using-entra-id (2024-12-29 12:12 PM)
+                    ☐ Load external data using a Managed Identity https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-external-tables-using-managed-identity (2024-12-29 12:12 PM)
+                    ☐ Contoso public data https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-load-from-azure-blob-storage-with-polybase?context=/azure/synapse-analytics/context/context (2024-12-29 12:12 PM)
 

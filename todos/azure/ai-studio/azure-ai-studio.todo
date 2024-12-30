@@ -27,7 +27,7 @@ Azure AI Foundry documentation | Microsoft Learn:
                 ☐ What is Azure OpenAI? https://learn.microsoft.com/en-us/azure/ai-services/openai/overview?context=/azure/ai-studio/context/context (2024-12-18 10:58 PM)
                 ✘ Use Azure OpenAI Service in AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-studio/ai-services/how-to/connect-azure-openai (2024-11-21 06:03 PM) @cancelled
                 ✘ Deploy Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-openai (2024-11-21 06:03 PM) @cancelled
-                ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2024-12-18 12:11 PM)
+                ✘ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2024-12-18 12:11 PM) @cancelled
                 ✘ Get started using Azure OpenAI Assistants https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?context=/azure/ai-studio/context/context (2024-11-27 06:00 PM) @cancelled
                 ✘ Use GPT-4o in the real-time audio playground https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-quickstart?context=/azure/ai-studio/context/context (2024-12-12 11:02 PM) @cancelled
                 ✘ Analyze images and video with GPT-4 for Vision in the playground https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/multimodal-vision (2024-11-21 06:03 PM) @cancelled
@@ -47,11 +47,11 @@ Azure AI Foundry documentation | Microsoft Learn:
             Fine-tune models:
                 ✘ Fine-tuning overview https://learn.microsoft.com/en-us/azure/ai-studio/concepts/fine-tuning-overview (2024-11-24 12:06 PM) @cancelled @cancelled
                 ✘ Fine-tune with user-managed compute https://learn.microsoft.com/en-us/azure/ai-studio/how-to/fine-tune-managed-compute (2024-11-24 12:06 PM) @cancelled @cancelled
-                ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2024-12-18 12:11 PM)
+                ✘ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2024-12-18 12:11 PM) @cancelled
             ✘ Distillation https://learn.microsoft.com/en-us/azure/ai-studio/concepts/concept-model-distillation (2024-12-19 10:58 PM) @cancelled
             Azure OpenAI models:
                 ✘ Deploy Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-openai (2024-11-21 06:03 PM) @cancelled
-                ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2024-12-18 12:11 PM)
+                ✘ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2024-12-18 12:11 PM) @cancelled
             Healthcare AI models:
                 ✘ Foundational AI models for healthcare https://learn.microsoft.com/en-us/azure/ai-studio/how-to/healthcare-ai/healthcare-ai-models (2024-11-26 11:00 PM) @cancelled
                 ✘ MedImageInsight - embedding model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/healthcare-ai/deploy-medimageinsight (2024-11-26 11:00 PM) @cancelled
@@ -247,7 +247,7 @@ Azure AI Foundry documentation | Microsoft Learn:
                 ☐ Use Azure OpenAI Service in Azure AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-studio/ai-services/how-to/connect-azure-openai (2024-12-23 11:00 PM)
                 ☐ Deploy Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-openai (2024-12-23 11:00 PM)
                 ☐ Get started using Azure OpenAI Assistants https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?context=/azure/ai-studio/context/context (2024-12-23 11:00 PM)
-                ☐ Use GPT-4o in the real-time audio playground https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-quickstart?context=/azure/ai-studio/context/context (2024-12-23 11:00 PM)
+                ✘ Use GPT-4o in the real-time audio playground https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-quickstart?context=/azure/ai-studio/context/context (2024-12-23 11:00 PM) @cancelled
                 ☐ Analyze images and video with GPT-4 for Vision in the playground https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/multimodal-vision (2024-12-23 11:00 PM)
                 ☐ Use your image data with Azure OpenAI https://learn.microsoft.com/en-us/azure/ai-studio/how-to/data-image-add (2024-12-23 11:00 PM)
                 ☐ Real-time speech to text https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text?context=/azure/ai-studio/context/context (2024-12-23 11:00 PM)
@@ -405,4 +405,12 @@ Azure AI Foundry documentation | Microsoft Learn:
 ---
 
             ✔ Continuously monitor your applications https://learn.microsoft.com/en-us/azure/ai-studio/how-to/online-evaluation (2024-12-27 06:02 PM) @done(24-12-28 14:40)
+
+
+---
+
+                ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2024-12-29 12:13 PM)
+                ☐ Use GPT-4o in the real-time audio playground https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-quickstart?context=/azure/ai-studio/context/context (2024-12-29 12:13 PM)
+                ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2024-12-29 12:13 PM)
+                ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2024-12-29 12:13 PM)
 

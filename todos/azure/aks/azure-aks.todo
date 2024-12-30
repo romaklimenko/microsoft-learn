@@ -146,8 +146,8 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             ☐ WebLogic https://learn.microsoft.com/azure/developer/java/migration/migrate-weblogic-to-wildfly-on-azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2023-06-13 11:16 PM)
             ☐ WebSphere https://learn.microsoft.com/azure/developer/java/migration/migrate-websphere-to-wildfly-on-azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-30 05:01 PM)
             ☐ JBoss EAP https://learn.microsoft.com/azure/developer/java/migration/migrate-jboss-eap-to-wildfly-on-azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-30 05:01 PM)
-            ☐ Java web app containerization and migration https://learn.microsoft.com/azure/migrate/tutorial-app-containerization-java-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-16 06:03 PM)
-            ☐ ASP.NET app containerization and migration https://learn.microsoft.com/azure/migrate/tutorial-app-containerization-aspnet-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-16 06:03 PM)
+            ✘ Java web app containerization and migration https://learn.microsoft.com/azure/migrate/tutorial-app-containerization-java-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-16 06:03 PM) @cancelled
+            ✘ ASP.NET app containerization and migration https://learn.microsoft.com/azure/migrate/tutorial-app-containerization-aspnet-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-16 06:03 PM) @cancelled
         Clusters:
             ☐ Deploy a cluster in an Azure Extended Zone https://learn.microsoft.com/en-us/azure/aks/extended-zones (2024-10-02 10:02 PM)
             ☐ Deploy a cluster with a fully managed resource group https://learn.microsoft.com/en-us/azure/aks/node-resource-group-lockdown (2024-10-31 05:34 AM)
@@ -325,7 +325,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                     ☐ Internal NGINX controller and private DNS zone https://learn.microsoft.com/en-us/azure/aks/create-nginx-ingress-private-controller (2024-11-07 12:05 PM)
                     ☐ Monitor using Prometheus and Grafana https://learn.microsoft.com/en-us/azure/aks/app-routing-nginx-prometheus (2024-08-01 08:29 PM)
                     ☐ Migrate from HTTP application routing to the application routing add-on https://learn.microsoft.com/en-us/azure/aks/app-routing-migration (2024-08-01 08:29 PM)
-                ☐ Use Application Gateway Ingress Controller add-on https://learn.microsoft.com/azure/application-gateway/tutorial-ingress-controller-add-on-existing?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-08-23 10:04 PM)
+                ✘ Use Application Gateway Ingress Controller add-on https://learn.microsoft.com/azure/application-gateway/tutorial-ingress-controller-add-on-existing?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-08-23 10:04 PM) @cancelled
                 ☐ Use Istio gateway with Istio Service Mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-deploy-ingress (2024-11-05 10:59 PM)
                 ☐ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2024-08-01 08:29 PM)
             Load balancing:
@@ -564,4 +564,19 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ✔ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2024-12-27 12:08 PM) @done(24-12-28 14:41)
         ✘ Java https://learn.microsoft.com/java/api/overview/azure/containerservice (2024-12-27 12:14 PM) @cancelled(24-12-28 14:41)
         ✔ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2024-12-27 12:08 PM) @done(24-12-28 14:41)
+
+
+---
+
+        ✘ Java https://learn.microsoft.com/java/api/overview/azure/containerservice (2024-12-27 12:14 PM) @cancelled
+
+
+---
+
+            ✘ Java web app containerization and migration https://learn.microsoft.com/azure/migrate/tutorial-app-containerization-java-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-30 12:11 PM) @cancelled(24-12-30 20:24)
+            ✔ ASP.NET app containerization and migration https://learn.microsoft.com/azure/migrate/tutorial-app-containerization-aspnet-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-30 12:11 PM) @done(24-12-30 20:24)
+                ✔ Use Application Gateway Ingress Controller add-on https://learn.microsoft.com/azure/application-gateway/tutorial-ingress-controller-add-on-existing?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-29 12:12 PM) @done(24-12-30 20:29)
+        ✔ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2024-12-30 12:07 PM) @done(24-12-30 20:30)
+        ✘ Java https://learn.microsoft.com/java/api/overview/azure/containerservice (2024-12-30 12:16 PM) @cancelled(24-12-30 20:30)
+        ✔ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2024-12-30 12:07 PM) @done(24-12-30 20:30)
 

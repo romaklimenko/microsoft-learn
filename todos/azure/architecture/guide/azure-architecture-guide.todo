@@ -270,10 +270,10 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     Azure Migrate:
                         ☐ Discover AWS instances https://learn.microsoft.com/azure/migrate/tutorial-discover-aws (2024-08-08 05:06 PM)
                         ☐ Assess AWS instances https://learn.microsoft.com/azure/migrate/tutorial-assess-aws (2024-11-29 06:04 PM)
-                        ☐ Migrate AWS VMs https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2024-12-19 06:04 PM)
+                        ✘ Migrate AWS VMs https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2024-12-19 06:04 PM) @cancelled
                     Compute:
                         ☐ Migrate AWS to managed disks https://learn.microsoft.com/azure/virtual-machines/windows/on-prem-to-azure (2024-12-10 11:00 PM)
-                        ☐ Migrate an AWS Windows VM https://learn.microsoft.com/azure/virtual-machines/windows/aws-to-azure (2024-12-19 06:04 PM)
+                        ✘ Migrate an AWS Windows VM https://learn.microsoft.com/azure/virtual-machines/windows/aws-to-azure (2024-12-19 06:04 PM) @cancelled
                     Containers:
                         ☐ Migrate Amazon EKS to Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/architecture/guide/aws-professional/eks-to-aks/migrate-eks-to-aks (2024-09-09 10:27 PM)
                 Security for AWS:
@@ -301,7 +301,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 Migration from Google Cloud:
                     ☐ Discover Google Cloud instances https://learn.microsoft.com/azure/migrate/tutorial-discover-gcp (2024-11-29 06:04 PM)
                     ☐ Assess Google Cloud VM instances https://learn.microsoft.com/azure/migrate/tutorial-assess-gcp (2024-08-23 11:21 AM)
-                    ☐ Migrate Google Cloud VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-gcp-virtual-machines (2024-12-19 06:04 PM)
+                    ✘ Migrate Google Cloud VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-gcp-virtual-machines (2024-12-19 06:04 PM) @cancelled
                 Security for Google Cloud:
                     ☐ Protect Google Cloud with Defender https://learn.microsoft.com/defender-cloud-apps/protect-gcp (2024-10-23 05:33 AM)
                     ☐ Connect Google Cloud projects https://learn.microsoft.com/azure/defender-for-cloud/quickstart-onboard-gcp (2024-12-05 12:14 PM)
@@ -673,7 +673,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Choose a hybrid identity method https://learn.microsoft.com/azure/active-directory/hybrid/choose-ad-authn (2024-12-20 11:01 PM)
                     ☐ Cloud management for on-premises https://learn.microsoft.com/azure/active-directory/hybrid/cloud-governed-management-for-on-premises (2024-12-18 10:57 PM)
                     ☐ Hybrid identity foundation with Microsoft Entra ID https://learn.microsoft.com/azure/active-directory/hybrid/four-steps (2024-09-08 11:11 PM)
-                    ☐ Microsoft Entra Connect for on-premises https://learn.microsoft.com/azure/active-directory/hybrid/whatis-azure-ad-connect (2024-12-05 06:04 PM)
+                    ✘ Microsoft Entra Connect for on-premises https://learn.microsoft.com/azure/active-directory/hybrid/whatis-azure-ad-connect (2024-12-05 06:04 PM) @cancelled
                 Identity for education:
                     ☐ Microsoft Entra ID for education https://learn.microsoft.com/microsoft-365/education/deploy/intro-azure-active-directory (2024-11-08 05:33 AM)
                     ☐ Multi-tenant for large institutions https://learn.microsoft.com/microsoft-365/education/deploy/design-multi-tenant-architecture (2024-11-08 05:33 AM)
@@ -1119,6 +1119,15 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
 
 ---
 
-                    ☐ Azure to Azure disaster recovery https://learn.microsoft.com/azure/site-recovery/azure-to-azure-architecture (2024-12-27 12:22 PM)
+                    ✘ Azure to Azure disaster recovery https://learn.microsoft.com/azure/site-recovery/azure-to-azure-architecture (2024-12-27 12:22 PM) @cancelled
                     ☐ Support for Hyper-V migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-hyper-v-migration (2024-12-27 12:22 PM)
+
+
+---
+
+                        ☐ Migrate AWS VMs https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2024-12-30 12:11 PM)
+                        ☐ Migrate an AWS Windows VM https://learn.microsoft.com/azure/virtual-machines/windows/aws-to-azure (2024-12-30 12:11 PM)
+                    ☐ Migrate Google Cloud VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-gcp-virtual-machines (2024-12-30 12:11 PM)
+                    ☐ Microsoft Entra Connect for on-premises https://learn.microsoft.com/azure/active-directory/hybrid/whatis-azure-ad-connect (2024-12-29 12:10 PM)
+                    ☐ Azure to Azure disaster recovery https://learn.microsoft.com/azure/site-recovery/azure-to-azure-architecture (2024-12-30 12:11 PM)
 
