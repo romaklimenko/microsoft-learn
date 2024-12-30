@@ -5,8 +5,13 @@ import re
 import time
 from urllib.parse import urljoin
 
+import dotenv
 import requests
 from lxml import html
+
+dotenv.load_dotenv()
+
+CACHE_DURATION_SECONDS = 60 * 60 * int(os.getenv("CACHE_DURATION_HOURS", "24"))
 
 DOCS_FILE_PATH = "docs.txt"
 DOCS_CACHE_PATH = ".docs.cache.json"
@@ -48,7 +53,7 @@ def main():
 
         if (
             doc_url in cache
-            and cache[doc_url]["updated_at"] > time.time() - 60 * 60 * 8
+            and cache[doc_url]["updated_at"] > time.time() - CACHE_DURATION_SECONDS
         ):
             continue
 
