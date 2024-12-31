@@ -82,9 +82,15 @@ def main():
         todo_filename = f"{doc_url.replace(
             'https://learn.microsoft.com/en-us/', '').replace('/', '-').rstrip('-')}.todo"
 
+        blacklised_urls = [
+            "/java/",
+        ]
+
         lines = []
         for item in toc_json["items"]:
             for line in get_item_lines(base_url, item, 1):
+                if any(url in line for url in blacklised_urls):
+                    continue
                 lines.append(line)
 
         if len(lines) > 0:
