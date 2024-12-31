@@ -8,7 +8,7 @@ import dotenv
 import matplotlib.pyplot as plt
 import pytz
 import seaborn as sns
-from azure.storage.blob import BlobClient
+from azure.storage.blob import BlobClient, ContentSettings
 from matplotlib.dates import DateFormatter
 
 dotenv.load_dotenv()
@@ -81,14 +81,15 @@ def visualize_dates_by_date_and_time(dates, file_name):
 
 
 def upload_to_blob(file_name):
-    blob_service_client = BlobClient.from_connection_string(
+    blob_client = BlobClient.from_connection_string(
         os.getenv("AZURE_STORAGE_CONNECTION_STRING"),
         container_name="public",
         blob_name=file_name)
-    if blob_service_client.exists():
-        blob_service_client.delete_blob()
+    if blob_client.exists():
+        blob_client.delete_blob()
     with open(file_name, "rb") as data:
-        blob_service_client.upload_blob(data)
+        blob_client.upload_blob(
+            data, content_settings=ContentSettings(content_type="image/png"))
 
 
 def main():
