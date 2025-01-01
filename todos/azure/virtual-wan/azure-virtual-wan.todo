@@ -13,60 +13,60 @@ Virtual WAN documentation | Microsoft Learn:
         ☐ Create User VPN (point-to-site) connections https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-portal (2024-12-13 06:02 PM)
         ☐ Create an ExpressRoute connection https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-expressroute-portal (2024-12-13 06:02 PM)
     Concepts:
-        ☐ What's new? https://learn.microsoft.com/en-us/azure/virtual-wan/whats-new (2024-12-16 11:03 PM)
+        ✘ What's new? https://learn.microsoft.com/en-us/azure/virtual-wan/whats-new (2024-12-16 11:03 PM) @cancelled
         Work remotely:
-            ☐ Support for working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/virtual-wan/toc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2024-09-06 10:05 PM)
-            ☐ Leverage Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/work-remotely-support (2024-08-02 11:27 AM)
+            ✘ Support for working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/virtual-wan/toc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2024-09-06 10:05 PM) @cancelled
+            ✘ Leverage Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/work-remotely-support (2024-08-02 11:27 AM) @cancelled
         ✘ Virtual WAN FAQ https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq (2024-12-17 06:04 PM) @cancelled @cancelled
         Virtual Hub third-party integrations:
-            ☐ Overview of third-party integrations https://learn.microsoft.com/en-us/azure/virtual-wan/third-party-integrations (2024-12-16 11:03 PM)
-            ☐ Integrated NVAs in the Virtual Hub https://learn.microsoft.com/en-us/azure/virtual-wan/about-nva-hub (2024-12-12 06:02 PM)
+            ✘ Overview of third-party integrations https://learn.microsoft.com/en-us/azure/virtual-wan/third-party-integrations (2024-12-16 11:03 PM) @cancelled
+            ✘ Integrated NVAs in the Virtual Hub https://learn.microsoft.com/en-us/azure/virtual-wan/about-nva-hub (2024-12-12 06:02 PM) @cancelled
             ☐ Software-as-a-service(SaaS) https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-palo-alto-cloud-ngfw (2024-12-16 11:03 PM)
             Branch IPSEC connectivity automation:
                 ☐ About branch IPSEC connectivity automation https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-locations-partners (2024-12-16 11:03 PM)
                 ☐ Automation guidelines for partners https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-configure-automation-providers (2024-08-02 11:27 AM)
         Architecture:
-            ☐ Migrate to Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology (2024-10-29 05:03 PM)
+            ✘ Migrate to Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology (2024-10-29 05:03 PM) @cancelled
             ☐ Global transit network architecture https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-global-transit-network-architecture (2024-08-02 11:27 AM)
-            ☐ SD-WAN connectivity architecture https://learn.microsoft.com/en-us/azure/virtual-wan/sd-wan-connectivity-architecture (2024-08-02 11:27 AM)
+            ✘ SD-WAN connectivity architecture https://learn.microsoft.com/en-us/azure/virtual-wan/sd-wan-connectivity-architecture (2024-08-02 11:27 AM) @cancelled
             ☐ Private Link and DNS architecture for Virtual WAN https://learn.microsoft.com/azure/architecture//guide/networking/private-link-virtual-wan-dns-guide?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2024-09-12 04:46 PM)
             ☐ Configure Virtual WAN for Azure NetApp Files https://learn.microsoft.com/en-us/azure/azure-netapp-files/configure-virtual-wan?toc=/azure/virtual-wan/toc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2024-11-25 11:02 PM)
-            ☐ Interconnect with China https://learn.microsoft.com/en-us/azure/virtual-wan/interconnect-china (2024-11-19 11:02 PM)
+            ✘ Interconnect with China https://learn.microsoft.com/en-us/azure/virtual-wan/interconnect-china (2024-11-19 11:02 PM) @cancelled
         Routing:
-            ☐ About virtual hub routing https://learn.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing (2024-12-12 06:02 PM)
+            ✘ About virtual hub routing https://learn.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing (2024-12-12 06:02 PM) @cancelled
             ✘ About Route-maps https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-about (2024-11-04 11:02 PM) @cancelled
-            ☐ Virtual WAN routing deep dive https://learn.microsoft.com/en-us/azure/virtual-wan/routing-deep-dive (2024-12-13 06:02 PM)
+            ✘ Virtual WAN routing deep dive https://learn.microsoft.com/en-us/azure/virtual-wan/routing-deep-dive (2024-12-13 06:02 PM) @cancelled
         Scenarios:
-            ☐ Virtual hub routing preference https://learn.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing-preference (2024-12-12 06:02 PM)
-            ☐ Any-to-any https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-any-to-any (2024-10-29 05:03 PM)
-            ☐ Isolating VNets https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-vnets (2024-10-29 05:03 PM)
-            ☐ Isolating VNets - custom https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-vnets-custom (2024-10-29 05:03 PM)
-            ☐ Isolating virtual networks and branches https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-virtual-networks-branches (2024-10-17 05:04 PM)
-            ☐ Shared services VNets https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-shared-services-vnet (2024-10-29 05:03 PM)
-            ☐ Route through an NVA https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-through-nva (2024-10-29 05:03 PM)
-            ☐ Route through an NVA - custom https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-through-nvas-custom (2024-10-29 05:03 PM)
-            ☐ BGP peering with virtual hub https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-bgp-peering-hub (2024-10-29 05:03 PM)
-            ☐ Azure Firewall - custom https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-between-vnets-firewall (2024-10-29 05:03 PM)
-            ☐ Application Gateway and backend pools https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-secured-hub-app-gateway (2024-10-29 05:03 PM)
-            ☐ Microsoft 365 - ExpressRoute private peering https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-365-expressroute-private (2024-10-29 05:03 PM)
+            ✘ Virtual hub routing preference https://learn.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing-preference (2024-12-12 06:02 PM) @cancelled
+            ✘ Any-to-any https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-any-to-any (2024-10-29 05:03 PM) @cancelled
+            ✘ Isolating VNets https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-vnets (2024-10-29 05:03 PM) @cancelled
+            ✘ Isolating VNets - custom https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-vnets-custom (2024-10-29 05:03 PM) @cancelled
+            ✘ Isolating virtual networks and branches https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-virtual-networks-branches (2024-10-17 05:04 PM) @cancelled
+            ✘ Shared services VNets https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-shared-services-vnet (2024-10-29 05:03 PM) @cancelled
+            ✘ Route through an NVA https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-through-nva (2024-10-29 05:03 PM) @cancelled
+            ✘ Route through an NVA - custom https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-through-nvas-custom (2024-10-29 05:03 PM) @cancelled
+            ✘ BGP peering with virtual hub https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-bgp-peering-hub (2024-10-29 05:03 PM) @cancelled
+            ✘ Azure Firewall - custom https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-between-vnets-firewall (2024-10-29 05:03 PM) @cancelled
+            ✘ Application Gateway and backend pools https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-secured-hub-app-gateway (2024-10-29 05:03 PM) @cancelled
+            ✘ Microsoft 365 - ExpressRoute private peering https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-365-expressroute-private (2024-10-29 05:03 PM) @cancelled
         Site-to-site:
             ☐ About S2S IPsec policies https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-ipsec (2024-08-02 11:27 AM)
-            ☐ Multiple ISP links - Azure path selection https://learn.microsoft.com/en-us/azure/virtual-wan/path-selection-multiple-links (2024-08-02 11:27 AM)
+            ✘ Multiple ISP links - Azure path selection https://learn.microsoft.com/en-us/azure/virtual-wan/path-selection-multiple-links (2024-08-02 11:27 AM) @cancelled
         Point-to-site:
             ☐ P2S concepts https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-concepts (2024-10-29 05:03 PM)
-            ☐ P2S IPsec policies https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-ipsec (2024-09-18 11:13 AM)
-            ☐ P2S client address pools https://learn.microsoft.com/en-us/azure/virtual-wan/about-client-address-pools (2024-08-02 11:27 AM)
+            ✘ P2S IPsec policies https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-ipsec (2024-09-18 11:13 AM) @cancelled
+            ✘ P2S client address pools https://learn.microsoft.com/en-us/azure/virtual-wan/about-client-address-pools (2024-08-02 11:27 AM) @cancelled
             ☐ P2S global and hub profiles https://learn.microsoft.com/en-us/azure/virtual-wan/global-hub-profile (2024-08-02 11:27 AM)
-            ☐ User groups - assign client-specific addresses https://learn.microsoft.com/en-us/azure/virtual-wan/user-groups-about (2024-08-02 11:27 AM)
+            ✘ User groups - assign client-specific addresses https://learn.microsoft.com/en-us/azure/virtual-wan/user-groups-about (2024-08-02 11:27 AM) @cancelled
         ExpressRoute:
             ☐ About ExpressRoute in Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-expressroute-about (2024-08-02 11:27 AM)
-        ☐ Virtual hub settings https://learn.microsoft.com/en-us/azure/virtual-wan/hub-settings (2024-12-17 06:04 PM)
-        ☐ Roles and permissions https://learn.microsoft.com/en-us/azure/virtual-wan/roles-permissions (2024-12-20 11:04 PM)
-        ☐ Gateway settings https://learn.microsoft.com/en-us/azure/virtual-wan/gateway-settings (2024-08-02 11:27 AM)
+        ✘ Virtual hub settings https://learn.microsoft.com/en-us/azure/virtual-wan/hub-settings (2024-12-17 06:04 PM) @cancelled
+        ✘ Roles and permissions https://learn.microsoft.com/en-us/azure/virtual-wan/roles-permissions (2024-12-20 11:04 PM) @cancelled
+        ✘ Gateway settings https://learn.microsoft.com/en-us/azure/virtual-wan/gateway-settings (2024-08-02 11:27 AM) @cancelled
         ☐ Apply Zero Trust principles https://learn.microsoft.com/security/zero-trust/azure-virtual-wan?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2024-09-11 09:57 PM)
-        ☐ Secured virtual hubs https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub?toc=/azure/virtual-wan/toc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2024-11-22 11:02 PM)
+        ✘ Secured virtual hubs https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub?toc=/azure/virtual-wan/toc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2024-11-22 11:02 PM) @cancelled
         ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-wan-security-baseline?toc=%2fazure%2fvirtual-wan%2ftoc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2024-08-05 07:13 PM)
-        ☐ Pricing explained https://learn.microsoft.com/en-us/azure/virtual-wan/pricing-concepts (2024-08-02 11:27 AM)
+        ✘ Pricing explained https://learn.microsoft.com/en-us/azure/virtual-wan/pricing-concepts (2024-08-02 11:27 AM) @cancelled
     How-to guides:
         ☐ Upgrade from Basic to Standard https://learn.microsoft.com/en-us/azure/virtual-wan/upgrade-virtual-wan (2024-08-02 11:27 AM)
         Integrated NVA in a virtual hub:
@@ -132,7 +132,7 @@ Virtual WAN documentation | Microsoft Learn:
                 ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-virtual-hub-routing-powershell (2024-12-16 11:03 PM)
             Configure virtual hub routing preference:
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-wan/howto-virtual-hub-routing-preference (2024-08-02 11:27 AM)
-                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-virtual-hub-routing-preference-powershell (2024-08-21 05:12 PM)
+                ✘ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-virtual-hub-routing-preference-powershell (2024-08-21 05:12 PM) @cancelled
             ☐ View virtual hub effective routes https://learn.microsoft.com/en-us/azure/virtual-wan/effective-routes-virtual-hub (2024-08-02 11:27 AM)
             ☐ Configure Route-maps https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-how-to (2024-08-02 11:27 AM)
             ✘ How to configure routing intent and policies https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies (2024-12-17 06:04 PM) @cancelled
@@ -149,10 +149,10 @@ Virtual WAN documentation | Microsoft Learn:
             ☐ Configure Private Link connectivity https://learn.microsoft.com/en-us/azure/virtual-wan/howto-private-link (2024-09-04 10:09 PM)
             ☐ Manage access to resources - Spoke VNet P2S https://learn.microsoft.com/en-us/azure/virtual-wan/manage-secure-access-resources-spoke-p2s (2024-08-22 07:16 PM)
         Monitoring:
-            ☐ Monitor Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-virtual-wan (2024-09-12 05:07 PM)
+            ✘ Monitor Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-virtual-wan (2024-09-12 05:07 PM) @cancelled
             ☐ Azure Monitor Insights https://learn.microsoft.com/en-us/azure/virtual-wan/azure-monitor-insights (2024-09-11 06:38 PM)
-            ☐ BGP dashboard https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-bgp-dashboard (2024-12-17 06:04 PM)
-            ☐ Route-maps dashboard https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-dashboard (2024-08-02 11:27 AM)
+            ✘ BGP dashboard https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-bgp-dashboard (2024-12-17 06:04 PM) @cancelled
+            ✘ Route-maps dashboard https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-dashboard (2024-08-02 11:27 AM) @cancelled
             Configure S2S VPN packet captures:
                 ✘ Azure portal https://learn.microsoft.com/en-us/azure/virtual-wan/packet-capture-site-to-site-portal (2024-08-02 11:27 AM) @cancelled
                 ✘ PowerShell https://learn.microsoft.com/en-us/azure/virtual-wan/packet-capture-site-to-site-powershell (2024-08-02 11:27 AM) @cancelled
@@ -163,7 +163,7 @@ Virtual WAN documentation | Microsoft Learn:
         ☐ REST https://learn.microsoft.com/rest/api/azure (2024-08-06 10:08 PM)
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/network (2024-11-19 11:00 PM)
         ☐ Python SDK https://azuresdkdocs.blob.core.windows.net/$web/python/azure-mgmt-network/10.0.0/azure.mgmt.network.v2019_02_01.operations.html#azure.mgmt.network.v2019_02_01.operations.VirtualWansOperations
-        ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-virtual-wan-reference (2024-11-01 10:03 PM)
+        ✘ Monitoring data reference https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-virtual-wan-reference (2024-11-01 10:03 PM) @cancelled
     Resources:
         ☐ Pricing https://azure.microsoft.com/pricing/details/virtual-wan
         ☐ Subscription and service limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/virtual-wan/toc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2024-12-12 12:24 PM)
@@ -182,9 +182,49 @@ Virtual WAN documentation | Microsoft Learn:
 ---
 
         ✔ Virtual WAN FAQ https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq (2024-12-26 06:03 PM) @done(24-12-27 18:50)
-            ☐ About Route-maps https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-about (2024-12-26 06:03 PM)
+            ✘ About Route-maps https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-about (2024-12-26 06:03 PM) @cancelled
             ☐ How to configure routing intent and policies https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies (2024-12-26 06:03 PM)
             ☐ Inter-hub and branch-to-branch inspection https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-routing-policies (2024-12-26 06:03 PM)
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-wan/packet-capture-site-to-site-portal (2024-12-26 06:03 PM)
                 ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-wan/packet-capture-site-to-site-powershell (2024-12-26 06:03 PM)
+
+
+---
+
+        ☐ What's new? https://learn.microsoft.com/en-us/azure/virtual-wan/whats-new (2024-12-31 12:14 PM)
+            ☐ Support for working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/virtual-wan/toc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2024-12-30 11:05 PM)
+            ☐ Leverage Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/work-remotely-support (2024-12-31 12:14 PM)
+            ☐ Overview of third-party integrations https://learn.microsoft.com/en-us/azure/virtual-wan/third-party-integrations (2024-12-31 12:14 PM)
+            ☐ Integrated NVAs in the Virtual Hub https://learn.microsoft.com/en-us/azure/virtual-wan/about-nva-hub (2024-12-31 12:14 PM)
+            ☐ Migrate to Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/migrate-from-hub-spoke-topology (2024-12-31 12:14 PM)
+            ☐ SD-WAN connectivity architecture https://learn.microsoft.com/en-us/azure/virtual-wan/sd-wan-connectivity-architecture (2024-12-31 12:14 PM)
+            ☐ Interconnect with China https://learn.microsoft.com/en-us/azure/virtual-wan/interconnect-china (2024-12-31 12:14 PM)
+            ☐ About virtual hub routing https://learn.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing (2024-12-31 12:14 PM)
+            ☐ About Route-maps https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-about (2024-12-31 12:14 PM)
+            ☐ Virtual WAN routing deep dive https://learn.microsoft.com/en-us/azure/virtual-wan/routing-deep-dive (2024-12-31 12:14 PM)
+            ☐ Virtual hub routing preference https://learn.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing-preference (2024-12-31 12:14 PM)
+            ☐ Any-to-any https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-any-to-any (2024-12-31 12:14 PM)
+            ☐ Isolating VNets https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-vnets (2024-12-31 12:14 PM)
+            ☐ Isolating VNets - custom https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-vnets-custom (2024-12-31 12:14 PM)
+            ☐ Isolating virtual networks and branches https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-isolate-virtual-networks-branches (2024-12-31 12:14 PM)
+            ☐ Shared services VNets https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-shared-services-vnet (2024-12-31 12:14 PM)
+            ☐ Route through an NVA https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-through-nva (2024-12-31 12:14 PM)
+            ☐ Route through an NVA - custom https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-through-nvas-custom (2024-12-31 12:14 PM)
+            ☐ BGP peering with virtual hub https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-bgp-peering-hub (2024-12-31 12:14 PM)
+            ☐ Azure Firewall - custom https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-route-between-vnets-firewall (2024-12-31 12:14 PM)
+            ☐ Application Gateway and backend pools https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-secured-hub-app-gateway (2024-12-31 12:14 PM)
+            ☐ Microsoft 365 - ExpressRoute private peering https://learn.microsoft.com/en-us/azure/virtual-wan/scenario-365-expressroute-private (2024-12-31 12:14 PM)
+            ☐ Multiple ISP links - Azure path selection https://learn.microsoft.com/en-us/azure/virtual-wan/path-selection-multiple-links (2024-12-31 12:14 PM)
+            ☐ P2S IPsec policies https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-ipsec (2024-12-31 12:14 PM)
+            ☐ P2S client address pools https://learn.microsoft.com/en-us/azure/virtual-wan/about-client-address-pools (2024-12-31 12:14 PM)
+            ☐ User groups - assign client-specific addresses https://learn.microsoft.com/en-us/azure/virtual-wan/user-groups-about (2024-12-31 12:14 PM)
+        ☐ Virtual hub settings https://learn.microsoft.com/en-us/azure/virtual-wan/hub-settings (2024-12-31 12:14 PM)
+        ☐ Roles and permissions https://learn.microsoft.com/en-us/azure/virtual-wan/roles-permissions (2024-12-31 12:14 PM)
+        ☐ Gateway settings https://learn.microsoft.com/en-us/azure/virtual-wan/gateway-settings (2024-12-31 12:14 PM)
+        ☐ Secured virtual hubs https://learn.microsoft.com/en-us/azure/firewall-manager/secured-virtual-hub?toc=/azure/virtual-wan/toc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2024-12-30 11:05 PM)
+        ☐ Pricing explained https://learn.microsoft.com/en-us/azure/virtual-wan/pricing-concepts (2024-12-31 12:14 PM)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-virtual-hub-routing-preference-powershell (2024-12-31 12:14 PM)
+            ☐ Monitor Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-virtual-wan (2024-12-31 12:14 PM)
+            ☐ BGP dashboard https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-bgp-dashboard (2024-12-31 12:14 PM)
+            ☐ Route-maps dashboard https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-dashboard (2024-12-31 12:14 PM)
 

@@ -27,20 +27,20 @@ Private Link Documentation - Quickstarts, How to guides, and API references | Mi
             ☐ Connect to a SQL server - PowerShell https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-powershell (2024-08-02 11:27 AM)
             ☐ Connect to a SQL server - Azure CLI https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-cli (2024-08-02 11:27 AM)
     Concepts:
-        ☐ Availability https://learn.microsoft.com/en-us/azure/private-link/availability (2024-11-21 11:02 PM)
-        ☐ What is a private endpoint? https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview (2024-12-05 05:33 AM)
-        ☐ Private Link service https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview (2024-12-05 11:02 PM)
+        ✘ Availability https://learn.microsoft.com/en-us/azure/private-link/availability (2024-11-21 11:02 PM) @cancelled
+        ✘ What is a private endpoint? https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview (2024-12-05 05:33 AM) @cancelled
+        ✘ Private Link service https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview (2024-12-05 11:02 PM) @cancelled
         Network security perimeter:
             ☐ What is a network security perimeter? https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-concepts (2024-12-03 06:03 PM)
             ☐ Transition to a network security perimeter https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-transition (2024-11-26 05:33 AM)
-            ☐ Diagnostic logs https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-diagnostic-logs (2024-11-26 05:33 AM)
-            ☐ Role-based access control permissions https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-role-based-access-control-requirements (2024-11-26 05:33 AM)
+            ✘ Diagnostic logs https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-diagnostic-logs (2024-11-26 05:33 AM) @cancelled
+            ✘ Role-based access control permissions https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-role-based-access-control-requirements (2024-11-26 05:33 AM) @cancelled
         DNS:
             ☐ Private DNS zone values https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns (2024-12-19 11:02 PM)
             ☐ Private endpoint DNS integration https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns-integration (2024-12-05 05:33 AM)
-        ☐ RBAC permissions https://learn.microsoft.com/en-us/azure/private-link/rbac-permissions (2024-12-05 05:33 AM)
+        ✘ RBAC permissions https://learn.microsoft.com/en-us/azure/private-link/rbac-permissions (2024-12-05 05:33 AM) @cancelled
         ☐ Private Link and DNS in Azure Virtual WAN https://learn.microsoft.com/azure/architecture/guide/networking/private-link-virtual-wan-dns-guide?toc=/azure/private-link/toc.json (2024-09-12 04:46 PM)
-        ☐ Azure Firewall traffic inspection https://learn.microsoft.com/en-us/azure/private-link/inspect-traffic-with-azure-firewall (2024-08-02 11:27 AM)
+        ✘ Azure Firewall traffic inspection https://learn.microsoft.com/en-us/azure/private-link/inspect-traffic-with-azure-firewall (2024-08-02 11:27 AM) @cancelled
         Security:
             ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-private-link-security-baseline?toc=/azure/private-link/toc.json (2024-08-05 07:13 PM)
     How-to:
@@ -82,4 +82,15 @@ Private Link Documentation - Quickstarts, How to guides, and API references | Mi
         ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
         ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-virtual-network
         ☐ FAQ https://learn.microsoft.com/en-us/azure/private-link/private-link-faq (2024-12-05 05:33 AM)
+
+
+---
+
+        ☐ Availability https://learn.microsoft.com/en-us/azure/private-link/availability (2024-12-30 11:05 PM)
+        ☐ What is a private endpoint? https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview (2024-12-30 11:05 PM)
+        ☐ Private Link service https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview (2024-12-30 11:05 PM)
+            ☐ Diagnostic logs https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-diagnostic-logs (2024-12-30 11:05 PM)
+            ☐ Role-based access control permissions https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-role-based-access-control-requirements (2024-12-30 11:05 PM)
+        ☐ RBAC permissions https://learn.microsoft.com/en-us/azure/private-link/rbac-permissions (2024-12-30 11:05 PM)
+        ☐ Azure Firewall traffic inspection https://learn.microsoft.com/en-us/azure/private-link/inspect-traffic-with-azure-firewall (2024-12-30 11:05 PM)
 

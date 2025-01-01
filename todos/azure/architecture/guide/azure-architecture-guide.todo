@@ -299,7 +299,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Onboard a Google Cloud project https://learn.microsoft.com/azure/active-directory/cloud-infrastructure-entitlement-management/onboard-gcp (2024-05-14 11:06 AM)
                     ☐ Add and remove roles and tasks https://learn.microsoft.com/azure/active-directory/cloud-infrastructure-entitlement-management/how-to-add-remove-role-task (2024-12-11 12:14 PM)
                 Migration from Google Cloud:
-                    ☐ Discover Google Cloud instances https://learn.microsoft.com/azure/migrate/tutorial-discover-gcp (2024-11-29 06:04 PM)
+                    ✘ Discover Google Cloud instances https://learn.microsoft.com/azure/migrate/tutorial-discover-gcp (2024-11-29 06:04 PM) @cancelled
                     ☐ Assess Google Cloud VM instances https://learn.microsoft.com/azure/migrate/tutorial-assess-gcp (2024-08-23 11:21 AM)
                     ✘ Migrate Google Cloud VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-gcp-virtual-machines (2024-12-19 06:04 PM) @cancelled
                 Security for Google Cloud:
@@ -593,7 +593,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Internet connectivity design https://learn.microsoft.com/azure/azure-vmware/concepts-design-public-internet-access (2024-03-24 11:19 AM)
                     ☐ Manage and monitor AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring (2024-07-16 04:57 PM)
                     ☐ Migrate with AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/migrate (2024-06-13 04:56 PM)
-                    ☐ Migration assessment https://learn.microsoft.com/azure/migrate/concepts-azure-vmware-solution-assessment-calculation (2024-12-16 06:03 PM)
+                    ✘ Migration assessment https://learn.microsoft.com/azure/migrate/concepts-azure-vmware-solution-assessment-calculation (2024-12-16 06:03 PM) @cancelled
                     Networking for AVS:
                         ☐ Network design https://learn.microsoft.com/azure/azure-vmware/concepts-network-design-considerations (2024-03-24 11:19 AM)
                         ☐ Network interconnectivity https://learn.microsoft.com/azure/azure-vmware/concepts-networking (2024-03-24 11:19 AM)
@@ -697,11 +697,11 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Overview https://learn.microsoft.com/azure/logic-apps/logic-apps-overview (2024-12-18 12:12 PM)
                     ☐ Connectors overview https://learn.microsoft.com/azure/connectors/apis-list (2024-12-19 01:01 AM)
                     ☐ Access to virtual networks https://learn.microsoft.com/azure/logic-apps/connect-virtual-network-vnet-isolated-environment-overview (2024-12-18 11:02 PM)
-                    ☐ Business disaster and recovery https://learn.microsoft.com/azure/logic-apps/business-continuity-disaster-recovery-guidance (2024-11-22 05:58 AM)
+                    ✘ Business disaster and recovery https://learn.microsoft.com/azure/logic-apps/business-continuity-disaster-recovery-guidance (2024-11-22 05:58 AM) @cancelled
                     ☐ Azure Policy controls https://learn.microsoft.com/azure/logic-apps/security-controls-policy (2024-08-05 05:33 AM)
                     ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/logic-apps-security-baseline (2024-08-05 07:13 PM)
                 BizTalk Server to Azure Integration Services:
-                    ☐ Migration overview https://learn.microsoft.com/azure/logic-apps/biztalk-server-to-azure-integration-services-overview (2024-12-09 06:04 PM)
+                    ✘ Migration overview https://learn.microsoft.com/azure/logic-apps/biztalk-server-to-azure-integration-services-overview (2024-12-09 06:04 PM) @cancelled
                     ✘ Which integration services to choose? https://learn.microsoft.com/azure/logic-apps/azure-integration-services-choose-capabilities (2024-12-09 12:22 AM) @cancelled
                     ✘ Migration options and best practices https://learn.microsoft.com/azure/logic-apps/biztalk-server-azure-integration-services-migration-approaches (2024-12-18 12:12 PM) @cancelled
                 Event Hubs with Azure Functions:
@@ -812,7 +812,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Apache Kafka migration to Azure https://learn.microsoft.com/en-us/azure/architecture/guide/guide/hadoop/apache-kafka-migration (2024-09-09 10:27 PM)
                     ☐ Apache Sqoop migration to Azure https://learn.microsoft.com/en-us/azure/architecture/guide/guide/hadoop/apache-sqoop-migration (2024-09-09 10:27 PM)
                 BizTalk Server to Azure Integration Services:
-                    ☐ Migration overview https://learn.microsoft.com/azure/logic-apps/biztalk-server-to-azure-integration-services-overview (2024-12-09 06:04 PM)
+                    ✘ Migration overview https://learn.microsoft.com/azure/logic-apps/biztalk-server-to-azure-integration-services-overview (2024-12-09 06:04 PM) @cancelled
                     ✘ Which integration services to choose? https://learn.microsoft.com/azure/logic-apps/azure-integration-services-choose-capabilities (2024-12-09 12:22 AM) @cancelled
                     ✘ Migration options and best practices https://learn.microsoft.com/azure/logic-apps/biztalk-server-azure-integration-services-migration-approaches (2024-12-18 12:12 PM) @cancelled
                 Migration deployments:
@@ -1125,9 +1125,23 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
 
 ---
 
-                        ☐ Migrate AWS VMs https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2024-12-30 12:11 PM)
-                        ☐ Migrate an AWS Windows VM https://learn.microsoft.com/azure/virtual-machines/windows/aws-to-azure (2024-12-30 12:11 PM)
-                    ☐ Migrate Google Cloud VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-gcp-virtual-machines (2024-12-30 12:11 PM)
+                        ✘ Migrate AWS VMs https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2024-12-30 12:11 PM) @cancelled
+                        ✘ Migrate an AWS Windows VM https://learn.microsoft.com/azure/virtual-machines/windows/aws-to-azure (2024-12-30 12:11 PM) @cancelled
+                    ✘ Migrate Google Cloud VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-gcp-virtual-machines (2024-12-30 12:11 PM) @cancelled
                     ☐ Microsoft Entra Connect for on-premises https://learn.microsoft.com/azure/active-directory/hybrid/whatis-azure-ad-connect (2024-12-29 12:10 PM)
                     ☐ Azure to Azure disaster recovery https://learn.microsoft.com/azure/site-recovery/azure-to-azure-architecture (2024-12-30 12:11 PM)
+
+
+---
+
+                        ☐ Migrate AWS VMs https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2024-12-31 12:14 PM)
+                        ☐ Migrate an AWS Windows VM https://learn.microsoft.com/azure/virtual-machines/windows/aws-to-azure (2024-12-31 12:14 PM)
+                    ☐ Discover Google Cloud instances https://learn.microsoft.com/azure/migrate/tutorial-discover-gcp (2024-12-31 12:14 PM)
+                    ☐ Migrate Google Cloud VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-gcp-virtual-machines (2024-12-31 12:14 PM)
+                    ☐ Migration assessment https://learn.microsoft.com/azure/migrate/concepts-azure-vmware-solution-assessment-calculation (2024-12-31 12:14 PM)
+                    ☐ Business disaster and recovery https://learn.microsoft.com/azure/logic-apps/business-continuity-disaster-recovery-guidance (2024-12-30 06:35 PM)
+                    ☐ Migration overview https://learn.microsoft.com/azure/logic-apps/biztalk-server-to-azure-integration-services-overview (2024-12-30 06:35 PM)
+                    ☐ Migration options and best practices https://learn.microsoft.com/azure/logic-apps/biztalk-server-azure-integration-services-migration-approaches (2024-12-30 06:35 PM)
+                    ☐ Migration overview https://learn.microsoft.com/azure/logic-apps/biztalk-server-to-azure-integration-services-overview (2024-12-30 06:35 PM)
+                    ☐ Migration options and best practices https://learn.microsoft.com/azure/logic-apps/biztalk-server-azure-integration-services-migration-approaches (2024-12-30 06:35 PM)
 

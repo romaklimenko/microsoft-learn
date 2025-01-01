@@ -284,7 +284,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                     ☐ Configure cross-tenant workload identity https://learn.microsoft.com/en-us/azure/aks/workload-identity-cross-tenant (2024-10-31 05:34 AM)
                     ☐ Migrate your app from pod identity to workload identity https://learn.microsoft.com/en-us/azure/aks/workload-identity-migrate-from-pod-identity (2024-12-12 05:31 AM)
                 ☐ Microsoft Entra pod identity https://learn.microsoft.com/en-us/azure/aks/use-azure-ad-pod-identity (2024-10-31 05:34 AM)
-                ☐ Pod Sandboxing https://learn.microsoft.com/en-us/azure/aks/use-pod-sandboxing (2024-12-12 06:01 PM)
+                ✘ Pod Sandboxing https://learn.microsoft.com/en-us/azure/aks/use-pod-sandboxing (2024-12-12 06:01 PM) @cancelled
                 ☐ Secure pod traffic with network policies https://learn.microsoft.com/en-us/azure/aks/use-network-policies (2024-12-20 12:04 PM)
                 ☐ Pod security policies https://learn.microsoft.com/en-us/azure/aks/use-pod-security-policies (2024-10-31 05:34 AM)
                 ☐ Pod Security Admission https://learn.microsoft.com/en-us/azure/aks/use-psa (2024-12-12 05:31 AM)
@@ -489,10 +489,10 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Azure App Configuration extension reference https://learn.microsoft.com/azure/azure-app-configuration/reference-kubernetes-provider?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-21 12:10 PM)
                 ☐ Troubleshoot the Azure App Configuration extension https://learn.microsoft.com/troubleshoot/azure/azure-kubernetes/welcome-azure-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-27 10:00 AM)
         AI and machine learning:
-            ☐ Deploy an application that uses OpenAI on Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-quickstart (2024-08-01 08:29 PM)
-            ☐ Secure access to Azure OpenAI from Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-secure-access-quickstart (2024-08-01 08:29 PM)
-            ☐ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2024-11-19 06:01 PM)
-            ☐ Deploy data and ML pipelines with Flyte https://learn.microsoft.com/en-us/azure/aks/use-flyte (2024-08-09 10:01 PM)
+            ✘ Deploy an application that uses OpenAI on Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-quickstart (2024-08-01 08:29 PM) @cancelled
+            ✘ Secure access to Azure OpenAI from Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-secure-access-quickstart (2024-08-01 08:29 PM) @cancelled
+            ✘ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2024-11-19 06:01 PM) @cancelled
+            ✘ Deploy data and ML pipelines with Flyte https://learn.microsoft.com/en-us/azure/aks/use-flyte (2024-08-09 10:01 PM) @cancelled
             ☐ Work with clusters using Copilot https://learn.microsoft.com/azure/copilot/work-aks-clusters?toc/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-20 10:59 PM)
         DevOps:
             ☐ Azure DevOps Project https://learn.microsoft.com/azure/devops-project/azure-devops-project-aks?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2023-03-20 10:15 PM)
@@ -579,4 +579,25 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ✔ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2024-12-30 12:07 PM) @done(24-12-30 20:30)
         ✘ Java https://learn.microsoft.com/java/api/overview/azure/containerservice (2024-12-30 12:16 PM) @cancelled(24-12-30 20:30)
         ✔ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2024-12-30 12:07 PM) @done(24-12-30 20:30)
+
+
+---
+
+            ☐ Java web app containerization and migration https://learn.microsoft.com/azure/migrate/tutorial-app-containerization-java-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-31 12:14 PM)
+            ☐ Resize an AKS cluster https://learn.microsoft.com/en-us/azure/aks/resize-cluster (2024-12-30 11:04 PM)
+                Deploy Apache Airflow:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/aks/airflow-overview (2024-12-30 11:04 PM)
+                    ☐ Create Airflow infrastructure resources https://learn.microsoft.com/en-us/azure/aks/airflow-create-infrastructure (2024-12-30 11:04 PM)
+                    ☐ Configure and deploy Airflow https://learn.microsoft.com/en-us/azure/aks/airflow-deploy (2024-12-30 11:04 PM)
+            AI and machine learning workloads:
+                Deploy an OpenAI application:
+                    ☐ Deploy an application that uses OpenAI on Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-quickstart (2024-08-01 08:29 PM)
+                    ☐ Secure access to Azure OpenAI from Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-secure-access-quickstart (2024-08-01 08:29 PM)
+                Deploy a Ray cluster:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/aks/ray-overview (2024-12-30 11:04 PM)
+                    ☐ Configure and deploy a Ray cluster https://learn.microsoft.com/en-us/azure/aks/deploy-ray (2024-12-30 11:04 PM)
+                ☐ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2024-11-19 06:01 PM)
+                ☐ Deploy data and ML pipelines with Flyte https://learn.microsoft.com/en-us/azure/aks/use-flyte (2024-08-09 10:01 PM)
+                ☐ Pod Sandboxing https://learn.microsoft.com/en-us/azure/aks/use-pod-sandboxing (2024-12-30 06:30 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2024-12-30 12:31 PM)
 

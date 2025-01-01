@@ -8,7 +8,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
         CDN:
             ☐ What is Azure Content Delivery Network (Azure CDN)? https://learn.microsoft.com/en-us/azure/cdn/cdn-overview?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
             ☐ Compare product features https://learn.microsoft.com/en-us/azure/cdn/cdn-features?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
-        ☐ Front Door and CDN comparison https://learn.microsoft.com/en-us/azure/frontdoor/front-door-cdn-comparison (2024-12-10 06:02 PM)
+        ✘ Front Door and CDN comparison https://learn.microsoft.com/en-us/azure/frontdoor/front-door-cdn-comparison (2024-12-10 06:02 PM) @cancelled
         ☐ Well-Architected review of Front Door https://learn.microsoft.com/azure/well-architected/service-guides/azure-front-door (2024-06-18 09:59 PM)
     Quickstarts:
         Front Door:
@@ -49,74 +49,74 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
     Concepts:
         Front Door:
             Standard/Premium:
-                ☐ Front Door manager https://learn.microsoft.com/en-us/azure/frontdoor/manager (2024-11-19 06:02 PM)
-                ☐ Caching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching?pivots=front-door-standard-premium (2024-12-11 06:03 PM)
-                ☐ Traffic acceleration https://learn.microsoft.com/en-us/azure/frontdoor/front-door-traffic-acceleration?pivots=front-door-standard-premium (2024-08-02 05:06 PM)
+                ✘ Front Door manager https://learn.microsoft.com/en-us/azure/frontdoor/manager (2024-11-19 06:02 PM) @cancelled
+                ✘ Caching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching?pivots=front-door-standard-premium (2024-12-11 06:03 PM) @cancelled
+                ✘ Traffic acceleration https://learn.microsoft.com/en-us/azure/frontdoor/front-door-traffic-acceleration?pivots=front-door-standard-premium (2024-08-02 05:06 PM) @cancelled
                 Routing:
-                    ☐ Routing architecture https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-standard-premium (2024-08-12 10:07 PM)
-                    ☐ Route matching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-route-matching?pivots=front-door-standard-premium (2024-11-27 06:02 PM)
-                    ☐ Routing limits https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits (2024-08-02 05:06 PM)
-                ☐ Endpoints https://learn.microsoft.com/en-us/azure/frontdoor/endpoint (2024-11-19 06:02 PM)
+                    ✘ Routing architecture https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-standard-premium (2024-08-12 10:07 PM) @cancelled
+                    ✘ Route matching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-route-matching?pivots=front-door-standard-premium (2024-11-27 06:02 PM) @cancelled
+                    ✘ Routing limits https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits (2024-08-02 05:06 PM) @cancelled
+                ✘ Endpoints https://learn.microsoft.com/en-us/azure/frontdoor/endpoint (2024-11-19 06:02 PM) @cancelled
                 Origins:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/frontdoor/origin?pivots=front-door-standard-premium (2024-08-12 10:07 PM)
-                    ☐ Origin selection https://learn.microsoft.com/en-us/azure/frontdoor/routing-methods (2024-11-21 11:02 PM)
-                    ☐ Private Link https://learn.microsoft.com/en-us/azure/frontdoor/private-link (2024-11-21 11:02 PM)
-                    ☐ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2024-08-12 10:07 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/frontdoor/origin?pivots=front-door-standard-premium (2024-08-12 10:07 PM) @cancelled
+                    ✘ Origin selection https://learn.microsoft.com/en-us/azure/frontdoor/routing-methods (2024-11-21 11:02 PM) @cancelled
+                    ✘ Private Link https://learn.microsoft.com/en-us/azure/frontdoor/private-link (2024-11-21 11:02 PM) @cancelled
+                    ✘ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2024-08-12 10:07 PM) @cancelled
                 Domains:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/frontdoor/domain (2024-08-07 10:04 PM)
-                    ☐ Apex domains https://learn.microsoft.com/en-us/azure/frontdoor/apex-domain (2024-08-02 05:06 PM)
-                    ☐ Wildcard domains https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-standard-premium (2024-12-11 06:03 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/frontdoor/domain (2024-08-07 10:04 PM) @cancelled
+                    ✘ Apex domains https://learn.microsoft.com/en-us/azure/frontdoor/apex-domain (2024-08-02 05:06 PM) @cancelled
+                    ✘ Wildcard domains https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-standard-premium (2024-12-11 06:03 PM) @cancelled
                 Rules Engine:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-standard-premium (2024-08-12 10:07 PM)
-                    ☐ Match conditions https://learn.microsoft.com/en-us/azure/frontdoor/rules-match-conditions?pivots=front-door-standard-premium (2024-11-21 11:02 PM)
-                    ☐ Actions https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-standard-premium (2024-10-02 10:08 PM)
-                    ☐ Server variables https://learn.microsoft.com/en-us/azure/frontdoor/rule-set-server-variables (2024-08-01 05:35 AM)
-                    ☐ URL rewrite https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-standard-premium (2024-08-12 10:07 PM)
-                    ☐ URL redirect https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-standard-premium (2024-08-01 05:35 AM)
-                ☐ WebSocket https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/websocket (2024-11-11 06:07 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-standard-premium (2024-08-12 10:07 PM) @cancelled
+                    ✘ Match conditions https://learn.microsoft.com/en-us/azure/frontdoor/rules-match-conditions?pivots=front-door-standard-premium (2024-11-21 11:02 PM) @cancelled
+                    ✘ Actions https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-standard-premium (2024-10-02 10:08 PM) @cancelled
+                    ✘ Server variables https://learn.microsoft.com/en-us/azure/frontdoor/rule-set-server-variables (2024-08-01 05:35 AM) @cancelled
+                    ✘ URL rewrite https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-standard-premium (2024-08-12 10:07 PM) @cancelled
+                    ✘ URL redirect https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-standard-premium (2024-08-01 05:35 AM) @cancelled
+                ✘ WebSocket https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/websocket (2024-11-11 06:07 PM) @cancelled
                 ☐ Sensitive data protection https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/sensitive-data-protection (2024-08-01 10:05 PM)
-                ☐ Understand billing https://learn.microsoft.com/en-us/azure/frontdoor/billing (2024-08-02 05:06 PM)
-                ☐ Price comparison between tiers https://learn.microsoft.com/en-us/azure/frontdoor/understanding-pricing (2024-11-21 11:02 PM)
+                ✘ Understand billing https://learn.microsoft.com/en-us/azure/frontdoor/billing (2024-08-02 05:06 PM) @cancelled
+                ✘ Price comparison between tiers https://learn.microsoft.com/en-us/azure/frontdoor/understanding-pricing (2024-11-21 11:02 PM) @cancelled
                 ☐ Logs and metrics https://learn.microsoft.com/en-us/azure/frontdoor/front-door-diagnostics?pivots=front-door-standard-premium (2024-12-11 06:03 PM)
                 ✘ Best practices https://learn.microsoft.com/en-us/azure/frontdoor/best-practices (2024-08-21 10:04 PM) @cancelled
                 Scenarios:
                     ☐ Overview https://learn.microsoft.com/en-us/azure/frontdoor/scenarios (2024-08-02 05:06 PM)
-                    ☐ Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-storage-blobs (2024-11-19 06:02 PM)
-                    ☐ Upload to Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-upload-storage-blobs (2024-08-02 05:06 PM)
+                    ✘ Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-storage-blobs (2024-11-19 06:02 PM) @cancelled
+                    ✘ Upload to Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-upload-storage-blobs (2024-08-02 05:06 PM) @cancelled
             Classic:
                 Migrate to Standard or Premium Tier:
-                    ☐ About tier migration https://learn.microsoft.com/en-us/azure/frontdoor/tier-migration (2024-08-01 05:35 AM)
-                    ☐ Classic to Standard/Premium mapping https://learn.microsoft.com/en-us/azure/frontdoor/tier-mapping (2024-11-19 06:02 PM)
+                    ✘ About tier migration https://learn.microsoft.com/en-us/azure/frontdoor/tier-migration (2024-08-01 05:35 AM) @cancelled
+                    ✘ Classic to Standard/Premium mapping https://learn.microsoft.com/en-us/azure/frontdoor/tier-mapping (2024-11-19 06:02 PM) @cancelled
                 ☐ Front Door (classic) retirement FAQ https://learn.microsoft.com/en-us/azure/frontdoor/classic-retirement-faq (2024-09-09 05:05 PM)
-                ☐ Caching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching?pivots=front-door-classic (2024-12-11 06:03 PM)
-                ☐ Traffic acceleration https://learn.microsoft.com/en-us/azure/frontdoor/front-door-traffic-acceleration?pivots=front-door-classic (2024-08-02 05:06 PM)
+                ✘ Caching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching?pivots=front-door-classic (2024-12-11 06:03 PM) @cancelled
+                ✘ Traffic acceleration https://learn.microsoft.com/en-us/azure/frontdoor/front-door-traffic-acceleration?pivots=front-door-classic (2024-08-02 05:06 PM) @cancelled
                 Routing:
-                    ☐ Routing architecture https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-classic (2024-08-12 10:07 PM)
-                    ☐ Route matching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-route-matching?pivots=front-door-classic (2024-11-27 06:02 PM)
-                    ☐ Traffic routing methods https://learn.microsoft.com/en-us/azure/frontdoor/routing-methods (2024-11-21 11:02 PM)
-                    ☐ Routing limits https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits (2024-08-02 05:06 PM)
-                ☐ Backend pool https://learn.microsoft.com/en-us/azure/frontdoor/origin?pivots=front-door-classic (2024-08-12 10:07 PM)
-                ☐ Wildcard domain https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-classic (2024-12-11 06:03 PM)
-                ☐ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2024-08-12 10:07 PM)
+                    ✘ Routing architecture https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-classic (2024-08-12 10:07 PM) @cancelled
+                    ✘ Route matching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-route-matching?pivots=front-door-classic (2024-11-27 06:02 PM) @cancelled
+                    ✘ Traffic routing methods https://learn.microsoft.com/en-us/azure/frontdoor/routing-methods (2024-11-21 11:02 PM) @cancelled
+                    ✘ Routing limits https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits (2024-08-02 05:06 PM) @cancelled
+                ✘ Backend pool https://learn.microsoft.com/en-us/azure/frontdoor/origin?pivots=front-door-classic (2024-08-12 10:07 PM) @cancelled
+                ✘ Wildcard domain https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-classic (2024-12-11 06:03 PM) @cancelled
+                ✘ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2024-08-12 10:07 PM) @cancelled
                 Rules Engine:
-                    ☐ Rules Engine architecture https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-classic (2024-08-12 10:07 PM)
-                    ☐ Rules match conditions https://learn.microsoft.com/en-us/azure/frontdoor/rules-match-conditions?pivots=front-door-classic (2024-11-21 11:02 PM)
-                    ☐ Rules actions https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-classic (2024-10-02 10:08 PM)
-                ☐ URL rewrite https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-classic (2024-08-12 10:07 PM)
-                ☐ URL redirect https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-classic (2024-08-01 05:35 AM)
+                    ✘ Rules Engine architecture https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-classic (2024-08-12 10:07 PM) @cancelled
+                    ✘ Rules match conditions https://learn.microsoft.com/en-us/azure/frontdoor/rules-match-conditions?pivots=front-door-classic (2024-11-21 11:02 PM) @cancelled
+                    ✘ Rules actions https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-classic (2024-10-02 10:08 PM) @cancelled
+                ✘ URL rewrite https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-classic (2024-08-12 10:07 PM) @cancelled
+                ✘ URL redirect https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-classic (2024-08-01 05:35 AM) @cancelled
             Security:
                 ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-front-door-security-baseline?toc=/azure/frontdoor/TOC.json (2024-08-05 07:13 PM)
-                ☐ DDoS protection https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos (2024-11-19 06:02 PM)
-                ☐ About TLS encryption https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls (2024-12-12 11:04 PM)
-                ☐ Web Application Firewall https://learn.microsoft.com/en-us/azure/frontdoor/web-application-firewall (2024-11-19 06:02 PM)
+                ✘ DDoS protection https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos (2024-11-19 06:02 PM) @cancelled
+                ✘ About TLS encryption https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls (2024-12-12 11:04 PM) @cancelled
+                ✘ Web Application Firewall https://learn.microsoft.com/en-us/azure/frontdoor/web-application-firewall (2024-11-19 06:02 PM) @cancelled
                 ☐ Geo-filtering https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-geo-filtering?toc=/azure/frontdoor/toc.json (2024-11-19 11:02 PM)
-                ☐ Secure traffic to origins https://learn.microsoft.com/en-us/azure/frontdoor/origin-security (2024-11-19 06:02 PM)
+                ✘ Secure traffic to origins https://learn.microsoft.com/en-us/azure/frontdoor/origin-security (2024-11-19 06:02 PM) @cancelled
             Protocol:
-                ☐ HTTP/2 https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http2 (2024-11-19 06:02 PM)
+                ✘ HTTP/2 https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http2 (2024-11-19 06:02 PM) @cancelled
             ☐ FAQ https://learn.microsoft.com/en-us/azure/frontdoor/front-door-faq (2024-10-29 05:03 PM)
         CDN:
             ✘ About migration to Azure Front Door https://learn.microsoft.com/en-us/azure/cdn/tier-migration?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
-            ☐ CDN and Front Door price comparison https://learn.microsoft.com/en-us/azure/frontdoor/compare-cdn-front-door-price (2024-12-11 06:03 PM)
+            ✘ CDN and Front Door price comparison https://learn.microsoft.com/en-us/azure/frontdoor/compare-cdn-front-door-price (2024-12-11 06:03 PM) @cancelled
             ☐ Migrate CDN provider https://learn.microsoft.com/en-us/azure/cdn/cdn-change-provider?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM)
             ☐ Microsoft CDN (classic) retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/classic-cdn-retirement-faq (2024-09-25 10:03 PM)
             ✘ Edgio retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2024-12-23 12:14 AM) @cancelled
@@ -132,11 +132,11 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
             Standard/Premium:
                 Configure:
                     Upgrade to Premium tier:
-                        ☐ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade (2024-11-19 06:02 PM)
-                        ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade-powershell (2024-11-19 06:02 PM)
+                        ✘ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade (2024-11-19 06:02 PM) @cancelled
+                        ✘ Azure PowerShell https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade-powershell (2024-11-19 06:02 PM) @cancelled
                     ☐ Configure a new endpoint https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-endpoints (2024-09-13 05:05 PM)
                     ☐ Add origins to origin group https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-origin (2024-08-01 05:35 AM)
-                    ☐ Set up managed identity https://learn.microsoft.com/en-us/azure/frontdoor/managed-identity (2024-11-21 11:02 PM)
+                    ✘ Set up managed identity https://learn.microsoft.com/en-us/azure/frontdoor/managed-identity (2024-11-21 11:02 PM) @cancelled
                     Domains:
                         ☐ Add a custom domain https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-add-custom-domain (2024-11-21 11:02 PM)
                         ☐ Add a root or apex domain https://learn.microsoft.com/en-us/azure/frontdoor/front-door-how-to-onboard-apex-domain?pivots=front-door-standard-premium (2024-12-12 11:04 PM)
@@ -164,7 +164,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 Monitor and reports:
                     ☐ Configure diagnostic logs https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-logs (2024-08-01 05:35 AM)
                     ☐ Access metrics and create alerts https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-monitor-metrics (2024-09-11 06:38 PM)
-                    ☐ View Front Door reports https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-reports (2024-08-01 05:35 AM)
+                    ✘ View Front Door reports https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-reports (2024-08-01 05:35 AM) @cancelled
                 Integrations:
                     ☐ Azure Storage Account https://learn.microsoft.com/en-us/azure/frontdoor/integrate-storage-account (2024-11-19 06:02 PM)
                     ☐ Azure API Management https://learn.microsoft.com/en-us/azure/api-management/front-door-api-management?toc=/azure/frontdoor/toc.json (2024-12-19 06:04 PM)
@@ -173,8 +173,8 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                     ☐ Azure Spring Apps https://learn.microsoft.com/azure/architecture/web-apps/spring-apps/guides/spring-cloud-reverse-proxy?toc=/azure/frontdoor/toc.json (2024-12-05 06:06 PM)
             Classic:
                 Migrate to Standard or Premium tier:
-                    ☐ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier (2024-11-19 06:02 PM)
-                    ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier-powershell (2024-10-15 10:04 PM)
+                    ✘ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier (2024-11-19 06:02 PM) @cancelled
+                    ✘ Azure PowerShell https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier-powershell (2024-10-15 10:04 PM) @cancelled
                 Add a custom domain:
                     ☐ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/front-door-custom-domain (2024-08-12 10:07 PM)
                     ☐ Azure CLI https://learn.microsoft.com/en-us/azure/frontdoor/scripts/custom-domain (2024-11-19 06:02 PM)
@@ -302,8 +302,8 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
         Front Door:
             ☐ HTTP headers protocol support https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http-headers-protocol (2024-08-26 10:08 PM)
             Azure Front Door POP locations:
-                ☐ POP locations by region https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-region (2024-08-12 10:07 PM)
-                ☐ POP locations by abbreviation https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-abbreviation (2024-11-19 06:02 PM)
+                ✘ POP locations by region https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-region (2024-08-12 10:07 PM) @cancelled
+                ✘ POP locations by abbreviation https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-abbreviation (2024-11-19 06:02 PM) @cancelled
             Standard/Premium:
                 ☐ Azure CLI https://learn.microsoft.com/cli/azure/afd (2024-04-30 09:07 AM)
                 ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn (2024-11-19 05:50 PM)
@@ -374,7 +374,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
 
 ---
 
-                ☐ Best practices https://learn.microsoft.com/en-us/azure/frontdoor/best-practices (2024-12-27 06:03 PM)
+                ✘ Best practices https://learn.microsoft.com/en-us/azure/frontdoor/best-practices (2024-12-27 06:03 PM) @cancelled
             ✘ Edgio retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2024-12-27 12:22 PM) @cancelled
                     ☐ Custom domain https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door (2024-12-27 12:22 PM)
 
@@ -436,4 +436,63 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 Edgio-specific HTTP headers https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-http-headers?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM):
                     ☐ X-EC-Debug headers https://learn.microsoft.com/en-us/azure/cdn/cdn-http-debug-headers?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
             ☐ Azure Content Delivery Network billing https://learn.microsoft.com/en-us/azure/cdn/cdn-billing?toc=/azure/frontdoor/TOC.json (2024-12-29 12:12 PM)
+
+
+---
+
+        ☐ Front Door and CDN comparison https://learn.microsoft.com/en-us/azure/frontdoor/front-door-cdn-comparison (2024-12-30 11:05 PM)
+                ☐ Front Door manager https://learn.microsoft.com/en-us/azure/frontdoor/manager (2024-12-30 11:05 PM)
+                ☐ Caching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
+                ☐ Traffic acceleration https://learn.microsoft.com/en-us/azure/frontdoor/front-door-traffic-acceleration?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
+                    ☐ Routing architecture https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
+                    ☐ Route matching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-route-matching?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
+                    ☐ Routing limits https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits (2024-12-30 11:05 PM)
+                ☐ Endpoints https://learn.microsoft.com/en-us/azure/frontdoor/endpoint (2024-12-30 11:05 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/frontdoor/origin?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
+                    ☐ Origin selection https://learn.microsoft.com/en-us/azure/frontdoor/routing-methods (2024-12-30 11:05 PM)
+                    ☐ Private Link https://learn.microsoft.com/en-us/azure/frontdoor/private-link (2024-12-30 11:05 PM)
+                    ☐ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2024-12-30 11:05 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/frontdoor/domain (2024-12-30 11:05 PM)
+                    ☐ Apex domains https://learn.microsoft.com/en-us/azure/frontdoor/apex-domain (2024-12-30 11:05 PM)
+                    ☐ Wildcard domains https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
+                    ☐ Match conditions https://learn.microsoft.com/en-us/azure/frontdoor/rules-match-conditions?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
+                    ☐ Actions https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
+                    ☐ Server variables https://learn.microsoft.com/en-us/azure/frontdoor/rule-set-server-variables (2024-12-30 11:05 PM)
+                    ☐ URL rewrite https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
+                    ☐ URL redirect https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
+                ☐ WebSocket https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/websocket (2024-12-30 11:05 PM)
+                ☐ Understand billing https://learn.microsoft.com/en-us/azure/frontdoor/billing (2024-12-30 11:05 PM)
+                ☐ Price comparison between tiers https://learn.microsoft.com/en-us/azure/frontdoor/understanding-pricing (2024-12-30 11:05 PM)
+                ☐ Best practices https://learn.microsoft.com/en-us/azure/frontdoor/best-practices (2024-12-30 11:05 PM)
+                    ☐ Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-storage-blobs (2024-12-30 11:05 PM)
+                    ☐ Upload to Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-upload-storage-blobs (2024-12-30 11:05 PM)
+                    ☐ About tier migration https://learn.microsoft.com/en-us/azure/frontdoor/tier-migration (2024-12-30 11:05 PM)
+                    ☐ Classic to Standard/Premium mapping https://learn.microsoft.com/en-us/azure/frontdoor/tier-mapping (2024-12-30 11:05 PM)
+                ☐ Caching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching?pivots=front-door-classic (2024-12-30 11:05 PM)
+                ☐ Traffic acceleration https://learn.microsoft.com/en-us/azure/frontdoor/front-door-traffic-acceleration?pivots=front-door-classic (2024-12-30 11:05 PM)
+                    ☐ Routing architecture https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-classic (2024-12-30 11:05 PM)
+                    ☐ Route matching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-route-matching?pivots=front-door-classic (2024-12-30 11:05 PM)
+                    ☐ Traffic routing methods https://learn.microsoft.com/en-us/azure/frontdoor/routing-methods (2024-12-30 11:05 PM)
+                    ☐ Routing limits https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits (2024-12-30 11:05 PM)
+                ☐ Backend pool https://learn.microsoft.com/en-us/azure/frontdoor/origin?pivots=front-door-classic (2024-12-30 11:05 PM)
+                ☐ Wildcard domain https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-classic (2024-12-30 11:05 PM)
+                ☐ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2024-12-30 11:05 PM)
+                    ☐ Rules Engine architecture https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-classic (2024-12-30 11:05 PM)
+                    ☐ Rules match conditions https://learn.microsoft.com/en-us/azure/frontdoor/rules-match-conditions?pivots=front-door-classic (2024-12-30 11:05 PM)
+                    ☐ Rules actions https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-classic (2024-12-30 11:05 PM)
+                ☐ URL rewrite https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-classic (2024-12-30 11:05 PM)
+                ☐ URL redirect https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-classic (2024-12-30 11:05 PM)
+                ☐ DDoS protection https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos (2024-12-30 11:05 PM)
+                ☐ About TLS encryption https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls (2024-12-30 11:05 PM)
+                ☐ Web Application Firewall https://learn.microsoft.com/en-us/azure/frontdoor/web-application-firewall (2024-12-30 11:05 PM)
+                ☐ Secure traffic to origins https://learn.microsoft.com/en-us/azure/frontdoor/origin-security (2024-12-30 11:05 PM)
+                ☐ HTTP/2 https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http2 (2024-12-30 11:05 PM)
+            ☐ CDN and Front Door price comparison https://learn.microsoft.com/en-us/azure/frontdoor/compare-cdn-front-door-price (2024-12-30 11:05 PM)
+                        ☐ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade (2024-12-30 11:05 PM)
+                    ☐ Set up managed identity https://learn.microsoft.com/en-us/azure/frontdoor/managed-identity (2024-12-30 11:05 PM)
+                    ☐ View Front Door reports https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-reports (2024-12-30 11:05 PM)
+                    ☐ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier (2024-12-30 11:05 PM)
+                ☐ POP locations by region https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-region (2024-12-30 11:05 PM)
+                ☐ POP locations by abbreviation https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-abbreviation (2024-12-30 11:05 PM)
 

@@ -9,7 +9,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ Azure Hybrid Benefit https://learn.microsoft.com/en-us/azure/azure-sql/azure-hybrid-benefit (2024-07-31 05:33 PM)
             ☐ Reservations https://learn.microsoft.com/en-us/azure/azure-sql/database/reservations-discount-overview (2024-12-19 11:35 PM)
         Shared concepts:
-            ☐ Feature comparison https://learn.microsoft.com/en-us/azure/azure-sql/database/features-comparison (2024-12-19 11:35 PM)
+            ✘ Feature comparison https://learn.microsoft.com/en-us/azure/azure-sql/database/features-comparison (2024-12-19 11:35 PM) @cancelled
             ☐ Multi-model features https://learn.microsoft.com/en-us/azure/azure-sql/multi-model-features (2024-11-22 07:03 PM)
             ☐ Temporal tables https://learn.microsoft.com/en-us/azure/azure-sql/temporal-tables (2024-11-22 07:03 PM)
             ☐ Scale up / down https://learn.microsoft.com/en-us/azure/azure-sql/database/scale-resources (2024-07-31 05:33 PM)
@@ -121,7 +121,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Use Azure Functions https://learn.microsoft.com/azure/azure-functions/functions-scenario-database-table-cleanup?toc=/azure/azure-sql/toc.json (2023-01-30 11:04 PM)
                 ☐ Use Azure Logic Apps https://learn.microsoft.com/azure/connectors/connectors-create-api-sqlazure?toc=/azure/azure-sql/toc.json (2024-12-18 12:12 PM)
                 ☐ Index with Azure Cognitive Search https://learn.microsoft.com/azure/search/search-howto-connecting-azure-sql-database-to-azure-search-using-indexers?toc=/azure/azure-sql/toc.json (2024-12-06 11:01 PM)
-                ☐ Server-side CLR/.NET integration https://learn.microsoft.com/sql/relational-databases/clr-integration/common-language-runtime-integration-overview (2024-08-06 11:00 PM)
+                ✘ Server-side CLR/.NET integration https://learn.microsoft.com/sql/relational-databases/clr-integration/common-language-runtime-integration-overview (2024-08-06 11:00 PM) @cancelled
                 Java:
                     ☐ Use Java and JDBC https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-java (2024-11-25 11:30 PM)
                     ☐ Use Spring Data JDBC https://learn.microsoft.com/azure/developer/java/spring-framework/configure-spring-data-jdbc-with-azure-sql-server?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-12-18 06:02 PM)
@@ -190,9 +190,9 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale (2024-12-19 11:35 PM)
                 ☐ Hyperscale architecture https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-architecture (2024-11-21 06:30 PM)
                 ☐ Elastic pools https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-elastic-pool-overview (2024-11-05 11:33 PM)
-                ☐ Hyperscale backups https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-automated-backups-overview (2024-11-21 06:30 PM)
+                ✘ Hyperscale backups https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-automated-backups-overview (2024-11-21 06:30 PM) @cancelled
                 ☐ Replicas https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-replicas (2024-11-25 11:30 PM)
-                ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-frequently-asked-questions-faq (2024-11-21 06:30 PM)
+                ✘ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-frequently-asked-questions-faq (2024-11-21 06:30 PM) @cancelled
             Purchasing models:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/purchasing-models (2024-09-27 10:32 PM)
                 ☐ vCore model https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tiers-sql-database-vcore (2024-12-19 11:35 PM)
@@ -321,7 +321,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Manage pool resources https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-pool-manage (2024-10-17 10:35 PM)
                 ☐ Resource management in dense elastic pools https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-pool-resource-management (2024-07-31 05:33 PM)
                 ☐ Manage Hyperscale databases https://learn.microsoft.com/en-us/azure/azure-sql/database/manage-hyperscale-database (2024-11-07 06:33 PM)
-                ☐ Hyperscale performance diagnostics https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-performance-diagnostics (2024-11-11 11:32 PM)
+                ✘ Hyperscale performance diagnostics https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-performance-diagnostics (2024-11-11 11:32 PM) @cancelled
                 ☐ Block T-SQL CRUD https://learn.microsoft.com/en-us/azure/azure-sql/database/block-crud-tsql (2024-07-31 05:33 PM)
                 ☐ Azure Automation https://learn.microsoft.com/en-us/azure/azure-sql/database/automation-manage (2024-11-22 07:03 PM)
                 Block geo-replication of Azure SQL Database backups
@@ -348,7 +348,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             Hyperscale databases:
                 ☐ Manage Hyperscale databases https://learn.microsoft.com/en-us/azure/azure-sql/database/manage-hyperscale-database (2024-11-07 06:33 PM)
                 ☐ Create zone-redundant database https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-create-zone-redundant-database (2024-07-31 05:33 PM)
-                ☐ Hyperscale performance diagnostics https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-performance-diagnostics (2024-11-11 11:32 PM)
+                ✘ Hyperscale performance diagnostics https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-performance-diagnostics (2024-11-11 11:32 PM) @cancelled
                 ☐ Use command-line with Hyperscale elastic pool https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-elastic-pool-command-line (2024-09-12 05:30 PM)
             Security:
                 ☐ Audit to storage account behind VNet or firewall https://learn.microsoft.com/en-us/azure/azure-sql/database/audit-write-storage-account-behind-vnet-firewall (2024-07-31 05:33 PM)
@@ -869,7 +869,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             Reference:
                 ☐ Azure PowerShell https://learn.microsoft.com/powershell/azure/ (2024-11-19 09:28 PM)
                 ☐ Azure CLI https://learn.microsoft.com/cli/azure/azure-cli-reference-for-sql (2023-07-05 10:45 AM)
-                ☐ T-SQL https://learn.microsoft.com/sql/t-sql/language-reference (2024-11-22 07:03 PM)
+                ✘ T-SQL https://learn.microsoft.com/sql/t-sql/language-reference (2024-11-22 07:03 PM) @cancelled
                 ☐ SQL Server Drivers https://learn.microsoft.com/sql/connect/sql-connection-libraries (2024-09-18 05:31 PM)
                 ☐ REST https://learn.microsoft.com/rest/api/ (2024-11-01 08:16 PM)
             Resources:
@@ -947,7 +947,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ Migration tutorial https://learn.microsoft.com/data-migration/sql-server/database/database-migration-service?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
     Reference:
         ☐ Azure SQL glossary of terms https://learn.microsoft.com/en-us/azure/azure-sql/glossary-terms (2024-12-19 11:35 PM)
-        ☐ T-SQL language reference https://learn.microsoft.com/sql/t-sql/language-reference (2024-11-22 07:03 PM)
+        ✘ T-SQL language reference https://learn.microsoft.com/sql/t-sql/language-reference (2024-11-22 07:03 PM) @cancelled
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/azure-cli-reference-for-sql (2023-07-05 10:45 AM)
         ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.sql/ (2024-11-19 05:50 PM)
         ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.sql.models (2018-06-16 12:36 AM)
@@ -1023,4 +1023,16 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 ---
 
                 ✔ SQL Data Sync retirement https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-data-sync-retirement-migration (2024-12-27 06:31 PM) @done(24-12-28 14:44)
+
+
+---
+
+            ☐ Feature comparison https://learn.microsoft.com/en-us/azure/azure-sql/database/features-comparison (2024-12-31 06:31 PM)
+                ☐ Server-side CLR/.NET integration https://learn.microsoft.com/sql/relational-databases/clr-integration/common-language-runtime-integration-overview (2024-12-30 06:37 PM)
+                ☐ Hyperscale backups https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-automated-backups-overview (2024-12-30 06:37 PM)
+                ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-frequently-asked-questions-faq (2024-12-30 06:37 PM)
+                ☐ Hyperscale performance diagnostics https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-performance-diagnostics (2024-12-31 06:31 PM)
+                ☐ Hyperscale performance diagnostics https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-performance-diagnostics (2024-12-31 06:31 PM)
+                ☐ T-SQL https://learn.microsoft.com/sql/t-sql/language-reference (2024-12-30 06:37 PM)
+        ☐ T-SQL language reference https://learn.microsoft.com/sql/t-sql/language-reference (2024-12-30 06:37 PM)
 

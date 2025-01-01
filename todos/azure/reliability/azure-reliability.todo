@@ -170,13 +170,13 @@ Azure reliability documentation | Microsoft Learn:
             ☐ Azure Firewall https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-02 05:06 PM)
             ☐ Azure Load Balancer https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer (2024-11-20 11:04 PM)
             ☐ Azure Network Watcher https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#service-availability-and-redundancy (2024-10-30 07:28 PM)
-            ☐ Azure Private Link https://learn.microsoft.com/en-us/azure/private-link/availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 11:02 PM)
-            ☐ Azure Public IP https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-zone (2024-11-22 05:58 AM)
+            ✘ Azure Private Link https://learn.microsoft.com/en-us/azure/private-link/availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 11:02 PM) @cancelled
+            ✘ Azure Public IP https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-zone (2024-11-22 05:58 AM) @cancelled
             ☐ Azure Route Server https://learn.microsoft.com/en-us/azure/route-server/route-server-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-18 11:02 PM)
             ☐ Azure Traffic Manager https://learn.microsoft.com/en-us/azure/reliability/reliability-traffic-manager (2024-11-01 10:03 PM)
             Azure Virtual Network:
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#virtual-networks-and-availability-zones (2024-09-19 06:07 PM)
-                ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#business-continuity (2024-08-08 05:34 AM)
+                ✘ Disaster recovery https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#business-continuity (2024-08-08 05:34 AM) @cancelled
             Azure Virtual WAN:
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-are-availability-zones-and-resiliency-handled-in-virtual-wan (2024-12-26 06:03 PM)
                 ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/expressroute/designing-for-disaster-recovery-with-expressroute-privatepeering?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-12 11:04 PM)
@@ -245,4 +245,11 @@ Azure reliability documentation | Microsoft Learn:
                 ☐ Classic Reserved IP addresses https://learn.microsoft.com/azure/virtual-network/ip-services/public-ip-upgrade-classic?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-22 07:16 PM)
                 ☐ Classic ExpressRoute Gateway https://learn.microsoft.com/azure/expressroute/expressroute-migration-classic-resource-manager?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-22 07:16 PM)
                 ☐ Classic VPN gateway https://learn.microsoft.com/azure/vpn-gateway/vpn-gateway-classic-resource-manager-migration?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-11 11:02 PM)
+
+
+---
+
+            ☐ Azure Private Link https://learn.microsoft.com/en-us/azure/private-link/availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-30 11:05 PM)
+            ☐ Azure Public IP https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-zone (2024-12-31 12:14 PM)
+                ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#business-continuity (2024-12-31 12:14 PM)
 

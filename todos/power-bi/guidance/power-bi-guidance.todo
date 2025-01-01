@@ -2,28 +2,28 @@ Power BI guidance documentation - Power BI | Microsoft Learn:
     Power BI guidance documentation https://learn.microsoft.com/en-us/power-bi/guidance/ (2024-06-13 10:40 PM):
         Overview:
             ☐ Overview https://learn.microsoft.com/en-us/power-bi/guidance/overview (2024-07-24 10:30 PM)
-            ☐ Optimization guide for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/power-bi-optimization (2024-10-30 10:34 PM)
+            ✘ Optimization guide for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/power-bi-optimization (2024-10-30 10:34 PM) @cancelled
         Transform and shape data:
-            ☐ The importance of query folding https://learn.microsoft.com/en-us/power-bi/guidance/power-query-folding (2024-10-30 10:34 PM)
-            ☐ Referencing Power Query queries https://learn.microsoft.com/en-us/power-bi/guidance/power-query-referenced-queries (2024-07-30 10:30 PM)
-            ☐ Disable Power Query background refresh https://learn.microsoft.com/en-us/power-bi/guidance/power-query-background-refresh (2024-07-24 10:30 PM)
+            ✘ The importance of query folding https://learn.microsoft.com/en-us/power-bi/guidance/power-query-folding (2024-10-30 10:34 PM) @cancelled
+            ✘ Referencing Power Query queries https://learn.microsoft.com/en-us/power-bi/guidance/power-query-referenced-queries (2024-07-30 10:30 PM) @cancelled
+            ✘ Disable Power Query background refresh https://learn.microsoft.com/en-us/power-bi/guidance/power-query-background-refresh (2024-07-24 10:30 PM) @cancelled
             ☐ Best practices for dataflows https://learn.microsoft.com/en-us/power-bi/transform-model/dataflows/dataflows-introduction-self-service (2024-09-25 10:31 PM)
         Data modeling:
             ✘ What is a star schema? https://learn.microsoft.com/en-us/power-bi/guidance/star-schema (2024-10-29 10:32 PM) @cancelled
-            ☐ Reduce data model size https://learn.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction (2024-11-25 11:30 PM)
-            ☐ Design guidance for date tables https://learn.microsoft.com/en-us/power-bi/guidance/model-date-tables (2024-11-11 11:33 PM)
-            ☐ Auto date/time guidance https://learn.microsoft.com/en-us/power-bi/guidance/auto-date-time (2024-11-11 11:33 PM)
+            ✘ Reduce data model size https://learn.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction (2024-11-25 11:30 PM) @cancelled
+            ✘ Design guidance for date tables https://learn.microsoft.com/en-us/power-bi/guidance/model-date-tables (2024-11-11 11:33 PM) @cancelled
+            ✘ Auto date/time guidance https://learn.microsoft.com/en-us/power-bi/guidance/auto-date-time (2024-11-11 11:33 PM) @cancelled
             ✘ One-to-one relationships https://learn.microsoft.com/en-us/power-bi/guidance/relationships-one-to-one (2024-07-30 10:30 PM) @cancelled
             ✘ Many-to-many relationships https://learn.microsoft.com/en-us/power-bi/guidance/relationships-many-to-many (2024-07-24 10:30 PM) @cancelled
             ✘ Active vs inactive relationships https://learn.microsoft.com/en-us/power-bi/guidance/relationships-active-inactive (2024-07-24 10:30 PM) @cancelled
             ✘ Bi-directional relationships https://learn.microsoft.com/en-us/power-bi/guidance/relationships-bidirectional-filtering (2024-10-30 10:34 PM) @cancelled
             ✘ Relationship troubleshooting https://learn.microsoft.com/en-us/power-bi/guidance/relationships-troubleshoot (2024-12-11 11:32 PM) @cancelled
-            ☐ DirectQuery model guidance https://learn.microsoft.com/en-us/power-bi/guidance/directquery-model-guidance (2024-10-30 10:34 PM)
-            ☐ Composite model guidance https://learn.microsoft.com/en-us/power-bi/guidance/composite-model-guidance (2024-10-30 10:34 PM)
-            ☐ Row-level security (RLS) guidance https://learn.microsoft.com/en-us/power-bi/guidance/rls-guidance (2024-10-30 10:34 PM)
-            ☐ Power Platform modeling guidance https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-modeling-guidance-for-power-platform (2024-10-30 10:34 PM)
-            ☐ Migrate AAS models to Power BI Premium https://learn.microsoft.com/en-us/power-bi/guidance/migrate-azure-analysis-services-to-powerbi-premium (2024-10-30 10:34 PM)
-            ☐ Migrate AAS models to Power BI Premium scenarios https://learn.microsoft.com/en-us/power-bi/guidance/migrate-azure-analysis-services-to-powerbi-premium-migration-scenarios (2024-10-30 10:34 PM)
+            ✘ DirectQuery model guidance https://learn.microsoft.com/en-us/power-bi/guidance/directquery-model-guidance (2024-10-30 10:34 PM) @cancelled
+            ✘ Composite model guidance https://learn.microsoft.com/en-us/power-bi/guidance/composite-model-guidance (2024-10-30 10:34 PM) @cancelled
+            ✘ Row-level security (RLS) guidance https://learn.microsoft.com/en-us/power-bi/guidance/rls-guidance (2024-10-30 10:34 PM) @cancelled
+            ✘ Power Platform modeling guidance https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-modeling-guidance-for-power-platform (2024-10-30 10:34 PM) @cancelled
+            ✘ Migrate AAS models to Power BI Premium https://learn.microsoft.com/en-us/power-bi/guidance/migrate-azure-analysis-services-to-powerbi-premium (2024-10-30 10:34 PM) @cancelled
+            ✘ Migrate AAS models to Power BI Premium scenarios https://learn.microsoft.com/en-us/power-bi/guidance/migrate-azure-analysis-services-to-powerbi-premium-migration-scenarios (2024-10-30 10:34 PM) @cancelled
         DAX:
             ☐ Appropriate use of error functions https://learn.microsoft.com/dax/best-practices/dax-error-functions (2024-12-19 04:29 AM)
             ☐ Avoid converting BLANKs to values https://learn.microsoft.com/dax/best-practices/dax-avoid-converting-blank (2023-12-13 11:02 PM)
@@ -35,20 +35,20 @@ Power BI guidance documentation - Power BI | Microsoft Learn:
             ☐ Use variables to improve formulas https://learn.microsoft.com/dax/best-practices/dax-variables (2023-12-13 11:02 PM)
             ☐ Sample model https://learn.microsoft.com/dax/dax-sample-model (2024-12-19 04:29 AM)
         Power BI reports:
-            ☐ Separate reports from models https://learn.microsoft.com/en-us/power-bi/guidance/report-separate-from-model (2024-10-30 10:34 PM)
-            ☐ Extend visuals with report page tooltips https://learn.microsoft.com/en-us/power-bi/guidance/report-page-tooltips (2024-07-24 10:30 PM)
-            ☐ Use report page drillthrough https://learn.microsoft.com/en-us/power-bi/guidance/report-drillthrough (2024-07-24 10:30 PM)
+            ✘ Separate reports from models https://learn.microsoft.com/en-us/power-bi/guidance/report-separate-from-model (2024-10-30 10:34 PM) @cancelled
+            ✘ Extend visuals with report page tooltips https://learn.microsoft.com/en-us/power-bi/guidance/report-page-tooltips (2024-07-24 10:30 PM) @cancelled
+            ✘ Use report page drillthrough https://learn.microsoft.com/en-us/power-bi/guidance/report-drillthrough (2024-07-24 10:30 PM) @cancelled
         Power BI paginated reports:
-            ☐ When to use paginated reports https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-or-power-bi (2024-10-30 10:34 PM)
-            ☐ Data retrieval guidance https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-data-retrieval (2024-10-30 10:34 PM)
-            ☐ Image use guidance https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-image (2024-07-24 10:30 PM)
-            ☐ Use cascading parameters https://learn.microsoft.com/en-us/power-bi/guidance/paginated-report-cascading-parameter (2024-07-24 10:30 PM)
-            ☐ Avoid blank pages when printing https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-blank-page (2024-07-24 10:30 PM)
-            ☐ Migrate .rdl reports to Power BI https://learn.microsoft.com/en-us/power-bi/guidance/migrate-ssrs-reports-to-power-bi (2024-10-29 10:32 PM)
+            ✘ When to use paginated reports https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-or-power-bi (2024-10-30 10:34 PM) @cancelled
+            ✘ Data retrieval guidance https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-data-retrieval (2024-10-30 10:34 PM) @cancelled
+            ✘ Image use guidance https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-image (2024-07-24 10:30 PM) @cancelled
+            ✘ Use cascading parameters https://learn.microsoft.com/en-us/power-bi/guidance/paginated-report-cascading-parameter (2024-07-24 10:30 PM) @cancelled
+            ✘ Avoid blank pages when printing https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-blank-page (2024-07-24 10:30 PM) @cancelled
+            ✘ Migrate .rdl reports to Power BI https://learn.microsoft.com/en-us/power-bi/guidance/migrate-ssrs-reports-to-power-bi (2024-10-29 10:32 PM) @cancelled
             ☐ Publish .rdl files to Power BI https://learn.microsoft.com/en-us/power-bi/guidance/publish-reporting-services-power-bi-service (2024-01-15 11:27 PM)
-            ☐ Retire unused .rdl files https://learn.microsoft.com/en-us/power-bi/guidance/retire-unused-reports-ssrs (2024-01-15 11:27 PM)
+            ✘ Retire unused .rdl files https://learn.microsoft.com/en-us/power-bi/guidance/retire-unused-reports-ssrs (2024-01-15 11:27 PM) @cancelled
         Development:
-            ☐ Develop scalable multitenancy applications https://learn.microsoft.com/en-us/power-bi/guidance/develop-scalable-multitenancy-apps-with-powerbi-embedding (2024-10-30 10:34 PM)
+            ✘ Develop scalable multitenancy applications https://learn.microsoft.com/en-us/power-bi/guidance/develop-scalable-multitenancy-apps-with-powerbi-embedding (2024-10-30 10:34 PM) @cancelled
         Build multiple-language reports:
             ☐ Plan translation for reports https://learn.microsoft.com/en-us/power-bi/guidance/multiple-language-translation (2024-10-30 10:34 PM)
             ☐ Use locale values in reports https://learn.microsoft.com/en-us/power-bi/guidance/multiple-language-locale (2024-10-30 10:34 PM)
@@ -67,111 +67,111 @@ Power BI guidance documentation - Power BI | Microsoft Learn:
             ☐ Data translation with field parameters https://learn.microsoft.com/en-us/power-bi/guidance/data-translation-implement-field (2024-12-11 11:32 PM)
             ☐ Add the languages table https://learn.microsoft.com/en-us/power-bi/guidance/data-translation-add-language-table (2024-01-16 11:37 PM)
             ☐ Synchronize field parameters https://learn.microsoft.com/en-us/power-bi/guidance/data-translation-synchronize-field (2024-12-11 11:32 PM)
-            ☐ Data translation calendar table https://learn.microsoft.com/en-us/power-bi/guidance/data-translation-calendar-table (2024-12-11 11:32 PM)
+            ✘ Data translation calendar table https://learn.microsoft.com/en-us/power-bi/guidance/data-translation-calendar-table (2024-12-11 11:32 PM) @cancelled
             ☐ Load multiple-language reports https://learn.microsoft.com/en-us/power-bi/guidance/data-translation-load-report-bookmark (2024-01-16 11:37 PM)
         Admin and deployment:
-            ☐ On-premises data gateway sizing https://learn.microsoft.com/en-us/power-bi/guidance/gateway-onprem-sizing (2024-10-30 10:34 PM)
-            ☐ Monitor report performance https://learn.microsoft.com/en-us/power-bi/guidance/monitor-report-performance (2024-07-24 10:30 PM)
-            ☐ Troubleshoot report performance https://learn.microsoft.com/en-us/power-bi/guidance/report-performance-troubleshoot (2024-10-30 10:34 PM)
+            ✘ On-premises data gateway sizing https://learn.microsoft.com/en-us/power-bi/guidance/gateway-onprem-sizing (2024-10-30 10:34 PM) @cancelled
+            ✘ Monitor report performance https://learn.microsoft.com/en-us/power-bi/guidance/monitor-report-performance (2024-07-24 10:30 PM) @cancelled
+            ✘ Troubleshoot report performance https://learn.microsoft.com/en-us/power-bi/guidance/report-performance-troubleshoot (2024-10-30 10:34 PM) @cancelled
             ☐ Deployment pipelines best practices https://learn.microsoft.com/fabric/cicd/best-practices-cicd (2024-09-22 11:05 AM)
-            ☐ Access the Power BI activity log https://learn.microsoft.com/en-us/power-bi/guidance/admin-activity-log (2024-10-30 10:34 PM)
+            ✘ Access the Power BI activity log https://learn.microsoft.com/en-us/power-bi/guidance/admin-activity-log (2024-10-30 10:34 PM) @cancelled
         Migrate to Power BI:
-            ☐ Migration overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-overview (2024-07-24 10:30 PM)
-            ☐ Prepare to migrate https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-pre-migration-steps (2024-10-30 10:34 PM)
-            ☐ Gather requirements https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-requirements (2024-10-30 10:34 PM)
-            ☐ Plan deployment https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-planning (2024-10-30 10:34 PM)
-            ☐ Conduct proof of concept https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-proof-of-concept (2024-10-30 10:34 PM)
-            ☐ Create content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-create-validate-content (2024-10-30 10:34 PM)
-            ☐ Deploy to Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-deploy-support-monitor (2024-10-30 10:34 PM)
-            ☐ Learn from customer Power BI migrations https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-learn-from-customers (2024-10-30 10:34 PM)
+            ✘ Migration overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-overview (2024-07-24 10:30 PM) @cancelled
+            ✘ Prepare to migrate https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-pre-migration-steps (2024-10-30 10:34 PM) @cancelled
+            ✘ Gather requirements https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-requirements (2024-10-30 10:34 PM) @cancelled
+            ✘ Plan deployment https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-planning (2024-10-30 10:34 PM) @cancelled
+            ✘ Conduct proof of concept https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-proof-of-concept (2024-10-30 10:34 PM) @cancelled
+            ✘ Create content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-create-validate-content (2024-10-30 10:34 PM) @cancelled
+            ✘ Deploy to Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-deploy-support-monitor (2024-10-30 10:34 PM) @cancelled
+            ✘ Learn from customer Power BI migrations https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-learn-from-customers (2024-10-30 10:34 PM) @cancelled
         Fabric adoption roadmap:
-            ☐ Introduction https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap (2024-11-11 11:33 PM)
-            ☐ Maturity levels https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-maturity-levels (2024-10-30 10:34 PM)
-            ☐ Data culture https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-data-culture (2024-10-30 10:34 PM)
-            ☐ Executive sponsorship https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-executive-sponsorship (2024-07-24 10:30 PM)
-            ☐ Business alignment https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-business-alignment (2024-07-24 10:30 PM)
-            ☐ Content ownership https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-content-ownership-and-management (2024-10-30 10:34 PM)
-            ☐ Content delivery scope https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-content-delivery-scope (2024-10-30 10:34 PM)
-            ☐ Center of Excellence https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-center-of-excellence (2024-10-30 10:34 PM)
-            ☐ Governance https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-governance (2024-10-30 10:34 PM)
-            ☐ Mentoring and user enablement https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-mentoring-and-user-enablement (2024-10-30 10:34 PM)
-            ☐ Community of practice https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-community-of-practice (2024-10-30 10:34 PM)
-            ☐ User support https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-user-support (2024-07-24 10:30 PM)
-            ☐ System oversight https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-system-oversight (2024-07-24 10:30 PM)
-            ☐ Change management https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-change-management (2024-07-24 10:30 PM)
-            ☐ Conclusion https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-conclusion (2024-07-24 10:30 PM)
+            ✘ Introduction https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap (2024-11-11 11:33 PM) @cancelled
+            ✘ Maturity levels https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-maturity-levels (2024-10-30 10:34 PM) @cancelled
+            ✘ Data culture https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-data-culture (2024-10-30 10:34 PM) @cancelled
+            ✘ Executive sponsorship https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-executive-sponsorship (2024-07-24 10:30 PM) @cancelled
+            ✘ Business alignment https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-business-alignment (2024-07-24 10:30 PM) @cancelled
+            ✘ Content ownership https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-content-ownership-and-management (2024-10-30 10:34 PM) @cancelled
+            ✘ Content delivery scope https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-content-delivery-scope (2024-10-30 10:34 PM) @cancelled
+            ✘ Center of Excellence https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-center-of-excellence (2024-10-30 10:34 PM) @cancelled
+            ✘ Governance https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-governance (2024-10-30 10:34 PM) @cancelled
+            ✘ Mentoring and user enablement https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-mentoring-and-user-enablement (2024-10-30 10:34 PM) @cancelled
+            ✘ Community of practice https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-community-of-practice (2024-10-30 10:34 PM) @cancelled
+            ✘ User support https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-user-support (2024-07-24 10:30 PM) @cancelled
+            ✘ System oversight https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-system-oversight (2024-07-24 10:30 PM) @cancelled
+            ✘ Change management https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-change-management (2024-07-24 10:30 PM) @cancelled
+            ✘ Conclusion https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-conclusion (2024-07-24 10:30 PM) @cancelled
         Implementation planning:
-            ☐ Introduction https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-introduction (2024-10-11 10:31 PM)
+            ✘ Introduction https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-introduction (2024-10-11 10:31 PM) @cancelled
             BI strategy:
-                ☐ BI strategy overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-overview (2024-07-24 10:30 PM)
-                ☐ BI strategic planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-bi-strategic-planning (2024-11-22 11:31 PM)
-                ☐ BI tactical planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-bi-tactical-planning (2024-07-24 10:30 PM)
-                ☐ BI solution planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-bi-solution-planning (2024-07-24 10:30 PM)
-            ☐ Tenant setup https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-tenant-setup (2024-10-30 10:34 PM)
-            ☐ User tools and devices https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-user-tools-devices (2024-12-04 11:32 PM)
-            ☐ Subscriptions, licenses, and trials https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-subscriptions-licenses-trials (2024-07-24 10:30 PM)
-            ☐ Tenant administration https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-tenant-administration (2024-10-30 10:34 PM)
+                ✘ BI strategy overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-overview (2024-07-24 10:30 PM) @cancelled
+                ✘ BI strategic planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-bi-strategic-planning (2024-11-22 11:31 PM) @cancelled
+                ✘ BI tactical planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-bi-tactical-planning (2024-07-24 10:30 PM) @cancelled
+                ✘ BI solution planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-bi-solution-planning (2024-07-24 10:30 PM) @cancelled
+            ✘ Tenant setup https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-tenant-setup (2024-10-30 10:34 PM) @cancelled
+            ✘ User tools and devices https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-user-tools-devices (2024-12-04 11:32 PM) @cancelled
+            ✘ Subscriptions, licenses, and trials https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-subscriptions-licenses-trials (2024-07-24 10:30 PM) @cancelled
+            ✘ Tenant administration https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-tenant-administration (2024-10-30 10:34 PM) @cancelled
             Workspaces:
-                ☐ Workspaces overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-workspaces-overview (2024-07-24 10:30 PM)
-                ☐ Tenant-level planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-workspaces-tenant-level-planning (2024-10-30 10:34 PM)
-                ☐ Workspace-level planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-workspaces-workspace-level-planning (2024-10-30 10:34 PM)
+                ✘ Workspaces overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-workspaces-overview (2024-07-24 10:30 PM) @cancelled
+                ✘ Tenant-level planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-workspaces-tenant-level-planning (2024-10-30 10:34 PM) @cancelled
+                ✘ Workspace-level planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-workspaces-workspace-level-planning (2024-10-30 10:34 PM) @cancelled
             Content lifecycle management (CLM):
-                ☐ CLM overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-overview (2024-07-24 10:30 PM)
-                ☐ Plan and design content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-plan-design (2024-07-24 10:30 PM)
-                ☐ Develop and manage content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-develop-manage (2024-07-24 10:30 PM)
-                ☐ Validate content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-validate (2024-07-24 10:30 PM)
-                ☐ Deploy content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-deploy (2024-07-24 10:30 PM)
-                ☐ Support and monitor content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-support-monitor (2024-07-24 10:30 PM)
-                ☐ Retire and archive content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-retire-archive (2024-07-24 10:30 PM)
-            ☐ Content distribution and sharing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-distribution-sharing (2024-07-24 10:30 PM)
+                ✘ CLM overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-overview (2024-07-24 10:30 PM) @cancelled
+                ✘ Plan and design content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-plan-design (2024-07-24 10:30 PM) @cancelled
+                ✘ Develop and manage content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-develop-manage (2024-07-24 10:30 PM) @cancelled
+                ✘ Validate content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-validate (2024-07-24 10:30 PM) @cancelled
+                ✘ Deploy content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-deploy (2024-07-24 10:30 PM) @cancelled
+                ✘ Support and monitor content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-support-monitor (2024-07-24 10:30 PM) @cancelled
+                ✘ Retire and archive content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-retire-archive (2024-07-24 10:30 PM) @cancelled
+            ✘ Content distribution and sharing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-distribution-sharing (2024-07-24 10:30 PM) @cancelled
             Security:
-                ☐ Security overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-overview (2024-07-24 10:30 PM)
-                ☐ Tenant-level planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-tenant-level-planning (2024-10-30 10:34 PM)
-                ☐ Report consumer planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-report-consumer-planning (2024-10-30 10:34 PM)
-                ☐ Content creator planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-content-creator-planning (2024-10-30 10:34 PM)
+                ✘ Security overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-overview (2024-07-24 10:30 PM) @cancelled
+                ✘ Tenant-level planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-tenant-level-planning (2024-10-30 10:34 PM) @cancelled
+                ✘ Report consumer planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-report-consumer-planning (2024-10-30 10:34 PM) @cancelled
+                ✘ Content creator planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-content-creator-planning (2024-10-30 10:34 PM) @cancelled
             Information protection and data loss prevention:
-                ☐ Info protection and DLP overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-info-protection-data-loss-prevention-overview (2024-10-30 10:34 PM)
-                ☐ Org-level info protection https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-organization-level-info-protection (2024-10-30 10:34 PM)
-                ☐ Info protection for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-info-protection (2024-10-30 10:34 PM)
-                ☐ DLP for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-data-loss-prevention (2024-10-30 10:34 PM)
-                ☐ Defender for Cloud Apps for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-defender-for-cloud-apps (2024-10-30 10:34 PM)
-                ☐ Auditing of info protection and DLP for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-info-protection-data-loss-prevention (2024-07-24 10:30 PM)
-            ☐ Data gateways https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-data-gateways (2024-11-22 11:31 PM)
-            ☐ Integration with other services https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-integration-with-other-services (2024-12-10 11:49 PM)
+                ✘ Info protection and DLP overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-info-protection-data-loss-prevention-overview (2024-10-30 10:34 PM) @cancelled
+                ✘ Org-level info protection https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-organization-level-info-protection (2024-10-30 10:34 PM) @cancelled
+                ✘ Info protection for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-info-protection (2024-10-30 10:34 PM) @cancelled
+                ✘ DLP for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-data-loss-prevention (2024-10-30 10:34 PM) @cancelled
+                ✘ Defender for Cloud Apps for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-defender-for-cloud-apps (2024-10-30 10:34 PM) @cancelled
+                ✘ Auditing of info protection and DLP for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-info-protection-data-loss-prevention (2024-07-24 10:30 PM) @cancelled
+            ✘ Data gateways https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-data-gateways (2024-11-22 11:31 PM) @cancelled
+            ✘ Integration with other services https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-integration-with-other-services (2024-12-10 11:49 PM) @cancelled
             Auditing and monitoring:
-                ☐ Auditing and monitoring overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-overview (2024-11-27 11:41 PM)
-                ☐ Report-level auditing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-report-level-auditing (2024-10-30 10:34 PM)
-                ☐ Data-level auditing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-data-level-auditing (2024-10-30 10:34 PM)
-                ☐ Tenant-level auditing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-tenant-level-auditing (2024-10-30 10:34 PM)
-                ☐ Tenant-level monitoring https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-tenant-level-monitoring (2024-10-30 10:34 PM)
-            ☐ Adoption tracking https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-adoption-tracking (2024-07-24 10:30 PM)
+                ✘ Auditing and monitoring overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-overview (2024-11-27 11:41 PM) @cancelled
+                ✘ Report-level auditing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-report-level-auditing (2024-10-30 10:34 PM) @cancelled
+                ✘ Data-level auditing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-data-level-auditing (2024-10-30 10:34 PM) @cancelled
+                ✘ Tenant-level auditing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-tenant-level-auditing (2024-10-30 10:34 PM) @cancelled
+                ✘ Tenant-level monitoring https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-tenant-level-monitoring (2024-10-30 10:34 PM) @cancelled
+            ✘ Adoption tracking https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-adoption-tracking (2024-07-24 10:30 PM) @cancelled
             Usage scenarios:
-                ☐ Usage scenarios overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-overview (2024-10-30 10:34 PM)
-                ☐ Personal BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-personal-bi (2024-10-30 10:34 PM)
-                ☐ Team BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-team-bi (2024-10-30 10:34 PM)
-                ☐ Departmental BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-departmental-bi (2024-10-30 10:34 PM)
-                ☐ Enterprise BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-enterprise-bi (2024-10-30 10:34 PM)
-                ☐ Managed self-service BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-managed-self-service-bi (2024-10-30 10:34 PM)
-                ☐ Customizable managed self-service BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-customizable-managed-self-service-bi (2024-10-30 10:34 PM)
-                ☐ Self-service data preparation https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-self-service-data-preparation (2024-10-30 10:34 PM)
-                ☐ Advanced data preparation https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-advanced-data-preparation (2024-10-30 10:34 PM)
-                ☐ Prototyping and sharing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-prototyping-and-sharing (2024-10-30 10:34 PM)
-                ☐ Self-service content publishing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-self-service-content-publishing (2024-10-30 10:34 PM)
-                ☐ Enterprise content publishing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-enterprise-content-publishing (2024-07-24 10:30 PM)
-                ☐ Advanced data model management https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-advanced-data-model-management (2024-10-30 10:34 PM)
-                ☐ Self-service real-time analytics https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-self-service-real-time-analytics (2024-10-30 10:34 PM)
-                ☐ Embed for your organization https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-embed-for-your-organization (2024-10-30 10:34 PM)
-                ☐ Embed for your customers https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-embed-for-your-customers (2024-10-30 10:34 PM)
-                ☐ On-premises reporting https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-on-premises-reporting (2024-10-30 10:34 PM)
-                ☐ Usage scenario diagrams https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-diagrams (2024-07-24 10:30 PM)
+                ✘ Usage scenarios overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-overview (2024-10-30 10:34 PM) @cancelled
+                ✘ Personal BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-personal-bi (2024-10-30 10:34 PM) @cancelled
+                ✘ Team BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-team-bi (2024-10-30 10:34 PM) @cancelled
+                ✘ Departmental BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-departmental-bi (2024-10-30 10:34 PM) @cancelled
+                ✘ Enterprise BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-enterprise-bi (2024-10-30 10:34 PM) @cancelled
+                ✘ Managed self-service BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-managed-self-service-bi (2024-10-30 10:34 PM) @cancelled
+                ✘ Customizable managed self-service BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-customizable-managed-self-service-bi (2024-10-30 10:34 PM) @cancelled
+                ✘ Self-service data preparation https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-self-service-data-preparation (2024-10-30 10:34 PM) @cancelled
+                ✘ Advanced data preparation https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-advanced-data-preparation (2024-10-30 10:34 PM) @cancelled
+                ✘ Prototyping and sharing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-prototyping-and-sharing (2024-10-30 10:34 PM) @cancelled
+                ✘ Self-service content publishing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-self-service-content-publishing (2024-10-30 10:34 PM) @cancelled
+                ✘ Enterprise content publishing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-enterprise-content-publishing (2024-07-24 10:30 PM) @cancelled
+                ✘ Advanced data model management https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-advanced-data-model-management (2024-10-30 10:34 PM) @cancelled
+                ✘ Self-service real-time analytics https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-self-service-real-time-analytics (2024-10-30 10:34 PM) @cancelled
+                ✘ Embed for your organization https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-embed-for-your-organization (2024-10-30 10:34 PM) @cancelled
+                ✘ Embed for your customers https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-embed-for-your-customers (2024-10-30 10:34 PM) @cancelled
+                ✘ On-premises reporting https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-on-premises-reporting (2024-10-30 10:34 PM) @cancelled
+                ✘ Usage scenario diagrams https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-diagrams (2024-07-24 10:30 PM) @cancelled
         Microsoft's Center of Excellence (COE):
-            ☐ Microsoft's BI transformation https://learn.microsoft.com/en-us/power-bi/guidance/center-of-excellence-microsoft-business-intelligence-transformation (2024-07-24 10:30 PM)
-            ☐ How Microsoft established a COE https://learn.microsoft.com/en-us/power-bi/guidance/center-of-excellence-establish (2024-07-24 10:30 PM)
-            ☐ BI solution architecture in the COE https://learn.microsoft.com/en-us/power-bi/guidance/center-of-excellence-business-intelligence-solution-architecture (2024-07-24 10:30 PM)
+            ✘ Microsoft's BI transformation https://learn.microsoft.com/en-us/power-bi/guidance/center-of-excellence-microsoft-business-intelligence-transformation (2024-07-24 10:30 PM) @cancelled
+            ✘ How Microsoft established a COE https://learn.microsoft.com/en-us/power-bi/guidance/center-of-excellence-establish (2024-07-24 10:30 PM) @cancelled
+            ✘ BI solution architecture in the COE https://learn.microsoft.com/en-us/power-bi/guidance/center-of-excellence-business-intelligence-solution-architecture (2024-07-24 10:30 PM) @cancelled
         White papers:
-            ☐ White papers overview https://learn.microsoft.com/en-us/power-bi/guidance/whitepapers (2024-10-28 10:41 PM)
+            ✘ White papers overview https://learn.microsoft.com/en-us/power-bi/guidance/whitepapers (2024-10-28 10:41 PM) @cancelled
             ✘ Power BI security white paper https://learn.microsoft.com/en-us/power-bi/guidance/whitepaper-powerbi-security (2024-10-30 10:34 PM) @cancelled
-            ☐ Power BI Premium deployment https://learn.microsoft.com/en-us/power-bi/guidance/whitepaper-powerbi-premium-deployment (2023-11-10 08:59 AM)
+            ✘ Power BI Premium deployment https://learn.microsoft.com/en-us/power-bi/guidance/whitepaper-powerbi-premium-deployment (2023-11-10 08:59 AM) @cancelled
 
 
 ---
@@ -181,10 +181,130 @@ Power BI guidance documentation - Power BI | Microsoft Learn:
 
 ---
 
-            ☐ What is a star schema? https://learn.microsoft.com/en-us/power-bi/guidance/star-schema (2024-12-27 11:33 PM)
-            ☐ One-to-one relationships https://learn.microsoft.com/en-us/power-bi/guidance/relationships-one-to-one (2024-12-27 11:33 PM)
+            ✘ What is a star schema? https://learn.microsoft.com/en-us/power-bi/guidance/star-schema (2024-12-27 11:33 PM) @cancelled
+            ✘ One-to-one relationships https://learn.microsoft.com/en-us/power-bi/guidance/relationships-one-to-one (2024-12-27 11:33 PM) @cancelled
             ☐ Many-to-many relationships https://learn.microsoft.com/en-us/power-bi/guidance/relationships-many-to-many (2024-12-27 11:33 PM)
             ☐ Active vs inactive relationships https://learn.microsoft.com/en-us/power-bi/guidance/relationships-active-inactive (2024-12-27 11:33 PM)
             ☐ Bi-directional relationships https://learn.microsoft.com/en-us/power-bi/guidance/relationships-bidirectional-filtering (2024-12-27 11:33 PM)
-            ☐ Relationship troubleshooting https://learn.microsoft.com/en-us/power-bi/guidance/relationships-troubleshoot (2024-12-27 11:33 PM)
+            ✘ Relationship troubleshooting https://learn.microsoft.com/en-us/power-bi/guidance/relationships-troubleshoot (2024-12-27 11:33 PM) @cancelled
+
+
+---
+
+            ☐ Optimization guide for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/power-bi-optimization (2024-12-30 11:34 PM)
+            ☐ The importance of query folding https://learn.microsoft.com/en-us/power-bi/guidance/power-query-folding (2024-12-30 11:34 PM)
+            ☐ Referencing Power Query queries https://learn.microsoft.com/en-us/power-bi/guidance/power-query-referenced-queries (2024-12-30 11:34 PM)
+            ☐ Disable Power Query background refresh https://learn.microsoft.com/en-us/power-bi/guidance/power-query-background-refresh (2024-12-30 11:34 PM)
+            ☐ What is a star schema? https://learn.microsoft.com/en-us/power-bi/guidance/star-schema (2024-12-30 11:34 PM)
+            ☐ Reduce data model size https://learn.microsoft.com/en-us/power-bi/guidance/import-modeling-data-reduction (2024-12-30 11:34 PM)
+            ☐ Design guidance for date tables https://learn.microsoft.com/en-us/power-bi/guidance/model-date-tables (2024-12-30 11:34 PM)
+            ☐ Auto date/time guidance https://learn.microsoft.com/en-us/power-bi/guidance/auto-date-time (2024-12-30 11:34 PM)
+            ☐ One-to-one relationships https://learn.microsoft.com/en-us/power-bi/guidance/relationships-one-to-one (2024-12-30 11:34 PM)
+            ☐ Relationship troubleshooting https://learn.microsoft.com/en-us/power-bi/guidance/relationships-troubleshoot (2024-12-30 11:34 PM)
+            ☐ DirectQuery model guidance https://learn.microsoft.com/en-us/power-bi/guidance/directquery-model-guidance (2024-12-30 11:34 PM)
+            ☐ Composite model guidance https://learn.microsoft.com/en-us/power-bi/guidance/composite-model-guidance (2024-12-30 11:34 PM)
+            ☐ Row-level security (RLS) guidance https://learn.microsoft.com/en-us/power-bi/guidance/rls-guidance (2024-12-30 11:34 PM)
+            ☐ Power Platform modeling guidance https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-modeling-guidance-for-power-platform (2024-12-30 11:34 PM)
+            ☐ Migrate AAS models to Power BI Premium https://learn.microsoft.com/en-us/power-bi/guidance/migrate-azure-analysis-services-to-powerbi-premium (2024-12-30 11:34 PM)
+            ☐ Migrate AAS models to Power BI Premium scenarios https://learn.microsoft.com/en-us/power-bi/guidance/migrate-azure-analysis-services-to-powerbi-premium-migration-scenarios (2024-12-30 11:34 PM)
+            ☐ Separate reports from models https://learn.microsoft.com/en-us/power-bi/guidance/report-separate-from-model (2024-12-30 11:34 PM)
+            ☐ Extend visuals with report page tooltips https://learn.microsoft.com/en-us/power-bi/guidance/report-page-tooltips (2024-12-30 11:34 PM)
+            ☐ Use report page drillthrough https://learn.microsoft.com/en-us/power-bi/guidance/report-drillthrough (2024-12-30 11:34 PM)
+            ☐ When to use paginated reports https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-or-power-bi (2024-12-30 11:34 PM)
+            ☐ Data retrieval guidance https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-data-retrieval (2024-12-30 11:34 PM)
+            ☐ Image use guidance https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-image (2024-12-30 11:34 PM)
+            ☐ Use cascading parameters https://learn.microsoft.com/en-us/power-bi/guidance/paginated-report-cascading-parameter (2024-12-30 11:34 PM)
+            ☐ Avoid blank pages when printing https://learn.microsoft.com/en-us/power-bi/guidance/report-paginated-blank-page (2024-12-30 11:34 PM)
+            ☐ Migrate .rdl reports to Power BI https://learn.microsoft.com/en-us/power-bi/guidance/migrate-ssrs-reports-to-power-bi (2024-12-30 11:34 PM)
+            ☐ Retire unused .rdl files https://learn.microsoft.com/en-us/power-bi/guidance/retire-unused-reports-ssrs (2024-12-30 11:34 PM)
+            ☐ Develop scalable multitenancy applications https://learn.microsoft.com/en-us/power-bi/guidance/develop-scalable-multitenancy-apps-with-powerbi-embedding (2024-12-30 11:34 PM)
+            ☐ Data translation calendar table https://learn.microsoft.com/en-us/power-bi/guidance/data-translation-calendar-table (2024-12-30 11:34 PM)
+            ☐ On-premises data gateway sizing https://learn.microsoft.com/en-us/power-bi/guidance/gateway-onprem-sizing (2024-12-30 11:34 PM)
+            ☐ Monitor report performance https://learn.microsoft.com/en-us/power-bi/guidance/monitor-report-performance (2024-12-30 11:34 PM)
+            ☐ Troubleshoot report performance https://learn.microsoft.com/en-us/power-bi/guidance/report-performance-troubleshoot (2024-12-30 11:34 PM)
+            ☐ Access the Power BI activity log https://learn.microsoft.com/en-us/power-bi/guidance/admin-activity-log (2024-12-30 11:34 PM)
+            ☐ Migration overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-overview (2024-12-30 11:34 PM)
+            ☐ Prepare to migrate https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-pre-migration-steps (2024-12-30 11:34 PM)
+            ☐ Gather requirements https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-requirements (2024-12-30 11:34 PM)
+            ☐ Plan deployment https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-planning (2024-12-30 11:34 PM)
+            ☐ Conduct proof of concept https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-proof-of-concept (2024-12-30 11:34 PM)
+            ☐ Create content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-create-validate-content (2024-12-30 11:34 PM)
+            ☐ Deploy to Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-deploy-support-monitor (2024-12-30 11:34 PM)
+            ☐ Learn from customer Power BI migrations https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-migration-learn-from-customers (2024-12-30 11:34 PM)
+            ☐ Introduction https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap (2024-12-30 11:34 PM)
+            ☐ Maturity levels https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-maturity-levels (2024-12-30 11:34 PM)
+            ☐ Data culture https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-data-culture (2024-12-30 11:34 PM)
+            ☐ Executive sponsorship https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-executive-sponsorship (2024-12-30 11:34 PM)
+            ☐ Business alignment https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-business-alignment (2024-12-30 11:34 PM)
+            ☐ Content ownership https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-content-ownership-and-management (2024-12-30 11:34 PM)
+            ☐ Content delivery scope https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-content-delivery-scope (2024-12-30 11:34 PM)
+            ☐ Center of Excellence https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-center-of-excellence (2024-12-30 11:34 PM)
+            ☐ Governance https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-governance (2024-12-30 11:34 PM)
+            ☐ Mentoring and user enablement https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-mentoring-and-user-enablement (2024-12-30 11:34 PM)
+            ☐ Community of practice https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-community-of-practice (2024-12-30 11:34 PM)
+            ☐ User support https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-user-support (2024-12-30 11:34 PM)
+            ☐ System oversight https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-system-oversight (2024-12-30 11:34 PM)
+            ☐ Change management https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-change-management (2024-12-30 11:34 PM)
+            ☐ Conclusion https://learn.microsoft.com/en-us/power-bi/guidance/fabric-adoption-roadmap-conclusion (2024-12-30 11:34 PM)
+            ☐ Introduction https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-introduction (2024-12-30 11:34 PM)
+                ☐ BI strategy overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-overview (2024-12-30 11:34 PM)
+                ☐ BI strategic planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-bi-strategic-planning (2024-12-30 11:34 PM)
+                ☐ BI tactical planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-bi-tactical-planning (2024-12-30 11:34 PM)
+                ☐ BI solution planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-bi-strategy-bi-solution-planning (2024-12-30 11:34 PM)
+            ☐ Tenant setup https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-tenant-setup (2024-12-30 11:34 PM)
+            ☐ User tools and devices https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-user-tools-devices (2024-12-30 11:34 PM)
+            ☐ Subscriptions, licenses, and trials https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-subscriptions-licenses-trials (2024-12-30 11:34 PM)
+            ☐ Tenant administration https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-tenant-administration (2024-12-30 11:34 PM)
+                ☐ Workspaces overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-workspaces-overview (2024-12-30 11:34 PM)
+                ☐ Tenant-level planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-workspaces-tenant-level-planning (2024-12-30 11:34 PM)
+                ☐ Workspace-level planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-workspaces-workspace-level-planning (2024-12-30 11:34 PM)
+                ☐ CLM overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-overview (2024-12-30 11:34 PM)
+                ☐ Plan and design content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-plan-design (2024-12-30 11:34 PM)
+                ☐ Develop and manage content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-develop-manage (2024-12-30 11:34 PM)
+                ☐ Validate content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-validate (2024-12-30 11:34 PM)
+                ☐ Deploy content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-deploy (2024-12-30 11:34 PM)
+                ☐ Support and monitor content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-support-monitor (2024-12-30 11:34 PM)
+                ☐ Retire and archive content https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-lifecycle-management-retire-archive (2024-12-30 11:34 PM)
+            ☐ Content distribution and sharing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-content-distribution-sharing (2024-12-30 11:34 PM)
+                ☐ Security overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-overview (2024-12-30 11:34 PM)
+                ☐ Tenant-level planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-tenant-level-planning (2024-12-30 11:34 PM)
+                ☐ Report consumer planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-report-consumer-planning (2024-12-30 11:34 PM)
+                ☐ Content creator planning https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-security-content-creator-planning (2024-12-30 11:34 PM)
+                ☐ Info protection and DLP overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-info-protection-data-loss-prevention-overview (2024-12-30 11:34 PM)
+                ☐ Org-level info protection https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-organization-level-info-protection (2024-12-30 11:34 PM)
+                ☐ Info protection for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-info-protection (2024-12-30 11:34 PM)
+                ☐ DLP for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-data-loss-prevention (2024-12-30 11:34 PM)
+                ☐ Defender for Cloud Apps for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-defender-for-cloud-apps (2024-12-30 11:34 PM)
+                ☐ Auditing of info protection and DLP for Power BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-info-protection-data-loss-prevention (2024-12-30 11:34 PM)
+            ☐ Data gateways https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-data-gateways (2024-12-30 11:34 PM)
+            ☐ Integration with other services https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-integration-with-other-services (2024-12-30 11:34 PM)
+                ☐ Auditing and monitoring overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-overview (2024-12-30 11:34 PM)
+                ☐ Report-level auditing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-report-level-auditing (2024-12-30 11:34 PM)
+                ☐ Data-level auditing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-data-level-auditing (2024-12-30 11:34 PM)
+                ☐ Tenant-level auditing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-tenant-level-auditing (2024-12-30 11:34 PM)
+                ☐ Tenant-level monitoring https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-auditing-monitoring-tenant-level-monitoring (2024-12-30 11:34 PM)
+            ☐ Adoption tracking https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-adoption-tracking (2024-12-30 11:34 PM)
+                ☐ Usage scenarios overview https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-overview (2024-12-30 11:34 PM)
+                ☐ Personal BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-personal-bi (2024-12-30 11:34 PM)
+                ☐ Team BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-team-bi (2024-12-30 11:34 PM)
+                ☐ Departmental BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-departmental-bi (2024-12-30 11:34 PM)
+                ☐ Enterprise BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-enterprise-bi (2024-12-30 11:34 PM)
+                ☐ Managed self-service BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-managed-self-service-bi (2024-12-30 11:34 PM)
+                ☐ Customizable managed self-service BI https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-customizable-managed-self-service-bi (2024-12-30 11:34 PM)
+                ☐ Self-service data preparation https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-self-service-data-preparation (2024-12-30 11:34 PM)
+                ☐ Advanced data preparation https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-advanced-data-preparation (2024-12-30 11:34 PM)
+                ☐ Prototyping and sharing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-prototyping-and-sharing (2024-12-30 11:34 PM)
+                ☐ Self-service content publishing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-self-service-content-publishing (2024-12-30 11:34 PM)
+                ☐ Enterprise content publishing https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-enterprise-content-publishing (2024-12-30 11:34 PM)
+                ☐ Advanced data model management https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-advanced-data-model-management (2024-12-30 11:34 PM)
+                ☐ Self-service real-time analytics https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-self-service-real-time-analytics (2024-12-30 11:34 PM)
+                ☐ Embed for your organization https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-embed-for-your-organization (2024-12-30 11:34 PM)
+                ☐ Embed for your customers https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-embed-for-your-customers (2024-12-30 11:34 PM)
+                ☐ On-premises reporting https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-on-premises-reporting (2024-12-30 11:34 PM)
+                ☐ Usage scenario diagrams https://learn.microsoft.com/en-us/power-bi/guidance/powerbi-implementation-planning-usage-scenario-diagrams (2024-12-30 11:34 PM)
+            ☐ Microsoft's BI transformation https://learn.microsoft.com/en-us/power-bi/guidance/center-of-excellence-microsoft-business-intelligence-transformation (2024-12-30 11:34 PM)
+            ☐ How Microsoft established a COE https://learn.microsoft.com/en-us/power-bi/guidance/center-of-excellence-establish (2024-12-30 11:34 PM)
+            ☐ BI solution architecture in the COE https://learn.microsoft.com/en-us/power-bi/guidance/center-of-excellence-business-intelligence-solution-architecture (2024-12-30 11:34 PM)
+            ☐ White papers overview https://learn.microsoft.com/en-us/power-bi/guidance/whitepapers (2024-12-30 11:34 PM)
+            ☐ Power BI Premium deployment https://learn.microsoft.com/en-us/power-bi/guidance/whitepaper-powerbi-premium-deployment (2024-12-30 11:34 PM)
 

@@ -55,7 +55,7 @@ Azure Application Gateway documentation | Microsoft Learn:
             ☐ Diagnostic logs https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-diagnostics (2024-09-11 06:38 PM)
             ☐ Metrics https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-metrics (2024-09-25 05:04 PM)
         ☐ TCP/TLS proxy https://learn.microsoft.com/en-us/azure/application-gateway/tcp-tls-proxy-overview (2024-09-06 11:18 AM)
-        ☐ Support for working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/application-gateway/toc.json (2024-09-06 10:05 PM)
+        ✘ Support for working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/application-gateway/toc.json (2024-09-06 10:05 PM) @cancelled
         ✘ High traffic support https://learn.microsoft.com/en-us/azure/application-gateway/high-traffic-support (2024-09-11 06:38 PM) @cancelled
         ✘ Autoscaling v2 SKU https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant (2024-11-19 06:02 PM) @cancelled
         ✘ WebSocket support https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-websocket (2024-08-22 05:04 PM) @cancelled
@@ -69,7 +69,7 @@ Azure Application Gateway documentation | Microsoft Learn:
             ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-manage-web-traffic-powershell (2024-08-22 07:16 PM)
             ☐ Azure CLI https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-manage-web-traffic-cli (2024-08-22 07:16 PM)
         Configure internal load balancer:
-            ☐ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/configure-application-gateway-with-private-frontend-ip (2024-12-03 05:33 AM)
+            ✘ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/configure-application-gateway-with-private-frontend-ip (2024-12-03 05:33 AM) @cancelled
             ✘ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-ilb-arm (2024-08-02 10:04 PM) @cancelled
         Configure SSL:
             SSL termination:
@@ -235,4 +235,11 @@ Azure Application Gateway documentation | Microsoft Learn:
             ☐ Backend health issues https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-backend-health-troubleshooting (2024-12-29 12:12 PM)
         ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/application-gateway/monitor-application-gateway-reference (2024-12-29 12:12 PM)
         ☐ Ingress for AKS annotations https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-annotations (2024-12-29 12:12 PM)
+
+
+---
+
+        ☐ Support for working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/application-gateway/toc.json (2024-12-30 11:05 PM)
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/configure-application-gateway-with-private-frontend-ip (2024-12-30 06:35 PM)
+        ☐ Configure Private Link https://learn.microsoft.com/en-us/azure/application-gateway/private-link-configure (2024-11-19 06:02 PM)
 

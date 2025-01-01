@@ -72,7 +72,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                         Advanced ASP.NET SDK topics:
                             ☐ GetMetric https://learn.microsoft.com/en-us/azure/azure-monitor/app/get-metric (2024-09-11 04:50 PM)
                             ☐ EventCounters https://learn.microsoft.com/en-us/azure/azure-monitor/app/eventcounters (2024-09-11 04:50 PM)
-                            ☐ ApplicationInsights.config https://learn.microsoft.com/en-us/azure/azure-monitor/app/configuration-with-applicationinsights-config (2024-10-11 04:59 PM)
+                            ✘ ApplicationInsights.config https://learn.microsoft.com/en-us/azure/azure-monitor/app/configuration-with-applicationinsights-config (2024-10-11 04:59 PM) @cancelled
                             ☐ TelemetryChannels https://learn.microsoft.com/en-us/azure/azure-monitor/app/telemetry-channels (2024-09-11 04:50 PM)
                             ☐ Track custom operations in .NET SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/custom-operations-tracking (2024-11-07 10:59 PM)
                             ☐ Performance counters https://learn.microsoft.com/en-us/azure/azure-monitor/app/performance-counters (2024-09-11 04:50 PM)
@@ -239,7 +239,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             Monitor:
                 ☐ Monitor performance https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-analyze (2024-09-11 04:50 PM)
                 ☐ Monitor GPU performance https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-gpu-monitoring (2024-09-11 04:50 PM)
-                ☐ Monitor network configuration https://learn.microsoft.com/azure/virtual-network/kubernetes-network-policies#monitor-and-visualize-network-configurations-with-azure-npm (2024-09-11 06:38 PM)
+                ✘ Monitor network configuration https://learn.microsoft.com/azure/virtual-network/kubernetes-network-policies#monitor-and-visualize-network-configurations-with-azure-npm (2024-09-11 06:38 PM) @cancelled
                 ☐ Monitor Deployments & HPAs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-deployment-hpa-metrics (2024-09-11 04:50 PM)
                 ☐ Monitor Persistent Volumes (PVs) https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-persistent-volumes (2024-09-11 04:50 PM)
                 ☐ Monitor Syslog https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-syslog (2024-12-03 11:01 PM)
@@ -584,11 +584,11 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
         ☐ Power BI https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-powerbi (2024-09-11 04:50 PM)
     Analyze:
         Metrics explorer:
-            ☐ Analyze metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/analyze-metrics (2024-11-20 06:02 PM)
+            ✘ Analyze metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/analyze-metrics (2024-11-20 06:02 PM) @cancelled
             ☐ Metrics explorer with PromQL https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-explorer (2024-11-20 06:02 PM)
             ☐ Understanding metrics aggregation https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-aggregation-explained (2024-09-11 04:50 PM)
             ☐ Examples of metric charts https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metric-chart-samples (2024-09-11 04:50 PM)
-            ☐ Troubleshooting metric charts https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-troubleshoot (2024-09-11 04:50 PM)
+            ✘ Troubleshooting metric charts https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-troubleshoot (2024-09-11 04:50 PM) @cancelled
         REST API for metrics:
             ☐ Metrics REST API Walkthrough https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/rest-api-walkthrough (2024-09-11 04:50 PM)
             ☐ Migrate to the metrics getBatch API https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/migrate-to-batch-api (2024-12-23 05:59 PM)
@@ -827,4 +827,14 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ✔ Enhance resilience with availability zones https://learn.microsoft.com/en-us/azure/azure-monitor/logs/availability-zones (2024-12-30 12:09 PM) @done(24-12-30 20:36)
                     ✔ Analyze usage and cost https://learn.microsoft.com/en-us/azure/azure-monitor/logs/analyze-usage (2024-12-29 12:11 PM) @done(24-12-30 20:38)
             ✔ Analyze usage and cost https://learn.microsoft.com/en-us/azure/azure-monitor/cost-usage (2024-12-30 12:09 PM) @done(24-12-30 20:38)
+
+
+---
+
+                    ☐ Configure JavaScript SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk-configuration (2024-12-31 06:01 PM)
+                            ☐ ApplicationInsights.config https://learn.microsoft.com/en-us/azure/azure-monitor/app/configuration-with-applicationinsights-config (2024-12-31 06:01 PM)
+                ☐ Monitor network configuration https://learn.microsoft.com/azure/virtual-network/kubernetes-network-policies#monitor-and-visualize-network-configurations-with-azure-npm (2024-12-31 12:14 PM)
+        ☐ Security best practices in Azure Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM)
+            ☐ Analyze metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/analyze-metrics (2024-12-30 06:31 PM)
+            ☐ Troubleshooting metric charts https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-troubleshoot (2024-12-30 06:31 PM)
 

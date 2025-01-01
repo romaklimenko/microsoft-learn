@@ -17,7 +17,7 @@ Azure Functions documentation | Microsoft Learn:
             Java:
                 ☐ Eclipse https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-eclipse (2024-06-27 05:04 PM)
                 ☐ Gradle https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-gradle (2024-12-06 06:02 PM)
-                ☐ IntelliJ IDEA https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij (2024-09-04 05:04 PM)
+                ✘ IntelliJ IDEA https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij (2024-09-04 05:04 PM) @cancelled
                 ☐ Maven https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-java (2024-01-31 05:39 AM)
                 ☐ Quarkus https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-quarkus (2024-12-06 06:02 PM)
                 ☐ Spring Cloud https://learn.microsoft.com/azure/developer/java/spring-framework/getting-started-with-spring-cloud-function-in-azure?toc=/azure/azure-functions/toc.json (2024-12-05 06:05 PM)
@@ -378,10 +378,10 @@ Azure Functions documentation | Microsoft Learn:
                 ☐ Semantic search input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-semanticsearch-input (2024-08-28 07:22 PM)
                 ☐ Text Completion input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-textcompletion-input (2024-08-28 07:22 PM)
             Azure SQL:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql (2024-12-06 11:03 PM)
-                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-trigger (2024-06-26 10:04 PM)
-                ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-input (2024-06-26 10:04 PM)
-                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-output (2024-06-26 10:04 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql (2024-12-06 11:03 PM) @cancelled
+                ✘ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-trigger (2024-06-26 10:04 PM) @cancelled
+                ✘ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-input (2024-06-26 10:04 PM) @cancelled
+                ✘ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-output (2024-06-26 10:04 PM) @cancelled
             Blob storage:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob (2024-11-12 06:06 PM)
                 ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob-trigger (2024-07-24 05:08 PM)
@@ -518,4 +518,10 @@ Azure Functions documentation | Microsoft Learn:
 ---
 
             ✘ Java https://learn.microsoft.com/java/api/overview/azure/functions/runtime (2024-12-30 12:16 PM) @cancelled(24-12-30 20:32)
+
+
+---
+
+                ✘ IntelliJ IDEA https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij (2024-12-30 06:35 PM) @cancelled(25-01-01 15:36)
+                ✔ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql (2024-12-30 06:35 PM) @done(25-01-01 15:38)
 

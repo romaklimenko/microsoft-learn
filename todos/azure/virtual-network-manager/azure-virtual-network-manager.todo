@@ -15,24 +15,24 @@ Azure Virtual Network Manager documentation | Microsoft Learn:
     Concepts:
         ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-network-manager/faq (2024-12-12 05:33 AM)
         ☐ Use cases https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-use-cases (2024-10-31 10:03 PM)
-        ☐ limitations https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-limitations (2024-11-21 06:04 PM)
+        ✘ limitations https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-limitations (2024-11-21 06:04 PM) @cancelled
         ☐ IP address management https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-ip-address-management (2024-10-08 05:03 PM)
-        ☐ Scope https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-manager-scope (2024-08-01 05:04 PM)
+        ✘ Scope https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-manager-scope (2024-08-01 05:04 PM) @cancelled
         Network groups:
-            ☐ Network groups overview https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-groups (2024-08-01 05:04 PM)
+            ✘ Network groups overview https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-groups (2024-08-01 05:04 PM) @cancelled
             ☐ Azure Policy integration with network groups https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-azure-policy-integration (2024-10-21 05:07 PM)
-            ☐ Cross-tenant connection support https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-cross-tenant (2024-08-01 05:04 PM)
+            ✘ Cross-tenant connection support https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-cross-tenant (2024-08-01 05:04 PM) @cancelled
         Configuration types:
-            ☐ Connectivity https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-connectivity-configuration (2024-10-17 10:03 PM)
+            ✘ Connectivity https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-connectivity-configuration (2024-10-17 10:03 PM) @cancelled
             Security admin rules:
-                ☐ Security admin rule concepts https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admins (2024-12-12 05:33 AM)
-                ☐ Security admin rule enforcement https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-enforcement (2024-08-01 05:04 PM)
-                ☐ Network groups as source and destination https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admin-rules-network-group (2024-08-01 05:04 PM)
+                ✘ Security admin rule concepts https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admins (2024-12-12 05:33 AM) @cancelled
+                ✘ Security admin rule enforcement https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-enforcement (2024-08-01 05:04 PM) @cancelled
+                ✘ Network groups as source and destination https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admin-rules-network-group (2024-08-01 05:04 PM) @cancelled
             ☐ User-defined routes (UDRs) management https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-user-defined-route (2024-11-07 05:33 AM)
-        ☐ Deployments https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-deployments (2024-08-01 05:04 PM)
-        ☐ Remove or update components https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-remove-components-checklist (2024-08-01 05:04 PM)
+        ✘ Deployments https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-deployments (2024-08-01 05:04 PM) @cancelled
+        ✘ Remove or update components https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-remove-components-checklist (2024-08-01 05:04 PM) @cancelled
         Monitoring:
-            ☐ Event Log Options for Azure Virtual Network Manager https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-event-logs (2024-11-25 12:43 PM)
+            ✘ Event Log Options for Azure Virtual Network Manager https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-event-logs (2024-11-25 12:43 PM) @cancelled
             ☐ Monitoring security admin rules with Virtual Network Flow Logs https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-virtual-network-flow-logs (2024-08-01 05:04 PM)
             ☐ Query Azure Virtual Network Manager using Azure Resource Graph (ARG) https://learn.microsoft.com/en-us/azure/virtual-network-manager/query-azure-resource-graph (2024-10-21 05:07 PM)
             ☐ Verify resource reachability with Virtual Network Verifier https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-virtual-network-verifier (2024-08-01 05:04 PM)
@@ -86,4 +86,19 @@ Azure Virtual Network Manager documentation | Microsoft Learn:
         ✔ Create Virtual Network Manager - CLI https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-cli (2024-12-26 06:03 PM) @done(24-12-27 14:12)
                 ✔ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke-powershell (2024-12-26 06:03 PM) @done(24-12-27 14:12)
                 ✔ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network-powershell (2024-12-26 06:03 PM) @done(24-12-27 14:12)
+
+
+---
+
+        ☐ limitations https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-limitations (2024-12-31 12:14 PM)
+        ☐ Scope https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-manager-scope (2024-12-31 12:14 PM)
+            ☐ Network groups overview https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-groups (2024-12-31 12:14 PM)
+            ☐ Cross-tenant connection support https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-cross-tenant (2024-12-31 12:14 PM)
+            ☐ Connectivity https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-connectivity-configuration (2024-12-31 12:14 PM)
+                ☐ Security admin rule concepts https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admins (2024-12-31 12:14 PM)
+                ☐ Security admin rule enforcement https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-enforcement (2024-12-31 12:14 PM)
+                ☐ Network groups as source and destination https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admin-rules-network-group (2024-12-31 12:14 PM)
+        ☐ Deployments https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-deployments (2024-12-31 12:14 PM)
+        ☐ Remove or update components https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-remove-components-checklist (2024-12-31 12:14 PM)
+            ☐ Event Log Options for Azure Virtual Network Manager https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-event-logs (2024-12-31 12:14 PM)
 
