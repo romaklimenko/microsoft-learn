@@ -88,8 +88,11 @@ def upload_to_blob(file_name):
     if blob_client.exists():
         blob_client.delete_blob()
     with open(file_name, "rb") as data:
+        content_settings = ContentSettings(
+            content_type="image/png",
+            cache_control="no-cache")
         blob_client.upload_blob(
-            data, content_settings=ContentSettings(content_type="image/png"))
+            data, content_settings=content_settings)
 
 
 def main():
