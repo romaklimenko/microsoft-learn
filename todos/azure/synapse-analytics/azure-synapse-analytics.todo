@@ -100,7 +100,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             ☐ Database templates overview https://learn.microsoft.com/en-us/azure/synapse-analytics/database-designer/overview-database-templates (2024-08-01 05:35 AM)
             ☐ Map data overview https://learn.microsoft.com/en-us/azure/synapse-analytics/database-designer/overview-map-data (2024-08-01 05:35 AM)
         Quickstarts:
-            ☐ Create a lake database https://learn.microsoft.com/en-us/azure/synapse-analytics/database-designer/quick-start-create-lake-database (2024-11-11 06:07 PM)
+            ✘ Create a lake database https://learn.microsoft.com/en-us/azure/synapse-analytics/database-designer/quick-start-create-lake-database (2024-11-11 06:07 PM) @cancelled
         Concepts:
             ☐ Database templates https://learn.microsoft.com/en-us/azure/synapse-analytics/database-designer/concepts-database-templates (2024-11-11 06:07 PM)
             ✘ Lake database https://learn.microsoft.com/en-us/azure/synapse-analytics/database-designer/concepts-lake-database (2024-11-11 06:07 PM) @cancelled
@@ -501,7 +501,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ external_table() https://learn.microsoft.com/kusto/query/external-table-function?view=azure-data-explorer&preserve-view=true (2024-11-19 01:53 PM)
                 ☐ materialize() https://learn.microsoft.com/kusto/query/materialize-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ materialized_view() https://learn.microsoft.com/kusto/query/materialized-view-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Query results cache https://learn.microsoft.com/kusto/query/query-results-cache?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ Query results cache https://learn.microsoft.com/kusto/query/query-results-cache?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ stored_query_result() https://learn.microsoft.com/kusto/query/stored-query-result-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ table() https://learn.microsoft.com/kusto/query/table-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ toscalar() https://learn.microsoft.com/kusto/query/toscalar-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -727,7 +727,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ parse_ipv4_mask() https://learn.microsoft.com/kusto/query/parse-ipv4-mask-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ parse_ipv6() https://learn.microsoft.com/kusto/query/parse-ipv6-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ parse_ipv6_mask() https://learn.microsoft.com/kusto/query/parse-ipv6-mask-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ parse_json() https://learn.microsoft.com/kusto/query/parse-json-function?view=azure-data-explorer&preserve-view=true (2024-11-20 12:10 PM)
+                ✘ parse_json() https://learn.microsoft.com/kusto/query/parse-json-function?view=azure-data-explorer&preserve-view=true (2024-11-20 12:10 PM) @cancelled
                 ☐ parse_path() https://learn.microsoft.com/kusto/query/parse-path-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ parse_url() https://learn.microsoft.com/kusto/query/parse-url-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ parse_urlquery() https://learn.microsoft.com/kusto/query/parse-url-query-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1529,7 +1529,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Azure Synapse Apache Spark 3.1 runtime (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-3-runtime (2024-08-15 10:07 PM)
                 ☐ Azure Synapse Apache Spark 2.4 runtime (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-24-runtime (2024-08-23 05:35 AM)
                 ☐ Lifecycle and Supportability https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/runtime-for-apache-spark-lifecycle-and-supportability (2024-07-31 09:16 PM)
-            ☐ Machine learning https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-concept (2024-09-27 10:04 PM)
+            ✘ Machine learning https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-concept (2024-09-27 10:04 PM) @cancelled
             ☐ Notebooks https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-notebook-concept (2024-08-01 05:35 AM)
             ☐ Package management https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-portal-add-libraries (2024-11-20 11:04 PM)
             ☐ Monitor Apache Spark applications https://learn.microsoft.com/en-us/azure/synapse-analytics/monitoring/how-to-monitor-spark-applications (2024-08-01 05:35 AM)
@@ -1743,7 +1743,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Presto https://learn.microsoft.com/en-us/azure/data-factory/connector-presto?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
                 ☐ Quickbase https://learn.microsoft.com/en-us/azure/data-factory/connector-quickbase?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
                 ☐ QuickBooks Online https://learn.microsoft.com/en-us/azure/data-factory/connector-quickbooks?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ REST https://learn.microsoft.com/en-us/azure/data-factory/connector-rest?toc=/azure/synapse-analytics/toc.json&tabs=synapse-analytics (2024-12-04 11:05 PM)
+                ✘ REST https://learn.microsoft.com/en-us/azure/data-factory/connector-rest?toc=/azure/synapse-analytics/toc.json&tabs=synapse-analytics (2024-12-04 11:05 PM) @cancelled
                 ☐ Salesforce https://learn.microsoft.com/en-us/azure/data-factory/connector-salesforce?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-10-15 11:13 AM)
                 ☐ Salesforce Service Cloud https://learn.microsoft.com/en-us/azure/data-factory/connector-salesforce-service-cloud?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-10-15 11:13 AM)
                 ☐ Salesforce Marketing Cloud https://learn.microsoft.com/en-us/azure/data-factory/connector-salesforce-marketing-cloud?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-10-14 11:21 AM)
@@ -1893,7 +1893,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Self-hosted Integration Runtimes troubleshooting https://learn.microsoft.com/en-us/azure/data-factory/self-hosted-integration-runtime-troubleshoot-guide?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-10-21 10:04 PM)
     Machine Learning:
         Overview:
-            ☐ What is machine learning in Azure Synapse? https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/what-is-machine-learning (2024-08-28 07:22 PM)
+            ✘ What is machine learning in Azure Synapse? https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/what-is-machine-learning (2024-08-28 07:22 PM) @cancelled
         Quickstarts:
             ☐ Use a sample notebook from the gallery https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/quickstart-gallery-sample-notebook (2024-08-01 11:20 AM)
             ☐ Use the Retail AI solution https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/quickstart-industry-ai-solutions (2024-08-01 11:20 AM)
@@ -1901,7 +1901,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Azure Machine Learning https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/quickstart-integrate-azure-machine-learning (2024-08-28 07:22 PM)
                 ☐ Azure AI services https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-configure-cognitive-services-synapse (2024-08-28 07:22 PM)
         Concepts:
-            ☐ Train machine learning models https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-training (2024-08-28 07:22 PM)
+            ✘ Train machine learning models https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-training (2024-08-28 07:22 PM) @cancelled
             ☐ Deep learning (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/concept-deep-learning (2024-08-01 11:20 AM)
             ☐ SynapseML library https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/synapse-machine-learning-library (2024-10-07 10:04 PM)
         Tutorials:
@@ -1974,7 +1974,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ 4 Visualization and reporting https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/teradata/4-visualization-reporting (2024-08-01 05:35 AM)
                 ☐ 5 Minimizing SQL issues https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/teradata/5-minimize-sql-issues (2024-08-01 05:35 AM)
                 ☐ 6 Microsoft and third-party tools https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/teradata/6-microsoft-third-party-migration-tools (2024-11-07 06:01 PM)
-                ☐ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/teradata/7-beyond-data-warehouse-migration (2024-08-28 07:22 PM)
+                ✘ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/teradata/7-beyond-data-warehouse-migration (2024-08-28 07:22 PM) @cancelled
             From Netezza:
                 ☐ 1 Design performance for Netezza migration https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/netezza/1-design-performance-migration (2024-08-01 05:35 AM)
                 ☐ 2 ETL and load migration considerations https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/netezza/2-etl-load-migration-considerations (2024-08-01 05:35 AM)
@@ -1982,7 +1982,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ 4 Visualization and reporting https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/netezza/4-visualization-reporting (2024-08-01 05:35 AM)
                 ☐ 5 Minimizing SQL issues https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/netezza/5-minimize-sql-issues (2024-08-01 05:35 AM)
                 ☐ 6 Microsoft and third-party tools https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/netezza/6-microsoft-third-party-migration-tools (2024-08-01 05:35 AM)
-                ☐ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/netezza/7-beyond-data-warehouse-migration (2024-08-28 07:22 PM)
+                ✘ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/netezza/7-beyond-data-warehouse-migration (2024-08-28 07:22 PM) @cancelled
             From Oracle:
                 ☐ 1 Design performance for Oracle migration https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/oracle/1-design-performance-migration (2024-08-14 06:47 PM)
                 ☐ 2 ETL and load migration considerations https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/oracle/2-etl-load-migration-considerations (2024-08-14 06:47 PM)
@@ -1990,7 +1990,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ 4 Visualization and reporting https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/oracle/4-visualization-reporting (2024-08-01 05:35 AM)
                 ☐ 5 Minimizing SQL issues https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/oracle/5-minimize-sql-issues (2024-08-14 06:47 PM)
                 ☐ 6 Microsoft and third-party tools https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/oracle/6-microsoft-third-party-migration-tools (2024-09-24 10:04 PM)
-                ☐ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/oracle/7-beyond-data-warehouse-migration (2024-08-28 07:22 PM)
+                ✘ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/oracle/7-beyond-data-warehouse-migration (2024-08-28 07:22 PM) @cancelled
         Security white paper:
             ☐ Introduction https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-introduction (2024-08-14 06:47 PM)
             ☐ Data protection https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-data-protection (2024-12-10 05:41 AM)
@@ -2082,4 +2082,18 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             ☐ Read/write ADLS with Pandas https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/tutorial-use-pandas-spark-pool (2024-12-31 12:14 PM)
                     ☐ Sentiment analysis wizard https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-cognitive-services-sentiment (2024-12-31 12:14 PM)
             ☐ Full reference https://learn.microsoft.com/sql/t-sql/language-reference/ (2024-12-30 06:37 PM)
+
+
+---
+
+            ✔ Create a lake database https://learn.microsoft.com/en-us/azure/synapse-analytics/database-designer/quick-start-create-lake-database (2025-01-01 06:02 PM) @done(25-01-02 19:59)
+                ✔ Query results cache https://learn.microsoft.com/kusto/query/query-results-cache?view=azure-data-explorer&preserve-view=true (2025-01-01 06:00 PM) @done(25-01-02 20:00)
+                ✔ parse_json() https://learn.microsoft.com/kusto/query/parse-json-function?view=azure-data-explorer&preserve-view=true (2025-01-01 06:00 PM) @done(25-01-02 20:00)
+            ✔ Machine learning https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-concept (2025-01-01 06:02 PM) @done(25-01-02 20:01)
+                ✔ REST https://learn.microsoft.com/en-us/azure/data-factory/connector-rest?toc=/azure/synapse-analytics/toc.json&tabs=synapse-analytics (2025-01-02 12:13 PM) @done(25-01-02 20:01)
+            ✔ What is machine learning in Azure Synapse? https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/what-is-machine-learning (2025-01-01 06:02 PM) @done(25-01-02 20:01)
+            ✔ Train machine learning models https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-training (2025-01-01 06:02 PM) @done(25-01-02 20:02)
+                ✘ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/teradata/7-beyond-data-warehouse-migration (2025-01-01 06:02 PM) @cancelled(25-01-02 19:56)
+                ✘ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/netezza/7-beyond-data-warehouse-migration (2025-01-01 06:02 PM) @cancelled(25-01-02 19:56)
+                ✘ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/oracle/7-beyond-data-warehouse-migration (2025-01-01 06:02 PM) @cancelled(25-01-02 19:56)
 

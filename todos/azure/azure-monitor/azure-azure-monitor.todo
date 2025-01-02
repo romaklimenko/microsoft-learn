@@ -594,7 +594,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Migrate to the metrics getBatch API https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/migrate-to-batch-api (2024-12-23 05:59 PM)
         Log Analytics:
             ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-overview (2024-09-11 04:50 PM)
-            ☐ Simple mode https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-simple-mode (2024-11-18 12:04 PM)
+            ✘ Simple mode https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-simple-mode (2024-11-18 12:04 PM) @cancelled
             ☐ Query scope https://learn.microsoft.com/en-us/azure/azure-monitor/logs/scope (2024-09-11 04:50 PM)
             ☐ Saving queries https://learn.microsoft.com/en-us/azure/azure-monitor/logs/save-query (2024-09-11 04:50 PM)
             ☐ Using queries https://learn.microsoft.com/en-us/azure/azure-monitor/logs/queries (2024-10-06 11:07 AM)
@@ -746,7 +746,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ✘ Resource metrics https://learn.microsoft.com/azure/azure-monitor/reference/metrics-index (2024-12-23 12:13 PM) @cancelled
             ☐ Metrics in alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-metric-near-real-time (2024-11-28 05:34 AM)
         Log sources:
-            ☐ Supported resource log categories https://learn.microsoft.com/azure/azure-monitor/reference/logs-index (2024-12-23 12:13 PM)
+            ✘ Supported resource log categories https://learn.microsoft.com/azure/azure-monitor/reference/logs-index (2024-12-23 12:13 PM) @cancelled
             ☐ Resource log schemas https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/resource-logs-schema (2024-09-13 05:33 AM)
             ☐ Activity log schema https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log-schema (2024-12-04 05:31 AM)
         Azure Monitor Logs:
@@ -813,7 +813,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Troubleshoot metric alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-troubleshoot-metric (2024-12-27 12:20 PM)
                 ☐ Metric alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/resource-manager-alerts-metric (2024-12-27 12:20 PM)
         ☐ Azure CLI metric alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/azure-cli-metrics-alert-sample (2024-12-27 12:20 PM)
-        ☐ Supported metrics https://learn.microsoft.com/azure/azure-monitor/reference/metrics-index (2024-12-23 12:13 PM)
+        ✘ Supported metrics https://learn.microsoft.com/azure/azure-monitor/reference/metrics-index (2024-12-23 12:13 PM) @cancelled
 
 
 ---
@@ -837,4 +837,11 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
         ☐ Security best practices in Azure Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM)
             ☐ Analyze metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/analyze-metrics (2024-12-30 06:31 PM)
             ☐ Troubleshooting metric charts https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-troubleshoot (2024-12-30 06:31 PM)
+
+
+---
+
+            ✔ Simple mode https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-simple-mode (2025-01-01 06:01 PM) @done(25-01-02 19:49)
+        ✔ Supported metrics https://learn.microsoft.com/azure/azure-monitor/reference/metrics-index (2025-01-02 12:07 PM) @done(25-01-02 19:49)
+            ✔ Supported resource log categories https://learn.microsoft.com/azure/azure-monitor/reference/logs-index (2025-01-02 12:07 PM) @done(25-01-02 19:49)
 

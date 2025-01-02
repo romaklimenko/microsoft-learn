@@ -4,8 +4,8 @@ Azure Automation documentation | Microsoft Learn:
         ☐ What is Azure Automation? https://learn.microsoft.com/en-us/azure/automation/overview (2024-11-05 12:07 PM)
         ☐ What are the various Automation services in Azure? https://learn.microsoft.com/en-us/azure/automation/automation-services (2024-08-12 11:22 AM)
         ☐ FAQ https://learn.microsoft.com/en-us/azure/automation/automation-faq (2024-08-20 10:03 PM)
-        ☐ What's new? https://learn.microsoft.com/en-us/azure/automation/whats-new (2024-09-19 06:07 PM)
-        ☐ Archive for What's new https://learn.microsoft.com/en-us/azure/automation/whats-new-archive (2024-10-18 05:04 PM)
+        ✘ What's new? https://learn.microsoft.com/en-us/azure/automation/whats-new (2024-09-19 06:07 PM) @cancelled
+        ✘ Archive for What's new https://learn.microsoft.com/en-us/azure/automation/whats-new-archive (2024-10-18 05:04 PM) @cancelled
     Quickstarts:
         ☐ Create Automation account - Azure portal https://learn.microsoft.com/en-us/azure/automation/quickstarts/create-azure-automation-account-portal (2024-08-02 05:38 AM)
         ☐ Update runbook from PowerShell 5.1 to PowerShell 7.2 https://learn.microsoft.com/en-us/azure/automation/quickstart-update-runbook-in-runtime-environment (2024-09-15 11:22 AM)
@@ -39,7 +39,7 @@ Azure Automation documentation | Microsoft Learn:
             ☐ Best practices for security in Azure Automation https://learn.microsoft.com/en-us/azure/automation/automation-security-guidelines (2024-12-03 12:08 PM)
         Data security:
             ☐ Encryption of secure assets https://learn.microsoft.com/en-us/azure/automation/automation-secure-asset-encryption (2024-10-23 11:25 AM)
-            ☐ Management of Azure Automation data https://learn.microsoft.com/en-us/azure/automation/automation-managing-data (2024-09-11 06:38 PM)
+            ✘ Management of Azure Automation data https://learn.microsoft.com/en-us/azure/automation/automation-managing-data (2024-09-11 06:38 PM) @cancelled
         High availability:
             ☐ Availability zones https://learn.microsoft.com/en-us/azure/automation/automation-availability-zones (2024-11-20 11:04 PM)
             ☐ Disaster recovery for Automation accounts https://learn.microsoft.com/en-us/azure/automation/automation-disaster-recovery (2024-11-22 05:58 AM)
@@ -104,7 +104,7 @@ Azure Automation documentation | Microsoft Learn:
                 ☐ Data to collect when opening a case for Microsoft Azure Automation https://learn.microsoft.com/en-us/azure/automation/troubleshoot/collect-data-microsoft-azure-automation-case (2024-07-28 11:21 AM)
             Work with Hybrid Runbook Worker:
                 ☐ Deploy extension-based worker https://learn.microsoft.com/en-us/azure/automation/extension-based-hybrid-runbook-worker-install (2024-12-23 12:14 PM)
-                ☐ Migrate existing Agent-based Hybrid Workers to Extension-based Workers https://learn.microsoft.com/en-us/azure/automation/migrate-existing-agent-based-hybrid-worker-to-extension-based-workers (2024-09-19 06:07 PM)
+                ✘ Migrate existing Agent-based Hybrid Workers to Extension-based Workers https://learn.microsoft.com/en-us/azure/automation/migrate-existing-agent-based-hybrid-worker-to-extension-based-workers (2024-09-19 06:07 PM) @cancelled
                 ☐ Deploy agent-based Windows worker https://learn.microsoft.com/en-us/azure/automation/automation-windows-hrw-install (2024-09-19 06:07 PM)
                 ☐ Deploy agent-based Linux worker https://learn.microsoft.com/en-us/azure/automation/automation-linux-hrw-install (2024-09-27 10:04 PM)
                 ☐ Run runbooks on Hybrid Runbook Worker https://learn.microsoft.com/en-us/azure/automation/automation-hrw-run-runbooks (2024-12-03 05:33 AM)
@@ -115,7 +115,7 @@ Azure Automation documentation | Microsoft Learn:
         Configuration Management:
             Azure Automation State Configuration:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/automation/automation-dsc-overview (2024-10-22 11:12 AM)
-                ☐ Get started with State Configuration https://learn.microsoft.com/en-us/azure/automation/automation-dsc-getting-started (2024-10-22 11:12 AM)
+                ✘ Get started with State Configuration https://learn.microsoft.com/en-us/azure/automation/automation-dsc-getting-started (2024-10-22 11:12 AM) @cancelled
                 ☐ Enable State Configuration https://learn.microsoft.com/en-us/azure/automation/automation-dsc-onboarding (2024-10-22 11:12 AM)
                 ☐ Configure servers to a desired state and manage drift https://learn.microsoft.com/en-us/azure/automation/tutorial-configure-servers-desired-state (2024-12-03 05:33 AM)
                 ☐ Compose DSC configurations https://learn.microsoft.com/en-us/azure/automation/compose-configurationwithcompositeresources (2024-10-22 11:12 AM)
@@ -228,4 +228,13 @@ Azure Automation documentation | Microsoft Learn:
 
             ✔ Manage Automation account https://learn.microsoft.com/en-us/azure/automation/delete-account (2024-12-29 12:12 PM) @done(24-12-30 20:32)
                 ☐ Update Azure PowerShell modules https://learn.microsoft.com/en-us/azure/automation/automation-update-azure-modules (2024-12-29 12:12 PM)
+
+
+---
+
+        ✔ What's new? https://learn.microsoft.com/en-us/azure/automation/whats-new (2025-01-02 12:13 PM) @done(25-01-02 17:45)
+            ✔ Management of Azure Automation data https://learn.microsoft.com/en-us/azure/automation/automation-managing-data (2025-01-01 06:02 PM) @done(25-01-02 17:46)
+                ✔ Migrate existing Agent-based Hybrid Workers to Extension-based Workers https://learn.microsoft.com/en-us/azure/automation/migrate-existing-agent-based-hybrid-worker-to-extension-based-workers (2025-01-02 05:33 AM) @done(25-01-02 17:47)
+                ✔ Get started with State Configuration https://learn.microsoft.com/en-us/azure/automation/automation-dsc-getting-started (2025-01-02 12:13 PM) @done(25-01-02 17:47)
+        Migration from Change Tracking and Inventory using LA to Change Tracking using AMA:
 

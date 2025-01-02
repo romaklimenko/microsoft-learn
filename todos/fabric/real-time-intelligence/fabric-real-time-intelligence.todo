@@ -745,7 +745,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ external_table() https://learn.microsoft.com/kusto/query/external-table-function?view=microsoft-fabric&preserve-view=true (2024-11-19 01:53 PM)
             ☐ materialize() https://learn.microsoft.com/kusto/query/materialize-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ materialized_view() https://learn.microsoft.com/kusto/query/materialized-view-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ Query results cache https://learn.microsoft.com/kusto/query/query-results-cache?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ Query results cache https://learn.microsoft.com/kusto/query/query-results-cache?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ stored_query_result() https://learn.microsoft.com/kusto/query/stored-query-result-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ table() https://learn.microsoft.com/kusto/query/table-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ toscalar() https://learn.microsoft.com/kusto/query/toscalar-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -971,7 +971,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ parse_ipv4_mask() https://learn.microsoft.com/kusto/query/parse-ipv4-mask-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ parse_ipv6() https://learn.microsoft.com/kusto/query/parse-ipv6-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ parse_ipv6_mask() https://learn.microsoft.com/kusto/query/parse-ipv6-mask-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ parse_json() https://learn.microsoft.com/kusto/query/parse-json-function?view=microsoft-fabric&preserve-view=true (2024-11-20 12:10 PM)
+            ✘ parse_json() https://learn.microsoft.com/kusto/query/parse-json-function?view=microsoft-fabric&preserve-view=true (2024-11-20 12:10 PM) @cancelled
             ☐ parse_path() https://learn.microsoft.com/kusto/query/parse-path-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ parse_url() https://learn.microsoft.com/kusto/query/parse-url-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ parse_urlquery() https://learn.microsoft.com/kusto/query/parse-url-query-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1336,4 +1336,10 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
 ---
 
                 ☐ Stream events to Eventstream using Power Automate https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/stream-events-from-power-automate (2024-12-31 12:11 PM)
+
+
+---
+
+            ✔ Query results cache https://learn.microsoft.com/kusto/query/query-results-cache?view=microsoft-fabric&preserve-view=true (2025-01-01 06:00 PM) @done(25-01-02 20:11)
+            ✔ parse_json() https://learn.microsoft.com/kusto/query/parse-json-function?view=microsoft-fabric&preserve-view=true (2025-01-01 06:00 PM) @done(25-01-02 20:11)
 
