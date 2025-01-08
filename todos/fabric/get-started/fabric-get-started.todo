@@ -65,7 +65,7 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
         ☐ Specify a fixed identity https://learn.microsoft.com/en-us/fabric/get-started/direct-lake-fixed-identity (2024-04-26 11:05 AM)
         ☐ Analyze query processing https://learn.microsoft.com/en-us/fabric/get-started/direct-lake-analyze-query-processing (2024-07-10 11:11 AM)
         ☐ Direct Lake mode and PBI reporting https://learn.microsoft.com/en-us/fabric/get-started/lakehouse-power-bi-reporting (2024-08-01 11:06 AM)
-    ☐ Promote or certify items https://learn.microsoft.com/en-us/fabric/get-started/endorsement-promote-certify (2024-07-11 11:07 AM)
+    ✘ Promote or certify items https://learn.microsoft.com/en-us/fabric/get-started/endorsement-promote-certify (2024-07-11 11:07 AM) @cancelled
     ☐ Share items https://learn.microsoft.com/en-us/fabric/get-started/share-items (2024-11-20 11:00 PM)
     ☐ Apply sensitivity labels https://learn.microsoft.com/en-us/fabric/get-started/apply-sensitivity-labels (2024-01-22 06:02 PM)
     ☐ Delta Lake interoperability https://learn.microsoft.com/en-us/fabric/get-started/delta-lake-interoperability (2024-11-20 11:00 PM)
@@ -290,7 +290,7 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
 
 ---
 
-        ☐ What's New https://learn.microsoft.com/en-us/fabric/get-started/whats-new (2024-12-31 12:11 PM)
+        ✘ What's New https://learn.microsoft.com/en-us/fabric/get-started/whats-new (2024-12-31 12:11 PM) @cancelled
         ☐ Introduction https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap?context=/fabric/context/context&bc=/fabric/breadcrumb/toc.json (2024-12-30 11:34 PM)
         ☐ Maturity levels https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-maturity-levels?context=/fabric/context/context (2024-12-30 11:34 PM)
         ☐ Data culture https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-data-culture?context=/fabric/context/context (2024-12-30 11:34 PM)
@@ -299,12 +299,30 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
         ☐ Content ownership https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-content-ownership-and-management?context=/fabric/context/context (2024-12-30 11:34 PM)
         ☐ Content delivery scope https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-content-delivery-scope?context=/fabric/context/context (2024-12-30 11:34 PM)
         ☐ Center of Excellence https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-center-of-excellence?context=/fabric/context/context (2024-12-30 11:34 PM)
-        ☐ Governance https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-governance?context=/fabric/context/context (2024-12-30 11:34 PM)
+        ✘ Governance https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-governance?context=/fabric/context/context (2024-12-30 11:34 PM) @cancelled
         ☐ Mentoring and user enablement https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-mentoring-and-user-enablement?context=/fabric/context/context (2024-12-30 11:34 PM)
         ☐ Community of practice https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-community-of-practice?context=/fabric/context/context (2024-12-30 11:34 PM)
         ☐ User support https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-user-support?context=/fabric/context/context (2024-12-30 11:34 PM)
         ☐ System oversight https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-system-oversight?context=/fabric/context/context (2024-12-30 11:34 PM)
         ☐ Change management https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-change-management?context=/fabric/context/context (2024-12-30 11:34 PM)
         ☐ Conclusion https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-conclusion?context=/fabric/context/context (2024-12-30 11:34 PM)
-        ☐ What's new? archive https://learn.microsoft.com/en-us/fabric/get-started/whats-new-archive (2024-12-31 12:11 PM)
+        ✘ What's new? archive https://learn.microsoft.com/en-us/fabric/get-started/whats-new-archive (2024-12-31 12:11 PM) @cancelled
+
+
+---
+
+        ☐ What's New https://learn.microsoft.com/en-us/fabric/get-started/whats-new (2025-01-03 11:00 PM)
+    ☐ Promote or certify items https://learn.microsoft.com/en-us/fabric/get-started/endorsement-promote-certify (2025-01-06 12:03 PM)
+        ☐ Governance https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-governance?context=/fabric/context/context (2025-01-06 11:41 PM)
+        ☐ Active known issues for Fabric + Power BI - chart https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues (2025-01-06 11:00 PM)
+        ☐ SQL databases not available with private link through January 2025 https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-979-sql-databases-not-available-private-link (2025-01-06 11:00 PM)
+        ☐ Create report doesn't work on Eventhouse monitoring KQL database https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-975-create-report-not-work-eventhouse-monitoring-kql-database (2025-01-06 11:00 PM)
+        ☐ Show table command in KQL Queryset editor fails https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-974-show-table-kql-queryset-editor-fails (2025-01-06 11:00 PM)
+        ☐ Export to Excel using live connection with show items with no data turned on fails https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-977-export-excel-live-connection-show-items-no-data-fails (2025-01-06 11:00 PM)
+        ☐ Schema refresh for a data warehouse's semantic model fails https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-821-schema-refresh-data-warehouse-model-fails (2025-01-06 11:00 PM)
+        ☐ Using an inactive SQL analytics endpoint can show old data https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-618-using-inactive-sql-analytics-endpoint-old-data (2025-01-06 11:00 PM)
+        ☐ Temp tables in Warehouse and SQL analytics endpoint https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-447-temp-tables-data-warehouse-sql-endpoint (2025-01-06 11:00 PM)
+        ☐ Closing a Dataflow Gen1 takes you to the wrong workspace https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-546-closing-dataflow-gen1-takes-wrong-workspace (2025-01-06 11:00 PM)
+        ☐ New card visual formatting appears or disappears in Service https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-535-new-card-visual-formatting-appears-disappears (2025-01-06 11:00 PM)
+        ☐ Sign in fails for securely embedded reports using Chrome or Microsoft Edge browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-532-sign-in-fails-securely-embedded-reports-using-chrome-browser (2025-01-06 11:00 PM)
 

@@ -26,7 +26,7 @@ Azure reliability documentation | Microsoft Learn:
                 ☐ Azure Container Registry https://learn.microsoft.com/azure/container-registry/zone-redundancy?toc=/azure/reliability (2024-11-21 05:31 AM)
                 ☐ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/reliability/migrate-cosmos-nosql (2024-11-20 11:04 PM)
                 ☐ Azure Database for MySQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/migrate-database-mysql-flex (2024-08-14 06:47 PM)
-                ☐ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2024-12-17 10:59 PM)
+                ✘ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2024-12-17 10:59 PM) @cancelled
                 ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san#availability-zone-migration (2024-12-11 05:32 AM)
                 ☐ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight#availability-zone-migration (2024-11-20 11:04 PM)
                 ☐ Azure Kubernetes Service https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability (2024-10-31 05:34 AM)
@@ -152,7 +152,7 @@ Azure reliability documentation | Microsoft Learn:
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-02 11:27 AM)
                 ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-enable-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-22 07:16 PM)
         Migration:
-            ☐ Azure Migrate https://learn.microsoft.com/en-us/azure/migrate/resources-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#does-azure-migrate-offer-backup-and-disaster-recovery (2024-11-29 06:04 PM)
+            ✘ Azure Migrate https://learn.microsoft.com/en-us/azure/migrate/resources-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#does-azure-migrate-offer-backup-and-disaster-recovery (2024-11-29 06:04 PM) @cancelled
             Azure Site Recovery:
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-02 11:27 AM)
                 ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/site-recovery/azure-to-azure-tutorial-enable-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-22 07:16 PM)
@@ -244,7 +244,7 @@ Azure reliability documentation | Microsoft Learn:
                 ☐ Classic Application Gateway https://learn.microsoft.com/azure/application-gateway/classic-to-resource-manager?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-10-02 10:08 PM)
                 ☐ Classic Reserved IP addresses https://learn.microsoft.com/azure/virtual-network/ip-services/public-ip-upgrade-classic?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-22 07:16 PM)
                 ☐ Classic ExpressRoute Gateway https://learn.microsoft.com/azure/expressroute/expressroute-migration-classic-resource-manager?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-22 07:16 PM)
-                ☐ Classic VPN gateway https://learn.microsoft.com/azure/vpn-gateway/vpn-gateway-classic-resource-manager-migration?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-11 11:02 PM)
+                ✘ Classic VPN gateway https://learn.microsoft.com/azure/vpn-gateway/vpn-gateway-classic-resource-manager-migration?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-11 11:02 PM) @cancelled
 
 
 ---
@@ -252,4 +252,11 @@ Azure reliability documentation | Microsoft Learn:
             ☐ Azure Private Link https://learn.microsoft.com/en-us/azure/private-link/availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-30 11:05 PM)
             ☐ Azure Public IP https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-zone (2024-12-31 12:14 PM)
                 ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#business-continuity (2024-12-31 12:14 PM)
+
+
+---
+
+                ☐ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2025-01-07 05:31 AM)
+            ☐ Azure Migrate https://learn.microsoft.com/en-us/azure/migrate/resources-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#does-azure-migrate-offer-backup-and-disaster-recovery (2025-01-03 12:39 PM)
+                ☐ Classic VPN gateway https://learn.microsoft.com/azure/vpn-gateway/vpn-gateway-classic-resource-manager-migration?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-02 11:04 PM)
 

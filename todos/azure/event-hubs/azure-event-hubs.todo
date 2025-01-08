@@ -88,11 +88,11 @@ Azure Event Hubs documentation | Microsoft Learn:
                     ☐ Authenticate from an application https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-application (2024-06-27 05:38 AM)
                     ☐ Authorize access with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/event-hubs/authorize-access-azure-active-directory (2024-12-18 11:02 PM)
             ☐ Network security https://learn.microsoft.com/en-us/azure/event-hubs/network-security (2024-02-02 11:08 PM)
-            ☐ Network security perimeter https://learn.microsoft.com/en-us/azure/event-hubs/network-security-perimeter (2024-11-21 05:37 AM)
+            ✘ Network security perimeter https://learn.microsoft.com/en-us/azure/event-hubs/network-security-perimeter (2024-11-21 05:37 AM) @cancelled
             ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/event-hubs/security-controls-policy (2024-08-02 10:04 PM)
             ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/event-hubs-security-baseline?toc=/azure/event-hubs/TOC.json (2024-08-05 07:13 PM)
             ☐ Enforce minimum required TLS version https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-enforce-minimum-version (2024-10-29 05:03 PM)
-        ☐ Availability and consistency https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-availability-and-consistency (2024-11-22 05:58 AM)
+        ✘ Availability and consistency https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-availability-and-consistency (2024-11-22 05:58 AM) @cancelled
         ☐ Scalability https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability (2024-12-12 11:04 PM)
         AMQP:
             ☐ AMQP 1.0 protocol guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-protocol-guide (2024-11-19 06:02 PM)
@@ -262,4 +262,11 @@ Azure Event Hubs documentation | Microsoft Learn:
 
                 ✘ azure-eventhubs (legacy) https://learn.microsoft.com/java/api/overview/azure/eventhubs/client?view=azure-java-legacy&preserve-view=true (2024-12-30 12:16 PM) @cancelled(24-12-30 20:40)
             ✔ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2024-12-30 12:07 PM) @done(24-12-30 20:40)
+
+
+---
+
+            ☐ Network security perimeter https://learn.microsoft.com/en-us/azure/event-hubs/network-security-perimeter (2025-01-02 11:04 PM)
+        ☐ Availability and consistency https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-availability-and-consistency (2025-01-02 11:04 PM)
+            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-07 12:10 PM)
 

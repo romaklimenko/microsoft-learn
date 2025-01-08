@@ -3788,15 +3788,15 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
             Resource governor https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/resource-governor (2024-09-09 10:27 PM):
                 ☐ Enable https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/enable-resource-governor (2024-09-09 10:27 PM)
                 ☐ Disable https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/disable-resource-governor (2024-09-09 10:27 PM)
-                ☐ Configure Resource Governor Using a Template https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/configure-resource-governor-using-a-template (2024-09-09 10:27 PM)
-                ☐ View Resource Governor Properties https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/view-resource-governor-properties (2024-09-09 10:27 PM)
+                ✘ Configure Resource Governor Using a Template https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/configure-resource-governor-using-a-template (2024-09-09 10:27 PM) @cancelled
+                ✘ View Resource Governor Properties https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/view-resource-governor-properties (2024-09-09 10:27 PM) @cancelled
                 Resource Pool https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/resource-governor-resource-pool (2024-09-09 10:27 PM):
                     ☐ Create https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/create-a-resource-pool (2024-09-09 10:27 PM)
-                    ☐ Change  Settings https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/change-resource-pool-settings (2024-09-09 10:27 PM)
+                    ✘ Change  Settings https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/change-resource-pool-settings (2024-09-09 10:27 PM) @cancelled
                     ☐ Delete https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/delete-a-resource-pool (2024-09-09 10:27 PM)
                 Workload Group https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/resource-governor-workload-group (2024-09-09 10:27 PM):
                     ☐ Create https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/create-a-workload-group (2024-09-09 10:27 PM)
-                    ☐ Change  Settings https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/change-workload-group-settings (2024-09-09 10:27 PM)
+                    ✘ Change  Settings https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/change-workload-group-settings (2024-09-09 10:27 PM) @cancelled
                     ☐ Move https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/move-a-workload-group (2024-09-09 10:27 PM)
                     ☐ Delete https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/delete-a-workload-group (2024-09-09 10:27 PM)
                 Classifier function https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/resource-governor-classifier-function (2024-09-09 10:27 PM):
@@ -5434,7 +5434,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
         Azure SQL:
             ☐ Azure SQL > https://learn.microsoft.com/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview (2024-11-05 11:33 PM)
             ☐ Azure SQL Database > https://learn.microsoft.com/azure/azure-sql/database/sql-database-paas-overview (2024-11-05 11:33 PM)
-            ☐ Azure SQL Managed Instance > https://learn.microsoft.com/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview (2024-12-19 11:35 PM)
+            ✘ Azure SQL Managed Instance > https://learn.microsoft.com/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview (2024-12-19 11:35 PM) @cancelled
             ☐ SQL Server on Azure VMs > https://learn.microsoft.com/azure/azure-sql/virtual-machines/windows/sql-server-on-azure-vm-iaas-what-is-overview (2024-10-22 11:03 PM)
     Azure Arc:
         SQL Server enabled by Azure Arc:
@@ -9487,4 +9487,17 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                     ✔ Requirements https://learn.microsoft.com/en-us/sql/relational-databases/clr-integration-database-objects-user-defined-functions/clr-user-defined-aggregates-requirements (2024-09-09 10:27 PM) @done(25-01-02 20:13)
                         ✔ Using T-SQL Assertions in SQL Server Unit Tests https://learn.microsoft.com/en-us/sql/ssdt/using-transact-sql-assertions-in-sql-server-unit-tests (2024-09-09 10:27 PM) @done(25-01-02 20:13)
                     ✔ DENY Assembly Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/deny-assembly-permissions-transact-sql (2024-09-09 10:27 PM) @done(25-01-02 20:14)
+
+
+---
+
+                ☐ Configuration examples and best practices https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/resource-governor-walkthrough (2024-09-09 10:27 PM)
+                ☐ Configure resource governor using a template https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/configure-resource-governor-using-a-template (2024-09-09 10:27 PM)
+                ☐ View resource governor properties https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/view-resource-governor-properties (2024-09-09 10:27 PM)
+                Resource pool https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/resource-governor-resource-pool (2024-09-09 10:27 PM):
+                    ☐ Modify https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/change-resource-pool-settings (2024-09-09 10:27 PM)
+                Workload group https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/resource-governor-workload-group (2024-09-09 10:27 PM):
+                    ☐ Modify https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/change-workload-group-settings (2024-09-09 10:27 PM)
+                ☐ Classifier function https://learn.microsoft.com/en-us/sql/relational-databases/resource-governor/resource-governor-classifier-function (2024-09-09 10:27 PM)
+            ☐ Azure SQL Managed Instance > https://learn.microsoft.com/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview (2025-01-06 11:40 PM)
 

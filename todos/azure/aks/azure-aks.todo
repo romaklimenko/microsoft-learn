@@ -158,7 +158,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Create a private cluster https://learn.microsoft.com/en-us/azure/aks/private-clusters (2024-11-01 09:59 PM)
                 ☐ Access a private cluster remotely https://learn.microsoft.com/en-us/azure/aks/access-private-cluster (2024-11-22 11:01 PM)
             Integration:
-                ☐ Integrate ACR with an AKS cluster https://learn.microsoft.com/en-us/azure/aks/cluster-container-registry-integration (2024-11-08 06:01 PM)
+                ✘ Integrate ACR with an AKS cluster https://learn.microsoft.com/en-us/azure/aks/cluster-container-registry-integration (2024-11-08 06:01 PM) @cancelled
                 Use cluster extensions:
                     ☐ About cluster extensions https://learn.microsoft.com/en-us/azure/aks/cluster-extensions (2024-08-01 08:29 PM)
                     ☐ Use the Azure CLI https://learn.microsoft.com/en-us/azure/aks/deploy-extensions-az-cli (2024-08-01 08:29 PM)
@@ -196,7 +196,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 Deploy a highly available PostgreSQL database:
                     ☐ Overview https://learn.microsoft.com/en-us/azure/aks/postgresql-ha-overview (2024-10-31 05:34 AM)
                     ☐ Create infrastructure resources https://learn.microsoft.com/en-us/azure/aks/create-postgresql-ha (2024-11-07 12:05 PM)
-                    ☐ Deploy and test PostgreSQL https://learn.microsoft.com/en-us/azure/aks/deploy-postgresql-ha (2024-10-31 05:34 AM)
+                    ✘ Deploy and test PostgreSQL https://learn.microsoft.com/en-us/azure/aks/deploy-postgresql-ha (2024-10-31 05:34 AM) @cancelled
                 Deploy a Valkey cluster:
                     ☐ Overview https://learn.microsoft.com/en-us/azure/aks/valkey-overview (2024-10-31 05:34 AM)
                     ☐ Create Valkey infrastructure resources https://learn.microsoft.com/en-us/azure/aks/create-valkey-infrastructure (2024-11-07 12:05 PM)
@@ -204,7 +204,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                     ☐ Test Valkey with Locust https://learn.microsoft.com/en-us/azure/aks/validate-valkey-cluster (2024-12-16 11:01 PM)
                     ☐ Test resiliency during an AKS node pool upgrade https://learn.microsoft.com/en-us/azure/aks/upgrade-valkey-aks-nodepool (2024-12-16 11:01 PM)
             GPU workloads:
-                ☐ Use GPUs https://learn.microsoft.com/en-us/azure/aks/gpu-cluster (2024-10-31 05:34 AM)
+                ✘ Use GPUs https://learn.microsoft.com/en-us/azure/aks/gpu-cluster (2024-10-31 05:34 AM) @cancelled
                 ☐ Use Windows GPUs https://learn.microsoft.com/en-us/azure/aks/use-windows-gpu (2024-10-31 05:34 AM)
                 ☐ Multi-instance GPU node pool https://learn.microsoft.com/en-us/azure/aks/gpu-multi-instance (2024-11-22 11:01 PM)
             Vertical Pod Autoscaler:
@@ -373,7 +373,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Azure HPC Cache https://learn.microsoft.com/en-us/azure/aks/azure-hpc-cache (2024-10-31 05:34 AM)
                 ☐ NFS Server - static https://learn.microsoft.com/en-us/azure/aks/azure-nfs-volume (2024-12-12 05:31 AM)
         Configure backup:
-            ☐ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-08 06:02 PM)
+            ✘ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-08 06:02 PM) @cancelled
             ☐ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-08 06:02 PM)
             ✘ Restore https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-restore?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM) @cancelled
             ☐ Manage https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-manage-backups?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-21 11:02 PM)
@@ -464,9 +464,9 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             ☐ Use Bridge to Kubernetes with Visual Studio https://learn.microsoft.com/visualstudio/bridge/bridge-to-kubernetes-vs?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-25 01:04 AM)
             ☐ Use OpenFaaS https://learn.microsoft.com/en-us/azure/aks/openfaas (2024-10-09 05:32 AM)
             ☐ Create containerized app with Draft https://learn.microsoft.com/en-us/azure/aks/draft (2024-10-31 05:34 AM)
-            ☐ Build Django app with PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/tutorial-django-aks-database?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-19 12:13 PM)
+            ✘ Build Django app with PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/tutorial-django-aks-database?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-19 12:13 PM) @cancelled
             ☐ Build Java app with WebSphere Liberty or Open Liberty https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-liberty-app (2024-12-05 06:03 PM)
-            ☐ Build Java app with WebLogic Server https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-wls-app (2024-11-03 12:04 PM)
+            ✘ Build Java app with WebLogic Server https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-wls-app (2024-11-03 12:04 PM) @cancelled
             ☐ Build Java app with Quarkus https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-quarkus-app (2024-12-17 10:59 PM)
             ☐ Build WordPress app with MySQL https://learn.microsoft.com/azure/mysql/flexible-server/tutorial-deploy-wordpress-on-aks?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-02 11:02 PM)
             ☐ Azure API Management https://learn.microsoft.com/azure/api-management/api-management-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-08-02 11:27 AM)
@@ -510,7 +510,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Prepare for deployment https://learn.microsoft.com/en-us/azure/aks/eks-edw-prepare (2024-12-04 11:02 PM)
                 ☐ Deploy to Azure https://learn.microsoft.com/en-us/azure/aks/eks-edw-deploy (2024-12-04 11:02 PM)
             Migrate EKS web application workloads:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/aks/eks-web-overview (2024-12-13 11:02 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/aks/eks-web-overview (2024-12-13 11:02 PM) @cancelled
                 ☐ Understand platform differences https://learn.microsoft.com/en-us/azure/aks/eks-web-understand (2024-12-13 11:02 PM)
                 ☐ Rearchitect for AKS https://learn.microsoft.com/en-us/azure/aks/eks-web-rearchitect (2024-12-13 11:02 PM)
                 ☐ Refactor app https://learn.microsoft.com/en-us/azure/aks/eks-web-refactor (2024-12-13 11:02 PM)
@@ -594,10 +594,27 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                     ☐ Deploy an application that uses OpenAI on Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-quickstart (2024-08-01 08:29 PM)
                     ☐ Secure access to Azure OpenAI from Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-secure-access-quickstart (2024-08-01 08:29 PM)
                 Deploy a Ray cluster:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/aks/ray-overview (2024-12-30 11:04 PM)
-                    ☐ Configure and deploy a Ray cluster https://learn.microsoft.com/en-us/azure/aks/deploy-ray (2024-12-30 11:04 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/aks/ray-overview (2024-12-30 11:04 PM) @cancelled
+                    ✘ Configure and deploy a Ray cluster https://learn.microsoft.com/en-us/azure/aks/deploy-ray (2024-12-30 11:04 PM) @cancelled
                 ☐ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2024-11-19 06:01 PM)
                 ☐ Deploy data and ML pipelines with Flyte https://learn.microsoft.com/en-us/azure/aks/use-flyte (2024-08-09 10:01 PM)
                 ☐ Pod Sandboxing https://learn.microsoft.com/en-us/azure/aks/use-pod-sandboxing (2024-12-30 06:30 PM)
-        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2024-12-30 12:31 PM)
+        ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2024-12-30 12:31 PM) @cancelled
+
+
+---
+
+                ☐ Integrate ACR with an AKS cluster https://learn.microsoft.com/en-us/azure/aks/cluster-container-registry-integration (2025-01-02 06:00 PM)
+                    ☐ Deploy and test PostgreSQL https://learn.microsoft.com/en-us/azure/aks/deploy-postgresql-ha (2025-01-02 11:02 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/aks/ai-ml-overview (2025-01-07 05:31 AM)
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/aks/ray-overview (2025-01-06 11:00 PM)
+                    ☐ Configure and deploy a Ray cluster https://learn.microsoft.com/en-us/azure/aks/deploy-ray (2025-01-06 11:00 PM)
+                ☐ Use GPUs https://learn.microsoft.com/en-us/azure/aks/gpu-cluster (2025-01-02 11:02 PM)
+            ☐ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-07 12:17 PM)
+            ☐ Build Django app with PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/tutorial-django-aks-database?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-05 12:06 PM)
+            ☐ Build Java app with WebLogic Server https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-wls-app (2025-01-06 05:30 AM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/aks/eks-web-overview (2025-01-06 11:00 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-07 12:30 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-07 12:10 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-07 12:10 PM)
 

@@ -2,75 +2,75 @@ Artificial intelligence (AI) architecture - Azure Architecture Center | Microsof
     AI + Machine Learning https://learn.microsoft.com/en-us/azure/architecture/ai-ml/ (2024-11-18 06:31 PM):
         Explore ideas about:
             Document processing:
-                ☐ Large-scale custom NLP https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/large-scale-custom-natural-language-processing (2024-09-13 05:10 PM)
+                ✘ Large-scale custom NLP https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/large-scale-custom-natural-language-processing (2024-09-13 05:10 PM) @cancelled
             Image processing:
-                ☐ Image classification https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/intelligent-apps-image-processing (2024-10-07 05:30 PM)
-                ☐ Vision classifier model https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/vision-classifier-model-with-custom-vision (2024-10-07 05:30 PM)
+                ✘ Image classification https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/intelligent-apps-image-processing (2024-10-07 05:30 PM) @cancelled
+                ✘ Vision classifier model https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/vision-classifier-model-with-custom-vision (2024-10-07 05:30 PM) @cancelled
             Audio processing:
-                ☐ Use Azure OpenAI to process podcast audio files https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/process-audio-files (2024-09-13 05:10 PM)
+                ✘ Use Azure OpenAI to process podcast audio files https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/process-audio-files (2024-09-13 05:10 PM) @cancelled
             Predictive analytics:
-                ☐ Customer order forecasting https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/next-order-forecasting (2024-12-18 07:03 PM)
-                ☐ Personalized offers https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/personalized-offers (2024-10-07 05:30 PM)
+                ✘ Customer order forecasting https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/next-order-forecasting (2024-12-18 07:03 PM) @cancelled
+                ✘ Personalized offers https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/personalized-offers (2024-10-07 05:30 PM) @cancelled
             AI at the edge:
-                ☐ Video ingestion and object detection on the edge https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/video-ingestion-object-detection-edge-cloud (2024-10-07 05:30 PM)
+                ✘ Video ingestion and object detection on the edge https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/video-ingestion-object-detection-edge-cloud (2024-10-07 05:30 PM) @cancelled
                 ☐ Computer vision at the edge https://learn.microsoft.com/en-us/azure/architecture/reference-architectures/ai/end-to-end-smart-factory (2024-11-07 06:33 PM)
             Document enrichment:
                 ☐ Use AI enrichment with Azure AI Search https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/ai-search-skillsets (2024-09-13 05:10 PM)
             MLOps:
-                ☐ Use Azure Databricks to orchestrate MLOps https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/orchestrate-machine-learning-azure-databricks (2024-10-31 05:30 PM)
-                ☐ Many models ML with Spark https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/many-models-machine-learning-azure-spark (2024-09-12 04:46 PM)
-                ☐ Many models with Machine Learning https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/many-models-machine-learning-azure-machine-learning (2024-09-12 04:46 PM)
+                ✘ Use Azure Databricks to orchestrate MLOps https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/orchestrate-machine-learning-azure-databricks (2024-10-31 05:30 PM) @cancelled
+                ✘ Many models ML with Spark https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/many-models-machine-learning-azure-spark (2024-09-12 04:46 PM) @cancelled
+                ✘ Many models with Machine Learning https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/many-models-machine-learning-azure-machine-learning (2024-09-12 04:46 PM) @cancelled
             Other ideas:
                 ☐ Data science and machine learning https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/azure-databricks-data-science-machine-learning (2024-11-07 06:33 PM)
         Design architectures:
             Automotive:
-                ☐ Automotive messaging, data, and analytics https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automotive-messaging-data-analytics (2024-12-18 07:03 PM)
-                ☐ DataOps for autonomous vehicle operations https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/autonomous-vehicle-operations-dataops (2024-12-18 07:03 PM)
-                ☐ Software-defined vehicle DevOps toolchain https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/software-defined-vehicle-reference-architecture (2024-12-18 07:03 PM)
-                ☐ ValOps for autonomous vehicle operations https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/autonomous-vehicle-validation-operations (2024-12-18 07:03 PM)
+                ✘ Automotive messaging, data, and analytics https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automotive-messaging-data-analytics (2024-12-18 07:03 PM) @cancelled
+                ✘ DataOps for autonomous vehicle operations https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/autonomous-vehicle-operations-dataops (2024-12-18 07:03 PM) @cancelled
+                ✘ Software-defined vehicle DevOps toolchain https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/software-defined-vehicle-reference-architecture (2024-12-18 07:03 PM) @cancelled
+                ✘ ValOps for autonomous vehicle operations https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/autonomous-vehicle-validation-operations (2024-12-18 07:03 PM) @cancelled
             Chat bots:
-                ☐ Azure OpenAI chat basic architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-openai-e2e-chat (2024-12-06 06:31 PM)
-                ☐ Azure OpenAI chat baseline architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat (2024-11-11 06:32 PM)
-                ☐ Azure OpenAI chat baseline in an Azure landing zone https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/azure-openai-baseline-landing-zone (2024-12-05 06:31 PM)
+                ✘ Azure OpenAI chat basic architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-openai-e2e-chat (2024-12-06 06:31 PM) @cancelled
+                ✘ Azure OpenAI chat baseline architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat (2024-11-11 06:32 PM) @cancelled
+                ✘ Azure OpenAI chat baseline in an Azure landing zone https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/azure-openai-baseline-landing-zone (2024-12-05 06:31 PM) @cancelled
             Document processing:
-                ☐ Automate document classification https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions (2024-09-12 04:46 PM)
-                ☐ Automate document processing https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-document-processing-azure-form-recognizer (2024-09-12 04:46 PM)
-                ☐ Automate PDF form processing https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-pdf-forms-processing (2024-09-12 04:46 PM)
-                ☐ Build custom document processing models https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/build-deploy-custom-models (2024-09-12 04:46 PM)
-                ☐ Multiple indexers with Azure AI Search https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/search-blob-metadata (2024-09-12 04:46 PM)
+                ✘ Automate document classification https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions (2024-09-12 04:46 PM) @cancelled
+                ✘ Automate document processing https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-document-processing-azure-form-recognizer (2024-09-12 04:46 PM) @cancelled
+                ✘ Automate PDF form processing https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-pdf-forms-processing (2024-09-12 04:46 PM) @cancelled
+                ✘ Build custom document processing models https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/build-deploy-custom-models (2024-09-12 04:46 PM) @cancelled
+                ✘ Multiple indexers with Azure AI Search https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/search-blob-metadata (2024-09-12 04:46 PM) @cancelled
             Video and image classification:
-                ☐ Automate video analysis https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/analyze-video-computer-vision-machine-learning (2024-12-23 06:31 PM)
+                ✘ Automate video analysis https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/analyze-video-computer-vision-machine-learning (2024-12-23 06:31 PM) @cancelled
             Audio processing:
-                ☐ Extract and analyze call center data https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics (2024-10-30 05:31 PM)
+                ✘ Extract and analyze call center data https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics (2024-10-30 05:31 PM) @cancelled
             Batch scoring:
-                ☐ Batch scoring with Spark on Databricks https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/batch-scoring-databricks (2024-12-20 06:31 PM)
+                ✘ Batch scoring with Spark on Databricks https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/batch-scoring-databricks (2024-12-20 06:31 PM) @cancelled
             Monitoring:
-                ☐ Monitor OpenAI models https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/log-monitor-azure-openai (2024-11-11 06:32 PM)
+                ✘ Monitor OpenAI models https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/log-monitor-azure-openai (2024-11-11 06:32 PM) @cancelled
             Regulatory:
-                ☐ Secure research for regulated data https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/secure-compute-for-research (2024-11-14 06:33 PM)
+                ✘ Secure research for regulated data https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/secure-compute-for-research (2024-11-14 06:33 PM) @cancelled
         Apply guidance:
             Automotive:
-                ☐ Autonomous Vehicle Operations design guide https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/avops-design-guide (2024-12-18 07:03 PM)
-                ☐ Autonomous Vehicle Operations solution idea https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/avops-architecture (2024-12-18 07:03 PM)
-            ☐ Machine learning options https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/data-science-and-machine-learning (2024-11-18 06:31 PM)
+                ✘ Autonomous Vehicle Operations design guide https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/avops-design-guide (2024-12-18 07:03 PM) @cancelled
+                ✘ Autonomous Vehicle Operations solution idea https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/avops-architecture (2024-12-18 07:03 PM) @cancelled
+            ✘ Machine learning options https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/data-science-and-machine-learning (2024-11-18 06:31 PM) @cancelled
             Developing and evaluating RAG solutions:
-                ☐ Getting started https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide (2024-12-17 06:30 PM)
-                ☐ Preparation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-preparation-phase (2024-12-18 07:03 PM)
-                ☐ Chunking phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-chunking-phase (2024-11-27 06:34 PM)
-                ☐ Chunk enrichment phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase (2024-11-27 06:34 PM)
-                ☐ Embedding phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings (2024-12-18 07:03 PM)
-                ☐ Information retrieval phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-information-retrieval (2024-11-27 06:34 PM)
-                ☐ LLM end-to-end evaluation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-llm-evaluation-phase (2024-11-27 06:34 PM)
-            ☐ Designing secure multitenant RAG inferencing solutions https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/secure-multitenant-rag (2024-11-18 06:31 PM)
+                ✘ Getting started https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide (2024-12-17 06:30 PM) @cancelled
+                ✘ Preparation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-preparation-phase (2024-12-18 07:03 PM) @cancelled
+                ✘ Chunking phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-chunking-phase (2024-11-27 06:34 PM) @cancelled
+                ✘ Chunk enrichment phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase (2024-11-27 06:34 PM) @cancelled
+                ✘ Embedding phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings (2024-12-18 07:03 PM) @cancelled
+                ✘ Information retrieval phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-information-retrieval (2024-11-27 06:34 PM) @cancelled
+                ✘ LLM end-to-end evaluation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-llm-evaluation-phase (2024-11-27 06:34 PM) @cancelled
+            ✘ Designing secure multitenant RAG inferencing solutions https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/secure-multitenant-rag (2024-11-18 06:31 PM) @cancelled
             MLOps:
-                ☐ Machine learning operations (MLOps) v2 https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/machine-learning-operations-v2 (2024-10-14 05:32 PM)
-                ☐ Network security for MLOps https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/network-security-mlops (2024-10-07 05:30 PM)
-                ☐ Generative AI ops with MLOps https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/genaiops-for-mlops (2024-12-05 06:31 PM)
-                ☐ MLOps maturity model https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model (2024-11-22 07:07 PM)
+                ✘ Machine learning operations (MLOps) v2 https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/machine-learning-operations-v2 (2024-10-14 05:32 PM) @cancelled
+                ✘ Network security for MLOps https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/network-security-mlops (2024-10-07 05:30 PM) @cancelled
+                ✘ Generative AI ops with MLOps https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/genaiops-for-mlops (2024-12-05 06:31 PM) @cancelled
+                ✘ MLOps maturity model https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model (2024-11-22 07:07 PM) @cancelled
             Proxy Azure OpenAI usage:
-                ☐ Use a gateway in front of Azure OpenAI https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-guide (2024-12-17 06:30 PM)
-                ☐ A gateway for multiple Azure OpenAI backends https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend (2024-12-17 06:30 PM)
-                ☐ Provide custom authentication to Azure OpenAI through a gateway https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-custom-authentication (2024-12-17 06:30 PM)
+                ✘ Use a gateway in front of Azure OpenAI https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-guide (2024-12-17 06:30 PM) @cancelled
+                ✘ A gateway for multiple Azure OpenAI backends https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend (2024-12-17 06:30 PM) @cancelled
+                ✘ Provide custom authentication to Azure OpenAI through a gateway https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-custom-authentication (2024-12-17 06:30 PM) @cancelled
             Team Data Science Process:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/data-science-process/overview (2024-09-12 04:46 PM)
                 Lifecycle:
@@ -87,26 +87,40 @@ Artificial intelligence (AI) architecture - Azure Architecture Center | Microsof
                     ☐ Project lead https://learn.microsoft.com/en-us/azure/architecture/data-science-process/project-lead-tasks (2024-09-13 05:10 PM)
                     ☐ Individual contributor https://learn.microsoft.com/en-us/azure/architecture/data-science-process/project-ic-tasks (2024-09-13 05:10 PM)
                 Training:
-                    ☐ For data scientists https://learn.microsoft.com/en-us/azure/architecture/data-science-process/team-data-science-process-for-data-scientists (2024-11-07 06:33 PM)
+                    ✘ For data scientists https://learn.microsoft.com/en-us/azure/architecture/data-science-process/team-data-science-process-for-data-scientists (2024-11-07 06:33 PM) @cancelled
         OpenAI:
             Design architectures:
-                ☐ Azure OpenAI chat basic architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-openai-e2e-chat (2024-12-06 06:31 PM)
-                ☐ Azure OpenAI chat baseline architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat (2024-11-11 06:32 PM)
-                ☐ Azure OpenAI chat baseline in an Azure landing zone https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/azure-openai-baseline-landing-zone (2024-12-05 06:31 PM)
-                ☐ Extract and analyze call center data https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics (2024-10-30 05:31 PM)
-                ☐ Monitor OpenAI models https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/log-monitor-azure-openai (2024-11-11 06:32 PM)
+                ✘ Azure OpenAI chat basic architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-openai-e2e-chat (2024-12-06 06:31 PM) @cancelled
+                ✘ Azure OpenAI chat baseline architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat (2024-11-11 06:32 PM) @cancelled
+                ✘ Azure OpenAI chat baseline in an Azure landing zone https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/azure-openai-baseline-landing-zone (2024-12-05 06:31 PM) @cancelled
+                ✘ Extract and analyze call center data https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics (2024-10-30 05:31 PM) @cancelled
+                ✘ Monitor OpenAI models https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/log-monitor-azure-openai (2024-11-11 06:32 PM) @cancelled
             Apply guidance:
                 Developing and evaluating RAG solutions:
-                    ☐ Getting started https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide (2024-12-17 06:30 PM)
-                    ☐ Preparation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-preparation-phase (2024-12-18 07:03 PM)
-                    ☐ Chunking phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-chunking-phase (2024-11-27 06:34 PM)
-                    ☐ Chunk enrichment phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase (2024-11-27 06:34 PM)
-                    ☐ Embedding phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings (2024-12-18 07:03 PM)
-                    ☐ Information retrieval phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-information-retrieval (2024-11-27 06:34 PM)
-                    ☐ LLM end-to-end evaluation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-llm-evaluation-phase (2024-11-27 06:34 PM)
-                ☐ Designing secure multitenant RAG inferencing solutions https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/secure-multitenant-rag (2024-11-18 06:31 PM)
+                    ✘ Getting started https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide (2024-12-17 06:30 PM) @cancelled
+                    ✘ Preparation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-preparation-phase (2024-12-18 07:03 PM) @cancelled
+                    ✘ Chunking phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-chunking-phase (2024-11-27 06:34 PM) @cancelled
+                    ✘ Chunk enrichment phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase (2024-11-27 06:34 PM) @cancelled
+                    ✘ Embedding phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings (2024-12-18 07:03 PM) @cancelled
+                    ✘ Information retrieval phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-information-retrieval (2024-11-27 06:34 PM) @cancelled
+                    ✘ LLM end-to-end evaluation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-llm-evaluation-phase (2024-11-27 06:34 PM) @cancelled
+                ✘ Designing secure multitenant RAG inferencing solutions https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/secure-multitenant-rag (2024-11-18 06:31 PM) @cancelled
                 Proxy Azure OpenAI usage:
-                    ☐ Use a gateway in front of Azure OpenAI https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-guide (2024-12-17 06:30 PM)
-                    ☐ A gateway for multiple Azure OpenAI backends https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend (2024-12-17 06:30 PM)
-                    ☐ Custom authentication for a gateway in front of Azure OpenAI https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-custom-authentication (2024-12-17 06:30 PM)
+                    ✘ Use a gateway in front of Azure OpenAI https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-guide (2024-12-17 06:30 PM) @cancelled
+                    ✘ A gateway for multiple Azure OpenAI backends https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend (2024-12-17 06:30 PM) @cancelled
+                    ✘ Custom authentication for a gateway in front of Azure OpenAI https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-custom-authentication (2024-12-17 06:30 PM) @cancelled
+
+
+---
+
+    AI + Machine Learning https://learn.microsoft.com/en-us/azure/architecture/ai-ml/ (2025-01-07 06:31 PM):
+                ☐ Azure OpenAI chat basic architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-openai-e2e-chat (2025-01-07 06:31 PM)
+                ☐ Azure OpenAI chat baseline architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat (2025-01-07 06:31 PM)
+            ☐ Machine learning options https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/data-science-and-machine-learning (2025-01-07 06:31 PM)
+                ☐ Chunk enrichment phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase (2025-01-07 06:31 PM)
+                    ☐ For data scientists https://learn.microsoft.com/en-us/azure/architecture/data-science-process/team-data-science-process-for-data-scientists (2025-01-07 06:31 PM)
+                ☐ Azure OpenAI chat basic architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-openai-e2e-chat (2025-01-07 06:31 PM)
+                ☐ Azure OpenAI chat baseline architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat (2025-01-07 06:31 PM)
+                ☐ Analysis using text analytics for health and Azure OpenAI https://learn.microsoft.com/en-us/azure/architecture/example-scenario/healthcare/analyze-recordings-text-analytics-azure-openai (2024-09-12 04:46 PM)
+                    ☐ Chunk enrichment phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase (2025-01-07 06:31 PM)
 

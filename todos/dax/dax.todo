@@ -83,23 +83,23 @@ Data Analysis Expressions (DAX) Reference - DAX | Microsoft Learn:
                 ☐ FILTER https://learn.microsoft.com/en-us/dax/filter-function-dax (2024-12-19 04:29 AM)
                 ☐ FIRSTNONBLANK https://learn.microsoft.com/en-us/dax/firstnonblank-function-dax (2024-12-19 04:29 AM)
                 ☐ FIRSTNONBLANKVALUE https://learn.microsoft.com/en-us/dax/firstnonblankvalue-function-dax (2024-12-19 04:29 AM)
-                ☐ INDEX https://learn.microsoft.com/en-us/dax/index-function-dax (2024-12-19 04:29 AM)
+                ✘ INDEX https://learn.microsoft.com/en-us/dax/index-function-dax (2024-12-19 04:29 AM) @cancelled
                 ☐ KEEPFILTERS https://learn.microsoft.com/en-us/dax/keepfilters-function-dax (2024-12-19 04:29 AM)
                 ☐ LASTNONBLANK https://learn.microsoft.com/en-us/dax/lastnonblank-function-dax (2024-12-19 04:29 AM)
                 ☐ LASTNONBLANKVALUE https://learn.microsoft.com/en-us/dax/lastnonblankvalue-function-dax (2024-12-19 04:29 AM)
                 ☐ LOOKUPVALUE https://learn.microsoft.com/en-us/dax/lookupvalue-function-dax (2024-12-19 04:29 AM)
                 ☐ MATCHBY https://learn.microsoft.com/en-us/dax/matchby-function-dax (2024-12-19 04:29 AM)
-                ☐ MOVINGAVERAGE https://learn.microsoft.com/en-us/dax/movingaverage-function-dax (2024-12-19 04:29 AM)
-                ☐ OFFSET https://learn.microsoft.com/en-us/dax/offset-function-dax (2024-12-19 04:29 AM)
+                ✘ MOVINGAVERAGE https://learn.microsoft.com/en-us/dax/movingaverage-function-dax (2024-12-19 04:29 AM) @cancelled
+                ✘ OFFSET https://learn.microsoft.com/en-us/dax/offset-function-dax (2024-12-19 04:29 AM) @cancelled
                 ☐ ORDERBY https://learn.microsoft.com/en-us/dax/orderby-function-dax (2024-12-19 04:29 AM)
                 ☐ PARTITIONBY https://learn.microsoft.com/en-us/dax/partitionby-function-dax (2024-12-19 04:29 AM)
-                ☐ RANGE https://learn.microsoft.com/en-us/dax/range-function-dax (2024-12-19 04:36 AM)
-                ☐ RANK https://learn.microsoft.com/en-us/dax/rank-function-dax (2024-12-19 04:29 AM)
+                ✘ RANGE https://learn.microsoft.com/en-us/dax/range-function-dax (2024-12-19 04:36 AM) @cancelled
+                ✘ RANK https://learn.microsoft.com/en-us/dax/rank-function-dax (2024-12-19 04:29 AM) @cancelled
                 ☐ REMOVEFILTERS https://learn.microsoft.com/en-us/dax/removefilters-function-dax (2024-12-19 04:29 AM)
-                ☐ ROWNUMBER https://learn.microsoft.com/en-us/dax/rownumber-function-dax (2024-12-19 04:29 AM)
-                ☐ RUNNINGSUM https://learn.microsoft.com/en-us/dax/runningsum-function-dax (2024-12-19 04:29 AM)
+                ✘ ROWNUMBER https://learn.microsoft.com/en-us/dax/rownumber-function-dax (2024-12-19 04:29 AM) @cancelled
+                ✘ RUNNINGSUM https://learn.microsoft.com/en-us/dax/runningsum-function-dax (2024-12-19 04:29 AM) @cancelled
                 ☐ SELECTEDVALUE https://learn.microsoft.com/en-us/dax/selectedvalue-function-dax (2024-12-19 04:29 AM)
-                ☐ WINDOW https://learn.microsoft.com/en-us/dax/window-function-dax (2024-12-19 04:29 AM)
+                ✘ WINDOW https://learn.microsoft.com/en-us/dax/window-function-dax (2024-12-19 04:29 AM) @cancelled
             Financial functions:
                 ☐ Financial functions overview https://learn.microsoft.com/en-us/dax/financial-functions-dax (2024-12-19 04:29 AM)
                 ☐ ACCRINT https://learn.microsoft.com/en-us/dax/accrint-function-dax (2024-12-19 04:29 AM)
@@ -183,7 +183,7 @@ Data Analysis Expressions (DAX) Reference - DAX | Microsoft Learn:
                 ☐ SELECTEDMEASURE https://learn.microsoft.com/en-us/dax/selectedmeasure-function-dax (2024-12-19 04:29 AM)
                 ☐ SELECTEDMEASUREFORMATSTRING https://learn.microsoft.com/en-us/dax/selectedmeasureformatstring-function-dax (2024-12-19 04:29 AM)
                 ☐ SELECTEDMEASURENAME https://learn.microsoft.com/en-us/dax/selectedmeasurename-function-dax (2024-12-19 04:29 AM)
-                ☐ USERCULTURE https://learn.microsoft.com/en-us/dax/userculture-function-dax (2024-12-19 04:29 AM)
+                ✘ USERCULTURE https://learn.microsoft.com/en-us/dax/userculture-function-dax (2024-12-19 04:29 AM) @cancelled
                 ☐ USERNAME https://learn.microsoft.com/en-us/dax/username-function-dax (2024-12-19 04:29 AM)
                 ☐ USEROBJECTID https://learn.microsoft.com/en-us/dax/userobjectid-function-dax (2024-12-19 04:29 AM)
                 ☐ USERPRINCIPALNAME https://learn.microsoft.com/en-us/dax/userprincipalname-function-dax (2024-12-19 04:29 AM)
@@ -415,7 +415,7 @@ Data Analysis Expressions (DAX) Reference - DAX | Microsoft Learn:
                 ☐ TOTALYTD https://learn.microsoft.com/en-us/dax/totalytd-function-dax (2024-12-19 04:29 AM)
         DAX statements:
             ☐ Statements overview https://learn.microsoft.com/en-us/dax/statements-dax (2024-12-19 04:29 AM)
-            ☐ DEFINE https://learn.microsoft.com/en-us/dax/define-statement-dax (2024-12-19 04:29 AM)
+            ✘ DEFINE https://learn.microsoft.com/en-us/dax/define-statement-dax (2024-12-19 04:29 AM) @cancelled
             ☐ EVALUATE https://learn.microsoft.com/en-us/dax/evaluate-statement-dax (2024-12-19 04:29 AM)
             ☐ MEASURE https://learn.microsoft.com/en-us/dax/measure-statement-dax (2024-12-19 04:29 AM)
             ☐ ORDER BY https://learn.microsoft.com/en-us/dax/orderby-statement-dax (2024-12-19 04:29 AM)
@@ -423,7 +423,23 @@ Data Analysis Expressions (DAX) Reference - DAX | Microsoft Learn:
             ☐ VAR https://learn.microsoft.com/en-us/dax/var-dax (2024-12-19 04:29 AM)
         ☐ DAX glossary https://learn.microsoft.com/en-us/dax/dax-glossary (2024-12-13 10:28 PM)
         ☐ DAX operators https://learn.microsoft.com/en-us/dax/dax-operator-reference (2024-12-19 04:29 AM)
-        ☐ DAX queries https://learn.microsoft.com/en-us/dax/dax-queries (2024-12-19 04:29 AM)
+        ✘ DAX queries https://learn.microsoft.com/en-us/dax/dax-queries (2024-12-19 04:29 AM) @cancelled
         ☐ DAX parameter-naming https://learn.microsoft.com/en-us/dax/dax-parameter-naming-conventions (2024-12-19 04:29 AM)
         ☐ DAX syntax https://learn.microsoft.com/en-us/dax/dax-syntax-reference (2024-12-19 04:29 AM)
+
+
+---
+
+                ☐ INDEX https://learn.microsoft.com/en-us/dax/index-function-dax (2025-01-06 11:01 PM)
+                ☐ MOVINGAVERAGE https://learn.microsoft.com/en-us/dax/movingaverage-function-dax (2025-01-06 11:01 PM)
+                ☐ OFFSET https://learn.microsoft.com/en-us/dax/offset-function-dax (2025-01-06 11:01 PM)
+                ☐ RANGE https://learn.microsoft.com/en-us/dax/range-function-dax (2025-01-06 11:01 PM)
+                ☐ RANK https://learn.microsoft.com/en-us/dax/rank-function-dax (2025-01-06 11:01 PM)
+                ☐ ROWNUMBER https://learn.microsoft.com/en-us/dax/rownumber-function-dax (2025-01-06 11:01 PM)
+                ☐ RUNNINGSUM https://learn.microsoft.com/en-us/dax/runningsum-function-dax (2025-01-06 11:01 PM)
+                ☐ WINDOW https://learn.microsoft.com/en-us/dax/window-function-dax (2025-01-06 11:01 PM)
+                ☐ USERCULTURE https://learn.microsoft.com/en-us/dax/userculture-function-dax (2025-01-06 11:01 PM)
+                ☐ SAMPLECARTESIANPOINTSBYCOVER https://learn.microsoft.com/en-us/dax/samplecartesianpointsbycover-function-dax (2025-01-07 05:01 PM)
+            ☐ DEFINE https://learn.microsoft.com/en-us/dax/define-statement-dax (2025-01-06 11:01 PM)
+        ☐ DAX queries https://learn.microsoft.com/en-us/dax/dax-queries (2025-01-06 11:01 PM)
 

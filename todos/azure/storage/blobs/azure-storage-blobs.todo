@@ -81,10 +81,10 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ☐ Mount storage by using NFS https://learn.microsoft.com/en-us/azure/storage/blobs/network-file-system-protocol-support-how-to (2024-12-09 06:04 PM)
                 ☐ Limitations and known issues https://learn.microsoft.com/en-us/azure/storage/blobs/network-file-system-protocol-known-issues (2024-08-29 05:56 AM)
             SFTP:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support (2024-12-16 11:03 PM)
-                ☐ Enable or disable SFTP https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-how-to (2024-10-11 10:04 PM)
-                ☐ Authorize access https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-authorize-access (2024-10-16 10:05 PM)
-                ☐ Connect from an SFTP client https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-connect (2024-08-29 05:56 AM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support (2024-12-16 11:03 PM) @cancelled
+                ✘ Enable or disable SFTP https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-how-to (2024-10-11 10:04 PM) @cancelled
+                ✘ Authorize access https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-authorize-access (2024-10-16 10:05 PM) @cancelled
+                ✘ Connect from an SFTP client https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-connect (2024-08-29 05:56 AM) @cancelled
                 ☐ Performance considerations https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-performance (2024-05-01 11:18 AM)
                 ☐ Limitations and known issues https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-known-issues (2024-09-09 05:05 PM)
         Data management:
@@ -223,7 +223,7 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ☐ Check the Last Sync Time property https://learn.microsoft.com/en-us/azure/storage/common/last-sync-time-get?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05 10:12 PM)
                 ☐ Failover considerations for storage accounts with private endpoints https://learn.microsoft.com/en-us/azure/storage/common/storage-failover-private-endpoints?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-11-19 12:13 PM)
         Performance and scale:
-            ☐ Performance and scalability checklist https://learn.microsoft.com/en-us/azure/storage/blobs/storage-performance-checklist (2024-12-16 11:03 PM)
+            ✘ Performance and scalability checklist https://learn.microsoft.com/en-us/azure/storage/blobs/storage-performance-checklist (2024-12-16 11:03 PM) @cancelled
             ☐ Latency in Blob storage https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-latency (2024-11-25 11:02 PM)
             Scalability and performance targets:
                 ☐ Blob storage https://learn.microsoft.com/en-us/azure/storage/blobs/scalability-targets (2024-06-17 10:05 PM)
@@ -242,8 +242,8 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ☐ Azure Data Lake Storage prices https://azure.microsoft.com/pricing/details/storage/data-lake/
                 ☐ Map each REST operation to a price https://learn.microsoft.com/en-us/azure/storage/blobs/map-rest-apis-transaction-categories (2024-08-29 05:56 AM)
             Estimate costs:
-                ☐ Estimate the cost of Azure Blob Storage https://learn.microsoft.com/en-us/azure/storage/blobs/blob-storage-estimate-costs (2024-11-25 11:02 PM)
-                ☐ Estimate the cost of AzCopy transfers https://learn.microsoft.com/en-us/azure/storage/blobs/azcopy-cost-estimation (2024-12-03 05:33 AM)
+                ✘ Estimate the cost of Azure Blob Storage https://learn.microsoft.com/en-us/azure/storage/blobs/blob-storage-estimate-costs (2024-11-25 11:02 PM) @cancelled
+                ✘ Estimate the cost of AzCopy transfers https://learn.microsoft.com/en-us/azure/storage/blobs/azcopy-cost-estimation (2024-12-03 05:33 AM) @cancelled
                 ☐ Estimate the cost to archive data https://learn.microsoft.com/en-us/azure/storage/blobs/archive-cost-estimation (2024-10-11 10:04 PM)
             Optimize costs:
                 Access tiers https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview (2024-12-05 05:33 AM):
@@ -903,18 +903,38 @@ Azure Blob Storage documentation | Microsoft Learn:
 
 ---
 
-                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2024-12-30 12:31 PM)
+                    ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2024-12-30 12:31 PM) @cancelled
                     ☐ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-30 12:09 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-30 12:07 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-30 12:07 PM)
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-30 12:07 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-30 12:07 PM) @cancelled
                     ☐ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-30 12:16 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-30 12:07 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-30 12:07 PM)
-                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2024-12-30 12:31 PM)
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-30 12:07 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-30 12:07 PM) @cancelled
+                ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2024-12-30 12:31 PM) @cancelled
                 ☐ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage (2024-12-30 12:09 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-30 12:07 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-30 12:07 PM)
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2024-12-30 12:07 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2024-12-30 12:07 PM) @cancelled
                 ☐ Java SDK https://learn.microsoft.com/java/api/overview/azure/storage/management (2024-12-30 12:16 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-30 12:07 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-30 12:07 PM)
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2024-12-30 12:07 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2024-12-30 12:07 PM) @cancelled
+
+
+---
+
+                ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support (2025-01-06 06:06 PM)
+            Blob index tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-manage-find-blobs (2025-01-05 12:12 PM):
+            Lifecycle management policies https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-overview (2025-01-03 06:30 AM):
+            ☐ Performance and scalability checklist https://learn.microsoft.com/en-us/azure/storage/blobs/storage-performance-checklist (2025-01-02 11:04 PM)
+                ☐ Estimate the cost of Azure Blob Storage https://learn.microsoft.com/en-us/azure/storage/blobs/blob-storage-estimate-costs (2025-01-06 11:02 PM)
+                ☐ Estimate the cost of AzCopy transfers https://learn.microsoft.com/en-us/azure/storage/blobs/azcopy-cost-estimation (2025-01-06 11:02 PM)
+                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-07 12:30 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-07 12:10 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-07 12:10 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-07 12:10 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-07 12:10 PM)
+                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-07 12:30 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-07 12:10 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-07 12:10 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-07 12:10 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-07 12:10 PM)
 

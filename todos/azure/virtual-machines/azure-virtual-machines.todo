@@ -385,7 +385,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                     ☐ OpenBSD https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-openbsd (2024-11-19 06:02 PM)
                     ☐ Red Hat https://learn.microsoft.com/en-us/azure/virtual-machines/linux/redhat-create-upload-vhd (2024-11-25 11:00 PM)
                     ☐ SUSE https://learn.microsoft.com/en-us/azure/virtual-machines/linux/suse-create-upload-vhd (2024-12-11 05:31 AM)
-                    ☐ Ubuntu https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-ubuntu (2024-12-11 05:31 AM)
+                    ✘ Ubuntu https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-ubuntu (2024-12-11 05:31 AM) @cancelled
                 Use cloud-init:
                     ☐ Cloud-init overview https://learn.microsoft.com/en-us/azure/virtual-machines/linux/using-cloud-init (2024-12-11 05:31 AM)
                     ☐ Deep dive https://learn.microsoft.com/en-us/azure/virtual-machines/linux/cloud-init-deep-dive (2024-08-22 05:37 PM)
@@ -458,11 +458,11 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ Spot Placement Score (Preview) https://learn.microsoft.com/azure/virtual-machine-scale-sets/spot-placement-score?toc=/azure/virtual-machines/toc.json (2024-12-04 05:31 AM)
             ☐ VM size recommendation https://learn.microsoft.com/azure/virtual-machine-scale-sets/spot-vm-size-recommendation?toc=/azure/virtual-machines/toc.json (2024-08-22 05:37 PM)
             ☐ Error codes https://learn.microsoft.com/en-us/azure/virtual-machines/error-codes-spot (2024-08-22 05:37 PM)
-            ☐ Handle Spot Evictions https://learn.microsoft.com/azure/architecture/guide/spot/spot-eviction (2024-09-12 04:46 PM)
+            ✘ Handle Spot Evictions https://learn.microsoft.com/azure/architecture/guide/spot/spot-eviction (2024-09-12 04:46 PM) @cancelled
         ☐ Azure Boost https://learn.microsoft.com/azure/azure-boost/overview (2024-11-11 11:02 PM)
         Azure Hybrid Benefit:
             ✘ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-hybrid-benefit-linux (2024-12-20 10:58 PM) @cancelled
-            ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hybrid-use-benefit-licensing (2024-12-03 05:31 AM)
+            ✘ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hybrid-use-benefit-licensing (2024-12-03 05:31 AM) @cancelled
         Reserved instances:
             ☐ What are Azure reservations? https://learn.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?toc=/azure/virtual-machines/toc.json (2024-12-08 12:09 PM)
             ☐ Prepay for VMs https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-reserved-vm-instances (2024-08-22 05:37 PM)
@@ -636,7 +636,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         ☐ Disk types https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types (2024-08-23 04:58 PM)
         ☐ Understand Disk Storage billing https://learn.microsoft.com/en-us/azure/virtual-machines/disks-understand-billing (2024-08-22 05:37 PM)
         ☐ Disk redundancy options https://learn.microsoft.com/en-us/azure/virtual-machines/disks-redundancy (2024-11-21 05:32 AM)
-        ☐ What's new in Azure Disk Storage https://learn.microsoft.com/en-us/azure/virtual-machines/disks-whats-new (2024-11-11 11:00 PM)
+        ✘ What's new in Azure Disk Storage https://learn.microsoft.com/en-us/azure/virtual-machines/disks-whats-new (2024-11-11 11:00 PM) @cancelled
         ☐ Deploy an ultra disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-ultra-ssd (2024-10-24 10:02 PM)
         ☐ Deploy a premium SSD v2 https://learn.microsoft.com/en-us/azure/virtual-machines/disks-deploy-premium-v2 (2024-10-24 10:02 PM)
         ☐ Deploy a ZRS disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-deploy-zrs (2024-10-17 05:31 AM)
@@ -708,7 +708,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                 ☐ CLI and PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/disks-performance-tiers (2024-08-23 04:58 PM)
                 ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/disks-performance-tiers-portal (2024-08-23 04:58 PM)
             ☐ Enable write accelerator https://learn.microsoft.com/en-us/azure/virtual-machines/how-to-enable-write-accelerator (2024-08-22 05:37 PM)
-            ☐ Benchmark a disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-benchmarks (2024-08-23 04:58 PM)
+            ✘ Benchmark a disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-benchmarks (2024-08-23 04:58 PM) @cancelled
         ☐ Scalability targets for disks https://learn.microsoft.com/en-us/azure/virtual-machines/disks-scalability-targets (2024-12-09 11:00 PM)
         Backup and data protection:
             ☐ Create incremental snapshots https://learn.microsoft.com/en-us/azure/virtual-machines/disks-incremental-snapshots (2024-12-09 11:00 PM)
@@ -766,10 +766,10 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         Add a data disk:
             Linux:
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/add-disk (2024-12-09 11:00 PM)
-                ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal (2024-08-22 05:37 PM)
+                ✘ Azure portal https://learn.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal (2024-08-22 05:37 PM) @cancelled
             Windows:
                 ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/attach-disk-ps (2024-12-09 11:00 PM)
-                ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-machines/windows/attach-managed-disk-portal (2024-08-22 05:37 PM)
+                ✘ Azure portal https://learn.microsoft.com/en-us/azure/virtual-machines/windows/attach-managed-disk-portal (2024-08-22 05:37 PM) @cancelled
                 ☐ Change temp disk drive letter https://learn.microsoft.com/en-us/azure/virtual-machines/windows/change-drive-letter (2024-08-22 05:37 PM)
         Detach a disk:
             ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/detach-disk (2024-12-09 11:00 PM)
@@ -805,15 +805,15 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ Azure CLI https://learn.microsoft.com/azure/virtual-network/tutorial-filter-network-traffic-cli?toc=/azure/virtual-machines/toc.json (2024-10-24 05:04 PM)
         ☐ Network security group test https://learn.microsoft.com/en-us/azure/virtual-machines/network-security-group-test (2024-09-22 11:15 AM)
         Create VM - static public IP:
-            ☐ Azure portal https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-portal?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM)
-            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-ps?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM)
-            ☐ Azure CLI https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM)
+            ✘ Azure portal https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-portal?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM) @cancelled
+            ✘ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-ps?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM) @cancelled
+            ✘ Azure CLI https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM) @cancelled
             ☐ Add public IP address to existing VM https://learn.microsoft.com/azure/virtual-network/ip-services/associate-public-ip-address-vm?toc=/azure/virtual-machines/toc.json (2024-12-12 11:04 PM)
             ☐ Dissociate public IP address from a VM https://learn.microsoft.com/azure/virtual-network/ip-services/remove-public-ip-address-vm?toc=/azure/virtual-machines/toc.json (2024-12-12 11:04 PM)
         Create VM - static private IP:
-            ☐ Azure portal https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-pportal?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM)
-            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-ps?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM)
-            ☐ Azure CLI https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM)
+            ✘ Azure portal https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-pportal?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM) @cancelled
+            ✘ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-ps?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM) @cancelled
+            ✘ Azure CLI https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM) @cancelled
         Create VM - multiple IPs:
             ☐ Azure portal https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-multiple-ip-addresses-portal?toc=/azure/virtual-machines/toc.json (2024-12-12 11:04 PM)
             ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-multiple-ip-addresses-powershell?toc=/azure/virtual-machines/toc.json (2024-08-22 07:16 PM)
@@ -834,7 +834,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ CLI https://learn.microsoft.com/azure/ddos-protection/manage-ddos-protection-cli?toc=/azure/virtual-machines/toc.json (2024-08-02 05:06 PM)
             ☐ ARM template https://learn.microsoft.com/azure/ddos-protection/manage-ddos-protection-template?toc=/azure/virtual-machines/toc.json (2024-11-24 12:10 PM)
         ☐ Migrate a virtual machine public IP address https://learn.microsoft.com/azure/virtual-network/nat-gateway/tutorial-migrate-ilip-nat?toc=/azure/virtual-machines/toc.json (2024-10-22 05:31 AM)
-        ☐ Assign public IP address https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM)
+        ✘ Assign public IP address https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-09-09 10:27 PM) @cancelled
         ☐ Use a custom domain name https://learn.microsoft.com/en-us/azure/virtual-machines/custom-domain (2024-08-22 05:37 PM)
         Use multiple NICs:
             ☐ Linux using CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/multiple-nics (2024-08-22 05:37 PM)
@@ -905,7 +905,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         ☐ Automatic OS image upgrade https://learn.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-automatic-upgrade?toc=/azure/virtual-machines/toc.json (2024-10-17 05:02 PM)
         ☐ Windows Server in-place upgrade https://learn.microsoft.com/en-us/azure/virtual-machines/windows-in-place-upgrade (2024-11-06 11:00 PM)
         Automatic VM guest patching:
-            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/automatic-vm-guest-patching (2024-11-19 06:02 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/automatic-vm-guest-patching (2024-11-19 06:02 PM) @cancelled
             ☐ Hotpatch https://learn.microsoft.com/azure/automanage/automanage-hotpatch?toc=/azure/virtual-machines/toc.json (2024-12-05 06:30 PM)
         ☐ Automatic extension upgrade https://learn.microsoft.com/en-us/azure/virtual-machines/automatic-extension-upgrade (2024-12-20 12:05 PM)
         ☐ Update Management in Azure Automation https://learn.microsoft.com/azure/automation/update-management/overview?toc=/azure/virtual-machines/toc.json (2024-10-18 05:04 PM)
@@ -997,7 +997,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ Support matrix https://learn.microsoft.com/en-us/azure/virtual-machines/concepts-restore-points (2024-10-15 11:15 AM)
             ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/virtual-machines/restore-point-troubleshooting (2024-08-22 05:37 PM)
         Move and migrate VMs:
-            ☐ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2024-10-29 05:03 PM)
+            ✘ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2024-10-29 05:03 PM) @cancelled
             ☐ Change subscription for Marketplace VMs https://learn.microsoft.com/en-us/azure/virtual-machines/azure-cli-change-subscription-marketplace (2024-08-22 05:37 PM)
             ☐ Move VMs to another region https://learn.microsoft.com/azure/site-recovery/azure-to-azure-tutorial-migrate?toc=/azure/virtual-machines/toc.json (2024-08-02 11:27 AM)
             ✘ Move to an availability zone https://learn.microsoft.com/azure/site-recovery/move-azure-vms-avset-azone?toc=/azure/virtual-machines/toc.json (2024-11-20 11:04 PM) @cancelled
@@ -1056,14 +1056,14 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 
             ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2024-12-27 02:31 AM) @cancelled
         ☐ Ubuntu https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/canonical/ubuntu-pro-in-place-upgrade (2024-12-27 12:21 PM)
-            ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-hybrid-benefit-linux (2024-12-27 06:02 PM)
+            ✘ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-hybrid-benefit-linux (2024-12-27 06:02 PM) @cancelled
             ☐ Change disk types https://learn.microsoft.com/en-us/azure/virtual-machines/disks-convert-types (2024-12-26 11:00 PM)
         ✘ Virtual machine network throughput https://learn.microsoft.com/azure/virtual-network/virtual-machine-network-throughput?toc=/azure/virtual-machines/toc.json (2024-12-27 12:22 PM) @cancelled
 
 
 ---
 
-            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2024-12-30 12:31 PM)
+            ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2024-12-30 12:31 PM) @cancelled
             ✘ Migrate AWS VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2024-12-30 12:11 PM) @cancelled
 
 
@@ -1072,10 +1072,34 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         ☐ Overview https://learn.microsoft.com/azure/virtual-network/network-overview?toc=/azure/virtual-machines/toc.json (2024-12-31 12:14 PM)
         ☐ Best practices https://learn.microsoft.com/azure/virtual-network/concepts-and-best-practices (2024-12-31 12:14 PM)
         ☐ Virtual machine network throughput https://learn.microsoft.com/azure/virtual-network/virtual-machine-network-throughput?toc=/azure/virtual-machines/toc.json (2024-12-31 12:14 PM)
-            ☐ Migrate AWS VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2024-12-31 12:14 PM)
+            ✘ Migrate AWS VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2024-12-31 12:14 PM) @cancelled
 
 
 ---
 
                 ✔ REST with SSH https://learn.microsoft.com/rest/api/compute/virtual-machines/create-or-update?tabs=HTTP#create-a-vm-with-ssh-authentication @done(25-01-02 20:03)
+
+
+---
+
+            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-07 12:30 PM)
+                    ☐ Ubuntu https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-ubuntu (2025-01-06 05:30 AM)
+            ☐ Handle Spot Evictions https://learn.microsoft.com/azure/architecture/guide/spot/spot-eviction (2025-01-06 06:30 PM)
+            ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-hybrid-benefit-linux (2025-01-02 06:01 PM)
+            ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hybrid-use-benefit-licensing (2025-01-02 06:01 PM)
+                ☐ REST with SSH https://learn.microsoft.com/rest/api/compute/virtual-machines/create-or-update?tabs=HTTP#create-a-vm-with-ssh-authentication (2024-12-31 11:06 PM)
+        ☐ What's new in Azure Disk Storage https://learn.microsoft.com/en-us/azure/virtual-machines/disks-whats-new (2025-01-02 11:03 PM)
+            ☐ Benchmark a disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-benchmarks (2025-01-07 06:04 PM)
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal (2025-01-07 06:04 PM)
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-machines/windows/attach-managed-disk-portal (2025-01-07 06:04 PM)
+            ☐ Azure portal https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-portal?toc=/azure/virtual-machines/toc.json (2024-11-26 05:33 AM)
+            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-ps?toc=/azure/virtual-machines/toc.json (2024-11-26 05:33 AM)
+            ☐ Azure CLI https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-11-26 05:33 AM)
+            ☐ Azure portal https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-pportal?toc=/azure/virtual-machines/toc.json (2024-12-12 11:04 PM)
+            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-ps?toc=/azure/virtual-machines/toc.json (2024-12-12 11:04 PM)
+            ☐ Azure CLI https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-12-12 11:04 PM)
+        ☐ Assign public IP address https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-11-26 05:33 AM)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/automatic-vm-guest-patching (2025-01-07 05:32 AM)
+            ☐ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2025-01-02 11:04 PM)
+            ☐ Migrate AWS VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2025-01-03 12:39 PM)
 

@@ -107,7 +107,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
                 ☐ AMQP request-response-based operations https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-request-response (2024-03-05 06:00 AM)
                 ☐ AMQP errors https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-troubleshoot (2024-05-07 05:35 AM)
             ☐ Build a multi-tier Service Bus application https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-multi-tier-app-using-service-bus-queues (2024-12-17 06:04 PM)
-            ☐ Test locally with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator (2024-12-03 05:33 AM)
+            ✘ Test locally with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator (2024-12-03 05:33 AM) @cancelled
         Migrate:
             ☐ Migrate from ActiveMQ to Azure Service Bus https://learn.microsoft.com/en-us/azure/service-bus-messaging/migrate-jms-activemq-to-servicebus (2024-08-02 10:04 PM)
             ☐ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management (2024-12-17 06:04 PM)
@@ -147,7 +147,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
             ☐ Audit minimum required TLS version https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-audit-minimum-version (2024-08-02 10:04 PM)
             ☐ Configure TLS version for client https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-configure-client-version (2024-08-02 10:04 PM)
         Troubleshoot:
-            ☐ Troubleshooting guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-troubleshooting-guide (2024-11-22 06:03 PM)
+            ✘ Troubleshooting guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-troubleshooting-guide (2024-11-22 06:03 PM) @cancelled
             ☐ SDK troubleshooting guide https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/servicebus/Azure.Messaging.ServiceBus/TROUBLESHOOTING.md
             ☐ Resource Manager exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-exceptions (2024-03-20 05:38 AM)
             ☐ Service Bus exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions-latest (2024-12-19 11:02 PM)
@@ -265,12 +265,20 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
 
 ---
 
-            ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2024-12-30 12:07 PM)
-            ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2024-12-30 12:07 PM)
+            ✘ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2024-12-30 12:07 PM) @cancelled
+            ✘ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2024-12-30 12:07 PM) @cancelled
 
 
 ---
 
         ☐ Queues, topics, and subscriptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions (2024-12-30 06:35 PM)
             ☐ Migrate from Standard to Premium namespaces https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-standard-premium (2024-12-30 06:35 PM)
+
+
+---
+
+            ☐ Test locally with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator (2025-01-07 06:03 PM)
+            ☐ Troubleshooting guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-troubleshooting-guide (2025-01-02 11:04 PM)
+            ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-07 12:10 PM)
+            ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-07 12:10 PM)
 

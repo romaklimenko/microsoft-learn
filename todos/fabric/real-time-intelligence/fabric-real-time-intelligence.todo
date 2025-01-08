@@ -182,7 +182,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ .create-merge tables command https://learn.microsoft.com/kusto/management/create-merge-tables-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .drop table command https://learn.microsoft.com/kusto/management/drop-table-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .rename table command https://learn.microsoft.com/kusto/management/rename-table-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                        ☐ .show tables command https://learn.microsoft.com/kusto/management/show-tables-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                        ✘ .show tables command https://learn.microsoft.com/kusto/management/show-tables-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ☐ .undo drop table command https://learn.microsoft.com/kusto/management/undo-drop-table-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .show table details command https://learn.microsoft.com/kusto/management/show-table-details-command?view=microsoft-fabric&preserve-view=true (2024-10-30 11:08 AM)
                         ☐ .show table schema command https://learn.microsoft.com/kusto/management/show-table-schema-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -589,7 +589,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ Function types https://learn.microsoft.com/kusto/query/functions/index?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ User-defined functions https://learn.microsoft.com/kusto/query/functions/user-defined-functions?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             Functions library:
-                ☐ List of functions https://learn.microsoft.com/kusto/functions-library/functions-library?view=microsoft-fabric&preserve-view=true (2024-12-17 06:02 PM)
+                ✘ List of functions https://learn.microsoft.com/kusto/functions-library/functions-library?view=microsoft-fabric&preserve-view=true (2024-12-17 06:02 PM) @cancelled
                 ☐ bartlett_test_fl() https://learn.microsoft.com/kusto/functions-library/bartlett-test-fl?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ binomial_test_fl() https://learn.microsoft.com/kusto/functions-library/binomial-test-fl?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ comb_fl() https://learn.microsoft.com/kusto/functions-library/comb-fl?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -668,7 +668,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ evaluate operator https://learn.microsoft.com/kusto/query/evaluate-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ extend operator https://learn.microsoft.com/kusto/query/extend-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ externaldata operator https://learn.microsoft.com/kusto/query/externaldata-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ facet operator https://learn.microsoft.com/kusto/query/facet-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ facet operator https://learn.microsoft.com/kusto/query/facet-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ find operator https://learn.microsoft.com/kusto/query/find-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ fork operator https://learn.microsoft.com/kusto/query/fork-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ getschema operator https://learn.microsoft.com/kusto/query/getschema-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -897,7 +897,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ exp2() https://learn.microsoft.com/kusto/query/exp2-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ extent_id() https://learn.microsoft.com/kusto/query/extent-id-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ extent_tags() https://learn.microsoft.com/kusto/query/extent-tags-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ extract() https://learn.microsoft.com/kusto/query/extract-function?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
+            ✘ extract() https://learn.microsoft.com/kusto/query/extract-function?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM) @cancelled
             ☐ extract_all() https://learn.microsoft.com/kusto/query/extract-all-function?view=microsoft-fabric&preserve-view=true (2024-09-02 11:04 AM)
             ☐ extract_json() https://learn.microsoft.com/kusto/query/extract-json-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ format_bytes() https://learn.microsoft.com/kusto/query/format-bytes-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1342,4 +1342,12 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
 
             ✔ Query results cache https://learn.microsoft.com/kusto/query/query-results-cache?view=microsoft-fabric&preserve-view=true (2025-01-01 06:00 PM) @done(25-01-02 20:11)
             ✔ parse_json() https://learn.microsoft.com/kusto/query/parse-json-function?view=microsoft-fabric&preserve-view=true (2025-01-01 06:00 PM) @done(25-01-02 20:11)
+
+
+---
+
+                        ☐ .show tables command https://learn.microsoft.com/kusto/management/show-tables-command?view=microsoft-fabric&preserve-view=true (2025-01-06 06:01 PM)
+                ☐ List of functions https://learn.microsoft.com/kusto/functions-library/functions-library?view=microsoft-fabric&preserve-view=true (2025-01-05 12:05 PM)
+            ☐ facet operator https://learn.microsoft.com/kusto/query/facet-operator?view=microsoft-fabric&preserve-view=true (2025-01-06 06:01 PM)
+            ☐ extract() https://learn.microsoft.com/kusto/query/extract-function?view=microsoft-fabric&preserve-view=true (2025-01-06 12:03 PM)
 

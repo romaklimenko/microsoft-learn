@@ -149,7 +149,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
             ☐ Overview https://learn.microsoft.com/en-us/graph/applications-concept-overview (2024-03-27 04:20 AM)
             Applications and service principals:
                 ☐ Manage applications https://learn.microsoft.com/en-us/graph/tutorial-applications-basics (2024-12-17 05:17 PM)
-                ☐ Validation differences for signInAudience https://learn.microsoft.com/azure/active-directory/develop/supported-accounts-validation?context=graph/context (2024-09-04 04:58 PM)
+                ✘ Validation differences for signInAudience https://learn.microsoft.com/azure/active-directory/develop/supported-accounts-validation?context=graph/context (2024-09-04 04:58 PM) @cancelled
                 ☐ Grant or revoke permissions https://learn.microsoft.com/en-us/graph/permissions-grant-via-msgraph (2024-06-12 02:56 AM)
                 ☐ Add a certificate to an app https://learn.microsoft.com/en-us/graph/applications-how-to-add-certificate (2024-09-19 02:21 AM)
                 ☐ Automate SAML-based SSO configuration https://learn.microsoft.com/en-us/graph/application-saml-sso-configure-api (2024-08-07 03:54 AM)
@@ -420,7 +420,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
                 ☐ Send proactive messages with a bot https://learn.microsoft.com/microsoftteams/platform/graph-api/proactive-bots-and-messages/graph-proactive-bots-and-messages?context=graph/context (2024-12-11 08:59 AM)
             Calls and online meetings:
                 Call records https://learn.microsoft.com/en-us/graph/cloud-communications-callrecords (2024-11-08 02:44 AM):
-                    ☐ FAQ https://learn.microsoft.com/en-us/graph/callrecords-api-faq (2024-11-08 02:44 AM)
+                    ✘ FAQ https://learn.microsoft.com/en-us/graph/callrecords-api-faq (2024-11-08 02:44 AM) @cancelled
                 ☐ Supported call types https://learn.microsoft.com/en-us/graph/cloud-communications-calls (2024-11-08 02:44 AM)
                 ☐ Create or join online meetings https://learn.microsoft.com/en-us/graph/cloud-communications-online-meetings (2024-11-08 02:44 AM)
                 ☐ Choose an online meeting API https://learn.microsoft.com/en-us/graph/choose-online-meeting-api (2024-11-08 02:44 AM)
@@ -579,7 +579,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
 
 ---
 
-        ☐ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2024-12-27 11:44 PM)
+        ✘ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2024-12-27 11:44 PM) @cancelled
             ☐ Overview https://learn.microsoft.com/graph/api/resources/groups-overview?context=graph/context (2024-12-27 11:44 PM)
             ☐ Basics https://learn.microsoft.com/en-us/graph/auth/auth-concepts (2024-12-27 11:44 PM)
             ☐ Get access on behalf of a user https://learn.microsoft.com/en-us/graph/auth-v2-user (2024-12-27 11:44 PM)
@@ -590,11 +590,20 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
 
 ---
 
-                ☐ Microsoft Entra built-in roles https://learn.microsoft.com/entra/identity/role-based-access-control/permissions-reference?toc=/graph/toc.json (2024-12-29 12:10 PM)
+                ✘ Microsoft Entra built-in roles https://learn.microsoft.com/entra/identity/role-based-access-control/permissions-reference?toc=/graph/toc.json (2024-12-29 12:10 PM) @cancelled
 
 
 ---
 
-                ☐ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2024-12-31 12:26 AM)
+                ✘ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2024-12-31 12:26 AM) @cancelled
                 ☐ Use filter https://learn.microsoft.com/en-us/graph/filter-query-parameter (2024-12-31 12:26 AM)
+
+
+---
+
+        ☐ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-06 11:15 PM)
+                ☐ Validation differences for signInAudience https://learn.microsoft.com/azure/active-directory/develop/supported-accounts-validation?context=graph/context (2025-01-07 06:01 PM)
+                    ☐ FAQ https://learn.microsoft.com/en-us/graph/callrecords-api-faq (2025-01-04 01:14 AM)
+                ☐ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2025-01-06 11:15 PM)
+                ☐ Microsoft Entra built-in roles https://learn.microsoft.com/entra/identity/role-based-access-control/permissions-reference?toc=/graph/toc.json (2025-01-03 10:59 PM)
 

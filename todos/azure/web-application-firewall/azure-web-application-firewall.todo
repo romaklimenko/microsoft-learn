@@ -20,14 +20,14 @@ Web Application Firewall documentation | Microsoft Learn:
             ☐ Configure WAF policy - portal https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal (2024-08-02 11:27 AM)
     Concepts:
         Application Gateway:
-            ☐ Managed rules https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules (2024-10-30 07:28 PM)
+            ✘ Managed rules https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules (2024-10-30 07:28 PM) @cancelled
             ☐ Custom rules overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/custom-waf-rules-overview (2024-12-11 11:02 PM)
             ☐ Geomatch custom rules https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/geomatch-custom-rules (2024-11-19 11:02 PM)
             ☐ Exclusion lists https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-configuration (2024-08-02 11:27 AM)
             ☐ Request size limits https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-request-size-limits (2024-08-02 11:27 AM)
             ☐ WAF Policy overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/policy-overview (2024-09-06 10:05 PM)
             ☐ Bot protection overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/bot-protection-overview (2024-10-30 07:28 PM)
-            ☐ WAF engine https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-engine (2024-08-02 11:27 AM)
+            ✘ WAF engine https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-engine (2024-08-02 11:27 AM) @cancelled
             ☐ Sensitive Data Protection https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-sensitive-data-protection (2024-08-02 11:27 AM)
             ☐ Rate limiting https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/rate-limiting-overview (2024-08-02 11:27 AM)
             ☐ Best practices https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/best-practices (2024-08-02 11:27 AM)
@@ -96,7 +96,7 @@ Web Application Firewall documentation | Microsoft Learn:
     Reference:
         Managed rules:
             ☐ Front Door https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs (2024-10-24 10:04 PM)
-            ☐ Application Gateway https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules (2024-10-30 07:28 PM)
+            ✘ Application Gateway https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules (2024-10-30 07:28 PM) @cancelled
         Azure CLI:
             ☐ Front Door https://learn.microsoft.com/cli/azure/network/front-door/waf-policy (2024-10-08 10:05 PM)
             ☐ Application Gateway https://learn.microsoft.com/cli/azure/network/application-gateway (2024-11-11 10:58 PM)
@@ -123,4 +123,11 @@ Web Application Firewall documentation | Microsoft Learn:
 ---
 
         ✔ Use geomatch custom rules to enhance network security https://learn.microsoft.com/en-us/azure/web-application-firewall/geomatch-custom-rules-examples (2024-12-26 06:03 PM) @done(24-12-27 17:54)
+
+
+---
+
+            ☐ Managed rules https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules (2025-01-06 11:02 PM)
+            ☐ WAF engine https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-engine (2025-01-06 11:02 PM)
+            ☐ Application Gateway https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules (2025-01-06 11:02 PM)
 

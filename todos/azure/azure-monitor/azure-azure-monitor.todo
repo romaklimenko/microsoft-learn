@@ -28,39 +28,39 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 Automatic instrumentation:
                     ☐ Autoinstrumentation supported scenarios https://learn.microsoft.com/en-us/azure/azure-monitor/app/codeless-overview (2024-10-23 05:32 AM)
                     ☐ Azure VM and Virtual Machine Scale Sets https://learn.microsoft.com/en-us/azure/azure-monitor/app/azure-vm-vmss-apps (2024-09-11 04:50 PM)
-                    ☐ Azure App Service https://learn.microsoft.com/en-us/azure/azure-monitor/app/codeless-app-service (2024-12-10 11:03 PM)
+                    ✘ Azure App Service https://learn.microsoft.com/en-us/azure/azure-monitor/app/codeless-app-service (2024-12-10 11:03 PM) @cancelled
                     ☐ Azure Functions https://learn.microsoft.com/en-us/azure/azure-monitor/app/monitor-functions (2024-10-11 04:59 PM)
                     ☐ Azure Kubernetes Service https://learn.microsoft.com/en-us/azure/azure-monitor/app/kubernetes-codeless (2024-09-11 04:50 PM)
                     ☐ ASP.NET on-premises agent https://learn.microsoft.com/en-us/azure/azure-monitor/app/application-insights-asp-net-agent (2024-10-11 04:59 PM)
                 OpenTelemetry Distro:
                     ☐ Get started with OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-enable (2024-11-01 05:03 PM)
-                    ☐ Configure OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-configuration (2024-11-11 11:00 PM)
-                    ☐ Add and modify OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-add-modify (2024-12-12 11:02 PM)
+                    ✘ Configure OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-configuration (2024-11-11 11:00 PM) @cancelled
+                    ✘ Add and modify OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-add-modify (2024-12-12 11:02 PM) @cancelled
                     ☐ Filter OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-filter (2024-12-12 11:02 PM)
                     ☐ Help, support, and feedback https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-help-support-feedback (2024-12-10 11:03 PM)
                     .NET (supplemental):
-                        ☐ Migrate from Application Insights .NET SDKs to OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-dotnet-migrate (2024-10-30 09:59 PM)
+                        ✘ Migrate from Application Insights .NET SDKs to OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-dotnet-migrate (2024-10-30 09:59 PM) @cancelled
                     Java (supplemental):
                         ☐ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2024-11-14 06:02 PM)
-                        ☐ Profiler https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-profiler (2024-12-10 11:03 PM)
+                        ✘ Profiler https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-profiler (2024-12-10 11:03 PM) @cancelled
                         ☐ Get started (supplemental) https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-get-started-supplemental (2024-11-01 05:03 PM)
                         Configuration:
-                            ☐ General https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-config (2024-11-14 06:02 PM)
-                            ☐ JMX metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-jmx-metrics-configuration (2024-09-11 04:50 PM)
-                            ☐ Sampling overrides https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-sampling-overrides (2024-12-20 10:59 PM)
+                            ✘ General https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-config (2024-11-14 06:02 PM) @cancelled
+                            ✘ JMX metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-jmx-metrics-configuration (2024-09-11 04:50 PM) @cancelled
+                            ✘ Sampling overrides https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-sampling-overrides (2024-12-20 10:59 PM) @cancelled
                             Telemetry processors:
-                                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors (2024-09-11 04:50 PM)
-                                ☐ Examples https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors-examples (2024-09-11 04:50 PM)
+                                ✘ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors (2024-09-11 04:50 PM) @cancelled
+                                ✘ Examples https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors-examples (2024-09-11 04:50 PM) @cancelled
                         ☐ Upgrade from 2.x https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-upgrade-from-2x (2024-11-01 05:03 PM)
                     Node.js (supplemental):
                         ☐ Upgrade from SDK 2.X https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-nodejs-migrate (2024-09-30 05:01 PM)
                     Python (supplemental):
-                        ☐ Migrate from Opencensus https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-python-opencensus-migrate (2024-10-06 11:07 AM)
+                        ✘ Migrate from Opencensus https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-python-opencensus-migrate (2024-10-06 11:07 AM) @cancelled
                 Client-side JavaScript SDK:
                     ☐ Get Started with JavaScript SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk (2024-11-07 10:59 PM)
                     ✘ Configure JavaScript SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk-configuration (2024-09-11 04:50 PM) @cancelled
-                    ☐ Enable React, React Native, Angular https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-framework-extensions (2024-09-11 04:50 PM)
-                    ☐ Enable Click Analytics https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-feature-extensions (2024-09-11 04:50 PM)
+                    ✘ Enable React, React Native, Angular https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-framework-extensions (2024-09-11 04:50 PM) @cancelled
+                    ✘ Enable Click Analytics https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-feature-extensions (2024-09-11 04:50 PM) @cancelled
                     ☐ Upgrade https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk-upgrade (2024-09-11 04:50 PM)
                     ☐ Troubleshooting https://learn.microsoft.com/troubleshoot/azure/azure-monitor/app-insights/javascript-sdk-troubleshooting (2024-06-24 09:01 AM)
                 Application Insights SDK (Classic API):
@@ -77,15 +77,15 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                             ☐ Track custom operations in .NET SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/custom-operations-tracking (2024-11-07 10:59 PM)
                             ☐ Performance counters https://learn.microsoft.com/en-us/azure/azure-monitor/app/performance-counters (2024-09-11 04:50 PM)
                             ☐ Exceptions https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-exceptions (2024-09-17 05:01 PM)
-                            ☐ ASP.NET Dependencies https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-dependencies (2024-12-10 11:03 PM)
+                            ✘ ASP.NET Dependencies https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-dependencies (2024-12-10 11:03 PM) @cancelled
                     ☐ Node.js https://learn.microsoft.com/en-us/azure/azure-monitor/app/nodejs (2024-09-11 04:50 PM)
                     ☐ Python OpenCensus (deprecated) https://learn.microsoft.com/previous-versions/azure/azure-monitor/app/opencensus-python (2024-10-07 10:33 PM)
                     Advanced SDK topics:
                         ☐ Connection strings https://learn.microsoft.com/en-us/azure/azure-monitor/app/sdk-connection-string (2024-12-10 11:03 PM)
                         ☐ Sampling https://learn.microsoft.com/en-us/azure/azure-monitor/app/sampling-classic-api (2024-09-11 04:50 PM)
-                        ☐ Application Insights API summary https://learn.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics (2024-10-08 05:00 PM)
+                        ✘ Application Insights API summary https://learn.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics (2024-10-08 05:00 PM) @cancelled
                         ☐ Log traces https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-trace-logs (2024-09-11 04:50 PM)
-                        ☐ TelemetryProcessors https://learn.microsoft.com/en-us/azure/azure-monitor/app/api-filtering-sampling (2024-09-11 04:50 PM)
+                        ✘ TelemetryProcessors https://learn.microsoft.com/en-us/azure/azure-monitor/app/api-filtering-sampling (2024-09-11 04:50 PM) @cancelled
                         ☐ Distributed tracing and telemetry correlation https://learn.microsoft.com/en-us/azure/azure-monitor/app/distributed-trace-data (2024-11-07 10:59 PM)
                     ☐ SDK support policy https://learn.microsoft.com/en-us/azure/azure-monitor/app/sdk-support-guidance (2024-09-11 04:50 PM)
                 Upgrade from classic resources and iKey:
@@ -100,7 +100,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Availability https://learn.microsoft.com/en-us/azure/azure-monitor/app/availability (2024-12-13 05:33 AM)
                 ☐ Live Metric stream https://learn.microsoft.com/en-us/azure/azure-monitor/app/live-stream (2024-12-10 11:03 PM)
                 ☐ Usage (user behavior analytics) https://learn.microsoft.com/en-us/azure/azure-monitor/app/usage (2024-09-11 04:50 PM)
-                ☐ Release and work item insights https://learn.microsoft.com/en-us/azure/azure-monitor/app/release-and-work-item-insights (2024-10-30 09:59 PM)
+                ✘ Release and work item insights https://learn.microsoft.com/en-us/azure/azure-monitor/app/release-and-work-item-insights (2024-10-30 09:59 PM) @cancelled
                 ☐ Transaction Search and Diagnostics https://learn.microsoft.com/en-us/azure/azure-monitor/app/transaction-search-and-diagnostics (2024-12-10 11:03 PM)
             Code analysis:
                 Code Optimizations:
@@ -216,7 +216,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-authentication (2024-09-22 11:15 AM)
             Configure Prometheus (metrics):
                 Customize data collection:
-                    ☐ Default configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-default (2024-11-29 11:00 PM)
+                    ✘ Default configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-default (2024-11-29 11:00 PM) @cancelled
                     ☐ Custom configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration (2024-12-04 05:31 AM)
                     ☐ Configure collection using Service and Pod Monitor Custom Resources https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-crd (2024-11-18 10:59 PM)
                     ☐ Create and validate custom scrape config https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-validate (2024-09-11 04:50 PM)
@@ -365,13 +365,13 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                         ☐ Windows Firewall logs https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-firewall-logs (2024-11-14 11:04 PM)
                         ☐ Configure a syslog forwarder https://learn.microsoft.com/azure/sentinel/forward-syslog-monitor-agent (2024-11-28 05:37 AM)
                     ☐ Log Analytics gateway https://learn.microsoft.com/en-us/azure/azure-monitor/agents/gateway (2024-11-14 11:04 PM)
-                    ☐ Send data to Event Hubs and Storage https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-send-data-to-event-hubs-and-storage (2024-12-12 11:02 PM)
+                    ✘ Send data to Event Hubs and Storage https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-send-data-to-event-hubs-and-storage (2024-12-12 11:02 PM) @cancelled
                 ☐ Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-health (2024-11-14 11:04 PM)
                 ☐ Private link https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-private-link (2024-11-19 11:01 PM)
                 Migrate from Log Analytics Agent:
-                    ☐ Migration guidance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration (2024-12-17 12:06 PM)
-                    ☐ AMA migration helper workbook https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-helper-workbook (2024-11-14 11:04 PM)
-                    ☐ DCR Config Generator https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-data-collection-rule-generator (2024-11-14 11:04 PM)
+                    ✘ Migration guidance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration (2024-12-17 12:06 PM) @cancelled
+                    ✘ AMA migration helper workbook https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-helper-workbook (2024-11-14 11:04 PM) @cancelled
+                    ✘ DCR Config Generator https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-data-collection-rule-generator (2024-11-14 11:04 PM) @cancelled
                     ☐ MMA removal tool https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-mma-removal-tool (2024-11-14 11:04 PM)
                     ☐ AMA data field differences from MMA https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-field-differences (2024-11-14 11:04 PM)
                     ☐ Migration custom text log tables https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-custom-text-log-migration (2024-11-14 11:04 PM)
@@ -456,7 +456,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Prometheus remote-write from virtual machines https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-remote-write-virtual-machines (2024-12-23 05:59 PM)
                 Azure Monitor workspace:
                     ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-overview (2024-10-28 05:03 PM)
-                    ☐ Manage https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-manage (2024-11-20 06:02 PM)
+                    ✘ Manage https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-manage (2024-11-20 06:02 PM) @cancelled
                     ☐ Monitor metrics ingestion limits https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-monitor-ingest-limits (2024-10-28 05:03 PM)
                     ☐ Best practices for scaling Azure Monitor workspaces https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-scaling-best-practice (2024-10-30 09:59 PM)
                     ☐ Private endpoints for Azure Monitor workspaces https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-private-endpoint (2024-09-11 04:50 PM)
@@ -464,7 +464,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Alerting and rule groups https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-rule-groups (2024-12-04 05:31 AM)
                 Query Prometheus metrics:
                     Query using Grafana:
-                        ☐ Configure Grafana with managed system identity https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-grafana (2024-09-11 04:50 PM)
+                        ✘ Configure Grafana with managed system identity https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-grafana (2024-09-11 04:50 PM) @cancelled
                         ☐ Configure Grafana with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-self-managed-grafana-azure-active-directory (2024-10-09 04:58 PM)
                     ☐ Query using Azure workbooks https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-workbooks (2024-09-23 04:58 PM)
                     ☐ Query using the API and PromQL https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-api-promql (2024-11-04 06:00 PM)
@@ -578,7 +578,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Workbook Samples https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-samples (2024-09-17 05:01 PM)
             ☐ Troubleshoot insights https://learn.microsoft.com/en-us/azure/azure-monitor/insights/troubleshoot-workbooks (2024-10-09 04:58 PM)
             ☐ Dashboard Preview https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-dashboard-preview (2024-10-03 09:58 PM)
-        ☐ Grafana https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/grafana-plugin (2024-12-03 05:31 AM)
+        ✘ Grafana https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/grafana-plugin (2024-12-03 05:31 AM) @cancelled
         Dashboards:
             ☐ Dashboard using log data https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/tutorial-logs-dashboards (2024-09-11 04:50 PM)
         ☐ Power BI https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-powerbi (2024-09-11 04:50 PM)
@@ -604,7 +604,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
         Log queries:
             ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-query-overview (2024-09-11 04:50 PM)
             ☐ Get started https://learn.microsoft.com/en-us/azure/azure-monitor/logs/get-started-queries (2024-09-11 04:50 PM)
-            ☐ KQL reference https://learn.microsoft.com/azure/data-explorer/kusto/query?toc=/azure/azure-monitor/toc.json (2024-08-20 02:54 PM)
+            ✘ KQL reference https://learn.microsoft.com/azure/data-explorer/kusto/query?toc=/azure/azure-monitor/toc.json (2024-08-20 02:54 PM) @cancelled
             ☐ Detect and analyze anomalies in log data https://learn.microsoft.com/en-us/azure/azure-monitor/logs/kql-machine-learning-azure-monitor (2024-09-11 04:50 PM)
             ☐ Analyze data in Azure Monitor Logs using a notebook https://learn.microsoft.com/en-us/azure/azure-monitor/logs/notebooks-azure-monitor-logs (2024-09-11 04:50 PM)
             ☐ Standard columns https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-standard-columns (2024-09-11 04:50 PM)
@@ -802,7 +802,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
 
 ---
 
-        ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-monitor/whats-new (2024-12-27 12:20 PM)
+        ✘ What's new? https://learn.microsoft.com/en-us/azure/azure-monitor/whats-new (2024-12-27 12:20 PM) @cancelled
                 ☐ Metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/metrics-overview (2024-12-27 12:20 PM)
             ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-overview (2024-12-27 12:20 PM)
             ☐ Choosing the type of alert rule https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-types (2024-12-27 12:20 PM)
@@ -831,7 +831,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
 
 ---
 
-                    ☐ Configure JavaScript SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk-configuration (2024-12-31 06:01 PM)
+                    ✘ Configure JavaScript SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk-configuration (2024-12-31 06:01 PM) @cancelled
                             ☐ ApplicationInsights.config https://learn.microsoft.com/en-us/azure/azure-monitor/app/configuration-with-applicationinsights-config (2024-12-31 06:01 PM)
                 ☐ Monitor network configuration https://learn.microsoft.com/azure/virtual-network/kubernetes-network-policies#monitor-and-visualize-network-configurations-with-azure-npm (2024-12-31 12:14 PM)
         ☐ Security best practices in Azure Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM)
@@ -844,4 +844,35 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ✔ Simple mode https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-simple-mode (2025-01-01 06:01 PM) @done(25-01-02 19:49)
         ✔ Supported metrics https://learn.microsoft.com/azure/azure-monitor/reference/metrics-index (2025-01-02 12:07 PM) @done(25-01-02 19:49)
             ✔ Supported resource log categories https://learn.microsoft.com/azure/azure-monitor/reference/logs-index (2025-01-02 12:07 PM) @done(25-01-02 19:49)
+
+
+---
+
+        ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-monitor/whats-new (2025-01-06 11:01 PM)
+                    ☐ Azure App Service https://learn.microsoft.com/en-us/azure/azure-monitor/app/codeless-app-service (2025-01-02 11:02 PM)
+                    ☐ Configure OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-configuration (2025-01-02 11:02 PM)
+                    ☐ Add and modify OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-add-modify (2025-01-02 11:02 PM)
+                        ☐ Migrate from Application Insights .NET SDKs to OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-dotnet-migrate (2025-01-02 11:02 PM)
+                        ☐ Profiler https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-profiler (2025-01-06 11:01 PM)
+                            ☐ General https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-config (2025-01-02 11:02 PM)
+                            ☐ JMX metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-jmx-metrics-configuration (2025-01-06 11:01 PM)
+                            ☐ Sampling overrides https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-sampling-overrides (2025-01-06 11:01 PM)
+                                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors (2025-01-06 11:01 PM)
+                                ☐ Examples https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors-examples (2025-01-06 11:01 PM)
+                        ☐ Migrate from Opencensus https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-python-opencensus-migrate (2025-01-07 06:02 PM)
+                    ☐ Configure JavaScript SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk-configuration (2025-01-07 06:02 PM)
+                    ☐ Enable React, React Native, Angular https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-framework-extensions (2025-01-07 06:02 PM)
+                    ☐ Enable Click Analytics https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-feature-extensions (2025-01-07 06:02 PM)
+                    ☐ Upgrade https://learn.microsoft.com/previous-versions/azure/azure-monitor/app/javascript-sdk-upgrade (2025-01-06 11:43 PM)
+                            ☐ ASP.NET Dependencies https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-dependencies (2025-01-06 11:01 PM)
+                        ☐ Application Insights API summary https://learn.microsoft.com/en-us/azure/azure-monitor/app/api-custom-events-metrics (2025-01-02 11:02 PM)
+                        ☐ TelemetryProcessors https://learn.microsoft.com/en-us/azure/azure-monitor/app/api-filtering-sampling (2025-01-06 11:01 PM)
+                ☐ Release and work item insights https://learn.microsoft.com/en-us/azure/azure-monitor/app/release-and-work-item-insights (2025-01-06 11:01 PM)
+                    ☐ Default configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-default (2025-01-06 11:01 PM)
+                    ☐ Send data to Event Hubs and Storage https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-send-data-to-event-hubs-and-storage (2025-01-06 05:31 AM)
+                    ☐ Migration guidance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration (2025-01-06 11:01 PM)
+                ☐ Connect Grafana to Azure Monitor Prometheus metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-grafana (2025-01-06 12:05 PM)
+                    ☐ Manage https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-manage (2025-01-06 12:05 PM)
+        ☐ Grafana https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/grafana-plugin (2025-01-06 12:05 PM)
+            ☐ KQL reference https://learn.microsoft.com/azure/data-explorer/kusto/query?toc=/azure/azure-monitor/toc.json (2025-01-06 06:01 PM)
 

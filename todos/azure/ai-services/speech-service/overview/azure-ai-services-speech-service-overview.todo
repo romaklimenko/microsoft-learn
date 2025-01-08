@@ -3,8 +3,8 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
     Overview:
         ☐ Speech service overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/overview (2024-11-19 06:01 PM)
         ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/speech-service/releasenotes (2024-11-12 06:06 PM)
-        ☐ Language and voice support https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support (2024-11-27 06:00 PM)
-        ☐ Region support https://learn.microsoft.com/en-us/azure/ai-services/speech-service/regions (2024-11-19 06:01 PM)
+        ✘ Language and voice support https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support (2024-11-27 06:00 PM) @cancelled
+        ✘ Region support https://learn.microsoft.com/en-us/azure/ai-services/speech-service/regions (2024-11-19 06:01 PM) @cancelled
         ☐ Pricing https://azure.microsoft.com/pricing/details/cognitive-services/speech-services/
         ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-services-quotas-and-limits (2024-12-16 06:00 PM)
         ☐ Speech Studio https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-studio-overview (2024-11-20 06:02 PM)
@@ -24,23 +24,23 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
             ☐ Part 3: Get batch transcription results https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription-get (2024-09-12 04:57 PM)
             ☐ Power automate batch transcription https://learn.microsoft.com/en-us/azure/ai-services/speech-service/power-automate-batch-transcription (2024-09-20 10:00 PM)
         Custom speech:
-            ☐ Custom speech overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-speech-overview (2024-09-16 11:09 AM)
+            ✘ Custom speech overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-speech-overview (2024-09-16 11:09 AM) @cancelled
             ✘ Fine-tune in the Azure AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-speech-ai-foundry-portal (2024-12-01 12:11 PM) @cancelled
             Create a custom speech model:
-                ☐ Part 1: Create a project https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-create-project (2024-09-19 09:59 PM)
+                ✘ Part 1: Create a project https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-create-project (2024-09-19 09:59 PM) @cancelled
                 ☐ Part 2: Upload training and testing datasets https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-upload-data (2024-09-19 09:59 PM)
                 ☐ Part 3: Test recognition quality https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-inspect-data (2024-09-19 09:59 PM)
                 ☐ Part 4: Test model quantitatively https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data (2024-09-19 09:59 PM)
-                ☐ Part 5: Train a model https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-train-model (2024-09-19 09:59 PM)
+                ✘ Part 5: Train a model https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-train-model (2024-09-19 09:59 PM) @cancelled
                 ☐ Part 6: Deploy a model https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-deploy-model (2024-09-20 10:00 PM)
             Custom speech datasets:
-                ☐ Training and testing datasets https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-test-and-train (2024-09-19 09:59 PM)
+                ✘ Training and testing datasets https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-test-and-train (2024-09-19 09:59 PM) @cancelled
                 ☐ Human-labeled transcripts with audio https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-human-labeled-transcriptions (2024-09-19 09:59 PM)
                 ☐ Structured text phonetic pronunciation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/customize-pronunciation (2024-09-16 11:09 AM)
                 ☐ Online transcription editor https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-transcription-editor (2024-09-19 09:59 PM)
                 ☐ Display text format training data https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-display-text-format (2024-09-19 09:59 PM)
             ☐ Custom speech model lifecycle https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-model-and-endpoint-lifecycle (2024-09-20 10:00 PM)
-        ☐ How to use Pronunciation Assessment https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-pronunciation-assessment (2024-09-20 05:36 AM)
+        ✘ How to use Pronunciation Assessment https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-pronunciation-assessment (2024-09-20 05:36 AM) @cancelled
         ☐ Improve recognition with phrase list https://learn.microsoft.com/en-us/azure/ai-services/speech-service/improve-accuracy-phrase-list (2024-09-20 05:36 AM)
         ☐ Display text formatting https://learn.microsoft.com/en-us/azure/ai-services/speech-service/display-text-format (2024-09-16 11:09 AM)
         ☐ Whisper model from OpenAI https://learn.microsoft.com/en-us/azure/ai-services/speech-service/whisper-overview (2024-10-31 05:32 AM)
@@ -61,7 +61,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
             ☐ SSML phonetic sets https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-ssml-phonetic-sets (2024-09-24 11:10 AM)
         ☐ Lower speech synthesis latency https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-lower-speech-synthesis-latency (2024-09-20 11:07 AM)
         ☐ Get facial position with viseme https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-speech-synthesis-viseme (2024-09-20 05:36 AM)
-        ☐ Use high definition (HD) voices (preview) https://learn.microsoft.com/en-us/azure/ai-services/speech-service/high-definition-voices (2024-10-23 05:32 AM)
+        ✘ Use high definition (HD) voices (preview) https://learn.microsoft.com/en-us/azure/ai-services/speech-service/high-definition-voices (2024-10-23 05:32 AM) @cancelled
         Custom neural voice:
             ☐ Custom neural voice overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-neural-voice (2024-09-16 11:09 AM)
             Create a professional voice:
@@ -73,7 +73,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
                 ☐ Part 3: Add training datasets https://learn.microsoft.com/en-us/azure/ai-services/speech-service/professional-voice-create-training-set (2024-09-24 05:35 AM)
                 ☐ Part 4: Train your voice model https://learn.microsoft.com/en-us/azure/ai-services/speech-service/professional-voice-train-voice (2024-09-24 05:35 AM)
                 ☐ Part 5: Deploy and use your voice model https://learn.microsoft.com/en-us/azure/ai-services/speech-service/professional-voice-deploy-endpoint (2024-09-24 05:35 AM)
-            ☐ Custom neural voice lite (preview) https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-neural-voice-lite (2024-09-16 11:09 AM)
+            ✘ Custom neural voice lite (preview) https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-neural-voice-lite (2024-09-16 11:09 AM) @cancelled
             Personal voice:
                 ☐ Personal voice overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/personal-voice-overview (2024-09-20 10:00 PM)
                 ☐ Part 1: Create a personal voice project https://learn.microsoft.com/en-us/azure/ai-services/speech-service/personal-voice-create-project (2024-09-20 10:00 PM)
@@ -81,21 +81,21 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
                 ☐ Part 3: Get a speaker profile ID https://learn.microsoft.com/en-us/azure/ai-services/speech-service/personal-voice-create-voice (2024-10-22 11:07 AM)
                 ☐ Part 4: Use personal voice in your application https://learn.microsoft.com/en-us/azure/ai-services/speech-service/personal-voice-how-to-use (2024-09-26 11:04 AM)
         Text to speech avatar:
-            ☐ Text to speech avatar overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-text-to-speech-avatar (2024-11-04 12:07 PM)
+            ✘ Text to speech avatar overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-text-to-speech-avatar (2024-11-04 12:07 PM) @cancelled
             ☐ Content credentials https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/content-credentials (2024-12-18 06:01 PM)
             How to synthesize text to speech avatar:
-                ☐ Real-time synthesis https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/real-time-synthesis-avatar (2024-11-27 05:31 AM)
+                ✘ Real-time synthesis https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/real-time-synthesis-avatar (2024-11-27 05:31 AM) @cancelled
                 Batch synthesis:
-                    ☐ Use batch synthesis for avatar https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/batch-synthesis-avatar (2024-09-10 04:57 PM)
-                    ☐ Batch synthesis properties https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/batch-synthesis-avatar-properties (2024-10-31 11:12 AM)
-                ☐ Customize avatar gestures with SSML https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/avatar-gestures-with-ssml (2024-09-10 04:57 PM)
+                    ✘ Use batch synthesis for avatar https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/batch-synthesis-avatar (2024-09-10 04:57 PM) @cancelled
+                    ✘ Batch synthesis properties https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/batch-synthesis-avatar-properties (2024-10-31 11:12 AM) @cancelled
+                ✘ Customize avatar gestures with SSML https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/avatar-gestures-with-ssml (2024-09-10 04:57 PM) @cancelled
             Custom text to speech avatar:
-                ☐ Custom text to speech avatar overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-custom-text-to-speech-avatar (2024-09-10 04:57 PM)
-                ☐ Create a custom text to speech avatar https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/custom-avatar-create (2024-12-05 12:14 PM)
-                ☐ How to record video samples https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/custom-avatar-record-video-samples (2024-12-05 12:14 PM)
+                ✘ Custom text to speech avatar overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-custom-text-to-speech-avatar (2024-09-10 04:57 PM) @cancelled
+                ✘ Create a custom text to speech avatar https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/custom-avatar-create (2024-12-05 12:14 PM) @cancelled
+                ✘ How to record video samples https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/custom-avatar-record-video-samples (2024-12-05 12:14 PM) @cancelled
                 ☐ Deploy your custom text to speech avatar model as an endpoint https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/custom-avatar-endpoint (2024-12-05 05:32 AM)
-        ☐ Audio content creation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-audio-content-creation (2024-09-08 11:07 PM)
-        ☐ OpenAI text to speech voices https://learn.microsoft.com/en-us/azure/ai-services/speech-service/openai-voices (2024-09-20 10:00 PM)
+        ✘ Audio content creation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-audio-content-creation (2024-09-08 11:07 PM) @cancelled
+        ✘ OpenAI text to speech voices https://learn.microsoft.com/en-us/azure/ai-services/speech-service/openai-voices (2024-09-20 10:00 PM) @cancelled
         ☐ Text to speech FAQ https://learn.microsoft.com/en-us/azure/ai-services/speech-service/faq-tts (2024-09-16 11:09 AM)
     Speech translation:
         Real-time speech translation:
@@ -103,8 +103,8 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
             ☐ Speech translation quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-translation (2024-09-18 05:30 AM)
             ☐ How to recognize and translate speech https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-translate-speech (2024-09-20 05:36 AM)
         Video translation (preview):
-            ☐ Video translation overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/video-translation-overview (2024-10-11 08:18 AM)
-            ☐ How to use video translation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/video-translation-get-started (2024-10-11 08:18 AM)
+            ✘ Video translation overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/video-translation-overview (2024-10-11 08:18 AM) @cancelled
+            ✘ How to use video translation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/video-translation-get-started (2024-10-11 08:18 AM) @cancelled
     Intent recognition:
         ☐ Intent recognition overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/intent-recognition (2024-09-20 05:36 AM)
         ☐ Pattern matching concepts https://learn.microsoft.com/en-us/azure/ai-services/speech-service/pattern-matching-overview (2024-09-20 05:02 PM)
@@ -113,7 +113,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
         ☐ Intent recognition with CLU quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-intent-recognition-clu (2024-09-18 05:30 AM)
         ☐ Recognize speech intents with LUIS (deprecated) https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-intent-recognition (2024-09-18 05:30 AM)
     Keyword recognition:
-        ☐ Keyword recognition overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/keyword-recognition-overview (2024-09-20 05:36 AM)
+        ✘ Keyword recognition overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/keyword-recognition-overview (2024-09-20 05:36 AM) @cancelled
         ☐ Custom keyword quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-keyword-basics (2024-09-12 04:57 PM)
         ☐ Recommendations and guidelines https://learn.microsoft.com/en-us/azure/ai-services/speech-service/keyword-recognition-guidelines (2024-09-20 05:36 AM)
     Scenario guides:
@@ -129,10 +129,10 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
         ☐ Gaming integration https://learn.microsoft.com/en-us/azure/ai-services/speech-service/gaming-concepts (2024-09-18 05:30 AM)
         ☐ Language identification https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-identification (2024-09-20 05:36 AM)
         Language learning:
-            ☐ Overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-learning-overview (2024-09-20 05:36 AM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-learning-overview (2024-09-20 05:36 AM) @cancelled
             Pronunciation Assessment with speech to text:
                 ✘ Reading and speaking assessment in AI Foundry https://learn.microsoft.com/en-us/azure/ai-services/speech-service/pronunciation-assessment-tool (2024-11-27 06:00 PM) @cancelled
-                ☐ Interactive language learning with pronunciation assessment https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-learning-with-pronunciation-assessment (2024-09-20 05:36 AM)
+                ✘ Interactive language learning with pronunciation assessment https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-learning-with-pronunciation-assessment (2024-09-20 05:36 AM) @cancelled
         ☐ Azure OpenAI speech to speech chat https://learn.microsoft.com/en-us/azure/ai-services/speech-service/openai-speech (2024-09-20 10:00 PM)
         Conversation transcription multichannel diarization (preview):
             ☐ Conversation transcription overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/meeting-transcription (2024-11-19 06:01 PM)
@@ -148,7 +148,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
             Direct Line Speech:
                 ☐ Direct Line Speech overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/direct-line-speech (2024-09-16 11:09 AM)
                 ☐ Custom voice assistant quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/quickstarts/voice-assistants (2024-08-28 04:59 PM)
-                ☐ Voice enable your bot https://learn.microsoft.com/en-us/azure/ai-services/speech-service/tutorial-voice-enable-your-bot-speech-sdk (2024-09-24 11:10 AM)
+                ✘ Voice enable your bot https://learn.microsoft.com/en-us/azure/ai-services/speech-service/tutorial-voice-enable-your-bot-speech-sdk (2024-09-24 11:10 AM) @cancelled
             Voice assistants on Windows:
                 ☐ Voice assistants on Windows overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/windows-voice-assistants-overview (2024-09-24 11:10 AM)
                 ☐ Start developing your assistant with Windows https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-windows-voice-assistants-get-started (2024-09-20 05:36 AM)
@@ -156,7 +156,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
                 ☐ Privacy requirements and guidelines https://learn.microsoft.com/en-us/azure/ai-services/speech-service/windows-voice-assistants-automatic-enablement-guidelines (2024-09-24 11:10 AM)
                 ☐ Best practices for assistant experiences https://learn.microsoft.com/en-us/azure/ai-services/speech-service/windows-voice-assistants-best-practices (2024-09-24 11:10 AM)
                 ☐ Samples and frequently asked questions https://learn.microsoft.com/en-us/azure/ai-services/speech-service/windows-voice-assistants-faq (2024-09-24 11:10 AM)
-        ☐ Speaker recognition https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speaker-recognition-overview (2024-12-17 12:06 PM)
+        ✘ Speaker recognition https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speaker-recognition-overview (2024-12-17 12:06 PM) @cancelled
     Infrastructure & security:
         Access control and authentication:
             ☐ Role-based access with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/ai-services/speech-service/role-based-access-control (2024-11-21 12:09 PM)
@@ -177,7 +177,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
             ☐ Configure speech containers https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-configuration (2024-09-24 11:10 AM)
             ☐ Batch processing with speech containers https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-batch-processing (2024-09-24 11:10 AM)
             ☐ Speech containers with Kubernetes and Helm https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-howto-on-premises (2024-09-24 11:10 AM)
-            ☐ Speech containers on Azure container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/speech-service/context/context (2024-10-04 10:00 PM)
+            ✘ Speech containers on Azure container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/speech-service/context/context (2024-10-04 10:00 PM) @cancelled
             ☐ Containers FAQ https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-faq (2024-10-16 05:31 AM)
         Devices:
             ☐ Devices overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-devices (2024-09-24 11:10 AM)
@@ -203,7 +203,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
         Migration:
             Neural voice migration:
                 ☐ Migration overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migration-overview-neural-voice (2024-09-20 10:00 PM)
-                ☐ Migrate to custom neural voice https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-migrate-to-custom-neural-voice (2024-09-20 05:36 AM)
+                ✘ Migrate to custom neural voice https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-migrate-to-custom-neural-voice (2024-09-20 05:36 AM) @cancelled
                 ☐ Migrate to prebuilt neural voice https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-migrate-to-prebuilt-neural-voice (2024-09-20 05:36 AM)
                 ☐ Migrate to custom voice API https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migrate-to-custom-voice-api (2024-09-20 10:00 PM)
             Speech to text REST API migration:
@@ -226,7 +226,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
             ☐ Troubleshoot the Speech SDK https://learn.microsoft.com/en-us/azure/ai-services/speech-service/troubleshooting (2024-09-24 11:10 AM)
             ☐ Get Speech to text Session ID https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-get-speech-session-id (2024-09-20 05:36 AM)
             ☐ Track memory usage https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-track-speech-sdk-memory-usage (2024-09-20 05:36 AM)
-        ☐ Generate a REST API client library https://learn.microsoft.com/en-us/azure/ai-services/speech-service/swagger-documentation (2024-09-24 11:10 AM)
+        ✘ Generate a REST API client library https://learn.microsoft.com/en-us/azure/ai-services/speech-service/swagger-documentation (2024-09-24 11:10 AM) @cancelled
     Reference:
         SDK reference:
             ☐ C++ https://learn.microsoft.com/cpp/cognitive-services/speech/ (2024-06-13 11:16 PM)
@@ -239,7 +239,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
         REST API reference:
             ☐ Speech to text REST API https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-speech-to-text (2024-11-12 06:06 PM)
             ☐ Speech to text REST API for short audio https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-speech-to-text-short (2024-09-24 05:35 AM)
-            ☐ Text to speech REST API https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-text-to-speech (2024-12-17 12:06 PM)
+            ✘ Text to speech REST API https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-text-to-speech (2024-12-17 12:06 PM) @cancelled
             ☐ Custom voice REST API https://learn.microsoft.com/rest/api/aiservices/speechapi/operation-groups (2024-07-30 10:00 PM)
             ☐ Batch synthesis REST API https://learn.microsoft.com/rest/api/batchtexttospeech/operation-groups (2024-07-30 10:00 PM)
             ☐ Batch avatar REST API https://learn.microsoft.com/rest/api/batchavatar/operation-groups (2024-08-12 06:27 PM)
@@ -313,4 +313,39 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
 ---
 
             ✔ Connect Azure Communication Services with Azure AI services https://learn.microsoft.com/azure/communication-services/concepts/call-automation/azure-communication-services-azure-cognitive-services-integration?context=/azure/ai-services/speech-service/context/context (2024-12-30 11:05 PM) @done(25-01-01 15:33)
+
+
+---
+
+        ☐ Language and voice support https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support (2025-01-06 12:04 PM)
+        ☐ Region support https://learn.microsoft.com/en-us/azure/ai-services/speech-service/regions (2025-01-06 12:04 PM)
+            ☐ Custom speech overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-speech-overview (2025-01-06 12:04 PM)
+                ☐ Part 1: Create a project https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-create-project (2025-01-06 12:04 PM)
+                ☐ Part 5: Train a model https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-train-model (2025-01-06 12:04 PM)
+                ☐ Training and testing datasets https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-test-and-train (2025-01-06 12:04 PM)
+        ☐ How to use Pronunciation Assessment https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-pronunciation-assessment (2025-01-06 12:04 PM)
+        ☐ Use high definition (HD) voices (preview) https://learn.microsoft.com/en-us/azure/ai-services/speech-service/high-definition-voices (2025-01-06 12:04 PM)
+            ☐ Custom neural voice lite (preview) https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-neural-voice-lite (2025-01-06 12:04 PM)
+            ☐ Text to speech avatar overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-text-to-speech-avatar (2025-01-03 10:59 PM)
+                ☐ Real-time synthesis https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/real-time-synthesis-avatar (2025-01-03 10:59 PM)
+                    ☐ Use batch synthesis for avatar https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/batch-synthesis-avatar (2025-01-03 10:59 PM)
+                    ☐ Batch synthesis properties https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/batch-synthesis-avatar-properties (2025-01-03 10:59 PM)
+                ☐ Customize avatar gestures with SSML https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/avatar-gestures-with-ssml (2025-01-03 10:59 PM)
+                ☐ Custom text to speech avatar overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-custom-text-to-speech-avatar (2025-01-03 10:59 PM)
+                ☐ Create a custom text to speech avatar https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/custom-avatar-create (2025-01-03 10:59 PM)
+                ☐ How to record video samples https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/custom-avatar-record-video-samples (2025-01-05 12:06 PM)
+        ☐ Audio content creation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-audio-content-creation (2025-01-06 12:04 PM)
+        ☐ OpenAI text to speech voices https://learn.microsoft.com/en-us/azure/ai-services/speech-service/openai-voices (2025-01-06 12:04 PM)
+            ☐ Video translation overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/video-translation-overview (2025-01-03 10:59 PM)
+            ☐ How to use video translation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/video-translation-get-started (2025-01-03 10:59 PM)
+        ☐ Keyword recognition overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/keyword-recognition-overview (2025-01-06 12:04 PM)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-learning-overview (2025-01-06 12:04 PM)
+                ☐ Reading and speaking assessment in Azure AI Foundry https://learn.microsoft.com/en-us/azure/ai-services/speech-service/pronunciation-assessment-tool (2025-01-06 12:04 PM)
+                ☐ Interactive language learning with pronunciation assessment https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-learning-with-pronunciation-assessment (2025-01-06 12:04 PM)
+                ☐ Voice enable your bot https://learn.microsoft.com/en-us/azure/ai-services/speech-service/tutorial-voice-enable-your-bot-speech-sdk (2025-01-06 12:04 PM)
+        ☐ Speaker recognition https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speaker-recognition-overview (2025-01-06 12:04 PM)
+            ☐ Speech containers on Azure container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/speech-service/context/context (2025-01-03 06:01 PM)
+                ☐ Migrate to custom neural voice https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-migrate-to-custom-neural-voice (2025-01-03 10:59 PM)
+        ☐ Generate a REST API client library https://learn.microsoft.com/en-us/azure/ai-services/speech-service/swagger-documentation (2025-01-06 12:04 PM)
+            ☐ Text to speech REST API https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-text-to-speech (2025-01-06 12:04 PM)
 

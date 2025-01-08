@@ -3,7 +3,7 @@ Databases in Microsoft Fabric - Microsoft Fabric | Microsoft Learn:
     SQL database in Fabric:
         ☐ Overview https://learn.microsoft.com/en-us/fabric/database/sql/overview (2024-12-05 12:14 PM)
         ☐ Frequently asked questions https://learn.microsoft.com/en-us/fabric/database/sql/faq (2024-12-11 10:59 PM)
-        ☐ Feature comparison https://learn.microsoft.com/en-us/fabric/database/sql/feature-comparison-sql-database-fabric (2024-12-05 06:05 PM)
+        ✘ Feature comparison https://learn.microsoft.com/en-us/fabric/database/sql/feature-comparison-sql-database-fabric (2024-12-05 06:05 PM) @cancelled
         ☐ Decision guide: Which SQL database? https://learn.microsoft.com/en-us/fabric/database/sql/decision-guide (2024-11-20 11:00 PM)
         ☐ Decision guide: Choose a data store https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-data-store?toc=/fabric/database/toc.json&bc=/fabric/database/toc.json (2024-12-19 10:56 PM)
         Copilot:
@@ -14,7 +14,7 @@ Databases in Microsoft Fabric - Microsoft Fabric | Microsoft Learn:
             ☐ Quick actions https://learn.microsoft.com/en-us/fabric/database/sql/copilot-quick-actions (2024-11-20 11:00 PM)
         Get started:
             ☐ Connect to your SQL database https://learn.microsoft.com/en-us/fabric/database/sql/connect (2024-12-05 06:05 PM)
-            ☐ 1. Enable SQL database in Fabric https://learn.microsoft.com/en-us/fabric/database/sql/enable (2024-12-18 10:58 PM)
+            ✘ 1. Enable SQL database in Fabric https://learn.microsoft.com/en-us/fabric/database/sql/enable (2024-12-18 10:58 PM) @cancelled
             ☐ 2. Create a SQL database https://learn.microsoft.com/en-us/fabric/database/sql/create (2024-12-12 12:20 PM)
             ☐ 3. Load AdventureWorks sample Data https://learn.microsoft.com/en-us/fabric/database/sql/load-adventureworks-sample-data (2024-11-20 11:00 PM)
             ☐ 4. Create a table https://learn.microsoft.com/en-us/fabric/database/sql/create-table (2024-11-20 11:00 PM)
@@ -27,7 +27,7 @@ Databases in Microsoft Fabric - Microsoft Fabric | Microsoft Learn:
             ☐ SQL database in Fabric tutorial introduction https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-introduction (2024-12-12 12:20 PM)
             ☐ 1. Create a workspace https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-create-workspace (2024-11-20 11:00 PM)
             ☐ 2. Create a SQL database https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-create-database (2024-11-20 11:00 PM)
-            ☐ 3. Load sample data using T-SQL and pipelines https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-ingest-data (2024-11-20 11:00 PM)
+            ✘ 3. Load sample data using T-SQL and pipelines https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-ingest-data (2024-11-20 11:00 PM) @cancelled
             ☐ 4. Query the database and use Copilot https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-query-database (2024-11-20 11:00 PM)
             ☐ 5. Query the SQL analytics endpoint https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-use-analytics-endpoint (2024-11-20 11:00 PM)
             ☐ 6. Create and share visualizations https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-create-visualizations (2024-11-20 11:00 PM)
@@ -44,7 +44,7 @@ Databases in Microsoft Fabric - Microsoft Fabric | Microsoft Learn:
             ☐ SqlPackage https://learn.microsoft.com/en-us/fabric/database/sql/sqlpackage (2024-11-20 11:00 PM)
             ☐ Deploy via REST API https://learn.microsoft.com/en-us/fabric/database/sql/deploy-rest-api (2024-11-20 11:00 PM)
         Load data into a SQL database:
-            ☐ Load data with data pipelines https://learn.microsoft.com/en-us/fabric/database/sql/load-data-pipelines (2024-11-20 11:00 PM)
+            ✘ Load data with data pipelines https://learn.microsoft.com/en-us/fabric/database/sql/load-data-pipelines (2024-11-20 11:00 PM) @cancelled
             ☐ Load data with Fabric Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/database/sql/dataflows (2024-11-20 11:00 PM)
         Mirroring to OneLake:
             ☐ Mirroring to OneLake Overview https://learn.microsoft.com/en-us/fabric/database/sql/mirroring-overview (2024-12-05 06:05 PM)
@@ -94,4 +94,12 @@ Databases in Microsoft Fabric - Microsoft Fabric | Microsoft Learn:
 ---
 
             ☐ T-SQL Reference for Fabric https://learn.microsoft.com/sql/t-sql/language-reference?view=fabric&preserve-view=true (2024-12-30 06:37 PM)
+
+
+---
+
+        ☐ Feature comparison https://learn.microsoft.com/en-us/fabric/database/sql/feature-comparison-sql-database-fabric (2025-01-03 11:00 PM)
+            ☐ 1. Enable SQL database in Fabric https://learn.microsoft.com/en-us/fabric/database/sql/enable (2025-01-03 11:00 PM)
+            ☐ 3. Load sample data using T-SQL and pipelines https://learn.microsoft.com/en-us/fabric/database/sql/tutorial-ingest-data (2025-01-03 11:00 PM)
+            ☐ Load data with data pipelines https://learn.microsoft.com/en-us/fabric/database/sql/load-data-pipelines (2025-01-03 11:00 PM)
 
