@@ -15,8 +15,8 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
         ✘ Assistants (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart (2024-11-27 06:00 PM) @cancelled
         ☐ Chat https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart (2024-11-01 09:59 PM)
         ✘ Vision-enabled chats https://learn.microsoft.com/en-us/azure/ai-services/openai/gpt-v-quickstart (2024-12-17 11:02 PM) @cancelled
-        ☐ DALL-E https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart (2024-10-29 10:03 PM)
-        ☐ Use your data https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart (2024-11-27 11:02 PM)
+        ✘ DALL-E https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart (2024-10-29 10:03 PM) @cancelled
+        ✘ Use your data https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart (2024-11-27 11:02 PM) @cancelled
         ✘ Realtime API for speech and audio (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-quickstart (2024-12-12 11:02 PM) @cancelled
         ✘ Whisper model https://learn.microsoft.com/en-us/azure/ai-services/openai/whisper-quickstart (2024-10-30 11:08 AM) @cancelled
         ✘ Text to speech (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/text-to-speech-quickstart (2024-10-30 11:08 AM) @cancelled
@@ -31,7 +31,7 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
         ☐ Embeddings https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/understand-embeddings (2024-10-07 11:04 AM)
         ☐ Fine-tuning https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/fine-tuning-considerations (2024-12-12 06:01 PM)
         ☐ Vision-enabled models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/gpt-with-vision (2024-12-17 11:02 PM)
-        ☐ Red teaming large language models (LLMs) https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming (2024-12-01 12:11 PM)
+        ✘ Red teaming large language models (LLMs) https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming (2024-12-01 12:11 PM) @cancelled
         ☐ Content credentials https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/content-credentials (2024-12-01 12:11 PM)
         Prompt engineering:
             ☐ Prompt engineering techniques https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering (2024-10-01 10:03 PM)
@@ -42,18 +42,18 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
             ✘ Safety system message templates https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/safety-system-message-templates (2024-11-26 06:02 PM) @cancelled
         ☐ Model versions https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/model-versions (2024-09-22 11:26 AM)
         ✘ Provisioned throughput units (PTU) https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput (2024-12-11 06:01 PM) @cancelled
-        ☐ Azure OpenAI PTU update https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-migration (2024-11-21 06:03 PM)
-        ☐ Azure OpenAI PTU reservation update https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-reservation-update (2024-12-05 06:03 PM)
+        ✘ Azure OpenAI PTU update https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-migration (2024-11-21 06:03 PM) @cancelled
+        ✘ Azure OpenAI PTU reservation update https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-reservation-update (2024-12-05 06:03 PM) @cancelled
         ☐ Legacy models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/legacy-models (2024-08-28 04:59 PM)
     How-to:
-        ☐ API version lifecycle https://learn.microsoft.com/en-us/azure/ai-services/openai/api-version-deprecation (2024-12-13 05:32 AM)
+        ✘ API version lifecycle https://learn.microsoft.com/en-us/azure/ai-services/openai/api-version-deprecation (2024-12-13 05:32 AM) @cancelled
         Assistants (preview):
             ☐ Getting started with Assistants https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/assistant (2024-12-02 11:02 PM)
             Tools:
                 ☐ Code Interpreter https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/code-interpreter (2024-10-18 09:59 PM)
                 Function calling:
                     ☐ Assistants function calling https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/assistant-functions (2024-09-05 05:34 AM)
-                    ☐ Function calling with Azure Logic Apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/assistants-logic-apps (2024-08-28 04:59 PM)
+                    ✘ Function calling with Azure Logic Apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/assistants-logic-apps (2024-08-28 04:59 PM) @cancelled
                 ☐ File search https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/file-search (2024-08-28 04:59 PM)
         ✘ Batch https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/batch (2024-11-27 06:00 PM) @cancelled
         Completions & chat completions:
@@ -64,16 +64,16 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
             ☐ Function calling https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/function-calling (2024-08-28 04:59 PM)
             ☐ Completions (legacy) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/completions (2024-11-26 06:02 PM)
             ☐ JSON mode https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/json-mode (2024-09-13 04:56 PM)
-            ☐ Prompt caching https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-caching (2024-12-18 10:58 PM)
+            ✘ Prompt caching https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-caching (2024-12-18 10:58 PM) @cancelled
             ☐ Reproducible output https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/reproducible-output (2024-09-22 11:26 AM)
-            ☐ Structured outputs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/structured-outputs (2024-12-18 10:58 PM)
+            ✘ Structured outputs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/structured-outputs (2024-12-18 10:58 PM) @cancelled
             ☐ Work with code https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/work-with-code (2024-11-26 06:02 PM)
             ✘ Deploy and use web apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-web-app (2024-11-26 06:02 PM) @cancelled
             Legacy:
                 ✘ Chat Markup Language (ChatML) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/chat-markup-language (2024-12-02 06:04 PM) @cancelled
         ☐ Content filtering https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/content-filters (2024-12-06 05:36 AM)
-        ☐ Use blocklists https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-blocklists (2024-12-09 05:36 AM)
-        ☐ Risks & Safety Monitoring https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/risks-safety-monitor (2024-12-06 05:36 AM)
+        ✘ Use blocklists https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-blocklists (2024-12-09 05:36 AM) @cancelled
+        ✘ Risks & Safety Monitoring https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/risks-safety-monitor (2024-12-06 05:36 AM) @cancelled
         Embeddings:
             ☐ Embeddings basics https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/embeddings (2024-12-05 06:03 PM)
             ☐ Getting started with embeddings https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/embeddings (2024-08-30 05:04 PM)
@@ -84,7 +84,7 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
             ✘ Weights & Biases integration (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/weights-and-biases-integration (2024-12-03 11:00 PM) @cancelled
         ☐ Stored completions https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/stored-completions (2024-12-17 06:04 PM)
         Use your data:
-            ☐ Text data https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data (2024-12-03 11:00 PM)
+            ✘ Text data https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data (2024-12-03 11:00 PM) @cancelled
             ✘ Network and access configuration https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/on-your-data-configuration (2024-12-19 06:03 PM) @cancelled
             ✘ Deploy and use web apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-web-app (2024-11-26 06:02 PM) @cancelled
             ☐ Use the Azure Developer CLI https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/azure-developer-cli (2024-08-28 04:59 PM)
@@ -94,7 +94,7 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
         ☐ Migrate to OpenAI JavaScript v4.x https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/migration-javascript (2024-11-07 10:59 PM)
         ☐ Migrate to Azure OpenAI .NET v2.0 https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/dotnet-migration (2024-11-19 11:00 PM)
         Models:
-            ☐ Manage models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/working-with-models (2024-11-26 06:02 PM)
+            ✘ Manage models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/working-with-models (2024-11-26 06:02 PM) @cancelled
         Networking and security:
             ☐ Use virtual networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/openai/context/context (2024-11-20 06:02 PM)
             ☐ Encryption of data at rest https://learn.microsoft.com/en-us/azure/ai-services/openai/encrypt-data-at-rest (2024-12-02 06:04 PM)
@@ -104,7 +104,7 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
             ✘ OpenAI vs Azure OpenAI (Python) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/switching-endpoints (2024-08-30 05:04 PM) @cancelled
             ☐ Manage quota https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/quota (2024-11-26 06:02 PM)
             ☐ Dynamic quota https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/dynamic-quota (2024-09-20 10:00 PM)
-            ☐ Monitor Azure OpenAI https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/monitor-openai (2024-11-26 06:02 PM)
+            ✘ Monitor Azure OpenAI https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/monitor-openai (2024-11-26 06:02 PM) @cancelled
             ☐ Onboarding to Provisioned Throughput Units (PTU) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/provisioned-throughput-onboarding (2024-12-03 11:00 PM)
             ✘ Get started with Provisioned Deployments https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/provisioned-get-started (2024-12-05 06:03 PM) @cancelled
             ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/manage-costs (2024-11-19 06:01 PM)
@@ -113,7 +113,7 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
             ☐ Business continuity & disaster recovery (BCDR) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/business-continuity-disaster-recovery (2024-12-04 11:02 PM)
     Tutorials:
         ☐ Embeddings https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/embeddings (2024-08-30 05:04 PM)
-        ☐ Fine-tuning GPT-4o mini https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/fine-tune (2024-10-13 11:09 AM)
+        ✘ Fine-tuning GPT-4o mini https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/fine-tune (2024-10-13 11:09 AM) @cancelled
     Security & Governance:
         ☐ Use virtual networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/openai/context/context (2024-11-20 06:02 PM)
         ☐ Encryption of data at rest https://learn.microsoft.com/en-us/azure/ai-services/openai/encrypt-data-at-rest (2024-12-02 06:04 PM)
@@ -134,10 +134,10 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
         ☐ Inference preview API reference https://learn.microsoft.com/en-us/azure/ai-services/openai/reference-preview (2024-10-16 10:02 PM)
         Assistants API Reference:
             Python/REST:
-                ☐ Assistants https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-reference (2024-09-27 05:00 PM)
-                ☐ Threads https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-reference-threads (2024-09-27 05:00 PM)
-                ☐ Messages https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-reference-messages (2024-09-27 05:00 PM)
-                ☐ Runs https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-reference-runs (2024-09-27 05:00 PM)
+                ✘ Assistants https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-reference (2024-09-27 05:00 PM) @cancelled
+                ✘ Threads https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-reference-threads (2024-09-27 05:00 PM) @cancelled
+                ✘ Messages https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-reference-messages (2024-09-27 05:00 PM) @cancelled
+                ✘ Runs https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-reference-runs (2024-09-27 05:00 PM) @cancelled
             SDK:
                 ☐ C# https://learn.microsoft.com/dotnet/api/overview/azure/ai.openai.assistants-readme?context=/azure/ai-services/openai/context/context (2024-05-02 11:02 PM)
                 ☐ Go https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/sdk/ai/azopenai
@@ -249,5 +249,33 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
 
 ---
 
-        ☐ Models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models (2025-01-07 05:31 AM)
+        ✘ Models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models (2025-01-07 05:31 AM) @cancelled
+
+
+---
+
+        ☐ Models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models (2025-01-09 06:00 PM)
+        ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new (2025-01-08 05:31 AM)
+        ☐ DALL-E https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart (2025-01-08 05:31 AM)
+        ☐ Use your data https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart (2025-01-08 05:31 AM)
+        ☐ Red teaming large language models (LLMs) https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming (2025-01-08 05:31 AM)
+        ☐ Azure OpenAI PTU update https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-migration (2025-01-08 11:01 PM)
+        ☐ Azure OpenAI PTU reservation update https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-reservation-update (2025-01-08 05:31 AM)
+        ☐ API version lifecycle https://learn.microsoft.com/en-us/azure/ai-services/openai/api-version-deprecation (2025-01-08 06:00 PM)
+                    ☐ Function calling with Azure Logic Apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/assistants-logic-apps (2025-01-07 11:01 PM)
+            ☐ Prompt caching https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-caching (2025-01-07 11:01 PM)
+            ☐ Structured outputs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/structured-outputs (2025-01-08 05:31 AM)
+            ☐ Deploy and use web apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-web-app (2025-01-08 11:01 PM)
+        ☐ Use blocklists https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-blocklists (2025-01-08 05:31 AM)
+        ☐ Risks & Safety Monitoring https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/risks-safety-monitor (2025-01-08 05:31 AM)
+            ☐ Fine-tuning your model https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning (2025-01-08 05:31 AM)
+            ☐ Text data https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/use-your-data (2025-01-08 05:31 AM)
+            ☐ Network and access configuration https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/on-your-data-configuration (2025-01-08 05:31 AM)
+            ☐ Deploy and use web apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-web-app (2025-01-08 11:01 PM)
+            ☐ Manage models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/working-with-models (2025-01-08 05:31 AM)
+            ☐ Monitor Azure OpenAI https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/monitor-openai (2025-01-08 05:31 AM)
+            ☐ Get started with Provisioned Deployments https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/provisioned-get-started (2025-01-08 05:31 AM)
+        ☐ Fine-tuning GPT-4o mini https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/fine-tune (2025-01-08 05:31 AM)
+            ☐ Network and access configuration https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/on-your-data-configuration (2025-01-08 05:31 AM)
+                ☐ Assistants https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-reference (2025-01-09 06:00 PM)
 

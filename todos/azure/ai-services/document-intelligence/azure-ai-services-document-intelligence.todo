@@ -8,7 +8,7 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         ☐ Document Intelligence Studio https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/studio-overview (2024-12-12 05:31 AM)
         Language support:
             ☐ Document analysis models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/ocr?view=doc-intel-4.0.0&preserve-view=true (2024-12-11 06:01 PM)
-            ☐ Prebuilt models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/prebuilt (2024-12-11 06:01 PM)
+            ✘ Prebuilt models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/prebuilt (2024-12-11 06:01 PM) @cancelled
             ☐ Custom models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/custom (2024-12-11 06:01 PM)
         ☐ Pricing https://azure.microsoft.com/pricing/details/form-recognizer/
         ☐ Service limits and billing https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/service-limits (2024-12-12 05:31 AM)
@@ -73,9 +73,9 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
             ☐ Build a custom extraction model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/build-a-custom-model (2024-12-11 06:01 PM)
             ☐ Build a custom classification model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/build-a-custom-classifier (2024-12-11 06:01 PM)
             ☐ Project sharing with custom models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/project-share-custom-models (2024-12-11 06:01 PM)
-            ☐ Compose custom extraction models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/compose-custom-models (2024-12-11 06:01 PM)
-            ☐ Deploy the sample-labeling tool https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/deploy-label-tool (2024-12-11 06:01 PM)
-            ☐ Train a custom model with the sample-labeling tool https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/label-tool (2024-12-11 06:01 PM)
+            ✘ Compose custom extraction models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/compose-custom-models (2024-12-11 06:01 PM) @cancelled
+            ✘ Deploy the sample-labeling tool https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/deploy-label-tool (2024-12-11 06:01 PM) @cancelled
+            ✘ Train a custom model with the sample-labeling tool https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/label-tool (2024-12-11 06:01 PM) @cancelled
             ☐ Use table tags to train your custom model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/supervised-table-tags (2024-12-11 06:01 PM)
         ☐ Back up and recover models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/disaster-recovery (2024-12-11 06:01 PM)
         Configure secure communications:
@@ -153,4 +153,12 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
 ---
 
         ☐ Model overview https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/model-overview (2025-01-07 12:04 PM)
+
+
+---
+
+            ✔ Prebuilt models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/prebuilt (2025-01-09 06:00 PM) @done(25-01-09 21:33)
+            ✔ Compose custom extraction models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/compose-custom-models (2025-01-08 05:31 AM) @done(25-01-09 21:33)
+            ✔ Deploy the sample-labeling tool https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/deploy-label-tool (2025-01-08 05:31 AM) @done(25-01-09 21:34)
+            ✔ Train a custom model with the sample-labeling tool https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/label-tool (2025-01-08 05:31 AM) @done(25-01-09 21:34)
 

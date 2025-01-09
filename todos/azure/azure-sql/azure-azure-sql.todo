@@ -49,10 +49,10 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 Database watcher (preview):
                     ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-overview (2024-11-12 06:04 PM)
                     ☐ Quickstart https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-quickstart (2024-07-31 05:33 PM)
-                    ☐ Create and configure https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-manage (2024-12-18 07:02 PM)
+                    ✘ Create and configure https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-manage (2024-12-18 07:02 PM) @cancelled
                     ☐ Data collection and datasets https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-data (2024-11-11 11:32 PM)
                     ☐ Analyze monitoring data https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-analyze (2024-07-31 05:33 PM)
-                    ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-faq (2024-11-11 11:32 PM)
+                    ✘ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-faq (2024-11-11 11:32 PM) @cancelled
                 ☐ SQL Analytics https://learn.microsoft.com/azure/azure-monitor/insights/azure-sql?toc=/azure/azure-sql/toc.json (2023-03-08 11:13 PM)
                 SQL Insights (preview):
                     ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-insights-overview (2024-09-19 10:31 PM)
@@ -282,9 +282,9 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ vCore resource limits https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-limits-vcore-elastic-pools (2024-09-12 05:30 PM)
                     ☐ DTU resource limits https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-limits-dtu-elastic-pools (2024-07-31 05:33 PM)
             Scheduled maintenance:
-                ☐ Maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window (2024-12-09 11:36 PM)
+                ✘ Maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window (2024-12-09 11:36 PM) @cancelled
                 ✘ Configure maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-configure (2024-07-31 05:33 PM) @cancelled
-                ☐ Maintenance window FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-faq (2024-07-31 05:33 PM)
+                ✘ Maintenance window FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-faq (2024-07-31 05:33 PM) @cancelled
                 ☐ Advance notifications https://learn.microsoft.com/en-us/azure/azure-sql/database/advance-notifications (2024-07-31 05:33 PM)
         Migration guides:
             ☐ From Access https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/access-to-sql-database-guide (2024-09-19 10:31 PM)
@@ -957,7 +957,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
         ☐ SQL tools https://learn.microsoft.com/sql/tools/overview-sql-tools (2024-11-22 07:03 PM)
         ☐ SQL Server Management Studio (SSMS) https://learn.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms (2024-11-12 07:14 PM)
         ☐ SQL Server Data Tools (SSDT) https://learn.microsoft.com/sql/ssdt/download-sql-server-data-tools-ssdt (2024-11-22 07:03 PM)
-        ☐ BCP https://learn.microsoft.com/sql/tools/bcp-utility (2024-12-17 06:31 PM)
+        ✘ BCP https://learn.microsoft.com/sql/tools/bcp-utility (2024-12-17 06:31 PM) @cancelled
         ☐ SQLCMD https://learn.microsoft.com/sql/tools/sqlcmd-utility (2024-11-22 07:03 PM)
         ☐ SqlPackage https://learn.microsoft.com/sql/tools/sqlpackage/sqlpackage (2024-04-29 05:51 PM)
         ☐ SQL Database Management Library package https://www.nuget.org/packages/Microsoft.Azure.Management.Sql
@@ -1042,7 +1042,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Configure long-term backup retention https://learn.microsoft.com/en-us/azure/azure-sql/database/long-term-backup-retention-configure (2025-01-06 11:40 PM)
                 ☐ Application and database tuning guidance https://learn.microsoft.com/en-us/azure/azure-sql/database/performance-guidance (2025-01-06 11:40 PM)
                 ☐ Azure portal, PowerShell, Az CLI https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-create-quickstart (2025-01-02 06:30 PM)
-                ☐ Configure maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-configure (2025-01-06 11:40 PM)
+                ✘ Configure maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-configure (2025-01-06 11:40 PM) @cancelled
                 ☐ Configure backup retention using Azure Blob storage https://learn.microsoft.com/en-us/azure/azure-sql/database/long-term-backup-retention-configure (2025-01-06 11:40 PM)
                 ☐ Tune applications and databases for performance https://learn.microsoft.com/en-us/azure/azure-sql/database/performance-guidance (2025-01-06 11:40 PM)
             ☐ What is Azure SQL Managed Instance? https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview (2025-01-06 11:40 PM)
@@ -1052,4 +1052,12 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ Connectivity architecture https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview (2025-01-03 06:31 PM)
                 ☐ High availability https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/high-availability-sla-local-zone-redundancy (2025-01-06 11:40 PM)
                     ☐ Security https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/security-considerations-best-practices (2025-01-06 11:40 PM)
+
+
+---
+
+                    ☐ Create and configure https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-manage (2025-01-07 11:31 PM)
+                    ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-faq (2025-01-07 11:31 PM)
+                ☐ Maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window (2025-01-07 11:31 PM)
+        ☐ BCP https://learn.microsoft.com/sql/tools/bcp-utility (2025-01-09 06:31 PM)
 

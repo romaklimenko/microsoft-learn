@@ -69,7 +69,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             CNI networking:
                 ☐ CNI networking overview https://learn.microsoft.com/en-us/azure/aks/concepts-network-cni-overview (2024-10-02 10:02 PM)
                 ☐ Azure CNI Overlay https://learn.microsoft.com/en-us/azure/aks/concepts-network-azure-cni-overlay (2024-08-01 08:29 PM)
-                ☐ Azure CNI Pod subnet https://learn.microsoft.com/en-us/azure/aks/concepts-network-azure-cni-pod-subnet (2024-08-15 05:00 PM)
+                ✘ Azure CNI Pod subnet https://learn.microsoft.com/en-us/azure/aks/concepts-network-azure-cni-pod-subnet (2024-08-15 05:00 PM) @cancelled
                 ☐ Legacy CNI options https://learn.microsoft.com/en-us/azure/aks/concepts-network-legacy-cni (2024-09-16 10:00 PM)
             ☐ IP address planning https://learn.microsoft.com/en-us/azure/aks/concepts-network-ip-address-planning (2024-09-09 10:10 PM)
             ☐ Services https://learn.microsoft.com/en-us/azure/aks/concepts-network-services (2024-09-25 09:56 PM)
@@ -481,7 +481,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Migrate from Dapr OSS to the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-migration (2024-10-31 05:34 AM)
                 ☐ Deploy and run workflows with the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-workflow (2024-10-31 05:34 AM)
                 ☐ Troubleshoot the Dapr extension https://learn.microsoft.com/troubleshoot/azure/azure-kubernetes/troubleshoot-dapr-extension-installation-errors?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-04-10 09:01 AM)
-            ☐ GitOps https://learn.microsoft.com/azure/azure-arc/kubernetes/tutorial-use-gitops-flux2?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-31 10:01 PM)
+            ✘ GitOps https://learn.microsoft.com/azure/azure-arc/kubernetes/tutorial-use-gitops-flux2?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-31 10:01 PM) @cancelled
             Build applications with Azure App Configuration:
                 ☐ Install the Azure App Configuration extension https://learn.microsoft.com/en-us/azure/aks/azure-app-configuration (2024-11-28 05:35 AM)
                 ☐ Configure the Azure App Configuration extension https://learn.microsoft.com/en-us/azure/aks/azure-app-configuration-settings (2024-10-31 05:34 AM)
@@ -591,13 +591,13 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                     ☐ Configure and deploy Airflow https://learn.microsoft.com/en-us/azure/aks/airflow-deploy (2024-12-30 11:04 PM)
             AI and machine learning workloads:
                 Deploy an OpenAI application:
-                    ☐ Deploy an application that uses OpenAI on Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-quickstart (2024-08-01 08:29 PM)
-                    ☐ Secure access to Azure OpenAI from Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-secure-access-quickstart (2024-08-01 08:29 PM)
+                    ✘ Deploy an application that uses OpenAI on Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-quickstart (2024-08-01 08:29 PM) @cancelled
+                    ✘ Secure access to Azure OpenAI from Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-secure-access-quickstart (2024-08-01 08:29 PM) @cancelled
                 Deploy a Ray cluster:
                     ✘ Overview https://learn.microsoft.com/en-us/azure/aks/ray-overview (2024-12-30 11:04 PM) @cancelled
                     ✘ Configure and deploy a Ray cluster https://learn.microsoft.com/en-us/azure/aks/deploy-ray (2024-12-30 11:04 PM) @cancelled
-                ☐ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2024-11-19 06:01 PM)
-                ☐ Deploy data and ML pipelines with Flyte https://learn.microsoft.com/en-us/azure/aks/use-flyte (2024-08-09 10:01 PM)
+                ✘ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2024-11-19 06:01 PM) @cancelled
+                ✘ Deploy data and ML pipelines with Flyte https://learn.microsoft.com/en-us/azure/aks/use-flyte (2024-08-09 10:01 PM) @cancelled
                 ☐ Pod Sandboxing https://learn.microsoft.com/en-us/azure/aks/use-pod-sandboxing (2024-12-30 06:30 PM)
         ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2024-12-30 12:31 PM) @cancelled
 
@@ -606,15 +606,31 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
 
                 ☐ Integrate ACR with an AKS cluster https://learn.microsoft.com/en-us/azure/aks/cluster-container-registry-integration (2025-01-02 06:00 PM)
                     ☐ Deploy and test PostgreSQL https://learn.microsoft.com/en-us/azure/aks/deploy-postgresql-ha (2025-01-02 11:02 PM)
-                ☐ Overview https://learn.microsoft.com/en-us/azure/aks/ai-ml-overview (2025-01-07 05:31 AM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/aks/ai-ml-overview (2025-01-07 05:31 AM) @cancelled
                     ☐ Overview https://learn.microsoft.com/en-us/azure/aks/ray-overview (2025-01-06 11:00 PM)
                     ☐ Configure and deploy a Ray cluster https://learn.microsoft.com/en-us/azure/aks/deploy-ray (2025-01-06 11:00 PM)
                 ☐ Use GPUs https://learn.microsoft.com/en-us/azure/aks/gpu-cluster (2025-01-02 11:02 PM)
             ☐ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-07 12:17 PM)
-            ☐ Build Django app with PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/tutorial-django-aks-database?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-05 12:06 PM)
+            ✘ Build Django app with PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/tutorial-django-aks-database?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-05 12:06 PM) @cancelled
             ☐ Build Java app with WebLogic Server https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-wls-app (2025-01-06 05:30 AM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/aks/eks-web-overview (2025-01-06 11:00 PM)
-        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-07 12:30 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-07 12:10 PM)
-        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-07 12:10 PM)
+        ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-07 12:30 PM) @cancelled
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-07 12:10 PM) @cancelled
+        ✘ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-07 12:10 PM) @cancelled
+
+
+---
+
+                ☐ Azure CNI Pod subnet https://learn.microsoft.com/en-us/azure/aks/concepts-network-azure-cni-pod-subnet (2025-01-08 11:01 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/aks/ai-ml-overview (2025-01-08 11:01 PM)
+            ☐ Build Django app with PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/tutorial-django-aks-database?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-08 05:32 AM)
+            ☐ GitOps https://learn.microsoft.com/azure/azure-arc/kubernetes/tutorial-use-gitops-flux2?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-08 05:32 AM)
+            ☐ Deploy an application that uses OpenAI on Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-quickstart (2024-08-01 08:29 PM)
+            ☐ Secure access to Azure OpenAI from Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-secure-access-quickstart (2024-08-01 08:29 PM)
+            ☐ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2024-11-19 06:01 PM)
+            ☐ Fine-tune an AI model for inferencing with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator-fine-tune (2025-01-08 05:31 AM)
+            ☐ Deploy data and ML pipelines with Flyte https://learn.microsoft.com/en-us/azure/aks/use-flyte (2024-08-09 10:01 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-09 12:31 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-09 12:07 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-09 12:10 PM)
 

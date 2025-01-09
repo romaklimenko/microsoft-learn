@@ -78,12 +78,12 @@ Azure Functions documentation | Microsoft Learn:
                 ☐ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-python (2024-08-14 06:47 PM)
                 ☐ Azure SQL https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-python (2024-05-29 10:05 PM)
         Connect to OpenAI:
-            ☐ C# https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-csharp (2024-12-03 11:07 PM)
-            ☐ Java https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-java (2024-12-03 11:07 PM)
-            ☐ JavaScript https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-javascript (2024-12-03 11:07 PM)
-            ☐ PowerShell https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-powershell (2024-12-03 11:07 PM)
-            ☐ Python https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-python (2024-12-03 11:07 PM)
-            ☐ TypeScript https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-typescript (2024-12-03 11:07 PM)
+            ✘ C# https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-csharp (2024-12-03 11:07 PM) @cancelled
+            ✘ Java https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-java (2024-12-03 11:07 PM) @cancelled
+            ✘ JavaScript https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-javascript (2024-12-03 11:07 PM) @cancelled
+            ✘ PowerShell https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-powershell (2024-12-03 11:07 PM) @cancelled
+            ✘ Python https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-python (2024-12-03 11:07 PM) @cancelled
+            ✘ TypeScript https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-typescript (2024-12-03 11:07 PM) @cancelled
     Tutorials:
         ☐ Functions with Logic Apps https://learn.microsoft.com/en-us/azure/azure-functions/functions-twitter-email (2024-08-09 05:35 AM)
         ☐ Develop Python functions with VS Code https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python (2024-09-11 05:35 AM)
@@ -100,7 +100,7 @@ Azure Functions documentation | Microsoft Learn:
         ☐ Image resize with Event Grid https://learn.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event?toc=/azure/azure-functions/toc.json (2024-12-13 06:02 PM)
         ☐ Create a serverless web app https://learn.microsoft.com/training/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/ (2024-11-01 07:22 PM)
         Data + AI:
-            ☐ Azure OpenAI for text completion https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion (2024-12-03 11:07 PM)
+            ✘ Azure OpenAI for text completion https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion (2024-12-03 11:07 PM) @cancelled
             ☐ Machine learning with TensorFlow https://learn.microsoft.com/en-us/azure/azure-functions/functions-machine-learning-tensorflow (2024-12-19 06:04 PM)
             ☐ Image classification with PyTorch https://learn.microsoft.com/en-us/azure/azure-functions/machine-learning-pytorch (2024-12-19 06:04 PM)
         ☐ Functions on IoT Edge device https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function?toc=/azure/azure-functions/toc.json (2024-10-16 10:05 PM)
@@ -544,4 +544,16 @@ Azure Functions documentation | Microsoft Learn:
                 ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql-output (2025-01-02 11:04 PM)
             ☐ Warmup https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-warmup (2025-01-02 11:04 PM)
         ☐ Language support policy https://learn.microsoft.com/en-us/azure/azure-functions/language-support-policy (2025-01-03 11:01 PM)
+
+
+---
+
+            ☐ C# https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-csharp (2025-01-07 11:03 PM)
+            ☐ Java https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-java (2025-01-07 11:03 PM)
+            ☐ JavaScript https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-javascript (2025-01-07 11:03 PM)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-powershell (2025-01-07 11:03 PM)
+            ☐ Python https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-python (2025-01-07 11:03 PM)
+            ☐ TypeScript https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-typescript (2025-01-07 11:03 PM)
+            ☐ Azure OpenAI for text completion https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion (2025-01-07 11:03 PM)
+                ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql-input (2024-11-11 11:02 PM)
 

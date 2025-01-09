@@ -62,7 +62,7 @@ Azure Container Apps documentation | Microsoft Learn:
             Code interpreter sessions:
                 ☐ AutoGen https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-autogen (2024-11-21 11:02 PM)
                 ☐ LangChain https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain (2024-11-21 11:02 PM)
-                ☐ LlamaIndex https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex (2024-11-21 11:02 PM)
+                ✘ LlamaIndex https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex (2024-11-21 11:02 PM) @cancelled
                 ☐ Semantic Kernel https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel (2024-11-21 11:02 PM)
                 ✘ JavaScript Code Interpreter (preview) https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs (2024-11-19 06:02 PM) @cancelled
         Event-driven processing:
@@ -90,14 +90,14 @@ Azure Container Apps documentation | Microsoft Learn:
         ☐ Set up environment custom DNS suffix https://learn.microsoft.com/en-us/azure/container-apps/environment-custom-dns-suffix (2024-08-04 11:36 AM)
         ☐ Certificates from Key Vault https://learn.microsoft.com/en-us/azure/container-apps/key-vault-certificates-manage (2024-09-19 10:05 PM)
     Authentication:
-        ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/authentication (2024-08-09 05:35 AM)
+        ✘ Overview https://learn.microsoft.com/en-us/azure/container-apps/authentication (2024-08-09 05:35 AM) @cancelled
         Enable authentication:
-            ☐ Microsoft Entra ID https://learn.microsoft.com/en-us/azure/container-apps/authentication-azure-active-directory (2024-12-20 06:07 PM)
-            ☐ Facebook https://learn.microsoft.com/en-us/azure/container-apps/authentication-facebook (2024-10-16 05:09 PM)
-            ☐ GitHub https://learn.microsoft.com/en-us/azure/container-apps/authentication-github (2024-10-28 06:09 PM)
-            ☐ Google https://learn.microsoft.com/en-us/azure/container-apps/authentication-google (2024-11-19 11:02 PM)
-            ☐ X https://learn.microsoft.com/en-us/azure/container-apps/authentication-twitter (2024-11-19 11:02 PM)
-            ☐ Custom OpenID Connect https://learn.microsoft.com/en-us/azure/container-apps/authentication-openid (2024-10-16 05:09 PM)
+            ✘ Microsoft Entra ID https://learn.microsoft.com/en-us/azure/container-apps/authentication-azure-active-directory (2024-12-20 06:07 PM) @cancelled
+            ✘ Facebook https://learn.microsoft.com/en-us/azure/container-apps/authentication-facebook (2024-10-16 05:09 PM) @cancelled
+            ✘ GitHub https://learn.microsoft.com/en-us/azure/container-apps/authentication-github (2024-10-28 06:09 PM) @cancelled
+            ✘ Google https://learn.microsoft.com/en-us/azure/container-apps/authentication-google (2024-11-19 11:02 PM) @cancelled
+            ✘ X https://learn.microsoft.com/en-us/azure/container-apps/authentication-twitter (2024-11-19 11:02 PM) @cancelled
+            ✘ Custom OpenID Connect https://learn.microsoft.com/en-us/azure/container-apps/authentication-openid (2024-10-16 05:09 PM) @cancelled
     Security:
         ☐ Manage secrets https://learn.microsoft.com/en-us/azure/container-apps/manage-secrets (2024-12-13 11:03 PM)
         ☐ Token store https://learn.microsoft.com/en-us/azure/container-apps/token-store (2024-08-04 11:36 AM)
@@ -115,12 +115,12 @@ Azure Container Apps documentation | Microsoft Learn:
             ☐ CLI https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-manage-cli (2024-11-19 06:02 PM)
             ☐ Portal https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-manage-portal (2024-10-04 05:06 PM)
     GPUs:
-        ☐ Serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview (2024-12-10 05:41 AM)
+        ✘ Serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview (2024-12-10 05:41 AM) @cancelled
         Tutorials:
-            ☐ Generate images with serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation (2024-11-21 11:02 PM)
+            ✘ Generate images with serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation (2024-11-21 11:02 PM) @cancelled
     Microservices:
         Developing with Dapr:
-            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview (2024-12-12 11:04 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview (2024-12-12 11:04 PM) @cancelled
             Get started:
                 ☐ Deploy using Azure CLI https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr (2024-12-12 11:04 PM)
                 ☐ Deploy using ARM or Bicep https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-azure-resource-manager (2024-12-12 11:04 PM)
@@ -139,7 +139,7 @@ Azure Container Apps documentation | Microsoft Learn:
                 ☐ Event-driven work using Dapr Bindings https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-bindings (2024-12-11 11:02 PM)
                 ☐ Microservices communication using Dapr Service Invocation https://learn.microsoft.com/en-us/azure/container-apps/microservices-dapr-service-invoke (2024-08-05 10:12 PM)
     Networking, ingress, and network security:
-        ☐ Architecture overview https://learn.microsoft.com/en-us/azure/container-apps/networking (2024-12-20 06:07 PM)
+        ✘ Architecture overview https://learn.microsoft.com/en-us/azure/container-apps/networking (2024-12-20 06:07 PM) @cancelled
         ☐ Use a custom virtual network https://learn.microsoft.com/en-us/azure/container-apps/vnet-custom (2024-12-20 06:07 PM)
         Ingress:
             ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/ingress-overview (2024-11-21 11:02 PM)
@@ -153,7 +153,7 @@ Azure Container Apps documentation | Microsoft Learn:
         Security:
             ☐ Configure WAF Application Gateway https://learn.microsoft.com/en-us/azure/container-apps/waf-app-gateway (2024-12-20 06:07 PM)
             ☐ Enable User Defined Routes (UDR) https://learn.microsoft.com/en-us/azure/container-apps/user-defined-routes (2024-10-21 10:04 PM)
-            ☐ Securing a custom VNET with an NSG https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration (2024-12-15 12:14 PM)
+            ✘ Securing a custom VNET with an NSG https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration (2024-12-15 12:14 PM) @cancelled
             ☐ Use a private endpoint https://learn.microsoft.com/en-us/azure/container-apps/how-to-use-private-endpoint (2024-12-12 06:02 PM)
             ☐ Integrate with Azure Front Door https://learn.microsoft.com/en-us/azure/container-apps/how-to-integrate-with-azure-front-door (2024-12-12 11:04 PM)
     Languages and runtimes:
@@ -169,7 +169,7 @@ Azure Container Apps documentation | Microsoft Learn:
             ☐ Get started using IntelliJ https://learn.microsoft.com/azure/developer/java/toolkit-for-intellij/create-container-apps-intellij?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json (2024-06-10 04:59 PM)
             ☐ Automatic memory fitting (preview) https://learn.microsoft.com/en-us/azure/container-apps/java-memory-fit (2024-09-26 05:05 PM)
             ☐ Build environment variables (preview) https://learn.microsoft.com/en-us/azure/container-apps/java-build-environment-variables (2024-09-26 05:05 PM)
-            ☐ Metrics https://learn.microsoft.com/en-us/azure/container-apps/java-metrics (2024-09-16 05:37 PM)
+            ✘ Metrics https://learn.microsoft.com/en-us/azure/container-apps/java-metrics (2024-09-16 05:37 PM) @cancelled
             ☐ Connect to Eureka Server for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server (2024-12-11 11:02 PM)
             ☐ Connect to Admin for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-admin (2024-11-19 06:02 PM)
             ☐ Connect to Config Server for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-config-server (2024-11-19 06:02 PM)
@@ -215,4 +215,18 @@ Azure Container Apps documentation | Microsoft Learn:
 
                 ☐ JavaScript Code Interpreter (preview) https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs (2025-01-02 11:04 PM)
         ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/scale-app (2025-01-06 11:02 PM)
+
+
+---
+
+                ☐ LlamaIndex https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex (2025-01-08 11:02 PM)
+        ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/authentication (2025-01-08 11:02 PM)
+        ☐ Serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview (2025-01-09 05:32 AM)
+            ☐ Generate images with serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation (2025-01-09 05:32 AM)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview (2025-01-09 06:03 PM)
+        ☐ Architecture overview https://learn.microsoft.com/en-us/azure/container-apps/networking (2025-01-08 11:02 PM)
+            ☐ Securing a custom VNET with an NSG https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration (2025-01-09 12:11 PM)
+            ☐ Metrics https://learn.microsoft.com/en-us/azure/container-apps/java-metrics (2025-01-09 05:32 AM)
+            ☐ Scale with Java metrics https://learn.microsoft.com/en-us/azure/container-apps/java-metrics-scale-with-keda (2025-01-09 05:32 AM)
+                ☐ Build a Java metrics dashboard with Azure Managed Grafana https://learn.microsoft.com/en-us/azure/container-apps/java-metrics-with-grafana (2025-01-09 05:32 AM)
 

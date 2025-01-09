@@ -28,7 +28,7 @@ Bicep documentation | Microsoft Learn:
             ☐ Cognitive Search https://learn.microsoft.com/azure/search/search-get-started-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-12-10 06:00 PM)
             ☐ Azure AI services https://learn.microsoft.com/azure/ai-services/create-account-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-11-06 11:00 PM)
             ☐ Data Science Virtual Machine https://learn.microsoft.com/azure/machine-learning/data-science-virtual-machine/dsvm-tutorial-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-10-11 08:18 AM)
-            ☐ Machine Learning secure workspace https://learn.microsoft.com/azure/machine-learning/tutorial-create-secure-workspace-template?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-28 04:59 PM)
+            ✘ Machine Learning secure workspace https://learn.microsoft.com/azure/machine-learning/tutorial-create-secure-workspace-template?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-28 04:59 PM) @cancelled
         Analytics:
             ☐ Analysis Services https://learn.microsoft.com/en-us/azure/analysis-services/analysis-services-create-bicep-file?toc=/azure/azure-resource-manager/bicep/toc.json (2024-06-27 05:04 PM)
             ☐ Data Factory https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-10-04 11:22 AM)
@@ -78,7 +78,7 @@ Bicep documentation | Microsoft Learn:
         Management and Governance:
             ☐ Advisor https://learn.microsoft.com/azure/advisor/advisor-alerts-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-09-11 04:50 PM)
             ☐ Backup https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-bicep-template?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-02 05:06 PM)
-            ☐ Cost Management + Billing https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/quick-create-budget-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-06-27 05:04 PM)
+            ✘ Cost Management + Billing https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/quick-create-budget-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-06-27 05:04 PM) @cancelled
             ☐ Microsoft Purview account https://learn.microsoft.com/en-us/azure/purview/quickstart-bicep-create-azure-purview?toc=/azure/azure-resource-manager/bicep/toc.json (2024-11-12 12:36 AM)
             ☐ Monitor https://learn.microsoft.com/azure/azure-monitor/essentials/resource-manager-diagnostic-settings?toc=/azure/azure-resource-manager/bicep/toc.json (2024-09-11 04:50 PM)
             ☐ Policy https://learn.microsoft.com/en-us/azure/governance/policy/assign-policy-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-07-09 05:13 PM)
@@ -98,7 +98,7 @@ Bicep documentation | Microsoft Learn:
             ☐ Firewall - Availability Zones https://learn.microsoft.com/en-us/azure/firewall/deploy-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-02 05:06 PM)
             ☐ Firewall - IP Groups https://learn.microsoft.com/en-us/azure/firewall/quick-create-ipgroup-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-02 05:06 PM)
             ☐ Firewall - multiple addresses https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-02 05:06 PM)
-            ☐ Firewall Manager - policy https://learn.microsoft.com/en-us/azure/firewall-manager/quick-firewall-policy-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-02 05:06 PM)
+            ✘ Firewall Manager - policy https://learn.microsoft.com/en-us/azure/firewall-manager/quick-firewall-policy-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-02 05:06 PM) @cancelled
             ☐ Firewall Manager - virtual hub https://learn.microsoft.com/en-us/azure/firewall-manager/quick-secure-virtual-hub-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-02 05:06 PM)
             ☐ Front Door https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-10-06 11:23 AM)
             ☐ Front Door - Standard/Premium https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-11-19 06:02 PM)
@@ -175,7 +175,7 @@ Bicep documentation | Microsoft Learn:
     How to:
         Author:
             ☐ Best practices https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices (2024-07-11 05:12 PM)
-            ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/visual-studio-code (2024-12-08 12:09 PM)
+            ✘ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/visual-studio-code (2024-12-08 12:09 PM) @cancelled
             ☐ Private module registry https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/private-module-registry (2024-09-19 06:07 PM)
             Deployment script:
                 ☐ Use deployment script resource https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deployment-script-bicep (2024-11-04 11:02 PM)
@@ -328,6 +328,16 @@ Bicep documentation | Microsoft Learn:
 
 ---
 
-        ☐ Create Bicep templates - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code (2025-01-03 11:01 PM)
-            ☐ Database for PostgreSQL - Flexible Server https://learn.microsoft.com/azure/postgresql/flexible-server/quickstart-create-server-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-05 12:06 PM)
+        ✘ Create Bicep templates - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code (2025-01-03 11:01 PM) @cancelled
+            ✘ Database for PostgreSQL - Flexible Server https://learn.microsoft.com/azure/postgresql/flexible-server/quickstart-create-server-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-05 12:06 PM) @cancelled
+
+
+---
+
+        ☐ Create Bicep templates - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code (2025-01-07 11:03 PM)
+            ☐ Machine Learning secure workspace https://learn.microsoft.com/azure/machine-learning/tutorial-create-secure-workspace-template?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-08 05:31 AM)
+            ☐ Database for PostgreSQL - Flexible Server https://learn.microsoft.com/azure/postgresql/flexible-server/quickstart-create-server-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-08 05:32 AM)
+            ☐ Cost Management + Billing https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/quick-create-budget-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-08 11:02 PM)
+            ☐ Firewall Manager - policy https://learn.microsoft.com/en-us/azure/firewall-manager/quick-firewall-policy-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-08 11:02 PM)
+            ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/visual-studio-code (2025-01-08 06:02 PM)
 

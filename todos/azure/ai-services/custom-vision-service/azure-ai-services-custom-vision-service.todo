@@ -3,7 +3,7 @@ Custom Vision documentation - Quickstarts, Tutorials, API Reference - Azure AI s
     Overview:
         ☐ What is Custom Vision? https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/overview (2024-11-21 05:31 AM)
         ☐ Pricing and limits https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/limits-and-quotas (2024-08-28 04:59 PM)
-        ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/whats-new (2024-08-28 04:59 PM)
+        ✘ What's new https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/whats-new (2024-08-28 04:59 PM) @cancelled
         ☐ Custom Vision FAQ https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/faq (2024-08-28 04:59 PM)
     Quickstarts:
         Build a classifier:
@@ -20,18 +20,18 @@ Custom Vision documentation - Quickstarts, Tutorials, API Reference - Azure AI s
         ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/custom-vision/custom-vision-cvs-data-privacy-security?context=/azure/ai-services/custom-vision-service/context/context (2024-07-17 05:30 PM)
     How-to guides:
         ☐ Test your model https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/test-your-model (2024-08-28 04:59 PM)
-        ☐ Improve your model https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/getting-started-improving-your-classifier (2024-08-28 04:59 PM)
+        ✘ Improve your model https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/getting-started-improving-your-classifier (2024-08-28 04:59 PM) @cancelled
         ☐ Select a domain https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/select-domain (2024-11-20 06:02 PM)
         ☐ Use the prediction API https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/use-prediction-api (2024-11-20 06:02 PM)
         ☐ Use Smart Labeler https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/suggested-tags (2024-08-28 04:59 PM)
         ☐ Azure role-based access control https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/role-based-access-control (2024-08-28 04:59 PM)
         Export models:
             ☐ Export your model to mobile https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/export-your-model (2024-11-19 11:00 PM)
-            ☐ Export a model programmatically https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/export-programmatically (2024-08-28 04:59 PM)
+            ✘ Export a model programmatically https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/export-programmatically (2024-08-28 04:59 PM) @cancelled
             ☐ Use ONNX model with Windows ML https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/custom-vision-onnx-windows-ml (2024-08-28 04:59 PM)
             ☐ Run TensorFlow model in Python https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/export-model-python (2024-08-28 04:59 PM)
         ☐ Integrate storage notifications https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/storage-integration (2024-08-28 04:59 PM)
-        ☐ Copy and back up projects https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/copy-move-projects (2024-08-28 04:59 PM)
+        ✘ Copy and back up projects https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/copy-move-projects (2024-08-28 04:59 PM) @cancelled
         ☐ View or delete account data https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/export-delete-data (2024-08-28 04:59 PM)
         Enterprise readiness:
             ☐ Set up Virtual Networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/custom-vision-service/context/context (2024-11-20 06:02 PM)
@@ -91,4 +91,12 @@ Custom Vision documentation - Quickstarts, Tutorials, API Reference - Azure AI s
 ---
 
             ✘ Java https://learn.microsoft.com/java/api/overview/azure/cognitiveservices/client/customvision (2024-12-30 12:16 PM) @cancelled(24-12-30 20:21)
+
+
+---
+
+        ✔ What's new https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/whats-new (2025-01-08 05:31 AM) @done(25-01-09 21:31)
+        ✔ Improve your model https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/getting-started-improving-your-classifier (2025-01-08 05:31 AM) @done(25-01-09 21:32)
+            ✔ Export a model programmatically https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/export-programmatically (2025-01-08 05:31 AM) @done(25-01-09 21:32)
+        ✔ Copy and back up projects https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/copy-move-projects (2025-01-08 05:31 AM) @done(25-01-09 21:32)
 

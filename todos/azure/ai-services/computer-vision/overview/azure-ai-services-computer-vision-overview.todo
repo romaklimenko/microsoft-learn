@@ -80,7 +80,7 @@ What is Azure AI Vision? - Azure AI services | Microsoft Learn:
                     ☐ Product Recognition with custom model https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/shelf-model-customization (2024-12-19 06:03 PM)
                     ☐ Check planogram compliance https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/shelf-planogram (2024-12-19 06:03 PM)
                 ☐ Call the Multimodal embeddings APIs https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/image-retrieval (2024-12-19 06:03 PM)
-                ☐ Call the Background removal API (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/background-removal (2024-12-19 06:03 PM)
+                ✘ Call the Background removal API (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/background-removal (2024-12-19 06:03 PM) @cancelled
                 ☐ Configure a storage account https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/blob-storage-search (2024-12-19 06:03 PM)
             Version 3.2:
                 ☐ Call the Analyze API https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/call-analyze-image (2024-12-19 06:03 PM)
@@ -147,7 +147,7 @@ What is Azure AI Vision? - Azure AI services | Microsoft Learn:
                 ☐ Specify a face detection model version https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-detection-model (2024-11-22 06:02 PM)
                 ☐ Use the HeadPose attribute https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/use-headpose (2024-11-22 06:02 PM)
             Face recognition (limited access):
-                ☐ Specify a face recognition model version https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-recognition-model (2024-11-22 06:02 PM)
+                ✘ Specify a face recognition model version https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-recognition-model (2024-11-22 06:02 PM) @cancelled
                 ☐ Add faces to a PersonGroup https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/add-faces (2024-11-22 06:02 PM)
                 ☐ Use the PersonDirectory structure (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/use-persondirectory (2024-11-28 05:35 AM)
                 ☐ Scale to handle more enrolled users https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/use-large-scale (2024-11-28 05:35 AM)
@@ -158,7 +158,7 @@ What is Azure AI Vision? - Azure AI services | Microsoft Learn:
                 ☐ Use customer-managed keys https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/identity-encrypt-data-at-rest (2024-11-22 06:02 PM)
         Tutorials:
             ☐ Detect liveness in faces https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/tutorials/liveness (2024-11-22 06:02 PM)
-            ☐ Add users to a Face identification app https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/tutorials/build-enrollment-app (2024-11-22 06:02 PM)
+            ✘ Add users to a Face identification app https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/tutorials/build-enrollment-app (2024-11-22 06:02 PM) @cancelled
         ☐ Samples https://aka.ms/FaceSamples
         Responsible use of AI:
             Transparency notes:
@@ -194,7 +194,7 @@ What is Azure AI Vision? - Azure AI services | Microsoft Learn:
             ☐ Call the Video Retrieval APIs https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/video-retrieval (2024-12-19 06:03 PM)
             Use the Spatial Analysis container:
                 ☐ Set up the host machine and run the container https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-container (2024-12-19 06:03 PM)
-                ☐ Configure operations https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-operations (2024-12-19 06:03 PM)
+                ✘ Configure operations https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-operations (2024-12-19 06:03 PM) @cancelled
                 ☐ Configure vehicle analysis https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/vehicle-analysis (2024-12-19 06:03 PM)
                 ☐ Use a local video file https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-local (2024-12-19 06:03 PM)
                 ☐ Logging and troubleshooting https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-logging (2024-12-19 06:03 PM)
@@ -261,4 +261,12 @@ What is Azure AI Vision? - Azure AI services | Microsoft Learn:
 ---
 
                 ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe (2025-01-03 06:01 PM)
+
+
+---
+
+                ✔ Call the Background removal API (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/background-removal (2025-01-08 05:31 AM) @done(25-01-09 21:29)
+                ✔ Specify a face recognition model version https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-recognition-model (2025-01-08 05:31 AM) @done(25-01-09 21:29)
+            ✔ Add users to a Face identification app https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/tutorials/build-enrollment-app (2025-01-08 05:31 AM) @done(25-01-09 21:30)
+                ✔ Configure operations https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-operations (2025-01-08 05:31 AM) @done(25-01-09 21:30)
 

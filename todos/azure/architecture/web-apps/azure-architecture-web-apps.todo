@@ -1,14 +1,14 @@
 Web architecture design - Azure Architecture Center | Microsoft Learn:
     Web applications https://learn.microsoft.com/en-us/azure/architecture/web-apps/ (2024-12-18 07:03 PM):
         Explore ideas about:
-            ☐ Hosting an e-commerce web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/scalable-ecommerce-web-app (2024-10-11 05:31 PM)
-            ☐ Network securing an e-commerce web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/ecommerce-website-running-in-secured-ase (2024-10-11 05:31 PM)
-            ☐ Migrating a workload to containers with App Service https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/migrate-existing-applications-to-container-apps (2024-10-11 05:31 PM)
+            ✘ Hosting an e-commerce web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/scalable-ecommerce-web-app (2024-10-11 05:31 PM) @cancelled
+            ✘ Network securing an e-commerce web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/ecommerce-website-running-in-secured-ase (2024-10-11 05:31 PM) @cancelled
+            ✘ Migrating a workload to containers with App Service https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/migrate-existing-applications-to-container-apps (2024-10-11 05:31 PM) @cancelled
         Design architectures:
             Host web apps with App Service:
                 ☐ Basic web application https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/basic-web-app (2024-10-11 05:31 PM)
                 ☐ Baseline web application with zone redundancy https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/baseline-zone-redundant (2024-10-11 05:31 PM)
-                ☐ Active-passive multi-region web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/multi-region (2024-10-11 05:31 PM)
+                ✘ Active-passive multi-region web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/multi-region (2024-10-11 05:31 PM) @cancelled
             Host web apps with App Service Environment:
                 ☐ Standard deployment https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service-environment/architectures/ase-standard-deployment (2024-10-11 05:31 PM)
                 ☐ High availability deployment https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service-environment/architectures/ase-high-availability-deployment (2024-10-11 05:31 PM)
@@ -17,7 +17,7 @@ Web architecture design - Azure Architecture Center | Microsoft Learn:
                 ☐ Design API with API Management and GitHub https://learn.microsoft.com/en-us/azure/architecture/example-scenario/web/design-api-developer-experiences-management-github (2024-09-12 04:46 PM)
             Host serverless web apps with Azure Functions:
                 ☐ Serverless web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/serverless/architectures/web-app (2024-10-11 05:31 PM)
-                ☐ Serverless code walkthrough https://learn.microsoft.com/en-us/azure/architecture/web-apps/serverless/architectures/code (2024-10-11 05:31 PM)
+                ✘ Serverless code walkthrough https://learn.microsoft.com/en-us/azure/architecture/web-apps/serverless/architectures/code (2024-10-11 05:31 PM) @cancelled
         Apply guidance:
             Networking guidance for web apps:
                 ☐ Securing access to multitenant web apps from on prem https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/networking/access-multitenant-web-app-from-on-premises (2024-10-15 05:30 PM)
@@ -37,7 +37,19 @@ Web architecture design - Azure Architecture Center | Microsoft Learn:
                 ☐ Multi-region App Service apps for disaster recovery https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/multi-region-app-service/multi-region-app-service (2024-11-08 06:32 PM)
         Hosting Wordpress on Azure:
             ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/guide/infrastructure/wordpress-overview (2024-09-12 04:46 PM)
-            ☐ Container hosting (AKS) https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-container (2024-10-11 05:31 PM)
-            ☐ App Service hosting https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-app-service (2024-10-11 05:31 PM)
-            ☐ VM hosting https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-iaas (2024-09-12 04:46 PM)
+            ✘ Container hosting (AKS) https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-container (2024-10-11 05:31 PM) @cancelled
+            ✘ App Service hosting https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-app-service (2024-10-11 05:31 PM) @cancelled
+            ✘ VM hosting https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-iaas (2024-09-12 04:46 PM) @cancelled
+
+
+---
+
+            ☐ Hosting an e-commerce web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/scalable-ecommerce-web-app (2025-01-08 06:33 PM)
+            ☐ Network securing an e-commerce web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/ecommerce-website-running-in-secured-ase (2025-01-08 06:33 PM)
+            ☐ Migrating a workload to containers with App Service https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/migrate-existing-applications-to-container-apps (2025-01-08 06:33 PM)
+                ☐ Active-passive multi-region web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/multi-region (2025-01-08 06:33 PM)
+                ☐ Serverless code walkthrough https://learn.microsoft.com/en-us/azure/architecture/web-apps/serverless/architectures/code (2025-01-08 06:33 PM)
+            ☐ Container hosting (AKS) https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-container (2025-01-08 06:33 PM)
+            ☐ App Service hosting https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-app-service (2025-01-08 06:33 PM)
+            ☐ VM hosting https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-iaas (2025-01-08 06:33 PM)
 
