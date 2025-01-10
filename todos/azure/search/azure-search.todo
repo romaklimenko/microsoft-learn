@@ -11,7 +11,7 @@ Azure AI Search documentation | Microsoft Learn:
         ✘ Generative search (RAG) https://learn.microsoft.com/en-us/azure/search/search-get-started-rag (2024-12-11 06:01 PM) @cancelled @cancelled
         ✘ Full text search https://learn.microsoft.com/en-us/azure/search/search-get-started-text (2024-12-06 11:01 PM) @cancelled @cancelled
         ✘ Semantic ranking https://learn.microsoft.com/en-us/azure/search/search-get-started-semantic (2024-12-06 11:01 PM) @cancelled @cancelled
-        ☐ Chat with your data https://learn.microsoft.com/azure/ai-services/openai/use-your-data-quickstart?context=/azure/search/context/context (2024-11-27 11:02 PM)
+        ✘ Chat with your data https://learn.microsoft.com/azure/ai-services/openai/use-your-data-quickstart?context=/azure/search/context/context (2024-11-27 11:02 PM) @cancelled
         ✘ Connect without keys https://learn.microsoft.com/en-us/azure/search/search-get-started-rbac (2024-12-19 10:58 PM) @cancelled @cancelled
         Azure portal:
             ✘ Keyword search wizard https://learn.microsoft.com/en-us/azure/search/search-get-started-portal (2024-12-06 11:01 PM) @cancelled @cancelled
@@ -383,8 +383,8 @@ Azure AI Search documentation | Microsoft Learn:
         ☐ Features https://learn.microsoft.com/en-us/azure/search/search-features-list (2024-12-06 11:01 PM)
         ☐ Try search for free https://learn.microsoft.com/en-us/azure/search/search-try-for-free (2024-12-06 11:01 PM)
         ☐ FAQ https://learn.microsoft.com/en-us/azure/search/search-faq-frequently-asked-questions (2024-12-06 11:01 PM)
-        ☐ Vector search https://learn.microsoft.com/en-us/azure/search/search-get-started-vector (2024-12-06 11:01 PM)
-        ☐ Generative search (RAG) https://learn.microsoft.com/en-us/azure/search/search-get-started-rag (2024-12-11 06:01 PM)
+        ✘ Vector search https://learn.microsoft.com/en-us/azure/search/search-get-started-vector (2024-12-06 11:01 PM) @cancelled
+        ✘ Generative search (RAG) https://learn.microsoft.com/en-us/azure/search/search-get-started-rag (2024-12-11 06:01 PM) @cancelled
         ✘ Full text search https://learn.microsoft.com/en-us/azure/search/search-get-started-text (2024-12-06 11:01 PM) @cancelled
         ☐ Semantic ranking https://learn.microsoft.com/en-us/azure/search/search-get-started-semantic (2024-12-06 11:01 PM)
         ☐ Connect without keys https://learn.microsoft.com/en-us/azure/search/search-get-started-rbac (2024-12-19 10:58 PM)
@@ -404,7 +404,7 @@ Azure AI Search documentation | Microsoft Learn:
                 ☐ Create a search index https://learn.microsoft.com/en-us/azure/search/tutorial-csharp-create-load-index (2024-10-11 08:18 AM)
                 ☐ Deploy static web app https://learn.microsoft.com/en-us/azure/search/tutorial-csharp-deploy-static-web-app (2024-10-11 08:18 AM)
                 ☐ Explore the code https://learn.microsoft.com/en-us/azure/search/tutorial-csharp-search-query-integration (2024-10-11 08:18 AM)
-            ☐ Query from Power Apps https://learn.microsoft.com/en-us/azure/search/search-howto-powerapps (2024-12-06 11:01 PM)
+            ✘ Query from Power Apps https://learn.microsoft.com/en-us/azure/search/search-howto-powerapps (2024-12-06 11:01 PM) @cancelled
             ☐ Index any data https://learn.microsoft.com/en-us/azure/search/tutorial-optimize-indexing-push-api (2024-12-06 11:01 PM)
             ☐ Index at scale (Apache Spark) https://learn.microsoft.com/en-us/azure/search/search-synapseml-cognitive-services (2024-12-06 11:01 PM)
             ☐ Index Azure SQL Database https://learn.microsoft.com/en-us/azure/search/search-indexer-tutorial (2024-12-06 11:01 PM)
@@ -416,8 +416,8 @@ Azure AI Search documentation | Microsoft Learn:
             ☐ Build a RAG solution https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution (2024-10-11 08:18 AM)
             ☐ Choose models https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-models (2024-12-04 11:02 PM)
             ☐ Design an index https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-index-schema (2024-12-18 10:58 PM)
-            ☐ Build an indexing pipeline https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-pipeline (2024-11-21 06:03 PM)
-            ☐ Search and generate answers https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-query (2024-12-05 12:14 PM)
+            ✘ Build an indexing pipeline https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-pipeline (2024-11-21 06:03 PM) @cancelled
+            ✘ Search and generate answers https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-query (2024-12-05 12:14 PM) @cancelled
             ☐ Maximize relevance https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-maximize-relevance (2024-12-05 12:14 PM)
             ☐ Minimize storage and costs https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-minimize-storage (2024-12-05 12:14 PM)
             ☐ C# https://learn.microsoft.com/en-us/azure/search/cognitive-search-tutorial-blob-dotnet (2024-12-06 11:01 PM)
@@ -563,7 +563,7 @@ Azure AI Search documentation | Microsoft Learn:
                     ☐ SQL Database https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-sql (2024-12-10 06:00 PM)
                     ☐ SQL Managed Instance https://learn.microsoft.com/en-us/azure/search/search-index-azure-sql-managed-instance-with-managed-identity (2024-12-10 06:00 PM)
                 ☐ Connect through a firewall https://learn.microsoft.com/en-us/azure/search/search-indexer-howto-access-ip-restricted (2024-12-19 10:58 PM)
-                ☐ Connect using Network Security Perimeter https://learn.microsoft.com/en-us/azure/search/search-security-network-security-perimeter (2024-12-06 11:01 PM)
+                ✘ Connect using Network Security Perimeter https://learn.microsoft.com/en-us/azure/search/search-security-network-security-perimeter (2024-12-06 11:01 PM) @cancelled
                 ☐ Connect as a trusted service https://learn.microsoft.com/en-us/azure/search/search-indexer-howto-access-trusted-service-exception (2024-12-10 06:00 PM)
                 ☐ Connect through a shared private link https://learn.microsoft.com/en-us/azure/search/search-indexer-howto-access-private (2024-12-19 10:58 PM)
                 ☐ Connect to a SQL managed instance private endpoint https://learn.microsoft.com/en-us/azure/search/search-indexer-how-to-access-private-sql (2024-12-19 10:58 PM)
@@ -597,7 +597,7 @@ Azure AI Search documentation | Microsoft Learn:
                 ✘ com.azure.resourcemanager.search https://learn.microsoft.com/java/api/overview/azure/search/management (2024-12-25 12:12 PM) @cancelled
             ☐ Stopwords reference https://learn.microsoft.com/en-us/azure/search/reference-stopwords (2024-10-11 08:18 AM)
             ☐ Simple query syntax https://learn.microsoft.com/en-us/azure/search/query-simple-syntax (2024-12-17 11:02 PM)
-            ☐ Full Lucene query syntax https://learn.microsoft.com/en-us/azure/search/query-lucene-syntax (2024-12-11 06:01 PM)
+            ✘ Full Lucene query syntax https://learn.microsoft.com/en-us/azure/search/query-lucene-syntax (2024-12-11 06:01 PM) @cancelled
             ☐ moreLikeThis https://learn.microsoft.com/en-us/azure/search/search-more-like-this (2024-12-10 06:00 PM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/search/query-odata-filter-orderby-syntax (2024-12-10 06:00 PM)
                 ☐ $filter https://learn.microsoft.com/en-us/azure/search/search-query-odata-filter (2024-10-11 08:18 AM)
@@ -624,7 +624,7 @@ Azure AI Search documentation | Microsoft Learn:
                 ☐ OCR https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-ocr (2024-11-19 06:01 PM)
                 ☐ PII Detection https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-pii-detection (2024-10-17 10:00 PM)
                 ☐ Sentiment (v3) https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-sentiment-v3 (2024-10-17 10:00 PM)
-                ☐ Text Translation https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-text-translation (2024-10-17 10:00 PM)
+                ✘ Text Translation https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-text-translation (2024-10-17 10:00 PM) @cancelled
                 ☐ AI Vision multimodal embeddings https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-vision-vectorize (2024-10-17 10:00 PM)
                 ☐ Conditional https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-conditional (2024-10-11 08:18 AM)
                 ☐ Document Extraction https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-document-extraction (2024-10-17 10:00 PM)
@@ -671,6 +671,20 @@ Azure AI Search documentation | Microsoft Learn:
 
         ☐ Full text search https://learn.microsoft.com/en-us/azure/search/search-get-started-text (2025-01-07 06:02 PM)
             ☐ Vector search wizard https://learn.microsoft.com/en-us/azure/search/search-get-started-portal-import-vectors (2025-01-07 06:02 PM)
-            ☐ Service limits https://learn.microsoft.com/en-us/azure/search/search-limits-quotas-capacity (2025-01-07 06:02 PM)
+            ✘ Service limits https://learn.microsoft.com/en-us/azure/search/search-limits-quotas-capacity (2025-01-07 06:02 PM) @cancelled
                 ☐ Data sources gallery https://learn.microsoft.com/en-us/azure/search/search-data-sources-gallery (2025-01-06 06:01 PM)
+
+
+---
+
+        ☐ Vector search https://learn.microsoft.com/en-us/azure/search/search-get-started-vector (2025-01-07 11:01 PM)
+        ☐ Generative search (RAG) https://learn.microsoft.com/en-us/azure/search/search-get-started-rag (2025-01-09 06:00 PM)
+        ☐ Chat with your data https://learn.microsoft.com/azure/ai-services/openai/use-your-data-quickstart?context=/azure/search/context/context (2025-01-08 05:31 AM)
+            ☐ Query from Power Apps https://learn.microsoft.com/en-us/azure/search/search-howto-powerapps (2025-01-08 05:31 AM)
+            ☐ Build an indexing pipeline https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-pipeline (2025-01-08 11:01 PM)
+            ☐ Search and generate answers https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-query (2025-01-09 06:00 PM)
+            ☐ Service limits https://learn.microsoft.com/en-us/azure/search/search-limits-quotas-capacity (2025-01-09 06:00 PM)
+                ☐ Connect using Network Security Perimeter https://learn.microsoft.com/en-us/azure/search/search-security-network-security-perimeter (2025-01-08 05:31 AM)
+            ☐ Full Lucene query syntax https://learn.microsoft.com/en-us/azure/search/query-lucene-syntax (2025-01-08 05:31 AM)
+                ☐ Text Translation https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-text-translation (2025-01-08 05:31 AM)
 

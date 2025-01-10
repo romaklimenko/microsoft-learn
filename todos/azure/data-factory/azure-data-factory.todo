@@ -6,7 +6,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
         ☐ What's new (recent months) https://learn.microsoft.com/en-us/azure/data-factory/whats-new (2024-09-26 10:04 PM)
         ☐ What's new (archived months) https://learn.microsoft.com/en-us/azure/data-factory/whats-new-archive (2024-09-26 10:04 PM)
     Quickstarts:
-        ☐ Get started with Azure Data Factory https://learn.microsoft.com/en-us/azure/data-factory/quickstart-get-started (2024-08-02 11:27 AM)
+        ✘ Get started with Azure Data Factory https://learn.microsoft.com/en-us/azure/data-factory/quickstart-get-started (2024-08-02 11:27 AM) @cancelled
         ☐ Create a data factory https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory (2024-10-04 11:22 AM)
         ☐ Hello World - How to copy data https://learn.microsoft.com/en-us/azure/data-factory/quickstart-hello-world-copy-data-tool (2024-10-04 11:22 AM)
         ☐ Create a data flow https://learn.microsoft.com/en-us/azure/data-factory/data-flow-create (2024-08-02 11:27 AM)
@@ -57,7 +57,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
                 ☐ Transform data in the lake with Delta Lake https://learn.microsoft.com/en-us/azure/data-factory/tutorial-data-flow-delta-lake (2024-08-02 11:27 AM)
                 ☐ Transform data with mapping data flows https://learn.microsoft.com/en-us/azure/data-factory/tutorial-data-flow (2024-08-02 11:27 AM)
                 ☐ Mapping data flow video tutorials https://learn.microsoft.com/en-us/azure/data-factory/data-flow-tutorials (2024-08-02 11:27 AM)
-            ☐ Prepare data with wrangling https://learn.microsoft.com/en-us/azure/data-factory/wrangling-tutorial (2024-08-02 11:27 AM)
+            ✘ Prepare data with wrangling https://learn.microsoft.com/en-us/azure/data-factory/wrangling-tutorial (2024-08-02 11:27 AM) @cancelled
             Using external services:
                 HDInsight Spark:
                     ☐ User interface (UI) https://learn.microsoft.com/en-us/azure/data-factory/tutorial-transform-data-spark-portal (2024-10-04 11:22 AM)
@@ -102,22 +102,22 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
         Data flows:
             Transform data with mapping data flows:
                 ☐ Mapping data flow overview https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-overview (2024-09-26 10:04 PM)
-                ☐ Debug mode https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-debug-mode (2024-08-02 11:27 AM)
-                ☐ Schema drift https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-schema-drift (2024-08-02 11:27 AM)
-                ☐ Column patterns https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-column-pattern (2024-09-26 10:04 PM)
-                ☐ Data flow monitoring https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-monitoring (2024-08-02 11:27 AM)
+                ✘ Debug mode https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-debug-mode (2024-08-02 11:27 AM) @cancelled
+                ✘ Schema drift https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-schema-drift (2024-08-02 11:27 AM) @cancelled
+                ✘ Column patterns https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-column-pattern (2024-09-26 10:04 PM) @cancelled
+                ✘ Data flow monitoring https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-monitoring (2024-08-02 11:27 AM) @cancelled
                 Data flow performance:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance (2024-09-26 10:04 PM)
-                    ☐ Optimizing sources https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-sources (2024-08-02 11:27 AM)
-                    ☐ Optimizing sinks https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-sinks (2024-08-02 11:27 AM)
-                    ☐ Optimizing transformations https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-transformations (2024-08-02 11:27 AM)
-                    ☐ Using data flows in pipelines https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-pipelines (2024-08-02 11:27 AM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance (2024-09-26 10:04 PM) @cancelled
+                    ✘ Optimizing sources https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-sources (2024-08-02 11:27 AM) @cancelled
+                    ✘ Optimizing sinks https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-sinks (2024-08-02 11:27 AM) @cancelled
+                    ✘ Optimizing transformations https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-transformations (2024-08-02 11:27 AM) @cancelled
+                    ✘ Using data flows in pipelines https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-pipelines (2024-08-02 11:27 AM) @cancelled
                 ☐ Integration Runtime performance https://learn.microsoft.com/en-us/azure/data-factory/concepts-integration-runtime-performance (2024-08-02 11:27 AM)
                 ☐ Manage data flow canvas https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-manage-graph (2024-08-02 11:27 AM)
-                ☐ Flowlets https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-flowlet (2024-12-11 06:03 PM)
+                ✘ Flowlets https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-flowlet (2024-12-11 06:03 PM) @cancelled
                 ☐ Expression builder https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-expression-builder (2024-09-26 10:04 PM)
                 Expression language https://learn.microsoft.com/en-us/azure/data-factory/data-transformation-functions (2024-08-02 11:27 AM):
-                    ☐ Aggregate functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-aggregate-functions (2024-08-02 11:27 AM)
+                    ✘ Aggregate functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-aggregate-functions (2024-08-02 11:27 AM) @cancelled
                     ☐ Array functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-array-functions (2024-08-02 11:27 AM)
                     ☐ Cached lookup functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-cached-lookup-functions (2024-08-02 11:27 AM)
                     ☐ Conversion functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-conversion-functions (2024-09-26 10:04 PM)
@@ -125,15 +125,15 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
                     ☐ Expression functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-expression-functions (2024-08-02 11:27 AM)
                     ☐ Map functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-map-functions (2024-08-02 11:27 AM)
                     ☐ Metafunctions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-metafunctions (2024-08-02 11:27 AM)
-                    ☐ Window functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-window-functions (2024-08-02 11:27 AM)
+                    ✘ Window functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-window-functions (2024-08-02 11:27 AM) @cancelled
                     ☐ Alphabetical usage details for all functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-expressions-usage (2024-09-26 10:04 PM)
-                ☐ User defined functions https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-udf (2024-08-02 11:27 AM)
+                ✘ User defined functions https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-udf (2024-08-02 11:27 AM) @cancelled
             Prepare data with Power Query data wrangling:
-                ☐ Data wrangling overview https://learn.microsoft.com/en-us/azure/data-factory/wrangling-overview (2024-08-02 11:27 AM)
-                ☐ Supported functions https://learn.microsoft.com/en-us/azure/data-factory/wrangling-functions (2024-12-11 06:03 PM)
+                ✘ Data wrangling overview https://learn.microsoft.com/en-us/azure/data-factory/wrangling-overview (2024-08-02 11:27 AM) @cancelled
+                ✘ Supported functions https://learn.microsoft.com/en-us/azure/data-factory/wrangling-functions (2024-12-11 06:03 PM) @cancelled
         Change data capture:
-            ☐ Change data capture https://learn.microsoft.com/en-us/azure/data-factory/concepts-change-data-capture (2024-08-14 06:47 PM)
-            ☐ Change data capture resource https://learn.microsoft.com/en-us/azure/data-factory/concepts-change-data-capture-resource (2024-08-02 11:27 AM)
+            ✘ Change data capture https://learn.microsoft.com/en-us/azure/data-factory/concepts-change-data-capture (2024-08-14 06:47 PM) @cancelled
+            ✘ Change data capture resource https://learn.microsoft.com/en-us/azure/data-factory/concepts-change-data-capture-resource (2024-08-02 11:27 AM) @cancelled
         ☐ Roles and permissions https://learn.microsoft.com/en-us/azure/data-factory/concepts-roles-permissions (2024-08-02 11:27 AM)
         ☐ Naming rules https://learn.microsoft.com/en-us/azure/data-factory/naming-rules (2024-08-02 11:27 AM)
         ☐ Data redundancy https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-redundancy (2024-11-22 05:58 AM)
@@ -151,20 +151,20 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ Iterative development and debugging https://learn.microsoft.com/en-us/azure/data-factory/iterative-development-debugging (2024-08-02 11:27 AM)
             ☐ Deactivate and reactivate https://learn.microsoft.com/en-us/azure/data-factory/deactivate-activity (2024-12-11 06:03 PM)
             ☐ Management hub https://learn.microsoft.com/en-us/azure/data-factory/author-management-hub (2024-08-02 11:27 AM)
-            ☐ Source control https://learn.microsoft.com/en-us/azure/data-factory/source-control (2024-11-27 11:03 PM)
+            ✘ Source control https://learn.microsoft.com/en-us/azure/data-factory/source-control (2024-11-27 11:03 PM) @cancelled
             ☐ Author a change data capture resource https://learn.microsoft.com/en-us/azure/data-factory/how-to-change-data-capture-resource (2024-10-04 11:22 AM)
             ☐ Author a change data capture resource with schema evolution https://learn.microsoft.com/en-us/azure/data-factory/how-to-change-data-capture-resource-with-schema-evolution (2024-10-04 11:22 AM)
             ☐ Connect to Azure DevOps in another tenant https://learn.microsoft.com/en-us/azure/data-factory/cross-tenant-connections-to-azure-devops (2024-08-02 11:27 AM)
             ☐ Manage your environment with DataOps https://learn.microsoft.com/en-us/azure/data-factory/apply-dataops (2024-10-04 11:22 AM)
             Continuous integration and delivery:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery (2024-10-11 08:21 AM)
-                ☐ Automate with Azure Pipelines releases https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-automate-azure-pipelines (2024-09-26 10:04 PM)
-                ☐ Manually promote a Resource Manager template for each environment https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-manual-promotion (2024-08-02 11:27 AM)
-                ☐ Use custom parameters with a Resource Manager template https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-resource-manager-custom-parameters (2024-09-26 10:04 PM)
-                ☐ Linked Resource Manager templates https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-linked-templates (2024-08-02 11:27 AM)
-                ☐ Using a hotfix production environment https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-hotfix-environment (2024-08-02 11:27 AM)
-                ☐ Sample pre- and post-deployment script https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script (2024-09-26 10:04 PM)
-            ☐ Automated publishing for CI/CD https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements (2024-12-11 06:03 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery (2024-10-11 08:21 AM) @cancelled
+                ✘ Automate with Azure Pipelines releases https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-automate-azure-pipelines (2024-09-26 10:04 PM) @cancelled
+                ✘ Manually promote a Resource Manager template for each environment https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-manual-promotion (2024-08-02 11:27 AM) @cancelled
+                ✘ Use custom parameters with a Resource Manager template https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-resource-manager-custom-parameters (2024-09-26 10:04 PM) @cancelled
+                ✘ Linked Resource Manager templates https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-linked-templates (2024-08-02 11:27 AM) @cancelled
+                ✘ Using a hotfix production environment https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-hotfix-environment (2024-08-02 11:27 AM) @cancelled
+                ✘ Sample pre- and post-deployment script https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script (2024-09-26 10:04 PM) @cancelled
+            ✘ Automated publishing for CI/CD https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements (2024-12-11 06:03 PM) @cancelled
             ☐ Deploy linked ARM templates with VSTS https://learn.microsoft.com/en-us/azure/data-factory/deploy-linked-arm-templates-with-vsts (2024-10-04 11:22 AM)
         Connectors:
             ☐ Connector overview https://learn.microsoft.com/en-us/azure/data-factory/connector-overview (2024-11-06 12:14 PM)
@@ -203,7 +203,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ DB2 https://learn.microsoft.com/en-us/azure/data-factory/connector-db2 (2024-08-02 11:27 AM)
             ☐ Dataverse https://learn.microsoft.com/en-us/azure/data-factory/connector-dynamics-crm-office-365 (2024-12-16 11:03 PM)
             ☐ Delimited text format https://learn.microsoft.com/en-us/azure/data-factory/format-delimited-text (2024-09-26 10:04 PM)
-            ☐ Delta format https://learn.microsoft.com/en-us/azure/data-factory/format-delta (2024-08-02 11:27 AM)
+            ✘ Delta format https://learn.microsoft.com/en-us/azure/data-factory/format-delta (2024-08-02 11:27 AM) @cancelled
             ☐ Drill https://learn.microsoft.com/en-us/azure/data-factory/connector-drill (2024-09-05 11:18 AM)
             ☐ Dynamics 365 https://learn.microsoft.com/en-us/azure/data-factory/connector-dynamics-crm-office-365 (2024-12-16 11:03 PM)
             ☐ Dynamics AX https://learn.microsoft.com/en-us/azure/data-factory/connector-dynamics-ax (2024-08-02 11:27 AM)
@@ -315,7 +315,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ Format and compression support (legacy) https://learn.microsoft.com/en-us/azure/data-factory/supported-file-formats-and-compression-codecs-legacy (2024-12-11 06:03 PM)
         Transform data https://learn.microsoft.com/en-us/azure/data-factory/transform-data (2024-08-02 11:27 AM):
             ☐ Execute Data Flow activity https://learn.microsoft.com/en-us/azure/data-factory/control-flow-execute-data-flow-activity (2024-09-26 10:04 PM)
-            ☐ Execute Power Query activity https://learn.microsoft.com/en-us/azure/data-factory/control-flow-power-query-activity (2024-08-02 11:27 AM)
+            ✘ Execute Power Query activity https://learn.microsoft.com/en-us/azure/data-factory/control-flow-power-query-activity (2024-08-02 11:27 AM) @cancelled
             ☐ Azure Function activity https://learn.microsoft.com/en-us/azure/data-factory/control-flow-azure-function-activity (2024-09-26 10:04 PM)
             ☐ Custom activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-custom-activity (2024-10-04 11:22 AM)
             ☐ Databricks Jar activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-databricks-jar (2024-10-04 11:22 AM)
@@ -330,7 +330,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ HDInsight Streaming activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-hadoop-streaming (2024-10-04 11:22 AM)
             ☐ Machine Learning Execute Pipeline activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-machine-learning-service (2024-10-24 05:04 PM)
             ☐ Machine Learning Studio (classic) Batch Execution activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-machine-learning (2024-10-04 11:22 AM)
-            ☐ Machine Learning Studio (classic) Update Resource activity https://learn.microsoft.com/en-us/azure/data-factory/update-machine-learning-models (2024-10-25 10:04 PM)
+            ✘ Machine Learning Studio (classic) Update Resource activity https://learn.microsoft.com/en-us/azure/data-factory/update-machine-learning-models (2024-10-25 10:04 PM) @cancelled
             ☐ Mapping data flows https://learn.microsoft.com/en-us/azure/data-factory/tutorial-data-flow (2024-08-02 11:27 AM)
             ☐ Stored Procedure activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-stored-procedure (2024-12-11 06:03 PM)
             ☐ Script activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-script (2024-12-11 06:03 PM)
@@ -356,32 +356,32 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ Webhook activity https://learn.microsoft.com/en-us/azure/data-factory/control-flow-webhook-activity (2024-09-26 10:04 PM)
         Data flow transformations:
             ☐ Transformation overview https://learn.microsoft.com/en-us/azure/data-factory/data-flow-transformation-overview (2024-08-02 11:27 AM)
-            ☐ Aggregate https://learn.microsoft.com/en-us/azure/data-factory/data-flow-aggregate (2024-08-02 11:27 AM)
-            ☐ Alter row https://learn.microsoft.com/en-us/azure/data-factory/data-flow-alter-row (2024-09-26 10:04 PM)
-            ☐ Assert https://learn.microsoft.com/en-us/azure/data-factory/data-flow-assert (2024-08-02 11:27 AM)
-            ☐ Conditional split https://learn.microsoft.com/en-us/azure/data-factory/data-flow-conditional-split (2024-08-02 11:27 AM)
+            ✘ Aggregate https://learn.microsoft.com/en-us/azure/data-factory/data-flow-aggregate (2024-08-02 11:27 AM) @cancelled
+            ✘ Alter row https://learn.microsoft.com/en-us/azure/data-factory/data-flow-alter-row (2024-09-26 10:04 PM) @cancelled
+            ✘ Assert https://learn.microsoft.com/en-us/azure/data-factory/data-flow-assert (2024-08-02 11:27 AM) @cancelled
+            ✘ Conditional split https://learn.microsoft.com/en-us/azure/data-factory/data-flow-conditional-split (2024-08-02 11:27 AM) @cancelled
             ☐ Cast https://learn.microsoft.com/en-us/azure/data-factory/data-flow-cast (2024-12-11 06:03 PM)
             ☐ Derived column https://learn.microsoft.com/en-us/azure/data-factory/data-flow-derived-column (2024-08-02 11:27 AM)
-            ☐ Exists https://learn.microsoft.com/en-us/azure/data-factory/data-flow-exists (2024-08-02 11:27 AM)
-            ☐ External call https://learn.microsoft.com/en-us/azure/data-factory/data-flow-external-call (2024-08-02 11:27 AM)
-            ☐ Filter https://learn.microsoft.com/en-us/azure/data-factory/data-flow-filter (2024-08-02 11:27 AM)
-            ☐ Flatten https://learn.microsoft.com/en-us/azure/data-factory/data-flow-flatten (2024-08-02 11:27 AM)
-            ☐ Flowlet https://learn.microsoft.com/en-us/azure/data-factory/data-flow-flowlet (2024-08-02 11:27 AM)
-            ☐ Join https://learn.microsoft.com/en-us/azure/data-factory/data-flow-join (2024-08-02 11:27 AM)
-            ☐ Lookup https://learn.microsoft.com/en-us/azure/data-factory/data-flow-lookup (2024-08-02 11:27 AM)
+            ✘ Exists https://learn.microsoft.com/en-us/azure/data-factory/data-flow-exists (2024-08-02 11:27 AM) @cancelled
+            ✘ External call https://learn.microsoft.com/en-us/azure/data-factory/data-flow-external-call (2024-08-02 11:27 AM) @cancelled
+            ✘ Filter https://learn.microsoft.com/en-us/azure/data-factory/data-flow-filter (2024-08-02 11:27 AM) @cancelled
+            ✘ Flatten https://learn.microsoft.com/en-us/azure/data-factory/data-flow-flatten (2024-08-02 11:27 AM) @cancelled
+            ✘ Flowlet https://learn.microsoft.com/en-us/azure/data-factory/data-flow-flowlet (2024-08-02 11:27 AM) @cancelled
+            ✘ Join https://learn.microsoft.com/en-us/azure/data-factory/data-flow-join (2024-08-02 11:27 AM) @cancelled
+            ✘ Lookup https://learn.microsoft.com/en-us/azure/data-factory/data-flow-lookup (2024-08-02 11:27 AM) @cancelled
             ☐ New branch https://learn.microsoft.com/en-us/azure/data-factory/data-flow-new-branch (2024-08-02 11:27 AM)
-            ☐ Parse https://learn.microsoft.com/en-us/azure/data-factory/data-flow-parse (2024-08-02 11:27 AM)
-            ☐ Pivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-pivot (2024-08-02 11:27 AM)
-            ☐ Rank https://learn.microsoft.com/en-us/azure/data-factory/data-flow-rank (2024-08-02 11:27 AM)
-            ☐ Select https://learn.microsoft.com/en-us/azure/data-factory/data-flow-select (2024-08-02 11:27 AM)
-            ☐ Sink https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sink (2024-09-26 10:04 PM)
+            ✘ Parse https://learn.microsoft.com/en-us/azure/data-factory/data-flow-parse (2024-08-02 11:27 AM) @cancelled
+            ✘ Pivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-pivot (2024-08-02 11:27 AM) @cancelled
+            ✘ Rank https://learn.microsoft.com/en-us/azure/data-factory/data-flow-rank (2024-08-02 11:27 AM) @cancelled
+            ✘ Select https://learn.microsoft.com/en-us/azure/data-factory/data-flow-select (2024-08-02 11:27 AM) @cancelled
+            ✘ Sink https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sink (2024-09-26 10:04 PM) @cancelled
             ☐ Sort https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sort (2024-08-02 11:27 AM)
             ☐ Source https://learn.microsoft.com/en-us/azure/data-factory/data-flow-source (2024-09-26 10:04 PM)
-            ☐ Stringify https://learn.microsoft.com/en-us/azure/data-factory/data-flow-stringify (2024-08-02 11:27 AM)
+            ✘ Stringify https://learn.microsoft.com/en-us/azure/data-factory/data-flow-stringify (2024-08-02 11:27 AM) @cancelled
             ☐ Surrogate key https://learn.microsoft.com/en-us/azure/data-factory/data-flow-surrogate-key (2024-08-02 11:27 AM)
-            ☐ Union https://learn.microsoft.com/en-us/azure/data-factory/data-flow-union (2024-08-02 11:27 AM)
-            ☐ Unpivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-unpivot (2024-08-02 11:27 AM)
-            ☐ Window https://learn.microsoft.com/en-us/azure/data-factory/data-flow-window (2024-09-24 05:37 AM)
+            ✘ Union https://learn.microsoft.com/en-us/azure/data-factory/data-flow-union (2024-08-02 11:27 AM) @cancelled
+            ✘ Unpivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-unpivot (2024-08-02 11:27 AM) @cancelled
+            ✘ Window https://learn.microsoft.com/en-us/azure/data-factory/data-flow-window (2024-09-24 05:37 AM) @cancelled
         Parameterize:
             ☐ Parameterizing linked services https://learn.microsoft.com/en-us/azure/data-factory/parameterize-linked-services (2024-11-21 05:37 AM)
             ☐ Global parameters https://learn.microsoft.com/en-us/azure/data-factory/author-global-parameters (2024-12-17 05:33 AM)
@@ -426,7 +426,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
         Create integration runtime:
             ☐ Azure integration runtime https://learn.microsoft.com/en-us/azure/data-factory/create-azure-integration-runtime (2024-09-26 10:04 PM)
             Self-hosted integration runtime:
-                ☐ Create and configure a self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime (2024-12-11 06:03 PM)
+                ✘ Create and configure a self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime (2024-12-11 06:03 PM) @cancelled
                 ☐ Self-hosted integration runtime auto-update and expire notification https://learn.microsoft.com/en-us/azure/data-factory/self-hosted-integration-runtime-auto-update (2024-11-19 06:02 PM)
                 ☐ Shared self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/create-shared-self-hosted-integration-runtime-powershell (2024-08-02 11:27 AM)
                 ☐ Automation scripts of self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/self-hosted-integration-runtime-automation-scripts (2024-08-02 11:27 AM)
@@ -452,8 +452,8 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             Join Azure-SSIS IR to a virtual network:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/data-factory/join-azure-ssis-integration-runtime-virtual-network (2024-08-02 11:27 AM)
                 ☐ Virtual network configuration https://learn.microsoft.com/en-us/azure/data-factory/azure-ssis-integration-runtime-virtual-network-configuration (2024-08-02 11:27 AM)
-                ☐ Express virtual network injection https://learn.microsoft.com/en-us/azure/data-factory/azure-ssis-integration-runtime-express-virtual-network-injection (2024-08-02 11:27 AM)
-                ☐ Standard virtual network injection https://learn.microsoft.com/en-us/azure/data-factory/azure-ssis-integration-runtime-standard-virtual-network-injection (2024-08-02 11:27 AM)
+                ✘ Express virtual network injection https://learn.microsoft.com/en-us/azure/data-factory/azure-ssis-integration-runtime-express-virtual-network-injection (2024-08-02 11:27 AM) @cancelled
+                ✘ Standard virtual network injection https://learn.microsoft.com/en-us/azure/data-factory/azure-ssis-integration-runtime-standard-virtual-network-injection (2024-08-02 11:27 AM) @cancelled
                 ☐ Using Azure Data Factory UI https://learn.microsoft.com/en-us/azure/data-factory/join-azure-ssis-integration-runtime-virtual-network-ui (2024-12-11 06:03 PM)
                 ☐ Using Azure PowerShell https://learn.microsoft.com/en-us/azure/data-factory/join-azure-ssis-integration-runtime-virtual-network-powershell (2024-12-04 11:05 PM)
             ☐ Configure Self-Hosted IR as a proxy for Azure-SSIS IR https://learn.microsoft.com/en-us/azure/data-factory/self-hosted-integration-runtime-proxy-ssis (2024-08-02 11:27 AM)
@@ -493,9 +493,9 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
                 ☐ Data ingestion https://learn.microsoft.com/azure/machine-learning/how-to-data-ingest-adf?toc=/azure/data-factory/toc.json&bc=/azure/data-factory/breadcrumb/toc.json (2024-08-28 04:59 PM)
             Transformation using mapping data flow:
                 ☐ Process fixed-width text files https://learn.microsoft.com/en-us/azure/data-factory/how-to-fixed-width (2024-08-02 11:27 AM)
-                ☐ Error row handling https://learn.microsoft.com/en-us/azure/data-factory/how-to-data-flow-error-rows (2024-10-04 11:22 AM)
+                ✘ Error row handling https://learn.microsoft.com/en-us/azure/data-factory/how-to-data-flow-error-rows (2024-10-04 11:22 AM) @cancelled
                 ☐ Azure SQL DB to Azure Cosmos DB https://learn.microsoft.com/en-us/azure/data-factory/how-to-sqldb-to-cosmosdb (2024-10-04 11:22 AM)
-                ☐ Dedupe and null check with snippets https://learn.microsoft.com/en-us/azure/data-factory/how-to-data-flow-dedupe-nulls-snippets (2024-10-04 11:22 AM)
+                ✘ Dedupe and null check with snippets https://learn.microsoft.com/en-us/azure/data-factory/how-to-data-flow-dedupe-nulls-snippets (2024-10-04 11:22 AM) @cancelled
                 ☐ Process data from aml models using data flow https://learn.microsoft.com/en-us/azure/data-factory/scenario-dataflow-process-data-aml-models (2024-10-04 11:22 AM)
             SSIS migration from on-premises:
                 ☐ SSIS migration overview https://learn.microsoft.com/en-us/azure/data-factory/scenario-ssis-migration-overview (2024-09-05 05:34 AM)
@@ -543,7 +543,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
                 ☐ Azure Data Lake (Gen1 and Gen2) https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-azure-data-lake (2024-09-26 10:04 PM)
                 ✘ Azure database for PostgreSQL https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-postgresql (2024-08-02 11:27 AM) @cancelled
                 ☐ Azure files https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-azure-files (2024-08-02 11:27 AM)
-                ☐ Azure Synapse Analytics, Azure SQL Database, SQL Server, Azure SQL Managed Instance, and Amazon RDS for SQL Server https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-synapse-sql (2024-08-02 11:27 AM)
+                ✘ Azure Synapse Analytics, Azure SQL Database, SQL Server, Azure SQL Managed Instance, and Amazon RDS for SQL Server https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-synapse-sql (2024-08-02 11:27 AM) @cancelled
                 ☐ Azure Table Storage https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-azure-table-storage (2024-08-02 11:27 AM)
                 ☐ DB2 https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-db2 (2024-08-02 11:27 AM)
                 ☐ Delimited text format https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-delimited-text (2024-08-02 11:27 AM)
@@ -584,7 +584,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ Set up a linked service and source dataset https://learn.microsoft.com/en-us/azure/data-factory/sap-change-data-capture-prepare-linked-service-source-dataset (2024-08-02 11:27 AM)
             ☐ Debug issues with the SAP CDC connector https://learn.microsoft.com/en-us/azure/data-factory/sap-change-data-capture-debug-shir-logs (2024-08-02 11:27 AM)
             ☐ Manage the SAP CDC process https://learn.microsoft.com/en-us/azure/data-factory/sap-change-data-capture-management (2024-08-02 11:27 AM)
-            ☐ Advanced topics https://learn.microsoft.com/en-us/azure/data-factory/sap-change-data-capture-advanced-topics (2024-08-02 11:27 AM)
+            ✘ Advanced topics https://learn.microsoft.com/en-us/azure/data-factory/sap-change-data-capture-advanced-topics (2024-08-02 11:27 AM) @cancelled
     Workflow Orchestration Manager:
         Tutorials:
             ☐ Run an existing pipeline with Airflow https://learn.microsoft.com/en-us/azure/data-factory/tutorial-run-existing-pipeline-with-airflow (2024-10-04 11:22 AM)
@@ -598,7 +598,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ Install a Private Package https://learn.microsoft.com/en-us/azure/data-factory/airflow-install-private-package (2024-08-02 11:27 AM)
             ☐ Enable Azure Key Vault for Airflow https://learn.microsoft.com/en-us/azure/data-factory/enable-azure-key-vault (2024-10-04 11:22 AM)
             ☐ Kubernetes secret to access private container registry https://learn.microsoft.com/en-us/azure/data-factory/kubernetes-secret-pull-image-from-private-container-registry (2024-10-04 11:22 AM)
-            ☐ Rest APIs for the Airflow integrated runtime https://learn.microsoft.com/en-us/azure/data-factory/rest-apis-for-airflow-integrated-runtime (2024-10-25 10:04 PM)
+            ✘ Rest APIs for the Airflow integrated runtime https://learn.microsoft.com/en-us/azure/data-factory/rest-apis-for-airflow-integrated-runtime (2024-10-25 10:04 PM) @cancelled
             ☐ Retrieve the IP address of an Airflow cluster https://learn.microsoft.com/en-us/azure/data-factory/airflow-get-ip-airflow-cluster (2024-08-02 11:27 AM)
             ☐ Sync a GitHub repository https://learn.microsoft.com/en-us/azure/data-factory/airflow-sync-github-repository (2024-10-18 10:05 PM)
             ☐ Diagnostic logs and metrics https://learn.microsoft.com/en-us/azure/data-factory/diagnostic-logs-and-metrics-for-workflow-orchestration-manager (2024-10-04 11:22 AM)
@@ -606,7 +606,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ Airflow Configurations https://learn.microsoft.com/en-us/azure/data-factory/airflow-configurations (2024-08-02 11:27 AM)
         ☐ Pricing https://learn.microsoft.com/en-us/azure/data-factory/airflow-pricing (2024-08-02 11:27 AM)
     Reference:
-        ☐ Data flow script https://learn.microsoft.com/en-us/azure/data-factory/data-flow-script (2024-08-02 11:27 AM)
+        ✘ Data flow script https://learn.microsoft.com/en-us/azure/data-factory/data-flow-script (2024-08-02 11:27 AM) @cancelled
         ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.datafactory (2017-09-23 03:42 AM)
         ☐ PowerShell https://learn.microsoft.com/powershell/module/az.datafactory/ (2024-11-19 11:49 PM)
         ☐ REST API https://learn.microsoft.com/rest/api/datafactory (2024-10-08 10:59 AM)
@@ -671,5 +671,59 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
 
                 ☐ Overview and general copy activity errors https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-guide (2025-01-02 11:04 PM)
                 ☐ Azure database for PostgreSQL https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-postgresql (2025-01-02 11:04 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-07 12:10 PM)
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-07 12:10 PM) @cancelled
+
+
+---
+
+        ☐ Get started with Azure Data Factory https://learn.microsoft.com/en-us/azure/data-factory/quickstart-get-started (2025-01-09 06:03 PM)
+            ☐ Prepare data with wrangling https://learn.microsoft.com/en-us/azure/data-factory/wrangling-tutorial (2025-01-07 11:03 PM)
+                ☐ Debug mode https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-debug-mode (2025-01-09 06:03 PM)
+                ☐ Schema drift https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-schema-drift (2025-01-09 06:03 PM)
+                ☐ Column patterns https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-column-pattern (2025-01-09 06:03 PM)
+                ☐ Data flow monitoring https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-monitoring (2025-01-09 06:03 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance (2025-01-09 06:03 PM)
+                    ☐ Optimizing sinks https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-sinks (2025-01-09 06:03 PM)
+                ☐ Flowlets https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-flowlet (2025-01-09 06:03 PM)
+                ☐ User defined functions https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-udf (2025-01-09 06:03 PM)
+                ☐ Data wrangling overview https://learn.microsoft.com/en-us/azure/data-factory/wrangling-overview (2025-01-09 06:03 PM)
+                ☐ Supported functions https://learn.microsoft.com/en-us/azure/data-factory/wrangling-functions (2025-01-09 06:03 PM)
+            ☐ Change data capture https://learn.microsoft.com/en-us/azure/data-factory/concepts-change-data-capture (2025-01-09 06:03 PM)
+            ☐ Change data capture resource https://learn.microsoft.com/en-us/azure/data-factory/concepts-change-data-capture-resource (2025-01-09 06:03 PM)
+            ☐ Source control https://learn.microsoft.com/en-us/azure/data-factory/source-control (2025-01-09 06:03 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery (2025-01-09 06:03 PM)
+                ☐ Using a hotfix production environment https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-hotfix-environment (2025-01-09 06:03 PM)
+            ☐ Delta format https://learn.microsoft.com/en-us/azure/data-factory/format-delta (2025-01-09 06:03 PM)
+            ☐ Execute Power Query activity https://learn.microsoft.com/en-us/azure/data-factory/control-flow-power-query-activity (2025-01-09 06:03 PM)
+            ☐ Machine Learning Studio (classic) Update Resource activity https://learn.microsoft.com/en-us/azure/data-factory/update-machine-learning-models (2025-01-08 11:02 PM)
+            ☐ Aggregate https://learn.microsoft.com/en-us/azure/data-factory/data-flow-aggregate (2025-01-08 11:02 PM)
+            ☐ Alter row https://learn.microsoft.com/en-us/azure/data-factory/data-flow-alter-row (2025-01-09 06:03 PM)
+            ☐ Assert https://learn.microsoft.com/en-us/azure/data-factory/data-flow-assert (2025-01-09 06:03 PM)
+            ☐ Conditional split https://learn.microsoft.com/en-us/azure/data-factory/data-flow-conditional-split (2025-01-09 06:03 PM)
+            ☐ Exists https://learn.microsoft.com/en-us/azure/data-factory/data-flow-exists (2025-01-09 06:03 PM)
+            ☐ External call https://learn.microsoft.com/en-us/azure/data-factory/data-flow-external-call (2025-01-09 06:03 PM)
+            ☐ Filter https://learn.microsoft.com/en-us/azure/data-factory/data-flow-filter (2025-01-09 06:03 PM)
+            ☐ Flatten https://learn.microsoft.com/en-us/azure/data-factory/data-flow-flatten (2025-01-09 06:03 PM)
+            ☐ Flowlet https://learn.microsoft.com/en-us/azure/data-factory/data-flow-flowlet (2025-01-09 06:03 PM)
+            ☐ Join https://learn.microsoft.com/en-us/azure/data-factory/data-flow-join (2025-01-09 06:03 PM)
+            ☐ Lookup https://learn.microsoft.com/en-us/azure/data-factory/data-flow-lookup (2025-01-09 06:03 PM)
+            ☐ Parse https://learn.microsoft.com/en-us/azure/data-factory/data-flow-parse (2025-01-09 06:03 PM)
+            ☐ Pivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-pivot (2025-01-09 06:03 PM)
+            ☐ Rank https://learn.microsoft.com/en-us/azure/data-factory/data-flow-rank (2025-01-09 06:03 PM)
+            ☐ Select https://learn.microsoft.com/en-us/azure/data-factory/data-flow-select (2025-01-09 06:03 PM)
+            ☐ Sink https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sink (2025-01-09 06:03 PM)
+            ☐ Stringify https://learn.microsoft.com/en-us/azure/data-factory/data-flow-stringify (2025-01-09 06:03 PM)
+            ☐ Union https://learn.microsoft.com/en-us/azure/data-factory/data-flow-union (2025-01-09 06:03 PM)
+            ☐ Unpivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-unpivot (2025-01-09 06:03 PM)
+            ☐ Window https://learn.microsoft.com/en-us/azure/data-factory/data-flow-window (2025-01-09 06:03 PM)
+                ☐ Create and configure a self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime (2025-01-08 11:02 PM)
+                ☐ Express virtual network injection https://learn.microsoft.com/en-us/azure/data-factory/azure-ssis-integration-runtime-express-virtual-network-injection (2025-01-08 11:02 PM)
+                ☐ Standard virtual network injection https://learn.microsoft.com/en-us/azure/data-factory/azure-ssis-integration-runtime-standard-virtual-network-injection (2025-01-08 11:02 PM)
+                ☐ Error row handling https://learn.microsoft.com/en-us/azure/data-factory/how-to-data-flow-error-rows (2025-01-09 06:03 PM)
+                ☐ Dedupe and null check with snippets https://learn.microsoft.com/en-us/azure/data-factory/how-to-data-flow-dedupe-nulls-snippets (2025-01-09 06:03 PM)
+                ☐ Azure Synapse Analytics, Azure SQL Database, SQL Server, Azure SQL Managed Instance, and Amazon RDS for SQL Server https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-synapse-sql (2025-01-08 11:02 PM)
+            ☐ Advanced topics https://learn.microsoft.com/en-us/azure/data-factory/sap-change-data-capture-advanced-topics (2025-01-08 11:02 PM)
+            ☐ Rest APIs for the Airflow integrated runtime https://learn.microsoft.com/en-us/azure/data-factory/rest-apis-for-airflow-integrated-runtime (2025-01-08 11:02 PM)
+        ☐ Data flow script https://learn.microsoft.com/en-us/azure/data-factory/data-flow-script (2025-01-09 06:03 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-09 12:07 PM)
 

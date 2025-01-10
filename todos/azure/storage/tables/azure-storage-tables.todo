@@ -9,7 +9,7 @@ Azure Table storage documentation | Microsoft Learn:
         ☐ .NET https://learn.microsoft.com/azure/cosmos-db/tutorial-develop-table-dotnet (2024-11-08 05:32 AM)
         ☐ F# https://learn.microsoft.com/dotnet/articles/fsharp/using-fsharp-on-azure/table-storage (2024-09-18 09:57 AM)
         ☐ Java https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-java (2024-11-25 11:00 PM)
-        ☐ Node.js https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-nodejs (2024-11-08 05:32 AM)
+        ✘ Node.js https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-nodejs (2024-11-08 05:32 AM) @cancelled
         ☐ C++ https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-c-plus (2024-08-23 04:59 PM)
         ☐ PHP https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-php (2024-10-02 09:56 PM)
         ☐ Python https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-python (2024-11-08 05:32 AM)
@@ -27,7 +27,7 @@ Azure Table storage documentation | Microsoft Learn:
                 ☐ Use the Azure Storage REST API https://learn.microsoft.com/en-us/azure/storage/common/storage-rest-api-auth?toc=/azure/storage/tables/toc.json (2023-11-15 06:06 PM)
             ☐ Authorize with SAS https://learn.microsoft.com/en-us/azure/storage/common/storage-sas-overview?toc=/azure/storage/tables/toc.json (2024-11-21 11:02 PM)
         Security:
-            ☐ Azure Storage encryption at rest https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=/azure/storage/tables/toc.json (2024-08-22 07:16 PM)
+            ✘ Azure Storage encryption at rest https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=/azure/storage/tables/toc.json (2024-08-22 07:16 PM) @cancelled
             ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/storage/common/security-controls-policy?toc=/azure/storage/tables/toc.json (2024-02-07 05:35 AM)
             ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/storage-security-baseline?toc=/azure/storage/tables/toc.json?toc=/azure/storage/tables/TOC.json (2024-02-21 03:04 AM)
         ☐ Data redundancy https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy?toc=/azure/storage/tables/toc.json (2024-11-22 05:58 AM)
@@ -179,9 +179,20 @@ Azure Table storage documentation | Microsoft Learn:
 
 ---
 
-            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-07 12:30 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-07 12:10 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-07 12:10 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-07 12:10 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-07 12:10 PM)
+            ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-07 12:30 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-07 12:10 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-07 12:10 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-07 12:10 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-07 12:10 PM) @cancelled
+
+
+---
+
+        ☐ Node.js https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-nodejs (2025-01-08 06:00 PM)
+            ☐ Azure Storage encryption at rest https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=/azure/storage/tables/toc.json (2025-01-09 06:03 PM)
+            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-09 12:31 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-09 12:07 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-09 12:10 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-09 12:07 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-09 12:10 PM)
 

@@ -136,21 +136,21 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                 Workload groups:
                     ☐ Workload groups overview https://learn.microsoft.com/kusto/management/workload-groups?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     Workload group commands:
-                        ☐ .alter-merge workload_group command https://learn.microsoft.com/kusto/management/alter-merge-workload-group-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                        ☐ .create-or-alter workload_group command https://learn.microsoft.com/kusto/management/create-or-alter-workload-group-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                        ☐ .drop workload_group command https://learn.microsoft.com/kusto/management/drop-workload-group-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                        ☐ .show workload_group command https://learn.microsoft.com/kusto/management/show-workload-group-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                        ✘ .alter-merge workload_group command https://learn.microsoft.com/kusto/management/alter-merge-workload-group-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                        ✘ .create-or-alter workload_group command https://learn.microsoft.com/kusto/management/create-or-alter-workload-group-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                        ✘ .drop workload_group command https://learn.microsoft.com/kusto/management/drop-workload-group-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                        ✘ .show workload_group command https://learn.microsoft.com/kusto/management/show-workload-group-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     Request classification policy:
-                        ☐ Request classification policy https://learn.microsoft.com/kusto/management/request-classification-policy?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                        ☐ .alter cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                        ☐ .alter-merge cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-merge-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                        ☐ .delete cluster policy request_classification command https://learn.microsoft.com/kusto/management/delete-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                        ☐ .show cluster policy request_classification command https://learn.microsoft.com/kusto/management/show-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Request rate limits enforcement policy https://learn.microsoft.com/kusto/management/request-rate-limits-enforcement-policy?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Request queuing policy https://learn.microsoft.com/kusto/management/request-queuing-policy?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Query consistency policy https://learn.microsoft.com/kusto/management/query-consistency-policy?view=microsoft-fabric&preserve-view=true (2024-11-25 05:59 PM)
+                        ✘ Request classification policy https://learn.microsoft.com/kusto/management/request-classification-policy?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                        ✘ .alter cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                        ✘ .alter-merge cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-merge-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                        ✘ .delete cluster policy request_classification command https://learn.microsoft.com/kusto/management/delete-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                        ✘ .show cluster policy request_classification command https://learn.microsoft.com/kusto/management/show-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ Request rate limits enforcement policy https://learn.microsoft.com/kusto/management/request-rate-limits-enforcement-policy?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ Request queuing policy https://learn.microsoft.com/kusto/management/request-queuing-policy?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ Query consistency policy https://learn.microsoft.com/kusto/management/query-consistency-policy?view=microsoft-fabric&preserve-view=true (2024-11-25 05:59 PM) @cancelled
                 Schema:
                     ☐ Best practices for schema management https://learn.microsoft.com/kusto/management/management-best-practices?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     Clusters:
@@ -397,11 +397,11 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                 Data ingestion:
                     ☐ Data formats supported for ingestion https://learn.microsoft.com/kusto/ingestion-supported-formats?view=microsoft-fabric&preserve-view=true (2024-10-15 11:07 AM)
                     ☐ Ingestion properties https://learn.microsoft.com/kusto/ingestion-properties?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Ingest from storage https://learn.microsoft.com/kusto/management/data-ingestion/ingest-from-storage?view=microsoft-fabric&preserve-view=true (2024-11-27 12:13 PM)
+                    ✘ Ingest from storage https://learn.microsoft.com/kusto/management/data-ingestion/ingest-from-storage?view=microsoft-fabric&preserve-view=true (2024-11-27 12:13 PM) @cancelled
                     Ingest from query:
                         ☐ Ingest from query https://learn.microsoft.com/kusto/management/data-ingestion/ingest-from-query?view=microsoft-fabric&preserve-view=true (2024-11-27 12:13 PM)
                         ☐ cancel operation command https://learn.microsoft.com/kusto/management/cancel-operation-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Inline ingestion https://learn.microsoft.com/kusto/management/data-ingestion/ingest-inline?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ Inline ingestion https://learn.microsoft.com/kusto/management/data-ingestion/ingest-inline?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     Streaming ingestion:
                         ☐ Streaming ingestion and schema changes https://learn.microsoft.com/kusto/management/data-ingestion/streaming-ingestion-schema-changes?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
                         ☐ Clear schema cache for streaming ingestion https://learn.microsoft.com/kusto/management/data-ingestion/clear-schema-cache-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -411,14 +411,14 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                     ☐ .show streamingingestion failures command https://learn.microsoft.com/kusto/management/streaming-ingestion-failures?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ Data operations https://learn.microsoft.com/kusto/management/show-data-operations?view=microsoft-fabric&preserve-view=true (2024-09-26 11:03 AM)
                 Data export https://learn.microsoft.com/kusto/management/data-export/index?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM):
-                    ☐ To cloud storage https://learn.microsoft.com/kusto/management/data-export/export-data-to-storage?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
-                    ☐ To an external table https://learn.microsoft.com/kusto/management/data-export/export-data-to-an-external-table?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
-                    ☐ To an SQL table https://learn.microsoft.com/kusto/management/data-export/export-data-to-sql?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
+                    ✘ To cloud storage https://learn.microsoft.com/kusto/management/data-export/export-data-to-storage?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM) @cancelled
+                    ✘ To an external table https://learn.microsoft.com/kusto/management/data-export/export-data-to-an-external-table?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM) @cancelled
+                    ✘ To an SQL table https://learn.microsoft.com/kusto/management/data-export/export-data-to-sql?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM) @cancelled
                     Continuous data export:
                         ☐ Continuous data export overview https://learn.microsoft.com/kusto/management/data-export/continuous-data-export?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
                         ☐ Create or alter continuous export https://learn.microsoft.com/kusto/management/data-export/create-alter-continuous?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
                         ☐ Use a managed identity https://learn.microsoft.com/kusto/management/data-export/continuous-export-with-managed-identity?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
-                        ☐ Disable or enable continuous export https://learn.microsoft.com/kusto/management/data-export/disable-enable-continuous?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
+                        ✘ Disable or enable continuous export https://learn.microsoft.com/kusto/management/data-export/disable-enable-continuous?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM) @cancelled
                         ☐ Drop continuous export https://learn.microsoft.com/kusto/management/data-export/drop-continuous-export?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
                         ☐ Show continuous export https://learn.microsoft.com/kusto/management/data-export/show-continuous-export?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
                         ☐ Show continuous export artifacts https://learn.microsoft.com/kusto/management/data-export/show-continuous-artifacts?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
@@ -575,7 +575,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
         Data types:
             ☐ Scalar data types https://learn.microsoft.com/kusto/query/scalar-data-types/index?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ bool https://learn.microsoft.com/kusto/query/scalar-data-types/bool?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ datetime https://learn.microsoft.com/kusto/query/scalar-data-types/datetime?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ datetime https://learn.microsoft.com/kusto/query/scalar-data-types/datetime?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ decimal https://learn.microsoft.com/kusto/query/scalar-data-types/decimal?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ dynamic https://learn.microsoft.com/kusto/query/scalar-data-types/dynamic?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ guid https://learn.microsoft.com/kusto/query/scalar-data-types/guid?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -663,7 +663,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ as operator https://learn.microsoft.com/kusto/query/as-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ consume operator https://learn.microsoft.com/kusto/query/consume-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ count operator https://learn.microsoft.com/kusto/query/count-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ distinct operator https://learn.microsoft.com/kusto/query/distinct-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ evaluate operator https://learn.microsoft.com/kusto/query/evaluate-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ extend operator https://learn.microsoft.com/kusto/query/extend-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -701,7 +701,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ parse-kv operator https://learn.microsoft.com/kusto/query/parse-kv-operator?view=microsoft-fabric&preserve-view=true (2024-09-02 11:04 AM)
             ☐ partition operator https://learn.microsoft.com/kusto/query/partition-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ print operator https://learn.microsoft.com/kusto/query/print-operator?view=microsoft-fabric&preserve-view=true (2024-11-21 06:02 PM)
-            ☐ range operator https://learn.microsoft.com/kusto/query/range-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ range operator https://learn.microsoft.com/kusto/query/range-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ reduce operator https://learn.microsoft.com/kusto/query/reduce-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             render operator:
                 ☐ render operator https://learn.microsoft.com/kusto/query/render-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -760,7 +760,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                 ☐ in~ operator https://learn.microsoft.com/kusto/query/in-operator?view=microsoft-fabric&preserve-view=true (2024-11-21 06:02 PM)
                 ☐ !in operator https://learn.microsoft.com/kusto/query/not-in-cs-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ !in~ operator https://learn.microsoft.com/kusto/query/not-in-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ Logical or binary operators https://learn.microsoft.com/kusto/query/logical-operators?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ Logical or binary operators https://learn.microsoft.com/kusto/query/logical-operators?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ Numerical operators https://learn.microsoft.com/kusto/query/numerical-operators?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             String operators:
                 ☐ String operators overview https://learn.microsoft.com/kusto/query/datatypes-string-operators?view=microsoft-fabric&preserve-view=true (2024-09-08 11:05 AM)
@@ -853,7 +853,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ case() https://learn.microsoft.com/kusto/query/case-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ ceiling() https://learn.microsoft.com/kusto/query/ceiling-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ coalesce() https://learn.microsoft.com/kusto/query/coalesce-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ column_ifexists() https://learn.microsoft.com/kusto/query/column-ifexists-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ column_ifexists() https://learn.microsoft.com/kusto/query/column-ifexists-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ convert_angle() https://learn.microsoft.com/kusto/query/convert-angle-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ convert_energy() https://learn.microsoft.com/kusto/query/convert-energy-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ convert_force() https://learn.microsoft.com/kusto/query/convert-force-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -994,7 +994,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ regex_quote() https://learn.microsoft.com/kusto/query/regex-quote-function?view=microsoft-fabric&preserve-view=true (2024-09-02 11:04 AM)
             ☐ repeat() https://learn.microsoft.com/kusto/query/repeat-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ replace_regex() https://learn.microsoft.com/kusto/query/replace-regex-function?view=microsoft-fabric&preserve-view=true (2024-12-08 12:04 PM)
-            ☐ replace_string() https://learn.microsoft.com/kusto/query/replace-string-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ replace_string() https://learn.microsoft.com/kusto/query/replace-string-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ replace_strings() https://learn.microsoft.com/kusto/query/replace-strings-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ reverse() https://learn.microsoft.com/kusto/query/reverse-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ round() https://learn.microsoft.com/kusto/query/round-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1053,7 +1053,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
         Aggregation functions:
             ☐ Aggregation function types https://learn.microsoft.com/kusto/query/aggregation-functions?view=microsoft-fabric&preserve-view=true (2024-09-24 11:04 AM)
             ☐ arg_max() https://learn.microsoft.com/kusto/query/arg-max-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-12-09 12:04 PM)
-            ☐ arg_min() https://learn.microsoft.com/kusto/query/arg-min-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-12-09 12:04 PM)
+            ✘ arg_min() https://learn.microsoft.com/kusto/query/arg-min-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-12-09 12:04 PM) @cancelled
             ☐ avg() https://learn.microsoft.com/kusto/query/avg-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-09-18 04:57 PM)
             ☐ avgif() https://learn.microsoft.com/kusto/query/avgif-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ binary_all_and https://learn.microsoft.com/kusto/query/binary-all-and-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1350,4 +1350,35 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                 ☐ List of functions https://learn.microsoft.com/kusto/functions-library/functions-library?view=microsoft-fabric&preserve-view=true (2025-01-05 12:05 PM)
             ☐ facet operator https://learn.microsoft.com/kusto/query/facet-operator?view=microsoft-fabric&preserve-view=true (2025-01-06 06:01 PM)
             ☐ extract() https://learn.microsoft.com/kusto/query/extract-function?view=microsoft-fabric&preserve-view=true (2025-01-06 12:03 PM)
+
+
+---
+
+                        ☐ .alter-merge workload_group command https://learn.microsoft.com/kusto/management/alter-merge-workload-group-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                        ☐ .create-or-alter workload_group command https://learn.microsoft.com/kusto/management/create-or-alter-workload-group-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                        ☐ .drop workload_group command https://learn.microsoft.com/kusto/management/drop-workload-group-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                        ☐ .show workload_group command https://learn.microsoft.com/kusto/management/show-workload-group-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                        ☐ Request classification policy https://learn.microsoft.com/kusto/management/request-classification-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                        ☐ .alter cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                        ☐ .alter-merge cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-merge-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                        ☐ .delete cluster policy request_classification command https://learn.microsoft.com/kusto/management/delete-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                        ☐ .show cluster policy request_classification command https://learn.microsoft.com/kusto/management/show-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ Request rate limits enforcement policy https://learn.microsoft.com/kusto/management/request-rate-limits-enforcement-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ Request queuing policy https://learn.microsoft.com/kusto/management/request-queuing-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ Query consistency policy https://learn.microsoft.com/kusto/management/query-consistency-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ Ingest from storage https://learn.microsoft.com/kusto/management/data-ingestion/ingest-from-storage?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
+                    ☐ Inline ingestion https://learn.microsoft.com/kusto/management/data-ingestion/ingest-inline?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
+                    ☐ To cloud storage https://learn.microsoft.com/kusto/management/data-export/export-data-to-storage?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
+                    ☐ To an external table https://learn.microsoft.com/kusto/management/data-export/export-data-to-an-external-table?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
+                    ☐ To an SQL table https://learn.microsoft.com/kusto/management/data-export/export-data-to-sql?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
+                        ☐ Disable or enable continuous export https://learn.microsoft.com/kusto/management/data-export/disable-enable-continuous?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
+            ☐ datetime https://learn.microsoft.com/kusto/query/scalar-data-types/datetime?view=microsoft-fabric&preserve-view=true (2025-01-09 12:05 PM)
+            ☐ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
+            ☐ range operator https://learn.microsoft.com/kusto/query/range-operator?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
+            ☐ Logical or binary operators https://learn.microsoft.com/kusto/query/logical-operators?view=microsoft-fabric&preserve-view=true (2025-01-09 12:05 PM)
+            ☐ column_ifexists() https://learn.microsoft.com/kusto/query/column-ifexists-function?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+            ☐ replace_string() https://learn.microsoft.com/kusto/query/replace-string-function?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
+            ☐ arg_min() https://learn.microsoft.com/kusto/query/arg-min-aggregation-function?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
 

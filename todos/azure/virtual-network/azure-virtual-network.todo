@@ -29,7 +29,7 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
             ✘ Deploy a dedicated service https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-for-azure-services (2024-12-09 06:04 PM) @cancelled
             ☐ Private Link https://learn.microsoft.com/en-us/azure/private-link/private-link-overview?toc=/azure/virtual-network/toc.json (2024-12-05 05:33 AM)
             ✘ Service endpoints https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview (2024-11-04 06:02 PM) @cancelled
-            ☐ Service tags https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview (2024-12-11 06:03 PM)
+            ✘ Service tags https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview (2024-12-11 06:03 PM) @cancelled
         Security:
             ☐ Virtual network security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-network-security-baseline?toc=/azure/virtual-network/toc.json?toc=/azure/virtual-network/toc.json?toc=/azure/virtual-network/toc.json (2024-08-08 10:04 PM)
             ☐ Virtual network NAT security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-network-nat-security-baseline?toc=/azure/virtual-network/toc.json?toc=/azure/virtual-network/toc.json?toc=/azure/virtual-network/toc.json (2023-09-20 09:42 PM)
@@ -42,7 +42,7 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
                 ✘ How it works https://learn.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works (2024-08-28 05:05 PM) @cancelled
             ☐ Application security groups https://learn.microsoft.com/en-us/azure/virtual-network/application-security-groups (2024-08-08 05:34 AM)
             ☐ IP based access control list https://learn.microsoft.com/en-us/azure/virtual-network/ip-based-access-control-list-overview (2024-08-08 05:34 AM)
-            ☐ Service tags https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview (2024-12-11 06:03 PM)
+            ✘ Service tags https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview (2024-12-11 06:03 PM) @cancelled
             ✘ Service endpoint policies https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies-overview (2024-10-30 05:03 PM) @cancelled
             ✘ Kubernetes network policies https://learn.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies (2024-09-11 06:38 PM) @cancelled
             ☐ DDoS protection https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview (2024-09-03 05:07 PM)
@@ -110,8 +110,8 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
                 ☐ Accelerated Networking overview https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-overview (2024-10-31 10:03 PM)
                 ☐ Creating an AccelNet VM with PowerShell https://learn.microsoft.com/en-us/azure/virtual-network/create-vm-accelerated-networking-powershell (2024-08-22 07:16 PM)
                 Creating an AccelNet VM with Azure CLI https://learn.microsoft.com/en-us/azure/virtual-network/create-vm-accelerated-networking-cli (2024-11-22 05:58 AM):
-                    ☐ How Accelerated Networking works https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-how-it-works (2024-08-22 07:16 PM)
-                    ☐ Setup DPDK https://learn.microsoft.com/en-us/azure/virtual-network/setup-dpdk (2024-10-03 11:22 AM)
+                    ✘ How Accelerated Networking works https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-how-it-works (2024-08-22 07:16 PM) @cancelled
+                    ✘ Setup DPDK https://learn.microsoft.com/en-us/azure/virtual-network/setup-dpdk (2024-10-03 11:22 AM) @cancelled
                 Microsoft Azure Network Adapter (MANA):
                     ☐ Microsoft Azure Network Adapter (MANA) overview https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-overview (2024-08-22 07:16 PM)
                     ☐ Linux VMs with MANA https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-linux (2024-08-22 07:16 PM)
@@ -136,7 +136,7 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
             ☐ VM to VM connectivity problems https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms (2024-08-08 05:34 AM)
             ☐ Configure PTR for SMTP Banner Check https://learn.microsoft.com/en-us/azure/virtual-network/create-ptr-for-smtp-service (2024-08-08 05:34 AM)
             ☐ Troubleshooting checklist for virtual appliances https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-nva (2024-08-08 05:34 AM)
-            ☐ Troubleshooting outbound SMTP connectivity https://learn.microsoft.com/en-us/azure/virtual-network/troubleshoot-outbound-smtp-connectivity (2024-10-02 10:08 PM)
+            ✘ Troubleshooting outbound SMTP connectivity https://learn.microsoft.com/en-us/azure/virtual-network/troubleshoot-outbound-smtp-connectivity (2024-10-02 10:08 PM) @cancelled
             ✘ About IP address 168.63.129.16 https://learn.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16 (2024-08-08 05:34 AM) @cancelled
             ☐ Troubleshoot Azure VM connectivity problems https://learn.microsoft.com/en-us/azure/virtual-network/troubleshoot-vm-connectivity (2024-09-09 10:10 PM)
         ☐ DHCP server on Azure Virtual Machine https://learn.microsoft.com/en-us/azure/virtual-network/how-to-dhcp-azure (2024-08-08 05:34 AM)
@@ -215,4 +215,15 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
 
                 ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-encryption-faq (2025-01-02 11:04 PM)
         ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq (2025-01-02 11:04 PM)
+
+
+---
+
+            ☐ Service tags https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview (2025-01-08 12:13 PM)
+            ☐ Service tags https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview (2025-01-08 12:13 PM)
+                ☐ Create a virtual machine with accelerated networking https://learn.microsoft.com/en-us/azure/virtual-network/create-virtual-machine-accelerated-networking (2025-01-08 05:33 AM)
+                ☐ Manage accelerated networking https://learn.microsoft.com/en-us/azure/virtual-network/manage-accelerated-networking (2025-01-08 05:33 AM)
+                ☐ How Accelerated Networking works https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-how-it-works (2024-08-22 07:16 PM)
+                ☐ Setup DPDK https://learn.microsoft.com/en-us/azure/virtual-network/setup-dpdk (2024-10-03 11:22 AM)
+            ☐ Troubleshooting outbound SMTP connectivity https://learn.microsoft.com/en-us/azure/virtual-network/troubleshoot-outbound-smtp-connectivity (2025-01-09 05:32 AM)
 

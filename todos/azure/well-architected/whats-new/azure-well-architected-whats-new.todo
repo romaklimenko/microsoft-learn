@@ -1,205 +1,215 @@
 What's new in the Azure Well-Architected Framework - Microsoft Azure Well-Architected Framework | Microsoft Learn:
     Microsoft Azure Well-Architected Framework https://learn.microsoft.com/en-us/azure/well-architected/ (2024-11-18 08:00 PM):
         About:
-            ☐ What's new https://learn.microsoft.com/en-us/azure/well-architected/whats-new (2024-12-13 06:00 PM)
-            ☐ What is the Well-Architected Framework https://learn.microsoft.com/en-us/azure/well-architected/what-is-well-architected-framework (2023-11-14 04:00 PM)
+            ✘ What's new https://learn.microsoft.com/en-us/azure/well-architected/whats-new (2024-12-13 06:00 PM) @cancelled
+            ✘ What is the Well-Architected Framework https://learn.microsoft.com/en-us/azure/well-architected/what-is-well-architected-framework (2023-11-14 04:00 PM) @cancelled
             How to be a proficient architect:
-                ☐ Architect's fundamentals https://learn.microsoft.com/en-us/azure/well-architected/architect-role/fundamentals (2024-11-01 10:04 PM)
+                ✘ Architect's fundamentals https://learn.microsoft.com/en-us/azure/well-architected/architect-role/fundamentals (2024-11-01 10:04 PM) @cancelled
                 Deliverables:
-                    ☐ Checklist https://learn.microsoft.com/en-us/azure/well-architected/architect-role/checklist (2024-11-01 10:04 PM)
-                    ☐ Architecture design specification https://learn.microsoft.com/en-us/azure/well-architected/architect-role/architecture-design-specification (2024-07-24 10:00 PM)
-                    ☐ Design diagrams https://learn.microsoft.com/en-us/azure/well-architected/architect-role/design-diagrams (2024-07-18 05:03 PM)
-                    ☐ Architecture decision record https://learn.microsoft.com/en-us/azure/well-architected/architect-role/architecture-decision-record (2024-10-10 10:00 PM)
-                    ☐ Collaboration with implementors https://learn.microsoft.com/en-us/azure/well-architected/architect-role/collaboration (2024-11-01 10:04 PM)
-                    ☐ Consultative support https://learn.microsoft.com/en-us/azure/well-architected/architect-role/ongoing-support (2024-11-01 10:04 PM)
+                    ✘ Checklist https://learn.microsoft.com/en-us/azure/well-architected/architect-role/checklist (2024-11-01 10:04 PM) @cancelled
+                    ✘ Architecture design specification https://learn.microsoft.com/en-us/azure/well-architected/architect-role/architecture-design-specification (2024-07-24 10:00 PM) @cancelled
+                    ✘ Design diagrams https://learn.microsoft.com/en-us/azure/well-architected/architect-role/design-diagrams (2024-07-18 05:03 PM) @cancelled
+                    ✘ Architecture decision record https://learn.microsoft.com/en-us/azure/well-architected/architect-role/architecture-decision-record (2024-10-10 10:00 PM) @cancelled
+                    ✘ Collaboration with implementors https://learn.microsoft.com/en-us/azure/well-architected/architect-role/collaboration (2024-11-01 10:04 PM) @cancelled
+                    ✘ Consultative support https://learn.microsoft.com/en-us/azure/well-architected/architect-role/ongoing-support (2024-11-01 10:04 PM) @cancelled
         Pillars:
-            ☐ Overview https://learn.microsoft.com/en-us/azure/well-architected/pillars (2023-11-14 04:00 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/well-architected/pillars (2023-11-14 04:00 PM) @cancelled
             Reliability:
-                ☐ Quick links https://learn.microsoft.com/en-us/azure/well-architected/reliability/ (2023-12-05 06:04 PM)
-                ☐ Design principles https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles (2024-06-04 10:06 PM)
-                ☐ Checklist https://learn.microsoft.com/en-us/azure/well-architected/reliability/checklist (2024-03-26 04:58 PM)
-                ☐ Tradeoffs https://learn.microsoft.com/en-us/azure/well-architected/reliability/tradeoffs (2024-10-10 10:00 PM)
+                ✘ Quick links https://learn.microsoft.com/en-us/azure/well-architected/reliability/ (2023-12-05 06:04 PM) @cancelled
+                ✘ Design principles https://learn.microsoft.com/en-us/azure/well-architected/reliability/principles (2024-06-04 10:06 PM) @cancelled
+                ✘ Checklist https://learn.microsoft.com/en-us/azure/well-architected/reliability/checklist (2024-03-26 04:58 PM) @cancelled
+                ✘ Tradeoffs https://learn.microsoft.com/en-us/azure/well-architected/reliability/tradeoffs (2024-10-10 10:00 PM) @cancelled
                 Recommendations:
-                    ☐ Reliability patterns https://learn.microsoft.com/en-us/azure/well-architected/reliability/design-patterns (2024-10-10 10:00 PM)
-                    ☐ RE:01 Simplicity and efficiency https://learn.microsoft.com/en-us/azure/well-architected/reliability/simplify (2024-11-27 05:59 PM)
-                    ☐ RE:02 Critical flows https://learn.microsoft.com/en-us/azure/well-architected/reliability/identify-flows (2024-11-27 05:59 PM)
-                    ☐ RE:03 Failure mode analysis https://learn.microsoft.com/en-us/azure/well-architected/reliability/failure-mode-analysis (2024-11-27 05:59 PM)
-                    ☐ RE:04 Target metrics https://learn.microsoft.com/en-us/azure/well-architected/reliability/metrics (2024-11-27 05:59 PM)
-                    ☐ RE:05 High-availability multi-region design https://learn.microsoft.com/en-us/azure/well-architected/reliability/highly-available-multi-region-design (2024-11-27 05:59 PM)
-                    ☐ RE:05 Redundancy https://learn.microsoft.com/en-us/azure/well-architected/reliability/redundancy (2024-11-27 05:59 PM)
-                    ☐ RE:05 Regions and availability zones https://learn.microsoft.com/en-us/azure/well-architected/reliability/regions-availability-zones (2024-11-27 05:59 PM)
-                    ☐ RE:06 Data partitioning https://learn.microsoft.com/en-us/azure/well-architected/reliability/partition-data (2024-11-27 05:59 PM)
-                    ☐ RE:06 Scaling https://learn.microsoft.com/en-us/azure/well-architected/reliability/scaling (2024-11-27 05:59 PM)
-                    ☐ RE:07 Background jobs https://learn.microsoft.com/en-us/azure/well-architected/reliability/background-jobs (2024-11-27 05:59 PM)
-                    ☐ RE:07 Transient faults https://learn.microsoft.com/en-us/azure/well-architected/reliability/handle-transient-faults (2024-11-27 05:59 PM)
-                    ☐ RE:07 Self-preservation https://learn.microsoft.com/en-us/azure/well-architected/reliability/self-preservation (2024-11-27 05:59 PM)
-                    ☐ RE:08 Testing https://learn.microsoft.com/en-us/azure/well-architected/reliability/testing-strategy (2024-11-27 05:59 PM)
-                    ☐ RE:09 Disaster recovery https://learn.microsoft.com/en-us/azure/well-architected/reliability/disaster-recovery (2024-11-27 05:59 PM)
-                    ☐ RE:10 Monitoring and alerting https://learn.microsoft.com/en-us/azure/well-architected/reliability/monitoring-alerting-strategy (2024-11-27 05:59 PM)
+                    ✘ Reliability patterns https://learn.microsoft.com/en-us/azure/well-architected/reliability/design-patterns (2024-10-10 10:00 PM) @cancelled
+                    ✘ RE:01 Simplicity and efficiency https://learn.microsoft.com/en-us/azure/well-architected/reliability/simplify (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:02 Critical flows https://learn.microsoft.com/en-us/azure/well-architected/reliability/identify-flows (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:03 Failure mode analysis https://learn.microsoft.com/en-us/azure/well-architected/reliability/failure-mode-analysis (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:04 Target metrics https://learn.microsoft.com/en-us/azure/well-architected/reliability/metrics (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:05 High-availability multi-region design https://learn.microsoft.com/en-us/azure/well-architected/reliability/highly-available-multi-region-design (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:05 Redundancy https://learn.microsoft.com/en-us/azure/well-architected/reliability/redundancy (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:05 Regions and availability zones https://learn.microsoft.com/en-us/azure/well-architected/reliability/regions-availability-zones (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:06 Data partitioning https://learn.microsoft.com/en-us/azure/well-architected/reliability/partition-data (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:06 Scaling https://learn.microsoft.com/en-us/azure/well-architected/reliability/scaling (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:07 Background jobs https://learn.microsoft.com/en-us/azure/well-architected/reliability/background-jobs (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:07 Transient faults https://learn.microsoft.com/en-us/azure/well-architected/reliability/handle-transient-faults (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:07 Self-preservation https://learn.microsoft.com/en-us/azure/well-architected/reliability/self-preservation (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:08 Testing https://learn.microsoft.com/en-us/azure/well-architected/reliability/testing-strategy (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:09 Disaster recovery https://learn.microsoft.com/en-us/azure/well-architected/reliability/disaster-recovery (2024-11-27 05:59 PM) @cancelled
+                    ✘ RE:10 Monitoring and alerting https://learn.microsoft.com/en-us/azure/well-architected/reliability/monitoring-alerting-strategy (2024-11-27 05:59 PM) @cancelled
             Security:
-                ☐ Quick links https://learn.microsoft.com/en-us/azure/well-architected/security/ (2023-12-05 06:04 PM)
-                ☐ Design principles https://learn.microsoft.com/en-us/azure/well-architected/security/principles (2024-02-05 05:55 PM)
-                ☐ Checklist https://learn.microsoft.com/en-us/azure/well-architected/security/checklist (2023-11-14 04:00 PM)
-                ☐ Tradeoffs https://learn.microsoft.com/en-us/azure/well-architected/security/tradeoffs (2024-10-10 10:00 PM)
+                ✘ Quick links https://learn.microsoft.com/en-us/azure/well-architected/security/ (2023-12-05 06:04 PM) @cancelled
+                ✘ Design principles https://learn.microsoft.com/en-us/azure/well-architected/security/principles (2024-02-05 05:55 PM) @cancelled
+                ✘ Checklist https://learn.microsoft.com/en-us/azure/well-architected/security/checklist (2023-11-14 04:00 PM) @cancelled
+                ✘ Tradeoffs https://learn.microsoft.com/en-us/azure/well-architected/security/tradeoffs (2024-10-10 10:00 PM) @cancelled
                 Recommendations:
-                    ☐ Security patterns https://learn.microsoft.com/en-us/azure/well-architected/security/design-patterns (2024-10-10 10:00 PM)
-                    ☐ SE:01 Security baseline https://learn.microsoft.com/en-us/azure/well-architected/security/establish-baseline (2024-11-27 05:59 PM)
-                    ☐ SE:02 Secured development lifecycle https://learn.microsoft.com/en-us/azure/well-architected/security/secure-development-lifecycle (2024-11-27 05:59 PM)
-                    ☐ SE:02 Threat analysis https://learn.microsoft.com/en-us/azure/well-architected/security/threat-model (2024-11-27 05:59 PM)
-                    ☐ SE:03 Data classification https://learn.microsoft.com/en-us/azure/well-architected/security/data-classification (2024-11-27 05:59 PM)
-                    ☐ SE:04 Segmentation https://learn.microsoft.com/en-us/azure/well-architected/security/segmentation (2024-11-27 05:59 PM)
-                    ☐ SE:05 Identity and access management https://learn.microsoft.com/en-us/azure/well-architected/security/identity-access (2024-11-27 05:59 PM)
-                    ☐ SE:06 Network controls https://learn.microsoft.com/en-us/azure/well-architected/security/networking (2024-11-27 05:59 PM)
-                    ☐ SE:07 Encryption https://learn.microsoft.com/en-us/azure/well-architected/security/encryption (2024-11-27 05:59 PM)
-                    ☐ SE:08 Hardening resources https://learn.microsoft.com/en-us/azure/well-architected/security/harden-resources (2024-11-27 05:59 PM)
-                    ☐ SE:09 Application secrets https://learn.microsoft.com/en-us/azure/well-architected/security/application-secrets (2024-11-27 05:59 PM)
-                    ☐ SE:10 Monitoring and threat detection https://learn.microsoft.com/en-us/azure/well-architected/security/monitor-threats (2024-11-27 05:59 PM)
-                    ☐ SE:11 Testing and validation https://learn.microsoft.com/en-us/azure/well-architected/security/test (2024-11-27 05:59 PM)
-                    ☐ SE:12 Incident response https://learn.microsoft.com/en-us/azure/well-architected/security/incident-response (2024-11-27 05:59 PM)
+                    ✘ Security patterns https://learn.microsoft.com/en-us/azure/well-architected/security/design-patterns (2024-10-10 10:00 PM) @cancelled
+                    ✘ SE:01 Security baseline https://learn.microsoft.com/en-us/azure/well-architected/security/establish-baseline (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:02 Secured development lifecycle https://learn.microsoft.com/en-us/azure/well-architected/security/secure-development-lifecycle (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:02 Threat analysis https://learn.microsoft.com/en-us/azure/well-architected/security/threat-model (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:03 Data classification https://learn.microsoft.com/en-us/azure/well-architected/security/data-classification (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:04 Segmentation https://learn.microsoft.com/en-us/azure/well-architected/security/segmentation (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:05 Identity and access management https://learn.microsoft.com/en-us/azure/well-architected/security/identity-access (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:06 Network controls https://learn.microsoft.com/en-us/azure/well-architected/security/networking (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:07 Encryption https://learn.microsoft.com/en-us/azure/well-architected/security/encryption (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:08 Hardening resources https://learn.microsoft.com/en-us/azure/well-architected/security/harden-resources (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:09 Application secrets https://learn.microsoft.com/en-us/azure/well-architected/security/application-secrets (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:10 Monitoring and threat detection https://learn.microsoft.com/en-us/azure/well-architected/security/monitor-threats (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:11 Testing and validation https://learn.microsoft.com/en-us/azure/well-architected/security/test (2024-11-27 05:59 PM) @cancelled
+                    ✘ SE:12 Incident response https://learn.microsoft.com/en-us/azure/well-architected/security/incident-response (2024-11-27 05:59 PM) @cancelled
             Cost Optimization:
-                ☐ Quick links https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/ (2023-12-05 06:04 PM)
-                ☐ Design principles https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/principles (2024-05-28 04:59 PM)
-                ☐ Checklist https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/checklist (2023-11-14 04:00 PM)
-                ☐ Tradeoffs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/tradeoffs (2024-10-10 10:00 PM)
+                ✘ Quick links https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/ (2023-12-05 06:04 PM) @cancelled
+                ✘ Design principles https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/principles (2024-05-28 04:59 PM) @cancelled
+                ✘ Checklist https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/checklist (2023-11-14 04:00 PM) @cancelled
+                ✘ Tradeoffs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/tradeoffs (2024-10-10 10:00 PM) @cancelled
                 Recommendations:
-                    ☐ Cost optimization patterns https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/design-patterns (2024-10-10 10:00 PM)
-                    ☐ CO:01 Financial responsibility https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/create-culture-financial-responsibility (2024-11-27 05:59 PM)
-                    ☐ CO:02 Cost model https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/cost-model (2024-11-27 05:59 PM)
-                    ☐ CO:03 Cost data and reporting https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/collect-review-cost-data (2024-11-27 05:59 PM)
-                    ☐ CO:04 Spending guardrails https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/set-spending-guardrails (2024-11-27 05:59 PM)
-                    ☐ CO:05 Rate optimization https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/get-best-rates (2024-11-27 05:59 PM)
-                    ☐ CO:06 Usage and billing increments https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/align-usage-to-billing-increments (2024-11-27 05:59 PM)
-                    ☐ CO:07 Component costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-component-costs (2024-11-27 05:59 PM)
-                    ☐ CO:08 Environment costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-environment-costs (2024-11-27 05:59 PM)
-                    ☐ CO:09 Flow costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-flow-costs (2024-11-27 05:59 PM)
-                    ☐ CO:10 Data costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-data-costs (2024-11-27 05:59 PM)
-                    ☐ CO:11 Code costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-code-costs (2024-11-27 05:59 PM)
-                    ☐ CO:12 Scaling costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-scaling-costs (2024-11-27 05:59 PM)
-                    ☐ CO:13 Personnel time https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-personnel-time (2024-11-27 05:59 PM)
-                    ☐ CO:14 Consolidation https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/consolidation (2024-11-27 05:59 PM)
+                    ✘ Cost optimization patterns https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/design-patterns (2024-10-10 10:00 PM) @cancelled
+                    ✘ CO:01 Financial responsibility https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/create-culture-financial-responsibility (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:02 Cost model https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/cost-model (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:03 Cost data and reporting https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/collect-review-cost-data (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:04 Spending guardrails https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/set-spending-guardrails (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:05 Rate optimization https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/get-best-rates (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:06 Usage and billing increments https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/align-usage-to-billing-increments (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:07 Component costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-component-costs (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:08 Environment costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-environment-costs (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:09 Flow costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-flow-costs (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:10 Data costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-data-costs (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:11 Code costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-code-costs (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:12 Scaling costs https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-scaling-costs (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:13 Personnel time https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/optimize-personnel-time (2024-11-27 05:59 PM) @cancelled
+                    ✘ CO:14 Consolidation https://learn.microsoft.com/en-us/azure/well-architected/cost-optimization/consolidation (2024-11-27 05:59 PM) @cancelled
             Operational Excellence:
-                ☐ Quick links https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/ (2023-12-05 06:04 PM)
-                ☐ Design principles https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/principles (2023-11-14 04:00 PM)
-                ☐ Checklist https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/checklist (2023-11-14 04:00 PM)
-                ☐ Tradeoffs https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/tradeoffs (2024-10-10 10:00 PM)
+                ✘ Quick links https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/ (2023-12-05 06:04 PM) @cancelled
+                ✘ Design principles https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/principles (2023-11-14 04:00 PM) @cancelled
+                ✘ Checklist https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/checklist (2023-11-14 04:00 PM) @cancelled
+                ✘ Tradeoffs https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/tradeoffs (2024-10-10 10:00 PM) @cancelled
                 Recommendations:
-                    ☐ Operational excellence patterns https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/design-patterns (2024-10-10 10:00 PM)
-                    ☐ OE:01 DevOps culture https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/devops-culture (2024-11-27 05:59 PM)
-                    ☐ OE:02 Task execution process https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/formalize-operations-tasks (2024-11-27 05:59 PM)
-                    ☐ OE:03 Software development practices https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/formalize-development-practices (2024-11-27 05:59 PM)
-                    ☐ OE:04 Build velocity https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/release-engineering-performance (2024-11-27 05:59 PM)
-                    ☐ OE:04 Tools and processes https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/tools-processes (2024-11-27 05:59 PM)
-                    ☐ OE:04 Continuous integration https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/release-engineering-continuous-integration (2024-11-27 05:59 PM)
-                    ☐ OE:05 Infrastructure as code https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/infrastructure-as-code-design (2024-11-27 05:59 PM)
-                    ☐ OE:06 Supply chain for workload development https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/workload-supply-chain (2024-11-27 05:59 PM)
-                    ☐ OE:07 Monitoring system https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/observability (2024-11-27 05:59 PM)
-                    ☐ OE:07 Instrument an application https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/instrument-application (2024-11-27 05:59 PM)
-                    ☐ OE:08 Emergency response https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/emergency-response (2024-11-27 05:59 PM)
-                    ☐ OE:09 Task automation https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/automate-tasks (2024-11-27 05:59 PM)
-                    ☐ OE:10 Automation design https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/enable-automation (2024-11-27 05:59 PM)
-                    ☐ OE:11 Safe deployment practices https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/safe-deployments (2024-11-27 05:59 PM)
-                    ☐ OE:12 Failure mitigation https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/mitigation-strategy (2024-11-27 05:59 PM)
+                    ✘ Operational excellence patterns https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/design-patterns (2024-10-10 10:00 PM) @cancelled
+                    ✘ OE:01 DevOps culture https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/devops-culture (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:02 Task execution process https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/formalize-operations-tasks (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:03 Software development practices https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/formalize-development-practices (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:04 Build velocity https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/release-engineering-performance (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:04 Tools and processes https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/tools-processes (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:04 Continuous integration https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/release-engineering-continuous-integration (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:05 Infrastructure as code https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/infrastructure-as-code-design (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:06 Supply chain for workload development https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/workload-supply-chain (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:07 Monitoring system https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/observability (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:07 Instrument an application https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/instrument-application (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:08 Emergency response https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/emergency-response (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:09 Task automation https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/automate-tasks (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:10 Automation design https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/enable-automation (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:11 Safe deployment practices https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/safe-deployments (2024-11-27 05:59 PM) @cancelled
+                    ✘ OE:12 Failure mitigation https://learn.microsoft.com/en-us/azure/well-architected/operational-excellence/mitigation-strategy (2024-11-27 05:59 PM) @cancelled
             Performance Efficiency:
-                ☐ Quick links https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/ (2023-12-05 06:04 PM)
-                ☐ Design principles https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/principles (2024-05-28 04:59 PM)
-                ☐ Checklist https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/checklist (2023-11-30 10:50 PM)
-                ☐ Tradeoffs https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/tradeoffs (2024-10-10 10:00 PM)
+                ✘ Quick links https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/ (2023-12-05 06:04 PM) @cancelled
+                ✘ Design principles https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/principles (2024-05-28 04:59 PM) @cancelled
+                ✘ Checklist https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/checklist (2023-11-30 10:50 PM) @cancelled
+                ✘ Tradeoffs https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/tradeoffs (2024-10-10 10:00 PM) @cancelled
                 Recommendations:
-                    ☐ Performance efficiency patterns https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/design-patterns (2024-10-10 10:00 PM)
-                    ☐ PE:01 Performance targets https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/performance-targets (2024-11-27 05:59 PM)
-                    ☐ PE:02 Capacity planning https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/capacity-planning (2024-11-27 05:59 PM)
-                    ☐ PE:03 Selecting services https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/select-services (2024-11-27 05:59 PM)
-                    ☐ PE:04 Metrics and logs https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/collect-performance-data (2024-11-27 05:59 PM)
-                    ☐ PE:05 Scaling and partitioning https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/scale-partition (2024-11-27 05:59 PM)
-                    ☐ PE:06 Performance testing https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/performance-test (2024-11-27 05:59 PM)
-                    ☐ PE:07 Code and infrastructure https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/optimize-code-infrastructure (2024-11-27 05:59 PM)
-                    ☐ PE:08 Data performance https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/optimize-data-performance (2024-11-27 05:59 PM)
-                    ☐ PE:09 Critical flows https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/prioritize-critical-flows (2024-11-27 05:59 PM)
-                    ☐ PE:10 Operational tasks https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/optimize-operational-tasks (2024-11-27 05:59 PM)
-                    ☐ PE:11 Live-issues responses https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/respond-live-performance-issues (2024-11-27 05:59 PM)
-                    ☐ PE:12 Continuous performance optimization https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/continuous-performance-optimize (2024-11-27 05:59 PM)
+                    ✘ Performance efficiency patterns https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/design-patterns (2024-10-10 10:00 PM) @cancelled
+                    ✘ PE:01 Performance targets https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/performance-targets (2024-11-27 05:59 PM) @cancelled
+                    ✘ PE:02 Capacity planning https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/capacity-planning (2024-11-27 05:59 PM) @cancelled
+                    ✘ PE:03 Selecting services https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/select-services (2024-11-27 05:59 PM) @cancelled
+                    ✘ PE:04 Metrics and logs https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/collect-performance-data (2024-11-27 05:59 PM) @cancelled
+                    ✘ PE:05 Scaling and partitioning https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/scale-partition (2024-11-27 05:59 PM) @cancelled
+                    ✘ PE:06 Performance testing https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/performance-test (2024-11-27 05:59 PM) @cancelled
+                    ✘ PE:07 Code and infrastructure https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/optimize-code-infrastructure (2024-11-27 05:59 PM) @cancelled
+                    ✘ PE:08 Data performance https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/optimize-data-performance (2024-11-27 05:59 PM) @cancelled
+                    ✘ PE:09 Critical flows https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/prioritize-critical-flows (2024-11-27 05:59 PM) @cancelled
+                    ✘ PE:10 Operational tasks https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/optimize-operational-tasks (2024-11-27 05:59 PM) @cancelled
+                    ✘ PE:11 Live-issues responses https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/respond-live-performance-issues (2024-11-27 05:59 PM) @cancelled
+                    ✘ PE:12 Continuous performance optimization https://learn.microsoft.com/en-us/azure/well-architected/performance-efficiency/continuous-performance-optimize (2024-11-27 05:59 PM) @cancelled
         Workloads:
-            ☐ Overview https://learn.microsoft.com/en-us/azure/well-architected/workloads (2024-11-01 10:04 PM)
-            ☐ AI https://learn.microsoft.com/en-us/azure/well-architected/ai/ (2024-11-18 08:00 PM)
-            ☐ Azure Virtual Desktop https://learn.microsoft.com/en-us/azure/well-architected/azure-virtual-desktop/ (2024-04-12 04:57 PM)
-            ☐ Azure VMware Solution https://learn.microsoft.com/en-us/azure/well-architected/azure-vmware/ (2023-12-05 06:04 PM)
-            ☐ IoT https://learn.microsoft.com/en-us/azure/well-architected/iot/iot-overview (2024-11-28 12:15 PM)
-            ☐ Mission-critical https://learn.microsoft.com/en-us/azure/well-architected/mission-critical/ (2024-07-31 09:11 PM)
-            ☐ Oracle on IaaS https://learn.microsoft.com/en-us/azure/well-architected/oracle-iaas/ (2024-07-31 09:11 PM)
-            ☐ Software as a service (SaaS) https://learn.microsoft.com/en-us/azure/well-architected/saas/ (2024-11-04 06:01 PM)
-            ☐ SAP https://learn.microsoft.com/en-us/azure/well-architected/sap/quick-links (2024-07-31 09:11 PM)
-            ☐ Sustainability https://learn.microsoft.com/en-us/azure/well-architected/sustainability/ (2023-12-05 06:04 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/well-architected/workloads (2024-11-01 10:04 PM) @cancelled
+            ✘ AI https://learn.microsoft.com/en-us/azure/well-architected/ai/ (2024-11-18 08:00 PM) @cancelled
+            ✘ Azure Virtual Desktop https://learn.microsoft.com/en-us/azure/well-architected/azure-virtual-desktop/ (2024-04-12 04:57 PM) @cancelled
+            ✘ Azure VMware Solution https://learn.microsoft.com/en-us/azure/well-architected/azure-vmware/ (2023-12-05 06:04 PM) @cancelled
+            ✘ IoT https://learn.microsoft.com/en-us/azure/well-architected/iot/iot-overview (2024-11-28 12:15 PM) @cancelled
+            ✘ Mission-critical https://learn.microsoft.com/en-us/azure/well-architected/mission-critical/ (2024-07-31 09:11 PM) @cancelled
+            ✘ Oracle on IaaS https://learn.microsoft.com/en-us/azure/well-architected/oracle-iaas/ (2024-07-31 09:11 PM) @cancelled
+            ✘ Software as a service (SaaS) https://learn.microsoft.com/en-us/azure/well-architected/saas/ (2024-11-04 06:01 PM) @cancelled
+            ✘ SAP https://learn.microsoft.com/en-us/azure/well-architected/sap/quick-links (2024-07-31 09:11 PM) @cancelled
+            ✘ Sustainability https://learn.microsoft.com/en-us/azure/well-architected/sustainability/ (2023-12-05 06:04 PM) @cancelled
         Service guides:
-            ☐ Quick links https://learn.microsoft.com/en-us/azure/well-architected/service-guides/ (2024-12-17 06:02 PM)
+            ✘ Quick links https://learn.microsoft.com/en-us/azure/well-architected/service-guides/ (2024-12-17 06:02 PM) @cancelled
             API Management:
-                ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/api-management/reliability (2024-06-18 09:59 PM)
-                ☐ Cost optimization https://learn.microsoft.com/en-us/azure/well-architected/service-guides/api-management/cost-optimization (2024-06-18 09:59 PM)
-                ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/api-management/operational-excellence (2024-06-18 09:59 PM)
-            ☐ Application Gateway https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-application-gateway (2024-10-15 04:58 PM)
-            ☐ Application Insights https://learn.microsoft.com/en-us/azure/well-architected/service-guides/application-insights (2024-11-27 05:59 PM)
-            ☐ Azure Firewall https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-firewall (2024-09-26 10:00 PM)
-            ☐ Azure App Service https://learn.microsoft.com/en-us/azure/well-architected/service-guides/app-service-web-apps (2024-07-24 10:00 PM)
-            ☐ Azure Blob Storage https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-blob-storage (2024-07-31 04:55 PM)
+                ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/api-management/reliability (2024-06-18 09:59 PM) @cancelled
+                ✘ Cost optimization https://learn.microsoft.com/en-us/azure/well-architected/service-guides/api-management/cost-optimization (2024-06-18 09:59 PM) @cancelled
+                ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/api-management/operational-excellence (2024-06-18 09:59 PM) @cancelled
+            ✘ Application Gateway https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-application-gateway (2024-10-15 04:58 PM) @cancelled
+            ✘ Application Insights https://learn.microsoft.com/en-us/azure/well-architected/service-guides/application-insights (2024-11-27 05:59 PM) @cancelled
+            ✘ Azure Firewall https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-firewall (2024-09-26 10:00 PM) @cancelled
+            ✘ Azure App Service https://learn.microsoft.com/en-us/azure/well-architected/service-guides/app-service-web-apps (2024-07-24 10:00 PM) @cancelled
+            ✘ Azure Blob Storage https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-blob-storage (2024-07-31 04:55 PM) @cancelled
             Azure Cache for Redis:
-                ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-cache-redis/reliability (2024-06-18 09:59 PM)
-                ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-cache-redis/operational-excellence (2024-06-18 09:59 PM)
-            ☐ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/well-architected/service-guides/cosmos-db (2024-04-09 04:59 PM)
-            ☐ Azure Databricks https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-databricks-security (2024-06-18 09:59 PM)
-            ☐ Azure Database for MySQL https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-db-mysql-cost-optimization (2024-06-18 09:59 PM)
-            ☐ Azure Database for PostgreSQL https://learn.microsoft.com/en-us/azure/well-architected/service-guides/postgresql (2024-11-20 06:02 PM)
-            ☐ Azure Disk Storage https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-disk-storage (2024-12-03 06:01 PM)
-            ☐ Azure Files https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-files (2024-07-31 04:55 PM)
-            ☐ Azure Front Door https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-front-door (2024-06-18 09:59 PM)
-            ☐ Azure Kubernetes Service https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-kubernetes-service (2024-10-21 10:01 PM)
+                ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-cache-redis/reliability (2024-06-18 09:59 PM) @cancelled
+                ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-cache-redis/operational-excellence (2024-06-18 09:59 PM) @cancelled
+            ✘ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/well-architected/service-guides/cosmos-db (2024-04-09 04:59 PM) @cancelled
+            ✘ Azure Databricks https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-databricks-security (2024-06-18 09:59 PM) @cancelled
+            ✘ Azure Database for MySQL https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-db-mysql-cost-optimization (2024-06-18 09:59 PM) @cancelled
+            ✘ Azure Database for PostgreSQL https://learn.microsoft.com/en-us/azure/well-architected/service-guides/postgresql (2024-11-20 06:02 PM) @cancelled
+            ✘ Azure Disk Storage https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-disk-storage (2024-12-03 06:01 PM) @cancelled
+            ✘ Azure Files https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-files (2024-07-31 04:55 PM) @cancelled
+            ✘ Azure Front Door https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-front-door (2024-06-18 09:59 PM) @cancelled
+            ✘ Azure Kubernetes Service https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-kubernetes-service (2024-10-21 10:01 PM) @cancelled
             Azure Load Balancer:
-                ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-load-balancer/reliability (2024-06-18 09:59 PM)
-                ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-load-balancer/operational-excellence (2024-06-18 09:59 PM)
-            ☐ Azure Machine Learning https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-machine-learning (2024-06-18 09:59 PM)
-            ☐ Azure NetApp Files https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-netapp-files (2024-09-24 04:59 PM)
-            ☐ Azure OpenAI https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-openai (2024-08-23 04:58 PM)
-            ☐ Azure Service Fabric https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-service-fabric-well-architected-framework (2024-06-18 09:59 PM)
-            ☐ Azure SQL Database https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-sql-database-well-architected-framework (2024-06-18 09:59 PM)
+                ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-load-balancer/reliability (2024-06-18 09:59 PM) @cancelled
+                ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-load-balancer/operational-excellence (2024-06-18 09:59 PM) @cancelled
+            ✘ Azure Machine Learning https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-machine-learning (2024-06-18 09:59 PM) @cancelled
+            ✘ Azure NetApp Files https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-netapp-files (2024-09-24 04:59 PM) @cancelled
+            ✘ Azure OpenAI https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-openai (2024-08-23 04:58 PM) @cancelled
+            ✘ Azure Service Fabric https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-service-fabric-well-architected-framework (2024-06-18 09:59 PM) @cancelled
+            ✘ Azure SQL Database https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-sql-database-well-architected-framework (2024-06-18 09:59 PM) @cancelled
             Azure SQL Managed Instance:
-                ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-sql-managed-instance/reliability (2024-06-18 09:59 PM)
-                ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-sql-managed-instance/operational-excellence (2024-06-18 09:59 PM)
-            ☐ Azure Local https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-local (2024-11-27 11:02 PM)
+                ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-sql-managed-instance/reliability (2024-06-18 09:59 PM) @cancelled
+                ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-sql-managed-instance/operational-excellence (2024-06-18 09:59 PM) @cancelled
+            ✘ Azure Local https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-local (2024-11-27 11:02 PM) @cancelled
             Azure Virtual Network:
-                ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-virtual-network/reliability (2024-06-18 09:59 PM)
-                ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-virtual-network/operational-excellence (2024-08-26 09:58 PM)
+                ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-virtual-network/reliability (2024-06-18 09:59 PM) @cancelled
+                ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-virtual-network/operational-excellence (2024-08-26 09:58 PM) @cancelled
             Event Grid:
-                ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/event-grid/reliability (2024-06-18 09:59 PM)
-                ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/event-grid/operational-excellence (2024-08-14 05:01 PM)
-            ☐ Event Hubs https://learn.microsoft.com/en-us/azure/well-architected/service-guides/event-hubs (2024-08-14 05:01 PM)
-            ☐ ExpressRoute https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-expressroute (2024-11-25 11:00 PM)
-            ☐ Functions https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-functions-security (2024-06-18 09:59 PM)
-            ☐ IP addresses https://learn.microsoft.com/en-us/azure/well-architected/service-guides/ip-addresses-cost-optimization (2024-06-18 09:59 PM)
-            ☐ Log Analytics https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-log-analytics (2024-11-20 06:02 PM)
+                ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/event-grid/reliability (2024-06-18 09:59 PM) @cancelled
+                ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/event-grid/operational-excellence (2024-08-14 05:01 PM) @cancelled
+            ✘ Event Hubs https://learn.microsoft.com/en-us/azure/well-architected/service-guides/event-hubs (2024-08-14 05:01 PM) @cancelled
+            ✘ ExpressRoute https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-expressroute (2024-11-25 11:00 PM) @cancelled
+            ✘ Functions https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-functions-security (2024-06-18 09:59 PM) @cancelled
+            ✘ IP addresses https://learn.microsoft.com/en-us/azure/well-architected/service-guides/ip-addresses-cost-optimization (2024-06-18 09:59 PM) @cancelled
+            ✘ Log Analytics https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-log-analytics (2024-11-20 06:02 PM) @cancelled
             Network connectivity:
-                ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-connectivity/reliability (2024-06-18 09:59 PM)
-                ☐ Cost optimization https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-connectivity/cost-optimization (2024-06-18 09:59 PM)
-                ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-connectivity/operational-excellence (2024-06-18 09:59 PM)
+                ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-connectivity/reliability (2024-06-18 09:59 PM) @cancelled
+                ✘ Cost optimization https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-connectivity/cost-optimization (2024-06-18 09:59 PM) @cancelled
+                ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-connectivity/operational-excellence (2024-06-18 09:59 PM) @cancelled
             Network Virtual Appliances (NVA):
-                ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-virtual-appliances/reliability (2024-06-18 09:59 PM)
-                ☐ Cost optimization https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-virtual-appliances/cost-optimization (2024-06-18 09:59 PM)
-                ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-virtual-appliances/operational-excellence (2024-06-18 09:59 PM)
+                ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-virtual-appliances/reliability (2024-06-18 09:59 PM) @cancelled
+                ✘ Cost optimization https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-virtual-appliances/cost-optimization (2024-06-18 09:59 PM) @cancelled
+                ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/network-virtual-appliances/operational-excellence (2024-06-18 09:59 PM) @cancelled
             Service Bus:
-                ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/service-bus/reliability (2024-11-21 06:02 PM)
-                ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/service-bus/operational-excellence (2024-11-21 06:02 PM)
+                ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/service-bus/reliability (2024-11-21 06:02 PM) @cancelled
+                ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/service-bus/operational-excellence (2024-11-21 06:02 PM) @cancelled
             Storage:
                 Storage accounts:
-                    ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/storage-accounts/reliability (2024-06-18 09:59 PM)
-                    ☐ Security https://learn.microsoft.com/en-us/azure/well-architected/service-guides/storage-accounts/security (2024-06-18 09:59 PM)
-                    ☐ Cost optimization https://learn.microsoft.com/en-us/azure/well-architected/service-guides/storage-accounts/cost-optimization (2024-06-18 09:59 PM)
-                    ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/storage-accounts/operational-excellence (2024-06-18 09:59 PM)
+                    ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/storage-accounts/reliability (2024-06-18 09:59 PM) @cancelled
+                    ✘ Security https://learn.microsoft.com/en-us/azure/well-architected/service-guides/storage-accounts/security (2024-06-18 09:59 PM) @cancelled
+                    ✘ Cost optimization https://learn.microsoft.com/en-us/azure/well-architected/service-guides/storage-accounts/cost-optimization (2024-06-18 09:59 PM) @cancelled
+                    ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/storage-accounts/operational-excellence (2024-06-18 09:59 PM) @cancelled
                 Queue Storage:
-                    ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/queue-storage/reliability (2024-06-18 09:59 PM)
-                    ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/queue-storage/operational-excellence (2024-12-06 11:01 PM)
+                    ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/queue-storage/reliability (2024-06-18 09:59 PM) @cancelled
+                    ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/queue-storage/operational-excellence (2024-12-06 11:01 PM) @cancelled
             Traffic Manager:
-                ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/traffic-manager/reliability (2024-06-18 09:59 PM)
-                ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/traffic-manager/operational-excellence (2024-06-18 09:59 PM)
-            ☐ Virtual Machines https://learn.microsoft.com/en-us/azure/well-architected/service-guides/virtual-machines (2024-06-18 09:59 PM)
+                ✘ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/traffic-manager/reliability (2024-06-18 09:59 PM) @cancelled
+                ✘ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/traffic-manager/operational-excellence (2024-06-18 09:59 PM) @cancelled
+            ✘ Virtual Machines https://learn.microsoft.com/en-us/azure/well-architected/service-guides/virtual-machines (2024-06-18 09:59 PM) @cancelled
         Design guides:
-            ☐ Health modeling https://learn.microsoft.com/en-us/azure/well-architected/design-guides/health-modeling (2024-10-23 10:02 PM)
-            ☐ Implementing recommendations https://learn.microsoft.com/en-us/azure/well-architected/design-guides/implementing-recommendations (2024-10-29 10:03 PM)
-            ☐ Optimize using flows https://learn.microsoft.com/en-us/azure/well-architected/design-guides/optimize-workload-using-flows (2024-10-23 10:02 PM)
+            ✘ Health modeling https://learn.microsoft.com/en-us/azure/well-architected/design-guides/health-modeling (2024-10-23 10:02 PM) @cancelled
+            ✘ Implementing recommendations https://learn.microsoft.com/en-us/azure/well-architected/design-guides/implementing-recommendations (2024-10-29 10:03 PM) @cancelled
+            ✘ Optimize using flows https://learn.microsoft.com/en-us/azure/well-architected/design-guides/optimize-workload-using-flows (2024-10-23 10:02 PM) @cancelled
+
+
+---
+
+    Microsoft Azure Well-Architected Framework https://learn.microsoft.com/en-us/azure/well-architected/ (2025-01-08 05:59 PM):
+            ☐ What's new https://learn.microsoft.com/en-us/azure/well-architected/whats-new (2025-01-08 05:59 PM)
+            ☐ Application Gateway https://learn.microsoft.com/en-us/azure/well-architected/service-guides/azure-application-gateway (2025-01-08 05:59 PM)
+            Azure IoT Hub:
+                ☐ Reliability https://learn.microsoft.com/en-us/azure/well-architected/service-guides/iot-hub/reliability (2025-01-08 05:59 PM)
+                ☐ Operational excellence https://learn.microsoft.com/en-us/azure/well-architected/service-guides/iot-hub/operational-excellence (2025-01-08 05:59 PM)
 

@@ -487,7 +487,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
             ☐ Batching https://learn.microsoft.com/en-us/graph/json-batching (2024-03-27 04:20 AM)
             Throttling:
                 ☐ Overview https://learn.microsoft.com/en-us/graph/throttling (2024-04-18 04:02 AM)
-                ☐ Service-specific limits https://learn.microsoft.com/en-us/graph/throttling-limits (2024-10-02 02:30 AM)
+                ✘ Service-specific limits https://learn.microsoft.com/en-us/graph/throttling-limits (2024-10-02 02:30 AM) @cancelled
             ☐ Work with long-running actions https://learn.microsoft.com/en-us/graph/long-running-actions-overview (2024-11-08 02:44 AM)
             ☐ Enable metered APIs https://learn.microsoft.com/en-us/graph/metered-api-setup (2024-11-08 02:44 AM)
             ☐ Metered APIs FAQ https://learn.microsoft.com/en-us/graph/metered-api-faq (2024-11-08 02:44 AM)
@@ -508,9 +508,9 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
             Notifications for Microsoft Teams resources:
                 ☐ Notification types and payloads https://learn.microsoft.com/en-us/graph/teams-change-notification-in-microsoft-teams-overview (2024-11-08 02:44 AM)
                 ✘ Call recordings and transcripts https://learn.microsoft.com/en-us/graph/teams-changenotifications-callrecording-and-calltranscript (2024-11-08 02:44 AM) @cancelled
-                ☐ Chat https://learn.microsoft.com/en-us/graph/teams-changenotifications-chat (2024-11-08 02:44 AM)
-                ☐ Chat and channel messages https://learn.microsoft.com/en-us/graph/teams-changenotifications-chatmessage (2024-11-08 02:44 AM)
-                ☐ Chat membership https://learn.microsoft.com/en-us/graph/teams-changenotifications-chatmembership (2024-11-08 02:44 AM)
+                ✘ Chat https://learn.microsoft.com/en-us/graph/teams-changenotifications-chat (2024-11-08 02:44 AM) @cancelled
+                ✘ Chat and channel messages https://learn.microsoft.com/en-us/graph/teams-changenotifications-chatmessage (2024-11-08 02:44 AM) @cancelled
+                ✘ Chat membership https://learn.microsoft.com/en-us/graph/teams-changenotifications-chatmembership (2024-11-08 02:44 AM) @cancelled
                 ☐ Team and channel membership https://learn.microsoft.com/en-us/graph/teams-changenotifications-teammembership (2024-11-08 02:44 AM)
                 ☐ Teams and channels https://learn.microsoft.com/en-us/graph/teams-changenotifications-team-and-channel (2024-11-08 02:44 AM)
                 ☐ Teams app installation https://learn.microsoft.com/en-us/graph/teams-changenotifications-appinstallation (2024-11-08 02:44 AM)
@@ -601,9 +601,18 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
 
 ---
 
-        ☐ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-06 11:15 PM)
+        ✘ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-06 11:15 PM) @cancelled
                 ☐ Validation differences for signInAudience https://learn.microsoft.com/azure/active-directory/develop/supported-accounts-validation?context=graph/context (2025-01-07 06:01 PM)
                     ☐ FAQ https://learn.microsoft.com/en-us/graph/callrecords-api-faq (2025-01-04 01:14 AM)
                 ☐ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2025-01-06 11:15 PM)
                 ☐ Microsoft Entra built-in roles https://learn.microsoft.com/entra/identity/role-based-access-control/permissions-reference?toc=/graph/toc.json (2025-01-03 10:59 PM)
+
+
+---
+
+        ☐ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-07 11:03 PM)
+                ☐ Configure Microsoft Entra Private Access https://learn.microsoft.com/en-us/graph/tutorial-entra-private-access (2025-01-07 11:03 PM)
+            ☐ Enable or disable name pronunciation https://learn.microsoft.com/en-us/graph/namepronunciation-configure-namepronunciation-availability (2025-01-07 11:03 PM)
+                ☐ Service-specific limits https://learn.microsoft.com/en-us/graph/throttling-limits (2025-01-07 11:03 PM)
+                ☐ Chat https://learn.microsoft.com/en-us/graph/teams-changenotifications-chat (2025-01-07 11:03 PM)
 

@@ -80,7 +80,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
         Security:
             ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/service-bus-messaging-security-baseline?toc=/azure/service-bus-messaging/TOC.json (2024-08-05 07:13 PM)
             Authentication and authorization https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-authentication-and-authorization (2024-10-01 11:13 AM):
-                ☐ Authentication with Shared Access Signatures https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-sas (2024-12-12 05:33 AM)
+                ✘ Authentication with Shared Access Signatures https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-sas (2024-12-12 05:33 AM) @cancelled
                 Use Microsoft Entra ID:
                     ☐ Authenticate with managed identities for Azure resources https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-managed-service-identity (2024-07-23 10:09 PM)
                     ☐ Authenticate from an application https://learn.microsoft.com/en-us/azure/service-bus-messaging/authenticate-application (2024-09-18 05:37 AM)
@@ -279,6 +279,13 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
 
             ☐ Test locally with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator (2025-01-07 06:03 PM)
             ☐ Troubleshooting guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-troubleshooting-guide (2025-01-02 11:04 PM)
-            ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-07 12:10 PM)
-            ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-07 12:10 PM)
+            ✘ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-07 12:10 PM) @cancelled
+            ✘ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-07 12:10 PM) @cancelled
+
+
+---
+
+                ☐ Authentication with Shared Access Signatures https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-sas (2025-01-09 05:32 AM)
+            ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-09 12:07 PM)
+            ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-09 12:10 PM)
 

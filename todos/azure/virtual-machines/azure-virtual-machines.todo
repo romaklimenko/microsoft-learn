@@ -645,9 +645,9 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ About shared disks https://learn.microsoft.com/en-us/azure/virtual-machines/disks-shared (2024-11-06 05:31 AM)
             ☐ Enable shared disks https://learn.microsoft.com/en-us/azure/virtual-machines/disks-shared-enable (2024-08-23 04:58 PM)
         Encryption:
-            ☐ Disk encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption-overview (2024-08-22 05:37 PM)
+            ✘ Disk encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption-overview (2024-08-22 05:37 PM) @cancelled
             Server-side encryption:
-                ☐ Server-side encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption (2024-11-08 10:59 PM)
+                ✘ Server-side encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption (2024-11-08 10:59 PM) @cancelled
                 Enable customer-managed keys:
                     ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-customer-managed-keys-portal (2024-08-23 04:58 PM)
                     ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disks-enable-customer-managed-keys-powershell (2024-08-23 04:58 PM)
@@ -823,7 +823,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                 ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/multiple-nics (2024-08-22 05:37 PM)
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/multiple-nics (2024-08-22 05:37 PM)
         Create VM - accelerated networking:
-            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-powershell?toc=/azure/virtual-machines/toc.json (2024-08-22 07:16 PM)
+            ✘ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-powershell?toc=/azure/virtual-machines/toc.json (2024-08-22 07:16 PM) @cancelled
             Azure CLI https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-cli?toc=/azure/virtual-machines/toc.json (2024-11-22 05:58 AM):
                 ☐ Set up DPDK https://learn.microsoft.com/azure/virtual-network/setup-dpdk?toc=/azure/virtual-machines/toc.json (2024-10-03 11:22 AM)
         ☐ TCP/IP performance tuning for Azure VMs https://learn.microsoft.com/azure/virtual-network/virtual-network-tcpip-performance-tuning?toc=/azure/virtual-machines/toc.json (2024-12-04 06:02 PM)
@@ -858,7 +858,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ Boot integrity monitoring https://learn.microsoft.com/en-us/azure/virtual-machines/boot-integrity-monitoring-overview (2024-12-04 05:31 AM)
             ☐ Trusted Launch FAQs https://learn.microsoft.com/en-us/azure/virtual-machines/trusted-launch-faq (2024-10-24 05:32 AM)
             ☐ Secure Boot UEFI Keys https://learn.microsoft.com/en-us/azure/virtual-machines/trusted-launch-secure-boot-custom-uefi (2024-12-04 05:31 AM)
-        ☐ Just-in-time access https://learn.microsoft.com/azure/security-center/security-center-just-in-time (2024-12-24 12:05 PM)
+        ✘ Just-in-time access https://learn.microsoft.com/azure/security-center/security-center-just-in-time (2024-12-24 12:05 PM) @cancelled
         Policy:
             ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/security-policy (2024-08-22 05:37 PM)
             ☐ Controls by policy https://learn.microsoft.com/en-us/azure/virtual-machines/security-controls-policy (2024-08-22 05:37 PM)
@@ -976,7 +976,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ Pricing https://learn.microsoft.com/azure/backup/azure-backup-pricing?toc=/azure/virtual-machines/toc.json (2024-09-09 05:05 PM)
             ☐ FAQ https://learn.microsoft.com/azure/backup/backup-azure-vm-backup-faq?toc=/azure/virtual-machines/toc.json (2024-11-19 06:02 PM)
         Disaster recovery:
-            ☐ Overview https://learn.microsoft.com/azure/site-recovery/site-recovery-overview?toc=/azure/virtual-machines/toc.json (2024-08-02 11:27 AM)
+            ✘ Overview https://learn.microsoft.com/azure/site-recovery/site-recovery-overview?toc=/azure/virtual-machines/toc.json (2024-08-02 11:27 AM) @cancelled
             Enable disaster recovery:
                 ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-disaster-recovery (2024-08-22 05:37 PM)
                 ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-disaster-recovery (2024-08-22 05:37 PM)
@@ -1082,7 +1082,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 
 ---
 
-            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-07 12:30 PM)
+            ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-07 12:30 PM) @cancelled
                     ☐ Ubuntu https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-ubuntu (2025-01-06 05:30 AM)
             ☐ Handle Spot Evictions https://learn.microsoft.com/azure/architecture/guide/spot/spot-eviction (2025-01-06 06:30 PM)
             ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-hybrid-benefit-linux (2025-01-02 06:01 PM)
@@ -1100,6 +1100,17 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ Azure CLI https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-12-12 11:04 PM)
         ☐ Assign public IP address https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-11-26 05:33 AM)
             ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/automatic-vm-guest-patching (2025-01-07 05:32 AM)
-            ☐ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2025-01-02 11:04 PM)
+            ✘ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2025-01-02 11:04 PM) @cancelled
             ☐ Migrate AWS VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2025-01-03 12:39 PM)
+
+
+---
+
+            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-09 12:31 PM)
+                ☐ Server-side encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption (2025-01-09 05:32 AM)
+            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-powershell?toc=/azure/virtual-machines/toc.json (2025-01-08 05:33 AM)
+            Azure CLI https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-cli?toc=/azure/virtual-machines/toc.json (2025-01-08 05:33 AM):
+        ☐ Just-in-time access https://learn.microsoft.com/azure/security-center/security-center-just-in-time (2025-01-07 11:01 PM)
+            ☐ Overview https://learn.microsoft.com/azure/site-recovery/site-recovery-overview?toc=/azure/virtual-machines/toc.json (2025-01-09 06:03 PM)
+            ☐ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2025-01-08 06:02 PM)
 

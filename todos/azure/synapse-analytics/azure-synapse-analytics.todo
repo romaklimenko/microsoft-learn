@@ -2,9 +2,9 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
     ☐ Azure Synapse Analytics https://learn.microsoft.com/en-us/azure/synapse-analytics/ (2024-08-14 06:47 PM)
     ☐ Switch to dedicated SQL pool (formerly SQL DW) > https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is (2024-10-07 10:04 PM)
     Overview:
-        ☐ What is Azure Synapse? https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is (2024-08-01 11:20 AM)
+        ✘ What is Azure Synapse? https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is (2024-08-01 11:20 AM) @cancelled
         ☐ Terminology https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-terminology (2024-08-01 11:20 AM)
-        ☐ FAQ https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-faq (2024-10-07 10:04 PM)
+        ✘ FAQ https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-faq (2024-10-07 10:04 PM) @cancelled
     Quickstarts:
         ☐ Get started https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started (2024-11-08 11:02 PM)
         ☐ 1 Create a Synapse workspace https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started-create-workspace (2024-08-28 07:22 PM)
@@ -333,7 +333,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             Data types:
                 ☐ Scalar data types https://learn.microsoft.com/kusto/query/scalar-data-types/index?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ bool https://learn.microsoft.com/kusto/query/scalar-data-types/bool?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ datetime https://learn.microsoft.com/kusto/query/scalar-data-types/datetime?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ datetime https://learn.microsoft.com/kusto/query/scalar-data-types/datetime?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ decimal https://learn.microsoft.com/kusto/query/scalar-data-types/decimal?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ dynamic https://learn.microsoft.com/kusto/query/scalar-data-types/dynamic?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ guid https://learn.microsoft.com/kusto/query/scalar-data-types/guid?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -419,7 +419,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ as operator https://learn.microsoft.com/kusto/query/as-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ consume operator https://learn.microsoft.com/kusto/query/consume-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ count operator https://learn.microsoft.com/kusto/query/count-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ distinct operator https://learn.microsoft.com/kusto/query/distinct-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ evaluate operator https://learn.microsoft.com/kusto/query/evaluate-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ extend operator https://learn.microsoft.com/kusto/query/extend-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -457,7 +457,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ parse-kv operator https://learn.microsoft.com/kusto/query/parse-kv-operator?view=azure-data-explorer&preserve-view=true (2024-09-02 11:04 AM)
                 ☐ partition operator https://learn.microsoft.com/kusto/query/partition-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ print operator https://learn.microsoft.com/kusto/query/print-operator?view=azure-data-explorer&preserve-view=true (2024-11-21 06:02 PM)
-                ☐ range operator https://learn.microsoft.com/kusto/query/range-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ range operator https://learn.microsoft.com/kusto/query/range-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ reduce operator https://learn.microsoft.com/kusto/query/reduce-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 render operator:
                     ☐ render operator https://learn.microsoft.com/kusto/query/render-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -516,7 +516,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ in~ operator https://learn.microsoft.com/kusto/query/in-operator?view=azure-data-explorer&preserve-view=true (2024-11-21 06:02 PM)
                     ☐ !in operator https://learn.microsoft.com/kusto/query/not-in-cs-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ !in~ operator https://learn.microsoft.com/kusto/query/not-in-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Logical or binary operators https://learn.microsoft.com/kusto/query/logical-operators?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ Logical or binary operators https://learn.microsoft.com/kusto/query/logical-operators?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ Numerical operators https://learn.microsoft.com/kusto/query/numerical-operators?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 String operators:
                     ☐ String operators overview https://learn.microsoft.com/kusto/query/datatypes-string-operators?view=azure-data-explorer&preserve-view=true (2024-09-08 11:05 AM)
@@ -609,7 +609,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ case() https://learn.microsoft.com/kusto/query/case-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ ceiling() https://learn.microsoft.com/kusto/query/ceiling-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ coalesce() https://learn.microsoft.com/kusto/query/coalesce-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ column_ifexists() https://learn.microsoft.com/kusto/query/column-ifexists-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ column_ifexists() https://learn.microsoft.com/kusto/query/column-ifexists-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ convert_angle() https://learn.microsoft.com/kusto/query/convert-angle-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ convert_energy() https://learn.microsoft.com/kusto/query/convert-energy-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ convert_force() https://learn.microsoft.com/kusto/query/convert-force-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -750,7 +750,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ regex_quote() https://learn.microsoft.com/kusto/query/regex-quote-function?view=azure-data-explorer&preserve-view=true (2024-09-02 11:04 AM)
                 ☐ repeat() https://learn.microsoft.com/kusto/query/repeat-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ replace_regex() https://learn.microsoft.com/kusto/query/replace-regex-function?view=azure-data-explorer&preserve-view=true (2024-12-08 12:04 PM)
-                ☐ replace_string() https://learn.microsoft.com/kusto/query/replace-string-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ replace_string() https://learn.microsoft.com/kusto/query/replace-string-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ replace_strings() https://learn.microsoft.com/kusto/query/replace-strings-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ reverse() https://learn.microsoft.com/kusto/query/reverse-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ round() https://learn.microsoft.com/kusto/query/round-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -809,7 +809,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             Aggregation functions:
                 ☐ Aggregation function types https://learn.microsoft.com/kusto/query/aggregation-functions?view=azure-data-explorer&preserve-view=true (2024-09-24 11:04 AM)
                 ☐ arg_max() https://learn.microsoft.com/kusto/query/arg-max-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-12-09 12:04 PM)
-                ☐ arg_min() https://learn.microsoft.com/kusto/query/arg-min-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-12-09 12:04 PM)
+                ✘ arg_min() https://learn.microsoft.com/kusto/query/arg-min-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-12-09 12:04 PM) @cancelled
                 ☐ avg() https://learn.microsoft.com/kusto/query/avg-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-18 04:57 PM)
                 ☐ avgif() https://learn.microsoft.com/kusto/query/avgif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ binary_all_and https://learn.microsoft.com/kusto/query/binary-all-and-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1036,21 +1036,21 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             Workload groups:
                 ☐ Workload groups overview https://learn.microsoft.com/kusto/management/workload-groups?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 Workload group commands:
-                    ☐ .alter-merge workload_group command https://learn.microsoft.com/kusto/management/alter-merge-workload-group-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .create-or-alter workload_group command https://learn.microsoft.com/kusto/management/create-or-alter-workload-group-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .drop workload_group command https://learn.microsoft.com/kusto/management/drop-workload-group-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .show workload_group command https://learn.microsoft.com/kusto/management/show-workload-group-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ .alter-merge workload_group command https://learn.microsoft.com/kusto/management/alter-merge-workload-group-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .create-or-alter workload_group command https://learn.microsoft.com/kusto/management/create-or-alter-workload-group-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .drop workload_group command https://learn.microsoft.com/kusto/management/drop-workload-group-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .show workload_group command https://learn.microsoft.com/kusto/management/show-workload-group-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 Request classification policy:
-                    ☐ Request classification policy https://learn.microsoft.com/kusto/management/request-classification-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .alter cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .alter-merge cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-merge-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .delete cluster policy request_classification command https://learn.microsoft.com/kusto/management/delete-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .show cluster policy request_classification command https://learn.microsoft.com/kusto/management/show-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Request rate limits enforcement policy https://learn.microsoft.com/kusto/management/request-rate-limits-enforcement-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Request queuing policy https://learn.microsoft.com/kusto/management/request-queuing-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Query consistency policy https://learn.microsoft.com/kusto/management/query-consistency-policy?view=azure-data-explorer&preserve-view=true (2024-11-25 05:59 PM)
+                    ✘ Request classification policy https://learn.microsoft.com/kusto/management/request-classification-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .alter cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .alter-merge cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-merge-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .delete cluster policy request_classification command https://learn.microsoft.com/kusto/management/delete-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .show cluster policy request_classification command https://learn.microsoft.com/kusto/management/show-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Request rate limits enforcement policy https://learn.microsoft.com/kusto/management/request-rate-limits-enforcement-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Request queuing policy https://learn.microsoft.com/kusto/management/request-queuing-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Query consistency policy https://learn.microsoft.com/kusto/management/query-consistency-policy?view=azure-data-explorer&preserve-view=true (2024-11-25 05:59 PM) @cancelled
             Schema:
                 ☐ Best practices for schema management https://learn.microsoft.com/kusto/management/management-best-practices?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 Clusters:
@@ -1176,13 +1176,13 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ .show materialized-view policy caching command https://learn.microsoft.com/kusto/management/show-materialized-view-cache-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .show table policy caching command https://learn.microsoft.com/kusto/management/show-table-cache-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 Callout:
-                    ☐ Callout policy https://learn.microsoft.com/kusto/management/callout-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .alter cluster policy callout command https://learn.microsoft.com/kusto/management/alter-callout-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .alter-merge cluster policy callout command https://learn.microsoft.com/kusto/management/alter-merge-callout-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .delete cluster policy callout command https://learn.microsoft.com/kusto/management/delete-callout-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .show cluster policy callout command https://learn.microsoft.com/kusto/management/show-cluster-callout-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ Callout policy https://learn.microsoft.com/kusto/management/callout-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .alter cluster policy callout command https://learn.microsoft.com/kusto/management/alter-callout-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .alter-merge cluster policy callout command https://learn.microsoft.com/kusto/management/alter-merge-callout-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .delete cluster policy callout command https://learn.microsoft.com/kusto/management/delete-callout-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .show cluster policy callout command https://learn.microsoft.com/kusto/management/show-cluster-callout-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 Capacity:
-                    ☐ Capacity policy https://learn.microsoft.com/kusto/management/capacity-policy?view=azure-data-explorer&preserve-view=true (2024-09-08 11:05 AM)
+                    ✘ Capacity policy https://learn.microsoft.com/kusto/management/capacity-policy?view=azure-data-explorer&preserve-view=true (2024-09-08 11:05 AM) @cancelled
                     ☐ .alter cluster policy capacity command https://learn.microsoft.com/kusto/management/alter-capacity-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .alter-merge cluster policy capacity command https://learn.microsoft.com/kusto/management/alter-merge-capacity-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .show cluster policy capacity command https://learn.microsoft.com/kusto/management/show-cluster-capacity-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1293,25 +1293,25 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ .delete cluster policy sandbox command https://learn.microsoft.com/kusto/management/delete-cluster-sandbox-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .show cluster policy sandbox command https://learn.microsoft.com/kusto/management/show-cluster-sandbox-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 Sharding:
-                    ☐ Sharding policy https://learn.microsoft.com/kusto/management/sharding-policy?view=azure-data-explorer&preserve-view=true (2024-11-20 12:10 PM)
-                    ☐ .alter database policy sharding command https://learn.microsoft.com/kusto/management/alter-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .alter table policy sharding command https://learn.microsoft.com/kusto/management/alter-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .alter-merge database policy sharding https://learn.microsoft.com/kusto/management/alter-merge-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .alter-merge table policy sharding command https://learn.microsoft.com/kusto/management/alter-merge-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .delete database policy sharding command https://learn.microsoft.com/kusto/management/delete-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .delete table policy sharding command https://learn.microsoft.com/kusto/management/delete-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .show database policy sharding command https://learn.microsoft.com/kusto/management/show-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .show table policy sharding command https://learn.microsoft.com/kusto/management/show-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-11-20 12:10 PM)
+                    ✘ Sharding policy https://learn.microsoft.com/kusto/management/sharding-policy?view=azure-data-explorer&preserve-view=true (2024-11-20 12:10 PM) @cancelled
+                    ✘ .alter database policy sharding command https://learn.microsoft.com/kusto/management/alter-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .alter table policy sharding command https://learn.microsoft.com/kusto/management/alter-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .alter-merge database policy sharding https://learn.microsoft.com/kusto/management/alter-merge-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .alter-merge table policy sharding command https://learn.microsoft.com/kusto/management/alter-merge-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .delete database policy sharding command https://learn.microsoft.com/kusto/management/delete-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .delete table policy sharding command https://learn.microsoft.com/kusto/management/delete-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .show database policy sharding command https://learn.microsoft.com/kusto/management/show-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .show table policy sharding command https://learn.microsoft.com/kusto/management/show-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2024-11-20 12:10 PM) @cancelled
                 Streaming ingestion:
-                    ☐ Streaming ingestion policy https://learn.microsoft.com/kusto/management/streaming-ingestion-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .alter database policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .alter table policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .alter-merge database policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-merge-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .alter-merge table policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-merge-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .delete database policy streamingingestion command https://learn.microsoft.com/kusto/management/delete-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .delete table policy streamingingestion command https://learn.microsoft.com/kusto/management/delete-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .show database policy streamingingestion command https://learn.microsoft.com/kusto/management/show-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .show table policy streamingingestion command https://learn.microsoft.com/kusto/management/show-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ Streaming ingestion policy https://learn.microsoft.com/kusto/management/streaming-ingestion-policy?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .alter database policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .alter table policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .alter-merge database policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-merge-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .alter-merge table policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-merge-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .delete database policy streamingingestion command https://learn.microsoft.com/kusto/management/delete-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .delete table policy streamingingestion command https://learn.microsoft.com/kusto/management/delete-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .show database policy streamingingestion command https://learn.microsoft.com/kusto/management/show-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ .show table policy streamingingestion command https://learn.microsoft.com/kusto/management/show-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 Update:
                     ☐ Update policy https://learn.microsoft.com/kusto/management/update-policy?view=azure-data-explorer&preserve-view=true (2024-12-18 06:02 PM)
                     ☐ Update policy scenarios https://learn.microsoft.com/kusto/management/update-policy-common-scenarios?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1338,11 +1338,11 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             Data ingestion:
                 ☐ Data formats supported for ingestion https://learn.microsoft.com/kusto/ingestion-supported-formats?view=azure-data-explorer&preserve-view=true (2024-10-15 11:07 AM)
                 ☐ Ingestion properties https://learn.microsoft.com/kusto/ingestion-properties?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Ingest from storage https://learn.microsoft.com/kusto/management/data-ingestion/ingest-from-storage?view=azure-data-explorer&preserve-view=true (2024-11-27 12:13 PM)
+                ✘ Ingest from storage https://learn.microsoft.com/kusto/management/data-ingestion/ingest-from-storage?view=azure-data-explorer&preserve-view=true (2024-11-27 12:13 PM) @cancelled
                 Ingest from query:
                     ☐ Ingest from query https://learn.microsoft.com/kusto/management/data-ingestion/ingest-from-query?view=azure-data-explorer&preserve-view=true (2024-11-27 12:13 PM)
                     ☐ cancel operation command https://learn.microsoft.com/kusto/management/cancel-operation-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Inline ingestion https://learn.microsoft.com/kusto/management/data-ingestion/ingest-inline?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ Inline ingestion https://learn.microsoft.com/kusto/management/data-ingestion/ingest-inline?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 Streaming ingestion:
                     ☐ Streaming ingestion and schema changes https://learn.microsoft.com/kusto/management/data-ingestion/streaming-ingestion-schema-changes?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
                     ☐ Clear schema cache for streaming ingestion https://learn.microsoft.com/kusto/management/data-ingestion/clear-schema-cache-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1352,19 +1352,19 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ .show streamingingestion failures command https://learn.microsoft.com/kusto/management/streaming-ingestion-failures?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ Data operations https://learn.microsoft.com/kusto/management/show-data-operations?view=azure-data-explorer&preserve-view=true (2024-09-26 11:03 AM)
             Data export https://learn.microsoft.com/kusto/management/data-export/index?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM):
-                ☐ To cloud storage https://learn.microsoft.com/kusto/management/data-export/export-data-to-storage?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
-                ☐ To an external table https://learn.microsoft.com/kusto/management/data-export/export-data-to-an-external-table?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
-                ☐ To an SQL table https://learn.microsoft.com/kusto/management/data-export/export-data-to-sql?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
+                ✘ To cloud storage https://learn.microsoft.com/kusto/management/data-export/export-data-to-storage?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM) @cancelled
+                ✘ To an external table https://learn.microsoft.com/kusto/management/data-export/export-data-to-an-external-table?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM) @cancelled
+                ✘ To an SQL table https://learn.microsoft.com/kusto/management/data-export/export-data-to-sql?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM) @cancelled
                 Continuous data export:
                     ☐ Continuous data export overview https://learn.microsoft.com/kusto/management/data-export/continuous-data-export?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
                     ☐ Create or alter continuous export https://learn.microsoft.com/kusto/management/data-export/create-alter-continuous?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
                     ☐ Use a managed identity https://learn.microsoft.com/kusto/management/data-export/continuous-export-with-managed-identity?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
-                    ☐ Disable or enable continuous export https://learn.microsoft.com/kusto/management/data-export/disable-enable-continuous?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
+                    ✘ Disable or enable continuous export https://learn.microsoft.com/kusto/management/data-export/disable-enable-continuous?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM) @cancelled
                     ☐ Drop continuous export https://learn.microsoft.com/kusto/management/data-export/drop-continuous-export?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
                     ☐ Show continuous export https://learn.microsoft.com/kusto/management/data-export/show-continuous-export?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
                     ☐ Show continuous export artifacts https://learn.microsoft.com/kusto/management/data-export/show-continuous-artifacts?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
                     ☐ Show continuous export failures https://learn.microsoft.com/kusto/management/data-export/show-continuous-failures?view=azure-data-explorer&preserve-view=true (2024-12-17 12:03 PM)
-            ☐ Database cursors https://learn.microsoft.com/kusto/management/database-cursor?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ Database cursors https://learn.microsoft.com/kusto/management/database-cursor?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             Plugin commands:
                 ☐ .show plugins command https://learn.microsoft.com/kusto/management/show-plugins?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ .enable plugin command https://learn.microsoft.com/kusto/management/enable-plugin?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1641,14 +1641,14 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             ☐ Differences from Azure Data Factory https://learn.microsoft.com/en-us/azure/synapse-analytics/data-integration/concepts-data-factory-differences (2024-12-11 11:02 PM)
             Data flows:
                 ☐ Data flow overview https://learn.microsoft.com/en-us/azure/synapse-analytics/concepts-data-flow-overview (2024-12-11 11:02 PM)
-                ☐ Debug mode https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-debug-mode?toc=/azure/synapse-analytics/toc.json&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Schema drift https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-schema-drift?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Column patterns https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-column-pattern?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM)
-                ☐ Data flow monitoring https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-monitoring?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
+                ✘ Debug mode https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-debug-mode?toc=/azure/synapse-analytics/toc.json&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Schema drift https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-schema-drift?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Column patterns https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-column-pattern?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM) @cancelled
+                ✘ Data flow monitoring https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-monitoring?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
                 Data flow performance:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM) @cancelled
                     ☐ Optimizing sources https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-sources?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                    ☐ Optimizing sinks https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-sinks?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
+                    ✘ Optimizing sinks https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-sinks?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
                     ☐ Optimizing transformations https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-transformations?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
                     ☐ Using data flows in pipelines https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-pipelines?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
                     ☐ Memory optimized compute https://learn.microsoft.com/en-us/azure/data-factory/memory-optimized-compute?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-09 10:27 PM)
@@ -1806,7 +1806,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ HDInsight Streaming activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-hadoop-streaming?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-10-04 11:22 AM)
                 ☐ Machine Learning execute pipeline activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-machine-learning-service?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-10-24 05:04 PM)
                 ☐ Machine Learning Studio (classic) batch execution activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-machine-learning?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-10-04 11:22 AM)
-                ☐ Machine Learning Studio (classic) update resource activity https://learn.microsoft.com/en-us/azure/data-factory/update-machine-learning-models?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-10-25 10:04 PM)
+                ✘ Machine Learning Studio (classic) update resource activity https://learn.microsoft.com/en-us/azure/data-factory/update-machine-learning-models?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-10-25 10:04 PM) @cancelled
                 ☐ Stored procedure activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-stored-procedure?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-11 06:03 PM)
                 ☐ Script activity https://learn.microsoft.com/en-us/azure/data-factory/transform-data-using-script?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-11 06:03 PM)
                 ☐ Compute linked services https://learn.microsoft.com/en-us/azure/data-factory/compute-linked-services?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-11 06:03 PM)
@@ -1826,26 +1826,26 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Webhook activity https://learn.microsoft.com/en-us/azure/data-factory/control-flow-webhook-activity?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM)
             Data flow transformations:
                 ☐ Transformation overview https://learn.microsoft.com/en-us/azure/data-factory/data-flow-transformation-overview?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Aggregate https://learn.microsoft.com/en-us/azure/data-factory/data-flow-aggregate?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Alter row https://learn.microsoft.com/en-us/azure/data-factory/data-flow-alter-row?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM)
-                ☐ Conditional split https://learn.microsoft.com/en-us/azure/data-factory/data-flow-conditional-split?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
+                ✘ Aggregate https://learn.microsoft.com/en-us/azure/data-factory/data-flow-aggregate?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Alter row https://learn.microsoft.com/en-us/azure/data-factory/data-flow-alter-row?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM) @cancelled
+                ✘ Conditional split https://learn.microsoft.com/en-us/azure/data-factory/data-flow-conditional-split?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
                 ☐ Derived column https://learn.microsoft.com/en-us/azure/data-factory/data-flow-derived-column?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Exists https://learn.microsoft.com/en-us/azure/data-factory/data-flow-exists?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Filter https://learn.microsoft.com/en-us/azure/data-factory/data-flow-filter?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Flatten https://learn.microsoft.com/en-us/azure/data-factory/data-flow-flatten?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Join https://learn.microsoft.com/en-us/azure/data-factory/data-flow-join?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Lookup https://learn.microsoft.com/en-us/azure/data-factory/data-flow-lookup?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
+                ✘ Exists https://learn.microsoft.com/en-us/azure/data-factory/data-flow-exists?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Filter https://learn.microsoft.com/en-us/azure/data-factory/data-flow-filter?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Flatten https://learn.microsoft.com/en-us/azure/data-factory/data-flow-flatten?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Join https://learn.microsoft.com/en-us/azure/data-factory/data-flow-join?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Lookup https://learn.microsoft.com/en-us/azure/data-factory/data-flow-lookup?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
                 ☐ New branch https://learn.microsoft.com/en-us/azure/data-factory/data-flow-new-branch?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Pivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-pivot?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Rank https://learn.microsoft.com/en-us/azure/data-factory/data-flow-rank?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Select https://learn.microsoft.com/en-us/azure/data-factory/data-flow-select?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Sink https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sink?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM)
+                ✘ Pivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-pivot?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Rank https://learn.microsoft.com/en-us/azure/data-factory/data-flow-rank?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Select https://learn.microsoft.com/en-us/azure/data-factory/data-flow-select?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Sink https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sink?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM) @cancelled
                 ☐ Sort https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sort?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
                 ☐ Source https://learn.microsoft.com/en-us/azure/data-factory/data-flow-source?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM)
                 ☐ Surrogate key https://learn.microsoft.com/en-us/azure/data-factory/data-flow-surrogate-key?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Union https://learn.microsoft.com/en-us/azure/data-factory/data-flow-union?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Unpivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-unpivot?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                ☐ Window https://learn.microsoft.com/en-us/azure/data-factory/data-flow-window?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-24 05:37 AM)
+                ✘ Union https://learn.microsoft.com/en-us/azure/data-factory/data-flow-union?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Unpivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-unpivot?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
+                ✘ Window https://learn.microsoft.com/en-us/azure/data-factory/data-flow-window?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-24 05:37 AM) @cancelled
             Parameterize:
                 ☐ Parameterize linked services https://learn.microsoft.com/en-us/azure/data-factory/parameterize-linked-services?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-11-21 05:37 AM)
                 ☐ Expression Language https://learn.microsoft.com/en-us/azure/data-factory/control-flow-expression-language-functions?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-11 06:03 PM)
@@ -1857,7 +1857,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Send Microsoft Teams notifications from a pipeline https://learn.microsoft.com/en-us/azure/data-factory/how-to-send-notifications-to-teams?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-11 06:03 PM)
             Create integration runtime:
                 ☐ Azure integration runtime https://learn.microsoft.com/en-us/azure/data-factory/create-azure-integration-runtime?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM)
-                ☐ Self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-11 06:03 PM)
+                ✘ Self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-11 06:03 PM) @cancelled
             Create triggers:
                 ☐ Create an event-based trigger https://learn.microsoft.com/en-us/azure/data-factory/how-to-create-event-trigger?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-02 11:02 PM)
                 ☐ Create a schedule trigger https://learn.microsoft.com/en-us/azure/data-factory/how-to-create-schedule-trigger?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
@@ -1873,7 +1873,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Azure Data Lake (Gen1 and Gen2) https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-azure-data-lake?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM)
                     ✘ Azure database for PostgreSQL https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-postgresql?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
                     ☐ Azure files https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-azure-files?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
-                    ☐ Azure Synapse Analytics, Azure SQL Database, and SQL Server https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-synapse-sql?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
+                    ✘ Azure Synapse Analytics, Azure SQL Database, and SQL Server https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-synapse-sql?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM) @cancelled
                     ☐ Azure Table Storage https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-azure-table-storage?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
                     ☐ DB2 https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-db2?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
                     ☐ Delimited text format https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-delimited-text?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
@@ -2006,7 +2006,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
         ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.synapse?context=/azure/synapse-analytics/context/context (2024-11-19 05:50 PM)
         ☐ REST APIs https://learn.microsoft.com/rest/api/synapse/ (2024-08-13 10:12 PM)
         ☐ Microsoft Spark Utilities https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/microsoft-spark-utilities (2024-11-19 06:02 PM)
-        ☐ File mount/unmount API in Synapse https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/synapse-file-mount-api (2024-09-11 06:38 PM)
+        ✘ File mount/unmount API in Synapse https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/synapse-file-mount-api (2024-09-11 06:38 PM) @cancelled
         ☐ Samples https://github.com/Azure-Samples/Synapse
         ☐ System views https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/reference-tsql-system-views?context=/azure/synapse-analytics/context/context (2024-08-01 11:20 AM)
         ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/synapse-analytics/policy-reference (2024-08-02 05:38 AM)
@@ -2067,8 +2067,8 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ System and user-assigned managed identity https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-service-identity?context=/azure/synapse-analytics/context/context (2024-12-29 12:12 PM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-elt-data-loading?context=/azure/synapse-analytics/context/context (2024-12-29 12:12 PM)
                 ☐ Data loading overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/load-data-overview (2024-12-29 12:12 PM)
-                    ☐ Load external data using Entra ID https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-load-data-using-entra-id (2024-12-29 12:12 PM)
-                    ☐ Load external data using a Managed Identity https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-external-tables-using-managed-identity (2024-12-29 12:12 PM)
+                    ✘ Load external data using Entra ID https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-load-data-using-entra-id (2024-12-29 12:12 PM) @cancelled
+                    ✘ Load external data using a Managed Identity https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-external-tables-using-managed-identity (2024-12-29 12:12 PM) @cancelled
                     ☐ Contoso public data https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-load-from-azure-blob-storage-with-polybase?context=/azure/synapse-analytics/context/context (2024-12-29 12:12 PM)
 
 
@@ -2110,4 +2110,89 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/teradata/7-beyond-data-warehouse-migration (2025-01-01 06:02 PM)
                 ☐ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/netezza/7-beyond-data-warehouse-migration (2025-01-01 06:02 PM)
                 ☐ 7 Implementing modern data warehouses https://learn.microsoft.com/en-us/azure/synapse-analytics/migration-guides/oracle/7-beyond-data-warehouse-migration (2025-01-01 06:02 PM)
+
+
+---
+
+        ☐ What is Azure Synapse? https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is (2025-01-08 06:02 PM)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-faq (2025-01-09 06:03 PM)
+                    ☐ Load external data using Entra ID https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-load-data-using-entra-id (2025-01-08 06:02 PM)
+                    ☐ Load external data using a Managed Identity https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-external-tables-using-managed-identity (2025-01-08 05:33 AM)
+                ☐ datetime https://learn.microsoft.com/kusto/query/scalar-data-types/datetime?view=azure-data-explorer&preserve-view=true (2025-01-09 12:05 PM)
+                ☐ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                ☐ range operator https://learn.microsoft.com/kusto/query/range-operator?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                ☐ Logical or binary operators https://learn.microsoft.com/kusto/query/logical-operators?view=azure-data-explorer&preserve-view=true (2025-01-09 12:05 PM)
+                ☐ column_ifexists() https://learn.microsoft.com/kusto/query/column-ifexists-function?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                ☐ replace_string() https://learn.microsoft.com/kusto/query/replace-string-function?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                ☐ arg_min() https://learn.microsoft.com/kusto/query/arg-min-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter-merge workload_group command https://learn.microsoft.com/kusto/management/alter-merge-workload-group-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .create-or-alter workload_group command https://learn.microsoft.com/kusto/management/create-or-alter-workload-group-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .drop workload_group command https://learn.microsoft.com/kusto/management/drop-workload-group-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .show workload_group command https://learn.microsoft.com/kusto/management/show-workload-group-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ Request classification policy https://learn.microsoft.com/kusto/management/request-classification-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter-merge cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-merge-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .delete cluster policy request_classification command https://learn.microsoft.com/kusto/management/delete-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .show cluster policy request_classification command https://learn.microsoft.com/kusto/management/show-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                ☐ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                ☐ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                ☐ Request rate limits enforcement policy https://learn.microsoft.com/kusto/management/request-rate-limits-enforcement-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                ☐ Request queuing policy https://learn.microsoft.com/kusto/management/request-queuing-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                ☐ Query consistency policy https://learn.microsoft.com/kusto/management/query-consistency-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ Callout policy https://learn.microsoft.com/kusto/management/callout-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter cluster policy callout command https://learn.microsoft.com/kusto/management/alter-callout-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter-merge cluster policy callout command https://learn.microsoft.com/kusto/management/alter-merge-callout-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .delete cluster policy callout command https://learn.microsoft.com/kusto/management/delete-callout-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .show cluster policy callout command https://learn.microsoft.com/kusto/management/show-cluster-callout-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ Capacity policy https://learn.microsoft.com/kusto/management/capacity-policy?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                    ☐ Sharding policy https://learn.microsoft.com/kusto/management/sharding-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter database policy sharding command https://learn.microsoft.com/kusto/management/alter-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter table policy sharding command https://learn.microsoft.com/kusto/management/alter-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter-merge database policy sharding https://learn.microsoft.com/kusto/management/alter-merge-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter-merge table policy sharding command https://learn.microsoft.com/kusto/management/alter-merge-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .delete database policy sharding command https://learn.microsoft.com/kusto/management/delete-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .delete table policy sharding command https://learn.microsoft.com/kusto/management/delete-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .show database policy sharding command https://learn.microsoft.com/kusto/management/show-database-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .show table policy sharding command https://learn.microsoft.com/kusto/management/show-table-sharding-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ Streaming ingestion policy https://learn.microsoft.com/kusto/management/streaming-ingestion-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter database policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter table policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter-merge database policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-merge-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .alter-merge table policy streamingingestion command https://learn.microsoft.com/kusto/management/alter-merge-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .delete database policy streamingingestion command https://learn.microsoft.com/kusto/management/delete-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .delete table policy streamingingestion command https://learn.microsoft.com/kusto/management/delete-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .show database policy streamingingestion command https://learn.microsoft.com/kusto/management/show-database-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ☐ .show table policy streamingingestion command https://learn.microsoft.com/kusto/management/show-table-streaming-ingestion-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                ☐ Ingest from storage https://learn.microsoft.com/kusto/management/data-ingestion/ingest-from-storage?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                ☐ Inline ingestion https://learn.microsoft.com/kusto/management/data-ingestion/ingest-inline?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                ☐ To cloud storage https://learn.microsoft.com/kusto/management/data-export/export-data-to-storage?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                ☐ To an external table https://learn.microsoft.com/kusto/management/data-export/export-data-to-an-external-table?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                ☐ To an SQL table https://learn.microsoft.com/kusto/management/data-export/export-data-to-sql?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                    ☐ Disable or enable continuous export https://learn.microsoft.com/kusto/management/data-export/disable-enable-continuous?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+            ☐ Database cursors https://learn.microsoft.com/kusto/management/database-cursor?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                ☐ Debug mode https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-debug-mode?toc=/azure/synapse-analytics/toc.json&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Schema drift https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-schema-drift?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Column patterns https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-column-pattern?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Data flow monitoring https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-monitoring?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                    ☐ Optimizing sinks https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-sinks?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Machine Learning Studio (classic) update resource activity https://learn.microsoft.com/en-us/azure/data-factory/update-machine-learning-models?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-08 11:02 PM)
+                ☐ Aggregate https://learn.microsoft.com/en-us/azure/data-factory/data-flow-aggregate?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-08 11:02 PM)
+                ☐ Alter row https://learn.microsoft.com/en-us/azure/data-factory/data-flow-alter-row?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Conditional split https://learn.microsoft.com/en-us/azure/data-factory/data-flow-conditional-split?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Exists https://learn.microsoft.com/en-us/azure/data-factory/data-flow-exists?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Filter https://learn.microsoft.com/en-us/azure/data-factory/data-flow-filter?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Flatten https://learn.microsoft.com/en-us/azure/data-factory/data-flow-flatten?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Join https://learn.microsoft.com/en-us/azure/data-factory/data-flow-join?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Lookup https://learn.microsoft.com/en-us/azure/data-factory/data-flow-lookup?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Pivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-pivot?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Rank https://learn.microsoft.com/en-us/azure/data-factory/data-flow-rank?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Select https://learn.microsoft.com/en-us/azure/data-factory/data-flow-select?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Sink https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sink?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Union https://learn.microsoft.com/en-us/azure/data-factory/data-flow-union?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Unpivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-unpivot?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Window https://learn.microsoft.com/en-us/azure/data-factory/data-flow-window?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ☐ Self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-08 11:02 PM)
+                    ☐ Azure Synapse Analytics, Azure SQL Database, and SQL Server https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-synapse-sql?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-08 11:02 PM)
+        ☐ File mount/unmount API in Synapse https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/synapse-file-mount-api (2025-01-09 06:03 PM)
 

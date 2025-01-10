@@ -55,7 +55,7 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
         ☐ Copilot for Real-Time Intelligence https://learn.microsoft.com/en-us/fabric/get-started/copilot-real-time-intelligence (2024-12-16 12:06 PM)
         ☐ Copilot in Fabric Consumption https://learn.microsoft.com/en-us/fabric/get-started/copilot-fabric-consumption (2024-11-27 11:01 PM)
     Direct Lake:
-        ☐ Direct Lake overview https://learn.microsoft.com/en-us/fabric/get-started/direct-lake-overview (2024-11-20 11:00 PM)
+        ✘ Direct Lake overview https://learn.microsoft.com/en-us/fabric/get-started/direct-lake-overview (2024-11-20 11:00 PM) @cancelled
         ☐ Develop Direct Lake models https://learn.microsoft.com/en-us/fabric/get-started/direct-lake-develop (2024-12-17 12:03 PM)
         ☐ Manage Direct Lake models https://learn.microsoft.com/en-us/fabric/get-started/direct-lake-manage (2024-09-24 07:03 AM)
         ☐ Understand storage for Direct Lake https://learn.microsoft.com/en-us/fabric/get-started/direct-lake-understand-storage (2024-09-24 07:03 AM)
@@ -311,10 +311,10 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
 
 ---
 
-        ☐ What's New https://learn.microsoft.com/en-us/fabric/get-started/whats-new (2025-01-03 11:00 PM)
+        ✘ What's New https://learn.microsoft.com/en-us/fabric/get-started/whats-new (2025-01-03 11:00 PM) @cancelled
     ☐ Promote or certify items https://learn.microsoft.com/en-us/fabric/get-started/endorsement-promote-certify (2025-01-06 12:03 PM)
         ☐ Governance https://learn.microsoft.com/power-bi/guidance/fabric-adoption-roadmap-governance?context=/fabric/context/context (2025-01-06 11:41 PM)
-        ☐ Active known issues for Fabric + Power BI - chart https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues (2025-01-06 11:00 PM)
+        ✘ Active known issues for Fabric + Power BI - chart https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues (2025-01-06 11:00 PM) @cancelled
         ☐ SQL databases not available with private link through January 2025 https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-979-sql-databases-not-available-private-link (2025-01-06 11:00 PM)
         ☐ Create report doesn't work on Eventhouse monitoring KQL database https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-975-create-report-not-work-eventhouse-monitoring-kql-database (2025-01-06 11:00 PM)
         ☐ Show table command in KQL Queryset editor fails https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-974-show-table-kql-queryset-editor-fails (2025-01-06 11:00 PM)
@@ -322,7 +322,21 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
         ☐ Schema refresh for a data warehouse's semantic model fails https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-821-schema-refresh-data-warehouse-model-fails (2025-01-06 11:00 PM)
         ☐ Using an inactive SQL analytics endpoint can show old data https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-618-using-inactive-sql-analytics-endpoint-old-data (2025-01-06 11:00 PM)
         ☐ Temp tables in Warehouse and SQL analytics endpoint https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-447-temp-tables-data-warehouse-sql-endpoint (2025-01-06 11:00 PM)
-        ☐ Closing a Dataflow Gen1 takes you to the wrong workspace https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-546-closing-dataflow-gen1-takes-wrong-workspace (2025-01-06 11:00 PM)
-        ☐ New card visual formatting appears or disappears in Service https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-535-new-card-visual-formatting-appears-disappears (2025-01-06 11:00 PM)
-        ☐ Sign in fails for securely embedded reports using Chrome or Microsoft Edge browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-532-sign-in-fails-securely-embedded-reports-using-chrome-browser (2025-01-06 11:00 PM)
+        ✘ Closing a Dataflow Gen1 takes you to the wrong workspace https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-546-closing-dataflow-gen1-takes-wrong-workspace (2025-01-06 11:00 PM) @cancelled
+        ✘ New card visual formatting appears or disappears in Service https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-535-new-card-visual-formatting-appears-disappears (2025-01-06 11:00 PM) @cancelled
+        ✘ Sign in fails for securely embedded reports using Chrome or Microsoft Edge browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-532-sign-in-fails-securely-embedded-reports-using-chrome-browser (2025-01-06 11:00 PM) @cancelled
+
+
+---
+
+        ☐ What's New https://learn.microsoft.com/en-us/fabric/get-started/whats-new (2025-01-09 12:06 PM)
+            ☐ What is workspace monitoring? https://learn.microsoft.com/en-us/fabric/get-started/workspace-monitoring-overview (2025-01-09 12:06 PM)
+        ☐ Direct Lake overview https://learn.microsoft.com/en-us/fabric/get-started/direct-lake-overview (2025-01-07 11:01 PM)
+        ☐ Active known issues for Fabric + Power BI - chart https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues (2025-01-07 11:01 PM)
+        ☐ Direct Lake query cancellation might cancel other queries https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-986-direct-lake-query-cancellation-cancel-queries (2025-01-07 11:01 PM)
+        ☐ Direct Lake query cancellation causes model to fall back to DirectQuery https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-985-direct-lake-query-cancellation-fall-back-directquery (2025-01-07 11:01 PM)
+        ☐ Closing a Dataflow Gen1 takes you to the wrong workspace https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-546-closing-dataflow-gen1-takes-wrong-workspace (2025-01-07 11:01 PM)
+        ☐ New card visual formatting appears or disappears in Service https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-535-new-card-visual-formatting-appears-disappears (2025-01-07 11:01 PM)
+        ☐ Sign in fails for securely embedded reports using Chrome or Microsoft Edge browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-532-sign-in-fails-securely-embedded-reports-using-chrome-browser (2025-01-07 11:01 PM)
+        ☐ What's new? archive https://learn.microsoft.com/en-us/fabric/get-started/whats-new-archive (2024-12-31 12:11 PM)
 

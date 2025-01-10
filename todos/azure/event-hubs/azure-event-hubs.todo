@@ -3,7 +3,7 @@ Azure Event Hubs documentation | Microsoft Learn:
     Overview:
         ☐ What is Event Hubs? https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-about (2024-12-18 11:02 PM)
         ☐ Apache Kafka on Azure Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/azure-event-hubs-apache-kafka-overview (2024-12-19 12:13 PM)
-        ☐ Schema Registry https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-overview (2024-12-02 11:02 PM)
+        ✘ Schema Registry https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-overview (2024-12-02 11:02 PM) @cancelled
         ☐ Terminology https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-features (2024-12-18 11:02 PM)
         ☐ Quotas https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-quotas (2024-11-19 06:02 PM)
         ☐ Compare messaging services https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services (2024-09-27 10:04 PM)
@@ -60,8 +60,8 @@ Azure Event Hubs documentation | Microsoft Learn:
             ☐ Dedicated tier https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dedicated-overview (2024-11-22 05:58 AM)
             ☐ Compare tiers https://learn.microsoft.com/en-us/azure/event-hubs/compare-tiers (2024-06-11 05:45 PM)
         Schema Registry:
-            ☐ Schema Registry concepts https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts (2024-12-11 11:02 PM)
-            ☐ Client-side schema enforcement https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement (2024-01-24 11:04 PM)
+            ✘ Schema Registry concepts https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts (2024-12-11 11:02 PM) @cancelled
+            ✘ Client-side schema enforcement https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement (2024-01-24 11:04 PM) @cancelled
         Event processing:
             ☐ Event processor https://learn.microsoft.com/en-us/azure/event-hubs/event-processor-balance-partition-load (2024-11-07 06:01 PM)
             ☐ Event processing with no code editor https://learn.microsoft.com/en-us/azure/stream-analytics/no-code-stream-processing?toc=/azure/event-hubs/toc.json (2024-12-16 11:03 PM)
@@ -268,5 +268,13 @@ Azure Event Hubs documentation | Microsoft Learn:
 
             ☐ Network security perimeter https://learn.microsoft.com/en-us/azure/event-hubs/network-security-perimeter (2025-01-02 11:04 PM)
         ☐ Availability and consistency https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-availability-and-consistency (2025-01-02 11:04 PM)
-            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-07 12:10 PM)
+            ✘ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-07 12:10 PM) @cancelled
+
+
+---
+
+        ☐ Schema Registry https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-overview (2025-01-08 05:33 AM)
+            ☐ Schema Registry concepts https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts (2025-01-08 05:33 AM)
+            ☐ Client-side schema enforcement https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement (2025-01-08 05:33 AM)
+            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-09 12:07 PM)
 
