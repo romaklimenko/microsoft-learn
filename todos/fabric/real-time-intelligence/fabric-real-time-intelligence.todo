@@ -315,7 +315,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ .show table policy merge command https://learn.microsoft.com/kusto/management/show-table-merge-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     Mirroring:
                         ☐ Mirroring policy https://learn.microsoft.com/kusto/management/mirroring-policy?view=microsoft-fabric&preserve-view=true (2024-09-26 05:00 PM)
-                        ☐ .alter merge policy mirroring command https://learn.microsoft.com/kusto/management/alter-merge-mirroring-policy-command?view=microsoft-fabric&preserve-view=true (2024-09-26 05:00 PM)
+                        ✘ .alter merge policy mirroring command https://learn.microsoft.com/kusto/management/alter-merge-mirroring-policy-command?view=microsoft-fabric&preserve-view=true (2024-09-26 05:00 PM) @cancelled
                         ☐ .delete table policy mirroring command https://learn.microsoft.com/kusto/management/delete-table-mirroring-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .show table policy mirroring command https://learn.microsoft.com/kusto/management/show-table-mirroring-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .show table mirroring operations command https://learn.microsoft.com/kusto/management/show-table-mirroring-operations-command?view=microsoft-fabric&preserve-view=true (2024-12-15 10:02 AM)
@@ -573,7 +573,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ External tables https://learn.microsoft.com/kusto/query/schema-entities/external-tables?view=microsoft-fabric&preserve-view=true (2024-11-19 01:53 PM)
             ☐ Fact and dimension tables https://learn.microsoft.com/kusto/concepts/fact-and-dimension-tables?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
         Data types:
-            ☐ Scalar data types https://learn.microsoft.com/kusto/query/scalar-data-types/index?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ Scalar data types https://learn.microsoft.com/kusto/query/scalar-data-types/index?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ bool https://learn.microsoft.com/kusto/query/scalar-data-types/bool?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ✘ datetime https://learn.microsoft.com/kusto/query/scalar-data-types/datetime?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ decimal https://learn.microsoft.com/kusto/query/scalar-data-types/decimal?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1321,21 +1321,21 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
 
 ---
 
-                ☐ MySQL Database Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-mysql-database-change-data-capture (2024-12-23 12:12 PM)
+                ✘ MySQL Database Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-mysql-database-change-data-capture (2024-12-23 12:12 PM) @cancelled
 
 
 ---
 
         Get and process data in Eventstream:
                     ☐ Overview https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/eventstream-rest-api (2024-12-30 12:08 PM)
-                    ☐ Create Eventstream Definition https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/api-create-with-definition (2024-12-30 12:08 PM)
+                    ✘ Create Eventstream Definition https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/api-create-with-definition (2024-12-30 12:08 PM) @cancelled
                     ☐ Get Eventstream Definition https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/api-get-eventstream-definition (2024-12-30 12:08 PM)
                     ☐ Update Eventstream Definition https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/api-update-eventstream-definition (2024-12-30 12:08 PM)
 
 
 ---
 
-                ☐ Stream events to Eventstream using Power Automate https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/stream-events-from-power-automate (2024-12-31 12:11 PM)
+                ✘ Stream events to Eventstream using Power Automate https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/stream-events-from-power-automate (2024-12-31 12:11 PM) @cancelled
 
 
 ---
@@ -1381,4 +1381,13 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ column_ifexists() https://learn.microsoft.com/kusto/query/column-ifexists-function?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
             ☐ replace_string() https://learn.microsoft.com/kusto/query/replace-string-function?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
             ☐ arg_min() https://learn.microsoft.com/kusto/query/arg-min-aggregation-function?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+
+
+---
+
+                ✔ MySQL Database Change Data Capture https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/add-source-mysql-database-change-data-capture (2025-01-10 12:05 PM) @done(25-01-12 22:24)
+                    ✔ Create Eventstream Definition https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/api-create-with-definition (2025-01-10 12:05 PM) @done(25-01-12 22:24)
+                ✔ Stream events to Eventstream using Logic Apps and Power Automate https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/stream-events-from-power-automate (2025-01-10 12:05 PM) @done(25-01-12 22:24)
+                        ✔ .alter merge policy mirroring command https://learn.microsoft.com/kusto/management/alter-merge-mirroring-policy-command?view=microsoft-fabric&preserve-view=true (2025-01-12 12:09 PM) @done(25-01-12 22:25)
+            ✔ Scalar data types https://learn.microsoft.com/kusto/query/scalar-data-types/index?view=microsoft-fabric&preserve-view=true (2025-01-12 12:09 PM) @done(25-01-12 22:25)
 

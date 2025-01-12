@@ -465,7 +465,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ✘ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hybrid-use-benefit-licensing (2024-12-03 05:31 AM) @cancelled
         Reserved instances:
             ☐ What are Azure reservations? https://learn.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?toc=/azure/virtual-machines/toc.json (2024-12-08 12:09 PM)
-            ☐ Prepay for VMs https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-reserved-vm-instances (2024-08-22 05:37 PM)
+            ✘ Prepay for VMs https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-reserved-vm-instances (2024-08-22 05:37 PM) @cancelled
             ☐ Prepay for Dedicated Hosts https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-dedicated-hosts-reserved-instances (2024-08-22 05:37 PM)
             ☐ VM instance size flexibility https://learn.microsoft.com/en-us/azure/virtual-machines/reserved-vm-instance-size-flexibility (2024-08-22 05:37 PM)
         Capacity reservation:
@@ -617,7 +617,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                 ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/move-virtual-machines-regional-zonal-faq (2024-11-21 05:32 AM)
         Virtual Machine Scale Sets:
             ☐ Overview https://learn.microsoft.com/azure/virtual-machine-scale-sets/flexible-virtual-machine-scale-sets (2024-12-05 05:31 AM)
-            ☐ Scaling profiles https://learn.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-scaling-profile (2024-08-22 05:37 PM)
+            ✘ Scaling profiles https://learn.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-scaling-profile (2024-08-22 05:37 PM) @cancelled
             ☐ Attach VMs to a scale set https://learn.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-attach-detach-vm (2024-08-22 05:37 PM)
             ☐ Standby pools https://learn.microsoft.com/azure/virtual-machine-scale-sets/standby-pools-overview (2024-11-21 10:59 PM)
         Proximity Placement Groups:
@@ -972,7 +972,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                 ☐ Template https://learn.microsoft.com/azure/backup/quick-backup-vm-template?toc=/azure/virtual-machines/toc.json (2024-08-02 05:06 PM)
             ☐ Back up multiple VMs https://learn.microsoft.com/azure/backup/tutorial-backup-vm-at-scale?toc=/azure/virtual-machines/toc.json (2024-08-02 05:06 PM)
             ☐ Restore options https://learn.microsoft.com/azure/backup/backup-azure-arm-restore-vms?toc=/azure/virtual-machines/toc.json (2024-12-11 12:11 PM)
-            ☐ Support matrix https://learn.microsoft.com/azure/backup/backup-support-matrix-iaas?toc=/azure/virtual-machines/toc.json (2024-12-03 11:07 PM)
+            ✘ Support matrix https://learn.microsoft.com/azure/backup/backup-support-matrix-iaas?toc=/azure/virtual-machines/toc.json (2024-12-03 11:07 PM) @cancelled
             ☐ Pricing https://learn.microsoft.com/azure/backup/azure-backup-pricing?toc=/azure/virtual-machines/toc.json (2024-09-09 05:05 PM)
             ☐ FAQ https://learn.microsoft.com/azure/backup/backup-azure-vm-backup-faq?toc=/azure/virtual-machines/toc.json (2024-11-19 06:02 PM)
         Disaster recovery:
@@ -1106,11 +1106,22 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 
 ---
 
-            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-09 12:31 PM)
+            ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-09 12:31 PM) @cancelled
                 ☐ Server-side encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption (2025-01-09 05:32 AM)
-            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-powershell?toc=/azure/virtual-machines/toc.json (2025-01-08 05:33 AM)
+            ✘ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-powershell?toc=/azure/virtual-machines/toc.json (2025-01-08 05:33 AM) @cancelled
             Azure CLI https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-cli?toc=/azure/virtual-machines/toc.json (2025-01-08 05:33 AM):
         ☐ Just-in-time access https://learn.microsoft.com/azure/security-center/security-center-just-in-time (2025-01-07 11:01 PM)
             ☐ Overview https://learn.microsoft.com/azure/site-recovery/site-recovery-overview?toc=/azure/virtual-machines/toc.json (2025-01-09 06:03 PM)
             ☐ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2025-01-08 06:02 PM)
+
+
+---
+
+            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-10 12:30 PM)
+            ☐ Prepay for VMs https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-reserved-vm-instances (2025-01-12 12:11 PM)
+            ☐ Scaling profiles https://learn.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-scaling-profile (2025-01-10 11:01 PM)
+            ☐ Disk encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption-overview (2024-08-22 05:37 PM)
+            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-powershell?toc=/azure/virtual-machines/toc.json (2025-01-09 11:01 PM)
+            Azure CLI https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-cli?toc=/azure/virtual-machines/toc.json (2025-01-09 11:01 PM):
+            ☐ Support matrix https://learn.microsoft.com/azure/backup/backup-support-matrix-iaas?toc=/azure/virtual-machines/toc.json (2025-01-10 12:11 PM)
 

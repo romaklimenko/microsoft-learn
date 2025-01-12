@@ -331,7 +331,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ External tables https://learn.microsoft.com/kusto/query/schema-entities/external-tables?view=azure-data-explorer&preserve-view=true (2024-11-19 01:53 PM)
                 ☐ Fact and dimension tables https://learn.microsoft.com/kusto/concepts/fact-and-dimension-tables?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
             Data types:
-                ☐ Scalar data types https://learn.microsoft.com/kusto/query/scalar-data-types/index?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ Scalar data types https://learn.microsoft.com/kusto/query/scalar-data-types/index?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ bool https://learn.microsoft.com/kusto/query/scalar-data-types/bool?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ✘ datetime https://learn.microsoft.com/kusto/query/scalar-data-types/datetime?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ decimal https://learn.microsoft.com/kusto/query/scalar-data-types/decimal?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1232,7 +1232,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ .show table policy merge command https://learn.microsoft.com/kusto/management/show-table-merge-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 Mirroring:
                     ☐ Mirroring policy https://learn.microsoft.com/kusto/management/mirroring-policy?view=azure-data-explorer&preserve-view=true (2024-09-26 05:00 PM)
-                    ☐ .alter merge policy mirroring command https://learn.microsoft.com/kusto/management/alter-merge-mirroring-policy-command?view=azure-data-explorer&preserve-view=true (2024-09-26 05:00 PM)
+                    ✘ .alter merge policy mirroring command https://learn.microsoft.com/kusto/management/alter-merge-mirroring-policy-command?view=azure-data-explorer&preserve-view=true (2024-09-26 05:00 PM) @cancelled
                     ☐ .delete table policy mirroring command https://learn.microsoft.com/kusto/management/delete-table-mirroring-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .show table policy mirroring command https://learn.microsoft.com/kusto/management/show-table-mirroring-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .show table mirroring operations command https://learn.microsoft.com/kusto/management/show-table-mirroring-operations-command?view=azure-data-explorer&preserve-view=true (2024-12-15 10:02 AM)
@@ -2188,11 +2188,18 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Pivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-pivot?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
                 ☐ Rank https://learn.microsoft.com/en-us/azure/data-factory/data-flow-rank?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
                 ☐ Select https://learn.microsoft.com/en-us/azure/data-factory/data-flow-select?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
-                ☐ Sink https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sink?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
+                ✘ Sink https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sink?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM) @cancelled
                 ☐ Union https://learn.microsoft.com/en-us/azure/data-factory/data-flow-union?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
                 ☐ Unpivot https://learn.microsoft.com/en-us/azure/data-factory/data-flow-unpivot?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
                 ☐ Window https://learn.microsoft.com/en-us/azure/data-factory/data-flow-window?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-09 06:03 PM)
                 ☐ Self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-08 11:02 PM)
                     ☐ Azure Synapse Analytics, Azure SQL Database, and SQL Server https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-synapse-sql?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-08 11:02 PM)
         ☐ File mount/unmount API in Synapse https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/synapse-file-mount-api (2025-01-09 06:03 PM)
+
+
+---
+
+                ☐ Scalar data types https://learn.microsoft.com/kusto/query/scalar-data-types/index?view=azure-data-explorer&preserve-view=true (2025-01-12 12:09 PM)
+                    ☐ .alter merge policy mirroring command https://learn.microsoft.com/kusto/management/alter-merge-mirroring-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-12 12:09 PM)
+                ☐ Sink https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sink?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-10 12:11 PM)
 

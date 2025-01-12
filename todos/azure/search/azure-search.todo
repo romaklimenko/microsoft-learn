@@ -415,7 +415,7 @@ Azure AI Search documentation | Microsoft Learn:
             ☐ Create a custom analyzer https://learn.microsoft.com/en-us/azure/search/tutorial-create-custom-analyzer (2024-12-06 11:01 PM)
             ☐ Build a RAG solution https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution (2024-10-11 08:18 AM)
             ☐ Choose models https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-models (2024-12-04 11:02 PM)
-            ☐ Design an index https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-index-schema (2024-12-18 10:58 PM)
+            ✘ Design an index https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-index-schema (2024-12-18 10:58 PM) @cancelled
             ✘ Build an indexing pipeline https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-pipeline (2024-11-21 06:03 PM) @cancelled
             ✘ Search and generate answers https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-query (2024-12-05 12:14 PM) @cancelled
             ☐ Maximize relevance https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-maximize-relevance (2024-12-05 12:14 PM)
@@ -496,7 +496,7 @@ Azure AI Search documentation | Microsoft Learn:
                 ☐ OneLake files https://learn.microsoft.com/en-us/azure/search/search-how-to-index-onelake-files (2024-11-21 06:03 PM)
                 ☐ SharePoint and OneDrive https://learn.microsoft.com/en-us/azure/search/search-howto-index-sharepoint-online (2024-11-25 12:06 PM)
                 ☐ Create a skillset https://learn.microsoft.com/en-us/azure/search/cognitive-search-defining-skillset (2024-12-19 10:58 PM)
-                ☐ Attach an Azure AI resource https://learn.microsoft.com/en-us/azure/search/cognitive-search-attach-cognitive-services (2024-12-19 10:58 PM)
+                ✘ Attach an Azure AI resource https://learn.microsoft.com/en-us/azure/search/cognitive-search-attach-cognitive-services (2024-12-19 10:58 PM) @cancelled
                 ☐ Define an index projection https://learn.microsoft.com/en-us/azure/search/search-how-to-define-index-projections (2024-12-10 05:35 AM)
                 ☐ Debug sessions overview https://learn.microsoft.com/en-us/azure/search/cognitive-search-debug-session (2024-12-03 11:00 PM)
                 ☐ Debug a skillset https://learn.microsoft.com/en-us/azure/search/cognitive-search-how-to-debug-skillset (2024-12-06 11:01 PM)
@@ -508,11 +508,11 @@ Azure AI Search documentation | Microsoft Learn:
                     ☐ Integrate custom skills https://learn.microsoft.com/en-us/azure/search/cognitive-search-custom-skill-interface (2024-10-11 08:18 AM)
                     ☐ Scale out custom skills https://learn.microsoft.com/en-us/azure/search/cognitive-search-custom-skill-scale (2024-10-11 08:18 AM)
                     ☐ Example - Bing Entity Search https://learn.microsoft.com/en-us/azure/search/cognitive-search-create-custom-skill-example (2024-12-17 11:02 PM)
-            ☐ Create a vector index https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-create-index (2024-12-17 11:02 PM)
+            ✘ Create a vector index https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-create-index (2024-12-17 11:02 PM) @cancelled
             ☐ Chunk documents https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-chunk-documents (2024-10-11 08:18 AM)
             ☐ Chunk and vectorize by document layout https://learn.microsoft.com/en-us/azure/search/search-how-to-semantic-chunking (2024-11-22 11:03 PM)
             ☐ Generate embeddings https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-generate-embeddings (2024-10-11 08:18 AM)
-                ☐ Understand vector quotas and limits https://learn.microsoft.com/en-us/azure/search/vector-search-index-size (2024-11-21 06:03 PM)
+                ✘ Understand vector quotas and limits https://learn.microsoft.com/en-us/azure/search/vector-search-index-size (2024-11-21 06:03 PM) @cancelled
                 ☐ Choose an optimization strategy https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-configure-compression-storage (2024-11-21 06:03 PM)
                 ☐ Compress using binary or scalar quantization https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-quantization (2024-11-21 06:03 PM)
                 ☐ Index binary data for vector search https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-index-binary-data (2024-11-25 06:00 PM)
@@ -637,7 +637,7 @@ Azure AI Search documentation | Microsoft Learn:
                 ☐ Named Entity Recognition (v2) https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-named-entity-recognition (2024-10-11 08:18 AM)
                 ☐ Entity Recognition (v2) https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-entity-recognition (2024-10-11 08:18 AM)
                 ☐ Sentiment (v2) https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-sentiment (2024-10-11 08:18 AM)
-            ☐ Azure AI Vision https://learn.microsoft.com/en-us/azure/search/vector-search-vectorizer-ai-services-vision (2024-10-17 10:00 PM)
+            ✘ Azure AI Vision https://learn.microsoft.com/en-us/azure/search/vector-search-vectorizer-ai-services-vision (2024-10-17 10:00 PM) @cancelled
             ☐ Custom Web API https://learn.microsoft.com/en-us/azure/search/vector-search-vectorizer-custom-web-api (2024-10-17 10:00 PM)
             ☐ Demo sites https://learn.microsoft.com/en-us/azure/search/resource-demo-sites (2024-12-02 11:02 PM)
             ☐ Tools and accelerators https://learn.microsoft.com/en-us/azure/search/resource-tools (2024-11-10 12:15 PM)
@@ -678,13 +678,28 @@ Azure AI Search documentation | Microsoft Learn:
 ---
 
         ☐ Vector search https://learn.microsoft.com/en-us/azure/search/search-get-started-vector (2025-01-07 11:01 PM)
-        ☐ Generative search (RAG) https://learn.microsoft.com/en-us/azure/search/search-get-started-rag (2025-01-09 06:00 PM)
-        ☐ Chat with your data https://learn.microsoft.com/azure/ai-services/openai/use-your-data-quickstart?context=/azure/search/context/context (2025-01-08 05:31 AM)
+        ✘ Generative search (RAG) https://learn.microsoft.com/en-us/azure/search/search-get-started-rag (2025-01-09 06:00 PM) @cancelled
+        ✘ Chat with your data https://learn.microsoft.com/azure/ai-services/openai/use-your-data-quickstart?context=/azure/search/context/context (2025-01-08 05:31 AM) @cancelled
             ☐ Query from Power Apps https://learn.microsoft.com/en-us/azure/search/search-howto-powerapps (2025-01-08 05:31 AM)
-            ☐ Build an indexing pipeline https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-pipeline (2025-01-08 11:01 PM)
-            ☐ Search and generate answers https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-query (2025-01-09 06:00 PM)
+            ✘ Build an indexing pipeline https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-pipeline (2025-01-08 11:01 PM) @cancelled
+            ✘ Search and generate answers https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-query (2025-01-09 06:00 PM) @cancelled
             ☐ Service limits https://learn.microsoft.com/en-us/azure/search/search-limits-quotas-capacity (2025-01-09 06:00 PM)
                 ☐ Connect using Network Security Perimeter https://learn.microsoft.com/en-us/azure/search/search-security-network-security-perimeter (2025-01-08 05:31 AM)
             ☐ Full Lucene query syntax https://learn.microsoft.com/en-us/azure/search/query-lucene-syntax (2025-01-08 05:31 AM)
                 ☐ Text Translation https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-text-translation (2025-01-08 05:31 AM)
+
+
+---
+
+        ☐ Generative search (RAG) https://learn.microsoft.com/en-us/azure/search/search-get-started-rag (2025-01-09 10:59 PM)
+        ☐ Chat with your data https://learn.microsoft.com/azure/ai-services/openai/use-your-data-quickstart?context=/azure/search/context/context (2025-01-10 05:33 AM)
+            ☐ Design an index https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-index-schema (2025-01-09 10:59 PM)
+            ☐ Build an indexing pipeline https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-pipeline (2025-01-09 10:59 PM)
+            ☐ Search and generate answers https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-query (2025-01-09 10:59 PM)
+                ☐ Attach an Azure AI resource https://learn.microsoft.com/en-us/azure/search/cognitive-search-attach-cognitive-services (2025-01-09 10:59 PM)
+            ☐ Create a vector index https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-create-index (2025-01-10 11:00 PM)
+                ☐ Understand vector quotas and limits https://learn.microsoft.com/en-us/azure/search/vector-search-index-size (2025-01-10 11:00 PM)
+                ☐ Azure OpenAI Embedding https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-azure-openai-embedding (2025-01-09 10:59 PM)
+            ☐ Azure AI Vision https://learn.microsoft.com/en-us/azure/search/vector-search-vectorizer-ai-services-vision (2025-01-09 10:59 PM)
+            ☐ Azure AI Foundry model catalog https://learn.microsoft.com/en-us/azure/search/vector-search-vectorizer-azure-machine-learning-ai-studio-catalog (2025-01-09 10:59 PM)
 

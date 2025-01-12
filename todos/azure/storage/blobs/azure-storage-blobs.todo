@@ -8,7 +8,7 @@ Azure Blob Storage documentation | Microsoft Learn:
         Overview:
             ☐ Introduction to Blob Storage https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction (2023-10-10 10:05 PM)
         Architecture:
-            ☐ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-blob-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-07-31 04:55 PM)
+            ✘ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-blob-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-07-31 04:55 PM) @cancelled
         Quickstarts:
             ☐ Azure portal https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal (2023-09-29 10:13 PM)
             ☐ Storage Explorer https://learn.microsoft.com/en-us/azure/storage/blobs/quickstart-storage-explorer (2024-08-29 05:56 AM)
@@ -559,7 +559,7 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ☐ Download Storage Explorer https://azure.microsoft.com/features/storage-explorer/
                 ☐ Get started with Storage Explorer https://learn.microsoft.com/en-us/azure/storage/storage-explorer/vs-azure-tools-storage-manage-with-storage-explorer?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-29 05:56 AM)
                 ☐ Sign in to Storage Explorer https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-sign-in?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-26 11:03 PM)
-                ☐ Storage Explorer networking https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-09-12 11:19 AM)
+                ✘ Storage Explorer networking https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-09-12 11:19 AM) @cancelled
                 ☐ Storage Explorer release notes https://github.com/microsoft/AzureStorageExplorer/releases
                 ✘ Troubleshoot Storage Explorer https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-explorer-troubleshooting?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-04-19 09:01 AM) @cancelled
                 ☐ Connect an emulator to Storage Explorer https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-emulators?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-12-16 11:03 PM)
@@ -759,7 +759,7 @@ Azure Blob Storage documentation | Microsoft Learn:
             ☐ Download Storage Explorer https://azure.microsoft.com/features/storage-explorer/
             ☐ Get started with Storage Explorer https://learn.microsoft.com/en-us/azure/storage/storage-explorer/vs-azure-tools-storage-manage-with-storage-explorer?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-29 05:56 AM)
             ☐ Sign in to Storage Explorer https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-sign-in?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-26 11:03 PM)
-            ☐ Storage Explorer networking https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-09-12 11:19 AM)
+            ✘ Storage Explorer networking https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-09-12 11:19 AM) @cancelled
             ☐ Storage Explorer release notes https://github.com/microsoft/AzureStorageExplorer/releases
             ✘ Troubleshoot Storage Explorer https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-explorer-troubleshooting?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-04-19 09:01 AM) @cancelled
             ☐ Connect an emulator to Storage Explorer https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-emulators?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-12-16 11:03 PM)
@@ -941,21 +941,40 @@ Azure Blob Storage documentation | Microsoft Learn:
 
 ---
 
-                ☐ Get started https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-09 12:11 PM)
+                ✘ Get started https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-09 12:11 PM) @cancelled
                 ☐ Enable or disable SFTP https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-how-to (2024-10-11 10:04 PM)
                 ☐ Authorize access https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-authorize-access (2024-10-16 10:05 PM)
                 ☐ Connect from an SFTP client https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-connect (2024-08-29 05:56 AM)
                 ☐ Enable blob inventory reports https://learn.microsoft.com/en-us/azure/storage/blobs/blob-inventory-how-to (2025-01-09 05:32 AM)
                 ☐ Encryption at rest https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-09 06:03 PM)
-                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-09 12:31 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-09 12:07 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-09 12:10 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-09 12:07 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-09 12:10 PM)
-                ☐ Get started https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-09 12:11 PM)
-                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-09 12:31 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-09 12:07 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-09 12:10 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-09 12:07 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-09 12:10 PM)
+                    ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-09 12:31 PM) @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-09 12:07 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-09 12:10 PM) @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-09 12:07 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-09 12:10 PM) @cancelled
+                ✘ Get started https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-09 12:11 PM) @cancelled
+                ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-09 12:31 PM) @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-09 12:07 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-09 12:10 PM) @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-09 12:07 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-09 12:10 PM) @cancelled
+
+
+---
+
+            ☐ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-blob-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-10 06:18 PM)
+                ☐ Get started https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-10 06:17 PM)
+                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-10 12:30 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-10 12:08 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-10 12:09 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-10 12:08 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-10 12:09 PM)
+                ☐ Storage Explorer networking https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-09 11:01 PM)
+                ☐ Get started https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-10 06:17 PM)
+                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-10 12:30 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-10 12:08 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-10 12:09 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-10 12:08 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-10 12:09 PM)
+            ☐ Storage Explorer networking https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-09 11:01 PM)
 

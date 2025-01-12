@@ -320,7 +320,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             Ingress:
                 Use application routing add-on:
                     ☐ Application routing add-on overview https://learn.microsoft.com/en-us/azure/aks/app-routing (2024-09-03 04:59 PM)
-                    ☐ Advanced application routing add-on configurations (NGINX) https://learn.microsoft.com/en-us/azure/aks/app-routing-nginx-configuration (2024-09-10 10:02 PM)
+                    ✘ Advanced application routing add-on configurations (NGINX) https://learn.microsoft.com/en-us/azure/aks/app-routing-nginx-configuration (2024-09-10 10:02 PM) @cancelled
                     ☐ Custom domain name and SSL certificate configuration https://learn.microsoft.com/en-us/azure/aks/app-routing-dns-ssl (2024-08-01 08:29 PM)
                     ☐ Internal NGINX controller and private DNS zone https://learn.microsoft.com/en-us/azure/aks/create-nginx-ingress-private-controller (2024-11-07 12:05 PM)
                     ☐ Monitor using Prometheus and Grafana https://learn.microsoft.com/en-us/azure/aks/app-routing-nginx-prometheus (2024-08-01 08:29 PM)
@@ -625,12 +625,24 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/aks/ai-ml-overview (2025-01-08 11:01 PM)
             ☐ Build Django app with PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/tutorial-django-aks-database?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-08 05:32 AM)
             ☐ GitOps https://learn.microsoft.com/azure/azure-arc/kubernetes/tutorial-use-gitops-flux2?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-08 05:32 AM)
-            ☐ Deploy an application that uses OpenAI on Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-quickstart (2024-08-01 08:29 PM)
-            ☐ Secure access to Azure OpenAI from Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-secure-access-quickstart (2024-08-01 08:29 PM)
-            ☐ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2024-11-19 06:01 PM)
-            ☐ Fine-tune an AI model for inferencing with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator-fine-tune (2025-01-08 05:31 AM)
-            ☐ Deploy data and ML pipelines with Flyte https://learn.microsoft.com/en-us/azure/aks/use-flyte (2024-08-09 10:01 PM)
-        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-09 12:31 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-09 12:07 PM)
-        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-09 12:10 PM)
+            ✘ Deploy an application that uses OpenAI on Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-quickstart (2024-08-01 08:29 PM) @cancelled
+            ✘ Secure access to Azure OpenAI from Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-secure-access-quickstart (2024-08-01 08:29 PM) @cancelled
+            ✘ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2024-11-19 06:01 PM) @cancelled
+            ✘ Fine-tune an AI model for inferencing with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator-fine-tune (2025-01-08 05:31 AM) @cancelled
+            ✘ Deploy data and ML pipelines with Flyte https://learn.microsoft.com/en-us/azure/aks/use-flyte (2024-08-09 10:01 PM) @cancelled
+        ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-09 12:31 PM) @cancelled
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-09 12:07 PM) @cancelled
+        ✘ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-09 12:10 PM) @cancelled
+
+
+---
+
+                    ✔ Deploy an application that uses OpenAI on Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-quickstart (2024-08-01 08:29 PM) @done(25-01-12 21:53)
+                    ✔ Secure access to Azure OpenAI from Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/open-ai-secure-access-quickstart (2024-08-01 08:29 PM) @done(25-01-12 21:55)
+                ✔ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2024-11-19 06:01 PM) @done(25-01-12 21:56)
+                ✔ Deploy data and ML pipelines with Flyte https://learn.microsoft.com/en-us/azure/aks/use-flyte (2024-08-09 10:01 PM) @done(25-01-12 21:57)
+                    ✔ Advanced application routing add-on configurations (NGINX) https://learn.microsoft.com/en-us/azure/aks/app-routing-nginx-configuration (2025-01-09 10:59 PM) @done(25-01-12 22:02)
+        ✔ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-10 12:30 PM) @done(25-01-12 22:02)
+        ✔ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-10 12:08 PM) @done(25-01-12 22:02)
+        ✔ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-10 12:09 PM) @done(25-01-12 22:02)
 

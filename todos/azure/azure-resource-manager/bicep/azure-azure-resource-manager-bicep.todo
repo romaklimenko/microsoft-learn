@@ -5,8 +5,8 @@ Bicep documentation | Microsoft Learn:
         ☐ Compare JSON and Bicep https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/compare-template-syntax (2024-09-24 10:04 PM)
         ✘ Frequently asked questions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/frequently-asked-questions (2022-02-18 06:06 PM) @cancelled
     Install:
-        ☐ Install Bicep tools https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install (2024-09-26 10:04 PM)
-        ☐ Troubleshoot installation https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/installation-troubleshoot (2024-10-24 10:04 PM)
+        ✘ Install Bicep tools https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install (2024-09-26 10:04 PM) @cancelled
+        ✘ Troubleshoot installation https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/installation-troubleshoot (2024-10-24 10:04 PM) @cancelled
     Quickstarts:
         ✘ Create Bicep templates - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code (2024-12-08 12:09 PM) @cancelled
         ☐ Create Bicep templates - Visual Studio https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio (2024-07-12 05:05 PM)
@@ -18,9 +18,9 @@ Bicep documentation | Microsoft Learn:
         CI/CD:
             ☐ Bicep with pipelines https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/add-template-to-azure-pipelines (2024-09-26 10:04 PM)
             ☐ Bicep with GitHub Actions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-github-actions (2024-11-04 11:02 PM)
-            ☐ Bicep with MSBuild https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/msbuild-bicep-file (2024-12-08 12:09 PM)
+            ✘ Bicep with MSBuild https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/msbuild-bicep-file (2024-12-08 12:09 PM) @cancelled
     Tutorials:
-        ☐ Learn modules for Bicep https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep (2024-08-30 10:06 PM)
+        ✘ Learn modules for Bicep https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep (2024-08-30 10:06 PM) @cancelled
         ☐ Learn Live - Bicep https://learn.microsoft.com/events/learntv/learnlive-iac-and-bicep/ (2023-10-19 05:18 PM)
         ☐ Learn Live - Bicep and GitHub Actions https://learn.microsoft.com/events/learn-events/learnlive-automate-azure-deployments-bicep-github-actions/ (2023-10-19 05:18 PM)
     Samples - Azure Services:
@@ -79,13 +79,13 @@ Bicep documentation | Microsoft Learn:
             ☐ Advisor https://learn.microsoft.com/azure/advisor/advisor-alerts-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-09-11 04:50 PM)
             ☐ Backup https://learn.microsoft.com/en-us/azure/backup/quick-backup-vm-bicep-template?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-02 05:06 PM)
             ✘ Cost Management + Billing https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/quick-create-budget-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-06-27 05:04 PM) @cancelled
-            ☐ Microsoft Purview account https://learn.microsoft.com/en-us/azure/purview/quickstart-bicep-create-azure-purview?toc=/azure/azure-resource-manager/bicep/toc.json (2024-11-12 12:36 AM)
+            ✘ Microsoft Purview account https://learn.microsoft.com/en-us/azure/purview/quickstart-bicep-create-azure-purview?toc=/azure/azure-resource-manager/bicep/toc.json (2024-11-12 12:36 AM) @cancelled
             ☐ Monitor https://learn.microsoft.com/azure/azure-monitor/essentials/resource-manager-diagnostic-settings?toc=/azure/azure-resource-manager/bicep/toc.json (2024-09-11 04:50 PM)
             ☐ Policy https://learn.microsoft.com/en-us/azure/governance/policy/assign-policy-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-07-09 05:13 PM)
             ☐ Resource Graph https://learn.microsoft.com/en-us/azure/governance/resource-graph/shared-query-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-27 10:05 PM)
             ☐ Role-based access control - custom roles https://learn.microsoft.com/en-us/azure/role-based-access-control/custom-roles-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-06-27 05:04 PM)
             ☐ Role-based access control - role assignment https://learn.microsoft.com/en-us/azure/role-based-access-control/quickstart-role-assignments-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-06-27 05:04 PM)
-            ☐ Service Health https://learn.microsoft.com/azure/service-health/alerts-activity-log-service-notifications-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-09-11 04:50 PM)
+            ✘ Service Health https://learn.microsoft.com/azure/service-health/alerts-activity-log-service-notifications-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-09-11 04:50 PM) @cancelled
             ☐ Site Recovery https://learn.microsoft.com/en-us/azure/site-recovery/quickstart-create-vault-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-02 11:27 AM)
         Media Services:
             ☐ Media Services account https://learn.microsoft.com/azure/media-services/latest/media-services-bicep-quickstart (2024-10-23 03:11 PM)
@@ -125,13 +125,13 @@ Bicep documentation | Microsoft Learn:
             ☐ SignalR Service https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-signalr-service-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-09-12 05:35 AM)
     Concepts:
         ☐ Bicep file https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/file (2024-10-09 05:07 PM)
-        ☐ Data types https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/data-types (2024-12-08 12:09 PM)
-        ☐ Parameters (param) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/parameters (2024-12-08 12:09 PM)
+        ✘ Data types https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/data-types (2024-12-08 12:09 PM) @cancelled
+        ✘ Parameters (param) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/parameters (2024-12-08 12:09 PM) @cancelled
         ☐ Variables (var) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/variables (2024-09-25 10:03 PM)
         ☐ Resources (resource) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/resource-declaration (2024-08-22 05:04 PM)
         ☐ Outputs (output) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/outputs (2024-08-22 05:04 PM)
         ☐ Modules (module) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/modules (2024-10-09 05:07 PM)
-        ☐ Using (using) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-using (2024-12-08 12:09 PM)
+        ✘ Using (using) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-using (2024-12-08 12:09 PM) @cancelled
         ☐ Import (import) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-import (2024-12-11 11:02 PM)
         ☐ User-defined data types (type) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/user-defined-data-types (2024-10-28 05:04 PM)
         ☐ User-defined functions (func) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/user-defined-functions (2024-10-28 05:04 PM)
@@ -148,21 +148,21 @@ Bicep documentation | Microsoft Learn:
             ☐ Management group https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-to-management-group (2024-09-26 10:04 PM)
             ☐ Tenant https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-to-tenant (2024-09-26 10:04 PM)
         Functions:
-            ☐ All functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions (2024-12-11 11:02 PM)
-            ☐ Any function https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-any (2024-05-22 10:11 PM)
-            ☐ Array functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-array (2024-10-21 10:04 PM)
-            ☐ CIDR functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-cidr (2024-05-22 10:11 PM)
-            ☐ Date functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-date (2024-07-11 05:12 PM)
-            ☐ Deployment functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-deployment (2024-12-11 11:02 PM)
-            ☐ File functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-files (2024-07-15 10:09 PM)
-            ☐ Lambda functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-lambda (2024-05-28 10:14 PM)
-            ☐ Logical functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-logical (2024-05-22 10:11 PM)
-            ☐ Numeric functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-numeric (2024-05-22 10:11 PM)
-            ☐ Object functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-object (2024-07-22 05:04 PM)
-            ☐ Parameters file functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-parameters-file (2024-12-08 12:09 PM)
-            ☐ Resource functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-resource (2024-11-20 11:04 PM)
-            ☐ Scope functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-scope (2024-11-04 11:02 PM)
-            ☐ String functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-string (2024-10-21 10:04 PM)
+            ✘ All functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions (2024-12-11 11:02 PM) @cancelled
+            ✘ Any function https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-any (2024-05-22 10:11 PM) @cancelled
+            ✘ Array functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-array (2024-10-21 10:04 PM) @cancelled
+            ✘ CIDR functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-cidr (2024-05-22 10:11 PM) @cancelled
+            ✘ Date functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-date (2024-07-11 05:12 PM) @cancelled
+            ✘ Deployment functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-deployment (2024-12-11 11:02 PM) @cancelled
+            ✘ File functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-files (2024-07-15 10:09 PM) @cancelled
+            ✘ Lambda functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-lambda (2024-05-28 10:14 PM) @cancelled
+            ✘ Logical functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-logical (2024-05-22 10:11 PM) @cancelled
+            ✘ Numeric functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-numeric (2024-05-22 10:11 PM) @cancelled
+            ✘ Object functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-object (2024-07-22 05:04 PM) @cancelled
+            ✘ Parameters file functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-parameters-file (2024-12-08 12:09 PM) @cancelled
+            ✘ Resource functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-resource (2024-11-20 11:04 PM) @cancelled
+            ✘ Scope functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-scope (2024-11-04 11:02 PM) @cancelled
+            ✘ String functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-string (2024-10-21 10:04 PM) @cancelled
         Operators:
             ☐ All operators https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/operators (2024-05-22 10:11 PM)
             ☐ Accessor operators https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/operators-access (2024-12-03 11:07 PM)
@@ -176,14 +176,14 @@ Bicep documentation | Microsoft Learn:
         Author:
             ☐ Best practices https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices (2024-07-11 05:12 PM)
             ✘ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/visual-studio-code (2024-12-08 12:09 PM) @cancelled
-            ☐ Private module registry https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/private-module-registry (2024-09-19 06:07 PM)
+            ✘ Private module registry https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/private-module-registry (2024-09-19 06:07 PM) @cancelled
             Deployment script:
                 ☐ Use deployment script resource https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deployment-script-bicep (2024-11-04 11:02 PM)
                 ☐ Create deployment script resource https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deployment-script-develop (2024-11-04 11:02 PM)
                 ☐ Access private virtual networks https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deployment-script-vnet (2024-09-26 10:04 PM)
                 ☐ Use over private Endpoint https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deployment-script-vnet-private-endpoint (2024-09-26 10:04 PM)
                 ☐ Create script development environments https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deployment-script-bicep-configure-dev (2024-09-26 10:04 PM)
-            ☐ Template specs https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/template-specs (2024-12-08 12:09 PM)
+            ✘ Template specs https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/template-specs (2024-12-08 12:09 PM) @cancelled
             ☐ Deployment stacks https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deployment-stacks (2024-11-04 11:02 PM)
             Bicep extensions:
                 ☐ Kubernetes extension https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-kubernetes-extension (2024-12-11 11:02 PM)
@@ -197,10 +197,10 @@ Bicep documentation | Microsoft Learn:
                 ☐ Access control https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/scenarios-rbac (2024-07-15 10:09 PM)
                 ☐ Create resource group https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/create-resource-group (2024-09-26 10:04 PM)
                 ☐ Monitoring https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/scenarios-monitoring (2024-12-11 11:02 PM)
-                ☐ Secrets https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/scenarios-secrets (2024-12-08 12:09 PM)
+                ✘ Secrets https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/scenarios-secrets (2024-12-08 12:09 PM) @cancelled
                 ☐ Virtual networks https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/scenarios-virtual-networks (2024-07-15 10:09 PM)
         Provide parameters:
-            ☐ Parameters file https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/parameter-files (2024-12-08 12:09 PM)
+            ✘ Parameters file https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/parameter-files (2024-12-08 12:09 PM) @cancelled
             ☐ Sensitive values https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/key-vault-parameter (2024-12-08 12:09 PM)
         Validate file:
             ☐ Linter https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/linter (2024-12-03 11:07 PM)
@@ -245,22 +245,22 @@ Bicep documentation | Microsoft Learn:
                 ☐ What-if short-circuiting https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/linter-rule-what-if-short-circuiting (2024-09-20 10:05 PM)
         Deploy:
             ☐ What-if check https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-what-if (2024-09-26 10:04 PM)
-            ☐ Deploy - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-vscode (2024-12-08 12:09 PM)
+            ✘ Deploy - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-vscode (2024-12-08 12:09 PM) @cancelled
             ☐ Deploy - CLI https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cli (2024-12-08 12:09 PM)
             ☐ Deploy - PowerShell https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell (2024-12-08 12:09 PM)
             ☐ Deploy - Cloud Shell https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cloud-shell (2024-09-26 10:04 PM)
         Configure settings:
-            ☐ Bicep config file https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config (2024-10-28 05:04 PM)
-            ☐ Linter settings https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config-linter (2024-09-20 10:05 PM)
-            ☐ Module settings https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config-modules (2024-06-28 05:05 PM)
+            ✘ Bicep config file https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config (2024-10-28 05:04 PM) @cancelled
+            ✘ Linter settings https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config-linter (2024-09-20 10:05 PM) @cancelled
+            ✘ Module settings https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config-modules (2024-06-28 05:05 PM) @cancelled
         Migrate to Bicep:
-            ☐ Recommended workflow https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate (2024-06-24 10:06 PM)
-            ☐ Decompile https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/decompile (2024-07-11 10:07 PM)
-            ☐ Blueprint to deployment stack https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate-blueprint (2024-11-11 11:02 PM)
+            ✘ Recommended workflow https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate (2024-06-24 10:06 PM) @cancelled
+            ✘ Decompile https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/decompile (2024-07-11 10:07 PM) @cancelled
+            ✘ Blueprint to deployment stack https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate-blueprint (2024-11-11 11:02 PM) @cancelled
         ☐ Contribute to Bicep https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/contribute (2023-06-25 11:20 AM)
     Reference:
         ☐ Resource reference https://learn.microsoft.com/azure/templates/ (2023-03-22 04:22 PM)
-        ☐ Bicep CLI https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-cli (2024-12-08 12:09 PM)
+        ✘ Bicep CLI https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-cli (2024-12-08 12:09 PM) @cancelled
         ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.resources/ (2024-11-19 05:50 PM)
         Bicep core diagnostics:
             ☐ All codes https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-core-diagnostics (2024-12-03 11:07 PM)
@@ -334,10 +334,36 @@ Bicep documentation | Microsoft Learn:
 
 ---
 
-        ☐ Create Bicep templates - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code (2025-01-07 11:03 PM)
+        ✘ Create Bicep templates - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code (2025-01-07 11:03 PM) @cancelled
             ☐ Machine Learning secure workspace https://learn.microsoft.com/azure/machine-learning/tutorial-create-secure-workspace-template?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-08 05:31 AM)
             ☐ Database for PostgreSQL - Flexible Server https://learn.microsoft.com/azure/postgresql/flexible-server/quickstart-create-server-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-08 05:32 AM)
             ☐ Cost Management + Billing https://learn.microsoft.com/en-us/azure/cost-management-billing/costs/quick-create-budget-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-08 11:02 PM)
             ☐ Firewall Manager - policy https://learn.microsoft.com/en-us/azure/firewall-manager/quick-firewall-policy-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-08 11:02 PM)
-            ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/visual-studio-code (2025-01-08 06:02 PM)
+            ✘ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/visual-studio-code (2025-01-08 06:02 PM) @cancelled
+
+
+---
+
+        ☐ Install Bicep tools https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install (2025-01-10 11:02 PM)
+        ☐ Create Bicep templates - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code (2025-01-10 11:02 PM)
+            ☐ Bicep with MSBuild https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/msbuild-bicep-file (2025-01-10 11:02 PM)
+        ☐ Learn modules for Bicep https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep (2025-01-10 11:02 PM)
+            ☐ Microsoft Purview account https://learn.microsoft.com/en-us/azure/purview/quickstart-bicep-create-azure-purview?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-09 11:38 PM)
+            ☐ Service Health https://learn.microsoft.com/azure/service-health/alerts-activity-log-service-notifications-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-12 12:11 PM)
+        ☐ Data types https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/data-types (2025-01-10 11:02 PM)
+        ☐ Parameters (param) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/parameters (2025-01-10 11:02 PM)
+        ☐ Using (using) https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-using (2025-01-10 11:02 PM)
+            ☐ All functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions (2025-01-10 11:02 PM)
+            ☐ Logical functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-logical (2025-01-09 11:01 PM)
+            ☐ Parameters file functions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-functions-parameters-file (2025-01-10 11:02 PM)
+            ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/visual-studio-code (2025-01-10 11:02 PM)
+            ☐ Private module registry https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/private-module-registry (2025-01-10 11:02 PM)
+            ☐ Template specs https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/template-specs (2025-01-10 11:02 PM)
+                ☐ Secrets https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/scenarios-secrets (2025-01-10 11:02 PM)
+            ☐ Parameters file https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/parameter-files (2025-01-10 11:02 PM)
+            ☐ Deploy - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-vscode (2025-01-10 11:02 PM)
+            ☐ Bicep config file https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config (2025-01-10 11:02 PM)
+            ☐ Recommended workflow https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate (2025-01-10 11:02 PM)
+            ☐ Decompile https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/decompile (2025-01-10 11:02 PM)
+        ☐ Bicep CLI https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-cli (2025-01-10 11:02 PM)
 

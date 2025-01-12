@@ -12,7 +12,7 @@ Azure reliability documentation | Microsoft Learn:
             ☐ Overview https://learn.microsoft.com/en-us/azure/reliability/availability-zones-migration-overview (2024-11-20 11:04 PM)
             ☐ Azure availability zone migration baseline https://learn.microsoft.com/en-us/azure/reliability/availability-zones-baseline (2024-11-20 11:04 PM)
             Migration guides by service:
-                ☐ Azure API Management https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt (2024-11-27 11:03 PM)
+                ✘ Azure API Management https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt (2024-11-27 11:03 PM) @cancelled
                 ☐ Azure App Configuration https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration (2024-11-20 11:04 PM)
                 ☐ Azure Application Gateway https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2 (2024-11-20 11:04 PM)
                 ☐ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service#configure-availability-zone-support (2024-11-20 11:04 PM)
@@ -172,7 +172,7 @@ Azure reliability documentation | Microsoft Learn:
             ☐ Azure Network Watcher https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#service-availability-and-redundancy (2024-10-30 07:28 PM)
             ✘ Azure Private Link https://learn.microsoft.com/en-us/azure/private-link/availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 11:02 PM) @cancelled
             ✘ Azure Public IP https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-zone (2024-11-22 05:58 AM) @cancelled
-            ☐ Azure Route Server https://learn.microsoft.com/en-us/azure/route-server/route-server-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-18 11:02 PM)
+            ✘ Azure Route Server https://learn.microsoft.com/en-us/azure/route-server/route-server-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-18 11:02 PM) @cancelled
             ☐ Azure Traffic Manager https://learn.microsoft.com/en-us/azure/reliability/reliability-traffic-manager (2024-11-01 10:03 PM)
             Azure Virtual Network:
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#virtual-networks-and-availability-zones (2024-09-19 06:07 PM)
@@ -263,16 +263,26 @@ Azure reliability documentation | Microsoft Learn:
 
 ---
 
-                ☐ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2025-01-08 05:32 AM)
+                ✘ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2025-01-08 05:32 AM) @cancelled
         ☐ Overview https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance (2025-01-07 11:03 PM)
             ☐ Azure Machine Learning Service https://learn.microsoft.com/azure/machine-learning/how-to-high-availability-machine-learning?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-08 05:31 AM)
             ☐ Azure Machine Learning https://learn.microsoft.com/azure/machine-learning/how-to-high-availability-machine-learning?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-08 05:31 AM)
-            ☐ Azure Database for PostgreSQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/reliability-postgresql-flexible-server (2025-01-09 05:32 AM)
+            ✘ Azure Database for PostgreSQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/reliability-postgresql-flexible-server (2025-01-09 05:32 AM) @cancelled
             ☐ Azure Logic Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-logic-apps (2025-01-07 11:03 PM)
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-09 06:03 PM)
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-09 06:03 PM)
-                ☐ Availability zones https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-are-availability-zones-and-resiliency-handled-in-virtual-wan (2025-01-08 11:02 PM)
+                ✘ Availability zones https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-are-availability-zones-and-resiliency-handled-in-virtual-wan (2025-01-08 11:02 PM) @cancelled
                 ☐ Microsoft Entra Domain Services https://learn.microsoft.com/azure/active-directory-domain-services/migrate-from-classic-vnet?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-08 12:11 PM)
-                ☐ Virtual WAN https://learn.microsoft.com/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#update-router (2025-01-08 11:02 PM)
+                ✘ Virtual WAN https://learn.microsoft.com/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#update-router (2025-01-08 11:02 PM) @cancelled
                 ☐ Classic Reserved IP addresses https://learn.microsoft.com/azure/virtual-network/ip-services/public-ip-upgrade-classic?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-08 11:02 PM)
+
+
+---
+
+                ☐ Azure API Management https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt (2025-01-10 06:17 PM)
+                ☐ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2025-01-09 10:59 PM)
+            ☐ Azure Database for PostgreSQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/reliability-postgresql-flexible-server (2025-01-10 06:17 PM)
+            ☐ Azure Route Server https://learn.microsoft.com/en-us/azure/route-server/route-server-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-10 11:02 PM)
+                ☐ Availability zones https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-are-availability-zones-and-resiliency-handled-in-virtual-wan (2025-01-10 11:02 PM)
+                ☐ Virtual WAN https://learn.microsoft.com/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#update-router (2025-01-10 11:02 PM)
 

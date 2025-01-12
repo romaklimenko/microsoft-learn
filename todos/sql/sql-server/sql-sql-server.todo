@@ -5475,7 +5475,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                 ☐ Configure advanced data Security https://learn.microsoft.com/en-us/sql/azure-arc/configure-advanced-data-security (2024-09-09 10:27 PM)
                 ☐ Certificate rotation https://learn.microsoft.com/en-us/sql/azure-arc/rotate-certificates (2024-09-09 10:27 PM)
                 ✘ Enable Defender https://learn.microsoft.com/azure/defender-for-cloud/defender-for-sql-usage?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-09-25 05:04 PM) @cancelled(24-12-24 15:48)
-                ☐ Register Purview https://learn.microsoft.com/purview/register-scan-azure-arc-enabled-sql-server?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-12-12 10:31 PM)
+                ✘ Register Purview https://learn.microsoft.com/purview/register-scan-azure-arc-enabled-sql-server?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-12-12 10:31 PM) @cancelled
                 Roles, permissions, & files:
                     ☐ Agent roles https://learn.microsoft.com/en-us/sql/azure-arc/permissions-granted-agent-extension (2024-09-09 10:27 PM)
                     ☐ Required permissions https://learn.microsoft.com/en-us/sql/azure-arc/configure-windows-accounts-agent (2024-09-09 10:27 PM)
@@ -8275,7 +8275,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                     ☐ RingN https://learn.microsoft.com/en-us/sql/t-sql/spatial-geography/ringn-geography-data-type (2024-09-09 10:27 PM)
                     ☐ ShortestLineTo https://learn.microsoft.com/en-us/sql/t-sql/spatial-geography/shortestlineto-geography-data-type (2024-09-09 10:27 PM)
                     ☐ ToString https://learn.microsoft.com/en-us/sql/t-sql/spatial-geography/tostring-geography-data-type (2024-09-09 10:27 PM)
-                    ☐ Z https://learn.microsoft.com/en-us/sql/t-sql/spatial-geography/z-geography-data-type (2024-09-09 10:27 PM)
+                    ✘ Z https://learn.microsoft.com/en-us/sql/t-sql/spatial-geography/z-geography-data-type (2024-09-09 10:27 PM) @cancelled
                 OGC Static Methods https://learn.microsoft.com/en-us/sql/t-sql/spatial-geography/ogc-static-geography-methods (2024-09-09 10:27 PM):
                     ☐ STGeomCollFromText https://learn.microsoft.com/en-us/sql/t-sql/spatial-geography/stgeomcollfromtext-geography-data-type (2024-09-09 10:27 PM)
                     ☐ STGeomCollFromWKB https://learn.microsoft.com/en-us/sql/t-sql/spatial-geography/stgeomcollfromwkb-geography-data-type (2024-09-09 10:27 PM)
@@ -9504,6 +9504,13 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
 
 ---
 
-                ☐ Security Overview (Service Broker) https://learn.microsoft.com/en-us/sql/database-engine/service-broker/security-overview
+                ✘ Security Overview (Service Broker) https://learn.microsoft.com/en-us/sql/database-engine/service-broker/security-overview @cancelled
         ☐ Azure Synapse Analytics > https://learn.microsoft.com/azure/synapse-analytics/overview-what-is (2025-01-08 06:02 PM)
+
+
+---
+
+                ☐ Security Overview (Service Broker) https://learn.microsoft.com/en-us/sql/database-engine/service-broker/security-overview (2024-09-09 10:27 PM)
+                ☐ Register Purview https://learn.microsoft.com/purview/register-scan-azure-arc-enabled-sql-server?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2025-01-09 11:38 PM)
+                    ☐ Z https://learn.microsoft.com/en-us/sql/t-sql/spatial-geography/z-geography-data-type
 

@@ -9,7 +9,7 @@ Microsoft Fabric governance - Microsoft Fabric | Microsoft Learn:
     Microsoft Purview:
         Microsoft Purview and Fabric https://learn.microsoft.com/en-us/fabric/governance/microsoft-purview-fabric (2024-01-23 10:56 PM):
             ✘ Connect in the same tenant https://learn.microsoft.com/purview/register-scan-fabric-tenant?context=/fabric/governance/context/context-purview (2024-12-13 06:43 PM) @cancelled
-            ☐ Connect cross-tenant https://learn.microsoft.com/purview/register-scan-fabric-tenant-cross-tenant?context=/fabric/governance/context/context-purview (2024-12-12 10:31 PM)
+            ✘ Connect cross-tenant https://learn.microsoft.com/purview/register-scan-fabric-tenant-cross-tenant?context=/fabric/governance/context/context-purview (2024-12-12 10:31 PM) @cancelled
         ☐ Microsoft Purview Hub - Admins https://learn.microsoft.com/en-us/fabric/governance/use-microsoft-purview-hub (2024-12-09 12:16 AM)
         ☐ Microsoft Purview Hub - Data owners https://learn.microsoft.com/en-us/fabric/governance/use-microsoft-purview-hub-data-owners (2024-12-09 12:16 AM)
         Information protection:
@@ -24,12 +24,12 @@ Microsoft Fabric governance - Microsoft Fabric | Microsoft Learn:
                 ☐ Downstream inheritance https://learn.microsoft.com/en-us/fabric/governance/service-security-sensitivity-label-downstream-inheritance (2024-12-01 12:06 PM)
                 ☐ Inheritance from data sources https://learn.microsoft.com/en-us/fabric/governance/service-security-sensitivity-label-inheritance-from-data-sources (2024-07-10 11:11 AM)
                 ☐ Audit schema for sensitivity labels https://learn.microsoft.com/en-us/fabric/governance/sensitivity-label-audit-schema (2024-08-04 11:07 AM)
-                ☐ Troubleshoot sensitivity labels https://learn.microsoft.com/en-us/fabric/governance/service-security-sensitivity-label-troubleshooting (2024-08-08 05:00 PM)
+                ✘ Troubleshoot sensitivity labels https://learn.microsoft.com/en-us/fabric/governance/service-security-sensitivity-label-troubleshooting (2024-08-08 05:00 PM) @cancelled
         Protection policies:
             ☐ Protection polices overview https://learn.microsoft.com/en-us/fabric/governance/protection-policies-overview (2024-11-26 11:01 PM)
             ☐ Create and manage protection policies https://learn.microsoft.com/en-us/fabric/governance/protection-policies-create (2024-11-26 11:01 PM)
         Data loss prevention policies:
-            ☐ Get started with Data loss prevention policies for Fabric and Power BI https://learn.microsoft.com/purview/dlp-powerbi-get-started (2024-11-19 03:38 PM)
+            ✘ Get started with Data loss prevention policies for Fabric and Power BI https://learn.microsoft.com/purview/dlp-powerbi-get-started (2024-11-19 03:38 PM) @cancelled
             ☐ Configure a DLP policy for Fabric https://learn.microsoft.com/en-us/fabric/governance/data-loss-prevention-configure (2024-11-26 12:06 PM)
             ☐ Respond to a DLP policy violation https://learn.microsoft.com/en-us/fabric/governance/data-loss-prevention-respond (2024-11-20 11:00 PM)
             ☐ Monitor DLP policy violations https://learn.microsoft.com/en-us/fabric/governance/data-loss-prevention-monitor (2024-11-26 12:06 PM)
@@ -60,5 +60,13 @@ Microsoft Fabric governance - Microsoft Fabric | Microsoft Learn:
 
 ---
 
-            ☐ Connect in the same tenant https://learn.microsoft.com/purview/register-scan-fabric-tenant?context=/fabric/governance/context/context-purview (2025-01-06 11:35 PM)
+            ✘ Connect in the same tenant https://learn.microsoft.com/purview/register-scan-fabric-tenant?context=/fabric/governance/context/context-purview (2025-01-06 11:35 PM) @cancelled
+
+
+---
+
+            ✔ Connect in the same tenant https://learn.microsoft.com/purview/register-scan-fabric-tenant?context=/fabric/governance/context/context-purview (2025-01-09 11:38 PM) @done(25-01-12 22:22)
+            ✔ Connect cross-tenant https://learn.microsoft.com/purview/register-scan-fabric-tenant-cross-tenant?context=/fabric/governance/context/context-purview (2025-01-09 11:38 PM) @done(25-01-12 22:22)
+                ✔ Troubleshoot sensitivity labels https://learn.microsoft.com/en-us/fabric/governance/service-security-sensitivity-label-troubleshooting (2025-01-09 06:03 PM) @done(25-01-12 22:22)
+            ✔ Get started with Data loss prevention policies for Fabric and Power BI https://learn.microsoft.com/purview/dlp-powerbi-get-started (2025-01-09 11:38 PM) @done(25-01-12 22:23)
 

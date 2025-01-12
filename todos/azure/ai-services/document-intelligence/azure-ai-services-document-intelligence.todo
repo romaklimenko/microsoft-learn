@@ -3,7 +3,7 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
     Overview:
         ☐ What is Azure AI Document Intelligence? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/overview (2024-12-11 06:01 PM)
         ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/whats-new (2024-12-18 06:01 PM)
-        ☐ Which model should I choose? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/choose-model-feature (2024-12-11 06:01 PM)
+        ✘ Which model should I choose? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/choose-model-feature (2024-12-11 06:01 PM) @cancelled
         ☐ Create a Document Intelligence resource https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/create-document-intelligence-resource (2024-12-11 06:01 PM)
         ☐ Document Intelligence Studio https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/studio-overview (2024-12-12 05:31 AM)
         Language support:
@@ -45,7 +45,7 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         ☐ Custom neural model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-neural (2024-12-12 05:31 AM)
         ☐ Custom classification model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-classifier (2024-12-12 05:31 AM)
         ☐ Custom labels https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-labels (2024-12-11 06:01 PM)
-        ☐ Custom labeling tips https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-label-tips (2024-12-11 06:01 PM)
+        ✘ Custom labeling tips https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-label-tips (2024-12-11 06:01 PM) @cancelled
         ☐ Custom model lifecycle https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-lifecycle (2024-12-11 06:01 PM)
     Add-on features:
         ☐ Enhanced capabilities https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-add-on-capabilities (2024-12-11 06:01 PM)
@@ -70,7 +70,7 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
             ☐ Python SDK https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/documentintelligence/azure-ai-documentintelligence/MIGRATION_GUIDE.md
         ☐ Migration guide: 2023—07—31 latest (GA) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v3-1-migration-guide (2024-12-11 06:01 PM)
         Custom models:
-            ☐ Build a custom extraction model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/build-a-custom-model (2024-12-11 06:01 PM)
+            ✘ Build a custom extraction model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/build-a-custom-model (2024-12-11 06:01 PM) @cancelled
             ☐ Build a custom classification model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/build-a-custom-classifier (2024-12-11 06:01 PM)
             ☐ Project sharing with custom models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/project-share-custom-models (2024-12-11 06:01 PM)
             ✘ Compose custom extraction models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/compose-custom-models (2024-12-11 06:01 PM) @cancelled
@@ -161,4 +161,11 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
             ✔ Compose custom extraction models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/compose-custom-models (2025-01-08 05:31 AM) @done(25-01-09 21:33)
             ✔ Deploy the sample-labeling tool https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/deploy-label-tool (2025-01-08 05:31 AM) @done(25-01-09 21:34)
             ✔ Train a custom model with the sample-labeling tool https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/label-tool (2025-01-08 05:31 AM) @done(25-01-09 21:34)
+
+
+---
+
+        ✔ Which model should I choose? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/choose-model-feature (2025-01-12 12:11 PM) @done(25-01-12 21:43)
+        ✔ Custom labeling tips https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-label-tips (2025-01-12 12:11 PM) @done(25-01-12 21:44)
+            ✔ Build a custom extraction model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/build-a-custom-model (2025-01-12 12:11 PM) @done(25-01-12 21:47)
 

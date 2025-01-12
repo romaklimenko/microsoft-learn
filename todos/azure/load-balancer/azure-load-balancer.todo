@@ -9,14 +9,14 @@ Load Balancer | Microsoft Learn:
             ☐ CLI https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-cli (2024-09-30 05:05 PM)
             ☐ Bicep https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-bicep (2024-12-06 11:03 PM)
             ☐ ARM template https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-template (2024-11-26 11:03 PM)
-            ☐ Terraform https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-terraform (2024-12-09 06:04 PM)
+            ✘ Terraform https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-terraform (2024-12-09 06:04 PM) @cancelled
         Create an internal load balancer:
             ☐ Portal https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-portal (2024-08-01 05:04 PM)
             ☐ PowerShell https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-powershell (2024-08-01 05:04 PM)
             ☐ CLI https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-cli (2024-09-30 05:05 PM)
             ☐ Bicep https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-bicep (2024-11-04 06:02 PM)
             ☐ ARM template https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-template (2024-08-01 05:04 PM)
-            ☐ Terraform https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-terraform (2024-12-09 06:04 PM)
+            ✘ Terraform https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-terraform (2024-12-09 06:04 PM) @cancelled
     Tutorials:
         Inbound NAT rule:
             ☐ Create a single VM inbound NAT rule https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-port-forwarding-portal (2024-11-22 05:58 AM)
@@ -129,7 +129,7 @@ Load Balancer | Microsoft Learn:
             ☐ Testing inbound frontend IP address reachability https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-test-frontend-reachability (2024-12-11 06:03 PM)
             ☐ Health Probe status https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot-health-probe-status (2024-08-01 05:04 PM)
             ✘ Backend pool (VM) traffic https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-troubleshoot-backend-traffic (2024-08-01 05:04 PM) @cancelled
-            ☐ Troubleshoot SNAT exhaustion and connection timeouts https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-outbound-connection (2024-09-30 05:05 PM)
+            ✘ Troubleshoot SNAT exhaustion and connection timeouts https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-outbound-connection (2024-09-30 05:05 PM) @cancelled
             ☐ Resource health and inbound availability issues https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-rhc (2024-10-30 05:03 PM)
             ✘ Common error codes for Azure Instance Metadata Service (IMDS) https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-load-balancer-imds (2024-08-22 07:16 PM) @cancelled
             ☐ Common deployment errors https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-common-deployment-errors (2024-12-09 06:04 PM)
@@ -180,7 +180,7 @@ Load Balancer | Microsoft Learn:
             ☐ Inbound NAT rules https://learn.microsoft.com/en-us/azure/load-balancer/inbound-nat-rules (2024-12-30 11:05 PM)
             ☐ Multiple frontends https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multivip-overview (2024-12-30 11:05 PM)
             ☐ TCP reset on idle timeout https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-tcp-reset (2024-12-30 11:05 PM)
-            ☐ SNAT for outbound connections to internet https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-outbound-connections (2024-12-30 11:05 PM)
+            ✘ SNAT for outbound connections to internet https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-outbound-connections (2024-12-30 11:05 PM) @cancelled
             ☐ Configuring outbound rules https://learn.microsoft.com/en-us/azure/load-balancer/outbound-rules (2024-12-30 11:05 PM)
             ☐ Upgrade options and guidance https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-basic-upgrade-guidance (2024-12-30 11:05 PM)
 
@@ -195,4 +195,12 @@ Load Balancer | Microsoft Learn:
 
             ☐ Floating IP configuration https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-floating-ip (2025-01-03 11:01 PM)
             ☐ Common error codes for Azure Instance Metadata Service (IMDS) https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-load-balancer-imds (2025-01-07 05:32 AM)
+
+
+---
+
+            ☐ Terraform https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-terraform (2025-01-10 11:02 PM)
+            ☐ Terraform https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-terraform (2025-01-10 11:02 PM)
+            ☐ SNAT for outbound connections to internet https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-outbound-connections (2025-01-09 11:01 PM)
+            ☐ Troubleshoot SNAT exhaustion and connection timeouts https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-outbound-connection (2025-01-09 11:01 PM)
 
