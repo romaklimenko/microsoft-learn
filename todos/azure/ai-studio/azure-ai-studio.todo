@@ -310,7 +310,7 @@ Azure AI Foundry documentation | Microsoft Learn:
             ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/ai-studio/how-to/costs-plan-manage (2024-12-23 11:00 PM)
             ☐ Role-based access control in Azure AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-studio/concepts/rbac-ai-studio (2024-12-23 11:00 PM)
             ✘ Configure managed network https://learn.microsoft.com/en-us/azure/ai-studio/how-to/configure-managed-network (2024-12-23 11:00 PM) @cancelled
-            ☐ Configure private link https://learn.microsoft.com/en-us/azure/ai-studio/how-to/configure-private-link (2024-12-23 11:00 PM)
+            ✘ Configure private link https://learn.microsoft.com/en-us/azure/ai-studio/how-to/configure-private-link (2024-12-23 11:00 PM) @cancelled
             ✘ Secure playground chat https://learn.microsoft.com/en-us/azure/ai-studio/how-to/secure-data-playground (2024-12-23 11:00 PM) @cancelled
             ☐ Securely access on-premises resources https://learn.microsoft.com/en-us/azure/ai-studio/how-to/access-on-premises-resources (2024-12-23 11:00 PM)
             ☐ Troubleshoot secure project connectivity https://learn.microsoft.com/en-us/azure/ai-studio/how-to/troubleshoot-secure-connection-project (2024-12-23 11:00 PM)
@@ -449,7 +449,7 @@ Azure AI Foundry documentation | Microsoft Learn:
         ☐ Azure OpenAI in Azure AI Foundry https://learn.microsoft.com/en-us/azure/ai-studio/azure-openai-in-ai-studio (2025-01-08 05:31 AM)
         ☐ Azure AI FAQ https://learn.microsoft.com/en-us/azure/ai-studio/faq (2025-01-08 05:31 AM)
                 ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2025-01-08 05:31 AM)
-            ☐ Model catalog https://learn.microsoft.com/en-us/azure/ai-studio/how-to/model-catalog-overview (2025-01-09 06:00 PM)
+            ✘ Model catalog https://learn.microsoft.com/en-us/azure/ai-studio/how-to/model-catalog-overview (2025-01-09 06:00 PM) @cancelled
                 ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2025-01-08 05:31 AM)
                 ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2025-01-08 05:31 AM)
                 ✘ Phi-3 chat models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3 (2025-01-09 06:00 PM) @cancelled
@@ -484,13 +484,24 @@ Azure AI Foundry documentation | Microsoft Learn:
                 ☐ Cohere Command models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-cohere-command (2025-01-10 05:33 AM)
                 ☐ Cohere Embed models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-cohere-embed (2025-01-10 05:33 AM)
                 ☐ Meta Llama family models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-llama (2025-01-10 05:33 AM)
-                ☐ Mistral premium models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral (2025-01-10 05:33 AM)
-                ☐ Mistral Nemo model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-nemo (2025-01-10 05:33 AM)
-                ☐ Mistral-7B and Mixtral models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-open (2025-01-10 05:33 AM)
+                ✘ Mistral premium models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral (2025-01-10 05:33 AM) @cancelled
+                ✘ Mistral Nemo model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-nemo (2025-01-10 05:33 AM) @cancelled
+                ✘ Mistral-7B and Mixtral models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-open (2025-01-10 05:33 AM) @cancelled
             ☐ JAIS model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-jais (2025-01-10 05:33 AM)
             ☐ Managed compute https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-managed (2025-01-10 05:33 AM)
                         ☐ Create a flow https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-develop (2025-01-12 12:11 PM)
                 ☐ Deploy a flow for real-time inference https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-deploy (2025-01-12 12:11 PM)
             ☐ Configure managed network https://learn.microsoft.com/en-us/azure/ai-studio/how-to/configure-managed-network (2025-01-10 11:00 PM)
         ☐ Transparency Note for safety evaluations https://learn.microsoft.com/en-us/azure/ai-studio/concepts/safety-evaluations-transparency-note (2025-01-12 12:11 PM)
+
+
+---
+
+            ✔ Model catalog https://learn.microsoft.com/en-us/azure/ai-studio/how-to/model-catalog-overview (2025-01-13 05:04 PM) @done(25-01-13 22:27)
+                ✔ Mistral premium models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral (2025-01-13 05:04 PM) @done(25-01-13 22:27)
+                ✔ Codestral model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-codestral (2025-01-13 06:03 PM) @done(25-01-13 22:27)
+                ✔ Mistral Nemo model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-nemo (2025-01-13 05:04 PM) @done(25-01-13 22:27)
+                ✔ Mistral-7B and Mixtral models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-open (2025-01-13 05:04 PM) @done(25-01-13 22:27)
+                ✔ Develop an evaluation flow in Prompt flow https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-develop-evaluation (2024-11-21 06:03 PM) @done(25-01-13 22:27)
+            ✔ Configure private link https://learn.microsoft.com/en-us/azure/ai-studio/how-to/configure-private-link (2025-01-13 06:03 PM) @done(25-01-13 22:28)
 
