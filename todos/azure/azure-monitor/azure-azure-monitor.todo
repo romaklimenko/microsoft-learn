@@ -41,7 +41,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     .NET (supplemental):
                         ✘ Migrate from Application Insights .NET SDKs to OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-dotnet-migrate (2024-10-30 09:59 PM) @cancelled
                     Java (supplemental):
-                        ☐ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2024-11-14 06:02 PM)
+                        ✘ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2024-11-14 06:02 PM) @cancelled
                         ✘ Profiler https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-profiler (2024-12-10 11:03 PM) @cancelled
                         ☐ Get started (supplemental) https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-get-started-supplemental (2024-11-01 05:03 PM)
                         Configuration:
@@ -489,7 +489,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ Select a table plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-table-plans (2024-09-11 04:50 PM)
                     ☐ Manage data retention https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-retention-configure (2024-12-17 12:06 PM)
                     ☐ Add or delete tables and columns https://learn.microsoft.com/en-us/azure/azure-monitor/logs/create-custom-table (2024-10-16 10:00 PM)
-                    ☐ Set up a table with the Auxiliary plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/create-custom-table-auxiliary (2024-11-03 12:06 PM)
+                    ✘ Set up a table with the Auxiliary plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/create-custom-table-auxiliary (2024-11-03 12:06 PM) @cancelled
                     ☐ Manage table-level read access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-table-access (2024-09-11 04:50 PM)
                 Search jobs and data restore:
                     ☐ Run a search job https://learn.microsoft.com/en-us/azure/azure-monitor/logs/search-jobs (2024-12-19 12:14 PM)
@@ -736,7 +736,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
         ☐ Azure Resource Graph queries https://learn.microsoft.com/en-us/azure/azure-monitor/resource-graph-samples (2024-09-11 04:50 PM)
         ✘ Azure CLI metric alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/azure-cli-metrics-alert-sample (2024-09-11 04:50 PM) @cancelled
     Reference:
-        ☐ IP addresses, ports, and firewall settings https://learn.microsoft.com/en-us/azure/azure-monitor/ip-addresses (2024-12-10 11:03 PM)
+        ✘ IP addresses, ports, and firewall settings https://learn.microsoft.com/en-us/azure/azure-monitor/ip-addresses (2024-12-10 11:03 PM) @cancelled
         ☐ Service limits https://learn.microsoft.com/en-us/azure/azure-monitor/service-limits (2024-09-11 04:50 PM)
         Security:
             ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-monitor-security-baseline?toc=/azure/azure-monitor/toc.json (2024-02-21 03:04 AM)
@@ -912,4 +912,13 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Optimize queries https://learn.microsoft.com/en-us/azure/azure-monitor/logs/query-optimization (2025-01-12 12:11 PM)
                             ☐ Connect ServiceNow with an ITSM Connector https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/itsmc-connections-servicenow (2025-01-12 12:11 PM)
             ☐ Walkthrough https://learn.microsoft.com/en-us/azure/azure-monitor/autoscale/autoscale-get-started (2025-01-12 12:11 PM)
+
+
+---
+
+                        ✘ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2025-01-13 06:03 PM) @cancelled(25-01-13 22:31)
+                ☐ Disaster Recovery guidance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/disaster-recovery-guidance (2025-01-13 12:06 PM)
+                ☐ Create Diagnostic Settings with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings-policy (2024-11-20 06:02 PM)
+                    ☐ Set up a table with the Auxiliary plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/create-custom-table-auxiliary (2025-01-13 06:03 PM)
+        ☐ IP addresses, ports, and firewall settings https://learn.microsoft.com/en-us/azure/azure-monitor/ip-addresses (2025-01-13 05:32 AM)
 
