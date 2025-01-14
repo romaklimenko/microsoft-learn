@@ -1,12 +1,12 @@
 Azure Event Grid documentation | Microsoft Learn:
     ☐ Azure Event Grid Documentation https://learn.microsoft.com/en-us/azure/event-grid/ (2024-12-13 06:02 PM)
     Overview:
-        ☐ What is Event Grid? https://learn.microsoft.com/en-us/azure/event-grid/overview (2024-10-28 10:05 PM)
+        ✘ What is Event Grid? https://learn.microsoft.com/en-us/azure/event-grid/overview (2024-10-28 10:05 PM) @cancelled
         ☐ What's new? https://learn.microsoft.com/en-us/azure/event-grid/whats-new (2024-11-19 01:19 PM)
         ☐ Choose the right tier https://learn.microsoft.com/en-us/azure/event-grid/choose-right-tier (2024-05-21 03:00 PM)
     Event Grid namespaces:
         MQTT broker:
-            ☐ Overview https://learn.microsoft.com/en-us/azure/event-grid/mqtt-overview (2024-12-13 06:02 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/event-grid/mqtt-overview (2024-12-13 06:02 PM) @cancelled
             Quickstarts:
                 Publish and subscribe on an MQTT topic:
                     ☐ Azure CLI https://learn.microsoft.com/en-us/azure/event-grid/mqtt-publish-and-subscribe-cli (2024-08-02 11:27 AM)
@@ -36,7 +36,7 @@ Azure Event Grid documentation | Microsoft Learn:
                 MQTT client authentication https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-authentication (2024-08-02 11:27 AM):
                     ☐ OAuth 2.0 JSON Web Token authentication https://learn.microsoft.com/en-us/azure/event-grid/oauth-json-web-token-authentication (2024-08-09 05:35 AM)
                     ☐ MQTT client authentication using certificates https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-certificate-authentication (2024-08-02 11:27 AM)
-                    ☐ JWT authentication and RBAC authorization for clients with Microsoft Entra identity https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-microsoft-entra-token-and-rbac (2024-08-02 11:27 AM)
+                    ✘ JWT authentication and RBAC authorization for clients with Microsoft Entra identity https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-microsoft-entra-token-and-rbac (2024-08-02 11:27 AM) @cancelled
                     ☐ Transport Layer Security connection with MQTT broker https://learn.microsoft.com/en-us/azure/event-grid/mqtt-transport-layer-security-flow (2024-08-02 11:27 AM)
                 ☐ Reliability https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json (2024-11-20 11:04 PM)
                 Security:
@@ -167,7 +167,7 @@ Azure Event Grid documentation | Microsoft Learn:
             System topics:
                 ☐ Overview of system topics https://learn.microsoft.com/en-us/azure/event-grid/system-topics (2024-06-17 10:05 PM)
                 Event sources (publishers):
-                    ☐ Azure API Center https://learn.microsoft.com/en-us/azure/event-grid/event-schema-api-center (2024-05-03 10:08 PM)
+                    ✘ Azure API Center https://learn.microsoft.com/en-us/azure/event-grid/event-schema-api-center (2024-05-03 10:08 PM) @cancelled
                     ☐ Azure API Management https://learn.microsoft.com/en-us/azure/event-grid/event-schema-api-management (2024-02-27 11:07 PM)
                     ☐ Azure App Configuration https://learn.microsoft.com/en-us/azure/event-grid/event-schema-app-configuration (2022-12-02 11:06 PM)
                     ☐ Azure App Service https://learn.microsoft.com/en-us/azure/event-grid/event-schema-app-service (2024-02-27 11:07 PM)
@@ -334,8 +334,8 @@ Azure Event Grid documentation | Microsoft Learn:
             ☐ Transition from Event Grid on IoT Edge to Azure IoT Edge https://learn.microsoft.com/en-us/azure/event-grid/transition (2024-08-02 11:27 AM)
     Reference:
         ☐ SDKs https://learn.microsoft.com/en-us/azure/event-grid/sdk-overview (2024-10-28 10:05 PM)
-        ☐ Azure CLI https://learn.microsoft.com/cli/azure/eventgrid (2023-10-23 10:08 PM)
-        ☐ PowerShell https://learn.microsoft.com/powershell/module/az.eventgrid (2024-11-19 05:50 PM)
+        ✘ Azure CLI https://learn.microsoft.com/cli/azure/eventgrid (2023-10-23 10:08 PM) @cancelled
+        ✘ PowerShell https://learn.microsoft.com/powershell/module/az.eventgrid (2024-11-19 05:50 PM) @cancelled
         REST:
             ☐ Preview https://learn.microsoft.com/rest/api/eventgrid/controlplane/operation-groups?view=rest-eventgrid-controlplane-2023-12-15-preview&preserve-view=true (2023-10-31 09:45 PM)
             ☐ GA https://learn.microsoft.com/rest/api/eventgrid/controlplane/operation-groups?view=rest-eventgrid-controlplane-2022-06-15&preserve-view=true (2023-10-31 09:45 PM)
@@ -435,6 +435,18 @@ Azure Event Grid documentation | Microsoft Learn:
 
             ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-13 12:32 PM)
             ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-13 12:32 PM)
-            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-13 12:08 PM)
-            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-13 12:05 PM)
+            ✘ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-13 12:08 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-13 12:05 PM) @cancelled
+
+
+---
+
+        ☐ What is Event Grid? https://learn.microsoft.com/en-us/azure/event-grid/overview (2025-01-13 11:06 PM)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/event-grid/mqtt-overview (2025-01-13 11:06 PM)
+                    ☐ JWT authentication and RBAC authorization for clients with Microsoft Entra identity https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-microsoft-entra-token-and-rbac (2025-01-13 11:06 PM)
+                    ☐ Azure API Center https://learn.microsoft.com/en-us/azure/event-grid/event-schema-api-center (2025-01-13 11:06 PM)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/eventgrid (2025-01-13 11:00 PM)
+        ☐ PowerShell https://learn.microsoft.com/powershell/module/az.eventgrid (2025-01-14 05:13 PM)
+            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-14 12:08 PM)
+            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-14 12:10 PM)
 

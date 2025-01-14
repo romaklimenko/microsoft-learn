@@ -201,7 +201,7 @@ Bicep documentation | Microsoft Learn:
                 ☐ Virtual networks https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/scenarios-virtual-networks (2024-07-15 10:09 PM)
         Provide parameters:
             ✘ Parameters file https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/parameter-files (2024-12-08 12:09 PM) @cancelled
-            ☐ Sensitive values https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/key-vault-parameter (2024-12-08 12:09 PM)
+            ✘ Sensitive values https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/key-vault-parameter (2024-12-08 12:09 PM) @cancelled
         Validate file:
             ☐ Linter https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/linter (2024-12-03 11:07 PM)
             Linter rules:
@@ -246,8 +246,8 @@ Bicep documentation | Microsoft Learn:
         Deploy:
             ☐ What-if check https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-what-if (2024-09-26 10:04 PM)
             ✘ Deploy - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-vscode (2024-12-08 12:09 PM) @cancelled
-            ☐ Deploy - CLI https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cli (2024-12-08 12:09 PM)
-            ☐ Deploy - PowerShell https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell (2024-12-08 12:09 PM)
+            ✘ Deploy - CLI https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cli (2024-12-08 12:09 PM) @cancelled
+            ✘ Deploy - PowerShell https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell (2024-12-08 12:09 PM) @cancelled
             ☐ Deploy - Cloud Shell https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cloud-shell (2024-09-26 10:04 PM)
         Configure settings:
             ✘ Bicep config file https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config (2024-10-28 05:04 PM) @cancelled
@@ -261,7 +261,7 @@ Bicep documentation | Microsoft Learn:
     Reference:
         ☐ Resource reference https://learn.microsoft.com/azure/templates/ (2023-03-22 04:22 PM)
         ✘ Bicep CLI https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-cli (2024-12-08 12:09 PM) @cancelled
-        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.resources/ (2024-11-19 05:50 PM)
+        ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.resources/ (2024-11-19 05:50 PM) @cancelled
         Bicep core diagnostics:
             ☐ All codes https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-core-diagnostics (2024-12-03 11:07 PM)
             ☐ BCP007 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp007 (2024-10-14 05:05 PM)
@@ -311,7 +311,7 @@ Bicep documentation | Microsoft Learn:
             ☐ BCP328 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp328 (2024-10-14 05:05 PM)
             ☐ BCP332 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp332 (2024-10-14 05:05 PM)
             ☐ BCP333 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp333 (2024-10-14 05:05 PM)
-            ☐ BCP338 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp338 (2024-12-08 12:09 PM)
+            ✘ BCP338 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp338 (2024-12-08 12:09 PM) @cancelled
             ☐ BCP401 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp401 (2024-10-14 05:05 PM)
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/resource (2024-07-09 08:27 AM)
 
@@ -386,4 +386,13 @@ Bicep documentation | Microsoft Learn:
             ☐ Linter settings https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config-linter (2024-09-20 10:05 PM)
             ☐ Module settings https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config-modules (2024-06-28 05:05 PM)
             ☐ Blueprint to deployment stack https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/migrate-blueprint (2024-11-11 11:02 PM)
+
+
+---
+
+            ✔ Sensitive values https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/key-vault-parameter (2025-01-14 05:33 AM) @done(25-01-14 22:18)
+            ✔ Deploy - CLI https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-cli (2025-01-14 05:33 AM) @done(25-01-14 22:18)
+            ✔ Deploy - PowerShell https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell (2025-01-14 05:33 AM) @done(25-01-14 22:18)
+        ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.resources/ (2025-01-14 05:13 PM) @done(25-01-14 22:18)
+            ✔ BCP338 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp338 (2025-01-14 05:33 AM) @done(25-01-14 22:18)
 

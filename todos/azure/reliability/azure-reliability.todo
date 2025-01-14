@@ -96,8 +96,8 @@ Azure reliability documentation | Microsoft Learn:
         Databases:
             Azure SQL:
                 ☐ Availability zones https://learn.microsoft.com/azure/azure-sql/database/high-availability-sla?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-22 07:03 PM)
-                ☐ Disaster recovery https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore (2024-09-27 10:32 PM)
-            ☐ Azure SQL-Managed Instance https://learn.microsoft.com/azure/azure-sql/database/auto-failover-group-sql-db?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=azure-powershell (2024-11-21 06:30 PM)
+                ✘ Disaster recovery https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore (2024-09-27 10:32 PM) @cancelled
+            ✘ Azure SQL-Managed Instance https://learn.microsoft.com/azure/azure-sql/database/auto-failover-group-sql-db?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=azure-powershell (2024-11-21 06:30 PM) @cancelled
             ☐ Azure Database for MySQL https://learn.microsoft.com/azure/mysql/single-server/concepts-business-continuity?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#recover-from-an-azure-regional-data-center-outage (2024-12-02 11:02 PM)
             Azure Database for MySQL - Flexible Server:
                 ☐ Availability zones https://learn.microsoft.com/azure/mysql/flexible-server/concepts-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-26 10:59 PM)
@@ -125,7 +125,7 @@ Azure reliability documentation | Microsoft Learn:
             ☐ Azure Service Bus https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-zones (2024-11-22 05:58 AM)
             Azure API Management:
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/api-management/high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-27 11:03 PM)
-                ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-11 06:07 PM)
+                ✘ Disaster recovery https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-11 06:07 PM) @cancelled
             ☐ Azure Data Manager for Energy https://learn.microsoft.com/en-us/azure/reliability/reliability-energy-data-services (2024-10-15 07:01 AM)
             ☐ Azure Data Factory https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-redundancy?bc=/azure/reliability/breadcrumb/toc.json&toc=/azure/reliability/toc.json (2024-11-22 05:58 AM)
             ☐ Azure Event Grid https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid (2024-11-20 11:04 PM)
@@ -210,7 +210,7 @@ Azure reliability documentation | Microsoft Learn:
             ☐ Azure AI Search https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 05:31 AM)
             Azure API Management:
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/api-management/high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-27 11:03 PM)
-                ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-11 06:07 PM)
+                ✘ Disaster recovery https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-11 06:07 PM) @cancelled
             ☐ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2024-11-20 11:04 PM)
             ☐ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps (2024-11-20 11:04 PM)
             ☐ Azure Notification Hubs https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs (2024-12-13 11:03 PM)
@@ -232,7 +232,7 @@ Azure reliability documentation | Microsoft Learn:
                 ✘ Microsoft Entra Domain Services https://learn.microsoft.com/azure/active-directory-domain-services/migrate-from-classic-vnet?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-03 11:00 PM) @cancelled
                 ☐ Azure Batch Cloud Service Pools https://learn.microsoft.com/azure/batch/batch-pool-cloud-service-to-virtual-machine-configuration?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-22 07:16 PM)
                 ☐ Cloud Services (classic) https://learn.microsoft.com/azure/cloud-services-extended-support/in-place-migration-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-22 07:16 PM)
-                ☐ App Service Environment v1/v2 https://learn.microsoft.com/azure/app-service/environment/migrate?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-03 05:33 AM)
+                ✘ App Service Environment v1/v2 https://learn.microsoft.com/azure/app-service/environment/migrate?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-03 05:33 AM) @cancelled
                 ☐ API Management https://learn.microsoft.com/azure/api-management/compute-infrastructure?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-do-i-migrate-to-the-stv2-platform (2024-08-02 11:27 AM)
                 ☐ Azure Redis Cache https://learn.microsoft.com/azure/azure-cache-for-redis/cache-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#caches-with-a-dependency-on-cloud-services--classic (2024-11-21 11:02 PM)
                 ☐ Classic Resource Providers https://learn.microsoft.com/azure/azure-resource-manager/management/deployment-models?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-09-27 10:04 PM)
@@ -292,4 +292,13 @@ Azure reliability documentation | Microsoft Learn:
                 ☐ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2025-01-13 06:02 PM)
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-13 06:03 PM)
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-13 06:03 PM)
+
+
+---
+
+                ☐ Disaster recovery https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore (2025-01-13 11:31 PM)
+            ☐ Azure SQL-Managed Instance https://learn.microsoft.com/azure/azure-sql/database/auto-failover-group-sql-db?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=azure-powershell (2025-01-14 06:30 PM)
+                ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-14 06:29 PM)
+                ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-14 06:29 PM)
+                ☐ App Service Environment v1/v2 https://learn.microsoft.com/azure/app-service/environment/migrate?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-14 05:33 AM)
 

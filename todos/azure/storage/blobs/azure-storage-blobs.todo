@@ -101,7 +101,7 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ✘ Enable blob inventory reports https://learn.microsoft.com/en-us/azure/storage/blobs/blob-inventory-how-to (2024-06-25 05:05 PM) @cancelled
                 ☐ Calculate blob count and total size https://learn.microsoft.com/en-us/azure/storage/blobs/calculate-blob-count-size (2024-04-22 10:06 PM)
                 ☐ Tutorial: Analyze blob inventory reports https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-inventory-report-analytics (2024-07-12 10:08 PM)
-                ☐ Tutorial: Calculate container statistics https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-calculate-container-statistics-databricks (2024-04-22 10:06 PM)
+                ✘ Tutorial: Calculate container statistics https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-calculate-container-statistics-databricks (2024-04-22 10:06 PM) @cancelled
             Blob index tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-manage-find-blobs (2024-11-27 11:03 PM):
                 ☐ Use blob index tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-index-how-to (2024-05-01 10:11 PM)
             Lifecycle management policies https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-overview (2024-11-27 05:32 AM): @cancelled
@@ -677,7 +677,7 @@ Azure Blob Storage documentation | Microsoft Learn:
             ☐ Use queries to retrieve data https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-query-acceleration-how-to (2024-11-26 11:03 PM)
         Azure service integration:
             ☐ Use with Synapse SQL https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-sql (2024-11-26 11:03 PM)
-            ☐ Use with Databricks and Spark https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-databricks-spark (2024-12-16 11:03 PM)
+            ✘ Use with Databricks and Spark https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-databricks-spark (2024-12-16 11:03 PM) @cancelled
             ☐ Use with Apache Hive and HDInsight https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-tutorial-extract-transform-load-hive (2024-11-26 11:03 PM)
             ☐ Use with Databricks Delta and Event Grid https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-events (2024-11-26 11:03 PM)
             ☐ Use with other Azure services https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-integrate-with-services-tutorials (2024-11-26 11:03 PM)
@@ -982,13 +982,27 @@ Azure Blob Storage documentation | Microsoft Learn:
 ---
 
                     ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-13 12:32 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-13 12:08 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-13 12:05 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-13 12:08 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-13 12:05 PM)
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-13 12:08 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-13 12:05 PM) @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-13 12:08 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-13 12:05 PM) @cancelled
                 ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-13 12:32 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-13 12:08 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-13 12:05 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-13 12:08 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-13 12:05 PM)
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-13 12:08 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-13 12:05 PM) @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-13 12:08 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-13 12:05 PM) @cancelled
+
+
+---
+
+                ☐ Tutorial: Calculate container statistics https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-calculate-container-statistics-databricks (2025-01-13 11:06 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-14 12:08 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-14 12:10 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-14 12:08 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-14 12:10 PM)
+            ☐ Use with Databricks and Spark https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-databricks-spark (2025-01-13 11:06 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-14 12:08 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-14 12:10 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-14 12:08 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-14 12:10 PM)
 

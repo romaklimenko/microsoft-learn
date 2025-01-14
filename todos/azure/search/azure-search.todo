@@ -310,7 +310,7 @@ Azure AI Search documentation | Microsoft Learn:
                 ✘ OData Language Grammar https://learn.microsoft.com/en-us/azure/search/search-query-odata-syntax-reference (2024-10-11 08:18 AM) @cancelled @cancelled
         Resource management:
             ☐ Azure CLI https://learn.microsoft.com/cli/azure/search (2023-10-17 09:59 PM)
-            ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.search (2024-11-19 05:50 PM)
+            ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.search (2024-11-19 05:50 PM) @cancelled
             ☐ Azure Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.search/searchservices (2024-12-03 10:14 PM)
             ✘ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/search/policy-reference (2024-12-10 06:00 PM) @cancelled @cancelled
             ✘ Monitoring data reference https://learn.microsoft.com/en-us/azure/search/monitor-azure-cognitive-search-data-reference (2024-12-06 11:01 PM) @cancelled @cancelled
@@ -486,9 +486,9 @@ Azure AI Search documentation | Microsoft Learn:
                     ☐ Files https://learn.microsoft.com/en-us/azure/search/search-file-storage-integration (2024-11-21 06:03 PM)
                     ☐ Tables https://learn.microsoft.com/en-us/azure/search/search-howto-indexing-azure-tables (2024-12-06 11:01 PM)
                     ☐ Index changed and deleted content https://learn.microsoft.com/en-us/azure/search/search-howto-index-changed-deleted-blobs (2024-12-06 11:01 PM)
-                    ☐ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb (2024-12-06 11:01 PM)
-                    ☐ Azure Cosmos DB for MongoDB https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb-mongodb (2024-12-10 06:00 PM)
-                    ☐ Azure Cosmos DB for Apache Gremlin https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb-gremlin (2024-12-10 06:00 PM)
+                    ✘ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb (2024-12-06 11:01 PM) @cancelled
+                    ✘ Azure Cosmos DB for MongoDB https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb-mongodb (2024-12-10 06:00 PM) @cancelled
+                    ✘ Azure Cosmos DB for Apache Gremlin https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb-gremlin (2024-12-10 06:00 PM) @cancelled
                 ☐ Azure DB for MySQL https://learn.microsoft.com/en-us/azure/search/search-howto-index-mysql (2024-12-10 06:00 PM)
                     ☐ Azure SQL Databases https://learn.microsoft.com/en-us/azure/search/search-how-to-index-sql-database (2024-12-06 11:01 PM)
                     ☐ Azure SQL Managed Instances https://learn.microsoft.com/en-us/azure/search/search-how-to-index-sql-managed-instance (2024-12-10 06:00 PM)
@@ -559,7 +559,7 @@ Azure AI Search documentation | Microsoft Learn:
             ☐ Authenticate with keys https://learn.microsoft.com/en-us/azure/search/search-security-api-keys (2024-12-06 11:01 PM)
                 ☐ Configure a managed identity https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-data-sources (2024-12-06 11:01 PM)
                     ☐ Azure Storage https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-storage (2024-10-11 08:18 AM)
-                    ☐ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-cosmos-db (2024-10-11 08:18 AM)
+                    ✘ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-cosmos-db (2024-10-11 08:18 AM) @cancelled
                     ☐ SQL Database https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-sql (2024-12-10 06:00 PM)
                     ☐ SQL Managed Instance https://learn.microsoft.com/en-us/azure/search/search-index-azure-sql-managed-instance-with-managed-identity (2024-12-10 06:00 PM)
                 ☐ Connect through a firewall https://learn.microsoft.com/en-us/azure/search/search-indexer-howto-access-ip-restricted (2024-12-19 10:58 PM)
@@ -707,4 +707,11 @@ Azure AI Search documentation | Microsoft Learn:
 ---
 
                 ☐ Explore the code https://learn.microsoft.com/en-us/azure/search/tutorial-csharp-search-query-integration (2025-01-13 06:03 PM)
+
+
+---
+
+                    ✔ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb (2025-01-13 11:00 PM) @done(25-01-14 23:00)
+                    ✔ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-cosmos-db (2025-01-13 11:00 PM) @done(25-01-14 23:00)
+            ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.search (2025-01-14 05:13 PM) @done(25-01-14 23:00)
 

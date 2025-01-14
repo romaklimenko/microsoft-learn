@@ -174,7 +174,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Data types https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-data-types (2024-12-18 06:03 PM)
                     ☐ Distributed tables https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-distribute?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
                     ☐ Table constraints https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-table-constraints?context=/azure/synapse-analytics/context/context (2024-12-17 06:04 PM)
-                    ☐ External tables https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-external-tables (2024-08-01 05:35 AM)
+                    ✘ External tables https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-external-tables (2024-08-01 05:35 AM) @cancelled
                     ☐ Indexes https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-index?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
                     ☐ Identity https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-identity?context=/azure/synapse-analytics/context/context (2024-08-01 05:35 AM)
                     ☐ OPENROWSET https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-openrowset (2024-09-18 05:37 AM)
@@ -210,7 +210,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Column-level security https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/column-level-security?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
                     ☐ Row-level security https://learn.microsoft.com/sql/relational-databases/security/row-level-security?context=/azure/synapse-analytics/context/context (2024-11-22 07:03 PM)
                 Data Encryption:
-                    ☐ Transparent Data Encryption overview https://learn.microsoft.com/azure/azure-sql/database/transparent-data-encryption-tde-overview?toc=%2fazure%2fsynapse-analytics%2ftoc.json (2024-11-05 11:33 PM)
+                    ✘ Transparent Data Encryption overview https://learn.microsoft.com/azure/azure-sql/database/transparent-data-encryption-tde-overview?toc=%2fazure%2fsynapse-analytics%2ftoc.json (2024-11-05 11:33 PM) @cancelled
                     ☐ TDE with bring your own key https://learn.microsoft.com/azure/azure-sql/database/transparent-data-encryption-byok-overview?toc=%2fazure%2fsynapse-analytics%2ftoc.json (2024-10-23 10:47 PM)
             Workload management:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-workload-management?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
@@ -1108,7 +1108,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Materialized views overview https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-overview?view=azure-data-explorer&preserve-view=true (2024-08-22 05:01 PM)
                     ☐ Materialized views limitations https://learn.microsoft.com/kusto/management/materialized-views/materialized-views-limitations?view=azure-data-explorer&preserve-view=true (2024-09-08 11:05 AM)
                     ☐ Materialized views policies https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-policies?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Materialized views use cases https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-use-cases?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ Materialized views use cases https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-use-cases?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ☐ Materialized views data purge https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-purge?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ Monitor materialized views https://learn.microsoft.com/kusto/management/materialized-views/materialized-views-monitoring?view=azure-data-explorer&preserve-view=true (2024-09-08 11:05 AM)
                     ☐ .alter materialized-view https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-alter?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1375,7 +1375,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             Cross-cluster schema:
                 ☐ .clear cache remote-schema command https://learn.microsoft.com/kusto/management/clear-cross-cluster-schema-cache?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
             System information https://learn.microsoft.com/kusto/management/system-info?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM):
-                ☐ Estimate table size https://learn.microsoft.com/kusto/management/estimate-table-size?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ Estimate table size https://learn.microsoft.com/kusto/management/estimate-table-size?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ Journal https://learn.microsoft.com/kusto/management/journal?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 Operations:
                     ☐ .show operations https://learn.microsoft.com/kusto/management/show-operations?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -2003,7 +2003,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
         ☐ Database collation types https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/reference-collation-types?context=/azure/synapse-analytics/context/context (2024-12-12 12:24 PM)
         ☐ Go https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/services/preview/synapse@v43.3.0+incompatible
         ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.synapse?preserve-view=true&view=azure-dotnet-preview (2020-03-31 10:48 PM)
-        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.synapse?context=/azure/synapse-analytics/context/context (2024-11-19 05:50 PM)
+        ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.synapse?context=/azure/synapse-analytics/context/context (2024-11-19 05:50 PM) @cancelled
         ☐ REST APIs https://learn.microsoft.com/rest/api/synapse/ (2024-08-13 10:12 PM)
         ☐ Microsoft Spark Utilities https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/microsoft-spark-utilities (2024-11-19 06:02 PM)
         ✘ File mount/unmount API in Synapse https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/synapse-file-mount-api (2024-09-11 06:38 PM) @cancelled
@@ -2202,4 +2202,13 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Scalar data types https://learn.microsoft.com/kusto/query/scalar-data-types/index?view=azure-data-explorer&preserve-view=true (2025-01-12 12:09 PM)
                     ☐ .alter merge policy mirroring command https://learn.microsoft.com/kusto/management/alter-merge-mirroring-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-12 12:09 PM)
                 ☐ Sink https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sink?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-10 12:11 PM)
+
+
+---
+
+                    ☐ External tables https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-external-tables (2025-01-13 11:06 PM)
+                    ☐ Transparent Data Encryption overview https://learn.microsoft.com/azure/azure-sql/database/transparent-data-encryption-tde-overview?toc=%2fazure%2fsynapse-analytics%2ftoc.json (2025-01-14 06:30 PM)
+                    ☐ Materialized views use cases https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-use-cases?view=azure-data-explorer&preserve-view=true (2025-01-14 06:01 PM)
+                ☐ Estimate table size https://learn.microsoft.com/kusto/management/estimate-table-size?view=azure-data-explorer&preserve-view=true (2025-01-14 06:01 PM)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.synapse?context=/azure/synapse-analytics/context/context (2025-01-14 05:13 PM)
 

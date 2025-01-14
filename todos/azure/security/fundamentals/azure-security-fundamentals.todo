@@ -10,12 +10,12 @@ Azure security fundamentals documentation | Microsoft Learn:
         ☐ Zero Trust https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust (2024-09-30 05:05 PM)
     Detect and mitigate threats:
         Protect against ransomware and extortion:
-            ☐ Ransomware protection in Azure https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-protection (2024-09-30 05:05 PM)
+            ✘ Ransomware protection in Azure https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-protection (2024-09-30 05:05 PM) @cancelled
             ☐ Prepare for an attack https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-prepare (2024-08-07 10:04 PM)
             ☐ Detect and respond to an attack https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-detect-respond (2024-06-17 05:04 PM)
             ☐ Azure features & resources that help you protect, detect, and respond https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-features-resources (2024-08-07 10:04 PM)
             ☐ Backup and restore plan for ransomware https://learn.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware (2024-11-27 11:03 PM)
-            ☐ Ransomware protection with Azure Firewall Premium https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-protection-with-azure-firewall (2024-09-30 05:05 PM)
+            ✘ Ransomware protection with Azure Firewall Premium https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-protection-with-azure-firewall (2024-09-30 05:05 PM) @cancelled
             ☐ Recovering from systemic identity compromise https://learn.microsoft.com/en-us/azure/security/fundamentals/recover-from-identity-compromise (2024-08-07 10:04 PM)
         ☐ Threat protection https://learn.microsoft.com/en-us/azure/security/fundamentals/threat-detection (2024-09-30 05:05 PM)
     Securing workloads in Azure:
@@ -56,7 +56,7 @@ Azure security fundamentals documentation | Microsoft Learn:
         ☐ Secure hybrid network architecture https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-hybrid?toc=/azure/security/fundamentals/toc.json&bc=/azure/security/breadcrumb/toc.json (2024-09-12 04:46 PM)
     IaaS security:
         ☐ Microsoft Antimalware https://learn.microsoft.com/en-us/azure/security/fundamentals/antimalware (2024-09-30 11:14 AM)
-        ☐ Microsoft Antimalware code samples https://learn.microsoft.com/en-us/azure/security/fundamentals/antimalware-code-samples (2024-09-30 11:14 AM)
+        ✘ Microsoft Antimalware code samples https://learn.microsoft.com/en-us/azure/security/fundamentals/antimalware-code-samples (2024-09-30 11:14 AM) @cancelled
         ☐ Virtual machine security overview https://learn.microsoft.com/en-us/azure/security/fundamentals/virtual-machines-overview (2024-09-30 05:05 PM)
         ✘ Automatic VM guest patching https://learn.microsoft.com/azure/virtual-machines/automatic-vm-guest-patching?bc=%2fazure%2fsecurity%2fbreadcrumb%2ftoc.json&toc=%2fazure%2fsecurity%2ffundamentals%2ftoc.json (2024-11-19 06:02 PM) @cancelled
         ☐ Best practices - IaaS workloads https://learn.microsoft.com/en-us/azure/security/fundamentals/iaas (2024-11-22 05:58 AM)
@@ -84,7 +84,7 @@ Azure security fundamentals documentation | Microsoft Learn:
             ☐ Security checklist https://learn.microsoft.com/en-us/azure/security/fundamentals/database-security-checklist (2024-09-30 11:14 AM)
         ☐ Storage security guide https://learn.microsoft.com/en-us/azure/storage/blobs/security-recommendations?toc=/azure/security/fundamentals/toc.json&bc=/azure/security/breadcrumb/toc.json (2024-09-11 06:38 PM)
         Customer Lockbox:
-            ☐ Overview https://learn.microsoft.com/en-us/azure/security/fundamentals/customer-lockbox-overview (2024-10-22 10:04 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/security/fundamentals/customer-lockbox-overview (2024-10-22 10:04 PM) @cancelled
             ☐ Alternate email notifications https://learn.microsoft.com/en-us/azure/security/fundamentals/customer-lockbox-alternative-email (2024-08-08 05:34 AM)
             ☐ FAQ https://learn.microsoft.com/en-us/azure/security/fundamentals/customer-lockbox-faq (2024-09-03 10:09 PM)
             ☐ Security baseline for Customer Lockbox https://learn.microsoft.com/security/benchmark/azure/baselines/lockbox-security-baseline?toc=/azure/security/fundamentals/TOC.json (2023-09-20 09:42 PM)
@@ -101,7 +101,7 @@ Azure security fundamentals documentation | Microsoft Learn:
         ☐ Enhance remote management https://learn.microsoft.com/en-us/azure/security/fundamentals/management (2024-09-30 11:14 AM)
         Operational security:
             ☐ Overview https://learn.microsoft.com/en-us/azure/security/fundamentals/operational-overview (2024-09-30 11:14 AM)
-            ☐ Best practices https://learn.microsoft.com/en-us/azure/security/fundamentals/operational-best-practices (2024-09-30 11:14 AM)
+            ✘ Best practices https://learn.microsoft.com/en-us/azure/security/fundamentals/operational-best-practices (2024-09-30 11:14 AM) @cancelled
             ☐ Security checklist https://learn.microsoft.com/en-us/azure/security/fundamentals/operational-checklist (2024-09-30 11:14 AM)
     Resources:
         ☐ Azure security services https://learn.microsoft.com/en-us/azure/security/fundamentals/services-technologies (2024-09-30 05:05 PM)
@@ -138,4 +138,12 @@ Azure security fundamentals documentation | Microsoft Learn:
 
         ☐ Services supporting CMKs https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-customer-managed-keys-support (2025-01-08 06:02 PM)
         ☐ Feature availability for US Government clouds https://learn.microsoft.com/en-us/azure/security/fundamentals/feature-availability (2025-01-09 06:03 PM)
+
+
+---
+
+            ☐ Ransomware protection in Azure https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-protection (2025-01-14 06:29 PM)
+        ☐ Microsoft Antimalware code samples https://learn.microsoft.com/en-us/azure/security/fundamentals/antimalware-code-samples (2025-01-14 06:29 PM)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/security/fundamentals/customer-lockbox-overview (2025-01-14 06:29 PM)
+            ☐ Best practices https://learn.microsoft.com/en-us/azure/security/fundamentals/operational-best-practices (2025-01-14 06:29 PM)
 

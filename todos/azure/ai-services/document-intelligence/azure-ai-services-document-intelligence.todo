@@ -1,7 +1,7 @@
 Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Azure AI services | Microsoft Learn:
     ☐ Azure AI Document Intelligence Documentation https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/ (2024-12-11 06:01 PM)
     Overview:
-        ☐ What is Azure AI Document Intelligence? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/overview (2024-12-11 06:01 PM)
+        ✘ What is Azure AI Document Intelligence? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/overview (2024-12-11 06:01 PM) @cancelled
         ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/whats-new (2024-12-18 06:01 PM)
         ✘ Which model should I choose? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/choose-model-feature (2024-12-11 06:01 PM) @cancelled
         ☐ Create a Document Intelligence resource https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/create-document-intelligence-resource (2024-12-11 06:01 PM)
@@ -11,14 +11,14 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
             ✘ Prebuilt models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/prebuilt (2024-12-11 06:01 PM) @cancelled
             ☐ Custom models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/custom (2024-12-11 06:01 PM)
         ☐ Pricing https://azure.microsoft.com/pricing/details/form-recognizer/
-        ☐ Service limits and billing https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/service-limits (2024-12-12 05:31 AM)
+        ✘ Service limits and billing https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/service-limits (2024-12-12 05:31 AM) @cancelled
         Document Intelligence client libraries:
             ☐ Changelog and migration guide https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/changelog-release-history (2024-12-18 06:01 PM)
             ☐ SDK targets: REST API v4.0 2024-11-30 latest (GA) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/sdk-overview-v4-0 (2024-12-18 06:01 PM)
             ☐ SDK targets: REST API 2023-7-31 (GA) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/sdk-overview-v3-1 (2024-12-11 06:01 PM)
             ☐ SDK targets: REST API 2022-08-31 (GA) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/sdk-overview-v3-0 (2024-12-12 05:31 AM)
             ☐ SDK targets: REST API v2.1 (GA) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/sdk-overview-v2-1 (2024-12-11 06:01 PM)
-        ☐ FAQ https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/faq (2024-12-11 06:01 PM)
+        ✘ FAQ https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/faq (2024-12-11 06:01 PM) @cancelled
     Prebuilt models:
         ✘ Model overview https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/model-overview (2024-12-12 05:31 AM) @cancelled
         ☐ Bank check (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/bank-check (2024-12-11 06:01 PM)
@@ -36,13 +36,13 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         ☐ Pay stub https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/pay-stub (2024-12-11 06:01 PM)
         ☐ Read https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/read (2024-12-12 05:31 AM)
         ✘ Receipt https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/receipt (2024-12-11 06:01 PM) @cancelled
-        ☐ Tax documents (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/tax-document (2024-12-12 05:31 AM)
+        ✘ Tax documents (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/tax-document (2024-12-12 05:31 AM) @cancelled
     Custom models:
         ☐ Custom model overview https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-model (2024-12-11 06:01 PM)
         ☐ Composed models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/composed-models (2024-12-12 05:31 AM)
         ☐ Incremental classifier https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/incremental-classifier (2024-12-11 06:01 PM)
         ☐ Custom template model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-template (2024-12-12 05:31 AM)
-        ☐ Custom neural model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-neural (2024-12-12 05:31 AM)
+        ✘ Custom neural model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-neural (2024-12-12 05:31 AM) @cancelled
         ☐ Custom classification model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-classifier (2024-12-12 05:31 AM)
         ☐ Custom labels https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-labels (2024-12-11 06:01 PM)
         ✘ Custom labeling tips https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-label-tips (2024-12-11 06:01 PM) @cancelled
@@ -168,4 +168,13 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         ✔ Which model should I choose? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/choose-model-feature (2025-01-12 12:11 PM) @done(25-01-12 21:43)
         ✔ Custom labeling tips https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-label-tips (2025-01-12 12:11 PM) @done(25-01-12 21:44)
             ✔ Build a custom extraction model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/build-a-custom-model (2025-01-12 12:11 PM) @done(25-01-12 21:47)
+
+
+---
+
+        ✔ What is Azure AI Document Intelligence? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/overview (2025-01-13 11:00 PM) @done(25-01-14 22:10)
+        ✔ Service limits and billing https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/service-limits (2025-01-14 05:31 AM) @done(25-01-14 22:10)
+        ✔ FAQ https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/faq (2025-01-14 05:31 AM) @done(25-01-14 22:10)
+        ✔ Tax documents (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/tax-document (2025-01-13 11:00 PM) @done(25-01-14 22:10)
+        ✔ Custom neural model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-neural (2025-01-14 05:31 AM) @done(25-01-14 22:10)
 

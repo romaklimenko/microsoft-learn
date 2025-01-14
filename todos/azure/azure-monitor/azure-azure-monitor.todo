@@ -217,10 +217,10 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             Configure Prometheus (metrics):
                 Customize data collection:
                     ✘ Default configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-default (2024-11-29 11:00 PM) @cancelled
-                    ☐ Custom configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration (2024-12-04 05:31 AM)
+                    ✘ Custom configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration (2024-12-04 05:31 AM) @cancelled
                     ☐ Configure collection using Service and Pod Monitor Custom Resources https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-crd (2024-11-18 10:59 PM)
                     ☐ Create and validate custom scrape config https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-validate (2024-09-11 04:50 PM)
-                    ☐ Minimal ingestion profile https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration-minimal (2024-09-11 04:50 PM)
+                    ✘ Minimal ingestion profile https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration-minimal (2024-09-11 04:50 PM) @cancelled
                     ☐ High scale https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-scale (2024-10-29 05:01 PM)
                 Integrations:
                     Setup exporters for common workloads https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-exporters (2024-09-11 04:50 PM):
@@ -476,7 +476,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-overview (2024-12-09 05:37 AM)
                 Manage Log Analytics workspaces:
                     ☐ Create a Log Analytics workspace https://learn.microsoft.com/en-us/azure/azure-monitor/logs/quick-create-workspace (2024-09-11 04:50 PM)
-                    ☐ Manage access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-access (2024-12-09 05:37 AM)
+                    ✘ Manage access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-access (2024-12-09 05:37 AM) @cancelled
                     ☐ Change pricing tier https://learn.microsoft.com/en-us/azure/azure-monitor/logs/change-pricing-tier (2024-09-11 04:50 PM)
                     ☐ Set a daily cap https://learn.microsoft.com/en-us/azure/azure-monitor/logs/daily-cap (2024-12-01 12:10 PM)
                     Move, delete, or recover a Log Analytics workspace:
@@ -759,10 +759,10 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Application Insights data model https://learn.microsoft.com/en-us/azure/azure-monitor/app/data-model-complete (2024-09-11 04:50 PM)
             ☐ Statsbeat https://learn.microsoft.com/en-us/azure/azure-monitor/app/statsbeat (2024-09-25 04:59 PM)
         Azure PowerShell:
-            ☐ Azure Monitor https://learn.microsoft.com/powershell/module/az.monitor/ (2024-11-19 05:50 PM)
-            ☐ Azure Monitor Logs https://learn.microsoft.com/powershell/module/az.operationalinsights/ (2024-11-19 05:50 PM)
-            ☐ Application Insights https://learn.microsoft.com/powershell/module/az.applicationinsights/ (2024-11-19 05:50 PM)
-            ☐ Change Analysis https://learn.microsoft.com/powershell/module/az.changeanalysis/ (2024-11-19 05:50 PM)
+            ✘ Azure Monitor https://learn.microsoft.com/powershell/module/az.monitor/ (2024-11-19 05:50 PM) @cancelled
+            ✘ Azure Monitor Logs https://learn.microsoft.com/powershell/module/az.operationalinsights/ (2024-11-19 05:50 PM) @cancelled
+            ✘ Application Insights https://learn.microsoft.com/powershell/module/az.applicationinsights/ (2024-11-19 05:50 PM) @cancelled
+            ✘ Change Analysis https://learn.microsoft.com/powershell/module/az.changeanalysis/ (2024-11-19 05:50 PM) @cancelled
         Azure CLI:
             ☐ Azure Monitor https://learn.microsoft.com/cli/azure/azure-cli-reference-for-monitor (2023-07-05 10:45 AM)
             ☐ Application Insights https://learn.microsoft.com/cli/azure/monitor/app-insights (2024-01-19 11:02 PM)
@@ -900,7 +900,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ Configure OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-configuration (2025-01-12 12:11 PM)
                 ☐ Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/azure-monitor/app/azure-ad-authentication (2025-01-10 11:01 PM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings (2025-01-12 12:11 PM)
-                ☐ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-10 05:34 AM)
+                ✘ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-10 05:34 AM) @cancelled
                 ☐ Requirements https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-requirements (2025-01-10 05:34 AM)
                                 ☐ Virtual Machine https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-guestos-resource-manager-vm (2025-01-10 05:34 AM)
                                 ☐ Virtual Machine Scale Set https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-guestos-resource-manager-vmss (2025-01-10 05:34 AM)
@@ -921,4 +921,16 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Create Diagnostic Settings with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings-policy (2024-11-20 06:02 PM)
                     ☐ Set up a table with the Auxiliary plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/create-custom-table-auxiliary (2025-01-13 06:03 PM)
         ☐ IP addresses, ports, and firewall settings https://learn.microsoft.com/en-us/azure/azure-monitor/ip-addresses (2025-01-13 05:32 AM)
+
+
+---
+
+                        ☐ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2025-01-13 06:03 PM)
+                    ☐ Custom configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration (2025-01-14 05:32 AM)
+                ☐ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-13 11:00 PM)
+                    ☐ Manage access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-access (2025-01-14 06:01 PM)
+            ☐ Azure Monitor https://learn.microsoft.com/powershell/module/az.monitor/ (2025-01-14 05:13 PM)
+            ☐ Azure Monitor Logs https://learn.microsoft.com/powershell/module/az.operationalinsights/ (2025-01-14 05:13 PM)
+            ☐ Application Insights https://learn.microsoft.com/powershell/module/az.applicationinsights/ (2025-01-14 05:13 PM)
+            ☐ Change Analysis https://learn.microsoft.com/powershell/module/az.changeanalysis/ (2025-01-14 05:13 PM)
 

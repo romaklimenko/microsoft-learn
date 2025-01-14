@@ -5,8 +5,8 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ☐ What is AKS Automatic? https://learn.microsoft.com/en-us/azure/aks/intro-aks-automatic (2024-08-01 08:29 PM)
         ☐ Quotas and regional limits https://learn.microsoft.com/en-us/azure/aks/quotas-skus-regions (2024-10-31 05:34 AM)
         ☐ Track releases and region availability https://learn.microsoft.com/en-us/azure/aks/release-tracker (2024-08-01 08:29 PM)
-        ☐ Supported Kubernetes versions https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions (2024-12-11 06:01 PM)
-        ☐ Long-term support https://learn.microsoft.com/en-us/azure/aks/long-term-support (2024-11-27 11:02 PM)
+        ✘ Supported Kubernetes versions https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions (2024-12-11 06:01 PM) @cancelled
+        ✘ Long-term support https://learn.microsoft.com/en-us/azure/aks/long-term-support (2024-11-27 11:02 PM) @cancelled
         ☐ Add-ons, extensions, and other integrations https://learn.microsoft.com/en-us/azure/aks/integrations (2024-11-25 11:00 PM)
     Getting started:
         ☐ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-21 10:01 PM)
@@ -172,7 +172,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ✘ Manage SSH key https://learn.microsoft.com/en-us/azure/aks/manage-ssh-node-access (2024-10-31 05:34 AM) @cancelled
                 ☐ Deploy trusted launch on AKS https://learn.microsoft.com/en-us/azure/aks/use-trusted-launch (2024-12-16 11:01 PM)
             Node pools:
-                ☐ Create node pools https://learn.microsoft.com/en-us/azure/aks/create-node-pools (2024-10-31 05:34 AM)
+                ✘ Create node pools https://learn.microsoft.com/en-us/azure/aks/create-node-pools (2024-10-31 05:34 AM) @cancelled
                 ☐ Manage node pools https://learn.microsoft.com/en-us/azure/aks/manage-node-pools (2024-12-03 11:00 PM)
                 ☐ Reduce image pull time with Artifact Streaming on AKS https://learn.microsoft.com/en-us/azure/aks/artifact-streaming (2024-08-01 08:29 PM)
                 ☐ Use generation 2 VMs https://learn.microsoft.com/en-us/azure/aks/generation-2-vm (2024-10-31 05:34 AM)
@@ -190,9 +190,9 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             Stateful workloads:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/aks/stateful-workloads-overview (2024-12-13 11:02 PM)
                 Deploy a MongoDB cluster:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/aks/mongodb-overview (2024-10-31 05:04 PM)
-                    ☐ Create MongoDB infrastructure https://learn.microsoft.com/en-us/azure/aks/create-mongodb-infrastructure (2024-11-07 12:05 PM)
-                    ☐ Deploy MongoDB cluster https://learn.microsoft.com/en-us/azure/aks/deploy-mongodb-cluster (2024-10-31 05:04 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/aks/mongodb-overview (2024-10-31 05:04 PM) @cancelled
+                    ✘ Create MongoDB infrastructure https://learn.microsoft.com/en-us/azure/aks/create-mongodb-infrastructure (2024-11-07 12:05 PM) @cancelled
+                    ✘ Deploy MongoDB cluster https://learn.microsoft.com/en-us/azure/aks/deploy-mongodb-cluster (2024-10-31 05:04 PM) @cancelled
                 Deploy a highly available PostgreSQL database:
                     ☐ Overview https://learn.microsoft.com/en-us/azure/aks/postgresql-ha-overview (2024-10-31 05:34 AM)
                     ☐ Create infrastructure resources https://learn.microsoft.com/en-us/azure/aks/create-postgresql-ha (2024-11-07 12:05 PM)
@@ -293,15 +293,15 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                     Azure Key Vault provider with Secrets Store CSI Driver:
                         ☐ 1 - Configure Secrets Store CSI Driver https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-driver (2024-09-10 10:02 PM)
                         ☐ 2 - Provide Azure Key Vault access https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-identity-access (2024-12-16 12:05 PM)
-                        ☐ 3 - Apply extra configurations or perform troubleshooting https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-configuration-options (2024-08-01 08:29 PM)
+                        ✘ 3 - Apply extra configurations or perform troubleshooting https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-configuration-options (2024-08-01 08:29 PM) @cancelled
         Configure networking:
             CNI:
                 ☐ Use Azure CNI Overlay https://learn.microsoft.com/en-us/azure/aks/azure-cni-overlay (2024-12-20 12:04 PM)
                 ☐ Use Azure CNI for dynamic IP allocation https://learn.microsoft.com/en-us/azure/aks/configure-azure-cni-dynamic-ip-allocation (2024-09-26 05:33 AM)
                 ☐ Use Azure CNI VNet - Static Block Allocation (Preview) https://learn.microsoft.com/en-us/azure/aks/configure-azure-cni-static-block-allocation (2024-09-05 09:55 PM)
                 ☐ Use Azure CNI Powered by Cilium https://learn.microsoft.com/en-us/azure/aks/azure-cni-powered-by-cilium (2024-12-20 12:04 PM)
-                ☐ Use kubenet https://learn.microsoft.com/en-us/azure/aks/configure-kubenet (2024-11-07 12:05 PM)
-                ☐ Use kubenet with dual-stack networking https://learn.microsoft.com/en-us/azure/aks/configure-kubenet-dual-stack (2024-09-16 10:00 PM)
+                ✘ Use kubenet https://learn.microsoft.com/en-us/azure/aks/configure-kubenet (2024-11-07 12:05 PM) @cancelled
+                ✘ Use kubenet with dual-stack networking https://learn.microsoft.com/en-us/azure/aks/configure-kubenet-dual-stack (2024-09-16 10:00 PM) @cancelled
                 ☐ Use Azure CNI https://learn.microsoft.com/en-us/azure/aks/configure-azure-cni (2024-12-11 11:00 PM)
                 ☐ Bring your own CNI https://learn.microsoft.com/en-us/azure/aks/use-byo-cni (2024-08-01 08:29 PM)
                 ☐ Upgrade AKS IPAM and dataplane https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-ipam-and-dataplane (2024-12-20 12:04 PM)
@@ -392,7 +392,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ About Istio https://learn.microsoft.com/en-us/azure/aks/istio-about (2024-11-04 11:00 PM)
                 ☐ Deploy Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-deploy-addon (2024-11-21 11:00 PM)
                 ☐ Enable native sidecar mode (Preview) https://learn.microsoft.com/en-us/azure/aks/istio-native-sidecar (2024-10-31 05:34 AM)
-                ☐ Configure Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-meshconfig (2024-10-31 05:34 AM)
+                ✘ Configure Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-meshconfig (2024-10-31 05:34 AM) @cancelled
                 ☐ Deploy external or internal Istio Ingress https://learn.microsoft.com/en-us/azure/aks/istio-deploy-ingress (2024-11-05 10:59 PM)
                 ☐ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2024-08-01 08:29 PM)
                 ☐ Plug-in CA certificates for Istio https://learn.microsoft.com/en-us/azure/aks/istio-plugin-ca (2024-08-01 08:29 PM)
@@ -520,7 +520,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
     Reference:
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/aks (2024-11-19 11:00 PM)
         ☐ REST https://learn.microsoft.com/rest/api/aks/ (2023-10-31 09:45 PM)
-        ☐ PowerShell https://learn.microsoft.com/powershell/module/az.aks/#aks (2024-11-19 05:50 PM)
+        ✘ PowerShell https://learn.microsoft.com/powershell/module/az.aks/#aks (2024-11-19 05:50 PM) @cancelled
         ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2024-12-06 12:27 PM) @cancelled
         ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2024-12-24 12:08 PM) @cancelled @cancelled
         ✘ Java https://learn.microsoft.com/java/api/overview/azure/containerservice (2024-12-24 12:11 PM) @cancelled @cancelled
@@ -657,4 +657,24 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ✔ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-13 12:32 PM) @done(25-01-13 22:31)
         ✔ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-13 12:08 PM) @done(25-01-13 22:31)
         ✔ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-13 12:05 PM) @done(25-01-13 22:31)
+
+
+---
+
+        ☐ Supported Kubernetes versions https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions (2025-01-14 06:00 PM)
+        ☐ Long-term support https://learn.microsoft.com/en-us/azure/aks/long-term-support (2025-01-13 11:00 PM)
+                ☐ Create node pools https://learn.microsoft.com/en-us/azure/aks/create-node-pools (2025-01-13 11:00 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/aks/mongodb-overview (2025-01-13 11:00 PM)
+                    ☐ Create MongoDB infrastructure https://learn.microsoft.com/en-us/azure/aks/create-mongodb-infrastructure (2025-01-13 11:00 PM)
+                    ☐ Deploy MongoDB cluster https://learn.microsoft.com/en-us/azure/aks/deploy-mongodb-cluster (2025-01-13 11:00 PM)
+                    ☐ Deploy Mongo Express client application https://learn.microsoft.com/en-us/azure/aks/validate-mongodb-cluster (2025-01-13 11:00 PM)
+                    ☐ Test resiliency https://learn.microsoft.com/en-us/azure/aks/resiliency-mongodb-cluster (2025-01-13 11:00 PM)
+                    ☐ Validate resiliency during node pool upgrade https://learn.microsoft.com/en-us/azure/aks/upgrade-mongodb-cluster (2025-01-13 11:00 PM)
+                    ☐ Monitor with Percona Monitoring and Management https://learn.microsoft.com/en-us/azure/aks/monitor-aks-mongodb (2025-01-13 11:00 PM)
+                        ☐ 3 - Apply extra configurations or perform troubleshooting https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-configuration-options (2025-01-13 11:00 PM)
+                ☐ Use kubenet https://learn.microsoft.com/en-us/azure/aks/configure-kubenet (2025-01-13 11:00 PM)
+                ☐ Configure Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-meshconfig (2025-01-14 06:00 PM)
+        ☐ PowerShell https://learn.microsoft.com/powershell/module/az.aks/#aks (2025-01-14 05:13 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-14 12:08 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-14 12:10 PM)
 

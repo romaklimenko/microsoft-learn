@@ -170,7 +170,7 @@ Azure HDInsight | Microsoft Learn:
                 ✘ Understand and resolve WebHCat errors https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-templeton-webhcat-debug-errors (2024-08-02 11:27 AM) @cancelled
         Reference:
             ☐ Azure CLI https://learn.microsoft.com/cli/azure/hdinsight (2024-10-08 10:05 PM)
-            ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.hdinsight (2024-11-19 05:50 PM)
+            ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.hdinsight (2024-11-19 05:50 PM) @cancelled
             ✘ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2024-12-30 12:31 PM) @cancelled
             ✘ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2024-12-30 12:07 PM) @cancelled
             ☐ SDK for Java https://learn.microsoft.com/java/api/overview/azure/hdinsight (2024-12-30 12:09 PM)
@@ -182,7 +182,7 @@ Azure HDInsight | Microsoft Learn:
             ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/hdinsight/policy-reference (2024-08-02 11:27 AM)
         Resources:
             Releases:
-                ☐ Release notes https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes (2024-12-20 12:09 PM)
+                ✘ Release notes https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes (2024-12-20 12:09 PM) @cancelled
                 ☐ HDInsight retirements and action required https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-component-retirements-and-action-required (2024-09-30 11:14 AM)
                 ✘ Archived release notes for Azure HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes-archive (2024-12-23 06:06 PM) @cancelled
             ☐ Frequently asked questions (FAQ) https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-faq (2024-11-08 12:15 PM)
@@ -530,7 +530,7 @@ Azure HDInsight | Microsoft Learn:
             ☐ Manage HDInsight clusters - PowerShell https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-administer-use-powershell (2024-12-30 06:35 PM)
                 ☐ Multiple HDInsight clusters with Data Lake Storage https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-multiple-clusters-data-lake-store (2024-12-30 06:35 PM)
                     ☐ Connect with SSH https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-use-sqoop-mac-linux (2024-12-30 06:35 PM)
-                ☐ Archived release notes for Azure HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes-archive (2024-12-30 06:35 PM)
+                ✘ Archived release notes for Azure HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes-archive (2024-12-30 06:35 PM) @cancelled
             ☐ Analyze data using BI tools https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-use-bi-tools (2024-12-30 06:35 PM)
                 ☐ Optimize Apache Spark jobs https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-perf (2024-12-30 06:35 PM)
             ☐ Use Apache Spark structured streaming https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-apache-kafka-spark-structured-streaming (2024-12-30 06:35 PM)
@@ -589,5 +589,12 @@ Azure HDInsight | Microsoft Learn:
 ---
 
             ☐ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2025-01-13 12:32 PM)
-            ☐ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-13 12:08 PM)
+            ✘ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-13 12:08 PM) @cancelled
+
+
+---
+
+            ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.hdinsight (2025-01-14 05:13 PM) @done(25-01-14 22:56)
+            ✔ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-14 12:08 PM) @done(25-01-14 22:56)
+                ✔ Release notes https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes (2025-01-14 05:33 AM) @done(25-01-14 22:56)
 

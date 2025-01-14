@@ -306,7 +306,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 ✘ POP locations by abbreviation https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-abbreviation (2024-11-19 06:02 PM) @cancelled
             Standard/Premium:
                 ☐ Azure CLI https://learn.microsoft.com/cli/azure/afd (2024-04-30 09:07 AM)
-                ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn (2024-11-19 05:50 PM)
+                ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn (2024-11-19 05:50 PM) @cancelled
                 ☐ Bicep and Resource Manager Templates https://learn.microsoft.com/en-us/azure/frontdoor/front-door-quickstart-template-samples?pivots=front-door-standard-premium (2024-11-19 06:02 PM)
                 ☐ Terraform https://learn.microsoft.com/en-us/azure/frontdoor/terraform-samples?pivots=front-door-standard-premium (2024-08-02 05:06 PM)
                 ☐ REST API https://learn.microsoft.com/rest/api/frontdoor (2024-08-06 10:08 PM)
@@ -315,7 +315,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/cdn (2024-09-27 11:07 AM)
             Classic:
                 ☐ Azure CLI https://learn.microsoft.com/cli/azure/afd/ (2024-04-30 09:07 AM)
-                ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.frontdoor (2024-11-19 05:50 PM)
+                ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.frontdoor (2024-11-19 05:50 PM) @cancelled
                 ☐ Bicep and Resource Manager Templates https://learn.microsoft.com/en-us/azure/frontdoor/front-door-quickstart-template-samples?pivots=front-door-classic (2024-11-19 06:02 PM)
                 ☐ Terraform https://learn.microsoft.com/en-us/azure/frontdoor/terraform-samples?pivots=front-door-classic (2024-08-02 05:06 PM)
                 ☐ REST API https://learn.microsoft.com/rest/api/frontdoor/#front-door-classic (2024-08-06 10:08 PM)
@@ -340,7 +340,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 Edgio-specific HTTP headers https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-http-headers?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM):
                     ✘ X-EC-Debug headers https://learn.microsoft.com/en-us/azure/cdn/cdn-http-debug-headers?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM) @cancelled
             ☐ Azure CLI https://learn.microsoft.com/cli/azure/cdn (2024-08-06 06:38 AM)
-            ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn/ (2024-11-19 05:50 PM)
+            ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn/ (2024-11-19 05:50 PM) @cancelled
             ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.cdn (2018-06-16 12:36 AM)
             ☐ Java https://learn.microsoft.com/java/api/com.microsoft.azure.management.cdn (2024-06-12 11:12 AM)
             ☐ REST https://learn.microsoft.com/rest/api/cdn/ (2023-10-31 09:45 PM)
@@ -517,5 +517,13 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
 
 ---
 
-            ☐ Edgio retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2025-01-10 06:17 PM)
+            ✘ Edgio retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2025-01-10 06:17 PM) @cancelled
+
+
+---
+
+            ✔ Edgio retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2025-01-14 06:29 PM) @done(25-01-14 22:56)
+                ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn (2025-01-14 05:13 PM) @done(25-01-14 22:56)
+                ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.frontdoor (2025-01-14 05:13 PM) @done(25-01-14 22:56)
+            ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn/ (2025-01-14 05:13 PM) @done(25-01-14 22:56)
 

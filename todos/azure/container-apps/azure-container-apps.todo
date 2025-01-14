@@ -27,9 +27,9 @@ Azure Container Apps documentation | Microsoft Learn:
         ☐ Application lifecycle management https://learn.microsoft.com/en-us/azure/container-apps/application-lifecycle-management (2024-08-04 11:36 AM)
         ☐ Jobs https://learn.microsoft.com/en-us/azure/container-apps/jobs (2024-12-19 06:04 PM)
         Dynamic sessions:
-            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/sessions (2024-11-21 11:02 PM)
-            ☐ Code interpreter sessions https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter (2024-11-21 11:02 PM)
-            ☐ Custom container sessions https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container (2024-11-21 11:02 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/container-apps/sessions (2024-11-21 11:02 PM) @cancelled
+            ✘ Code interpreter sessions https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter (2024-11-21 11:02 PM) @cancelled
+            ✘ Custom container sessions https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container (2024-11-21 11:02 PM) @cancelled
         ☐ Microservices https://learn.microsoft.com/en-us/azure/container-apps/microservices (2024-08-05 10:12 PM)
         ☐ Planned maintenance https://learn.microsoft.com/en-us/azure/container-apps/planned-maintenance (2024-12-06 11:03 PM)
         ☐ Build and deliver apps with Container Apps (video) https://youtu.be/OxmVds31qL8
@@ -60,10 +60,10 @@ Azure Container Apps documentation | Microsoft Learn:
             ☐ Create an Azure Files storage mount https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts-azure-files (2024-08-04 11:36 AM)
         Use dynamic sessions:
             Code interpreter sessions:
-                ☐ AutoGen https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-autogen (2024-11-21 11:02 PM)
-                ☐ LangChain https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain (2024-11-21 11:02 PM)
+                ✘ AutoGen https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-autogen (2024-11-21 11:02 PM) @cancelled
+                ✘ LangChain https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-langchain (2024-11-21 11:02 PM) @cancelled
                 ✘ LlamaIndex https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex (2024-11-21 11:02 PM) @cancelled
-                ☐ Semantic Kernel https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel (2024-11-21 11:02 PM)
+                ✘ Semantic Kernel https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel (2024-11-21 11:02 PM) @cancelled
                 ✘ JavaScript Code Interpreter (preview) https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs (2024-11-19 06:02 PM) @cancelled
         Event-driven processing:
             ☐ With a job https://learn.microsoft.com/en-us/azure/container-apps/tutorial-event-driven-jobs (2024-12-10 11:02 PM)
@@ -170,16 +170,16 @@ Azure Container Apps documentation | Microsoft Learn:
             ☐ Automatic memory fitting (preview) https://learn.microsoft.com/en-us/azure/container-apps/java-memory-fit (2024-09-26 05:05 PM)
             ☐ Build environment variables (preview) https://learn.microsoft.com/en-us/azure/container-apps/java-build-environment-variables (2024-09-26 05:05 PM)
             ✘ Metrics https://learn.microsoft.com/en-us/azure/container-apps/java-metrics (2024-09-16 05:37 PM) @cancelled
-            ☐ Connect to Eureka Server for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server (2024-12-11 11:02 PM)
-            ☐ Connect to Admin for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-admin (2024-11-19 06:02 PM)
-            ☐ Connect to Config Server for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-config-server (2024-11-19 06:02 PM)
-            ☐ Connect to Gateway for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-gateway-for-spring (2024-12-11 11:02 PM)
+            ✘ Connect to Eureka Server for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server (2024-12-11 11:02 PM) @cancelled
+            ✘ Connect to Admin for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-admin (2024-11-19 06:02 PM) @cancelled
+            ✘ Connect to Config Server for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-config-server (2024-11-19 06:02 PM) @cancelled
+            ✘ Connect to Gateway for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-gateway-for-spring (2024-12-11 11:02 PM) @cancelled
             ☐ Set dynamic logger level https://learn.microsoft.com/en-us/azure/container-apps/java-dynamic-log-level (2024-12-09 11:06 PM)
             Tutorials:
-                ☐ Integrate Eureka Server with Admin for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-admin-eureka-integration (2024-11-19 06:02 PM)
+                ✘ Integrate Eureka Server with Admin for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-admin-eureka-integration (2024-11-19 06:02 PM) @cancelled
                 ☐ Query managed component logs https://learn.microsoft.com/en-us/azure/container-apps/java-component-logs (2024-08-04 11:36 AM)
                 ☐ Configure Application Performance Management (APM) Java agent with init-container https://learn.microsoft.com/en-us/azure/container-apps/java-application-performance-management-config (2024-11-25 11:02 PM)
-                ☐ Create a highly available Eureka server component cluster https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server-highly-available (2024-11-19 06:02 PM)
+                ✘ Create a highly available Eureka server component cluster https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server-highly-available (2024-11-19 06:02 PM) @cancelled
     Billing & quotas:
         ☐ Billing https://learn.microsoft.com/en-us/azure/container-apps/billing (2024-11-21 11:02 PM)
         ☐ Quotas https://learn.microsoft.com/en-us/azure/container-apps/quotas (2024-08-04 11:36 AM)
@@ -188,7 +188,7 @@ Azure Container Apps documentation | Microsoft Learn:
     API docs & reference:
         ☐ ARM & YAML specifications https://learn.microsoft.com/en-us/azure/container-apps/azure-resource-manager-api-spec (2024-12-05 05:33 AM)
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/containerapp?view=azure-cli-latest&preserve-view=true (2024-11-14 11:02 PM)
-        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.app/#container-apps (2024-11-19 05:50 PM)
+        ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.app/#container-apps (2024-11-19 05:50 PM) @cancelled
         ☐ Azure policy definitions https://learn.microsoft.com/en-us/azure/container-apps/policy-reference (2024-11-25 12:08 AM)
         ☐ REST API https://learn.microsoft.com/rest/api/containerapps/ (2024-11-18 08:31 PM)
         ☐ Supported regions https://azure.microsoft.com/explore/global-infrastructure/products-by-region/?products=container-apps
@@ -208,22 +208,22 @@ Azure Container Apps documentation | Microsoft Learn:
         ☐ Azure security baseline for Azure Container Apps https://learn.microsoft.com/security/benchmark/azure/baselines/azure-container-apps-security-baseline (2024-08-05 07:13 PM)
     Samples & FAQs:
         ☐ Samples https://learn.microsoft.com/en-us/azure/container-apps/samples (2024-12-04 06:02 PM)
-        ☐ Frequently asked questions https://learn.microsoft.com/en-us/azure/container-apps/faq (2024-12-13 11:03 PM)
+        ✘ Frequently asked questions https://learn.microsoft.com/en-us/azure/container-apps/faq (2024-12-13 11:03 PM) @cancelled
 
 
 ---
 
-                ☐ JavaScript Code Interpreter (preview) https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs (2025-01-02 11:04 PM)
+                ✘ JavaScript Code Interpreter (preview) https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs (2025-01-02 11:04 PM) @cancelled
         ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/scale-app (2025-01-06 11:02 PM)
 
 
 ---
 
-                ☐ LlamaIndex https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex (2025-01-08 11:02 PM)
+                ✘ LlamaIndex https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex (2025-01-08 11:02 PM) @cancelled
         ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/authentication (2025-01-08 11:02 PM)
         ☐ Serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview (2025-01-09 05:32 AM)
             ☐ Generate images with serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation (2025-01-09 05:32 AM)
-            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview (2025-01-09 06:03 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview (2025-01-09 06:03 PM) @cancelled
         ☐ Architecture overview https://learn.microsoft.com/en-us/azure/container-apps/networking (2025-01-08 11:02 PM)
             ☐ Securing a custom VNET with an NSG https://learn.microsoft.com/en-us/azure/container-apps/firewall-integration (2025-01-09 12:11 PM)
             ☐ Metrics https://learn.microsoft.com/en-us/azure/container-apps/java-metrics (2025-01-09 05:32 AM)
@@ -239,4 +239,17 @@ Azure Container Apps documentation | Microsoft Learn:
             ☐ Google https://learn.microsoft.com/en-us/azure/container-apps/authentication-google (2024-11-19 11:02 PM)
             ☐ X https://learn.microsoft.com/en-us/azure/container-apps/authentication-twitter (2024-11-19 11:02 PM)
             ☐ Custom OpenID Connect https://learn.microsoft.com/en-us/azure/container-apps/authentication-openid (2024-10-16 05:09 PM)
+
+
+---
+
+            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/sessions (2025-01-14 06:29 PM)
+                ☐ JavaScript Code Interpreter (preview) https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs (2025-01-14 06:29 PM)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview (2025-01-13 11:06 PM)
+            ☐ Connect to Eureka Server for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-eureka-server (2025-01-14 06:29 PM)
+            ☐ Connect to Admin for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-admin (2025-01-14 06:29 PM)
+            ☐ Connect to Config Server for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-config-server (2025-01-14 06:29 PM)
+            ☐ Connect to Gateway for Spring https://learn.microsoft.com/en-us/azure/container-apps/java-gateway-for-spring (2025-01-14 06:29 PM)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.app/#container-apps (2025-01-14 05:13 PM)
+        ☐ Frequently asked questions https://learn.microsoft.com/en-us/azure/container-apps/faq (2025-01-13 11:06 PM)
 
