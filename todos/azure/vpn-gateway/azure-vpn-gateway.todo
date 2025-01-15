@@ -179,7 +179,7 @@ VPN Gateway documentation | Microsoft Learn:
             ☐ Configure and validate VNet or VPN connections https://support.microsoft.com/help/4032151/configuring-and-validating-vnet-or-vpn-connections (2024-12-04 05:32 AM)
             ☐ Community-suggested VPN or firewall device settings https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-third-party-settings (2024-08-02 11:27 AM)
     Reference:
-        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network#vpn (2024-11-19 05:50 PM)
+        ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network#vpn (2024-11-19 05:50 PM) @cancelled
         ☐ REST https://learn.microsoft.com/rest/api/network/virtualnetworkgateways (2024-12-03 11:02 PM)
         ☐ REST (classic) https://learn.microsoft.com/previous-versions/azure/reference/jj154113(v=azure.100) (2021-10-21 07:54 AM)
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/vnet-gateway (2024-11-11 10:58 PM)
@@ -223,4 +223,9 @@ VPN Gateway documentation | Microsoft Learn:
 
         ☐ Migrate classic gateways to Resource Manager https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-classic-resource-manager-migration (2025-01-02 11:04 PM)
             ☐ Configure site-to-site connections - certificate https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-certificate-authentication-gateway-portal (2025-01-02 11:04 PM)
+
+
+---
+
+        ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network#vpn (2025-01-14 05:13 PM) @done(25-01-15 18:55)
 

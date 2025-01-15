@@ -67,7 +67,7 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
         ☐ Direct Lake mode and PBI reporting https://learn.microsoft.com/en-us/fabric/get-started/lakehouse-power-bi-reporting (2024-08-01 11:06 AM)
     ✘ Promote or certify items https://learn.microsoft.com/en-us/fabric/get-started/endorsement-promote-certify (2024-07-11 11:07 AM) @cancelled
     ☐ Share items https://learn.microsoft.com/en-us/fabric/get-started/share-items (2024-11-20 11:00 PM)
-    ☐ Apply sensitivity labels https://learn.microsoft.com/en-us/fabric/get-started/apply-sensitivity-labels (2024-01-22 06:02 PM)
+    ✘ Apply sensitivity labels https://learn.microsoft.com/en-us/fabric/get-started/apply-sensitivity-labels (2024-01-22 06:02 PM) @cancelled
     ☐ Delta Lake interoperability https://learn.microsoft.com/en-us/fabric/get-started/delta-lake-interoperability (2024-11-20 11:00 PM)
     ☐ Learn about Microsoft Fabric feedback https://learn.microsoft.com/en-us/fabric/get-started/feedback (2024-04-30 11:06 AM)
     Fabric adoption roadmap:
@@ -332,12 +332,12 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
         ☐ What's New https://learn.microsoft.com/en-us/fabric/get-started/whats-new (2025-01-09 12:06 PM)
             ☐ What is workspace monitoring? https://learn.microsoft.com/en-us/fabric/get-started/workspace-monitoring-overview (2025-01-09 12:06 PM)
         ☐ Direct Lake overview https://learn.microsoft.com/en-us/fabric/get-started/direct-lake-overview (2025-01-07 11:01 PM)
-        ☐ Active known issues for Fabric + Power BI - chart https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues (2025-01-07 11:01 PM)
+        ✘ Active known issues for Fabric + Power BI - chart https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues (2025-01-07 11:01 PM) @cancelled
         ☐ Direct Lake query cancellation might cancel other queries https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-986-direct-lake-query-cancellation-cancel-queries (2025-01-07 11:01 PM)
         ☐ Direct Lake query cancellation causes model to fall back to DirectQuery https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-985-direct-lake-query-cancellation-fall-back-directquery (2025-01-07 11:01 PM)
-        ☐ Closing a Dataflow Gen1 takes you to the wrong workspace https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-546-closing-dataflow-gen1-takes-wrong-workspace (2025-01-07 11:01 PM)
-        ☐ New card visual formatting appears or disappears in Service https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-535-new-card-visual-formatting-appears-disappears (2025-01-07 11:01 PM)
-        ☐ Sign in fails for securely embedded reports using Chrome or Microsoft Edge browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-532-sign-in-fails-securely-embedded-reports-using-chrome-browser (2025-01-07 11:01 PM)
+        ✘ Closing a Dataflow Gen1 takes you to the wrong workspace https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-546-closing-dataflow-gen1-takes-wrong-workspace (2025-01-07 11:01 PM) @cancelled
+        ✘ New card visual formatting appears or disappears in Service https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-535-new-card-visual-formatting-appears-disappears (2025-01-07 11:01 PM) @cancelled
+        ✘ Sign in fails for securely embedded reports using Chrome or Microsoft Edge browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-532-sign-in-fails-securely-embedded-reports-using-chrome-browser (2025-01-07 11:01 PM) @cancelled
         ☐ What's new? archive https://learn.microsoft.com/en-us/fabric/get-started/whats-new-archive (2024-12-31 12:11 PM)
 
 
@@ -347,4 +347,19 @@ Get started documentation - Microsoft Fabric | Microsoft Learn:
         ✔ Set up a task flow https://learn.microsoft.com/en-us/fabric/get-started/task-flow-create (2025-01-10 12:05 PM) @done(25-01-12 22:20)
         ✔ Work with task flows https://learn.microsoft.com/en-us/fabric/get-started/task-flow-work-with (2025-01-10 12:05 PM) @done(25-01-12 22:21)
             ✔ Copilot for Data Science and Data Engineering https://learn.microsoft.com/en-us/fabric/data-engineering/copilot-notebooks-overview?toc=/fabric/get-started/toc.json&bc=/fabric/get-started/toc.json (2025-01-10 06:21 PM) @done(25-01-12 22:21)
+
+
+---
+
+    ✔ Apply sensitivity labels https://learn.microsoft.com/en-us/fabric/get-started/apply-sensitivity-labels @done(25-01-15 17:26)
+        ✔ Active known issues for Fabric + Power BI - chart https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues (2025-01-14 06:01 PM) @done(25-01-15 17:26)
+        ✔ Apache Airflow job creation shows Fabric upgrade message https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-991-apache-airflow-job-creation-upgrade-message (2025-01-14 06:01 PM) @done(25-01-15 17:26)
+        ✔ Local data access isn't allowed for pipeline using on-premises data gateway https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-989-local-data-not-allowed-pipeline-on-premises-data-gateway (2025-01-14 06:01 PM) @done(25-01-15 17:26)
+        ✔ Data activator events aren’t ingested for Reflex events https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-988-data-activator-events-not-ingested-reflex-events (2025-01-14 06:01 PM) @done(25-01-15 18:41)
+        ✔ New tile for Dataflow Gen2 (CI/CD, preview) isn't yet supported https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-933-new-tile-dataflow-gen2-preview-not-supported (2025-01-14 06:01 PM) @done(25-01-15 18:41)
+        ✔ More options menu on a visual doesn't open in unsaved reports https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-918-more-options-not-open-unsaved-reports (2025-01-14 06:01 PM) @done(25-01-15 18:41)
+        ✔ Dataflow Gen2 refresh fails due to missing SQL analytics endpoint https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-809-dataflow-gen2-refresh-fails-missing-endpoint (2025-01-14 06:01 PM) @done(25-01-15 18:41)
+        ✔ Closing a Dataflow Gen1 takes you to the wrong workspace https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-546-closing-dataflow-gen1-takes-wrong-workspace (2025-01-14 06:01 PM) @done(25-01-15 18:41)
+        ✔ New card visual formatting appears or disappears in Service https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-535-new-card-visual-formatting-appears-disappears (2025-01-14 06:01 PM) @done(25-01-15 18:41)
+        ✔ Sign in fails for securely embedded reports using Chrome or Microsoft Edge browser https://learn.microsoft.com/en-us/fabric/get-started/known-issues/known-issue-532-sign-in-fails-securely-embedded-reports-using-chrome-browser (2025-01-14 06:01 PM) @done(25-01-15 18:41)
 

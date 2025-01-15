@@ -1,12 +1,12 @@
 Web Application Firewall documentation | Microsoft Learn:
     ☐ Azure Web Application Firewall documentation https://learn.microsoft.com/en-us/azure/web-application-firewall/ (2024-12-10 11:02 PM)
     Overview:
-        ☐ What is Azure Web Application Firewall? https://learn.microsoft.com/en-us/azure/web-application-firewall/overview (2024-12-20 12:09 PM)
+        ✘ What is Azure Web Application Firewall? https://learn.microsoft.com/en-us/azure/web-application-firewall/overview (2024-12-20 12:09 PM) @cancelled
         Application Gateway:
             ☐ Web Application Firewall on Application Gateway https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview (2024-12-10 11:02 PM)
             ☐ What's new https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview#whats-new (2024-12-10 11:02 PM)
         Front Door:
-            ☐ Web Application Firewall on Azure Front Door https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview (2024-09-30 10:04 PM)
+            ✘ Web Application Firewall on Azure Front Door https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview (2024-09-30 10:04 PM) @cancelled
         Content Delivery Network:
             ☐ Web Application Firewall on Azure CDN https://learn.microsoft.com/en-us/azure/web-application-firewall/cdn/cdn-overview (2024-08-02 11:27 AM)
     Quickstarts:
@@ -23,9 +23,9 @@ Web Application Firewall documentation | Microsoft Learn:
             ✘ Managed rules https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules (2024-10-30 07:28 PM) @cancelled
             ☐ Custom rules overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/custom-waf-rules-overview (2024-12-11 11:02 PM)
             ☐ Geomatch custom rules https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/geomatch-custom-rules (2024-11-19 11:02 PM)
-            ☐ Exclusion lists https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-configuration (2024-08-02 11:27 AM)
+            ✘ Exclusion lists https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-configuration (2024-08-02 11:27 AM) @cancelled
             ☐ Request size limits https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-request-size-limits (2024-08-02 11:27 AM)
-            ☐ WAF Policy overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/policy-overview (2024-09-06 10:05 PM)
+            ✘ WAF Policy overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/policy-overview (2024-09-06 10:05 PM) @cancelled
             ☐ Bot protection overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/bot-protection-overview (2024-10-30 07:28 PM)
             ✘ WAF engine https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-engine (2024-08-02 11:27 AM) @cancelled
             ☐ Sensitive Data Protection https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-sensitive-data-protection (2024-08-02 11:27 AM)
@@ -102,8 +102,8 @@ Web Application Firewall documentation | Microsoft Learn:
             ☐ Application Gateway https://learn.microsoft.com/cli/azure/network/application-gateway (2024-11-11 10:58 PM)
             ☐ CDN https://learn.microsoft.com/azure/web-application-firewall/afds/waf-front-door-create-portal (2024-08-02 11:27 AM)
         Azure PowerShell:
-            ☐ Front Door https://learn.microsoft.com/powershell/module/az.frontdoor/ (2024-11-19 05:50 PM)
-            ☐ Application Gateway https://learn.microsoft.com/powershell/module/az.network/#application_gateway (2024-11-19 05:50 PM)
+            ✘ Front Door https://learn.microsoft.com/powershell/module/az.frontdoor/ (2024-11-19 05:50 PM) @cancelled
+            ✘ Application Gateway https://learn.microsoft.com/powershell/module/az.network/#application_gateway (2024-11-19 05:50 PM) @cancelled
             ☐ CDN https://www.powershellgallery.com/packages/Az.Cdn/1.5.0-preview
         REST API:
             ☐ Front Door https://learn.microsoft.com/rest/api/frontdoorservice/webapplicationfirewall/policies (2024-05-02 05:14 PM)
@@ -135,4 +135,14 @@ Web Application Firewall documentation | Microsoft Learn:
 ---
 
         ☐ Protect Azure OpenAI using Azure Web Application Firewall https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-azure-open-ai (2025-01-08 06:02 PM)
+
+
+---
+
+        ☐ What is Azure Web Application Firewall? https://learn.microsoft.com/en-us/azure/web-application-firewall/overview (2025-01-14 06:29 PM)
+            ☐ Web Application Firewall on Azure Front Door https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview (2025-01-14 06:29 PM)
+            ☐ Exclusion lists https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-configuration (2025-01-13 11:06 PM)
+            ☐ WAF Policy overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/policy-overview (2025-01-14 06:29 PM)
+            ☐ Front Door https://learn.microsoft.com/powershell/module/az.frontdoor/ (2025-01-14 05:13 PM)
+            ☐ Application Gateway https://learn.microsoft.com/powershell/module/az.network/#application_gateway (2025-01-14 05:13 PM)
 

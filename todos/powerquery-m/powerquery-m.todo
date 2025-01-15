@@ -14,7 +14,7 @@ Power Query M formula language reference - PowerQuery M | Microsoft Learn:
             ☐ Error Handling https://learn.microsoft.com/en-us/powerquery-m/m-spec-error-handling (2024-12-17 11:01 PM)
             ☐ Sections https://learn.microsoft.com/en-us/powerquery-m/m-spec-sections (2024-12-17 11:01 PM)
             ☐ Consolidated Grammar https://learn.microsoft.com/en-us/powerquery-m/m-spec-consolidated-grammar (2024-12-17 11:01 PM)
-        ☐ Power Query M type system https://learn.microsoft.com/en-us/powerquery-m/power-query-m-type-system (2024-12-17 11:01 PM)
+        ✘ Power Query M type system https://learn.microsoft.com/en-us/powerquery-m/power-query-m-type-system (2024-12-17 11:01 PM) @cancelled
         ☐ Expressions, values, and let expression https://learn.microsoft.com/en-us/powerquery-m/expressions-values-and-let-expression (2024-12-17 11:01 PM)
         ☐ Comments https://learn.microsoft.com/en-us/powerquery-m/comments (2024-12-17 11:01 PM)
         ☐ Evaluation model https://learn.microsoft.com/en-us/powerquery-m/evaluation-model (2024-12-17 11:01 PM)
@@ -496,9 +496,9 @@ Power Query M formula language reference - PowerQuery M | Microsoft Learn:
                 ☐ RowExpression.Column https://learn.microsoft.com/en-us/powerquery-m/rowexpression-column (2024-12-17 11:01 PM)
                 ☐ RowExpression.From https://learn.microsoft.com/en-us/powerquery-m/rowexpression-from (2024-12-17 11:01 PM)
                 ☐ RowExpression.Row https://learn.microsoft.com/en-us/powerquery-m/rowexpression-row (2024-12-17 11:01 PM)
-                ☐ Table.AddColumn https://learn.microsoft.com/en-us/powerquery-m/table-addcolumn (2024-12-17 11:01 PM)
+                ✘ Table.AddColumn https://learn.microsoft.com/en-us/powerquery-m/table-addcolumn (2024-12-17 11:01 PM) @cancelled
                 ☐ Table.AddFuzzyClusterColumn https://learn.microsoft.com/en-us/powerquery-m/table-addfuzzyclustercolumn (2024-12-17 11:01 PM)
-                ☐ Table.AddIndexColumn https://learn.microsoft.com/en-us/powerquery-m/table-addindexcolumn (2024-12-17 11:01 PM)
+                ✘ Table.AddIndexColumn https://learn.microsoft.com/en-us/powerquery-m/table-addindexcolumn (2024-12-17 11:01 PM) @cancelled
                 ☐ Table.AddJoinColumn https://learn.microsoft.com/en-us/powerquery-m/table-addjoincolumn (2024-12-17 11:01 PM)
                 ☐ Table.AddKey https://learn.microsoft.com/en-us/powerquery-m/table-addkey (2024-12-17 11:01 PM)
                 ☐ Table.AddRankColumn https://learn.microsoft.com/en-us/powerquery-m/table-addrankcolumn (2024-12-17 11:01 PM)
@@ -509,17 +509,17 @@ Power Query M formula language reference - PowerQuery M | Microsoft Learn:
                 ☐ Table.Column https://learn.microsoft.com/en-us/powerquery-m/table-column (2024-12-17 11:01 PM)
                 ☐ Table.ColumnCount https://learn.microsoft.com/en-us/powerquery-m/table-columncount (2024-12-17 11:01 PM)
                 ☐ Table.ColumnNames https://learn.microsoft.com/en-us/powerquery-m/table-columnnames (2024-12-17 11:01 PM)
-                ☐ Table.ColumnsOfType https://learn.microsoft.com/en-us/powerquery-m/table-columnsoftype (2024-12-17 11:01 PM)
+                ✘ Table.ColumnsOfType https://learn.microsoft.com/en-us/powerquery-m/table-columnsoftype (2024-12-17 11:01 PM) @cancelled
                 ☐ Table.Combine https://learn.microsoft.com/en-us/powerquery-m/table-combine (2024-12-17 11:01 PM)
                 ☐ Table.CombineColumns https://learn.microsoft.com/en-us/powerquery-m/table-combinecolumns (2024-12-17 11:01 PM)
-                ☐ Table.CombineColumnsToRecord https://learn.microsoft.com/en-us/powerquery-m/table-combinecolumnstorecord (2024-12-17 11:01 PM)
+                ✘ Table.CombineColumnsToRecord https://learn.microsoft.com/en-us/powerquery-m/table-combinecolumnstorecord (2024-12-17 11:01 PM) @cancelled
                 ☐ Table.ConformToPageReader https://learn.microsoft.com/en-us/powerquery-m/table-conformtopagereader (2024-12-17 11:01 PM)
                 ☐ Table.Contains https://learn.microsoft.com/en-us/powerquery-m/table-contains (2024-12-17 11:01 PM)
                 ☐ Table.ContainsAll https://learn.microsoft.com/en-us/powerquery-m/table-containsall (2024-12-17 11:01 PM)
                 ☐ Table.ContainsAny https://learn.microsoft.com/en-us/powerquery-m/table-containsany (2024-12-17 11:01 PM)
                 ☐ Table.DemoteHeaders https://learn.microsoft.com/en-us/powerquery-m/table-demoteheaders (2024-12-17 11:01 PM)
                 ☐ Table.Distinct https://learn.microsoft.com/en-us/powerquery-m/table-distinct (2024-12-17 11:01 PM)
-                ☐ Table.DuplicateColumn https://learn.microsoft.com/en-us/powerquery-m/table-duplicatecolumn (2024-12-17 11:01 PM)
+                ✘ Table.DuplicateColumn https://learn.microsoft.com/en-us/powerquery-m/table-duplicatecolumn (2024-12-17 11:01 PM) @cancelled
                 ☐ Table.ExpandListColumn https://learn.microsoft.com/en-us/powerquery-m/table-expandlistcolumn (2024-12-17 11:01 PM)
                 ☐ Table.ExpandRecordColumn https://learn.microsoft.com/en-us/powerquery-m/table-expandrecordcolumn (2024-12-17 11:01 PM)
                 ☐ Table.ExpandTableColumn https://learn.microsoft.com/en-us/powerquery-m/table-expandtablecolumn (2024-12-17 11:01 PM)
@@ -532,7 +532,7 @@ Power Query M formula language reference - PowerQuery M | Microsoft Learn:
                 ☐ Table.FirstValue https://learn.microsoft.com/en-us/powerquery-m/table-firstvalue (2024-12-17 11:01 PM)
                 ☐ Table.FromColumns https://learn.microsoft.com/en-us/powerquery-m/table-fromcolumns (2024-12-17 11:01 PM)
                 ☐ Table.FromList https://learn.microsoft.com/en-us/powerquery-m/table-fromlist (2024-12-17 11:01 PM)
-                ☐ Table.FromPartitions https://learn.microsoft.com/en-us/powerquery-m/table-frompartitions (2024-12-17 11:01 PM)
+                ✘ Table.FromPartitions https://learn.microsoft.com/en-us/powerquery-m/table-frompartitions (2024-12-17 11:01 PM) @cancelled
                 ☐ Table.FromRecords https://learn.microsoft.com/en-us/powerquery-m/table-fromrecords (2024-12-17 11:01 PM)
                 ☐ Table.FromRows https://learn.microsoft.com/en-us/powerquery-m/table-fromrows (2024-12-17 11:01 PM)
                 ☐ Table.FromValue https://learn.microsoft.com/en-us/powerquery-m/table-fromvalue (2024-12-17 11:01 PM)
@@ -540,7 +540,7 @@ Power Query M formula language reference - PowerQuery M | Microsoft Learn:
                 ☐ Table.FuzzyJoin https://learn.microsoft.com/en-us/powerquery-m/table-fuzzyjoin (2024-12-17 11:01 PM)
                 ☐ Table.FuzzyNestedJoin https://learn.microsoft.com/en-us/powerquery-m/table-fuzzynestedjoin (2024-12-17 11:01 PM)
                 ☐ Table.Group https://learn.microsoft.com/en-us/powerquery-m/table-group (2024-12-17 11:01 PM)
-                ☐ Table.HasColumns https://learn.microsoft.com/en-us/powerquery-m/table-hascolumns (2024-12-17 11:01 PM)
+                ✘ Table.HasColumns https://learn.microsoft.com/en-us/powerquery-m/table-hascolumns (2024-12-17 11:01 PM) @cancelled
                 ☐ Table.InsertRows https://learn.microsoft.com/en-us/powerquery-m/table-insertrows (2024-12-17 11:01 PM)
                 ☐ Table.IsDistinct https://learn.microsoft.com/en-us/powerquery-m/table-isdistinct (2024-12-17 11:01 PM)
                 ☐ Table.IsEmpty https://learn.microsoft.com/en-us/powerquery-m/table-isempty (2024-12-17 11:01 PM)
@@ -598,7 +598,7 @@ Power Query M formula language reference - PowerQuery M | Microsoft Learn:
                 ☐ Table.ToRows https://learn.microsoft.com/en-us/powerquery-m/table-torows (2024-12-17 11:01 PM)
                 ☐ Table.TransformColumnNames https://learn.microsoft.com/en-us/powerquery-m/table-transformcolumnnames (2024-12-17 11:01 PM)
                 ☐ Table.TransformColumns https://learn.microsoft.com/en-us/powerquery-m/table-transformcolumns (2024-12-17 11:01 PM)
-                ☐ Table.TransformColumnTypes https://learn.microsoft.com/en-us/powerquery-m/table-transformcolumntypes (2024-12-17 11:01 PM)
+                ✘ Table.TransformColumnTypes https://learn.microsoft.com/en-us/powerquery-m/table-transformcolumntypes (2024-12-17 11:01 PM) @cancelled
                 ☐ Table.TransformRows https://learn.microsoft.com/en-us/powerquery-m/table-transformrows (2024-12-17 11:01 PM)
                 ☐ Table.Transpose https://learn.microsoft.com/en-us/powerquery-m/table-transpose (2024-12-17 11:01 PM)
                 ☐ Table.Unpivot https://learn.microsoft.com/en-us/powerquery-m/table-unpivot (2024-12-17 11:01 PM)
@@ -608,7 +608,7 @@ Power Query M formula language reference - PowerQuery M | Microsoft Learn:
                 ☐ Table.ViewFunction https://learn.microsoft.com/en-us/powerquery-m/table-viewfunction (2024-12-17 11:01 PM)
                 ☐ Table.WithErrorContext https://learn.microsoft.com/en-us/powerquery-m/table-witherrorcontext (2024-12-17 11:01 PM)
                 ☐ Tables.GetRelationships https://learn.microsoft.com/en-us/powerquery-m/tables-getrelationships (2024-12-17 11:01 PM)
-                ☐ #table https://learn.microsoft.com/en-us/powerquery-m/sharptable (2024-12-17 11:01 PM)
+                ✘ #table https://learn.microsoft.com/en-us/powerquery-m/sharptable (2024-12-17 11:01 PM) @cancelled
             Text functions:
                 ☐ Text functions overview https://learn.microsoft.com/en-us/powerquery-m/text-functions (2024-10-17 10:02 PM)
                 ☐ Character.FromNumber https://learn.microsoft.com/en-us/powerquery-m/character-fromnumber (2024-12-17 11:01 PM)
@@ -671,26 +671,26 @@ Power Query M formula language reference - PowerQuery M | Microsoft Learn:
             Type functions:
                 ✘ Type functions overview https://learn.microsoft.com/en-us/powerquery-m/type-functions (2023-08-30 04:09 PM) @cancelled
                 ☐ Type.AddTableKey https://learn.microsoft.com/en-us/powerquery-m/type-addtablekey (2024-12-17 11:01 PM)
-                ☐ Type.ClosedRecord https://learn.microsoft.com/en-us/powerquery-m/type-closedrecord (2024-12-17 11:01 PM)
+                ✘ Type.ClosedRecord https://learn.microsoft.com/en-us/powerquery-m/type-closedrecord (2024-12-17 11:01 PM) @cancelled
                 ☐ Type.Facets https://learn.microsoft.com/en-us/powerquery-m/type-facets (2024-12-17 11:01 PM)
                 ☐ Type.ForFunction https://learn.microsoft.com/en-us/powerquery-m/type-forfunction (2024-12-17 11:01 PM)
                 ☐ Type.ForRecord https://learn.microsoft.com/en-us/powerquery-m/type-forrecord (2024-12-17 11:01 PM)
                 ☐ Type.FunctionParameters https://learn.microsoft.com/en-us/powerquery-m/type-functionparameters (2024-12-17 11:01 PM)
                 ☐ Type.FunctionRequiredParameters https://learn.microsoft.com/en-us/powerquery-m/type-functionrequiredparameters (2024-12-17 11:01 PM)
                 ☐ Type.FunctionReturn https://learn.microsoft.com/en-us/powerquery-m/type-functionreturn (2024-12-17 11:01 PM)
-                ☐ Type.Is https://learn.microsoft.com/en-us/powerquery-m/type-is (2024-12-17 11:01 PM)
-                ☐ Type.IsNullable https://learn.microsoft.com/en-us/powerquery-m/type-isnullable (2024-12-17 11:01 PM)
-                ☐ Type.IsOpenRecord https://learn.microsoft.com/en-us/powerquery-m/type-isopenrecord (2024-12-17 11:01 PM)
-                ☐ Type.ListItem https://learn.microsoft.com/en-us/powerquery-m/type-listitem (2024-12-17 11:01 PM)
-                ☐ Type.NonNullable https://learn.microsoft.com/en-us/powerquery-m/type-nonnullable (2024-12-17 11:01 PM)
-                ☐ Type.OpenRecord https://learn.microsoft.com/en-us/powerquery-m/type-openrecord (2024-12-17 11:01 PM)
-                ☐ Type.RecordFields https://learn.microsoft.com/en-us/powerquery-m/type-recordfields (2024-12-17 11:01 PM)
+                ✘ Type.Is https://learn.microsoft.com/en-us/powerquery-m/type-is (2024-12-17 11:01 PM) @cancelled
+                ✘ Type.IsNullable https://learn.microsoft.com/en-us/powerquery-m/type-isnullable (2024-12-17 11:01 PM) @cancelled
+                ✘ Type.IsOpenRecord https://learn.microsoft.com/en-us/powerquery-m/type-isopenrecord (2024-12-17 11:01 PM) @cancelled
+                ✘ Type.ListItem https://learn.microsoft.com/en-us/powerquery-m/type-listitem (2024-12-17 11:01 PM) @cancelled
+                ✘ Type.NonNullable https://learn.microsoft.com/en-us/powerquery-m/type-nonnullable (2024-12-17 11:01 PM) @cancelled
+                ✘ Type.OpenRecord https://learn.microsoft.com/en-us/powerquery-m/type-openrecord (2024-12-17 11:01 PM) @cancelled
+                ✘ Type.RecordFields https://learn.microsoft.com/en-us/powerquery-m/type-recordfields (2024-12-17 11:01 PM) @cancelled
                 ☐ Type.ReplaceFacets https://learn.microsoft.com/en-us/powerquery-m/type-replacefacets (2024-12-17 11:01 PM)
                 ☐ Type.ReplaceTableKeys https://learn.microsoft.com/en-us/powerquery-m/type-replacetablekeys (2024-12-17 11:01 PM)
                 ☐ Type.TableColumn https://learn.microsoft.com/en-us/powerquery-m/type-tablecolumn (2024-12-17 11:01 PM)
                 ☐ Type.TableKeys https://learn.microsoft.com/en-us/powerquery-m/type-tablekeys (2024-12-17 11:01 PM)
-                ☐ Type.TableRow https://learn.microsoft.com/en-us/powerquery-m/type-tablerow (2024-12-17 11:01 PM)
-                ☐ Type.TableSchema https://learn.microsoft.com/en-us/powerquery-m/type-tableschema (2024-12-17 11:01 PM)
+                ✘ Type.TableRow https://learn.microsoft.com/en-us/powerquery-m/type-tablerow (2024-12-17 11:01 PM) @cancelled
+                ✘ Type.TableSchema https://learn.microsoft.com/en-us/powerquery-m/type-tableschema (2024-12-17 11:01 PM) @cancelled
                 ☐ Type.Union https://learn.microsoft.com/en-us/powerquery-m/type-union (2024-12-17 11:01 PM)
             Uri functions:
                 ☐ Uri functions overview https://learn.microsoft.com/en-us/powerquery-m/uri-functions (2023-08-30 04:09 PM)
@@ -784,7 +784,32 @@ Power Query M formula language reference - PowerQuery M | Microsoft Learn:
 
 ---
 
-            ☐ Types https://learn.microsoft.com/en-us/powerquery-m/m-spec-types (2025-01-10 11:01 PM)
-        ☐ Types and type conversion https://learn.microsoft.com/en-us/powerquery-m/type-conversion (2025-01-10 11:01 PM)
+            ✘ Types https://learn.microsoft.com/en-us/powerquery-m/m-spec-types (2025-01-10 11:01 PM) @cancelled
+        ✘ Types and type conversion https://learn.microsoft.com/en-us/powerquery-m/type-conversion (2025-01-10 11:01 PM) @cancelled
                 ☐ Type functions overview https://learn.microsoft.com/en-us/powerquery-m/type-functions (2025-01-10 11:01 PM)
+
+
+---
+
+            ✔ Types https://learn.microsoft.com/en-us/powerquery-m/m-spec-types (2025-01-14 11:01 PM) @done(25-01-15 19:18)
+        ✔ Power Query M type system https://learn.microsoft.com/en-us/powerquery-m/power-query-m-type-system (2025-01-14 11:01 PM) @done(25-01-15 19:18)
+        ✔ Types and type conversion https://learn.microsoft.com/en-us/powerquery-m/type-conversion (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Table.AddColumn https://learn.microsoft.com/en-us/powerquery-m/table-addcolumn (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Table.AddIndexColumn https://learn.microsoft.com/en-us/powerquery-m/table-addindexcolumn (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Table.ColumnsOfType https://learn.microsoft.com/en-us/powerquery-m/table-columnsoftype (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Table.CombineColumnsToRecord https://learn.microsoft.com/en-us/powerquery-m/table-combinecolumnstorecord (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Table.DuplicateColumn https://learn.microsoft.com/en-us/powerquery-m/table-duplicatecolumn (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Table.FromPartitions https://learn.microsoft.com/en-us/powerquery-m/table-frompartitions (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Table.HasColumns https://learn.microsoft.com/en-us/powerquery-m/table-hascolumns (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Table.TransformColumnTypes https://learn.microsoft.com/en-us/powerquery-m/table-transformcolumntypes (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ #table https://learn.microsoft.com/en-us/powerquery-m/sharptable (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Type.ClosedRecord https://learn.microsoft.com/en-us/powerquery-m/type-closedrecord (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Type.Is https://learn.microsoft.com/en-us/powerquery-m/type-is (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Type.IsNullable https://learn.microsoft.com/en-us/powerquery-m/type-isnullable (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Type.ListItem https://learn.microsoft.com/en-us/powerquery-m/type-listitem (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Type.NonNullable https://learn.microsoft.com/en-us/powerquery-m/type-nonnullable (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Type.OpenRecord https://learn.microsoft.com/en-us/powerquery-m/type-openrecord (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Type.RecordFields https://learn.microsoft.com/en-us/powerquery-m/type-recordfields (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Type.TableRow https://learn.microsoft.com/en-us/powerquery-m/type-tablerow (2025-01-14 11:01 PM) @done(25-01-15 19:19)
+                ✔ Type.TableSchema https://learn.microsoft.com/en-us/powerquery-m/type-tableschema (2025-01-14 11:01 PM) @done(25-01-15 19:19)
 

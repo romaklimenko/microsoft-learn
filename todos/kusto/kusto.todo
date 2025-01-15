@@ -828,7 +828,7 @@ Kusto documentation - Kusto | Microsoft Learn:
                 ☐ Materialized views overview https://learn.microsoft.com/en-us/kusto/management/materialized-views/materialized-view-overview (2024-08-22 05:01 PM)
                 ☐ Materialized views limitations https://learn.microsoft.com/en-us/kusto/management/materialized-views/materialized-views-limitations (2024-09-08 11:05 AM)
                 ☐ Materialized views policies https://learn.microsoft.com/en-us/kusto/management/materialized-views/materialized-view-policies (2024-08-20 02:54 PM)
-                ☐ Materialized views use cases https://learn.microsoft.com/en-us/kusto/management/materialized-views/materialized-view-use-cases (2024-08-20 02:54 PM)
+                ✘ Materialized views use cases https://learn.microsoft.com/en-us/kusto/management/materialized-views/materialized-view-use-cases (2024-08-20 02:54 PM) @cancelled
                 ☐ Materialized views data purge https://learn.microsoft.com/en-us/kusto/management/materialized-views/materialized-view-purge (2024-08-20 02:54 PM)
                 ☐ Monitor materialized views https://learn.microsoft.com/en-us/kusto/management/materialized-views/materialized-views-monitoring (2024-09-08 11:05 AM)
                 ☐ .alter materialized-view https://learn.microsoft.com/en-us/kusto/management/materialized-views/materialized-view-alter (2024-08-20 02:54 PM)
@@ -1103,7 +1103,7 @@ Kusto documentation - Kusto | Microsoft Learn:
         Cross-cluster schema:
             ☐ .clear cache remote-schema command https://learn.microsoft.com/en-us/kusto/management/clear-cross-cluster-schema-cache (2024-08-20 02:54 PM)
         System information https://learn.microsoft.com/en-us/kusto/management/system-info (2024-08-20 02:54 PM):
-            ☐ Estimate table size https://learn.microsoft.com/en-us/kusto/management/estimate-table-size (2024-08-20 02:54 PM)
+            ✘ Estimate table size https://learn.microsoft.com/en-us/kusto/management/estimate-table-size (2024-08-20 02:54 PM) @cancelled
             ✘ Journal https://learn.microsoft.com/en-us/kusto/management/journal (2024-08-20 02:54 PM) @cancelled
             Operations:
                 ☐ .show operations https://learn.microsoft.com/en-us/kusto/management/show-operations (2024-08-20 02:54 PM)
@@ -1918,4 +1918,10 @@ Kusto documentation - Kusto | Microsoft Learn:
             ☐ timespan https://learn.microsoft.com/en-us/kusto/query/scalar-data-types/timespan (2024-09-18 04:57 PM)
             ☐ Null values https://learn.microsoft.com/en-us/kusto/query/scalar-data-types/null-values (2024-09-24 11:04 AM)
             ☐ consume operator https://learn.microsoft.com/en-us/kusto/query/consume-operator (2024-08-20 02:54 PM)
+
+
+---
+
+                ✔ Materialized views use cases https://learn.microsoft.com/en-us/kusto/management/materialized-views/materialized-view-use-cases (2025-01-14 06:01 PM) @done(25-01-15 19:01)
+            ✔ Estimate table size https://learn.microsoft.com/en-us/kusto/management/estimate-table-size (2025-01-14 06:01 PM) @done(25-01-15 19:01)
 

@@ -189,10 +189,10 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                     ☐ ECas_cc_v5 and ECads_cc_v5 series https://learn.microsoft.com/en-us/azure/virtual-machines/ecasccv5-ecadsccv5-series (2024-08-23 04:58 PM)
                 M family:
                     ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/m-family (2024-10-31 05:31 AM)
-                    ☐ Mbsv3 and Mbdsv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mbsv3-mbdsv3-series (2024-11-12 06:04 PM)
+                    ✘ Mbsv3 and Mbdsv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mbsv3-mbdsv3-series (2024-11-12 06:04 PM) @cancelled
                     ☐ Msv3 and Mdsv3 Medium Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/msv3-mdsv3-medium-series (2024-11-12 06:04 PM)
-                    ☐ Msv3 and Mdsv3 High Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/msv3-mdsv3-high-memory-series (2024-11-12 06:04 PM)
-                    ☐ Mdsv3 Very High Memory Series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mdsv3-very-high-memory-series (2024-10-02 11:13 AM)
+                    ✘ Msv3 and Mdsv3 High Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/msv3-mdsv3-high-memory-series (2024-11-12 06:04 PM) @cancelled
+                    ✘ Mdsv3 Very High Memory Series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mdsv3-very-high-memory-series (2024-10-02 11:13 AM) @cancelled
                     ☐ Msv2 and Mdsv2 Medium Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/msv2-mdsv2-series (2024-12-04 05:31 AM)
                     ☐ Msv2 and Mdsv2 migration guide https://learn.microsoft.com/en-us/azure/virtual-machines/msv2-mdsv2-isolated-retirement (2024-08-22 05:37 PM)
                     ☐ Mv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/mv2-series (2024-08-23 04:58 PM)
@@ -640,7 +640,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         ☐ Deploy an ultra disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-ultra-ssd (2024-10-24 10:02 PM)
         ☐ Deploy a premium SSD v2 https://learn.microsoft.com/en-us/azure/virtual-machines/disks-deploy-premium-v2 (2024-10-24 10:02 PM)
         ☐ Deploy a ZRS disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-deploy-zrs (2024-10-17 05:31 AM)
-        ☐ Best practices for achieving high availability https://learn.microsoft.com/en-us/azure/virtual-machines/disks-high-availability (2024-11-21 05:32 AM)
+        ✘ Best practices for achieving high availability https://learn.microsoft.com/en-us/azure/virtual-machines/disks-high-availability (2024-11-21 05:32 AM) @cancelled
         Share a disk between VMs:
             ☐ About shared disks https://learn.microsoft.com/en-us/azure/virtual-machines/disks-shared (2024-11-06 05:31 AM)
             ☐ Enable shared disks https://learn.microsoft.com/en-us/azure/virtual-machines/disks-shared-enable (2024-08-23 04:58 PM)
@@ -697,7 +697,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         Performance and cost optimization:
             ☐ Increase performance of premium SSD and standard SSD/HDDs https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-performance (2024-12-09 11:00 PM)
             ☐ Virtual machine and disk performance https://learn.microsoft.com/en-us/azure/virtual-machines/disks-performance (2024-12-10 11:00 PM)
-            ☐ Disk Storage reservations https://learn.microsoft.com/azure/cost-management-billing/reservations/understand-disk-reservations?toc=/azure/virtual-machines/toc.json (2024-12-08 12:09 PM)
+            ✘ Disk Storage reservations https://learn.microsoft.com/azure/cost-management-billing/reservations/understand-disk-reservations?toc=/azure/virtual-machines/toc.json (2024-12-08 12:09 PM) @cancelled
             ☐ Reserve Disk Storage https://learn.microsoft.com/en-us/azure/virtual-machines/disks-reserved-capacity (2024-08-22 05:37 PM)
             ☐ Design for high performance https://learn.microsoft.com/en-us/azure/virtual-machines/premium-storage-performance (2024-08-22 05:37 PM)
             ☐ Disk related metrics https://learn.microsoft.com/en-us/azure/virtual-machines/disks-metrics (2024-08-29 04:56 PM)
@@ -729,7 +729,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ Options for restricting access https://learn.microsoft.com/en-us/azure/virtual-machines/disks-restrict-import-export-overview (2024-09-25 09:59 PM)
             ☐ Configure private links for disks - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disks-export-import-private-links-cli (2024-08-23 04:58 PM)
             ☐ Configure private links for disks - Portal https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-private-links-for-import-export-portal (2024-08-23 04:58 PM)
-            ☐ Upload a vhd to a disk - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disks-upload-vhd-to-managed-disk-powershell (2024-08-23 04:58 PM)
+            ✘ Upload a vhd to a disk - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disks-upload-vhd-to-managed-disk-powershell (2024-08-23 04:58 PM) @cancelled
             ☐ Upload a vhd to a disk - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disks-upload-vhd-to-managed-disk-cli (2024-08-22 05:37 PM)
             Export to a storage account:
                 ☐ Export a snapshot as a VHD to a storage account - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/copy-snapshot-to-storage-account (2024-08-22 05:37 PM)
@@ -944,8 +944,8 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         ☐ Monitoring VMs with Prometheus https://learn.microsoft.com/azure/azure-monitor/essentials/prometheus-remote-write-virtual-machines?toc=/azure/virtual-machines/toc.json (2024-12-23 05:59 PM)
         ☐ Availability with Resource Graph https://learn.microsoft.com/en-us/azure/virtual-machines/resource-graph-availability (2024-08-22 05:37 PM)
         VM watch:
-            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/azure-vm-watch (2024-10-10 10:01 PM)
-            ☐ Install VM watch https://learn.microsoft.com/en-us/azure/virtual-machines/install-vm-watch (2024-10-08 08:07 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/azure-vm-watch (2024-10-10 10:01 PM) @cancelled
+            ✘ Install VM watch https://learn.microsoft.com/en-us/azure/virtual-machines/install-vm-watch (2024-10-08 08:07 PM) @cancelled
         Monitor availability:
             ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/flash-overview (2024-08-22 05:37 PM)
             ☐ Use Azure Resource Graph https://learn.microsoft.com/en-us/azure/virtual-machines/flash-azure-resource-graph (2024-08-22 05:37 PM)
@@ -1110,7 +1110,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                 ☐ Server-side encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption (2025-01-09 05:32 AM)
             ✘ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-powershell?toc=/azure/virtual-machines/toc.json (2025-01-08 05:33 AM) @cancelled
             Azure CLI https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-cli?toc=/azure/virtual-machines/toc.json (2025-01-08 05:33 AM):
-        ☐ Just-in-time access https://learn.microsoft.com/azure/security-center/security-center-just-in-time (2025-01-07 11:01 PM)
+        ✘ Just-in-time access https://learn.microsoft.com/azure/security-center/security-center-just-in-time (2025-01-07 11:01 PM) @cancelled
             ✘ Overview https://learn.microsoft.com/azure/site-recovery/site-recovery-overview?toc=/azure/virtual-machines/toc.json (2025-01-09 06:03 PM) @cancelled
             ☐ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2025-01-08 06:02 PM)
 
@@ -1134,4 +1134,17 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         ☐ TCP/IP performance tuning for Azure VMs https://learn.microsoft.com/azure/virtual-network/virtual-network-tcpip-performance-tuning?toc=/azure/virtual-machines/toc.json (2025-01-13 06:03 PM)
                 ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/virtual-machines/troubleshoot-maintenance-configurations (2025-01-13 12:08 PM)
             ☐ Overview https://learn.microsoft.com/azure/site-recovery/site-recovery-overview?toc=/azure/virtual-machines/toc.json (2025-01-13 06:03 PM)
+
+
+---
+
+                    ☐ Mbsv3 and Mbdsv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mbsv3-mbdsv3-series (2025-01-13 11:00 PM)
+                    ☐ Msv3 and Mdsv3 High Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/msv3-mdsv3-high-memory-series (2025-01-13 11:00 PM)
+                    ☐ Mdsv3 Very High Memory Series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mdsv3-very-high-memory-series (2025-01-13 11:00 PM)
+        ☐ Best practices for achieving high availability https://learn.microsoft.com/en-us/azure/virtual-machines/disks-high-availability
+            ☐ Disk Storage reservations https://learn.microsoft.com/azure/cost-management-billing/reservations/understand-disk-reservations?toc=/azure/virtual-machines/toc.json (2025-01-13 11:06 PM)
+            ☐ Upload a vhd to a disk - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disks-upload-vhd-to-managed-disk-powershell (2025-01-14 06:00 PM)
+        ☐ Just-in-time access https://learn.microsoft.com/azure/security-center/security-center-just-in-time (2025-01-14 06:00 PM)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/azure-vm-watch (2025-01-13 11:00 PM)
+            ☐ Install VM watch https://learn.microsoft.com/en-us/azure/virtual-machines/install-vm-watch (2025-01-13 11:00 PM)
 

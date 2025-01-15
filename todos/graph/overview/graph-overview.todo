@@ -146,7 +146,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
             ☐ Microsoft 365 group behaviors and provisioning options https://learn.microsoft.com/en-us/graph/group-set-options (2024-05-30 04:35 AM)
             ☐ Microsoft 365 group settings https://learn.microsoft.com/en-us/graph/group-directory-settings (2024-03-27 04:20 AM)
         Applications:
-            ☐ Overview https://learn.microsoft.com/en-us/graph/applications-concept-overview (2024-03-27 04:20 AM)
+            ✘ Overview https://learn.microsoft.com/en-us/graph/applications-concept-overview (2024-03-27 04:20 AM) @cancelled
             Applications and service principals:
                 ☐ Manage applications https://learn.microsoft.com/en-us/graph/tutorial-applications-basics (2024-12-17 05:17 PM)
                 ✘ Validation differences for signInAudience https://learn.microsoft.com/azure/active-directory/develop/supported-accounts-validation?context=graph/context (2024-09-04 04:58 PM) @cancelled
@@ -292,7 +292,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
                     ☐ Offboard employees in real-time https://learn.microsoft.com/en-us/graph/tutorial-lifecycle-workflows-scheduled-leaver (2024-03-27 04:20 AM)
                     ☐ Automate employee offboarding https://learn.microsoft.com/en-us/graph/tutorial-lifecycle-workflows-offboard-custom-workflow (2024-03-27 04:20 AM)
                     ☐ Automate employee mover tasks https://learn.microsoft.com/en-us/graph/tutorial-lifecycle-workflows-mover-custom-workflow (2024-09-19 02:21 AM)
-                    ☐ Configure employeeLeaveDateTime https://learn.microsoft.com/en-us/graph/tutorial-lifecycle-workflows-set-employeeleavedatetime (2024-11-12 05:26 AM)
+                    ✘ Configure employeeLeaveDateTime https://learn.microsoft.com/en-us/graph/tutorial-lifecycle-workflows-set-employeeleavedatetime (2024-11-12 05:26 AM) @cancelled
                 ☐ Manage access to resources https://learn.microsoft.com/en-us/graph/tutorial-access-package-api (2024-04-03 05:03 AM)
                 Review access to your resources:
                     ☐ Review access to a security group https://learn.microsoft.com/en-us/graph/tutorial-accessreviews-securitygroup (2024-03-27 04:20 AM)
@@ -621,7 +621,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
 
     ☐ Overview of Microsoft Graph https://learn.microsoft.com/en-us/graph/overview (2025-01-09 11:48 PM)
         ☐ Services and features https://learn.microsoft.com/en-us/graph/overview-major-services (2025-01-09 11:48 PM)
-        ☐ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-11 12:07 AM)
+        ✘ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-11 12:07 AM) @cancelled
             ☐ Default user permissions https://learn.microsoft.com/azure/active-directory/fundamentals/users-default-permissions?context=graph/context (2025-01-12 12:08 PM)
             ☐ Overview https://learn.microsoft.com/en-us/graph/identity-network-access-overview (2025-01-09 11:48 PM)
                 ☐ Configure Microsoft Entra Private Access https://learn.microsoft.com/en-us/graph/tutorial-entra-private-access (2025-01-09 11:48 PM)
@@ -636,4 +636,12 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
 
                 ☐ PowerShell overview https://learn.microsoft.com/powershell/microsoftgraph/overview?toc=/graph/toc.json (2025-01-13 03:06 PM)
                 ☐ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2025-01-13 09:32 AM)
+
+
+---
+
+        ✔ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-13 11:25 PM) @done(25-01-15 19:27)
+            ✔ Overview https://learn.microsoft.com/en-us/graph/applications-concept-overview (2025-01-13 11:25 PM) @done(25-01-15 19:28)
+                    ✔ Configure employeeLeaveDateTime https://learn.microsoft.com/en-us/graph/tutorial-lifecycle-workflows-set-employeeleavedatetime (2025-01-13 11:25 PM) @done(25-01-15 19:28)
+                ✔ Subscribe to emergency call events https://learn.microsoft.com/en-us/graph/changenotifications-for-emergencycalls (2025-01-13 11:25 PM) @done(25-01-15 19:28)
 

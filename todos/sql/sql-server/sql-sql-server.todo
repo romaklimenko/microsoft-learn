@@ -979,7 +979,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
             ☐ Use DMVs to determine performance of Views https://learn.microsoft.com/en-us/sql/relational-databases/performance/use-dmvs-determine-usage-performance-views (2024-09-09 10:27 PM)
         XML data https://learn.microsoft.com/en-us/sql/relational-databases/xml/xml-data-sql-server (2024-09-09 10:27 PM):
             XML Data Type & Columns https://learn.microsoft.com/en-us/sql/relational-databases/xml/xml-data-type-and-columns-sql-server (2024-09-09 10:27 PM):
-                ☐ Compare Typed to Untyped XML https://learn.microsoft.com/en-us/sql/relational-databases/xml/compare-typed-xml-to-untyped-xml (2024-09-09 10:27 PM)
+                ✘ Compare Typed to Untyped XML https://learn.microsoft.com/en-us/sql/relational-databases/xml/compare-typed-xml-to-untyped-xml (2024-09-09 10:27 PM) @cancelled
                 ☐ Create Instances https://learn.microsoft.com/en-us/sql/relational-databases/xml/create-instances-of-xml-data (2024-09-09 10:27 PM)
                 ☐ Create Variables & Columns https://learn.microsoft.com/en-us/sql/relational-databases/xml/create-xml-data-type-variables-and-columns (2024-09-09 10:27 PM)
                 ☐ Change Existing Columns https://learn.microsoft.com/en-us/sql/relational-databases/xml/change-existing-columns-to-xml-columns (2024-09-09 10:27 PM)
@@ -4233,9 +4233,9 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                 ☐ Create identical symmetric keys on two servers https://learn.microsoft.com/en-us/sql/relational-databases/security/encryption/create-identical-symmetric-keys-on-two-servers (2024-09-09 10:27 PM)
                 ☐ Encrypt a column of data https://learn.microsoft.com/en-us/sql/relational-databases/security/encryption/encrypt-a-column-of-data (2024-09-09 10:27 PM)
             Secure Azure SQL Database:
-                ☐ Bring your own key > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-configure (2024-07-31 05:33 PM)
-                ☐ Rotate TDE BYOK keys > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-key-rotation (2024-11-21 11:33 PM)
-                ☐ Remove TDE protector > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-remove-tde-protector (2024-07-31 05:33 PM)
+                ✘ Bring your own key > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-configure (2024-07-31 05:33 PM) @cancelled
+                ✘ Rotate TDE BYOK keys > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-key-rotation (2024-11-21 11:33 PM) @cancelled
+                ✘ Remove TDE protector > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-remove-tde-protector (2024-07-31 05:33 PM) @cancelled
             Auditing:
                 ☐ Create server audit specification https://learn.microsoft.com/en-us/sql/relational-databases/security/auditing/create-a-server-audit-and-server-audit-specification (2024-09-09 10:27 PM)
                 ☐ Create database audit specification https://learn.microsoft.com/en-us/sql/relational-databases/security/auditing/create-a-server-audit-and-database-audit-specification (2024-09-09 10:27 PM)
@@ -9518,4 +9518,14 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
 ---
 
                     ☐ Z https://learn.microsoft.com/en-us/sql/t-sql/spatial-geography/z-geography-data-type (2024-09-09 10:27 PM)
+
+
+---
+
+                ✔ Compare Typed to Untyped XML https://learn.microsoft.com/en-us/sql/relational-databases/xml/compare-typed-xml-to-untyped-xml @done(25-01-15 19:03)
+                ✔ Bring your own key > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-configure (2025-01-14 06:30 PM) @done(25-01-15 19:03)
+                ✔ Rotate TDE BYOK keys > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-key-rotation (2025-01-14 06:30 PM) @done(25-01-15 19:03)
+                ✔ Remove TDE protector > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-remove-tde-protector (2025-01-14 06:30 PM) @done(25-01-15 19:04)
+                ✔ TDE with Azure SQL Database > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-azure-sql (2025-01-14 06:30 PM): @done(25-01-15 19:04)
+                ✔ Backup and restore https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-backup-and-restore-database: @done(25-01-15 19:05)
 
