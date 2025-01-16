@@ -256,7 +256,7 @@ Azure AI Foundry documentation | Microsoft Learn:
                 ☐ Fine-tune in Azure AI Foundry portal for custom speech https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-speech-ai-foundry-portal?context=/azure/ai-studio/context/context (2024-12-23 11:00 PM)
             ✘ Model catalog https://learn.microsoft.com/en-us/azure/ai-studio/how-to/model-catalog-overview (2024-12-23 11:00 PM) @cancelled
             ☐ Data, privacy, and security for Model Catalog https://learn.microsoft.com/en-us/azure/ai-studio/how-to/concept-data-privacy (2024-12-23 11:00 PM)
-            ☐ Model lifecycle and retirement https://learn.microsoft.com/en-us/azure/ai-studio/concepts/model-lifecycle-retirement (2024-12-23 11:00 PM)
+            ✘ Model lifecycle and retirement https://learn.microsoft.com/en-us/azure/ai-studio/concepts/model-lifecycle-retirement (2024-12-23 11:00 PM) @cancelled
                 ☐ How to use model benchmarking https://learn.microsoft.com/en-us/azure/ai-studio/how-to/benchmark-model-in-catalog (2024-12-23 11:00 PM)
             ☐ Distillation https://learn.microsoft.com/en-us/azure/ai-studio/concepts/concept-model-distillation (2024-12-23 11:00 PM)
                 ☐ Deploy Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-openai (2024-12-23 11:00 PM)
@@ -314,7 +314,7 @@ Azure AI Foundry documentation | Microsoft Learn:
             ✘ Secure playground chat https://learn.microsoft.com/en-us/azure/ai-studio/how-to/secure-data-playground (2024-12-23 11:00 PM) @cancelled
             ☐ Securely access on-premises resources https://learn.microsoft.com/en-us/azure/ai-studio/how-to/access-on-premises-resources (2024-12-23 11:00 PM)
             ☐ Troubleshoot secure project connectivity https://learn.microsoft.com/en-us/azure/ai-studio/how-to/troubleshoot-secure-connection-project (2024-12-23 11:00 PM)
-            ☐ Configure customer-managed keys https://learn.microsoft.com/en-us/azure/ai-studio/concepts/encryption-keys-portal (2024-12-23 11:00 PM)
+            ✘ Configure customer-managed keys https://learn.microsoft.com/en-us/azure/ai-studio/concepts/encryption-keys-portal (2024-12-23 11:00 PM) @cancelled
             ☐ Disable shared key access to storage https://learn.microsoft.com/en-us/azure/ai-studio/how-to/disable-local-auth (2024-12-23 11:00 PM)
         ☐ Vulnerability management https://learn.microsoft.com/en-us/azure/ai-studio/concepts/vulnerability-management (2024-12-23 11:00 PM)
         ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/ai-studio/how-to/disaster-recovery (2024-12-23 11:00 PM)
@@ -389,10 +389,10 @@ Azure AI Foundry documentation | Microsoft Learn:
         ✘ Transparency Note for safety evaluations https://learn.microsoft.com/en-us/azure/ai-studio/concepts/safety-evaluations-transparency-note (2024-11-22 11:03 PM) @cancelled
             ☐ What's the Azure AI Model Inference API? https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-api (2024-12-13 05:32 AM)
                 ☐ Get Info https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-info (2024-11-21 06:03 PM)
-                ☐ Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-embeddings (2024-11-21 06:03 PM)
-                ☐ Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-completions (2024-11-21 06:03 PM)
-                ☐ Chat Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-chat-completions (2024-11-21 06:03 PM)
-                ☐ Images Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-images-embeddings (2024-11-21 06:03 PM)
+                ✘ Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-embeddings (2024-11-21 06:03 PM) @cancelled
+                ✘ Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-completions (2024-11-21 06:03 PM) @cancelled
+                ✘ Chat Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-chat-completions (2024-11-21 06:03 PM) @cancelled
+                ✘ Images Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-images-embeddings (2024-11-21 06:03 PM) @cancelled
 
 
 ---
@@ -511,4 +511,14 @@ Azure AI Foundry documentation | Microsoft Learn:
             ✔ Part 1: Set up project and install SDK https://learn.microsoft.com/en-us/azure/ai-studio/tutorials/copilot-sdk-create-resources (2025-01-13 11:00 PM) @done(25-01-14 22:11)
             ✔ Model catalog https://learn.microsoft.com/en-us/azure/ai-studio/how-to/model-catalog-overview (2025-01-14 08:08 PM) @done(25-01-14 22:11)
             ✔ Gretel Navigator model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-gretel-navigator (2025-01-14 08:08 PM) @done(25-01-14 22:14)
+
+
+---
+
+            ☐ Model lifecycle and retirement https://learn.microsoft.com/en-us/azure/ai-studio/concepts/model-lifecycle-retirement (2025-01-15 06:05 PM)
+            ☐ Configure customer-managed keys https://learn.microsoft.com/en-us/azure/ai-studio/concepts/encryption-keys-portal (2025-01-15 06:05 PM)
+                ☐ Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-embeddings (2025-01-15 06:05 PM)
+                ☐ Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-completions (2025-01-15 06:05 PM)
+                ☐ Chat Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-chat-completions (2025-01-15 06:05 PM)
+                ☐ Images Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-images-embeddings (2025-01-15 06:05 PM)
 

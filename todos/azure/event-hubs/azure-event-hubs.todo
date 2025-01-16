@@ -16,7 +16,7 @@ Azure Event Hubs documentation | Microsoft Learn:
             ☐ ARM template https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-resource-manager-namespace-event-hub (2024-03-21 05:07 PM)
         Send and receive events:
             Event Hubs SDKs (AMQP):
-                ☐ .NET https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send (2024-12-11 11:02 PM)
+                ✘ .NET https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send (2024-12-11 11:02 PM) @cancelled
                 ☐ Java https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-java-get-started-send (2024-02-18 12:14 PM)
                 ☐ Python https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-python-get-started-send (2024-09-30 10:04 PM)
                 ☐ JavaScript https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-node-get-started-send (2024-04-07 11:25 AM)
@@ -34,7 +34,7 @@ Azure Event Hubs documentation | Microsoft Learn:
         Use Schema Registry:
             ☐ Create a schema - Azure portal https://learn.microsoft.com/en-us/azure/event-hubs/create-schema-registry (2024-06-12 05:46 AM)
             ☐ Validate schemas for Kafka applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-kafka-java-send-receive-quickstart (2024-01-24 11:04 PM)
-            ☐ Validate schemas for Event Hubs SDK based applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart (2024-01-24 11:04 PM)
+            ✘ Validate schemas for Event Hubs SDK based applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart (2024-01-24 11:04 PM) @cancelled
         ✘ Create a dedicated cluster https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dedicated-cluster-create-portal (2024-12-18 11:02 PM) @cancelled
     Tutorials:
         ☐ Analyze fraudulent call data with Stream Analytics https://learn.microsoft.com/en-us/azure/stream-analytics/stream-analytics-real-time-fraud-detection?toc=/azure/event-hubs/TOC.json (2024-10-02 11:12 AM)
@@ -132,7 +132,7 @@ Azure Event Hubs documentation | Microsoft Learn:
         Use Schema Registry:
             Client-side schema enforcement:
                 Using Avro schema:
-                    ☐ Avro schema with Event Hubs SDK(AMQP) https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart (2024-01-24 11:04 PM)
+                    ✘ Avro schema with Event Hubs SDK(AMQP) https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart (2024-01-24 11:04 PM) @cancelled
                 Using JSON Schema:
                     ☐ JSON Schema with Apache Kafka applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-json-schema-kafka (2024-05-21 05:56 PM)
         Process data:
@@ -296,5 +296,13 @@ Azure Event Hubs documentation | Microsoft Learn:
             ☐ Dedicated tier https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dedicated-overview (2025-01-13 11:06 PM)
                     ☐ Authenticate from an application https://learn.microsoft.com/en-us/azure/event-hubs/authenticate-application (2025-01-13 11:06 PM)
             ☐ Network security perimeter https://learn.microsoft.com/en-us/azure/event-hubs/network-security-perimeter (2025-01-13 11:06 PM)
-            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-14 12:08 PM)
+            ✘ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-14 12:08 PM) @cancelled
+
+
+---
+
+                ☐ .NET https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send (2025-01-15 06:04 PM)
+            ☐ Validate schemas for Event Hubs SDK based applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart (2025-01-15 06:04 PM)
+                    ☐ Avro schema with Event Hubs SDK(AMQP) https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart (2025-01-15 06:04 PM)
+            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-15 12:08 PM)
 

@@ -368,14 +368,14 @@ Azure Functions documentation | Microsoft Learn:
             Azure OpenAI:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai (2024-08-28 07:22 PM)
                 Assistants:
-                    ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistant-trigger (2024-08-28 07:22 PM)
-                    ☐ Query input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantquery-input (2024-08-28 07:22 PM)
-                    ☐ Create output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantcreate-output (2024-12-06 05:38 AM)
-                    ☐ Post input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantpost-input (2024-08-12 05:05 PM)
+                    ✘ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistant-trigger (2024-08-28 07:22 PM) @cancelled
+                    ✘ Query input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantquery-input (2024-08-28 07:22 PM) @cancelled
+                    ✘ Create output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantcreate-output (2024-12-06 05:38 AM) @cancelled
+                    ✘ Post input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantpost-input (2024-08-12 05:05 PM) @cancelled
                 Embeddings:
-                    ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddings-input (2024-08-28 07:22 PM)
-                    ☐ Store output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddingsstore-output (2024-08-28 07:22 PM)
-                ☐ Semantic search input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-semanticsearch-input (2024-08-28 07:22 PM)
+                    ✘ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddings-input (2024-08-28 07:22 PM) @cancelled
+                    ✘ Store output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddingsstore-output (2024-08-28 07:22 PM) @cancelled
+                ✘ Semantic search input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-semanticsearch-input (2024-08-28 07:22 PM) @cancelled
                 ☐ Text Completion input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-textcompletion-input (2024-08-28 07:22 PM)
             Azure SQL:
                 ✘ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql (2024-12-06 11:03 PM) @cancelled
@@ -562,4 +562,15 @@ Azure Functions documentation | Microsoft Learn:
 
         ✔ Networking options https://learn.microsoft.com/en-us/azure/azure-functions/functions-networking-options (2025-01-14 06:29 PM) @done(25-01-14 22:15)
             ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.functions/ (2025-01-14 05:13 PM) @done(25-01-14 22:15)
+
+
+---
+
+                    ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistant-trigger (2025-01-14 11:03 PM)
+                    ☐ Query input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantquery-input (2025-01-14 11:03 PM)
+                    ☐ Create output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantcreate-output (2025-01-14 11:03 PM)
+                    ☐ Post input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantpost-input (2025-01-14 11:03 PM)
+                    ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddings-input (2025-01-14 11:03 PM)
+                    ☐ Store output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddingsstore-output (2025-01-14 11:03 PM)
+                ☐ Semantic search input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-semanticsearch-input (2025-01-14 11:03 PM)
 

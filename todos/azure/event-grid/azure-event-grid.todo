@@ -53,11 +53,11 @@ Azure Event Grid documentation | Microsoft Learn:
                 ☐ How to configure multiple sessions for an MQTT client https://learn.microsoft.com/en-us/azure/event-grid/mqtt-establishing-multiple-sessions-per-client (2024-12-09 06:04 PM)
                 ☐ Send events to Microsoft Fabric via Azure Event Hubs https://learn.microsoft.com/en-us/azure/event-grid/mqtt-events-fabric (2024-08-02 11:27 AM)
                 ☐ MQTT Request Response messaging https://learn.microsoft.com/en-us/azure/event-grid/mqtt-request-response-messages (2024-08-02 11:27 AM)
-                ☐ Assign custom domain name to a namespace https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name (2024-08-07 10:04 PM)
-                ☐ Authenticate with MQTT broker using OAuth 2.0 authentication https://learn.microsoft.com/en-us/azure/event-grid/authenticate-with-namespaces-using-json-web-tokens (2024-11-04 11:02 PM)
+                ✘ Assign custom domain name to a namespace https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name (2024-08-07 10:04 PM) @cancelled
+                ✘ Authenticate with MQTT broker using OAuth 2.0 authentication https://learn.microsoft.com/en-us/azure/event-grid/authenticate-with-namespaces-using-json-web-tokens (2024-11-04 11:02 PM) @cancelled
                 Monitor:
                     ☐ Monitor Event Grid namespaces https://learn.microsoft.com/en-us/azure/event-grid/monitor-namespaces (2024-09-11 06:38 PM)
-                    ☐ Monitoring data reference (MQTT delivery) https://learn.microsoft.com/en-us/azure/event-grid/monitor-mqtt-delivery-reference (2024-08-02 11:27 AM)
+                    ✘ Monitoring data reference (MQTT delivery) https://learn.microsoft.com/en-us/azure/event-grid/monitor-mqtt-delivery-reference (2024-08-02 11:27 AM) @cancelled
                 Troubleshoot:
                     ☐ Troubleshoot MQTT runtime issues https://learn.microsoft.com/en-us/azure/event-grid/mqtt-troubleshoot-errors (2024-08-02 11:27 AM)
                 Secure:
@@ -106,7 +106,7 @@ Azure Event Grid documentation | Microsoft Learn:
                 ☐ Create, view, and manage namespaces https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-namespaces (2024-06-11 10:09 PM)
                 ☐ Create, view, and manage namespace topics https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-namespace-topics (2024-08-21 10:04 PM)
                 ☐ Create, view, and manage event subscriptions https://learn.microsoft.com/en-us/azure/event-grid/create-view-manage-event-subscriptions (2023-11-16 11:03 PM)
-                ☐ Assign custom domain name to a namespace https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name (2024-08-07 10:04 PM)
+                ✘ Assign custom domain name to a namespace https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name (2024-08-07 10:04 PM) @cancelled
                 ☐ Forward events to another namespace topic https://learn.microsoft.com/en-us/azure/event-grid/forward-events-to-another-namespace-topic (2024-11-21 11:02 PM)
                 Monitor:
                     ☐ Monitor Event Grid namespaces https://learn.microsoft.com/en-us/azure/event-grid/monitor-namespaces (2024-09-11 06:38 PM)
@@ -122,7 +122,7 @@ Azure Event Grid documentation | Microsoft Learn:
         Quickstarts:
             Publish and subscribe using custom topics:
                 Custom events to Event Grid Viewer app:
-                    ☐ Portal https://learn.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal (2024-12-15 12:14 PM)
+                    ✘ Portal https://learn.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal (2024-12-15 12:14 PM) @cancelled
                     ☐ Azure CLI https://learn.microsoft.com/en-us/azure/event-grid/custom-event-quickstart (2024-08-21 10:04 PM)
                     ☐ PowerShell https://learn.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-powershell (2024-08-21 10:04 PM)
                 ☐ Custom events to an Azure function https://learn.microsoft.com/en-us/azure/event-grid/custom-event-to-function (2024-06-27 05:04 PM)
@@ -138,7 +138,7 @@ Azure Event Grid documentation | Microsoft Learn:
             ☐ Subscribe to Azure Communication Services events https://learn.microsoft.com/en-us/azure/communication-services/quickstarts/sms/handle-sms-events?toc=/azure/event-grid/toc.json (2022-08-10 05:25 PM)
             ☐ Subscribe to Azure Cache for Redis events https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-event-grid-quickstart-portal?toc=/azure/event-grid/toc.json (2024-08-20 05:41 AM)
         Tutorials:
-            ☐ Email when VM changes https://learn.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-logic-app (2024-08-22 07:16 PM)
+            ✘ Email when VM changes https://learn.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-logic-app (2024-08-22 07:16 PM) @cancelled
             ☐ Trigger Automation runbook https://learn.microsoft.com/en-us/azure/event-grid/ensure-tags-exists-on-new-virtual-machines (2024-08-13 05:44 AM)
             ☐ Email when IoT Hub device disconnects https://learn.microsoft.com/en-us/azure/event-grid/publish-iot-hub-events-to-logic-apps (2024-10-16 10:05 PM)
             Handle Service Bus events via Event Grid:
@@ -433,8 +433,8 @@ Azure Event Grid documentation | Microsoft Learn:
 
 ---
 
-            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-13 12:32 PM)
-            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-13 12:32 PM)
+            ✘ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-13 12:32 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-13 12:32 PM) @cancelled
             ✘ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-13 12:08 PM) @cancelled
             ✘ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-13 12:05 PM) @cancelled
 
@@ -447,6 +447,20 @@ Azure Event Grid documentation | Microsoft Learn:
                     ☐ Azure API Center https://learn.microsoft.com/en-us/azure/event-grid/event-schema-api-center (2025-01-13 11:06 PM)
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/eventgrid (2025-01-13 11:00 PM)
         ☐ PowerShell https://learn.microsoft.com/powershell/module/az.eventgrid (2025-01-14 05:13 PM)
-            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-14 12:08 PM)
-            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-14 12:10 PM)
+            ✘ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-14 12:08 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-14 12:10 PM) @cancelled
+
+
+---
+
+                ☐ Assign custom domain name to a namespace https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name (2025-01-15 06:04 PM)
+                ☐ Authenticate with MQTT broker using OAuth 2.0 authentication https://learn.microsoft.com/en-us/azure/event-grid/authenticate-with-namespaces-using-json-web-tokens (2025-01-15 06:04 PM)
+                    ☐ Monitoring data reference (MQTT delivery) https://learn.microsoft.com/en-us/azure/event-grid/monitor-mqtt-delivery-reference (2025-01-15 06:04 PM)
+                ☐ Assign custom domain name to a namespace https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name (2025-01-15 06:04 PM)
+                    ☐ Portal https://learn.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal (2025-01-15 06:04 PM)
+            ☐ Email when VM changes https://learn.microsoft.com/en-us/azure/event-grid/monitor-virtual-machine-changes-logic-app (2025-01-15 06:04 PM)
+            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-15 12:27 PM)
+            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-15 12:27 PM)
+            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-15 12:08 PM)
+            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-15 12:07 PM)
 

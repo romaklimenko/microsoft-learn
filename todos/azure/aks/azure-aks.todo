@@ -42,7 +42,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ☐ 6 - Scale application https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-scale (2024-11-07 12:05 PM)
         ☐ 7 - Upgrade cluster https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-upgrade-cluster (2024-08-27 10:00 PM)
     Concepts:
-        ☐ Core concepts https://learn.microsoft.com/en-us/azure/aks/core-aks-concepts (2024-09-03 10:05 PM)
+        ✘ Core concepts https://learn.microsoft.com/en-us/azure/aks/core-aks-concepts (2024-09-03 10:05 PM) @cancelled
         ☐ Pricing tiers for AKS https://learn.microsoft.com/en-us/azure/aks/free-standard-pricing-tiers (2024-08-20 04:59 PM)
         ☐ Maintain and upgrade an AKS cluster https://learn.microsoft.com/en-us/azure/aks/upgrade (2024-08-01 08:29 PM)
         ☐ AKS Communication Manager (Preview) https://learn.microsoft.com/en-us/azure/aks/aks-communication-manager (2024-11-05 10:59 PM)
@@ -201,7 +201,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                     ☐ Overview https://learn.microsoft.com/en-us/azure/aks/valkey-overview (2024-10-31 05:34 AM)
                     ☐ Create Valkey infrastructure resources https://learn.microsoft.com/en-us/azure/aks/create-valkey-infrastructure (2024-11-07 12:05 PM)
                     ☐ Configure and deploy a Valkey cluster https://learn.microsoft.com/en-us/azure/aks/deploy-valkey-cluster (2024-12-13 11:02 PM)
-                    ☐ Test Valkey with Locust https://learn.microsoft.com/en-us/azure/aks/validate-valkey-cluster (2024-12-16 11:01 PM)
+                    ✘ Test Valkey with Locust https://learn.microsoft.com/en-us/azure/aks/validate-valkey-cluster (2024-12-16 11:01 PM) @cancelled
                     ☐ Test resiliency during an AKS node pool upgrade https://learn.microsoft.com/en-us/azure/aks/upgrade-valkey-aks-nodepool (2024-12-16 11:01 PM)
             GPU workloads:
                 ✘ Use GPUs https://learn.microsoft.com/en-us/azure/aks/gpu-cluster (2024-10-31 05:34 AM) @cancelled
@@ -226,14 +226,14 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         Cluster management:
             ☐ Azure portal Kubernetes resource view https://learn.microsoft.com/en-us/azure/aks/kubernetes-portal (2024-08-27 05:04 PM)
             ☐ Tags https://learn.microsoft.com/en-us/azure/aks/use-tags (2024-10-31 05:34 AM)
-            ☐ Labels https://learn.microsoft.com/en-us/azure/aks/use-labels (2024-10-31 05:34 AM)
+            ✘ Labels https://learn.microsoft.com/en-us/azure/aks/use-labels (2024-10-31 05:34 AM) @cancelled
             ☐ Node taints https://learn.microsoft.com/en-us/azure/aks/use-node-taints (2024-10-31 05:34 AM)
         Security:
             Container security:
                 ☐ Defender for Containers overview https://learn.microsoft.com/azure/defender-for-cloud/defender-for-containers-introduction?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-09 12:05 PM)
                 ☐ Enable Defender for Containers https://learn.microsoft.com/azure/defender-for-cloud/defender-for-containers-enable?pivots=defender-for-container-aks&toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-29 05:01 PM)
-                ☐ Confidential Containers overview https://learn.microsoft.com/en-us/azure/aks/confidential-containers-overview (2024-10-31 05:34 AM)
-                ☐ Deploy Confidential Containers with default policy https://learn.microsoft.com/en-us/azure/aks/deploy-confidential-containers-default-policy (2024-08-01 08:29 PM)
+                ✘ Confidential Containers overview https://learn.microsoft.com/en-us/azure/aks/confidential-containers-overview (2024-10-31 05:34 AM) @cancelled
+                ✘ Deploy Confidential Containers with default policy https://learn.microsoft.com/en-us/azure/aks/deploy-confidential-containers-default-policy (2024-08-01 08:29 PM) @cancelled
             Image security:
                 ☐ Validate signed images with Image Integrity https://learn.microsoft.com/en-us/azure/aks/image-integrity (2024-08-01 08:29 PM)
                 ☐ Remove vulnerable images with ImageCleaner https://learn.microsoft.com/en-us/azure/aks/image-cleaner (2024-12-05 11:00 PM)
@@ -518,7 +518,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Deploy to Azure https://learn.microsoft.com/en-us/azure/aks/eks-web-deploy (2024-12-13 11:02 PM)
     ☐ FAQ https://learn.microsoft.com/en-us/azure/aks/faq (2024-12-02 11:02 PM)
     Reference:
-        ☐ Azure CLI https://learn.microsoft.com/cli/azure/aks (2024-11-19 11:00 PM)
+        ✘ Azure CLI https://learn.microsoft.com/cli/azure/aks (2024-11-19 11:00 PM) @cancelled
         ☐ REST https://learn.microsoft.com/rest/api/aks/ (2023-10-31 09:45 PM)
         ✘ PowerShell https://learn.microsoft.com/powershell/module/az.aks/#aks (2024-11-19 05:50 PM) @cancelled
         ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2024-12-06 12:27 PM) @cancelled
@@ -675,6 +675,20 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Use kubenet https://learn.microsoft.com/en-us/azure/aks/configure-kubenet (2025-01-13 11:00 PM)
                 ☐ Configure Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-meshconfig (2025-01-14 06:00 PM)
         ☐ PowerShell https://learn.microsoft.com/powershell/module/az.aks/#aks (2025-01-14 05:13 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-14 12:08 PM)
-        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-14 12:10 PM)
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-14 12:08 PM) @cancelled
+        ✘ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-14 12:10 PM) @cancelled
+
+
+---
+
+        ☐ Core concepts https://learn.microsoft.com/en-us/azure/aks/core-aks-concepts (2025-01-15 05:31 AM)
+                    ☐ Test Valkey with Locust https://learn.microsoft.com/en-us/azure/aks/validate-valkey-cluster (2025-01-15 05:31 AM)
+            ☐ Labels https://learn.microsoft.com/en-us/azure/aks/use-labels (2025-01-15 05:31 AM)
+                ☐ Confidential Containers overview https://learn.microsoft.com/en-us/azure/aks/confidential-containers-overview (2025-01-14 10:59 PM)
+                ☐ Deploy Confidential Containers with default policy https://learn.microsoft.com/en-us/azure/aks/deploy-confidential-containers-default-policy (2025-01-14 10:59 PM)
+                ☐ Use kubenet with dual-stack networking https://learn.microsoft.com/en-us/azure/aks/configure-kubenet-dual-stack (2024-09-16 10:00 PM)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/aks (2025-01-14 11:00 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-15 12:27 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-15 12:08 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-15 12:07 PM)
 

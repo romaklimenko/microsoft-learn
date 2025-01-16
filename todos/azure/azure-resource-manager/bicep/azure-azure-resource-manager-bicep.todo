@@ -17,7 +17,7 @@ Bicep documentation | Microsoft Learn:
         ☐ Use private module registry https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-private-module-registry (2024-09-19 06:07 PM)
         CI/CD:
             ☐ Bicep with pipelines https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/add-template-to-azure-pipelines (2024-09-26 10:04 PM)
-            ☐ Bicep with GitHub Actions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-github-actions (2024-11-04 11:02 PM)
+            ✘ Bicep with GitHub Actions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-github-actions (2024-11-04 11:02 PM) @cancelled
             ✘ Bicep with MSBuild https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/msbuild-bicep-file (2024-12-08 12:09 PM) @cancelled
     Tutorials:
         ✘ Learn modules for Bicep https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep (2024-08-30 10:06 PM) @cancelled
@@ -65,7 +65,7 @@ Bicep documentation | Microsoft Learn:
         DevOps:
             ☐ App Configuration https://learn.microsoft.com/en-us/azure/azure-app-configuration/quickstart-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-06-27 05:04 PM)
             ☐ DevTest Labs https://learn.microsoft.com/en-us/azure/devtest-labs/create-lab-windows-vm-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-06-27 05:04 PM)
-            ☐ Pipelines https://learn.microsoft.com/azure/devops/pipelines/apps/cd/azure/deploy-arm-template?toc=/azure/azure-resource-manager/bicep/toc.json (2024-06-08 11:05 PM)
+            ✘ Pipelines https://learn.microsoft.com/azure/devops/pipelines/apps/cd/azure/deploy-arm-template?toc=/azure/azure-resource-manager/bicep/toc.json (2024-06-08 11:05 PM) @cancelled
         Integration:
             ☐ API for FHIR https://learn.microsoft.com/en-us/azure/healthcare-apis/fhir/fhir-service-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-09-09 10:10 PM)
             ☐ Event Grid https://learn.microsoft.com/en-us/azure/event-grid/blob-event-quickstart-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-21 10:04 PM)
@@ -313,7 +313,7 @@ Bicep documentation | Microsoft Learn:
             ☐ BCP333 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp333 (2024-10-14 05:05 PM)
             ✘ BCP338 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp338 (2024-12-08 12:09 PM) @cancelled
             ☐ BCP401 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp401 (2024-10-14 05:05 PM)
-        ☐ Azure CLI https://learn.microsoft.com/cli/azure/resource (2024-07-09 08:27 AM)
+        ✘ Azure CLI https://learn.microsoft.com/cli/azure/resource (2024-07-09 08:27 AM) @cancelled
 
 
 ---
@@ -395,4 +395,11 @@ Bicep documentation | Microsoft Learn:
             ✔ Deploy - PowerShell https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-powershell (2025-01-14 05:33 AM) @done(25-01-14 22:18)
         ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.resources/ (2025-01-14 05:13 PM) @done(25-01-14 22:18)
             ✔ BCP338 https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/diagnostics/bcp338 (2025-01-14 05:33 AM) @done(25-01-14 22:18)
+
+
+---
+
+            ☐ Bicep with GitHub Actions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-github-actions (2025-01-15 05:32 AM)
+            ☐ Pipelines https://learn.microsoft.com/azure/devops/pipelines/apps/cd/azure/deploy-arm-template?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-14 09:21 PM)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/resource (2025-01-14 11:00 PM)
 

@@ -70,7 +70,7 @@ Virtual WAN documentation | Microsoft Learn:
     How-to guides:
         ☐ Upgrade from Basic to Standard https://learn.microsoft.com/en-us/azure/virtual-wan/upgrade-virtual-wan (2024-08-02 11:27 AM)
         Integrated NVA in a virtual hub:
-            ☐ Create a NVA in a virtual hub https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub (2024-08-02 11:27 AM)
+            ✘ Create a NVA in a virtual hub https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub (2024-08-02 11:27 AM) @cancelled
             ☐ Restart a NVA in a virtual hub https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-restart (2024-08-02 11:27 AM)
             ☐ Configure DNAT/Internet inbound https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-network-virtual-appliance-inbound (2024-12-12 06:02 PM)
         Connect a VNet to a virtual hub:
@@ -101,7 +101,7 @@ Virtual WAN documentation | Microsoft Learn:
                         ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-powershell (2024-08-02 11:27 AM)
                     ☐ Generate self-signed certificates https://learn.microsoft.com/en-us/azure/virtual-wan/certificates-point-to-site (2024-08-02 11:27 AM)
                 Microsoft Entra ID authentication:
-                    ☐ Configure a P2S VPN https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad (2024-09-24 10:04 PM)
+                    ✘ Configure a P2S VPN https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad (2024-09-24 10:04 PM) @cancelled
                     ☐ Configure a tenant https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant (2024-10-08 06:17 PM)
                     ☐ Configure multifactor authentication (MFA) https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-mfa (2024-09-25 05:34 AM)
             P2S client configuration:
@@ -161,7 +161,7 @@ Virtual WAN documentation | Microsoft Learn:
     Reference:
         ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network#networking (2024-11-19 05:50 PM) @cancelled
         ☐ REST https://learn.microsoft.com/rest/api/azure (2024-08-06 10:08 PM)
-        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network (2024-11-19 11:00 PM)
+        ✘ Azure CLI https://learn.microsoft.com/cli/azure/network (2024-11-19 11:00 PM) @cancelled
         ☐ Python SDK https://azuresdkdocs.blob.core.windows.net/$web/python/azure-mgmt-network/10.0.0/azure.mgmt.network.v2019_02_01.operations.html#azure.mgmt.network.v2019_02_01.operations.VirtualWansOperations
         ✘ Monitoring data reference https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-virtual-wan-reference (2024-11-01 10:03 PM) @cancelled
     Resources:
@@ -255,4 +255,12 @@ Virtual WAN documentation | Microsoft Learn:
 ---
 
         ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network#networking (2025-01-14 05:13 PM) @done(25-01-15 18:55)
+
+
+---
+
+            ☐ Create a NVA in a virtual hub https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub (2025-01-14 11:03 PM)
+                    ☐ Configure P2S - Microsoft-registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway (2025-01-14 11:03 PM)
+                    ☐ Configure P2S - manually registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad (2024-09-24 10:04 PM)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network (2025-01-14 11:00 PM)
 

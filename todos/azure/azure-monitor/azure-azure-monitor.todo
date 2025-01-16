@@ -169,14 +169,14 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             VM insights:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-overview (2024-11-07 10:59 PM)
                 Enable and configure:
-                    ☐ Enable VM insights https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable (2024-12-09 05:37 AM)
-                    ☐ Enable with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-policy (2024-12-04 05:31 AM)
-                    ☐ Windows client machines https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-client (2024-11-07 10:59 PM)
+                    ✘ Enable VM insights https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable (2024-12-09 05:37 AM) @cancelled
+                    ✘ Enable with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-policy (2024-12-04 05:31 AM) @cancelled
+                    ✘ Windows client machines https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-client (2024-11-07 10:59 PM) @cancelled
                     ☐ Dependency agent https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-dependency-agent (2024-11-07 10:59 PM)
                     ☐ Disable monitoring https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-optout (2024-11-07 10:59 PM)
                     ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-troubleshoot (2024-11-07 10:59 PM)
                 Migrate:
-                    ☐ Migrate to Azure Monitor agent https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-migrate-agent (2024-11-07 10:59 PM)
+                    ✘ Migrate to Azure Monitor agent https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-migrate-agent (2024-11-07 10:59 PM) @cancelled
                     ☐ Migrate from deprecated policies https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-migrate-deprecated-policies (2024-11-07 10:59 PM)
                 Use VM insights:
                     ☐ Monitor performance https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-performance (2024-10-30 11:09 AM)
@@ -250,7 +250,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Setup https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-livedata-setup (2024-09-11 04:50 PM)
                 ☐ View cluster metrics https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-livedata-metrics (2024-09-11 04:50 PM)
             Alerting:
-                ☐ Metric alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-metric-alerts (2024-09-11 04:50 PM)
+                ✘ Metric alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-metric-alerts (2024-09-11 04:50 PM) @cancelled
                 ☐ Log alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-log-alerts (2024-09-11 04:50 PM)
             ☐ Disable monitoring https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-monitoring-disable (2024-09-11 04:50 PM)
             Troubleshooting:
@@ -542,7 +542,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             Managing Azure Workbooks:
                 ☐ Manage Azure Workbooks https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-manage (2024-09-20 05:37 AM)
                 ☐ Deploy with Azure Resource Manager https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-automate (2024-09-17 05:01 PM)
-                ☐ Bring your own storage https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-bring-your-own-storage (2024-11-12 10:56 PM)
+                ✘ Bring your own storage https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-bring-your-own-storage (2024-11-12 10:56 PM) @cancelled
                 ☐ Transform JSON data with JSONPath https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-jsonpath (2024-09-17 05:01 PM)
                 ☐ Move Workbooks to another region https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-move-region (2024-10-30 05:00 PM)
                 ☐ Move Workbook templates to another region https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbook-templates-move-region (2024-09-17 05:01 PM)
@@ -766,7 +766,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
         Azure CLI:
             ☐ Azure Monitor https://learn.microsoft.com/cli/azure/azure-cli-reference-for-monitor (2023-07-05 10:45 AM)
             ☐ Application Insights https://learn.microsoft.com/cli/azure/monitor/app-insights (2024-01-19 11:02 PM)
-            ☐ Activity Logs https://learn.microsoft.com/cli/azure/monitor/activity-log (2023-11-14 09:47 AM)
+            ✘ Activity Logs https://learn.microsoft.com/cli/azure/monitor/activity-log (2023-11-14 09:47 AM) @cancelled
             ☐ Log Analytics https://learn.microsoft.com/cli/azure/monitor/log-analytics (2024-10-08 10:05 PM)
         REST API:
             ☐ Azure Monitor REST API index https://learn.microsoft.com/en-us/azure/azure-monitor/azure-monitor-rest-api-index (2024-09-11 04:50 PM)
@@ -855,7 +855,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                         ☐ Migrate from Application Insights .NET SDKs to OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-dotnet-migrate (2025-01-02 11:02 PM)
                         ☐ Profiler https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-profiler (2025-01-06 11:01 PM)
                             ☐ General https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-config (2025-01-02 11:02 PM)
-                            ☐ JMX metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-jmx-metrics-configuration (2025-01-06 11:01 PM)
+                            ✘ JMX metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-jmx-metrics-configuration (2025-01-06 11:01 PM) @cancelled
                             ☐ Sampling overrides https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-sampling-overrides (2025-01-06 11:01 PM)
                                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors (2025-01-06 11:01 PM)
                                 ☐ Examples https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors-examples (2025-01-06 11:01 PM)
@@ -933,4 +933,15 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Azure Monitor Logs https://learn.microsoft.com/powershell/module/az.operationalinsights/ (2025-01-14 05:13 PM)
             ☐ Application Insights https://learn.microsoft.com/powershell/module/az.applicationinsights/ (2025-01-14 05:13 PM)
             ☐ Change Analysis https://learn.microsoft.com/powershell/module/az.changeanalysis/ (2025-01-14 05:13 PM)
+
+
+---
+
+                            ☐ JMX metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-jmx-metrics-configuration (2025-01-15 12:12 PM)
+                    ☐ Enable VM insights https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable (2025-01-14 10:59 PM)
+                    ☐ Migrate to Azure Monitor agent https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-migrate-agent (2025-01-14 10:59 PM)
+                    ☐ Minimal ingestion profile https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration-minimal (2024-09-11 04:50 PM)
+                ☐ Metric alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-metric-alerts (2025-01-14 10:59 PM)
+                ☐ Bring your own storage https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-bring-your-own-storage (2025-01-15 06:03 PM)
+            ☐ Activity Logs https://learn.microsoft.com/cli/azure/monitor/activity-log (2025-01-14 11:00 PM)
 

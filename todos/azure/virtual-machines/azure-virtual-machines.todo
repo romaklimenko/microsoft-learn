@@ -300,8 +300,8 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             Enable NVMe:
                 ☐ NVMe Overview https://learn.microsoft.com/en-us/azure/virtual-machines/nvme-overview (2024-10-13 11:09 AM)
                 ☐ Temp NVMe Disks FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/enable-nvme-temp-faqs (2024-12-18 10:56 PM)
-                ☐ Remote NVMe Disks FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/enable-nvme-remote-faqs (2024-12-03 12:06 PM)
-                ☐ OS Images Supported https://learn.microsoft.com/en-us/azure/virtual-machines/enable-nvme-interface (2024-10-17 10:00 PM)
+                ✘ Remote NVMe Disks FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/enable-nvme-remote-faqs (2024-12-03 12:06 PM) @cancelled
+                ✘ OS Images Supported https://learn.microsoft.com/en-us/azure/virtual-machines/enable-nvme-interface (2024-10-17 10:00 PM) @cancelled
                 ☐ SCSI to NVMe for Linux VMs https://learn.microsoft.com/en-us/azure/virtual-machines/nvme-linux (2024-12-02 05:31 AM)
             Previous generation and retired sizes:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/retirement-overview (2024-08-22 05:37 PM)
@@ -568,8 +568,8 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                 ☐ Azure Monitor agent https://learn.microsoft.com/azure/azure-monitor/agents/azure-monitor-agent-manage?toc=/azure/virtual-machines/toc.json (2024-12-09 05:37 AM)
                 ☐ Diagnostics extension https://learn.microsoft.com/azure/azure-monitor/agents/diagnostics-extension-overview?toc=/azure/virtual-machines/toc.json (2024-11-14 11:04 PM)
                 VM insights:
-                    ☐ Linux Dependency agent https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-dependency-linux (2024-10-13 11:09 AM)
-                    ☐ Windows Dependency agent https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-dependency-windows (2024-10-13 11:09 AM)
+                    ✘ Linux Dependency agent https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-dependency-linux (2024-10-13 11:09 AM) @cancelled
+                    ✘ Windows Dependency agent https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-dependency-windows (2024-10-13 11:09 AM) @cancelled
                 Legacy extensions:
                     Log Analytics:
                         ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/oms-linux (2024-10-13 11:09 AM)
@@ -638,7 +638,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         ☐ Disk redundancy options https://learn.microsoft.com/en-us/azure/virtual-machines/disks-redundancy (2024-11-21 05:32 AM)
         ✘ What's new in Azure Disk Storage https://learn.microsoft.com/en-us/azure/virtual-machines/disks-whats-new (2024-11-11 11:00 PM) @cancelled
         ☐ Deploy an ultra disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-ultra-ssd (2024-10-24 10:02 PM)
-        ☐ Deploy a premium SSD v2 https://learn.microsoft.com/en-us/azure/virtual-machines/disks-deploy-premium-v2 (2024-10-24 10:02 PM)
+        ✘ Deploy a premium SSD v2 https://learn.microsoft.com/en-us/azure/virtual-machines/disks-deploy-premium-v2 (2024-10-24 10:02 PM) @cancelled
         ☐ Deploy a ZRS disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-deploy-zrs (2024-10-17 05:31 AM)
         ✘ Best practices for achieving high availability https://learn.microsoft.com/en-us/azure/virtual-machines/disks-high-availability (2024-11-21 05:32 AM) @cancelled
         Share a disk between VMs:
@@ -707,7 +707,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             Change disk performance tier:
                 ☐ CLI and PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/disks-performance-tiers (2024-08-23 04:58 PM)
                 ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/disks-performance-tiers-portal (2024-08-23 04:58 PM)
-            ☐ Enable write accelerator https://learn.microsoft.com/en-us/azure/virtual-machines/how-to-enable-write-accelerator (2024-08-22 05:37 PM)
+            ✘ Enable write accelerator https://learn.microsoft.com/en-us/azure/virtual-machines/how-to-enable-write-accelerator (2024-08-22 05:37 PM) @cancelled
             ✘ Benchmark a disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-benchmarks (2024-08-23 04:58 PM) @cancelled
         ☐ Scalability targets for disks https://learn.microsoft.com/en-us/azure/virtual-machines/disks-scalability-targets (2024-12-09 11:00 PM)
         Backup and data protection:
@@ -1128,7 +1128,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 
 ---
 
-            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-13 12:32 PM)
+            ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-13 12:32 PM) @cancelled
             ☐ Reference https://learn.microsoft.com/azure/developer/go/azure-sdk-qs-vm (2024-09-09 05:03 PM)
                     ☐ Create an Azure Compute Gallery https://azure.microsoft.com/resources/templates/sig-create/
         ☐ TCP/IP performance tuning for Azure VMs https://learn.microsoft.com/azure/virtual-network/virtual-network-tcpip-performance-tuning?toc=/azure/virtual-machines/toc.json (2025-01-13 06:03 PM)
@@ -1141,10 +1141,23 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                     ☐ Mbsv3 and Mbdsv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mbsv3-mbdsv3-series (2025-01-13 11:00 PM)
                     ☐ Msv3 and Mdsv3 High Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/msv3-mdsv3-high-memory-series (2025-01-13 11:00 PM)
                     ☐ Mdsv3 Very High Memory Series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mdsv3-very-high-memory-series (2025-01-13 11:00 PM)
-        ☐ Best practices for achieving high availability https://learn.microsoft.com/en-us/azure/virtual-machines/disks-high-availability
+        ✘ Best practices for achieving high availability https://learn.microsoft.com/en-us/azure/virtual-machines/disks-high-availability @cancelled
             ☐ Disk Storage reservations https://learn.microsoft.com/azure/cost-management-billing/reservations/understand-disk-reservations?toc=/azure/virtual-machines/toc.json (2025-01-13 11:06 PM)
-            ☐ Upload a vhd to a disk - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disks-upload-vhd-to-managed-disk-powershell (2025-01-14 06:00 PM)
+            ✘ Upload a vhd to a disk - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disks-upload-vhd-to-managed-disk-powershell (2025-01-14 06:00 PM) @cancelled
         ☐ Just-in-time access https://learn.microsoft.com/azure/security-center/security-center-just-in-time (2025-01-14 06:00 PM)
             ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/azure-vm-watch (2025-01-13 11:00 PM)
             ☐ Install VM watch https://learn.microsoft.com/en-us/azure/virtual-machines/install-vm-watch (2025-01-13 11:00 PM)
+
+
+---
+
+            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-15 12:27 PM)
+                ☐ Remote NVMe Disks FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/enable-nvme-remote-faqs (2025-01-15 05:30 AM)
+                ☐ OS Images Supported https://learn.microsoft.com/en-us/azure/virtual-machines/enable-nvme-interface (2025-01-15 05:30 AM)
+                    ☐ Linux Dependency agent https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-dependency-linux (2025-01-14 11:01 PM)
+                    ☐ Windows Dependency agent https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-dependency-windows (2025-01-14 11:01 PM)
+        ☐ Deploy a premium SSD v2 https://learn.microsoft.com/en-us/azure/virtual-machines/disks-deploy-premium-v2 (2025-01-15 05:30 AM)
+        ☐ Best practices for achieving high availability https://learn.microsoft.com/en-us/azure/virtual-machines/disks-high-availability (2024-11-21 05:32 AM)
+            ☐ Enable write accelerator https://learn.microsoft.com/en-us/azure/virtual-machines/how-to-enable-write-accelerator (2025-01-14 11:01 PM)
+            ☐ Upload a vhd to a disk - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disks-upload-vhd-to-managed-disk-powershell (2025-01-14 11:01 PM)
 

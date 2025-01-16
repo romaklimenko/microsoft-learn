@@ -66,9 +66,9 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ Extended events - ring buffer https://learn.microsoft.com/en-us/azure/azure-sql/database/xevent-code-ring-buffer (2024-11-22 07:03 PM)
         Shared how-to's:
             Connect and query from apps:
-                ☐ Connect and query https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-content-reference-guide (2024-07-31 05:33 PM)
+                ✘ Connect and query https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-content-reference-guide (2024-07-31 05:33 PM) @cancelled
                 ☐ SSMS https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-ssms (2024-09-27 10:32 PM)
-                ☐ .NET with Visual Studio https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-dotnet-visual-studio (2024-11-25 11:30 PM)
+                ✘ .NET with Visual Studio https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-dotnet-visual-studio (2024-11-25 11:30 PM) @cancelled
                 ☐ .NET with Windows, Linux, and macOS https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-dotnet-core (2024-11-25 11:30 PM)
                 ☐ Go https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-go (2024-07-31 05:33 PM)
                 ☐ Node.js https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-nodejs (2024-11-19 06:31 PM)
@@ -265,7 +265,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             Database sharding:
                 ☐ Database sharding https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-introduction (2024-12-11 11:33 PM)
                 ✘ Elastic transactions https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-transactions-overview (2024-09-16 05:36 PM) @cancelled
-                ☐ Elastic queries https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-query-overview (2024-12-11 11:33 PM)
+                ✘ Elastic queries https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-query-overview (2024-12-11 11:33 PM) @cancelled
                 ☐ Elastic client library https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-database-client-library (2024-07-31 05:33 PM)
                 ☐ Shard maps https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-shard-map-management (2024-12-11 11:33 PM)
                 ☐ Query routing https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-data-dependent-routing (2024-12-11 11:33 PM)
@@ -437,7 +437,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ SaaS video indexer https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-video-index-wingtip-brk3120-20171011 (2024-12-11 11:33 PM)
                     ☐ SaaS app security https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-elastic-tools-multi-tenant-row-level-security (2024-12-11 11:33 PM)
                     Multi-tenant SaaS sample application:
-                        ☐ Wingtip Tickets sample https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-welcome-wingtip-tickets-app (2024-12-11 11:33 PM)
+                        ✘ Wingtip Tickets sample https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-welcome-wingtip-tickets-app (2024-12-11 11:33 PM) @cancelled
                         ☐ General guidance https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-wingtip-app-guidance-tips (2024-12-11 11:33 PM)
                         Single application:
                             ☐ Deploy example app https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-standaloneapp-get-started-deploy (2024-12-11 11:33 PM)
@@ -715,7 +715,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Create new VNet and subnet for SQL MI https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/virtual-network-subnet-create-arm-template (2024-07-31 05:33 PM)
                 ☐ Configure existing VNet and subnet for SQL MI https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/vnet-existing-add-subnet (2024-07-31 05:33 PM)
                 ✘ Configure connection types https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/connection-types-overview (2024-11-05 06:54 PM) @cancelled
-                ☐ Configure service endpoint policies for SQL MI https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/service-endpoint-policies-configure (2024-07-31 05:33 PM)
+                ✘ Configure service endpoint policies for SQL MI https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/service-endpoint-policies-configure (2024-07-31 05:33 PM) @cancelled
                 ☐ Configure public endpoint https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/public-endpoint-configure (2024-12-10 06:30 PM)
                 ☐ Configure private endpoint https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/private-endpoint-overview (2024-08-12 10:33 PM)
                 ✘ Move SQL MI to another subnet https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/vnet-subnet-move-instance (2024-10-17 10:35 PM) @cancelled
@@ -1156,9 +1156,23 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ Analyze I/O performance https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/storage-performance-analysis (2025-01-13 11:31 PM)
                     ☐ Premium SSD v2 (preview) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/storage-configuration-premium-ssd-v2 (2025-01-13 11:31 PM)
                     ☐ Configure cluster quorum https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/hadr-cluster-quorum-configure-how-to (2025-01-14 06:30 PM)
-                ☐ Azure PowerShell https://learn.microsoft.com/powershell/azure/ (2025-01-14 05:13 PM)
+                ✘ Azure PowerShell https://learn.microsoft.com/powershell/azure/ (2025-01-14 05:13 PM) @cancelled
             ☐ Assessment rules https://learn.microsoft.com/data-migration/sql-server/managed-instance/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-14 06:30 PM)
             ☐ Assessment rules https://learn.microsoft.com/data-migration/sql-server/database/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-14 06:30 PM)
         ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.sql/ (2025-01-14 05:13 PM)
             ☐ SQL Server on Azure VMs https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new-archive (2025-01-13 11:31 PM)
+
+
+---
+
+                ☐ Connect and query https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-content-reference-guide (2025-01-15 06:31 PM)
+                ☐ .NET with Visual Studio https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-dotnet-visual-studio (2025-01-15 06:31 PM)
+                ☐ Elastic queries https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-query-overview (2025-01-15 06:31 PM)
+                ☐ Configure maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-configure (2025-01-06 11:40 PM)
+                ☐ Maintenance window FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-faq (2024-07-31 05:33 PM)
+                        ☐ Wingtip Tickets sample https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-welcome-wingtip-tickets-app (2025-01-15 06:31 PM)
+                ☐ Configure maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/maintenance-window-configure (2024-07-31 05:33 PM)
+                ☐ Maintenance window FAQ https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/maintenance-window-faq (2024-07-31 05:33 PM)
+                ☐ Configure service endpoint policies for SQL MI https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/service-endpoint-policies-configure (2025-01-15 06:31 PM)
+                ☐ Azure PowerShell https://learn.microsoft.com/powershell/azure/ (2025-01-14 11:38 PM)
 

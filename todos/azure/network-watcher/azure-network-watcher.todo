@@ -14,14 +14,14 @@ Network Watcher Documentation | Microsoft Learn:
         ☐ Diagnose a communication problem between networks https://learn.microsoft.com/en-us/azure/network-watcher/diagnose-communication-problem-between-networks (2024-08-04 11:36 AM)
         ☐ Log VM network traffic https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-tutorial (2024-11-01 10:03 PM)
     Concepts:
-        ☐ Network Watcher FAQ https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions (2024-10-30 07:28 PM)
+        ✘ Network Watcher FAQ https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions (2024-10-30 07:28 PM) @cancelled
         Connection monitor:
             ✘ Overview https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-overview (2024-12-13 06:02 PM) @cancelled
             ☐ Schema https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-schema (2024-08-04 11:36 AM)
         ☐ IP flow verify https://learn.microsoft.com/en-us/azure/network-watcher/ip-flow-verify-overview (2024-10-30 07:28 PM)
         ☐ NSG diagnostics https://learn.microsoft.com/en-us/azure/network-watcher/nsg-diagnostics-overview (2024-10-30 07:28 PM)
         ☐ Next hop https://learn.microsoft.com/en-us/azure/network-watcher/next-hop-overview (2024-08-04 11:36 AM)
-        ☐ Connection troubleshoot https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-overview (2024-08-16 10:04 PM)
+        ✘ Connection troubleshoot https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-overview (2024-08-16 10:04 PM) @cancelled
         ☐ VPN troubleshoot https://learn.microsoft.com/en-us/azure/network-watcher/vpn-troubleshoot-overview (2024-12-20 11:04 PM)
         ☐ Packet capture https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-overview (2024-08-16 10:04 PM)
         ☐ Effective security rules https://learn.microsoft.com/en-us/azure/network-watcher/effective-security-rules-overview (2024-09-30 10:04 PM)
@@ -104,7 +104,7 @@ Network Watcher Documentation | Microsoft Learn:
             ☐ Perform compliance and audit your network https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-nsg-auditing-powershell (2024-11-01 10:03 PM)
         ☐ Determine relative latency between a location and Azure region https://learn.microsoft.com/en-us/azure/network-watcher/view-relative-latencies (2024-08-04 11:36 AM)
     Reference:
-        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/watcher (2024-11-11 10:58 PM)
+        ✘ Azure CLI https://learn.microsoft.com/cli/azure/network/watcher (2024-11-11 10:58 PM) @cancelled
         ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network/#network-watcher (2024-11-19 05:50 PM) @cancelled
         ☐ Java https://learn.microsoft.com/java/api/com.microsoft.azure.management.network (2024-06-12 11:12 AM)
         ☐ Ruby https://www.rubydoc.info/gems/azure_mgmt_network/Azure/Network/Mgmt/V2016_09_01/Models/NetworkWatcher
@@ -192,4 +192,12 @@ Network Watcher Documentation | Microsoft Learn:
 
         ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network/#network-watcher (2025-01-14 05:13 PM) @done(25-01-14 23:00)
         ✔ Python https://learn.microsoft.com/python/api/overview/azure/network (2025-01-14 12:08 PM) @done(25-01-14 23:00)
+
+
+---
+
+        ☐ Network Watcher FAQ https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions (2025-01-14 11:03 PM)
+        ☐ Connection troubleshoot https://learn.microsoft.com/en-us/azure/network-watcher/connection-troubleshoot-overview (2025-01-14 11:03 PM)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/watcher (2025-01-14 11:00 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/network (2025-01-15 12:08 PM)
 

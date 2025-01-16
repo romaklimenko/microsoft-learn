@@ -896,7 +896,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Connect AWS to Sentinel https://learn.microsoft.com/azure/sentinel/connect-aws (2024-12-04 05:32 AM)
                     ☐ Connect Microsoft Entra ID to Sentinel https://learn.microsoft.com/azure/sentinel/connect-azure-active-directory (2024-10-13 11:25 AM)
                     ☐ Connect Defender for Cloud https://learn.microsoft.com/azure/sentinel/connect-defender-for-cloud (2024-11-27 06:02 PM)
-                    ☐ Connect Microsoft Defender XDR https://learn.microsoft.com/azure/sentinel/connect-microsoft-365-defender (2024-11-27 06:02 PM)
+                    ✘ Connect Microsoft Defender XDR https://learn.microsoft.com/azure/sentinel/connect-microsoft-365-defender (2024-11-27 06:02 PM) @cancelled
                     ☐ Integrate Data Explorer with Sentinel https://learn.microsoft.com/azure/sentinel/store-logs-in-azure-data-explorer?tabs=adx-event-hub (2024-12-17 12:06 PM)
                 Microsoft Defender for Cloud:
                     ☐ Overview https://learn.microsoft.com/azure/defender-for-cloud/defender-for-cloud-introduction (2024-10-08 05:04 PM)
@@ -1742,12 +1742,41 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
 
 ---
 
-            ☐ Terraform landing zone implementation https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/terraform/landing-zone-terraform (2024-09-09 10:03 PM)
-            ☐ Design for operations https://learn.microsoft.com/en-us/azure/architecture/guide/guide/design-principles/design-for-operations (2024-09-09 10:03 PM)
-                ☐ Understand data stores in Azure https://learn.microsoft.com/en-us/azure/architecture/guide/data-guide/technology-choices/data-store-classification (2024-09-09 10:03 PM)
-                    ☐ Vector search https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/vector-search (2024-09-09 10:03 PM)
+            ✘ Terraform landing zone implementation https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/terraform/landing-zone-terraform (2024-09-09 10:03 PM) @cancelled
+            ✘ Design for operations https://learn.microsoft.com/en-us/azure/architecture/guide/guide/design-principles/design-for-operations (2024-09-09 10:03 PM) @cancelled
+                ✘ Understand data stores in Azure https://learn.microsoft.com/en-us/azure/architecture/guide/data-guide/technology-choices/data-store-classification (2024-09-09 10:03 PM) @cancelled
+                    ✘ Vector search https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/vector-search (2024-09-09 10:03 PM) @cancelled
         ☐ Saga https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/saga (2024-09-09 10:27 PM)
                     ☐ Connectors overview https://learn.microsoft.com/azure/connectors/apis-list (2025-01-14 01:01 AM)
                     ☐ Support for VMware migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-vmware-migration (2025-01-14 12:35 PM)
     ☐ Cloud Adoption Framework for Azure https://learn.microsoft.com/azure/cloud-adoption-framework/ (2025-01-14 06:00 PM)
+
+
+---
+
+            ☐ Terraform landing zone implementation https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/terraform/landing-zone-terraform (2024-09-09 10:27 PM)
+            ☐ Design for operations https://learn.microsoft.com/en-us/azure/architecture/guide/guide/design-principles/design-for-operations (2024-09-09 10:27 PM)
+                ☐ Understand data stores in Azure https://learn.microsoft.com/en-us/azure/architecture/guide/data-guide/technology-choices/data-store-classification (2024-09-09 10:27 PM)
+                    ☐ Vector search https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/vector-search (2024-09-09 10:27 PM)
+                ☐ Overview https://learn.microsoft.com/azure/cloud-adoption-framework/strategy/responsible-ai (2025-01-15 06:02 PM)
+                ☐ Six key principles https://learn.microsoft.com/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai (2025-01-15 06:02 PM)
+                    ☐ GC Ubuntu with Terraform https://learn.microsoft.com/azure/cloud-adoption-framework/manage/hybrid/server/best-practices/gcp-terraform-ubuntu (2023-08-23 04:47 PM)
+                    ☐ GC Windows with Terraform https://learn.microsoft.com/azure/cloud-adoption-framework/manage/hybrid/server/best-practices/gcp-terraform-windows (2023-08-23 04:47 PM)
+                    ☐ BCDR for AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-business-continuity-and-disaster-recovery (2024-11-21 06:02 PM)
+                    ☐ Govern AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/govern (2024-05-14 05:09 PM)
+                    ☐ Manage and monitor AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring (2024-07-16 04:57 PM)
+                    ☐ Migrate with AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/migrate (2024-06-13 04:56 PM)
+                        ☐ Network topology and connectivity https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-network-topology-connectivity (2024-03-01 05:58 PM)
+                    ☐ Platform automation for AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-platform-automation-and-devops (2024-05-14 05:09 PM)
+                    ☐ Security and governance for AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-security-governance-and-compliance (2024-10-31 05:01 PM)
+                    ☐ Azure billing and Microsoft Entra tenants https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/azure-billing-ad-tenant?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json (2024-11-29 05:59 PM)
+                    ☐ Identity and access management https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/identity-access?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json (2024-12-13 06:00 PM)
+                    ☐ Limit cross-tenant private endpoints https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-best-practices/limit-cross-tenant-private-endpoint-connections (2024-10-22 05:01 PM)
+                    ☐ Resource organization https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json (2024-05-29 04:59 PM)
+                    ☐ BCDR for Azure VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-business-continuity-and-disaster-recovery (2024-11-21 06:02 PM)
+                ☐ Management for Azure environments https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/management (2024-12-13 06:00 PM)
+                ☐ Management for VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring (2024-07-16 04:57 PM)
+                    ☐ Migrate with Azure VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/migrate (2024-06-13 04:56 PM)
+                ☐ Azure governance design area https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/governance (2024-12-13 06:00 PM)
+                    ☐ Connect Microsoft Defender XDR https://learn.microsoft.com/azure/sentinel/connect-microsoft-365-defender (2025-01-15 06:04 PM)
 

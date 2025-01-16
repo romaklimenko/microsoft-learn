@@ -159,7 +159,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                     Connect to Azure App Service:
                         ☐ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-web-app (2024-11-19 06:02 PM)
                         ☐ Azure CLI https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-web-app-cli (2024-11-19 06:02 PM)
-                    ☐ Connect to Azure Application Gateway https://learn.microsoft.com/en-us/azure/frontdoor/how-to-enable-private-link-application-gateway (2024-09-25 10:03 PM)
+                    ✘ Connect to Azure Application Gateway https://learn.microsoft.com/en-us/azure/frontdoor/how-to-enable-private-link-application-gateway (2024-09-25 10:03 PM) @cancelled
                     ☐ Connect to Azure API Management https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-apim (2024-09-26 11:12 AM)
                 Monitor and reports:
                     ✘ Configure diagnostic logs https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-logs (2024-08-01 05:35 AM) @cancelled
@@ -339,7 +339,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                     ✘ HTTP variables https://learn.microsoft.com/en-us/azure/cdn/cdn-http-variables?toc=/azure/frontdoor/TOC.json (2024-09-27 11:13 AM) @cancelled
                 Edgio-specific HTTP headers https://learn.microsoft.com/en-us/azure/cdn/cdn-verizon-http-headers?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM):
                     ✘ X-EC-Debug headers https://learn.microsoft.com/en-us/azure/cdn/cdn-http-debug-headers?toc=/azure/frontdoor/TOC.json (2024-09-06 05:33 AM) @cancelled
-            ☐ Azure CLI https://learn.microsoft.com/cli/azure/cdn (2024-08-06 06:38 AM)
+            ✘ Azure CLI https://learn.microsoft.com/cli/azure/cdn (2024-08-06 06:38 AM) @cancelled
             ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn/ (2024-11-19 05:50 PM) @cancelled
             ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.cdn (2018-06-16 12:36 AM)
             ☐ Java https://learn.microsoft.com/java/api/com.microsoft.azure.management.cdn (2024-06-12 11:12 AM)
@@ -526,4 +526,10 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn (2025-01-14 05:13 PM) @done(25-01-14 22:56)
                 ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.frontdoor (2025-01-14 05:13 PM) @done(25-01-14 22:56)
             ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn/ (2025-01-14 05:13 PM) @done(25-01-14 22:56)
+
+
+---
+
+                    ☐ Connect to Azure Application Gateway https://learn.microsoft.com/en-us/azure/frontdoor/how-to-enable-private-link-application-gateway (2025-01-15 06:04 PM)
+            ☐ Azure CLI https://learn.microsoft.com/cli/azure/cdn (2025-01-14 11:00 PM)
 

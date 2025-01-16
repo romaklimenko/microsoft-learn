@@ -103,7 +103,7 @@ Azure DNS documentation | Microsoft Learn:
         Public DNS:
             ☐ Code samples https://azure.microsoft.com/resources/samples/?service=dns (2024-11-01 08:16 PM)
             ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.dns (2024-11-19 05:50 PM) @cancelled
-            ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/dns (2024-11-11 10:58 PM)
+            ✘ Azure CLI https://learn.microsoft.com/cli/azure/network/dns (2024-11-11 10:58 PM) @cancelled
             ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.dns.models (2018-06-16 12:36 AM)
             ☐ Java https://learn.microsoft.com/java/api/com.microsoft.azure.management.dns (2024-06-12 11:12 AM)
             ☐ Ruby https://www.rubydoc.info/gems/azure_mgmt_dns/0.8.0
@@ -111,7 +111,7 @@ Azure DNS documentation | Microsoft Learn:
             ☐ REST https://learn.microsoft.com/rest/api/dns/ (2024-08-06 10:08 PM)
             ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.network/dns-allversions (2023-02-13 05:58 PM)
         Private DNS:
-            ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/private-dns (2024-11-11 10:58 PM)
+            ✘ Azure CLI https://learn.microsoft.com/cli/azure/network/private-dns (2024-11-11 10:58 PM) @cancelled
             ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.PrivateDns (2024-11-19 05:50 PM) @cancelled
             ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.privatedns-readme (2024-09-10 11:30 AM)
             ☐ REST https://learn.microsoft.com/rest/api/dns/privatedns/privatezones (2023-10-31 09:45 PM)
@@ -248,4 +248,10 @@ Azure DNS documentation | Microsoft Learn:
             ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.dns (2025-01-14 05:13 PM) @done(25-01-14 22:55)
             ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.PrivateDns (2025-01-14 05:13 PM) @done(25-01-14 22:55)
             ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.dnsresolver (2025-01-14 05:13 PM) @done(25-01-14 22:55)
+
+
+---
+
+            ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/dns (2025-01-14 11:00 PM)
+            ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/private-dns (2025-01-14 11:00 PM)
 

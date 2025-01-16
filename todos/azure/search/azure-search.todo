@@ -520,7 +520,7 @@ Azure AI Search documentation | Microsoft Learn:
                 ☐ Eliminate redundant storage https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-storage-options (2024-11-21 06:03 PM)
                 ☐ Truncate dimensions https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-truncate-dimensions (2024-11-25 06:00 PM)
             ☐ Query vectors https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-query (2024-12-11 11:00 PM)
-            ☐ Add a vectorizer for text-to-vector queries https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-configure-vectorizer (2024-11-25 06:00 PM)
+            ✘ Add a vectorizer for text-to-vector queries https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-configure-vectorizer (2024-11-25 06:00 PM) @cancelled
             ☐ Filter on vector queries https://learn.microsoft.com/en-us/azure/search/vector-search-filters (2024-10-11 08:18 AM)
             ☐ Full text query https://learn.microsoft.com/en-us/azure/search/search-query-create (2024-12-06 11:01 PM)
             ☐ Typeahead query https://learn.microsoft.com/en-us/azure/search/search-add-autocomplete-suggestions (2024-10-23 10:03 PM)
@@ -696,7 +696,7 @@ Azure AI Search documentation | Microsoft Learn:
             ☐ Design an index https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-index-schema (2025-01-09 10:59 PM)
             ☐ Build an indexing pipeline https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-pipeline (2025-01-09 10:59 PM)
             ☐ Search and generate answers https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-query (2025-01-09 10:59 PM)
-                ☐ Attach an Azure AI resource https://learn.microsoft.com/en-us/azure/search/cognitive-search-attach-cognitive-services (2025-01-09 10:59 PM)
+                ✘ Attach an Azure AI resource https://learn.microsoft.com/en-us/azure/search/cognitive-search-attach-cognitive-services (2025-01-09 10:59 PM) @cancelled
             ☐ Create a vector index https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-create-index (2025-01-10 11:00 PM)
                 ☐ Understand vector quotas and limits https://learn.microsoft.com/en-us/azure/search/vector-search-index-size (2025-01-10 11:00 PM)
                 ☐ Azure OpenAI Embedding https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-azure-openai-embedding (2025-01-09 10:59 PM)
@@ -714,4 +714,12 @@ Azure AI Search documentation | Microsoft Learn:
                     ✔ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb (2025-01-13 11:00 PM) @done(25-01-14 23:00)
                     ✔ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-cosmos-db (2025-01-13 11:00 PM) @done(25-01-14 23:00)
             ✔ Azure PowerShell https://learn.microsoft.com/powershell/module/az.search (2025-01-14 05:13 PM) @done(25-01-14 23:00)
+
+
+---
+
+                    ☐ Azure Cosmos DB for MongoDB https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb-mongodb (2024-12-10 06:00 PM)
+                    ☐ Azure Cosmos DB for Apache Gremlin https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb-gremlin (2024-12-10 06:00 PM)
+                ☐ Attach an Azure AI resource https://learn.microsoft.com/en-us/azure/search/cognitive-search-attach-cognitive-services (2025-01-15 06:05 PM)
+            ☐ Add a vectorizer for text-to-vector queries https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-configure-vectorizer (2025-01-15 05:30 AM)
 
