@@ -25,9 +25,9 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
         ☐ Keyboard shortcuts https://learn.microsoft.com/en-us/fabric/data-factory/keyboard-shortcuts (2024-05-28 10:03 PM)
     Get started:
         ☐ Create a dataflow https://learn.microsoft.com/en-us/fabric/data-factory/create-first-dataflow-gen2 (2024-12-18 10:58 PM)
-        ☐ Create a data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/create-first-pipeline-with-sample-data (2024-12-18 10:58 PM)
+        ✘ Create a data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/create-first-pipeline-with-sample-data (2024-12-18 10:58 PM) @cancelled
         ☐ Create an Apache Airflow Job https://learn.microsoft.com/en-us/fabric/data-factory/create-apache-airflow-jobs (2024-10-10 10:01 PM)
-        ☐ Operationalize Data Factory https://learn.microsoft.com/en-us/fabric/data-factory/transform-data (2024-12-18 10:58 PM)
+        ✘ Operationalize Data Factory https://learn.microsoft.com/en-us/fabric/data-factory/transform-data (2024-12-18 10:58 PM) @cancelled
         ☐ Decide - Copy activity, dataflow, or Spark? https://learn.microsoft.com/en-us/fabric/get-started/decision-guide-pipeline-dataflow-spark (2024-01-22 06:02 PM)
         ☐ How to access on-premises Data https://learn.microsoft.com/en-us/fabric/data-factory/how-to-access-on-premises-data (2024-12-18 10:58 PM)
         ☐ Monitoring activity in Data Factory https://learn.microsoft.com/en-us/fabric/data-factory/monitor-data-factory (2024-01-22 06:02 PM)
@@ -43,8 +43,8 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
     Tutorials:
         End-to-end Data Factory tutorial:
             ☐ Introduction https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-introduction (2024-12-18 10:58 PM)
-            ☐ Module 1 - Create a pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-pipeline (2024-12-18 10:58 PM)
-            ☐ Module 2 - Transform data with a dataflow https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-dataflow (2024-12-18 10:58 PM)
+            ✘ Module 1 - Create a pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-pipeline (2024-12-18 10:58 PM) @cancelled
+            ✘ Module 2 - Transform data with a dataflow https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-dataflow (2024-12-18 10:58 PM) @cancelled
             ☐ Module 3 - Automate and send notification https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-integration (2024-12-18 10:58 PM)
         ☐ SAP CDC to Fabric OneLake using ADF https://learn.microsoft.com/en-us/fabric/data-factory/change-data-capture-from-sap-to-onelake-with-azure-data-factory (2024-12-18 10:58 PM)
     Connectors:
@@ -349,7 +349,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
             ☐ Web activity https://learn.microsoft.com/en-us/fabric/data-factory/web-activity (2024-12-18 10:58 PM)
             ☐ WebHook activity https://learn.microsoft.com/en-us/fabric/data-factory/webhook-activity (2024-12-18 10:58 PM)
         Concepts:
-            ☐ REST API capabilities https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-rest-api-capabilities (2024-11-20 11:00 PM)
+            ✘ REST API capabilities https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-rest-api-capabilities (2024-11-20 11:00 PM) @cancelled
             ☐ CI/CD for data pipelines https://learn.microsoft.com/en-us/fabric/data-factory/cicd-pipelines (2024-11-26 11:01 PM)
             ☐ Monitor data pipeline runs https://learn.microsoft.com/en-us/fabric/data-factory/monitor-pipeline-runs (2024-12-18 10:58 PM)
             Parameterization:
@@ -366,10 +366,10 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
             ☐ Copy activity performance and scalability guide https://learn.microsoft.com/en-us/fabric/data-factory/copy-activity-performance-and-scalability-guide (2024-12-18 10:58 PM)
             ☐ Use the modern get data experience for pipelines https://learn.microsoft.com/en-us/fabric/data-factory/modern-get-data-experience-pipeline (2024-05-21 05:23 PM)
             ☐ Data type mapping https://learn.microsoft.com/en-us/fabric/data-factory/data-type-mapping (2024-07-26 05:01 PM)
-            ☐ Use AI to turn sketches into pipelines https://learn.microsoft.com/en-us/fabric/data-factory/image-to-pipeline-with-ai (2024-09-18 11:13 AM)
+            ✘ Use AI to turn sketches into pipelines https://learn.microsoft.com/en-us/fabric/data-factory/image-to-pipeline-with-ai (2024-09-18 11:13 AM) @cancelled
         Tutorials:
             ☐ Copy from Azure Blob Storage to Lakehouse https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-pipeline-copy-from-azure-blob-storage-to-lakehouse (2024-12-18 10:58 PM)
-            ☐ Copy sample data into Lakehouse and transform with a dataflow https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-load-data-lakehouse-transform (2024-12-18 10:58 PM)
+            ✘ Copy sample data into Lakehouse and transform with a dataflow https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-load-data-lakehouse-transform (2024-12-18 10:58 PM) @cancelled
             ☐ Execute Azure SQL DW stored procedure and copy data to Lakehouse https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-preprocess-data-with-stored-procedure-load-into-lakehouse (2024-12-18 10:58 PM)
             ☐ Move data from Azure SQL DB into Lakehouse via copy assistant https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-move-data-lakehouse-copy-assistant (2024-12-18 10:58 PM)
             ☐ Move data from Azure SQL DB to Lakehouse via pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-move-data-lakehouse-pipeline (2024-12-18 10:58 PM)
@@ -394,14 +394,14 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
             ☐ How to obfuscate data https://learn.microsoft.com/en-us/fabric/data-factory/data-obfuscation-with-delphix (2024-01-22 06:02 PM)
             ☐ How to handle schema drift https://learn.microsoft.com/en-us/fabric/data-factory/how-to-handle-schema-drift (2024-09-20 05:02 PM)
         Tutorials:
-            ☐ Use a dataflow in a pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-dataflows-gen2-pipeline-activity (2024-12-18 10:58 PM)
-            ☐ Pattern to incrementally amass data with Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-setup-incremental-refresh-with-dataflows-gen2 (2024-12-18 10:58 PM)
+            ✘ Use a dataflow in a pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-dataflows-gen2-pipeline-activity (2024-12-18 10:58 PM) @cancelled
+            ✘ Pattern to incrementally amass data with Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-setup-incremental-refresh-with-dataflows-gen2 (2024-12-18 10:58 PM) @cancelled
             ☐ Slowly changing dimension type 1 https://learn.microsoft.com/en-us/fabric/data-factory/slowly-changing-dimension-type-one (2024-09-20 05:02 PM)
             ☐ Slowly changing dimension type 2 https://learn.microsoft.com/en-us/fabric/data-factory/slowly-changing-dimension-type-two (2024-11-20 11:00 PM)
         ☐ Fabric Dataflows for ADF Mapping Data Flow users https://learn.microsoft.com/en-us/fabric/data-factory/guide-to-dataflows-for-mapping-data-flow-users (2024-12-18 10:58 PM)
     Copy job:
         ☐ What is the Copy job in Data Factory? https://learn.microsoft.com/en-us/fabric/data-factory/what-is-copy-job (2024-11-19 06:02 PM)
-        ☐ How to create a Copy job https://learn.microsoft.com/en-us/fabric/data-factory/create-copy-job (2024-11-19 06:02 PM)
+        ✘ How to create a Copy job https://learn.microsoft.com/en-us/fabric/data-factory/create-copy-job (2024-11-19 06:02 PM) @cancelled
         ☐ How to monitor a Copy job https://learn.microsoft.com/en-us/fabric/data-factory/monitor-copy-job (2024-09-24 07:03 AM)
         ☐ CI/CD for Copy job https://learn.microsoft.com/en-us/fabric/data-factory/cicd-copy-job (2024-11-26 11:01 PM)
     Data gateway:
@@ -515,7 +515,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
         ☐ Data Factory limitations https://learn.microsoft.com/en-us/fabric/data-factory/data-factory-limitations (2024-12-12 12:20 PM)
         ✘ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2024-12-17 11:00 PM) @cancelled
     Reference:
-        ☐ CI/CD for data pipelines https://learn.microsoft.com/en-us/fabric/data-factory/git-integration-deployment-pipelines (2024-05-28 10:03 PM)
+        ✘ CI/CD for data pipelines https://learn.microsoft.com/en-us/fabric/data-factory/git-integration-deployment-pipelines (2024-05-28 10:03 PM) @cancelled
         ☐ Data pipelines REST API https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-rest-api (2024-11-21 10:59 PM)
 
 
@@ -561,4 +561,20 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
 ---
 
         ☐ What's new in Data Factory https://learn.microsoft.com/en-us/fabric/get-started/whats-new?toc=/fabric/data-factory/toc.json#data-factory-in-microsoft-fabric (2025-01-15 12:11 PM)
+
+
+---
+
+        ☐ Create a data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/create-first-pipeline-with-sample-data (2025-01-17 06:02 PM)
+        ☐ Operationalize Data Factory https://learn.microsoft.com/en-us/fabric/data-factory/transform-data (2025-01-17 06:02 PM)
+            ☐ Module 1 - Create a pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-pipeline (2025-01-17 06:02 PM)
+            ☐ Module 2 - Transform data with a dataflow https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-dataflow (2025-01-17 06:02 PM)
+            ☐ REST API capabilities https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-rest-api-capabilities (2025-01-16 06:00 PM)
+            ☐ Use AI to turn sketches into pipelines https://learn.microsoft.com/en-us/fabric/data-factory/image-to-pipeline-with-ai (2025-01-17 06:02 PM)
+            ☐ Copy sample data into Lakehouse and transform with a dataflow https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-load-data-lakehouse-transform (2025-01-17 06:02 PM)
+            ☐ Use a dataflow in a pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-dataflows-gen2-pipeline-activity (2025-01-17 06:02 PM)
+            ☐ Pattern to incrementally amass data with Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-setup-incremental-refresh-with-dataflows-gen2 (2025-01-17 06:02 PM)
+        ☐ How to create a Copy job https://learn.microsoft.com/en-us/fabric/data-factory/create-copy-job (2025-01-17 06:02 PM)
+        ☐ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2025-01-15 11:00 PM)
+        ☐ CI/CD for data pipelines https://learn.microsoft.com/en-us/fabric/data-factory/git-integration-deployment-pipelines (2025-01-17 06:02 PM)
 

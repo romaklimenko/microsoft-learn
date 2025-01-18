@@ -11,8 +11,8 @@ Bicep documentation | Microsoft Learn:
         ✘ Create Bicep templates - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code (2024-12-08 12:09 PM) @cancelled
         ☐ Create Bicep templates - Visual Studio https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio (2024-07-12 05:05 PM)
         ☐ Create template specs https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-template-specs (2024-09-26 10:04 PM)
-        ☐ Create deployment stacks https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-deployment-stacks (2024-11-04 11:02 PM)
-        ☐ Create deployment stacks from template specs https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-deployment-stacks-template-specs (2024-11-04 11:02 PM)
+        ✘ Create deployment stacks https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-deployment-stacks (2024-11-04 11:02 PM) @cancelled
+        ✘ Create deployment stacks from template specs https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-deployment-stacks-template-specs (2024-11-04 11:02 PM) @cancelled
         ☐ Use loops https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-loops (2024-09-26 10:04 PM)
         ☐ Use private module registry https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-private-module-registry (2024-09-19 06:07 PM)
         CI/CD:
@@ -47,7 +47,7 @@ Bicep documentation | Microsoft Learn:
             ☐ Windows virtual machine scale sets https://learn.microsoft.com/azure/virtual-machine-scale-sets/quick-create-bicep-windows?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-22 05:37 PM)
             ☐ Windows virtual machine https://learn.microsoft.com/azure/virtual-machines/windows/quick-create-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-22 05:37 PM)
         Containers:
-            ☐ AKS https://learn.microsoft.com/azure/aks/learn/quick-kubernetes-deploy-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-12-12 05:31 AM)
+            ✘ AKS https://learn.microsoft.com/azure/aks/learn/quick-kubernetes-deploy-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-12-12 05:31 AM) @cancelled
             ☐ Container Instances https://learn.microsoft.com/azure/container-instances/container-instances-quickstart-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-29 10:00 PM)
             ☐ Container Registry https://learn.microsoft.com/azure/container-registry/container-registry-get-started-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-09-27 10:00 PM)
             ☐ Service Fabric https://learn.microsoft.com/azure/service-fabric/quickstart-cluster-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2024-08-22 05:37 PM)
@@ -347,7 +347,7 @@ Bicep documentation | Microsoft Learn:
         ☐ Install Bicep tools https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/install (2025-01-10 11:02 PM)
         ☐ Create Bicep templates - VS Code https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-bicep-use-visual-studio-code (2025-01-10 11:02 PM)
             ☐ Bicep with MSBuild https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/msbuild-bicep-file (2025-01-10 11:02 PM)
-        ☐ Learn modules for Bicep https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep (2025-01-10 11:02 PM)
+        ✘ Learn modules for Bicep https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep (2025-01-10 11:02 PM) @cancelled
             ☐ Microsoft Purview account https://learn.microsoft.com/en-us/azure/purview/quickstart-bicep-create-azure-purview?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-09 11:38 PM)
             ☐ Service Health https://learn.microsoft.com/azure/service-health/alerts-activity-log-service-notifications-bicep?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-12 12:11 PM)
         ☐ Data types https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/data-types (2025-01-10 11:02 PM)
@@ -402,4 +402,11 @@ Bicep documentation | Microsoft Learn:
             ☐ Bicep with GitHub Actions https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-github-actions (2025-01-15 05:32 AM)
             ☐ Pipelines https://learn.microsoft.com/azure/devops/pipelines/apps/cd/azure/deploy-arm-template?toc=/azure/azure-resource-manager/bicep/toc.json (2025-01-14 09:21 PM)
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/resource (2025-01-14 11:00 PM)
+
+
+---
+
+        ✔ Create deployment stacks https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/quickstart-create-deployment-stacks (2025-01-15 11:02 PM) @done(25-01-18 22:15)
+        ✔ Learn modules for Bicep https://learn.microsoft.com/en-us/azure/azure-resource-manager/bicep/learn-bicep (2025-01-15 11:02 PM) @done(25-01-18 22:16)
+            ✔ AKS https://learn.microsoft.com/azure/aks/learn/quick-kubernetes-deploy-bicep?toc=/azure/azure-resource-manager/bicep/toc.json @done(25-01-18 22:16)
 

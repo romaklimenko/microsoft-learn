@@ -91,17 +91,17 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 Upgrade from classic resources and iKey:
                     ☐ Migrate to a workspace-based resource https://learn.microsoft.com/previous-versions/azure/azure-monitor/app/convert-classic-resource (2024-10-28 10:44 PM)
                     ☐ Migrate to connection strings https://learn.microsoft.com/en-us/azure/azure-monitor/app/migrate-from-instrumentation-keys-to-connection-strings (2024-10-11 04:59 PM)
-                ☐ Create a resource https://learn.microsoft.com/en-us/azure/azure-monitor/app/create-workspace-resource (2024-12-10 11:03 PM)
+                ✘ Create a resource https://learn.microsoft.com/en-us/azure/azure-monitor/app/create-workspace-resource (2024-12-10 11:03 PM) @cancelled
                 ☐ Manage Application Insights https://learn.microsoft.com/en-us/azure/azure-monitor/app/powershell (2024-12-08 12:04 PM)
             Experiences:
                 ☐ Application dashboard https://learn.microsoft.com/en-us/azure/azure-monitor/app/overview-dashboard (2024-11-07 10:59 PM)
                 ☐ Application Map https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-map (2024-10-11 10:00 PM)
                 ☐ Failures and Performance Views https://learn.microsoft.com/en-us/azure/azure-monitor/app/failures-and-performance-views (2024-09-11 04:50 PM)
-                ☐ Availability https://learn.microsoft.com/en-us/azure/azure-monitor/app/availability (2024-12-13 05:33 AM)
+                ✘ Availability https://learn.microsoft.com/en-us/azure/azure-monitor/app/availability (2024-12-13 05:33 AM) @cancelled
                 ☐ Live Metric stream https://learn.microsoft.com/en-us/azure/azure-monitor/app/live-stream (2024-12-10 11:03 PM)
                 ☐ Usage (user behavior analytics) https://learn.microsoft.com/en-us/azure/azure-monitor/app/usage (2024-09-11 04:50 PM)
                 ✘ Release and work item insights https://learn.microsoft.com/en-us/azure/azure-monitor/app/release-and-work-item-insights (2024-10-30 09:59 PM) @cancelled
-                ☐ Transaction Search and Diagnostics https://learn.microsoft.com/en-us/azure/azure-monitor/app/transaction-search-and-diagnostics (2024-12-10 11:03 PM)
+                ✘ Transaction Search and Diagnostics https://learn.microsoft.com/en-us/azure/azure-monitor/app/transaction-search-and-diagnostics (2024-12-10 11:03 PM) @cancelled
             Code analysis:
                 Code Optimizations:
                     ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations (2024-12-10 11:03 PM)
@@ -163,11 +163,11 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine (2024-09-11 04:50 PM)
                 ☐ Deploy agents https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-agent (2024-09-13 09:56 PM)
                 ☐ Collect data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-data-collection (2024-12-09 05:37 AM)
-                ☐ Analyze data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-analyze (2024-09-11 04:50 PM)
+                ✘ Analyze data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-analyze (2024-09-11 04:50 PM) @cancelled
                 ☐ Create alerts https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-alerts (2024-09-24 09:59 PM)
                 ✘ Troubleshoot VM performance issues https://learn.microsoft.com/troubleshoot/azure/virtual-machines/performance-diagnostics?toc=/azure/azure-monitor/toc.json (2024-09-04 09:01 AM) @cancelled
             VM insights:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-overview (2024-11-07 10:59 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-overview (2024-11-07 10:59 PM) @cancelled
                 Enable and configure:
                     ✘ Enable VM insights https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable (2024-12-09 05:37 AM) @cancelled
                     ✘ Enable with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-policy (2024-12-04 05:31 AM) @cancelled
@@ -179,7 +179,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ✘ Migrate to Azure Monitor agent https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-migrate-agent (2024-11-07 10:59 PM) @cancelled
                     ☐ Migrate from deprecated policies https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-migrate-deprecated-policies (2024-11-07 10:59 PM)
                 Use VM insights:
-                    ☐ Monitor performance https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-performance (2024-10-30 11:09 AM)
+                    ✘ Monitor performance https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-performance (2024-10-30 11:09 AM) @cancelled
                     ☐ Map dependencies https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-maps (2024-11-08 11:00 PM)
                     ☐ Query map data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-log-query (2024-10-30 11:09 AM)
                     ☐ Monitor changes https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-change-analysis (2024-09-11 04:50 PM)
@@ -208,7 +208,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Supported region mappings https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-region-mapping (2024-09-11 04:50 PM)
                 ☐ Transition from Container monitoring solution https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-transition-solution (2024-10-17 10:00 PM)
             Configure Container Insights (logs):
-                ☐ Collect logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-data-collection-configure (2024-10-16 10:00 PM)
+                ✘ Collect logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-data-collection-configure (2024-10-16 10:00 PM) @cancelled
                 ☐ Filter logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-data-collection-filter (2024-09-11 04:50 PM)
                 ☐ Container log schema https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-logs-schema (2024-11-19 11:01 PM)
                 ☐ High scale https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-high-scale (2024-09-11 04:50 PM)
@@ -260,7 +260,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Network Watcher https://learn.microsoft.com/azure/network-watcher/network-watcher-overview?toc=/azure/azure-monitor/toc.json (2024-10-30 07:28 PM)
             Network Insights:
                 ☐ Overview https://learn.microsoft.com/azure/network-watcher/network-insights-overview?toc=/azure/azure-monitor/toc.json (2024-09-11 06:38 PM)
-                ☐ Topology https://learn.microsoft.com/azure/network-watcher/network-insights-topology?toc=/azure/azure-monitor/toc.json (2024-08-04 11:36 AM)
+                ✘ Topology https://learn.microsoft.com/azure/network-watcher/network-insights-topology?toc=/azure/azure-monitor/toc.json (2024-08-04 11:36 AM) @cancelled
                 ☐ Troubleshoot https://learn.microsoft.com/azure/network-watcher/network-insights-troubleshooting?toc=/azure/azure-monitor/toc.json (2024-09-11 06:38 PM)
         Azure Monitor SCOM Managed Instance:
             ☐ SCOM Managed Instance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/ (2024-09-11 04:50 PM)
@@ -480,7 +480,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ Change pricing tier https://learn.microsoft.com/en-us/azure/azure-monitor/logs/change-pricing-tier (2024-09-11 04:50 PM)
                     ☐ Set a daily cap https://learn.microsoft.com/en-us/azure/azure-monitor/logs/daily-cap (2024-12-01 12:10 PM)
                     Move, delete, or recover a Log Analytics workspace:
-                        ☐ Move a workspace https://learn.microsoft.com/en-us/azure/azure-monitor/logs/move-workspace (2024-12-04 05:31 AM)
+                        ✘ Move a workspace https://learn.microsoft.com/en-us/azure/azure-monitor/logs/move-workspace (2024-12-04 05:31 AM) @cancelled
                         ☐ Move a workspace across regions https://learn.microsoft.com/azure/operational-excellence/relocation-log-analytics (2024-09-11 06:38 PM)
                         ☐ Delete and recover a workspace https://learn.microsoft.com/en-us/azure/azure-monitor/logs/delete-workspace (2024-11-11 05:31 AM)
                     ☐ Replicate workspace across regions https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-replication (2024-10-08 11:05 AM)
@@ -874,13 +874,13 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Connect Grafana to Azure Monitor Prometheus metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-grafana (2025-01-06 12:05 PM)
                     ☐ Manage https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-manage (2025-01-06 12:05 PM)
         ☐ Grafana https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/grafana-plugin (2025-01-06 12:05 PM)
-            ☐ KQL reference https://learn.microsoft.com/azure/data-explorer/kusto/query?toc=/azure/azure-monitor/toc.json (2025-01-06 06:01 PM)
+            ✘ KQL reference https://learn.microsoft.com/azure/data-explorer/kusto/query?toc=/azure/azure-monitor/toc.json (2025-01-06 06:01 PM) @cancelled
 
 
 ---
 
                     ✘ ASP.NET on-premises agent https://learn.microsoft.com/en-us/azure/azure-monitor/app/application-insights-asp-net-agent (2025-01-09 06:00 PM) @cancelled
-                ☐ Troubleshoot VM performance issues https://learn.microsoft.com/troubleshoot/azure/virtual-machines/performance-diagnostics?toc=/azure/azure-monitor/toc.json (2025-01-09 10:01 AM)
+                ✘ Troubleshoot VM performance issues https://learn.microsoft.com/troubleshoot/azure/virtual-machines/performance-diagnostics?toc=/azure/azure-monitor/toc.json (2025-01-09 10:01 AM) @cancelled
                 ✘ Requirements https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-requirements (2025-01-09 06:00 PM) @cancelled
                     ☐ AMA migration helper workbook https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-helper-workbook (2024-11-14 11:04 PM)
                     ☐ DCR Config Generator https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-data-collection-rule-generator (2024-11-14 11:04 PM)
@@ -899,7 +899,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ ASP.NET on-premises agent https://learn.microsoft.com/en-us/azure/azure-monitor/app/application-insights-asp-net-agent (2025-01-09 10:59 PM)
                     ☐ Configure OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-configuration (2025-01-12 12:11 PM)
                 ☐ Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/azure-monitor/app/azure-ad-authentication (2025-01-10 11:01 PM)
-                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings (2025-01-12 12:11 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings (2025-01-12 12:11 PM) @cancelled
                 ✘ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-10 05:34 AM) @cancelled
                 ☐ Requirements https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-requirements (2025-01-10 05:34 AM)
                                 ☐ Virtual Machine https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-guestos-resource-manager-vm (2025-01-10 05:34 AM)
@@ -918,7 +918,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
 
                         ✘ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2025-01-13 06:03 PM) @cancelled(25-01-13 22:31)
                 ☐ Disaster Recovery guidance https://learn.microsoft.com/en-us/azure/azure-monitor/scom-manage-instance/disaster-recovery-guidance (2025-01-13 12:06 PM)
-                ☐ Create Diagnostic Settings with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings-policy (2024-11-20 06:02 PM)
+                ✘ Create Diagnostic Settings with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings-policy (2024-11-20 06:02 PM) @cancelled
                     ☐ Set up a table with the Auxiliary plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/create-custom-table-auxiliary (2025-01-13 06:03 PM)
         ☐ IP addresses, ports, and firewall settings https://learn.microsoft.com/en-us/azure/azure-monitor/ip-addresses (2025-01-13 05:32 AM)
 
@@ -927,7 +927,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
 
                         ☐ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2025-01-13 06:03 PM)
                     ☐ Custom configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration (2025-01-14 05:32 AM)
-                ☐ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-13 11:00 PM)
+                ✘ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-13 11:00 PM) @cancelled
                     ☐ Manage access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-access (2025-01-14 06:01 PM)
             ☐ Azure Monitor https://learn.microsoft.com/powershell/module/az.monitor/ (2025-01-14 05:13 PM)
             ☐ Azure Monitor Logs https://learn.microsoft.com/powershell/module/az.operationalinsights/ (2025-01-14 05:13 PM)
@@ -944,4 +944,24 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Metric alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-metric-alerts (2025-01-14 10:59 PM)
                 ☐ Bring your own storage https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-bring-your-own-storage (2025-01-15 06:03 PM)
             ☐ Activity Logs https://learn.microsoft.com/cli/azure/monitor/activity-log (2025-01-14 11:00 PM)
+
+
+---
+
+                ☐ Create a resource https://learn.microsoft.com/en-us/azure/azure-monitor/app/create-workspace-resource (2025-01-17 06:02 PM)
+                ☐ Availability https://learn.microsoft.com/en-us/azure/azure-monitor/app/availability (2025-01-17 05:33 AM)
+                ☐ Transaction Search and Diagnostics https://learn.microsoft.com/en-us/azure/azure-monitor/app/transaction-search-and-diagnostics (2025-01-17 06:02 PM)
+                ☐ Analyze data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-analyze (2025-01-17 05:33 AM)
+                ☐ Troubleshoot VM performance issues https://learn.microsoft.com/troubleshoot/azure/virtual-machines/performance-diagnostics?toc=/azure/azure-monitor/toc.json (2025-01-16 08:20 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-overview (2025-01-16 05:32 AM)
+                    ☐ Enable with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-policy (2024-12-04 05:31 AM)
+                    ☐ Windows client machines https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-client (2024-11-07 10:59 PM)
+                    ☐ Monitor performance https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-performance (2025-01-17 05:33 AM)
+                ☐ Collect logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-data-collection-configure (2025-01-17 05:33 AM)
+                ☐ Topology https://learn.microsoft.com/azure/network-watcher/network-insights-topology?toc=/azure/azure-monitor/toc.json (2025-01-15 11:02 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings (2025-01-16 06:02 PM)
+                ☐ Create Diagnostic Settings with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings-policy (2025-01-16 06:02 PM)
+                ☐ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-16 05:32 AM)
+                        ☐ Move a workspace https://learn.microsoft.com/en-us/azure/azure-monitor/logs/move-workspace (2025-01-17 05:33 AM)
+            ☐ KQL reference https://learn.microsoft.com/azure/data-explorer/kusto/query?toc=/azure/azure-monitor/toc.json (2025-01-16 06:01 PM)
 

@@ -47,7 +47,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ☐ Maintain and upgrade an AKS cluster https://learn.microsoft.com/en-us/azure/aks/upgrade (2024-08-01 08:29 PM)
         ☐ AKS Communication Manager (Preview) https://learn.microsoft.com/en-us/azure/aks/aks-communication-manager (2024-11-05 10:59 PM)
         ☐ Resource reservations https://learn.microsoft.com/en-us/azure/aks/node-resource-reservations (2024-08-01 08:29 PM)
-        ☐ Backup and recover cluster https://learn.microsoft.com/azure/backup/azure-kubernetes-service-backup-overview?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM)
+        ✘ Backup and recover cluster https://learn.microsoft.com/azure/backup/azure-kubernetes-service-backup-overview?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM) @cancelled
         Observability:
             ☐ Monitor AKS https://learn.microsoft.com/en-us/azure/aks/monitor-aks (2024-12-13 11:02 PM)
             ☐ Monitor control plane metrics https://learn.microsoft.com/en-us/azure/aks/control-plane-metrics-monitor (2024-12-06 05:36 AM)
@@ -82,9 +82,9 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             ☐ Fine-tuning language models https://learn.microsoft.com/en-us/azure/aks/concepts-fine-tune-language-models (2024-08-01 08:29 PM)
             ☐ Machine learning operations (MLOps) https://learn.microsoft.com/en-us/azure/aks/concepts-machine-learning-ops (2024-10-22 10:00 PM)
         Advanced Container Networking Services:
-            ☐ Advanced Container Networking Services (ACNS) overview https://learn.microsoft.com/en-us/azure/aks/advanced-container-networking-services-overview (2024-12-20 12:04 PM)
+            ✘ Advanced Container Networking Services (ACNS) overview https://learn.microsoft.com/en-us/azure/aks/advanced-container-networking-services-overview (2024-12-20 12:04 PM) @cancelled
             ☐ Container Network Observability overview https://learn.microsoft.com/en-us/azure/aks/container-network-observability-concepts (2024-12-20 12:04 PM)
-            ☐ Container Network Security overview https://learn.microsoft.com/en-us/azure/aks/container-network-security-concepts (2024-12-20 12:04 PM)
+            ✘ Container Network Security overview https://learn.microsoft.com/en-us/azure/aks/container-network-security-concepts (2024-12-20 12:04 PM) @cancelled
         ☐ Storage https://learn.microsoft.com/en-us/azure/aks/concepts-storage (2024-12-12 05:31 AM)
         ☐ Scaling https://learn.microsoft.com/en-us/azure/aks/concepts-scale (2024-11-07 05:31 AM)
         Node health:
@@ -93,8 +93,8 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ☐ Service meshes https://learn.microsoft.com/en-us/azure/aks/servicemesh-about (2024-11-29 05:32 AM)
         ☐ Sustainable software engineering https://learn.microsoft.com/en-us/azure/aks/concepts-sustainable-software-engineering (2024-08-01 08:29 PM)
         ☐ Preview API life cycle https://learn.microsoft.com/en-us/azure/aks/concepts-preview-api-life-cycle (2024-10-31 05:34 AM)
-        ☐ Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-overview (2024-09-24 05:00 PM)
-        ☐ GitOps https://learn.microsoft.com/azure/azure-arc/kubernetes/conceptual-gitops-flux2?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-22 05:55 AM)
+        ✘ Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-overview (2024-09-24 05:00 PM) @cancelled
+        ✘ GitOps https://learn.microsoft.com/azure/azure-arc/kubernetes/conceptual-gitops-flux2?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-22 05:55 AM) @cancelled
     Best practices:
         ☐ Overview https://learn.microsoft.com/en-us/azure/aks/best-practices (2024-10-31 05:34 AM)
         ☐ Baseline architecture for an AKS cluster https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks/baseline-aks?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-09-12 04:46 PM)
@@ -126,7 +126,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             ☐ Pod security https://learn.microsoft.com/en-us/azure/aks/developer-best-practices-pod-security (2024-10-31 05:34 AM)
         Networking:
             ☐ TCP Keepalive https://learn.microsoft.com/en-us/azure/aks/improve-network-fault-tolerance-in-aks-using-tcp-keepalive (2024-12-03 06:01 PM)
-        ☐ Back up and recover cluster https://learn.microsoft.com/azure/backup/azure-kubernetes-service-backup-overview?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM)
+        ✘ Back up and recover cluster https://learn.microsoft.com/azure/backup/azure-kubernetes-service-backup-overview?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM) @cancelled
         ☐ Windows containers https://learn.microsoft.com/en-us/azure/aks/windows-best-practices (2024-08-01 08:29 PM)
         ☐ Enforce best practices with deployment safeguards https://learn.microsoft.com/en-us/azure/aks/deployment-safeguards (2024-08-01 08:29 PM)
         AI and machine learning:
@@ -243,7 +243,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Azure kubelogin https://learn.microsoft.com/en-us/azure/aks/kubelogin-authentication (2024-12-12 05:31 AM)
                 ☐ Use managed identities https://learn.microsoft.com/en-us/azure/aks/use-managed-identity (2024-12-12 05:31 AM)
                 ☐ Create a service principal https://learn.microsoft.com/en-us/azure/aks/kubernetes-service-principal (2024-12-12 05:31 AM)
-                ☐ Enable access to AKS clusters using Trusted Access https://learn.microsoft.com/en-us/azure/aks/trusted-access-feature (2024-11-05 10:59 PM)
+                ✘ Enable access to AKS clusters using Trusted Access https://learn.microsoft.com/en-us/azure/aks/trusted-access-feature (2024-11-05 10:59 PM) @cancelled
                 ☐ Limit access to cluster configuration file https://learn.microsoft.com/en-us/azure/aks/control-kubeconfig-access (2024-10-31 05:34 AM)
                 ☐ Define API server authorized IP ranges https://learn.microsoft.com/en-us/azure/aks/api-server-authorized-ip-ranges (2024-10-31 05:34 AM)
                 ☐ Manage cluster certificates and rotation https://learn.microsoft.com/en-us/azure/aks/certificate-rotation (2024-12-12 05:31 AM)
@@ -374,9 +374,9 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ NFS Server - static https://learn.microsoft.com/en-us/azure/aks/azure-nfs-volume (2024-12-12 05:31 AM)
         Configure backup:
             ✘ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-08 06:02 PM) @cancelled
-            ☐ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-08 06:02 PM)
+            ✘ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-08 06:02 PM) @cancelled
             ✘ Restore https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-restore?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM) @cancelled
-            ☐ Manage https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-manage-backups?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-21 11:02 PM)
+            ✘ Manage https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-manage-backups?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-21 11:02 PM) @cancelled
         Observability:
             ☐ Configure AKS diagnostics https://learn.microsoft.com/en-us/azure/aks/aks-diagnostics (2024-10-09 09:59 PM)
             ☐ Enable monitoring for AKS clusters https://learn.microsoft.com/azure/azure-monitor/containers/kubernetes-monitoring-enable?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-11 11:00 PM)
@@ -395,7 +395,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ✘ Configure Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-meshconfig (2024-10-31 05:34 AM) @cancelled
                 ☐ Deploy external or internal Istio Ingress https://learn.microsoft.com/en-us/azure/aks/istio-deploy-ingress (2024-11-05 10:59 PM)
                 ☐ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2024-08-01 08:29 PM)
-                ☐ Plug-in CA certificates for Istio https://learn.microsoft.com/en-us/azure/aks/istio-plugin-ca (2024-08-01 08:29 PM)
+                ✘ Plug-in CA certificates for Istio https://learn.microsoft.com/en-us/azure/aks/istio-plugin-ca (2024-08-01 08:29 PM) @cancelled
                 ☐ Upgrade Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-upgrade (2024-10-31 05:34 AM)
                 ☐ Istio service mesh add-on support policy https://learn.microsoft.com/en-us/azure/aks/istio-support-policy (2024-10-31 05:34 AM)
                 ☐ Istio service mesh add-on performance https://learn.microsoft.com/en-us/azure/aks/istio-scale (2024-10-31 05:34 AM)
@@ -472,14 +472,14 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             ☐ Azure API Management https://learn.microsoft.com/azure/api-management/api-management-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-08-02 11:27 AM)
             Deploy Kubernetes applications:
                 ☐ Deploy Kubernetes applications from Azure Marketplace https://learn.microsoft.com/en-us/azure/aks/deploy-marketplace (2024-10-15 10:00 PM)
-                ☐ Deploy Kubernetes applications with ARM template https://learn.microsoft.com/en-us/azure/aks/deploy-application-template (2024-08-01 08:29 PM)
+                ✘ Deploy Kubernetes applications with ARM template https://learn.microsoft.com/en-us/azure/aks/deploy-application-template (2024-08-01 08:29 PM) @cancelled
                 ☐ Deploy Kubernetes applications with Azure CLI https://learn.microsoft.com/en-us/azure/aks/deploy-application-az-cli (2024-10-31 10:00 PM)
             ☐ Connect an AKS app to Azure SQL Database https://learn.microsoft.com/azure/service-connector/tutorial-python-aks-sql-database-connection-string?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-13 05:38 AM)
             Dapr:
-                ☐ Install the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr (2024-10-31 05:34 AM)
-                ☐ Configure the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-settings (2024-12-10 06:00 PM)
-                ☐ Migrate from Dapr OSS to the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-migration (2024-10-31 05:34 AM)
-                ☐ Deploy and run workflows with the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-workflow (2024-10-31 05:34 AM)
+                ✘ Install the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr (2024-10-31 05:34 AM) @cancelled
+                ✘ Configure the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-settings (2024-12-10 06:00 PM) @cancelled
+                ✘ Migrate from Dapr OSS to the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-migration (2024-10-31 05:34 AM) @cancelled
+                ✘ Deploy and run workflows with the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-workflow (2024-10-31 05:34 AM) @cancelled
                 ☐ Troubleshoot the Dapr extension https://learn.microsoft.com/troubleshoot/azure/azure-kubernetes/troubleshoot-dapr-extension-installation-errors?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-04-10 09:01 AM)
             ✘ GitOps https://learn.microsoft.com/azure/azure-arc/kubernetes/tutorial-use-gitops-flux2?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-31 10:01 PM) @cancelled
             Build applications with Azure App Configuration:
@@ -516,7 +516,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Refactor app https://learn.microsoft.com/en-us/azure/aks/eks-web-refactor (2024-12-13 11:02 PM)
                 ☐ Prepare for deployment https://learn.microsoft.com/en-us/azure/aks/eks-web-prepare (2024-12-13 11:02 PM)
                 ☐ Deploy to Azure https://learn.microsoft.com/en-us/azure/aks/eks-web-deploy (2024-12-13 11:02 PM)
-    ☐ FAQ https://learn.microsoft.com/en-us/azure/aks/faq (2024-12-02 11:02 PM)
+    ✘ FAQ https://learn.microsoft.com/en-us/azure/aks/faq (2024-12-02 11:02 PM) @cancelled
     Reference:
         ✘ Azure CLI https://learn.microsoft.com/cli/azure/aks (2024-11-19 11:00 PM) @cancelled
         ☐ REST https://learn.microsoft.com/rest/api/aks/ (2023-10-31 09:45 PM)
@@ -609,8 +609,8 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ✘ Overview https://learn.microsoft.com/en-us/azure/aks/ai-ml-overview (2025-01-07 05:31 AM) @cancelled
                     ☐ Overview https://learn.microsoft.com/en-us/azure/aks/ray-overview (2025-01-06 11:00 PM)
                     ☐ Configure and deploy a Ray cluster https://learn.microsoft.com/en-us/azure/aks/deploy-ray (2025-01-06 11:00 PM)
-                ☐ Use GPUs https://learn.microsoft.com/en-us/azure/aks/gpu-cluster (2025-01-02 11:02 PM)
-            ☐ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-07 12:17 PM)
+                ✘ Use GPUs https://learn.microsoft.com/en-us/azure/aks/gpu-cluster (2025-01-02 11:02 PM) @cancelled
+            ✘ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-07 12:17 PM) @cancelled
             ✘ Build Django app with PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/tutorial-django-aks-database?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-05 12:06 PM) @cancelled
             ☐ Build Java app with WebLogic Server https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-wls-app (2025-01-06 05:30 AM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/aks/eks-web-overview (2025-01-06 11:00 PM)
@@ -685,10 +685,32 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                     ☐ Test Valkey with Locust https://learn.microsoft.com/en-us/azure/aks/validate-valkey-cluster (2025-01-15 05:31 AM)
             ☐ Labels https://learn.microsoft.com/en-us/azure/aks/use-labels (2025-01-15 05:31 AM)
                 ☐ Confidential Containers overview https://learn.microsoft.com/en-us/azure/aks/confidential-containers-overview (2025-01-14 10:59 PM)
-                ☐ Deploy Confidential Containers with default policy https://learn.microsoft.com/en-us/azure/aks/deploy-confidential-containers-default-policy (2025-01-14 10:59 PM)
+                ✘ Deploy Confidential Containers with default policy https://learn.microsoft.com/en-us/azure/aks/deploy-confidential-containers-default-policy (2025-01-14 10:59 PM) @cancelled
                 ☐ Use kubenet with dual-stack networking https://learn.microsoft.com/en-us/azure/aks/configure-kubenet-dual-stack (2024-09-16 10:00 PM)
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/aks (2025-01-14 11:00 PM)
-        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-15 12:27 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-15 12:08 PM)
-        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-15 12:07 PM)
+        ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-15 12:27 PM) @cancelled
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-15 12:08 PM) @cancelled
+        ✘ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-15 12:07 PM) @cancelled
+
+
+---
+
+        ☐ Back up and recover cluster https://learn.microsoft.com/azure/backup/azure-kubernetes-service-backup-overview?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-16 06:03 PM)
+            ☐ Advanced Container Networking Services (ACNS) overview https://learn.microsoft.com/en-us/azure/aks/advanced-container-networking-services-overview (2025-01-15 11:01 PM)
+            ☐ Container Network Security overview https://learn.microsoft.com/en-us/azure/aks/container-network-security-concepts (2025-01-15 11:01 PM)
+        ☐ GitOps https://learn.microsoft.com/azure/azure-arc/kubernetes/conceptual-gitops-flux2?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-17 05:33 AM)
+        ☐ Back up and recover cluster https://learn.microsoft.com/azure/backup/azure-kubernetes-service-backup-overview?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-16 06:03 PM)
+                ☐ Use GPUs https://learn.microsoft.com/en-us/azure/aks/gpu-cluster (2025-01-15 11:01 PM)
+                ☐ Deploy Confidential Containers with default policy https://learn.microsoft.com/en-us/azure/aks/deploy-confidential-containers-default-policy (2025-01-15 11:01 PM)
+                ☐ Enable access to AKS clusters using Trusted Access https://learn.microsoft.com/en-us/azure/aks/trusted-access-feature (2025-01-17 12:04 PM)
+            ☐ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-16 06:03 PM)
+            ☐ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-16 06:03 PM)
+            ☐ Manage https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-manage-backups?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-16 06:03 PM)
+                ☐ Plug-in CA certificates for Istio https://learn.microsoft.com/en-us/azure/aks/istio-plugin-ca (2025-01-16 06:10 PM)
+                ☐ Deploy Kubernetes applications with ARM template https://learn.microsoft.com/en-us/azure/aks/deploy-application-template (2025-01-17 05:33 AM)
+                ☐ Install the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr (2025-01-16 06:10 PM)
+    ☐ FAQ https://learn.microsoft.com/en-us/azure/aks/faq (2025-01-15 11:01 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-17 12:27 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-17 12:07 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-17 12:07 PM)
 

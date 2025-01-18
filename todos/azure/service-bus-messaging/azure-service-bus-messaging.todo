@@ -13,7 +13,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
                 ☐ Bicep https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-queue-bicep (2024-06-27 05:04 PM)
                 ☐ ARM template https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-queue (2024-06-27 05:04 PM)
             Send and receive messages:
-                ☐ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues (2024-02-06 06:05 PM)
+                ✘ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues (2024-02-06 06:05 PM) @cancelled
                 ☐ Go https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-go-how-to-use-queues (2024-02-04 12:25 PM)
                 Java:
                     ☐ Java https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-java-how-to-use-queues (2024-02-28 11:08 PM)
@@ -27,7 +27,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-tutorial-topics-subscriptions-cli (2024-03-21 05:07 PM)
                 ☐ ARM template https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-topic (2024-06-17 10:05 PM)
             Publish and subscribe for messages:
-                ☐ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions (2024-02-06 06:05 PM)
+                ✘ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions (2024-02-06 06:05 PM) @cancelled
                 Java:
                     ☐ Java https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-java-how-to-use-topics-subscriptions (2024-02-28 11:08 PM)
                     ☐ Spring https://learn.microsoft.com/azure/developer/java/spring-framework/configure-spring-boot-starter-java-app-with-azure-service-bus?toc=/azure/service-bus-messaging/toc.json (2024-12-18 06:02 PM)
@@ -110,7 +110,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
             ✘ Test locally with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator (2024-12-03 05:33 AM) @cancelled
         Migrate:
             ☐ Migrate from ActiveMQ to Azure Service Bus https://learn.microsoft.com/en-us/azure/service-bus-messaging/migrate-jms-activemq-to-servicebus (2024-08-02 10:04 PM)
-            ☐ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management (2024-12-17 06:04 PM)
+            ✘ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management (2024-12-17 06:04 PM) @cancelled
             ☐ Migrate to Passwordless Connections https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-azure-credentials (2024-08-02 10:04 PM)
         Monitor:
             ☐ End-to-end tracing and diagnostics https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-end-to-end-tracing (2024-12-19 11:02 PM)
@@ -181,12 +181,12 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
         ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.servicebus (2024-11-19 05:50 PM) @cancelled
         ☐ REST https://learn.microsoft.com/rest/api/servicebus (2024-08-12 06:27 PM)
         ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.servicebus/allversions (2024-12-03 10:14 PM)
-        ☐ Quotas https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quotas (2024-06-17 10:05 PM)
+        ✘ Quotas https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quotas (2024-06-17 10:05 PM) @cancelled
         ☐ Subscription Rule SQL filter syntax https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-sql-filter (2023-10-16 10:16 PM)
         ☐ Subscription Rule SQL action syntax https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-sql-rule-action (2024-12-17 06:04 PM)
         ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/service-bus-messaging/policy-reference (2024-08-02 10:04 PM)
     Resources:
-        ☐ FAQ https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-faq (2024-08-02 10:04 PM)
+        ✘ FAQ https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-faq (2024-08-02 10:04 PM) @cancelled
         ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-service-bus (2024-10-07 11:05 PM)
         ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=enterprise-integration
         ☐ Blog https://learn.microsoft.com/archive/blogs/servicebus/ (2024-09-25 03:21 AM)
@@ -313,6 +313,17 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
 
 ---
 
-            ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-15 12:08 PM)
-            ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-15 12:07 PM)
+            ✘ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-15 12:08 PM) @cancelled
+            ✘ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-15 12:07 PM) @cancelled
+
+
+---
+
+                ☐ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues (2025-01-17 05:34 AM)
+                ☐ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions (2025-01-17 05:34 AM)
+            ☐ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management (2025-01-17 05:34 AM)
+            ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-17 12:07 PM)
+            ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-17 12:07 PM)
+        ☐ Quotas https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quotas (2025-01-17 05:34 AM)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-faq (2025-01-17 05:34 AM)
 

@@ -3,7 +3,7 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
     Overview:
         ☐ What is Azure OpenAI? https://learn.microsoft.com/en-us/azure/ai-services/openai/overview (2024-12-18 10:58 PM)
         ✘ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits (2024-12-03 05:31 AM) @cancelled
-        ☐ Deployment types https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/deployment-types (2024-12-05 05:32 AM)
+        ✘ Deployment types https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/deployment-types (2024-12-05 05:32 AM) @cancelled
         ✘ Models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models (2024-12-18 10:58 PM) @cancelled
         ✘ Model retirements https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/model-retirements (2024-12-11 06:01 PM) @cancelled
         ☐ Pricing https://azure.microsoft.com/pricing/details/cognitive-services/openai-service/
@@ -167,7 +167,7 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
                 ☐ JavaScript https://learn.microsoft.com/azure/developer/javascript/get-started-app-chat-template (2024-12-05 11:00 PM)
                 ✘ Python https://learn.microsoft.com/azure/developer/python/get-started-app-chat-template (2024-12-17 06:03 PM) @cancelled(24-12-23 22:31)
         ☐ Azure OpenAI monitoring data reference https://learn.microsoft.com/en-us/azure/ai-services/openai/monitor-openai-reference (2024-11-11 11:00 PM)
-        ☐ Realtime API (preview) events reference https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-reference (2024-12-20 12:06 PM)
+        ✘ Realtime API (preview) events reference https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-reference (2024-12-20 12:06 PM) @cancelled
     Resources:
         ☐ Support and help options https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-support-options?context=/azure/ai-services/openai/context/context (2024-11-20 10:59 PM)
         ☐ Intro to Azure OpenAI training https://learn.microsoft.com/training/modules/explore-azure-openai/ (2024-11-26 06:01 PM)
@@ -254,8 +254,8 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
 
 ---
 
-        ☐ Models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models (2025-01-09 06:00 PM)
-        ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new (2025-01-08 05:31 AM)
+        ✘ Models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models (2025-01-09 06:00 PM) @cancelled
+        ✘ What's new https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new (2025-01-08 05:31 AM) @cancelled
         ☐ DALL-E https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart (2025-01-08 05:31 AM)
         ✘ Use your data https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart (2025-01-08 05:31 AM) @cancelled
         ☐ Red teaming large language models (LLMs) https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/red-teaming (2025-01-08 05:31 AM)
@@ -263,7 +263,7 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
         ☐ Azure OpenAI PTU reservation update https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-reservation-update (2025-01-08 05:31 AM)
         ✘ API version lifecycle https://learn.microsoft.com/en-us/azure/ai-services/openai/api-version-deprecation (2025-01-08 06:00 PM) @cancelled
                     ☐ Function calling with Azure Logic Apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/assistants-logic-apps (2025-01-07 11:01 PM)
-            ☐ Prompt caching https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-caching (2025-01-07 11:01 PM)
+            ✘ Prompt caching https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-caching (2025-01-07 11:01 PM) @cancelled
             ☐ Structured outputs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/structured-outputs (2025-01-08 05:31 AM)
             ☐ Deploy and use web apps https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-web-app (2025-01-08 11:01 PM)
         ☐ Use blocklists https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/use-blocklists (2025-01-08 05:31 AM)
@@ -296,4 +296,19 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
 ---
 
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/cognitiveservices?view=azure-cli-latest&preserve-view=true (2025-01-14 11:00 PM)
+
+
+---
+
+        ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits (2025-01-17 06:00 PM)
+        ☐ Deployment types https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/deployment-types (2025-01-15 11:02 PM)
+        ☐ Models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models (2025-01-16 06:01 PM)
+        ☐ Model retirements https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/model-retirements (2025-01-16 06:01 PM)
+        ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new (2025-01-17 06:00 PM)
+        ☐ Realtime API for speech and audio (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-quickstart (2025-01-16 06:01 PM)
+        ☐ Provisioned throughput units (PTU) https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput (2025-01-16 06:01 PM)
+        ☐ Batch https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/batch (2025-01-15 11:02 PM)
+            ☐ Prompt caching https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-caching (2025-01-16 06:01 PM)
+        ☐ Use the Realtime API (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/realtime-audio (2025-01-16 06:01 PM)
+        ☐ Realtime API (preview) events reference https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-reference (2025-01-16 06:01 PM)
 

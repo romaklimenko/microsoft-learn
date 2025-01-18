@@ -50,7 +50,7 @@ Azure Event Hubs documentation | Microsoft Learn:
             ☐ Capture event data in Event Hubs https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-overview (2024-06-27 10:45 PM)
             ☐ Authentication modes for capture destination https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-managed-identity (2024-08-06 11:20 AM)
             ☐ Explore captured Avro files https://learn.microsoft.com/en-us/azure/event-hubs/explore-captured-avro-files (2024-08-01 10:22 PM)
-        ☐ Log compaction https://learn.microsoft.com/en-us/azure/event-hubs/log-compaction (2024-05-22 10:11 PM)
+        ✘ Log compaction https://learn.microsoft.com/en-us/azure/event-hubs/log-compaction (2024-05-22 10:11 PM) @cancelled
         ☐ Application groups https://learn.microsoft.com/en-us/azure/event-hubs/resource-governance-overview (2024-02-05 11:27 PM)
         Local emulator:
             ☐ Overview of Event Hubs emulator https://learn.microsoft.com/en-us/azure/event-hubs/overview-emulator (2024-11-19 06:02 PM)
@@ -104,7 +104,7 @@ Azure Event Hubs documentation | Microsoft Learn:
             ☐ Configure processing units for a premium namespace https://learn.microsoft.com/en-us/azure/event-hubs/configure-processing-units-premium-namespace (2024-11-19 06:02 PM)
             ☐ Add custom data to events https://learn.microsoft.com/en-us/azure/event-hubs/add-custom-data-event (2023-06-01 10:06 PM)
             ☐ Dynamically add partitions https://learn.microsoft.com/en-us/azure/event-hubs/dynamically-add-partitions (2024-12-18 11:02 PM)
-            ☐ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management?toc=/azure/event-hubs/toc.json (2024-12-17 06:04 PM)
+            ✘ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management?toc=/azure/event-hubs/toc.json (2024-12-17 06:04 PM) @cancelled
             ☐ Exchange events between applications using different protocols https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-exchange-events-different-protocols (2024-12-18 11:02 PM)
             ☐ Test locally with Event Hubs emulator https://learn.microsoft.com/en-us/azure/event-hubs/test-locally-with-event-hub-emulator (2024-12-09 06:04 PM)
             Programming language samples:
@@ -213,7 +213,7 @@ Azure Event Hubs documentation | Microsoft Learn:
         ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/event-hubs/policy-reference (2024-02-06 06:05 PM)
     Resources:
         ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-event-hubs (2024-10-07 11:05 PM)
-        ☐ FAQ https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-faq (2024-12-18 11:02 PM)
+        ✘ FAQ https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-faq (2024-12-18 11:02 PM) @cancelled
         ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=iot
         ☐ Pricing https://azure.microsoft.com/pricing/details/event-hubs/
         ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
@@ -304,5 +304,13 @@ Azure Event Hubs documentation | Microsoft Learn:
                 ☐ .NET https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-dotnet-standard-getstarted-send (2025-01-15 06:04 PM)
             ☐ Validate schemas for Event Hubs SDK based applications https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart (2025-01-15 06:04 PM)
                     ☐ Avro schema with Event Hubs SDK(AMQP) https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-dotnet-send-receive-quickstart (2025-01-15 06:04 PM)
-            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-15 12:08 PM)
+            ✘ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-15 12:08 PM) @cancelled
+
+
+---
+
+        ☐ Log compaction https://learn.microsoft.com/en-us/azure/event-hubs/log-compaction (2025-01-16 06:03 PM)
+            ☐ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management?toc=/azure/event-hubs/toc.json (2025-01-17 05:34 AM)
+            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-17 12:07 PM)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-faq (2025-01-17 05:34 AM)
 

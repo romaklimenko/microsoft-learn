@@ -68,7 +68,7 @@ Load Balancer | Microsoft Learn:
             ☐ Manage Load Balancer health status https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-manage-health-status (2024-12-11 06:03 PM)
         Inbound connectivity:
             ✘ Inbound NAT rules https://learn.microsoft.com/en-us/azure/load-balancer/inbound-nat-rules (2024-12-09 06:04 PM) @cancelled
-            ☐ High Availability ports https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-ha-ports-overview (2024-08-01 05:04 PM)
+            ✘ High Availability ports https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-ha-ports-overview (2024-08-01 05:04 PM) @cancelled
             ✘ Multiple frontends https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-multivip-overview (2024-11-04 11:02 PM) @cancelled
             ✘ TCP reset on idle timeout https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-tcp-reset (2024-08-07 10:04 PM) @cancelled
         Outbound connectivity:
@@ -152,7 +152,7 @@ Load Balancer | Microsoft Learn:
         ☐ Pricing https://azure.microsoft.com/pricing/details/load-balancer/
         ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
         ☐ Product updates https://azure.microsoft.com/updates/?product=load-balancer
-        ☐ FAQ https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-faqs (2024-08-01 05:04 PM)
+        ✘ FAQ https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-faqs (2024-08-01 05:04 PM) @cancelled
 
 
 ---
@@ -201,7 +201,7 @@ Load Balancer | Microsoft Learn:
 
             ☐ Terraform https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-terraform (2025-01-10 11:02 PM)
             ☐ Terraform https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-internal-terraform (2025-01-10 11:02 PM)
-            ☐ SNAT for outbound connections to internet https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-outbound-connections (2025-01-09 11:01 PM)
+            ✘ SNAT for outbound connections to internet https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-outbound-connections (2025-01-09 11:01 PM) @cancelled
             ☐ Troubleshoot SNAT exhaustion and connection timeouts https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-outbound-connection (2025-01-09 11:01 PM)
 
 
@@ -213,4 +213,11 @@ Load Balancer | Microsoft Learn:
 ---
 
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/lb (2025-01-14 11:00 PM)
+
+
+---
+
+            ☐ High Availability ports https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-ha-ports-overview (2025-01-16 06:03 PM)
+            ☐ SNAT for outbound connections to internet https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-outbound-connections (2025-01-15 11:02 PM)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-faqs (2025-01-17 06:02 PM)
 

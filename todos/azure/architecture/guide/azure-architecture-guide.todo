@@ -644,7 +644,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
         Identity:
             ✘ Get started https://learn.microsoft.com/en-us/azure/architecture/guide/identity/identity-start-here (2024-09-09 10:27 PM) @cancelled
             Guides:
-                ☐ Microsoft Entra architecture https://learn.microsoft.com/azure/active-directory/fundamentals/active-directory-architecture (2024-11-08 06:00 PM)
+                ✘ Microsoft Entra architecture https://learn.microsoft.com/azure/active-directory/fundamentals/active-directory-architecture (2024-11-08 06:00 PM) @cancelled
                 ✘ Cross-tenant communication https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/cross-tenant-communication-using-multitenanted-applications (2024-09-09 10:27 PM) @cancelled
                 ☐ Identity and access management in Azure https://learn.microsoft.com/security/compass/identity (2024-08-01 09:59 PM)
                 ☐ Compare identity services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2024-10-11 10:00 PM)
@@ -847,7 +847,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Training and simulation https://learn.microsoft.com/windows/mixed-reality/enthusiast-guide/training-simulation (2024-07-03 09:53 PM)
                     ☐ Virtual museums and exhibits https://learn.microsoft.com/windows/mixed-reality/enthusiast-guide/virtual-museums (2024-07-03 09:53 PM)
                     ☐ Virtual reality arcades https://learn.microsoft.com/windows/mixed-reality/enthusiast-guide/virtual-reality-arcades (2024-07-03 09:53 PM)
-                ☐ Mixed reality samples and apps https://learn.microsoft.com/windows/mixed-reality/develop/features-and-samples (2022-09-22 09:31 PM)
+                ✘ Mixed reality samples and apps https://learn.microsoft.com/windows/mixed-reality/develop/features-and-samples (2022-09-22 09:31 PM) @cancelled
                 Spatial Anchors guidance:
                     ✘ Authentication and authorization https://learn.microsoft.com/azure/spatial-anchors/concepts/authentication (2024-12-19 12:13 PM) @cancelled
                     ✘ Anchor relationships https://learn.microsoft.com/azure/spatial-anchors/concepts/anchor-relationships-way-finding (2024-12-19 12:13 PM) @cancelled
@@ -928,14 +928,14 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
         Storage:
             ✘ Get started https://learn.microsoft.com/en-us/azure/architecture/guide/guide/storage/storage-start-here (2024-09-09 10:27 PM) @cancelled
             Guides:
-                ☐ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2024-09-19 06:07 PM)
+                ✘ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2024-09-19 06:07 PM) @cancelled
                 Security and compliance:
                     ✘ Storage encryption for data at rest https://learn.microsoft.com/azure/storage/common/storage-service-encryption (2024-08-22 07:16 PM) @cancelled
                     ☐ Azure Policy controls for Storage https://learn.microsoft.com/azure/storage/common/security-controls-policy (2024-02-07 05:35 AM)
                     ☐ Use private endpoints https://learn.microsoft.com/azure/storage/common/storage-private-endpoints (2024-11-06 05:33 AM)
                     ☐ Security baseline for Azure Storage https://learn.microsoft.com/security/benchmark/azure/baselines/storage-security-baseline (2024-02-21 03:04 AM)
                 ☐ Data redundancy https://learn.microsoft.com/azure/storage/common/storage-redundancy (2024-11-22 05:58 AM)
-                ☐ DR and storage account failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2024-11-22 05:58 AM)
+                ✘ DR and storage account failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2024-11-22 05:58 AM) @cancelled
                 ☐ Azure Storage migration guidance https://learn.microsoft.com/azure/storage/common/storage-migration-overview (2024-08-22 07:16 PM)
                 Blob storage guidance:
                     ☐ Authorize access to blobs with Microsoft Entra ID https://learn.microsoft.com/azure/storage/blobs/authorize-access-azure-active-directory (2024-08-29 05:56 AM)
@@ -950,7 +950,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Planning for deployment https://learn.microsoft.com/azure/storage/files/storage-files-planning (2024-10-22 05:31 AM)
                     ☐ Identity-based authentication https://learn.microsoft.com/azure/storage/files/storage-files-active-directory-overview (2024-10-22 05:31 AM)
                     ☐ Networking considerations https://learn.microsoft.com/azure/storage/files/storage-files-networking-overview (2024-05-10 10:14 PM)
-                    ☐ Disaster recovery and failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2024-11-22 05:58 AM)
+                    ✘ Disaster recovery and failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2024-11-22 05:58 AM) @cancelled
                     ☐ File share backup https://learn.microsoft.com/azure/backup/azure-file-share-backup-overview (2024-11-20 12:17 PM)
                 Queue storage guidance:
                     ☐ Authorize access with Microsoft Entra ID https://learn.microsoft.com/azure/storage/queues/authorize-access-azure-active-directory (2024-04-22 10:06 PM)
@@ -1004,7 +1004,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ Azure Virtual Desktop Agent https://learn.microsoft.com/azure/virtual-desktop/agent-overview (2024-12-03 11:07 PM)
                 ☐ Authentication in Azure Virtual Desktop https://learn.microsoft.com/azure/virtual-desktop/authentication (2024-08-12 05:05 PM)
                 Network connectivity:
-                    ☐ Overview https://learn.microsoft.com/azure/virtual-desktop/network-connectivity (2024-10-30 07:28 PM)
+                    ✘ Overview https://learn.microsoft.com/azure/virtual-desktop/network-connectivity (2024-10-30 07:28 PM) @cancelled
                     ☐ RDP Shortpath https://learn.microsoft.com/azure/virtual-desktop/shortpath (2024-11-04 11:02 PM)
                     ☐ Implement Quality of Service https://learn.microsoft.com/azure/virtual-desktop/rdp-quality-of-service-qos (2024-10-30 07:28 PM)
                     ☐ RDP bandwidth https://learn.microsoft.com/azure/virtual-desktop/rdp-bandwidth (2024-10-30 07:28 PM)
@@ -1014,7 +1014,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ AVD for Azure Local https://learn.microsoft.com/azure/virtual-desktop/azure-local-overview (2024-12-02 06:04 PM)
                 FSLogix guidance:
                     ☐ FSLogix configuration examples https://learn.microsoft.com/fslogix/concepts-configuration-examples (2023-12-05 10:01 PM)
-                    ☐ FSLogix profile containers and files https://learn.microsoft.com/azure/virtual-desktop/fslogix-containers-azure-files (2024-08-22 05:04 PM)
+                    ✘ FSLogix profile containers and files https://learn.microsoft.com/azure/virtual-desktop/fslogix-containers-azure-files (2024-08-22 05:04 PM) @cancelled
                     ☐ Storage FSLogix profile container https://learn.microsoft.com/azure/virtual-desktop/store-fslogix-profile (2024-12-13 06:02 PM)
             Architectures:
                 ✘ Azure Virtual Desktop for the enterprise https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/azure-virtual-desktop/azure-virtual-desktop (2024-09-09 10:27 PM) @cancelled
@@ -1164,10 +1164,10 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Migrate Google Cloud VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-gcp-virtual-machines (2025-01-03 12:39 PM)
                 ☐ Azure VMware Solution in hub-and-spoke https://learn.microsoft.com/azure/azure-vmware/concepts-hub-and-spoke (2025-01-06 06:06 PM)
                     ✘ Apache HDFS migration to Azure https://learn.microsoft.com/en-us/azure/architecture/guide/guide/hadoop/apache-hdfs-migration (2024-09-09 10:27 PM) @cancelled
-                    ☐ Authentication and authorization https://learn.microsoft.com/azure/spatial-anchors/concepts/authentication (2025-01-05 12:12 PM)
-                    ☐ Anchor relationships https://learn.microsoft.com/azure/spatial-anchors/concepts/anchor-relationships-way-finding (2025-01-05 12:12 PM)
-                    ☐ Coarse relocalization https://learn.microsoft.com/azure/spatial-anchors/concepts/coarse-reloc (2025-01-05 12:12 PM)
-                    ☐ Experience guidelines https://learn.microsoft.com/azure/spatial-anchors/concepts/guidelines-effective-anchor-experiences (2025-01-05 12:12 PM)
+                    ✘ Authentication and authorization https://learn.microsoft.com/azure/spatial-anchors/concepts/authentication (2025-01-05 12:12 PM) @cancelled
+                    ✘ Anchor relationships https://learn.microsoft.com/azure/spatial-anchors/concepts/anchor-relationships-way-finding (2025-01-05 12:12 PM) @cancelled
+                    ✘ Coarse relocalization https://learn.microsoft.com/azure/spatial-anchors/concepts/coarse-reloc (2025-01-05 12:12 PM) @cancelled
+                    ✘ Experience guidelines https://learn.microsoft.com/azure/spatial-anchors/concepts/guidelines-effective-anchor-experiences (2025-01-05 12:12 PM) @cancelled
                     ☐ Performance and scalability checklist https://learn.microsoft.com/azure/storage/blobs/storage-performance-checklist (2025-01-02 11:04 PM)
 
 
@@ -1704,7 +1704,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Microsoft Sentinel automated responses https://learn.microsoft.com/en-us/azure/architecture/guide/solution-ideas/articles/microsoft-sentinel-automated-response (2024-09-09 10:27 PM)
             ☐ Get started https://learn.microsoft.com/en-us/azure/architecture/guide/guide/storage/storage-start-here (2024-09-09 10:27 PM)
                     ☐ Storage encryption for data at rest https://learn.microsoft.com/azure/storage/common/storage-service-encryption (2025-01-09 06:03 PM)
-                    ☐ Server-side encryption https://learn.microsoft.com/azure/virtual-machines/disk-encryption (2025-01-09 05:32 AM)
+                    ✘ Server-side encryption https://learn.microsoft.com/azure/virtual-machines/disk-encryption (2025-01-09 05:32 AM) @cancelled
                 ☐ Azure file shares in a hybrid environment https://learn.microsoft.com/en-us/azure/architecture/guide/hybrid/azure-file-share (2024-09-09 10:27 PM)
                 ☐ Azure files secured by AD DS https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/hybrid/azure-files-on-premises-authentication (2024-09-09 10:27 PM)
                     ☐ AKS data protection on ANF https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/file-storage/data-protection-kubernetes-astra-azure-netapp-files (2024-09-09 10:27 PM)
@@ -1779,4 +1779,20 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Migrate with Azure VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/migrate (2024-06-13 04:56 PM)
                 ☐ Azure governance design area https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/governance (2024-12-13 06:00 PM)
                     ☐ Connect Microsoft Defender XDR https://learn.microsoft.com/azure/sentinel/connect-microsoft-365-defender (2025-01-15 06:04 PM)
+
+
+---
+
+                ☐ Microsoft Entra architecture https://learn.microsoft.com/azure/active-directory/fundamentals/active-directory-architecture (2025-01-16 11:00 PM)
+                ☐ Mixed reality samples and apps https://learn.microsoft.com/windows/mixed-reality/develop/features-and-samples (2025-01-16 06:51 PM)
+                    ☐ Authentication and authorization https://learn.microsoft.com/azure/spatial-anchors/concepts/authentication (2025-01-16 11:03 PM)
+                    ☐ Anchor relationships https://learn.microsoft.com/azure/spatial-anchors/concepts/anchor-relationships-way-finding (2025-01-16 11:03 PM)
+                    ☐ Coarse relocalization https://learn.microsoft.com/azure/spatial-anchors/concepts/coarse-reloc (2025-01-16 11:03 PM)
+                    ☐ Experience guidelines https://learn.microsoft.com/azure/spatial-anchors/concepts/guidelines-effective-anchor-experiences (2025-01-16 11:03 PM)
+                ☐ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2025-01-16 06:03 PM)
+                ☐ DR and storage account failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2025-01-15 11:02 PM)
+                    ☐ Disaster recovery and failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2025-01-15 11:02 PM)
+                    ☐ Server-side encryption https://learn.microsoft.com/azure/virtual-machines/disk-encryption (2025-01-17 05:34 AM)
+                    ☐ Overview https://learn.microsoft.com/azure/virtual-desktop/network-connectivity (2025-01-17 06:02 PM)
+                    ☐ FSLogix profile containers and files https://learn.microsoft.com/azure/virtual-desktop/fslogix-containers-azure-files (2025-01-17 06:02 PM)
 

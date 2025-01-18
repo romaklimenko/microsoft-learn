@@ -108,7 +108,7 @@ Virtual WAN documentation | Microsoft Learn:
                 Microsoft Entra authentication clients:
                     ☐ Windows clients https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-client (2024-08-02 11:27 AM)
                     ☐ macOS clients https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-client-mac (2024-08-02 11:27 AM)
-                    ☐ Multi-application Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app (2024-08-02 11:27 AM)
+                    ✘ Multi-application Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app (2024-08-02 11:27 AM) @cancelled
                 Certificate authentication clients:
                     ☐ Windows clients https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows (2024-08-02 11:27 AM)
                     ☐ macOS and iOS clients https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac (2024-08-02 11:27 AM)
@@ -260,7 +260,16 @@ Virtual WAN documentation | Microsoft Learn:
 ---
 
             ☐ Create a NVA in a virtual hub https://learn.microsoft.com/en-us/azure/virtual-wan/how-to-nva-hub (2025-01-14 11:03 PM)
-                    ☐ Configure P2S - Microsoft-registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway (2025-01-14 11:03 PM)
-                    ☐ Configure P2S - manually registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad (2024-09-24 10:04 PM)
-        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network (2025-01-14 11:00 PM)
+                    ✘ Configure P2S - Microsoft-registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway (2025-01-14 11:03 PM) @cancelled
+                    ✘ Configure P2S - manually registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad (2024-09-24 10:04 PM) @cancelled
+        ✘ Azure CLI https://learn.microsoft.com/cli/azure/network (2025-01-14 11:00 PM) @cancelled
+
+
+---
+
+                    ☐ Configure P2S - Microsoft-registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway (2025-01-16 11:03 PM)
+                    ☐ Configure P2S - manually registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad (2025-01-15 11:02 PM)
+                    ☐ Create or modify custom audience app ID https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-register-custom-app (2025-01-15 11:02 PM)
+                    ☐ Multi-application Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app (2025-01-17 05:34 AM)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network (2025-01-16 11:01 PM)
 

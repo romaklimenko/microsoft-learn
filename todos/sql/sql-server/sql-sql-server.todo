@@ -97,7 +97,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                 Configuration:
                     ☐ Modify recovery model https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/view-or-change-the-recovery-model-of-a-database-sql-server (2024-09-09 10:27 PM)
                     ☐ Backup compression https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/configure-backup-compression-sql-server (2024-09-09 10:27 PM)
-                    ☐ Encrypted backup https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/create-an-encrypted-backup (2024-09-09 10:27 PM)
+                    ✘ Encrypted backup https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/create-an-encrypted-backup (2024-09-09 10:27 PM) @cancelled
                     ☐ Limit CPU usage by backup compression (T-SQL) https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/use-resource-governor-to-limit-cpu-usage-by-backup-compression-transact-sql (2024-09-09 10:27 PM)
                     ☐ Set expiration date https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/set-the-expiration-date-on-a-backup-sql-server (2024-09-09 10:27 PM)
                     ☐ View data & log files in a set https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/view-the-data-and-log-files-in-a-backup-set-sql-server (2024-09-09 10:27 PM)
@@ -213,7 +213,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                     ☐ Configure automatic seeding https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/automatically-initialize-always-on-availability-group (2024-09-09 10:27 PM)
                     ☐ Configure backup on replicas https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-backup-on-availability-replicas-sql-server (2024-09-09 10:27 PM)
                     ☐ Configure flexible failover policy https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-flexible-automatic-failover-policy (2024-09-09 10:27 PM)
-                    ☐ Configure distributed availability groups https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-distributed-availability-groups (2024-09-09 10:27 PM)
+                    ✘ Configure distributed availability groups https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-distributed-availability-groups (2024-09-09 10:27 PM) @cancelled
                     ☐ Configure for distributed transactions https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-availability-group-for-distributed-transactions (2024-09-09 10:27 PM)
                     ☐ Configure read-scale availability group https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-read-scale-availability-groups (2024-09-09 10:27 PM)
                     ☐ Configure read-only access replica https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-read-only-access-on-an-availability-replica-sql-server (2024-09-09 10:27 PM)
@@ -2163,7 +2163,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                 ☐ Complete the upgrade https://learn.microsoft.com/en-us/sql/database-engine/install-windows/complete-the-database-engine-upgrade (2024-09-09 10:27 PM)
                 ☐ Change the database compatibility mode & use the Query Store https://learn.microsoft.com/en-us/sql/database-engine/install-windows/change-the-database-compatibility-mode-and-use-the-query-store (2024-09-09 10:27 PM)
                 ☐ Change the database compatibility mode with Query Tuning Assistant https://learn.microsoft.com/en-us/sql/relational-databases/performance/upgrade-dbcompat-using-qta (2024-09-09 10:27 PM)
-                ☐ Latest updates for SQL Server https://learn.microsoft.com/troubleshoot/sql/releases/download-and-install-latest-updates?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-12-12 06:02 PM)
+                ✘ Latest updates for SQL Server https://learn.microsoft.com/troubleshoot/sql/releases/download-and-install-latest-updates?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-12-12 06:02 PM) @cancelled
         End of support:
             ☐ End of support options https://learn.microsoft.com/en-us/sql/end-of-support/sql-server-end-of-support-overview (2024-09-09 10:27 PM)
             ☐ Extended security updates (ESUs) https://learn.microsoft.com/en-us/sql/end-of-support/sql-server-extended-security-updates (2024-09-09 10:27 PM)
@@ -5272,8 +5272,8 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                 ☐ SQL Server 2019 https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-release-notes-2019 (2024-09-09 10:27 PM)
                 ☐ SQL Server 2017 https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-release-notes-2017 (2024-09-09 10:27 PM)
             Release history:
-                ☐ SQL Server 2022 > https://learn.microsoft.com/troubleshoot/sql/linux/release-history-2022?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-11-14 07:14 PM)
-                ☐ SQL Server 2019 > https://learn.microsoft.com/troubleshoot/sql/linux/release-history-2019?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-12-12 07:38 PM)
+                ✘ SQL Server 2022 > https://learn.microsoft.com/troubleshoot/sql/linux/release-history-2022?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-11-14 07:14 PM) @cancelled
+                ✘ SQL Server 2019 > https://learn.microsoft.com/troubleshoot/sql/linux/release-history-2019?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-12-12 07:38 PM) @cancelled
                 ☐ SQL Server 2017 > https://learn.microsoft.com/troubleshoot/sql/linux/release-history-2017?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2024-11-12 07:07 PM)
             Editions and features:
                 ☐ SQL Server 2022 https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-editions-and-components-2022 (2024-09-09 10:27 PM)
@@ -9534,4 +9534,13 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
 
                 ☐ Compare Typed to Untyped XML https://learn.microsoft.com/en-us/sql/relational-databases/xml/compare-typed-xml-to-untyped-xml (2024-09-09 10:27 PM)
                 TDE with Azure SQL Database > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-azure-sql (2025-01-14 06:30 PM):
+
+
+---
+
+                    ☐ Encrypted backup https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/create-an-encrypted-backup
+                    ☐ Configure distributed availability groups https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-distributed-availability-groups
+                ☐ Latest updates for SQL Server https://learn.microsoft.com/troubleshoot/sql/releases/download-and-install-latest-updates?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2025-01-16 06:02 PM)
+                ☐ SQL Server 2022 > https://learn.microsoft.com/troubleshoot/sql/linux/release-history-2022?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2025-01-17 12:14 AM)
+                ☐ SQL Server 2019 > https://learn.microsoft.com/troubleshoot/sql/linux/release-history-2019?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2025-01-16 08:20 PM)
 

@@ -2,8 +2,8 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
     ☐ Azure SQL Documentation https://learn.microsoft.com/en-us/azure/azure-sql/ (2024-09-27 10:32 PM)
     Azure SQL:
         ☐ What is Azure SQL? https://learn.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview (2024-11-05 11:33 PM)
-        ☐ Migrate to Azure SQL https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/ (2024-09-26 10:31 PM)
-        ☐ Migrating SQL Server Workloads FAQ https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/modernization (2024-09-19 10:31 PM)
+        ✘ Migrate to Azure SQL https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/ (2024-09-26 10:31 PM) @cancelled
+        ✘ Migrating SQL Server Workloads FAQ https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/modernization (2024-09-19 10:31 PM) @cancelled
     Shared SQL DB & SQL MI docs:
         Billing options:
             ☐ Azure Hybrid Benefit https://learn.microsoft.com/en-us/azure/azure-sql/azure-hybrid-benefit (2024-07-31 05:33 PM)
@@ -154,7 +154,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ .NET with EF Core https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-dotnet-entity-framework-core-quickstart (2024-11-19 06:31 PM)
                 ✘ Python with pyodbc https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-python-quickstart (2024-10-22 05:33 PM) @cancelled
                 ☐ Node.js with mssql https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-javascript-mssql-quickstart (2024-10-03 10:31 PM)
-                ☐ Use the Azure portal query editor https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-portal (2024-07-31 05:33 PM)
+                ✘ Use the Azure portal query editor https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-portal (2024-07-31 05:33 PM) @cancelled
             ☐ GitHub Actions https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-github-actions-sql-db (2024-10-30 05:31 PM)
         Tutorials:
             Design a database:
@@ -287,14 +287,14 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ✘ Maintenance window FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-faq (2024-07-31 05:33 PM) @cancelled
                 ☐ Advance notifications https://learn.microsoft.com/en-us/azure/azure-sql/database/advance-notifications (2024-07-31 05:33 PM)
         Migration guides:
-            ☐ From Access https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/access-to-sql-database-guide (2024-09-19 10:31 PM)
-            ☐ From Db2 https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/db2-to-sql-database-guide (2024-09-19 10:31 PM)
-            ☐ From Oracle https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/oracle-to-sql-database-guide (2024-12-18 07:02 PM)
-            ☐ From MySQL https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/mysql-to-sql-database-guide (2024-09-19 10:31 PM)
-            ☐ From SAP ASE https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/sap-ase-to-sql-database (2024-09-19 10:31 PM)
+            ✘ From Access https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/access-to-sql-database-guide (2024-09-19 10:31 PM) @cancelled
+            ✘ From Db2 https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/db2-to-sql-database-guide (2024-09-19 10:31 PM) @cancelled
+            ✘ From Oracle https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/oracle-to-sql-database-guide (2024-12-18 07:02 PM) @cancelled
+            ✘ From MySQL https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/mysql-to-sql-database-guide (2024-09-19 10:31 PM) @cancelled
+            ✘ From SAP ASE https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/sap-ase-to-sql-database (2024-09-19 10:31 PM) @cancelled
             From SQL Server:
-                ☐ Overview https://learn.microsoft.com/data-migration/sql-server/database/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-26 10:31 PM)
-                ☐ Migrate https://learn.microsoft.com/data-migration/sql-server/database/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
+                ✘ Overview https://learn.microsoft.com/data-migration/sql-server/database/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-26 10:31 PM) @cancelled
+                ✘ Migrate https://learn.microsoft.com/data-migration/sql-server/database/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
                 ✘ Assessment rules https://learn.microsoft.com/data-migration/sql-server/database/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
         How to https://learn.microsoft.com/en-us/azure/azure-sql/database/how-to-content-reference-guide (2024-09-26 10:31 PM):
             ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/azure-sql/database/cost-management (2024-12-19 11:35 PM)
@@ -302,7 +302,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 Connect and run ad hoc queries:
                     ☐ Azure Data Studio https://learn.microsoft.com/azure-data-studio/quickstart-sql-database (2024-01-04 06:30 PM)
                     ☐ Azure portal query editor https://learn.microsoft.com/en-us/azure/azure-sql/database/query-editor (2024-08-01 10:35 PM)
-                    ☐ VS Code https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-vscode (2024-09-23 05:32 PM)
+                    ✘ VS Code https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-vscode (2024-09-23 05:32 PM) @cancelled
                 Connect and query from apps:
                     ✘ .NET with Microsoft Entra MFA https://learn.microsoft.com/en-us/azure/azure-sql/database/active-directory-interactive-connect-azure-sql-db (2024-11-22 07:03 PM) @cancelled
                     ☐ Java https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-java (2024-11-25 11:30 PM)
@@ -543,11 +543,11 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ MI pub to MI sub https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/replication-between-two-instances-configure-tutorial (2024-07-31 05:33 PM)
                 ☐ MI pub, MI dist, SQL sub https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/replication-two-instances-and-sql-server-configure-tutorial (2024-09-16 05:36 PM)
         Migration guides:
-            ☐ From Db2 https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/managed-instance/db2-to-managed-instance-guide (2024-09-19 10:31 PM)
-            ☐ From Oracle https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/managed-instance/oracle-to-managed-instance-guide (2024-09-19 10:31 PM)
+            ✘ From Db2 https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/managed-instance/db2-to-managed-instance-guide (2024-09-19 10:31 PM) @cancelled
+            ✘ From Oracle https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/managed-instance/oracle-to-managed-instance-guide (2024-09-19 10:31 PM) @cancelled
             From SQL Server:
-                ☐ Overview https://learn.microsoft.com/data-migration/sql-server/managed-instance/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-11-25 11:30 PM)
-                ☐ Migrate https://learn.microsoft.com/data-migration/sql-server/managed-instance/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
+                ✘ Overview https://learn.microsoft.com/data-migration/sql-server/managed-instance/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-11-25 11:30 PM) @cancelled
+                ✘ Migrate https://learn.microsoft.com/data-migration/sql-server/managed-instance/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
                 ☐ Performance baseline https://learn.microsoft.com/data-migration/sql-server/managed-instance/performance-baseline?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
                 ✘ Assessment rules https://learn.microsoft.com/data-migration/sql-server/managed-instance/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
         Concepts:
@@ -810,7 +810,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ Storage configuration https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/storage-configuration (2024-10-22 11:03 PM)
                     ☐ Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/configure-azure-ad-authentication-for-sql-vm (2024-12-03 06:32 PM)
                     ☐ Azure Update Manager https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/azure-update-manager-sql-vm (2024-10-22 11:03 PM)
-                    ☐ Automated Patching https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/automated-patching (2024-10-22 11:03 PM)
+                    ✘ Automated Patching https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/automated-patching (2024-10-22 11:03 PM) @cancelled
                     ☐ Azure Key Vault Integration https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/azure-key-vault-integration-configure (2024-11-25 11:30 PM)
                     ☐ Migrate storage to Ultradisk https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/storage-migrate-to-ultradisk (2024-10-22 11:03 PM)
                     SQL IaaS Agent extension:
@@ -848,7 +848,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                                 ☐ Prerequisites https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-prerequisites-tutorial-single-subnet (2024-10-22 11:03 PM)
                                 ☐ Create availability group https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-tutorial-single-subnet (2024-10-22 11:03 PM)
                                 ☐ Load balancer - Azure portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-load-balancer-portal-configure (2024-10-22 11:03 PM)
-                                ☐ Load balancer - Azure PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-listener-powershell-configure (2024-10-22 11:03 PM)
+                                ✘ Load balancer - Azure PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-listener-powershell-configure (2024-10-22 11:03 PM) @cancelled
                             Configure connectivity:
                                 ☐ VNN listener https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-vnn-azure-load-balancer-configure (2024-10-22 11:03 PM)
                                 ☐ DNN listener https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-distributed-network-name-dnn-listener-configure (2024-10-22 11:03 PM)
@@ -904,13 +904,13 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=compute
                 ☐ Stack Overflow https://stackoverflow.com/search?q=%5Bazure-virtual-machine%5D+sql+server
         Migration guides:
-            ☐ From Db2 https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/virtual-machines/db2-to-sql-on-azure-vm-guide (2024-10-22 11:03 PM)
-            ☐ From Oracle https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/virtual-machines/oracle-to-sql-on-azure-vm-guide (2024-10-22 11:03 PM)
+            ✘ From Db2 https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/virtual-machines/db2-to-sql-on-azure-vm-guide (2024-10-22 11:03 PM) @cancelled
+            ✘ From Oracle https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/virtual-machines/oracle-to-sql-on-azure-vm-guide (2024-10-22 11:03 PM) @cancelled
             From SQL Server:
-                ☐ Overview https://learn.microsoft.com/data-migration/sql-server/virtual-machines/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM)
-                ☐ Migration guide https://learn.microsoft.com/data-migration/sql-server/virtual-machines/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM)
+                ✘ Overview https://learn.microsoft.com/data-migration/sql-server/virtual-machines/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM) @cancelled
+                ✘ Migration guide https://learn.microsoft.com/data-migration/sql-server/virtual-machines/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM) @cancelled
                 ☐ Availability group (AG) https://learn.microsoft.com/data-migration/sql-server/virtual-machines/availability-group-migrate?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-11-19 06:31 PM)
-                ☐ Failover cluster instance (FCI) https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/virtual-machines/sql-server-failover-cluster-instance-to-sql-on-azure-vm (2024-11-19 06:31 PM)
+                ✘ Failover cluster instance (FCI) https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/virtual-machines/sql-server-failover-cluster-instance-to-sql-on-azure-vm (2024-11-19 06:31 PM) @cancelled
                 Using distributed AG:
                     ☐ Prerequisites https://learn.microsoft.com/data-migration/sql-server/virtual-machines/distributed-availability-group-prerequisites?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM)
                     ☐ Standalone instance https://learn.microsoft.com/data-migration/sql-server/virtual-machines/distributed-availability-group-migrate-standalone-instance?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM)
@@ -918,18 +918,18 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ Complete migration https://learn.microsoft.com/data-migration/sql-server/virtual-machines/distributed-availability-group-migrate-complete?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM)
     Migrate from SQL Server:
         ☐ Overview https://learn.microsoft.com/data-migration/sql-server/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
-        ☐ Pre-migration https://learn.microsoft.com/data-migration/sql-server/pre-migration?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
+        ✘ Pre-migration https://learn.microsoft.com/data-migration/sql-server/pre-migration?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
         To Azure SQL Managed Instance:
-            ☐ Overview https://learn.microsoft.com/data-migration/sql-server/managed-instance/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-11-25 11:30 PM)
+            ✘ Overview https://learn.microsoft.com/data-migration/sql-server/managed-instance/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-11-25 11:30 PM) @cancelled
             ✘ Assessment rules https://learn.microsoft.com/data-migration/sql-server/managed-instance/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
             ☐ Performance baseline https://learn.microsoft.com/data-migration/sql-server/managed-instance/performance-baseline?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
             ☐ Custom roles https://learn.microsoft.com/data-migration/sql-server/managed-instance/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
-            ☐ Migration guide https://learn.microsoft.com/data-migration/sql-server/managed-instance/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
+            ✘ Migration guide https://learn.microsoft.com/data-migration/sql-server/managed-instance/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
             ☐ Migration tutorial https://learn.microsoft.com/data-migration/sql-server/managed-instance/database-migration-service?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-12-17 11:31 PM)
         To SQL Server on Azure VMs:
-            ☐ Overview https://learn.microsoft.com/data-migration/sql-server/virtual-machines/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM)
+            ✘ Overview https://learn.microsoft.com/data-migration/sql-server/virtual-machines/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM) @cancelled
             ☐ Custom roles https://learn.microsoft.com/data-migration/sql-server/virtual-machines/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
-            ☐ Migration guide https://learn.microsoft.com/data-migration/sql-server/virtual-machines/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM)
+            ✘ Migration guide https://learn.microsoft.com/data-migration/sql-server/virtual-machines/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM) @cancelled
             ☐ Migration tutorial https://learn.microsoft.com/data-migration/sql-server/virtual-machines/database-migration-service?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
             Migrate with a distributed AG:
                 ☐ Prerequisites https://learn.microsoft.com/data-migration/sql-server/virtual-machines/distributed-availability-group-prerequisites?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-10-22 11:03 PM)
@@ -940,17 +940,17 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Migrate an availability group https://learn.microsoft.com/data-migration/sql-server/virtual-machines/availability-group-migrate?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-11-19 06:31 PM)
                 ☐ Migrate a failover cluster instance https://learn.microsoft.com/data-migration/sql-server/virtual-machines/failover-cluster-instance-migrate?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-11-19 06:31 PM)
         To Azure SQL Database:
-            ☐ Overview https://learn.microsoft.com/data-migration/sql-server/database/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-26 10:31 PM)
+            ✘ Overview https://learn.microsoft.com/data-migration/sql-server/database/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-26 10:31 PM) @cancelled
             ✘ Assessment rules https://learn.microsoft.com/data-migration/sql-server/database/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
             ☐ Custom roles https://learn.microsoft.com/data-migration/sql-server/database/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
-            ☐ Migration guide https://learn.microsoft.com/data-migration/sql-server/database/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
+            ✘ Migration guide https://learn.microsoft.com/data-migration/sql-server/database/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
             ☐ Migration tutorial https://learn.microsoft.com/data-migration/sql-server/database/database-migration-service?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
     Reference:
         ☐ Azure SQL glossary of terms https://learn.microsoft.com/en-us/azure/azure-sql/glossary-terms (2024-12-19 11:35 PM)
         ✘ T-SQL language reference https://learn.microsoft.com/sql/t-sql/language-reference (2024-11-22 07:03 PM) @cancelled
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/azure-cli-reference-for-sql (2023-07-05 10:45 AM)
         ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.sql/ (2024-11-19 05:50 PM) @cancelled
-        ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.sql.models (2018-06-16 12:36 AM)
+        ✘ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.sql.models (2018-06-16 12:36 AM) @cancelled
         ☐ Java https://learn.microsoft.com/java/api/com.microsoft.azure.management.sql (2024-06-12 11:12 AM)
         ☐ REST https://learn.microsoft.com/rest/api/sql/ (2024-08-22 09:51 PM)
         ☐ Resource Manager templates for SQL https://learn.microsoft.com/azure/templates/microsoft.sql/allversions (2024-12-03 10:14 PM)
@@ -1104,7 +1104,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-frequently-asked-questions-faq (2025-01-14 06:30 PM)
                 ☐ Connectivity settings https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-settings (2025-01-14 06:30 PM)
                     ☐ Auditing managed identity https://learn.microsoft.com/en-us/azure/azure-sql/database/auditing-managed-identity (2025-01-14 06:30 PM)
-                ☐ DNS aliases https://learn.microsoft.com/en-us/azure/azure-sql/database/dns-alias-overview (2025-01-14 06:30 PM)
+                ✘ DNS aliases https://learn.microsoft.com/en-us/azure/azure-sql/database/dns-alias-overview (2025-01-14 06:30 PM) @cancelled
                 ☐ Outbound firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/outbound-firewall-rule-overview (2025-01-14 06:30 PM)
                     ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-tde-overview (2025-01-14 06:30 PM)
                     ☐ Managed identities with CMK https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-identity (2025-01-14 06:30 PM)
@@ -1114,13 +1114,13 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Elastic transactions https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-transactions-overview (2025-01-14 06:30 PM)
                 ☐ Move sharded data https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-overview-split-and-merge (2025-01-14 06:30 PM)
                 ☐ Maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window (2025-01-14 06:30 PM)
-                ☐ Assessment rules https://learn.microsoft.com/data-migration/sql-server/database/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-14 06:30 PM)
+                ✘ Assessment rules https://learn.microsoft.com/data-migration/sql-server/database/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-14 06:30 PM) @cancelled
                     ☐ .NET with Microsoft Entra MFA https://learn.microsoft.com/en-us/azure/azure-sql/database/active-directory-interactive-connect-azure-sql-db (2025-01-14 06:30 PM)
                 ☐ Management API reference https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-manage (2025-01-14 06:30 PM)
                 ☐ Manage pool resources https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-pool-manage (2025-01-14 06:30 PM)
                 ☐ Move resources to a new region https://learn.microsoft.com/en-us/azure/azure-sql/database/move-resources-across-regions (2025-01-14 06:30 PM)
                 ☐ Configure backup retention using Azure Blob storage https://learn.microsoft.com/en-us/azure/azure-sql/database/long-term-backup-retention-configure (2025-01-14 06:30 PM)
-                ☐ Recover using backups https://learn.microsoft.com/en-us/azure/azure-sql/database/recovery-using-backups (2025-01-13 11:31 PM)
+                ✘ Recover using backups https://learn.microsoft.com/en-us/azure/azure-sql/database/recovery-using-backups (2025-01-13 11:31 PM) @cancelled
                 ☐ IP-based firewall https://learn.microsoft.com/en-us/azure/azure-sql/database/firewall-configure (2025-01-14 06:30 PM)
                     ☐ Manage vulnerability assessments https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-manage?toc=/azure/azure-sql/toc.json (2025-01-14 06:00 PM)
                     ☐ Create server configured with UMI and customer-managed TDE https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-create-server (2025-01-14 06:30 PM)
@@ -1136,7 +1136,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Develop a Kubernetes app with Azure SQL Database https://learn.microsoft.com/en-us/azure/azure-sql/database/develop-kubernetes-application (2025-01-14 06:30 PM)
                 ☐ Minimal TLS version https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/minimal-tls-version-configure (2025-01-14 06:30 PM)
                 ☐ Long-term backup retention https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/long-term-backup-retention-configure (2025-01-14 06:30 PM)
-                ☐ Assessment rules https://learn.microsoft.com/data-migration/sql-server/managed-instance/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-14 06:30 PM)
+                ✘ Assessment rules https://learn.microsoft.com/data-migration/sql-server/managed-instance/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-14 06:30 PM) @cancelled
                 ☐ API reference https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/api-references-create-manage-instance (2025-01-14 06:30 PM)
                     ☐ Set up the incoming trust-based flow https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/winauth-azuread-setup-incoming-trust-based-flow (2025-01-14 06:30 PM)
                 ☐ Maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/maintenance-window (2025-01-14 06:30 PM)
@@ -1157,8 +1157,8 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ Premium SSD v2 (preview) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/storage-configuration-premium-ssd-v2 (2025-01-13 11:31 PM)
                     ☐ Configure cluster quorum https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/hadr-cluster-quorum-configure-how-to (2025-01-14 06:30 PM)
                 ✘ Azure PowerShell https://learn.microsoft.com/powershell/azure/ (2025-01-14 05:13 PM) @cancelled
-            ☐ Assessment rules https://learn.microsoft.com/data-migration/sql-server/managed-instance/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-14 06:30 PM)
-            ☐ Assessment rules https://learn.microsoft.com/data-migration/sql-server/database/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-14 06:30 PM)
+            ✘ Assessment rules https://learn.microsoft.com/data-migration/sql-server/managed-instance/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-14 06:30 PM) @cancelled
+            ✘ Assessment rules https://learn.microsoft.com/data-migration/sql-server/database/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-14 06:30 PM) @cancelled
         ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.sql/ (2025-01-14 05:13 PM)
             ☐ SQL Server on Azure VMs https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new-archive (2025-01-13 11:31 PM)
 
@@ -1175,4 +1175,43 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Maintenance window FAQ https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/maintenance-window-faq (2024-07-31 05:33 PM)
                 ☐ Configure service endpoint policies for SQL MI https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/service-endpoint-policies-configure (2025-01-15 06:31 PM)
                 ☐ Azure PowerShell https://learn.microsoft.com/powershell/azure/ (2025-01-14 11:38 PM)
+
+
+---
+
+        ☐ Migrate to Azure SQL https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/ (2025-01-15 11:30 PM)
+                ☐ Use the Azure portal query editor https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-portal (2025-01-16 06:32 PM)
+                ☐ DNS aliases https://learn.microsoft.com/en-us/azure/azure-sql/database/dns-alias-overview (2025-01-16 11:32 PM)
+            ☐ From Access https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/access-to-sql-database-guide (2025-01-15 11:30 PM)
+            ☐ From Db2 https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/db2-to-sql-database-guide (2025-01-15 11:30 PM)
+            ☐ From Oracle https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/oracle-to-sql-database-guide (2025-01-15 11:30 PM)
+            ☐ From MySQL https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/mysql-to-sql-database-guide (2025-01-15 11:30 PM)
+            ☐ From SAP ASE https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/sap-ase-to-sql-database (2025-01-15 11:30 PM)
+                ☐ Overview https://learn.microsoft.com/data-migration/sql-server/database/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+                ☐ Migrate https://learn.microsoft.com/data-migration/sql-server/database/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+                ☐ Assessment rules https://learn.microsoft.com/data-migration/sql-server/database/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+                    ☐ VS Code https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-vscode (2025-01-16 11:32 PM)
+                ☐ Recover using backups https://learn.microsoft.com/en-us/azure/azure-sql/database/recovery-using-backups (2025-01-16 11:32 PM)
+            ☐ From Db2 https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/managed-instance/db2-to-managed-instance-guide (2025-01-15 11:30 PM)
+            ☐ From Oracle https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/managed-instance/oracle-to-managed-instance-guide (2025-01-15 11:30 PM)
+                ☐ Overview https://learn.microsoft.com/data-migration/sql-server/managed-instance/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+                ☐ Migrate https://learn.microsoft.com/data-migration/sql-server/managed-instance/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+                ☐ Assessment rules https://learn.microsoft.com/data-migration/sql-server/managed-instance/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+                    ☐ Automated Patching https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/automated-patching (2025-01-17 06:30 PM)
+                    ☐ Backup and restore using managed identities https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/backup-restore-to-url-using-managed-identities (2025-01-16 06:32 PM)
+                    ☐ EKM with AKV using managed identities https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/managed-identity-extensible-key-management (2025-01-16 06:32 PM)
+                                ☐ Load balancer - Azure PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-listener-powershell-configure (2025-01-17 06:30 PM)
+            ☐ From Oracle https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/virtual-machines/oracle-to-sql-on-azure-vm-guide (2025-01-15 11:30 PM)
+                ☐ Overview https://learn.microsoft.com/data-migration/sql-server/virtual-machines/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+                ☐ Migration guide https://learn.microsoft.com/data-migration/sql-server/virtual-machines/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+        ☐ Pre-migration https://learn.microsoft.com/data-migration/sql-server/pre-migration?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+            ☐ Overview https://learn.microsoft.com/data-migration/sql-server/managed-instance/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+            ☐ Assessment rules https://learn.microsoft.com/data-migration/sql-server/managed-instance/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+            ☐ Migration guide https://learn.microsoft.com/data-migration/sql-server/managed-instance/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+            ☐ Overview https://learn.microsoft.com/data-migration/sql-server/virtual-machines/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+            ☐ Migration guide https://learn.microsoft.com/data-migration/sql-server/virtual-machines/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+            ☐ Overview https://learn.microsoft.com/data-migration/sql-server/database/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+            ☐ Assessment rules https://learn.microsoft.com/data-migration/sql-server/database/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+            ☐ Migration guide https://learn.microsoft.com/data-migration/sql-server/database/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.sql.models
 

@@ -11,7 +11,7 @@ Azure Relay documentation | Microsoft Learn:
             ☐ Send and receive messages - Java HTTP https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-java-get-started (2024-01-08 06:30 PM)
             ☐ Send and receive messages - Python WebSockets https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-python-get-started (2024-05-30 05:10 PM)
         Windows Communication Foundation (WCF):
-            ☐ Expose an on-premises WCF service to a web application in the cloud https://learn.microsoft.com/en-us/azure/azure-relay/service-bus-dotnet-hybrid-app-using-service-bus-relay (2024-12-11 11:02 PM)
+            ✘ Expose an on-premises WCF service to a web application in the cloud https://learn.microsoft.com/en-us/azure/azure-relay/service-bus-dotnet-hybrid-app-using-service-bus-relay (2024-12-11 11:02 PM) @cancelled
             ✘ Expose an on-premises WCF service to a WCF client outside your network https://learn.microsoft.com/en-us/azure/azure-relay/service-bus-relay-tutorial (2024-12-11 11:02 PM) @cancelled(24-12-23 17:18)
             ☐ Expose an on-premises WCF REST service to a client outside your network https://learn.microsoft.com/en-us/azure/azure-relay/service-bus-relay-rest-tutorial (2024-12-11 11:02 PM)
     Samples:
@@ -28,7 +28,7 @@ Azure Relay documentation | Microsoft Learn:
         ☐ Hybrid Connections protocol https://learn.microsoft.com/en-us/azure/azure-relay/relay-hybrid-connections-protocol (2024-12-11 11:02 PM)
     How To:
         ☐ Move across regions https://learn.microsoft.com/en-us/azure/azure-relay/move-across-regions (2024-12-10 11:02 PM)
-        ☐ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management?toc=/azure/service-bus-relay/toc.json (2024-12-17 06:04 PM)
+        ✘ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management?toc=/azure/service-bus-relay/toc.json (2024-12-17 06:04 PM) @cancelled
         Develop:
             ☐ Create a namespace https://learn.microsoft.com/en-us/azure/azure-relay/relay-create-namespace-portal (2024-12-10 11:02 PM)
             Available APIs https://learn.microsoft.com/en-us/azure/azure-relay/relay-api-overview (2024-12-10 11:02 PM):
@@ -61,4 +61,10 @@ Azure Relay documentation | Microsoft Learn:
 ---
 
             ✔ Expose an on-premises WCF service to a WCF client outside your network https://learn.microsoft.com/en-us/azure/azure-relay/service-bus-relay-tutorial (2024-12-22 06:03 PM) @done(24-12-23 17:18)
+
+
+---
+
+            ✔ Expose an on-premises WCF service to a web application in the cloud https://learn.microsoft.com/en-us/azure/azure-relay/service-bus-dotnet-hybrid-app-using-service-bus-relay (2025-01-16 06:03 PM) @done(25-01-18 22:13)
+        ✔ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management?toc=/azure/service-bus-relay/toc.json (2025-01-17 05:34 AM) @done(25-01-18 22:14)
 

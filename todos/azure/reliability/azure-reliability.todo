@@ -15,7 +15,7 @@ Azure reliability documentation | Microsoft Learn:
                 ✘ Azure API Management https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt (2024-11-27 11:03 PM) @cancelled
                 ☐ Azure App Configuration https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration (2024-11-20 11:04 PM)
                 ☐ Azure Application Gateway https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2 (2024-11-20 11:04 PM)
-                ☐ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service#configure-availability-zone-support (2024-11-20 11:04 PM)
+                ✘ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service#configure-availability-zone-support (2024-11-20 11:04 PM) @cancelled
                 ☐ Azure Functions https://learn.microsoft.com/en-us/azure/reliability/migrate-functions (2023-09-24 11:29 AM)
                 ☐ Azure Cache for Redis https://learn.microsoft.com/en-us/azure/reliability/migrate-cache-redis (2024-12-06 11:03 PM)
                 ☐ Azure AI Search https://learn.microsoft.com/en-us/azure/reliability/migrate-search-service (2024-08-28 07:22 PM)
@@ -27,7 +27,7 @@ Azure reliability documentation | Microsoft Learn:
                 ☐ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/reliability/migrate-cosmos-nosql (2024-11-20 11:04 PM)
                 ☐ Azure Database for MySQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/migrate-database-mysql-flex (2024-08-14 06:47 PM)
                 ✘ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2024-12-17 10:59 PM) @cancelled
-                ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san#availability-zone-migration (2024-12-11 05:32 AM)
+                ✘ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san#availability-zone-migration (2024-12-11 05:32 AM) @cancelled
                 ☐ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight#availability-zone-migration (2024-11-20 11:04 PM)
                 ☐ Azure Kubernetes Service https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability (2024-10-31 05:34 AM)
                 ☐ Azure Load Balancer https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer (2024-01-21 12:36 PM)
@@ -51,7 +51,7 @@ Azure reliability documentation | Microsoft Learn:
         ✘ Overview https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance (2024-12-02 11:02 PM) @cancelled
         AI and machine learning:
             ☐ Azure AI Health Insights https://learn.microsoft.com/en-us/azure/reliability/reliability-health-insights (2024-11-22 05:58 AM)
-            ☐ Azure AI Search https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 05:31 AM)
+            ✘ Azure AI Search https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 05:31 AM) @cancelled
             ☐ Azure Bot Service https://learn.microsoft.com/en-us/azure/reliability/reliability-bot (2024-11-22 05:58 AM)
             ✘ Azure Machine Learning Service https://learn.microsoft.com/azure/machine-learning/how-to-high-availability-machine-learning?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 05:31 AM) @cancelled
         Analytics:
@@ -63,10 +63,10 @@ Azure reliability documentation | Microsoft Learn:
             ☐ Azure Data Explorer https://learn.microsoft.com/azure/data-explorer/business-continuity-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-20 02:54 PM)
             ☐ Azure Data Share https://learn.microsoft.com/en-us/azure/data-share/disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-22 05:58 AM)
             ☐ Azure Chaos Studio https://learn.microsoft.com/en-us/azure/reliability/reliability-chaos-studio (2024-11-22 05:58 AM)
-            ☐ Microsoft Fabric https://learn.microsoft.com/en-us/azure/reliability/reliability-fabric (2024-12-05 11:02 PM)
+            ✘ Microsoft Fabric https://learn.microsoft.com/en-us/azure/reliability/reliability-fabric (2024-12-05 11:02 PM) @cancelled
             ☐ Microsoft Purview https://learn.microsoft.com/en-us/azure/reliability/reliability-microsoft-purview (2024-12-13 06:02 PM)
         Compute:
-            ☐ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2024-11-20 11:04 PM)
+            ✘ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2024-11-20 11:04 PM) @cancelled
             ☐ Azure Batch https://learn.microsoft.com/en-us/azure/reliability/reliability-batch (2024-11-20 11:04 PM)
             ☐ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps (2024-11-20 11:04 PM)
             ☐ Azure Container Instances https://learn.microsoft.com/en-us/azure/reliability/reliability-containers (2024-10-14 10:04 PM)
@@ -198,27 +198,27 @@ Azure reliability documentation | Microsoft Learn:
         Storage:
             ☐ Azure Backup https://learn.microsoft.com/en-us/azure/reliability/reliability-backup (2024-08-02 05:06 PM)
             Azure Blob Storage:
-                ☐ Availability zones https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#choose-the-right-redundancy-option (2024-11-22 05:58 AM)
-                ☐ Disaster recovery https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-22 05:58 AM)
+                ✘ Availability zones https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#choose-the-right-redundancy-option (2024-11-22 05:58 AM) @cancelled
+                ✘ Disaster recovery https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-22 05:58 AM) @cancelled
             ☐ Azure Databox https://learn.microsoft.com/en-us/azure/databox/data-box-disk-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-can-i-recover-my-data-if-an-entire-region-fails- (2024-11-22 05:58 AM)
-            ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san (2024-12-11 05:32 AM)
+            ✘ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san (2024-12-11 05:32 AM) @cancelled
             ☐ Azure NetApp Files https://learn.microsoft.com/en-us/azure/azure-netapp-files/cross-region-replication-manage-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-04-23 10:05 PM)
             ☐ Azure Storage Actions https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-actions (2024-11-22 05:58 AM)
             ☐ Azure Storage-Disk Storage https://learn.microsoft.com/azure/virtual-machines/disks-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 05:32 AM)
             ☐ Azure Storage Mover https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-storage-mover (2024-11-20 11:04 PM)
         Web:
-            ☐ Azure AI Search https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 05:31 AM)
+            ✘ Azure AI Search https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 05:31 AM) @cancelled
             Azure API Management:
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/api-management/high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-27 11:03 PM)
                 ✘ Disaster recovery https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-11 06:07 PM) @cancelled
-            ☐ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2024-11-20 11:04 PM)
+            ✘ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2024-11-20 11:04 PM) @cancelled
             ☐ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps (2024-11-20 11:04 PM)
             ☐ Azure Notification Hubs https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs (2024-12-13 11:03 PM)
             ☐ Azure SignalR Service https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-concept-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-03 06:03 PM)
     Resources:
         Service availability:
             ☐ Service availability by region https://azure.microsoft.com/global-infrastructure/services/
-            ☐ Service availability by category https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category (2024-12-17 06:04 PM)
+            ✘ Service availability by category https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category (2024-12-17 06:04 PM) @cancelled
             Service availability by sovereign cloud:
                 ☐ US Government https://learn.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#service-availability (2024-09-30 11:14 AM)
                 ☐ Microsoft Azure operated by 21Vianet https://learn.microsoft.com/en-us/azure/reliability/sovereign-cloud-china (2024-10-16 10:05 PM)
@@ -296,7 +296,7 @@ Azure reliability documentation | Microsoft Learn:
 
 ---
 
-                ☐ Disaster recovery https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore (2025-01-13 11:31 PM)
+                ✘ Disaster recovery https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore (2025-01-13 11:31 PM) @cancelled
             ☐ Azure SQL-Managed Instance https://learn.microsoft.com/azure/azure-sql/database/auto-failover-group-sql-db?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=azure-powershell (2025-01-14 06:30 PM)
                 ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-14 06:29 PM)
                 ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-14 06:29 PM)
@@ -307,4 +307,20 @@ Azure reliability documentation | Microsoft Learn:
 
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-15 05:32 AM)
             ☐ Azure Network Watcher https://learn.microsoft.com/en-us/azure/network-watcher/frequently-asked-questions?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#service-availability-and-redundancy (2025-01-14 11:03 PM)
+
+
+---
+
+                ☐ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service#configure-availability-zone-support (2025-01-17 11:02 PM)
+                ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san#availability-zone-migration (2025-01-17 06:02 PM)
+            ☐ Azure AI Search https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-15 11:02 PM)
+            ☐ Microsoft Fabric https://learn.microsoft.com/en-us/azure/reliability/reliability-fabric (2025-01-17 11:02 PM)
+            ☐ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2025-01-17 11:02 PM)
+                ☐ Disaster recovery https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore (2025-01-16 11:32 PM)
+                ☐ Availability zones https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#choose-the-right-redundancy-option (2025-01-15 11:02 PM)
+                ☐ Disaster recovery https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-15 11:02 PM)
+            ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san (2025-01-17 06:02 PM)
+            ☐ Azure AI Search https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-15 11:02 PM)
+            ☐ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2025-01-17 11:02 PM)
+            ☐ Service availability by category https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category (2025-01-16 11:03 PM)
 

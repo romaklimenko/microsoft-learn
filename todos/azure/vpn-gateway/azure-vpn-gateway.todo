@@ -12,7 +12,7 @@ VPN Gateway documentation | Microsoft Learn:
             ✘ Leveraging Azure VPN connections https://learn.microsoft.com/en-us/azure/vpn-gateway/work-remotely-support (2024-11-04 11:02 PM) @cancelled
             ☐ NVA configurations and remote work https://learn.microsoft.com/en-us/azure/vpn-gateway/nva-work-remotely-support (2024-09-27 10:04 PM)
         ✘ VPN Gateway FAQ https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vpn-faq (2024-11-04 11:02 PM) @cancelled
-        ☐ About VPN Gateway design https://learn.microsoft.com/en-us/azure/vpn-gateway/design (2024-12-04 05:32 AM)
+        ✘ About VPN Gateway design https://learn.microsoft.com/en-us/azure/vpn-gateway/design (2024-12-04 05:32 AM) @cancelled
         ☐ Design highly available gateway connections https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable (2024-12-03 11:07 PM)
         ☐ About VPN Gateway settings https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings (2024-10-30 07:28 PM)
         ✘ Roles and permissions https://learn.microsoft.com/en-us/azure/vpn-gateway/roles-permissions (2024-12-20 06:07 PM) @cancelled
@@ -105,7 +105,7 @@ VPN Gateway documentation | Microsoft Learn:
                     ☐ Configure multifactor authentication (MFA) https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-mfa (2024-09-25 05:34 AM)
                 VPN client configuration:
                     ☐ Windows clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows (2024-10-16 11:25 AM)
-                    ☐ Linux clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-linux (2024-10-15 05:04 PM)
+                    ✘ Linux clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-linux (2024-10-15 05:04 PM) @cancelled
                     ☐ macOS clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-mac (2024-10-15 05:04 PM)
                 ☐ Generate VPN client profile configuration files https://learn.microsoft.com/en-us/azure/vpn-gateway/about-vpn-profile-download (2024-08-02 11:27 AM)
                 ☐ Migrate manually registered client to Microsoft-registered client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway-update (2024-08-06 05:10 PM)
@@ -176,7 +176,7 @@ VPN Gateway documentation | Microsoft Learn:
                 ☐ Site-to-site error codes and solutions https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-error-codes (2024-09-20 05:08 PM)
                 ☐ Site-to-site connection disconnects intermittently https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-disconnected-intermittently (2024-12-13 11:03 PM)
             ☐ Validate VPN throughput to a VNet https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-validate-throughput-to-vnet (2024-09-26 05:05 PM)
-            ☐ Configure and validate VNet or VPN connections https://support.microsoft.com/help/4032151/configuring-and-validating-vnet-or-vpn-connections (2024-12-04 05:32 AM)
+            ✘ Configure and validate VNet or VPN connections https://support.microsoft.com/help/4032151/configuring-and-validating-vnet-or-vpn-connections (2024-12-04 05:32 AM) @cancelled
             ☐ Community-suggested VPN or firewall device settings https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-third-party-settings (2024-08-02 11:27 AM)
     Reference:
         ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network#vpn (2024-11-19 05:50 PM) @cancelled
@@ -213,7 +213,7 @@ VPN Gateway documentation | Microsoft Learn:
         ☐ VPN Gateway FAQ https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vpn-faq (2024-12-31 12:14 PM)
         ☐ Roles and permissions https://learn.microsoft.com/en-us/azure/vpn-gateway/roles-permissions (2024-12-31 12:14 PM)
         ☐ About gateway SKUs https://learn.microsoft.com/en-us/azure/vpn-gateway/about-gateway-skus (2024-12-31 12:14 PM)
-        ☐ About point-to-site VPN https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about (2024-12-31 12:14 PM)
+        ✘ About point-to-site VPN https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about (2024-12-31 12:14 PM) @cancelled
         ☐ About NAT and VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-overview (2024-12-31 12:14 PM)
         ☐ About site-to-site forced tunneling https://learn.microsoft.com/en-us/azure/vpn-gateway/about-site-to-site-tunneling (2024-12-31 12:14 PM)
             ☐ Azure VPN Client versions https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-versions (2024-12-31 12:14 PM)
@@ -233,4 +233,14 @@ VPN Gateway documentation | Microsoft Learn:
 ---
 
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/vnet-gateway (2025-01-14 11:00 PM)
+
+
+---
+
+        ☐ Configure a site-to-site connection https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2025-01-15 11:02 PM)
+        ☐ About VPN Gateway design https://learn.microsoft.com/en-us/azure/vpn-gateway/design (2025-01-16 06:09 AM)
+        ☐ About point-to-site VPN https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about (2025-01-16 11:03 PM)
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2025-01-15 11:02 PM)
+                    ☐ Linux clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-linux (2025-01-16 11:03 PM)
+            ☐ Configure and validate VNet or VPN connections https://support.microsoft.com/help/4032151/configuring-and-validating-vnet-or-vpn-connections (2025-01-16 06:09 AM)
 

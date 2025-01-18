@@ -15,8 +15,8 @@ Connect to data in Power BI - documentation - Power BI | Microsoft Learn:
             ☐ Analyze sales data from Excel and an OData feed https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-tutorial-analyzing-sales-data-from-excel-and-an-odata-feed (2024-01-23 11:28 PM)
             ☐ Implement row-level security in an Analysis Services tabular model https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-tutorial-row-level-security-onprem-ssas-tabular (2024-04-26 10:32 PM)
             ☐ Connect to a GitHub sample https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-connect-to-github (2024-08-01 10:32 PM)
-            ☐ Use Cognitive Services https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-use-cognitive-services (2024-02-02 11:24 PM)
-            ☐ Build a machine learning model https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model (2024-04-25 10:30 PM)
+            ✘ Use Cognitive Services https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-use-cognitive-services (2024-02-02 11:24 PM) @cancelled
+            ✘ Build a machine learning model https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model (2024-04-25 10:30 PM) @cancelled
             ☐ Refresh data from SQL Server https://learn.microsoft.com/en-us/power-bi/connect-data/service-gateway-sql-tutorial (2024-09-06 10:17 PM)
             ☐ Automate template app configuration https://learn.microsoft.com/en-us/power-bi/connect-data/template-apps-auto-install-tutorial (2024-11-29 11:31 PM)
         Concepts:
@@ -101,7 +101,7 @@ Connect to data in Power BI - documentation - Power BI | Microsoft Learn:
             Get data:
                 Get data from files:
                     ☐ Get data from files https://learn.microsoft.com/en-us/power-bi/connect-data/service-get-data-from-files (2024-01-23 11:28 PM)
-                    ☐ Get data from comma separated value (.csv) files https://learn.microsoft.com/en-us/power-bi/connect-data/service-comma-separated-value-files (2024-01-23 11:28 PM)
+                    ✘ Get data from comma separated value (.csv) files https://learn.microsoft.com/en-us/power-bi/connect-data/service-comma-separated-value-files (2024-01-23 11:28 PM) @cancelled
                     ☐ Get data from Excel workbook files https://learn.microsoft.com/en-us/power-bi/connect-data/service-excel-workbook-files (2024-12-06 11:37 PM)
                     ☐ Publish to Power BI from Excel https://learn.microsoft.com/en-us/power-bi/connect-data/service-publish-from-excel (2024-07-20 01:27 AM)
                     ☐ Reduce the size of an Excel workbook https://learn.microsoft.com/en-us/power-bi/connect-data/reduce-the-size-of-an-excel-workbook (2024-10-21 10:37 PM)
@@ -136,7 +136,7 @@ Connect to data in Power BI - documentation - Power BI | Microsoft Learn:
                 ☐ Query caching in Power BI Premium https://learn.microsoft.com/en-us/power-bi/connect-data/power-bi-query-caching (2024-05-22 10:30 PM)
                 ✘ Enhanced refresh with REST API https://learn.microsoft.com/en-us/power-bi/connect-data/asynchronous-refresh (2024-12-03 11:32 PM) @cancelled
                 ☐ Refresh a semantic model from a local Power BI Desktop file https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-desktop-file-local-drive (2023-11-10 08:59 AM)
-                ☐ Refresh a semantic model from a cloud Power BI Desktop file https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-desktop-file-onedrive (2024-11-15 11:32 PM)
+                ✘ Refresh a semantic model from a cloud Power BI Desktop file https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-desktop-file-onedrive (2024-11-15 11:32 PM) @cancelled
                 ☐ Refresh a semantic model from a local Excel workbook https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-excel-file-local-drive (2024-01-23 11:28 PM)
                 ☐ Refresh a semantic model from a cloud Excel workbook https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-excel-file-onedrive (2023-11-10 08:59 AM)
                 ☐ Refresh a semantic model from a .csv file on OneDrive https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-csv-file-onedrive (2024-01-23 11:28 PM)
@@ -193,4 +193,12 @@ Connect to data in Power BI - documentation - Power BI | Microsoft Learn:
 ---
 
                 ✔ Use dynamic M query parameters https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-dynamic-m-query-parameters (2025-01-13 11:31 PM) @done(25-01-15 19:25)
+
+
+---
+
+            ☐ Use Cognitive Services https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-use-cognitive-services (2025-01-17 06:00 PM)
+            ☐ Build a machine learning model https://learn.microsoft.com/en-us/power-bi/connect-data/service-tutorial-build-machine-learning-model (2025-01-17 06:00 PM)
+                    ☐ Get data from comma separated value (.csv) files https://learn.microsoft.com/en-us/power-bi/connect-data/service-comma-separated-value-files (2025-01-17 06:00 PM)
+                ☐ Refresh a semantic model from a cloud Power BI Desktop file https://learn.microsoft.com/en-us/power-bi/connect-data/refresh-desktop-file-onedrive (2025-01-17 06:00 PM)
 

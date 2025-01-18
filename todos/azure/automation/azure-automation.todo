@@ -74,7 +74,7 @@ Azure Automation documentation | Microsoft Learn:
             ☐ Manage connections https://learn.microsoft.com/en-us/azure/automation/automation-connections (2024-08-20 10:03 PM)
             ☐ Manage credentials https://learn.microsoft.com/en-us/azure/automation/shared-resources/credentials (2024-09-10 05:10 PM)
             Manage PowerShell modules:
-                ☐ Manage modules in Azure Automation https://learn.microsoft.com/en-us/azure/automation/shared-resources/modules (2024-10-01 02:04 PM)
+                ✘ Manage modules in Azure Automation https://learn.microsoft.com/en-us/azure/automation/shared-resources/modules (2024-10-01 02:04 PM) @cancelled
                 ✘ Update Azure PowerShell modules https://learn.microsoft.com/en-us/azure/automation/automation-update-azure-modules (2024-09-09 10:10 PM) @cancelled
             ☐ Manage schedules https://learn.microsoft.com/en-us/azure/automation/shared-resources/schedules (2024-09-10 05:10 PM)
             ☐ Manage variables https://learn.microsoft.com/en-us/azure/automation/shared-resources/variables (2024-10-30 05:03 PM)
@@ -117,15 +117,15 @@ Azure Automation documentation | Microsoft Learn:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/automation/automation-dsc-overview (2024-10-22 11:12 AM)
                 ✘ Get started with State Configuration https://learn.microsoft.com/en-us/azure/automation/automation-dsc-getting-started (2024-10-22 11:12 AM) @cancelled
                 ☐ Enable State Configuration https://learn.microsoft.com/en-us/azure/automation/automation-dsc-onboarding (2024-10-22 11:12 AM)
-                ☐ Configure servers to a desired state and manage drift https://learn.microsoft.com/en-us/azure/automation/tutorial-configure-servers-desired-state (2024-12-03 05:33 AM)
+                ✘ Configure servers to a desired state and manage drift https://learn.microsoft.com/en-us/azure/automation/tutorial-configure-servers-desired-state (2024-12-03 05:33 AM) @cancelled
                 ☐ Compose DSC configurations https://learn.microsoft.com/en-us/azure/automation/compose-configurationwithcompositeresources (2024-10-22 11:12 AM)
                 ☐ Compile DSC configurations https://learn.microsoft.com/en-us/azure/automation/automation-dsc-compile (2024-10-22 11:12 AM)
                 ☐ Remediate noncompliant State Configuration servers https://learn.microsoft.com/en-us/azure/automation/automation-dsc-remediate (2024-10-22 11:12 AM)
-                ☐ Remove node and configuration https://learn.microsoft.com/en-us/azure/automation/state-configuration/remove-node-and-configuration-package (2024-10-22 11:12 AM)
+                ✘ Remove node and configuration https://learn.microsoft.com/en-us/azure/automation/state-configuration/remove-node-and-configuration-package (2024-10-22 11:12 AM) @cancelled
                 ☐ Set up continuous deployment with Chocolatey https://learn.microsoft.com/en-us/azure/automation/automation-dsc-cd-chocolatey (2024-12-03 06:03 PM)
                 ☐ Integrate with Azure Monitor Logs https://learn.microsoft.com/en-us/azure/automation/automation-dsc-diagnostics (2024-10-22 11:12 AM)
                 ☐ Work with State Configuration extension version history https://learn.microsoft.com/en-us/azure/automation/automation-dsc-extension-history (2024-10-22 11:12 AM)
-                ☐ Troubleshoot State Configuration issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/desired-state-configuration (2024-10-22 11:12 AM)
+                ✘ Troubleshoot State Configuration issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/desired-state-configuration (2024-10-22 11:12 AM) @cancelled
         Change Tracking and Inventory using AMA:
             ✘ About Change tracking and inventory https://learn.microsoft.com/en-us/azure/automation/change-tracking/overview-monitoring-agent (2024-12-09 12:10 PM) @cancelled
             ☐ Change tracking extension version https://learn.microsoft.com/en-us/azure/automation/change-tracking/extension-version-details (2024-09-09 10:10 PM)
@@ -155,7 +155,7 @@ Azure Automation documentation | Microsoft Learn:
                 ☐ Troubleshoot feature deployment issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/onboarding (2024-09-11 06:38 PM)
                 ☐ Troubleshoot Change Tracking and Inventory issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/change-tracking (2024-09-23 05:04 PM)
         Update Management (Retired):
-            ☐ Overview https://learn.microsoft.com/en-us/azure/automation/update-management/overview (2024-10-18 05:04 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/automation/update-management/overview (2024-10-18 05:04 PM) @cancelled
             ☐ Supported regions for linked Log Analytics workspace https://learn.microsoft.com/en-us/azure/automation/how-to/region-mappings (2024-10-17 10:03 PM)
             ☐ Plan your deployment https://learn.microsoft.com/en-us/azure/automation/update-management/plan-deployment (2024-09-19 06:07 PM)
             Enable:
@@ -164,7 +164,7 @@ Azure Automation documentation | Microsoft Learn:
                 ☐ Enable from the Azure portal https://learn.microsoft.com/en-us/azure/automation/update-management/enable-from-portal (2024-09-22 11:24 AM)
                 ☐ Enable from an Azure VM https://learn.microsoft.com/en-us/azure/automation/update-management/enable-from-vm (2024-11-19 06:02 PM)
                 ☐ Enable from an Automation account https://learn.microsoft.com/en-us/azure/automation/update-management/enable-from-automation-account (2024-11-19 06:02 PM)
-                ☐ Enable from a runbook https://learn.microsoft.com/en-us/azure/automation/update-management/enable-from-runbook (2024-11-19 06:02 PM)
+                ✘ Enable from a runbook https://learn.microsoft.com/en-us/azure/automation/update-management/enable-from-runbook (2024-11-19 06:02 PM) @cancelled
             Manage updates for your VMs:
                 ☐ Get started https://learn.microsoft.com/en-us/azure/automation/update-management/manage-updates-for-vm (2024-10-18 05:04 PM)
                 ☐ Assess compliance https://learn.microsoft.com/en-us/azure/automation/update-management/view-update-assessments (2024-10-18 05:04 PM)
@@ -264,4 +264,15 @@ Azure Automation documentation | Microsoft Learn:
 
         ☐ Automation limits and quotas https://learn.microsoft.com/en-us/azure/automation/automation-subscription-limits-faq (2025-01-15 12:12 PM)
             ☐ Manage automation limits and quotas https://learn.microsoft.com/en-us/azure/automation/automation-limits-quotas (2025-01-15 12:12 PM)
+
+
+---
+
+        ☐ Create Automation account - Terraform https://learn.microsoft.com/en-us/azure/automation/quickstarts/create-azure-automation-account-terraform (2025-01-15 11:02 PM)
+                ☐ Manage modules in Azure Automation https://learn.microsoft.com/en-us/azure/automation/shared-resources/modules (2025-01-17 05:34 AM)
+                ☐ Configure servers to a desired state and manage drift https://learn.microsoft.com/en-us/azure/automation/tutorial-configure-servers-desired-state (2025-01-17 05:34 AM)
+                ☐ Remove node and configuration https://learn.microsoft.com/en-us/azure/automation/state-configuration/remove-node-and-configuration-package (2025-01-17 05:34 AM)
+                ☐ Troubleshoot State Configuration issues https://learn.microsoft.com/en-us/azure/automation/troubleshoot/desired-state-configuration (2025-01-17 05:34 AM)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/automation/update-management/overview (2025-01-16 06:03 PM)
+                ☐ Enable from a runbook https://learn.microsoft.com/en-us/azure/automation/update-management/enable-from-runbook (2025-01-17 05:34 AM)
 

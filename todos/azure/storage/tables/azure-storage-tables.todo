@@ -18,7 +18,7 @@ Azure Table storage documentation | Microsoft Learn:
         ☐ PowerShell https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-how-to-use-powershell (2024-08-14 06:47 PM)
         ☐ Azure Resource Graph queries https://learn.microsoft.com/en-us/azure/storage/common/resource-graph-samples (2024-06-12 05:46 AM)
     Concepts:
-        ☐ Storage accounts https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=/azure/storage/tables/toc.json (2024-09-19 06:07 PM)
+        ✘ Storage accounts https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=/azure/storage/tables/toc.json (2024-09-19 06:07 PM) @cancelled
         Authorization https://learn.microsoft.com/en-us/azure/storage/common/authorize-data-access?toc=/azure/storage/tables/toc.json (2024-11-21 11:02 PM):
             ☐ Authenticate and authorize with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/storage/tables/authorize-access-azure-active-directory (2024-04-22 10:06 PM)
             Authorize with Shared Key:
@@ -31,7 +31,7 @@ Azure Table storage documentation | Microsoft Learn:
             ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/storage/common/security-controls-policy?toc=/azure/storage/tables/toc.json (2024-02-07 05:35 AM)
             ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/storage-security-baseline?toc=/azure/storage/tables/toc.json?toc=/azure/storage/tables/TOC.json (2024-02-21 03:04 AM)
         ☐ Data redundancy https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy?toc=/azure/storage/tables/toc.json (2024-11-22 05:58 AM)
-        ☐ Disaster recovery and failover https://learn.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/storage/tables/toc.json (2024-11-22 05:58 AM)
+        ✘ Disaster recovery and failover https://learn.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/storage/tables/toc.json (2024-11-22 05:58 AM) @cancelled
         Performance, scaling, and cost optimization:
             ☐ Performance and scalability checklist https://learn.microsoft.com/en-us/azure/storage/tables/storage-performance-checklist (2023-10-26 10:02 PM)
             ☐ Design scalable and performant tables https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-design (2024-08-14 06:47 PM)
@@ -77,12 +77,12 @@ Azure Table storage documentation | Microsoft Learn:
                     ☐ Configure TLS version for a client application https://learn.microsoft.com/en-us/azure/storage/common/transport-layer-security-configure-client-version?toc=/azure/storage/tables/toc.json (2023-10-22 11:24 AM)
             ☐ Enable threat protection with Microsoft Defender for Storage https://learn.microsoft.com/en-us/azure/storage/common/azure-defender-storage-configure?toc=/azure/storage/tables/toc.json (2024-12-17 06:03 PM)
         Manage data redundancy:
-            ☐ Change how data is replicated https://learn.microsoft.com/en-us/azure/storage/common/redundancy-migration?toc=/azure/storage/tables/toc.json (2024-12-16 11:03 PM)
+            ✘ Change how data is replicated https://learn.microsoft.com/en-us/azure/storage/common/redundancy-migration?toc=/azure/storage/tables/toc.json (2024-12-16 11:03 PM) @cancelled
             Design highly available applications:
                 ☐ .NET (v12 SDK) https://learn.microsoft.com/en-us/azure/storage/common/geo-redundant-design?toc=/azure/storage/tables/toc.json (2023-10-22 11:24 AM)
         Manage disaster recovery:
             ☐ Check the Last Sync Time property https://learn.microsoft.com/en-us/azure/storage/common/last-sync-time-get?toc=/azure/storage/tables/toc.json (2024-08-05 10:12 PM)
-            ☐ Initiate account failover https://learn.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?toc=/azure/storage/tables/toc.json (2024-08-05 10:12 PM)
+            ✘ Initiate account failover https://learn.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?toc=/azure/storage/tables/toc.json (2024-08-05 10:12 PM) @cancelled
         Transfer data:
             ☐ AzCopy on Windows (v8) https://learn.microsoft.com/previous-versions/azure/storage/storage-use-azcopy (2024-04-23 10:34 PM)
             ☐ AzCopy on Linux (v8) https://learn.microsoft.com/previous-versions/azure/storage/storage-use-azcopy-linux (2020-04-21 09:38 PM)
@@ -227,9 +227,22 @@ Azure Table storage documentation | Microsoft Learn:
 
 ---
 
-            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-15 12:27 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-15 12:08 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-15 12:07 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-15 12:08 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-15 12:07 PM)
+            ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-15 12:27 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-15 12:08 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-15 12:07 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-15 12:08 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-15 12:07 PM) @cancelled
+
+
+---
+
+        ☐ Storage accounts https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=/azure/storage/tables/toc.json (2025-01-16 06:03 PM)
+        ☐ Disaster recovery and failover https://learn.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/storage/tables/toc.json (2025-01-15 11:02 PM)
+            ☐ Change how data is replicated https://learn.microsoft.com/en-us/azure/storage/common/redundancy-migration?toc=/azure/storage/tables/toc.json (2025-01-17 12:09 PM)
+            ☐ Initiate account failover https://learn.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?toc=/azure/storage/tables/toc.json (2025-01-15 11:02 PM)
+            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-17 12:27 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-17 12:07 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-17 12:07 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-17 12:07 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-17 12:07 PM)
 

@@ -74,13 +74,13 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                 ☐ CI/CD https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/eventstream-cicd (2024-11-20 11:00 PM)
                 ✘ REST API https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/eventstream-rest-api (2024-11-25 12:10 AM) @cancelled
             Security:
-                ☐ Connect to Azure resources using private endpoints https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/set-up-private-endpoint (2024-12-20 06:01 PM)
+                ✘ Connect to Azure resources using private endpoints https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/set-up-private-endpoint (2024-12-20 06:01 PM) @cancelled
             Tutorials:
                 ☐ Stream and consume events using the Apache Kafka endpoint in Eventstream https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/stream-consume-events-use-kafka-endpoint (2024-11-20 11:00 PM)
                 ☐ Transform and stream real-time events to Microsoft Fabric Lakehouse https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/transform-and-stream-real-time-events-to-lakehouse (2024-11-20 11:00 PM)
                 ☐ Stream real-time events from custom application to Microsoft Fabric KQL Database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/stream-real-time-events-from-custom-app-to-kusto (2024-11-20 11:00 PM)
-                ☐ Build a Power BI report by streaming data from Azure IoT Hub https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/build-report-from-iot-hub (2024-11-20 11:00 PM)
-                ☐ Explore and transform bike-sharing data for KQL database integration https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/transform-sample-data-and-route-to-kql (2024-11-20 11:00 PM)
+                ✘ Build a Power BI report by streaming data from Azure IoT Hub https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/build-report-from-iot-hub (2024-11-20 11:00 PM) @cancelled
+                ✘ Explore and transform bike-sharing data for KQL database integration https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/transform-sample-data-and-route-to-kql (2024-11-20 11:00 PM) @cancelled
         Get data in a KQL Database:
             ☐ Data formats https://learn.microsoft.com/en-us/fabric/real-time-intelligence/ingestion-supported-formats (2024-12-16 12:06 PM)
             ☐ Schema optimization best practices https://learn.microsoft.com/en-us/fabric/real-time-intelligence/schema-best-practice (2024-12-16 12:06 PM)
@@ -88,7 +88,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ Get data from Azure storage https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-azure-storage (2024-12-16 12:06 PM)
             ☐ Get data from Amazon S3 https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-amazon-s3 (2024-12-16 12:06 PM)
             ☐ Get data from Azure Event Hubs https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-event-hub (2024-12-16 12:06 PM)
-            ☐ Get data from OneLake https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-onelake (2024-12-16 12:06 PM)
+            ✘ Get data from OneLake https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-onelake (2024-12-16 12:06 PM) @cancelled
             ☐ Get data from Eventstream https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-eventstream (2024-12-16 12:06 PM)
             ☐ Get data from Real-Time hub https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-real-time-hub (2024-12-16 12:06 PM)
             ☐ Configure KQL Database in a data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/connector-kql-database-copy-activity (2024-01-22 06:02 PM)
@@ -244,7 +244,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ Ingestion mappings overview https://learn.microsoft.com/kusto/management/mappings?view=microsoft-fabric&preserve-view=true (2024-09-03 11:04 AM)
                         ☐ CSV mapping https://learn.microsoft.com/kusto/management/csv-mapping?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ JSON mapping https://learn.microsoft.com/kusto/management/json-mapping?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                        ☐ AVRO mapping https://learn.microsoft.com/kusto/management/avro-mapping?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                        ✘ AVRO mapping https://learn.microsoft.com/kusto/management/avro-mapping?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ☐ Parquet mapping https://learn.microsoft.com/kusto/management/parquet-mapping?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ ORC mapping https://learn.microsoft.com/kusto/management/orc-mapping?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ W3CLOGFILE mapping https://learn.microsoft.com/kusto/management/w3c-log-file-mapping?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -485,7 +485,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                 Query acceleration over OneLake shortcuts:
                     ☐ Accelerate queries over OneLake shortcuts - overview https://learn.microsoft.com/en-us/fabric/real-time-intelligence/query-acceleration-overview (2024-12-16 12:06 PM)
                     ☐ Accelerate queries over OneLake shortcuts https://learn.microsoft.com/en-us/fabric/real-time-intelligence/query-acceleration (2024-12-16 12:06 PM)
-        ☐ Resource consumption https://learn.microsoft.com/en-us/fabric/real-time-intelligence/real-time-intelligence-consumption (2024-11-20 11:00 PM)
+        ✘ Resource consumption https://learn.microsoft.com/en-us/fabric/real-time-intelligence/real-time-intelligence-consumption (2024-11-20 11:00 PM) @cancelled
     Analyze and train data:
         ☐ Copilot for Real-Time Intelligence https://learn.microsoft.com/en-us/fabric/get-started/copilot-real-time-intelligence (2024-12-16 12:06 PM)
         KQL Queryset:
@@ -495,7 +495,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ Customize results in the KQL Queryset results grid https://learn.microsoft.com/en-us/fabric/real-time-intelligence/customize-results (2024-12-16 12:06 PM)
             ☐ Keyboard shortcuts https://learn.microsoft.com/en-us/fabric/real-time-intelligence/keyboard-shortcuts (2024-12-16 12:06 PM)
             ☐ Use example queries https://learn.microsoft.com/en-us/fabric/real-time-intelligence/query-table (2024-12-16 12:06 PM)
-            ☐ Sample gallery https://learn.microsoft.com/en-us/fabric/real-time-intelligence/sample-gallery (2024-12-16 12:06 PM)
+            ✘ Sample gallery https://learn.microsoft.com/en-us/fabric/real-time-intelligence/sample-gallery (2024-12-16 12:06 PM) @cancelled
             ☐ Create alerts from a KQL Queryset https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-alert-queryset (2024-12-16 12:06 PM)
         Vector database:
             ☐ Eventhouse as a vector database overview https://learn.microsoft.com/en-us/fabric/real-time-intelligence/vector-database (2024-12-16 12:06 PM)
@@ -504,10 +504,10 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ Univariate anomaly detection and forecasting https://learn.microsoft.com/kusto/query/anomaly-detection?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             Multivariate anomaly detection:
                 ☐ Multivariate anomaly detection overview https://learn.microsoft.com/en-us/fabric/real-time-intelligence/multivariate-anomaly-overview (2024-12-16 12:06 PM)
-                ☐ Multivariate anomaly detection tutorial https://learn.microsoft.com/en-us/fabric/real-time-intelligence/multivariate-anomaly-detection (2024-12-16 12:06 PM)
+                ✘ Multivariate anomaly detection tutorial https://learn.microsoft.com/en-us/fabric/real-time-intelligence/multivariate-anomaly-detection (2024-12-16 12:06 PM) @cancelled
         Notebooks:
             ☐ Use Fabric notebooks with data from a KQL database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/notebooks (2024-12-16 12:06 PM)
-            ☐ Use a notebook with Apache Spark to query a KQL database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/spark-connector (2024-12-16 12:06 PM)
+            ✘ Use a notebook with Apache Spark to query a KQL database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/spark-connector (2024-12-16 12:06 PM) @cancelled
     Visualize data:
         Real-Time Dashboards:
             ☐ Create a Real-Time Dashboard https://learn.microsoft.com/en-us/fabric/real-time-intelligence/dashboard-real-time-create (2024-12-16 12:06 PM)
@@ -1173,7 +1173,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ series_decompose_forecast() https://learn.microsoft.com/kusto/query/series-decompose-forecast-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_divide() https://learn.microsoft.com/kusto/query/series-divide-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_dot_product() https://learn.microsoft.com/kusto/query/series-dot-product-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ series_equals() https://learn.microsoft.com/kusto/query/series-equals-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ series_equals() https://learn.microsoft.com/kusto/query/series-equals-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ series_exp() https://learn.microsoft.com/kusto/query/series-exp-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_fft() https://learn.microsoft.com/kusto/query/series-fft-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ series_fill_backward() https://learn.microsoft.com/kusto/query/series-fill-backward-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1406,4 +1406,19 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
 ---
 
                         ☐ Query acceleration policy https://learn.microsoft.com/kusto/management/query-acceleration-policy?view=microsoft-fabric&preserve-view=true (2025-01-15 06:03 PM)
+
+
+---
+
+                ☐ Connect to Azure resources using private endpoints https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/set-up-private-endpoint (2025-01-17 06:02 PM)
+                ☐ Stream events to Eventstream using Logic Apps and Power Automate https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/stream-events-from-power-automate (2025-01-17 06:02 PM)
+                ☐ Build a Power BI report by streaming data from Azure IoT Hub https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/build-report-from-iot-hub (2025-01-17 06:02 PM)
+                ☐ Explore and transform bike-sharing data for KQL database integration https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/transform-sample-data-and-route-to-kql (2025-01-17 06:02 PM)
+            ☐ Get data from OneLake https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-onelake (2025-01-17 06:02 PM)
+                        ☐ AVRO mapping https://learn.microsoft.com/kusto/management/avro-mapping?view=microsoft-fabric&preserve-view=true (2025-01-16 06:01 PM)
+        ☐ Resource consumption https://learn.microsoft.com/en-us/fabric/real-time-intelligence/real-time-intelligence-consumption (2025-01-16 06:00 PM)
+            ☐ Sample gallery https://learn.microsoft.com/en-us/fabric/real-time-intelligence/sample-gallery (2025-01-17 06:02 PM)
+                ☐ Multivariate anomaly detection tutorial https://learn.microsoft.com/en-us/fabric/real-time-intelligence/multivariate-anomaly-detection (2025-01-17 06:02 PM)
+            ☐ Use a notebook with Apache Spark to query a KQL database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/spark-connector (2025-01-17 06:02 PM)
+            ☐ series_equals() https://learn.microsoft.com/kusto/query/series-equals-function?view=microsoft-fabric&preserve-view=true
 

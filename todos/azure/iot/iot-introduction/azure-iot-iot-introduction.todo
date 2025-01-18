@@ -34,7 +34,7 @@ Introduction to the Azure Internet of Things (IoT) - Azure IoT | Microsoft Learn
         ☐ Connect a multiple component device https://learn.microsoft.com/en-us/azure/iot/tutorial-multiple-components (2024-10-16 10:05 PM)
         ☐ Connect a device module https://learn.microsoft.com/en-us/azure/iot/tutorial-migrate-device-to-module (2024-10-16 10:05 PM)
         ☐ Use MQTT to connect a device https://learn.microsoft.com/en-us/azure/iot/tutorial-use-mqtt (2024-10-16 10:05 PM)
-        ☐ Implement the Industrial IoT reference solution https://learn.microsoft.com/en-us/azure/iot/tutorial-iot-industrial-solution-architecture (2024-12-13 06:02 PM)
+        ✘ Implement the Industrial IoT reference solution https://learn.microsoft.com/en-us/azure/iot/tutorial-iot-industrial-solution-architecture (2024-12-13 06:02 PM) @cancelled
     Concepts:
         ✘ Security architecture https://learn.microsoft.com/en-us/azure/iot/iot-security-architecture (2024-10-16 10:05 PM) @cancelled
         IoT device development:
@@ -78,18 +78,18 @@ Introduction to the Azure Internet of Things (IoT) - Azure IoT | Microsoft Learn
 
 ---
 
-        ☐ Send telemetry to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-send-telemetry-iot-hub (2025-01-10 11:02 PM)
-            ☐ Connect an MXCHIP AZ3166 to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-mxchip-az3166-iot-hub (2025-01-10 11:02 PM)
-            ☐ Connect an STMicroelectronics B-L475E to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-stm-b-l475e-iot-hub (2025-01-10 11:02 PM)
-            ☐ Connect an ESPRESSIF ESP32 Kit to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-espressif-esp32-freertos-iot-hub (2025-01-10 11:02 PM)
-            ☐ Troubleshoot embedded device tutorials https://learn.microsoft.com/en-us/azure/iot/troubleshoot-embedded-device-tutorials (2025-01-10 11:02 PM)
-            ☐ What is IoT device development https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-development (2025-01-10 11:02 PM)
-            ☐ C SDK and Embedded C SDK usage scenarios https://learn.microsoft.com/en-us/azure/iot/concepts-using-c-sdk-and-embedded-c-sdk (2025-01-10 11:02 PM)
-            ☐ Manage device reconnections https://learn.microsoft.com/en-us/azure/iot/concepts-manage-device-reconnections (2025-01-10 11:02 PM)
-            ☐ IoT device selection https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-selection (2025-01-10 11:02 PM)
-            ☐ What is IoT Plug and Play? https://learn.microsoft.com/en-us/azure/iot/overview-iot-plug-and-play (2025-01-10 11:02 PM)
-            ☐ IoT Plug and Play conventions https://learn.microsoft.com/en-us/azure/iot/concepts-convention (2025-01-10 11:02 PM)
-            ☐ Device developer guide https://learn.microsoft.com/en-us/azure/iot/concepts-developer-guide-device (2025-01-10 11:02 PM)
+        ✘ Send telemetry to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-send-telemetry-iot-hub (2025-01-10 11:02 PM) @cancelled
+            ✘ Connect an MXCHIP AZ3166 to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-mxchip-az3166-iot-hub (2025-01-10 11:02 PM) @cancelled
+            ✘ Connect an STMicroelectronics B-L475E to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-stm-b-l475e-iot-hub (2025-01-10 11:02 PM) @cancelled
+            ✘ Connect an ESPRESSIF ESP32 Kit to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-espressif-esp32-freertos-iot-hub (2025-01-10 11:02 PM) @cancelled
+            ✘ Troubleshoot embedded device tutorials https://learn.microsoft.com/en-us/azure/iot/troubleshoot-embedded-device-tutorials (2025-01-10 11:02 PM) @cancelled
+            ✘ What is IoT device development https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-development (2025-01-10 11:02 PM) @cancelled
+            ✘ C SDK and Embedded C SDK usage scenarios https://learn.microsoft.com/en-us/azure/iot/concepts-using-c-sdk-and-embedded-c-sdk (2025-01-10 11:02 PM) @cancelled
+            ✘ Manage device reconnections https://learn.microsoft.com/en-us/azure/iot/concepts-manage-device-reconnections (2025-01-10 11:02 PM) @cancelled
+            ✘ IoT device selection https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-selection (2025-01-10 11:02 PM) @cancelled
+            ✘ What is IoT Plug and Play? https://learn.microsoft.com/en-us/azure/iot/overview-iot-plug-and-play (2025-01-10 11:02 PM) @cancelled
+            ✘ IoT Plug and Play conventions https://learn.microsoft.com/en-us/azure/iot/concepts-convention (2025-01-10 11:02 PM) @cancelled
+            ✘ Device developer guide https://learn.microsoft.com/en-us/azure/iot/concepts-developer-guide-device (2025-01-10 11:02 PM) @cancelled
 
 
 ---
@@ -101,4 +101,21 @@ Introduction to the Azure Internet of Things (IoT) - Azure IoT | Microsoft Learn
 
         ✔ Introduction https://learn.microsoft.com/en-us/azure/iot/iot-introduction (2025-01-14 12:35 PM) @done(25-01-14 22:59)
             ✔ Device development https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-development (2025-01-14 12:35 PM) @done(25-01-14 22:59)
+
+
+---
+
+        ☐ Send telemetry to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-send-telemetry-iot-hub (2025-01-16 06:03 PM)
+            ☐ Connect an MXCHIP AZ3166 to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-mxchip-az3166-iot-hub (2025-01-16 06:03 PM)
+            ☐ Connect an STMicroelectronics B-L475E to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-stm-b-l475e-iot-hub (2025-01-16 06:03 PM)
+            ☐ Connect an ESPRESSIF ESP32 Kit to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-espressif-esp32-freertos-iot-hub (2025-01-16 06:03 PM)
+            ☐ Troubleshoot embedded device tutorials https://learn.microsoft.com/en-us/azure/iot/troubleshoot-embedded-device-tutorials (2025-01-16 06:03 PM)
+        ☐ Implement the Industrial IoT reference solution https://learn.microsoft.com/en-us/azure/iot/tutorial-iot-industrial-solution-architecture (2025-01-17 12:09 PM)
+            ☐ What is IoT device development https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-development (2025-01-16 06:03 PM)
+            ☐ C SDK and Embedded C SDK usage scenarios https://learn.microsoft.com/en-us/azure/iot/concepts-using-c-sdk-and-embedded-c-sdk (2025-01-16 06:03 PM)
+            ☐ Manage device reconnections https://learn.microsoft.com/en-us/azure/iot/concepts-manage-device-reconnections (2025-01-16 06:03 PM)
+            ☐ IoT device selection https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-selection (2025-01-16 06:03 PM)
+            ☐ What is IoT Plug and Play? https://learn.microsoft.com/en-us/azure/iot/overview-iot-plug-and-play (2025-01-16 06:03 PM)
+            ☐ IoT Plug and Play conventions https://learn.microsoft.com/en-us/azure/iot/concepts-convention (2025-01-16 06:03 PM)
+            ☐ Device developer guide https://learn.microsoft.com/en-us/azure/iot/concepts-developer-guide-device (2025-01-16 06:03 PM)
 
