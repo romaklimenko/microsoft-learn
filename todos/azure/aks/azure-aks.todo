@@ -188,7 +188,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Use the Azure portal https://learn.microsoft.com/en-us/azure/aks/virtual-nodes-portal (2024-08-01 08:29 PM)
         Workloads:
             Stateful workloads:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/aks/stateful-workloads-overview (2024-12-13 11:02 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/aks/stateful-workloads-overview (2024-12-13 11:02 PM) @cancelled
                 Deploy a MongoDB cluster:
                     ✘ Overview https://learn.microsoft.com/en-us/azure/aks/mongodb-overview (2024-10-31 05:04 PM) @cancelled
                     ✘ Create MongoDB infrastructure https://learn.microsoft.com/en-us/azure/aks/create-mongodb-infrastructure (2024-11-07 12:05 PM) @cancelled
@@ -706,11 +706,21 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             ☐ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-16 06:03 PM)
             ☐ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-16 06:03 PM)
             ☐ Manage https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-manage-backups?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-16 06:03 PM)
-                ☐ Plug-in CA certificates for Istio https://learn.microsoft.com/en-us/azure/aks/istio-plugin-ca (2025-01-16 06:10 PM)
+                ✘ Plug-in CA certificates for Istio https://learn.microsoft.com/en-us/azure/aks/istio-plugin-ca (2025-01-16 06:10 PM) @cancelled
                 ☐ Deploy Kubernetes applications with ARM template https://learn.microsoft.com/en-us/azure/aks/deploy-application-template (2025-01-17 05:33 AM)
                 ☐ Install the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr (2025-01-16 06:10 PM)
     ☐ FAQ https://learn.microsoft.com/en-us/azure/aks/faq (2025-01-15 11:01 PM)
         ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-17 12:27 PM)
         ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-17 12:07 PM)
         ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-17 12:07 PM)
+
+
+---
+
+        ☐ Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-overview (2024-09-24 05:00 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/aks/stateful-workloads-overview (2025-01-17 10:59 PM)
+                ☐ Plug-in CA certificates for Istio https://learn.microsoft.com/en-us/azure/aks/istio-plugin-ca
+                ☐ Configure the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-settings (2024-12-10 06:00 PM)
+                ☐ Migrate from Dapr OSS to the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-migration (2024-10-31 05:34 AM)
+                ☐ Deploy and run workflows with the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-workflow (2024-10-31 05:34 AM)
 
