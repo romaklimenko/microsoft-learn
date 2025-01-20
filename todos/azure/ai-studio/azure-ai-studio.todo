@@ -388,7 +388,7 @@ Azure AI Foundry documentation | Microsoft Learn:
         ☐ Content filtering https://learn.microsoft.com/en-us/azure/ai-studio/concepts/content-filtering (2024-12-04 05:31 AM)
         ✘ Transparency Note for safety evaluations https://learn.microsoft.com/en-us/azure/ai-studio/concepts/safety-evaluations-transparency-note (2024-11-22 11:03 PM) @cancelled
             ✘ What's the Azure AI Model Inference API? https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-api (2024-12-13 05:32 AM) @cancelled
-                ☐ Get Info https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-info (2024-11-21 06:03 PM)
+                ✘ Get Info https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-info (2024-11-21 06:03 PM) @cancelled
                 ✘ Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-embeddings (2024-11-21 06:03 PM) @cancelled
                 ✘ Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-completions (2024-11-21 06:03 PM) @cancelled
                 ✘ Chat Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-chat-completions (2024-11-21 06:03 PM) @cancelled
@@ -447,7 +447,7 @@ Azure AI Foundry documentation | Microsoft Learn:
 ---
 
         ☐ Azure OpenAI in Azure AI Foundry https://learn.microsoft.com/en-us/azure/ai-studio/azure-openai-in-ai-studio (2025-01-08 05:31 AM)
-        ☐ Azure AI FAQ https://learn.microsoft.com/en-us/azure/ai-studio/faq (2025-01-08 05:31 AM)
+        ✘ Azure AI FAQ https://learn.microsoft.com/en-us/azure/ai-studio/faq (2025-01-08 05:31 AM) @cancelled
                 ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2025-01-08 05:31 AM)
             ✘ Model catalog https://learn.microsoft.com/en-us/azure/ai-studio/how-to/model-catalog-overview (2025-01-09 06:00 PM) @cancelled
                 ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-studio/context/context (2025-01-08 05:31 AM)
@@ -517,10 +517,10 @@ Azure AI Foundry documentation | Microsoft Learn:
 
             ☐ Model lifecycle and retirement https://learn.microsoft.com/en-us/azure/ai-studio/concepts/model-lifecycle-retirement (2025-01-15 06:05 PM)
             ☐ Configure customer-managed keys https://learn.microsoft.com/en-us/azure/ai-studio/concepts/encryption-keys-portal (2025-01-15 06:05 PM)
-                ☐ Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-embeddings (2025-01-15 06:05 PM)
+                ✘ Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-embeddings (2025-01-15 06:05 PM) @cancelled
                 ☐ Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-completions (2025-01-15 06:05 PM)
-                ☐ Chat Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-chat-completions (2025-01-15 06:05 PM)
-                ☐ Images Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-images-embeddings (2025-01-15 06:05 PM)
+                ✘ Chat Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-chat-completions (2025-01-15 06:05 PM) @cancelled
+                ✘ Images Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-images-embeddings (2025-01-15 06:05 PM) @cancelled
 
 
 ---
@@ -534,7 +534,7 @@ Azure AI Foundry documentation | Microsoft Learn:
                 ☐ Phi-3.5 chat model with vision https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3-5-vision (2025-01-16 06:01 PM)
                 ☐ Phi-4 chat models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-4 (2025-01-16 06:01 PM)
             ☐ Configure private link https://learn.microsoft.com/en-us/azure/ai-studio/how-to/configure-private-link (2025-01-15 11:02 PM)
-            ☐ What's the Azure AI Model Inference API? https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-api (2025-01-16 05:32 AM)
+            ✘ What's the Azure AI Model Inference API? https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-api (2025-01-16 05:32 AM) @cancelled
 
 
 ---
@@ -542,4 +542,14 @@ Azure AI Foundry documentation | Microsoft Learn:
         ☐ Use the chat playground https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/get-started-playground (2025-01-17 10:59 PM)
                 ☐ What is Azure OpenAI? https://learn.microsoft.com/en-us/azure/ai-services/openai/overview?context=/azure/ai-studio/context/context (2025-01-17 10:59 PM)
             ☐ Model catalog https://learn.microsoft.com/en-us/azure/ai-studio/how-to/model-catalog-overview (2025-01-17 10:59 PM)
+
+
+---
+
+        ✔ Azure AI FAQ https://learn.microsoft.com/en-us/azure/ai-studio/faq (2025-01-19 12:15 PM) @done(25-01-20 14:43)
+            ✔ What's the Azure AI Model Inference API? https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-api (2025-01-19 12:15 PM) @done(25-01-20 15:39)
+                ✔ Get Info https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-info (2025-01-19 12:15 PM) @done(25-01-20 15:39)
+                ✔ Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-embeddings (2025-01-19 12:15 PM) @done(25-01-20 15:39)
+                ✔ Chat Completions https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-chat-completions (2025-01-19 12:15 PM) @done(25-01-20 15:39)
+                ✔ Images Embeddings https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-images-embeddings (2025-01-19 12:15 PM) @done(25-01-20 15:39)
 

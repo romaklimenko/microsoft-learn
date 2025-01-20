@@ -9267,7 +9267,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                     ☐ GRANT Object Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-object-permissions-transact-sql (2024-09-09 10:27 PM)
                     ☐ GRANT Schema Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-schema-permissions-transact-sql (2024-09-09 10:27 PM)
                     ☐ GRANT Search Property List Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-search-property-list-permissions-transact-sql (2024-09-09 10:27 PM)
-                    ☐ GRANT Server Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-server-permissions-transact-sql (2024-09-09 10:27 PM)
+                    ✘ GRANT Server Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-server-permissions-transact-sql (2024-09-09 10:27 PM) @cancelled
                     ☐ GRANT Server Principal Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-server-principal-permissions-transact-sql (2024-09-09 10:27 PM)
                     ☐ GRANT Service Broker Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-service-broker-permissions-transact-sql (2024-09-09 10:27 PM)
                     ☐ GRANT Symmetric Key Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-symmetric-key-permissions-transact-sql (2024-09-09 10:27 PM)
@@ -9538,9 +9538,16 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
 
 ---
 
-                    ☐ Encrypted backup https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/create-an-encrypted-backup
-                    ☐ Configure distributed availability groups https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-distributed-availability-groups
+                    ✘ Encrypted backup https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/create-an-encrypted-backup @cancelled
+                    ✘ Configure distributed availability groups https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-distributed-availability-groups @cancelled
                 ☐ Latest updates for SQL Server https://learn.microsoft.com/troubleshoot/sql/releases/download-and-install-latest-updates?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2025-01-16 06:02 PM)
                 ☐ SQL Server 2022 > https://learn.microsoft.com/troubleshoot/sql/linux/release-history-2022?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2025-01-17 12:14 AM)
                 ☐ SQL Server 2019 > https://learn.microsoft.com/troubleshoot/sql/linux/release-history-2019?toc=/sql/toc.json&bc=/sql/breadcrumb/toc.json (2025-01-16 08:20 PM)
+
+
+---
+
+                    ✔ Encrypted backup https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/create-an-encrypted-backup (2024-09-09 10:27 PM) @done(25-01-20 15:40)
+                    ✔ Configure distributed availability groups https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-distributed-availability-groups (2024-09-09 10:27 PM) @done(25-01-20 15:41)
+                    ✔ GRANT Server Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-server-permissions-transact-sql @done(25-01-20 15:41)
 

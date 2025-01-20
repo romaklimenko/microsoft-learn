@@ -344,16 +344,16 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Enable Diagnostics settings using built-in policies. https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostics-settings-policies-deployifnotexists (2024-12-04 05:31 AM)
                 ☐ Migrate retention to Azure Storage lifecycle https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/migrate-to-azure-storage-lifecycle-policy (2024-11-07 10:59 PM)
             Azure Monitor Agent:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview (2024-11-14 11:04 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview (2024-11-14 11:04 PM) @cancelled
                 ✘ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2024-11-14 11:04 PM) @cancelled
                 ✘ Requirements https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-requirements (2024-11-14 11:04 PM) @cancelled
-                ☐ Network settings https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-network-configuration (2024-11-19 11:01 PM)
+                ✘ Network settings https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-network-configuration (2024-11-19 11:01 PM) @cancelled
                 Install Azure Monitor Agent:
-                    ☐ Virtual machines https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-manage (2024-12-09 05:37 AM)
-                    ☐ Windows clients https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-windows-client (2024-11-14 11:04 PM)
-                    ☐ Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-policy (2024-11-14 11:04 PM)
+                    ✘ Virtual machines https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-manage (2024-12-09 05:37 AM) @cancelled
+                    ✘ Windows clients https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-windows-client (2024-11-14 11:04 PM) @cancelled
+                    ✘ Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-policy (2024-11-14 11:04 PM) @cancelled
                 Configure data collection:
-                    ☐ Create data collection rule https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-collection (2024-12-09 05:37 AM)
+                    ✘ Create data collection rule https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-collection (2024-12-09 05:37 AM) @cancelled
                     Data sources:
                         ☐ Windows events https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-windows-events (2024-11-28 05:59 PM)
                         ☐ Syslog events https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-syslog (2024-12-06 06:00 PM)
@@ -366,8 +366,8 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                         ☐ Configure a syslog forwarder https://learn.microsoft.com/azure/sentinel/forward-syslog-monitor-agent (2024-11-28 05:37 AM)
                     ☐ Log Analytics gateway https://learn.microsoft.com/en-us/azure/azure-monitor/agents/gateway (2024-11-14 11:04 PM)
                     ✘ Send data to Event Hubs and Storage https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-send-data-to-event-hubs-and-storage (2024-12-12 11:02 PM) @cancelled
-                ☐ Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-health (2024-11-14 11:04 PM)
-                ☐ Private link https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-private-link (2024-11-19 11:01 PM)
+                ✘ Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-health (2024-11-14 11:04 PM) @cancelled
+                ✘ Private link https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-private-link (2024-11-19 11:01 PM) @cancelled
                 Migrate from Log Analytics Agent:
                     ✘ Migration guidance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration (2024-12-17 12:06 PM) @cancelled
                     ✘ AMA migration helper workbook https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-helper-workbook (2024-11-14 11:04 PM) @cancelled
@@ -375,8 +375,8 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ MMA removal tool https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-mma-removal-tool (2024-11-14 11:04 PM)
                     ☐ AMA data field differences from MMA https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-field-differences (2024-11-14 11:04 PM)
                     ☐ Migration custom text log tables https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-custom-text-log-migration (2024-11-14 11:04 PM)
-                ☐ Performance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-performance (2024-11-14 11:04 PM)
-                ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview#frequently-asked-questions (2024-11-14 11:04 PM)
+                ✘ Performance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-performance (2024-11-14 11:04 PM) @cancelled
+                ✘ FAQ https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview#frequently-asked-questions (2024-11-14 11:04 PM) @cancelled
                 Legacy agents:
                     Log Analytics agent:
                         ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent (2024-11-14 11:04 PM)
@@ -483,7 +483,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                         ✘ Move a workspace https://learn.microsoft.com/en-us/azure/azure-monitor/logs/move-workspace (2024-12-04 05:31 AM) @cancelled
                         ☐ Move a workspace across regions https://learn.microsoft.com/azure/operational-excellence/relocation-log-analytics (2024-09-11 06:38 PM)
                         ☐ Delete and recover a workspace https://learn.microsoft.com/en-us/azure/azure-monitor/logs/delete-workspace (2024-11-11 05:31 AM)
-                    ☐ Replicate workspace across regions https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-replication (2024-10-08 11:05 AM)
+                    ✘ Replicate workspace across regions https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-replication (2024-10-08 11:05 AM) @cancelled
                 Manage tables:
                     ☐ View and manage table properties https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-logs-tables (2024-09-11 04:50 PM)
                     ☐ Select a table plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-table-plans (2024-09-11 04:50 PM)
@@ -901,7 +901,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/azure-monitor/app/azure-ad-authentication (2025-01-10 11:01 PM)
                 ✘ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings (2025-01-12 12:11 PM) @cancelled
                 ✘ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-10 05:34 AM) @cancelled
-                ☐ Requirements https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-requirements (2025-01-10 05:34 AM)
+                ✘ Requirements https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-requirements (2025-01-10 05:34 AM) @cancelled
                                 ☐ Virtual Machine https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-guestos-resource-manager-vm (2025-01-10 05:34 AM)
                                 ☐ Virtual Machine Scale Set https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-guestos-resource-manager-vmss (2025-01-10 05:34 AM)
             ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-overview (2025-01-12 12:11 PM)
@@ -961,7 +961,24 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Topology https://learn.microsoft.com/azure/network-watcher/network-insights-topology?toc=/azure/azure-monitor/toc.json (2025-01-15 11:02 PM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings (2025-01-16 06:02 PM)
                 ☐ Create Diagnostic Settings with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings-policy (2025-01-16 06:02 PM)
-                ☐ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-16 05:32 AM)
+                ✘ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-16 05:32 AM) @cancelled
                         ☐ Move a workspace https://learn.microsoft.com/en-us/azure/azure-monitor/logs/move-workspace (2025-01-17 05:33 AM)
             ☐ KQL reference https://learn.microsoft.com/azure/data-explorer/kusto/query?toc=/azure/azure-monitor/toc.json (2025-01-16 06:01 PM)
+
+
+---
+
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-overview (2025-01-19 12:15 PM)
+                ☐ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-19 12:15 PM)
+                ☐ Requirements https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-requirements (2025-01-19 12:15 PM)
+                ☐ Network settings https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-network-configuration (2025-01-19 12:15 PM)
+                    ☐ Virtual machines https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-manage (2025-01-19 12:15 PM)
+                    ☐ Windows clients https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-windows-client (2025-01-19 12:15 PM)
+                    ☐ Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-policy (2025-01-19 12:15 PM)
+                    ☐ Create data collection rule https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-collection (2025-01-19 12:15 PM)
+                ☐ Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-health (2025-01-19 12:15 PM)
+                ☐ Private link https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-private-link (2025-01-19 12:15 PM)
+                ☐ Performance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-performance (2025-01-19 12:15 PM)
+                ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview#frequently-asked-questions (2025-01-19 12:15 PM)
+                    ☐ Replicate workspace across regions https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-replication (2025-01-19 12:15 PM)
 
