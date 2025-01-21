@@ -38,7 +38,7 @@ Azure Event Grid documentation | Microsoft Learn:
                     ☐ MQTT client authentication using certificates https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-certificate-authentication (2024-08-02 11:27 AM)
                     ✘ JWT authentication and RBAC authorization for clients with Microsoft Entra identity https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-microsoft-entra-token-and-rbac (2024-08-02 11:27 AM) @cancelled
                     ☐ Transport Layer Security connection with MQTT broker https://learn.microsoft.com/en-us/azure/event-grid/mqtt-transport-layer-security-flow (2024-08-02 11:27 AM)
-                ☐ Reliability https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json (2024-11-20 11:04 PM)
+                ✘ Reliability https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json (2024-11-20 11:04 PM) @cancelled
                 Security:
                     ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/event-grid-security-baseline?toc=/azure/event-grid/toc.json (2024-08-21 05:00 PM)
                     ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/event-grid/security-controls-policy (2024-02-07 05:35 AM)
@@ -244,7 +244,7 @@ Azure Event Grid documentation | Microsoft Learn:
                 ☐ Endpoint validation with Event Grid event schema https://learn.microsoft.com/en-us/azure/event-grid/end-point-validation-event-grid-events-schema (2024-10-10 05:36 AM)
                 ☐ Event schema compatibility https://learn.microsoft.com/en-us/azure/event-grid/event-schema-compatibility (2024-12-09 06:04 PM)
                 ☐ Custom delivery properties https://learn.microsoft.com/en-us/azure/event-grid/delivery-properties (2024-09-26 11:12 AM)
-            ☐ Availability zones and disaster recovery https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json (2024-11-20 11:04 PM)
+            ✘ Availability zones and disaster recovery https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json (2024-11-20 11:04 PM) @cancelled
             Security:
                 ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/event-grid-security-baseline?toc=/azure/event-grid/toc.json (2024-08-21 05:00 PM)
                 ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/event-grid/security-controls-policy (2024-02-07 05:35 AM)
@@ -468,8 +468,18 @@ Azure Event Grid documentation | Microsoft Learn:
 ---
 
             ☐ Overview https://learn.microsoft.com/en-us/azure/event-grid/mqtt-overview (2025-01-16 06:09 AM)
-            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-17 12:27 PM)
-            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-17 12:27 PM)
-            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-17 12:07 PM)
-            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-17 12:07 PM)
+            ✘ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-17 12:27 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-17 12:27 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-17 12:07 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-17 12:07 PM) @cancelled
+
+
+---
+
+                ☐ Reliability https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json (2025-01-20 12:13 AM)
+            ☐ Availability zones and disaster recovery https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid?toc=/azure/event-grid/toc.json (2025-01-20 12:13 AM)
+            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-20 12:33 PM)
+            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-20 12:33 PM)
+            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-20 12:08 PM)
+            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-20 12:07 PM)
 

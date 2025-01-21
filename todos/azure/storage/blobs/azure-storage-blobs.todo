@@ -464,7 +464,7 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ☐ Event handling https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-overview (2024-09-04 10:09 PM)
                 ☐ Route events to a custom endpoint https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart (2024-06-27 05:04 PM)
             ☐ Data Movement library (.NET) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-data-movement-library?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-14 05:05 PM)
-        ☐ Troubleshooting https://learn.microsoft.com/troubleshoot/azure/azure-storage/welcome-azure-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-10-28 09:02 AM)
+        ✘ Troubleshooting https://learn.microsoft.com/troubleshoot/azure/azure-storage/welcome-azure-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-10-28 09:02 AM) @cancelled
         Samples:
             ☐ .NET https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-dotnet?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-14 06:47 PM)
             ☐ Java https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-java?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-14 06:47 PM)
@@ -1032,19 +1032,34 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ☐ Disaster recovery planning and failover https://learn.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-15 11:02 PM)
                 ☐ How customer-managed (unplanned) failover works https://learn.microsoft.com/en-us/azure/storage/common/storage-failover-customer-managed-unplanned?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-15 11:02 PM)
                 ☐ Initiate account failover https://learn.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-15 11:02 PM)
-                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-17 12:27 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-17 12:07 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-17 12:07 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-17 12:07 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-17 12:07 PM)
+                    ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-17 12:27 PM) @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-17 12:07 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-17 12:07 PM) @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-17 12:07 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-17 12:07 PM) @cancelled
                 ☐ Troubleshoot Storage Explorer https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-explorer-troubleshooting?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-16 05:16 AM)
             ☐ Blob Storage feature support https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts (2025-01-17 11:02 PM)
             ☐ Supported Blob Storage features https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts (2025-01-17 11:02 PM)
                 ☐ Get started https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-16 12:24 PM)
-                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-17 12:27 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-17 12:07 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-17 12:07 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-17 12:07 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-17 12:07 PM)
+                ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-17 12:27 PM) @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-17 12:07 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-17 12:07 PM) @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-17 12:07 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-17 12:07 PM) @cancelled
             ☐ Troubleshoot Storage Explorer https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-explorer-troubleshooting?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-16 05:16 AM)
+
+
+---
+
+        ✔ Troubleshooting https://learn.microsoft.com/troubleshoot/azure/azure-storage/welcome-azure-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-20 11:56 AM) @done(25-01-21 22:48)
+                    ✔ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-20 12:33 PM) @done(25-01-21 22:48)
+                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-20 12:08 PM) @done(25-01-21 22:48)
+                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-20 12:07 PM) @done(25-01-21 22:48)
+                    ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-20 12:08 PM) @done(25-01-21 22:48)
+                    ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-20 12:07 PM) @done(25-01-21 22:48)
+                ✔ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-20 12:33 PM) @done(25-01-21 22:48)
+                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-20 12:08 PM) @done(25-01-21 22:48)
+                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-20 12:07 PM) @done(25-01-21 22:48)
+                ✔ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-20 12:08 PM) @done(25-01-21 22:48)
+                ✔ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-20 12:07 PM) @done(25-01-21 22:48)
 
