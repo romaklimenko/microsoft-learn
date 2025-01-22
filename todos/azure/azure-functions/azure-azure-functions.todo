@@ -134,7 +134,7 @@ Azure Functions documentation | Microsoft Learn:
             ☐ Performance and reliability https://learn.microsoft.com/en-us/azure/azure-functions/performance-reliability (2023-03-20 05:06 PM)
             ☐ Manage connections https://learn.microsoft.com/en-us/azure/azure-functions/manage-connections (2024-08-14 06:47 PM)
             ☐ Storage considerations https://learn.microsoft.com/en-us/azure/azure-functions/storage-considerations (2024-12-03 11:07 PM)
-            ☐ Error handling and function retries https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages (2024-06-10 05:07 PM)
+            ✘ Error handling and function retries https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages (2024-06-10 05:07 PM) @cancelled
             ☐ Security https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts (2024-09-11 06:38 PM)
         ✘ Compare runtime versions https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions (2024-11-19 06:02 PM) @cancelled
         Hosting and scale:
@@ -157,7 +157,7 @@ Azure Functions documentation | Microsoft Learn:
             ☐ About triggers and bindings https://learn.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings (2024-10-31 05:34 AM)
             ☐ Register binding extensions https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-register (2024-08-08 05:34 AM)
             ☐ Binding expression patterns https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-expressions-patterns (2024-09-10 10:03 PM)
-            ☐ Handle binding errors https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-errors (2024-06-10 05:07 PM)
+            ✘ Handle binding errors https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-errors (2024-06-10 05:07 PM) @cancelled
         Frameworks:
             ☐ Express.js https://learn.microsoft.com/en-us/azure/azure-functions/shift-expressjs (2022-09-20 07:14 AM)
         Security:
@@ -229,7 +229,7 @@ Azure Functions documentation | Microsoft Learn:
             ☐ Load testing https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-load-test-function-app?toc=/azure/azure-functions/toc.json (2024-08-02 11:27 AM)
             ☐ Dependency injection https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection (2024-02-16 11:08 PM)
             ☐ Manage connections https://learn.microsoft.com/en-us/azure/azure-functions/manage-connections (2024-08-14 06:47 PM)
-            ☐ Error handling and retries https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages (2024-06-10 05:07 PM)
+            ✘ Error handling and retries https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages (2024-06-10 05:07 PM) @cancelled
             ☐ Manually run a non HTTP-triggered function https://learn.microsoft.com/en-us/azure/azure-functions/functions-manually-run-non-http (2024-08-21 10:04 PM)
             ☐ Bring dependencies to function apps https://learn.microsoft.com/en-us/azure/azure-functions/bring-dependency-to-functions (2023-06-01 10:06 PM)
             ☐ Develop Python worker extensions https://learn.microsoft.com/en-us/azure/azure-functions/develop-python-worker-extensions (2023-04-25 11:20 AM)
@@ -573,4 +573,11 @@ Azure Functions documentation | Microsoft Learn:
                     ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddings-input (2025-01-14 11:03 PM)
                     ☐ Store output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddingsstore-output (2025-01-14 11:03 PM)
                 ☐ Semantic search input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-semanticsearch-input (2025-01-14 11:03 PM)
+
+
+---
+
+            ✔ Error handling and function retries https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages (2025-01-20 05:32 AM) @done(25-01-22 21:39)
+            ✔ Handle binding errors https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-errors (2025-01-20 05:32 AM) @done(25-01-22 21:39)
+            ✔ Error handling and retries https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages (2025-01-20 05:32 AM) @done(25-01-22 21:40)
 

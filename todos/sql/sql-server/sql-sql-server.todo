@@ -5549,7 +5549,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
             ☐ Administration resources https://learn.microsoft.com/en-us/sql/big-data-cluster/view-cluster-status (2024-09-09 10:27 PM)
             ☐ Key Versions https://learn.microsoft.com/en-us/sql/big-data-cluster/big-data-cluster-key-versions (2024-09-09 10:27 PM)
             Active Directory mode:
-                ☐ Prerequisites https://learn.microsoft.com/en-us/sql/big-data-cluster/active-directory-prerequisites (2024-09-09 10:27 PM)
+                ✘ Prerequisites https://learn.microsoft.com/en-us/sql/big-data-cluster/active-directory-prerequisites (2024-09-09 10:27 PM) @cancelled
                 Deploy:
                     ☐ Simple AD deployment https://learn.microsoft.com/en-us/sql/big-data-cluster/active-directory-deploy (2024-09-09 10:27 PM)
                     ☐ Plan AD on AKS https://learn.microsoft.com/en-us/sql/big-data-cluster/active-directory-deployment-aks (2024-09-09 10:27 PM)
@@ -6931,8 +6931,8 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                 ☐ sys.dm_db_xtp_nonclustered_index_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-xtp-nonclustered-index-stats-transact-sql (2024-09-09 10:27 PM)
                 ☐ sys.dm_db_xtp_object_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-xtp-object-stats-transact-sql (2024-09-09 10:27 PM)
                 ☐ sys.dm_db_xtp_table_memory_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-xtp-table-memory-stats-transact-sql (2024-09-09 10:27 PM)
-                ☐ sys.dm_db_xtp_transactions https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-xtp-transactions-transact-sql (2024-09-09 10:27 PM)
-                ☐ sys.dm_xtp_gc_queue_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-xtp-gc-queue-stats-transact-sql (2024-09-09 10:27 PM)
+                ✘ sys.dm_db_xtp_transactions https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-xtp-transactions-transact-sql (2024-09-09 10:27 PM) @cancelled
+                ✘ sys.dm_xtp_gc_queue_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-xtp-gc-queue-stats-transact-sql (2024-09-09 10:27 PM) @cancelled
                 ☐ sys.dm_xtp_gc_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-xtp-gc-stats-transact-sql (2024-09-09 10:27 PM)
                 ☐ sys.dm_xtp_system_memory_consumers https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-xtp-system-memory-consumers-transact-sql (2024-09-09 10:27 PM)
                 ☐ sys.dm_xtp_transaction_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-xtp-transaction-stats-transact-sql (2024-09-09 10:27 PM)
@@ -9550,4 +9550,14 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                     ✔ Encrypted backup https://learn.microsoft.com/en-us/sql/relational-databases/backup-restore/create-an-encrypted-backup (2024-09-09 10:27 PM) @done(25-01-20 15:40)
                     ✔ Configure distributed availability groups https://learn.microsoft.com/en-us/sql/database-engine/availability-groups/windows/configure-distributed-availability-groups (2024-09-09 10:27 PM) @done(25-01-20 15:41)
                     ✔ GRANT Server Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-server-permissions-transact-sql @done(25-01-20 15:41)
+
+
+---
+
+                ☐ Bring your own key > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-configure (2025-01-21 11:37 PM)
+                ☐ Remove TDE protector > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-remove-tde-protector (2025-01-21 11:37 PM)
+                ☐ Prerequisites https://learn.microsoft.com/en-us/sql/big-data-cluster/active-directory-prerequisites
+                ☐ sys.dm_db_xtp_transactions https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-xtp-transactions-transact-sql
+                ☐ sys.dm_xtp_gc_queue_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-xtp-gc-queue-stats-transact-sql
+                    ☐ GRANT Server Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-server-permissions-transact-sql (2024-09-09 10:27 PM)
 

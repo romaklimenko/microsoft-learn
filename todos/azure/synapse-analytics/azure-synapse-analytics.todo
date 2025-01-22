@@ -406,14 +406,14 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ wilcoxon_test_fl() https://learn.microsoft.com/kusto/functions-library/wilcoxon-test-fl?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
             Query statements:
                 ☐ Query statement types https://learn.microsoft.com/kusto/query/statements?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Alias statement https://learn.microsoft.com/kusto/query/alias-statement?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=azure-data-explorer&preserve-view=true (2024-12-04 06:00 PM)
-                ☐ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Restrict statement https://learn.microsoft.com/kusto/query/restrict-statement?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Tabular expression statements https://learn.microsoft.com/kusto/query/tabular-expression-statements?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Batches https://learn.microsoft.com/kusto/query/batches?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ Alias statement https://learn.microsoft.com/kusto/query/alias-statement?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=azure-data-explorer&preserve-view=true (2024-12-04 06:00 PM) @cancelled
+                ✘ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Restrict statement https://learn.microsoft.com/kusto/query/restrict-statement?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Tabular expression statements https://learn.microsoft.com/kusto/query/tabular-expression-statements?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Batches https://learn.microsoft.com/kusto/query/batches?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             Tabular operators:
                 ☐ Query operators https://learn.microsoft.com/kusto/query/queries?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ as operator https://learn.microsoft.com/kusto/query/as-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1259,7 +1259,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ .delete table policy restricted_view_access command https://learn.microsoft.com/kusto/management/delete-table-restricted-view-access-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .show table policy restricted_view_access command https://learn.microsoft.com/kusto/management/show-table-restricted-view-access-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 Retention:
-                    ☐ Retention policy https://learn.microsoft.com/kusto/management/retention-policy?view=azure-data-explorer&preserve-view=true (2024-09-18 11:07 AM)
+                    ✘ Retention policy https://learn.microsoft.com/kusto/management/retention-policy?view=azure-data-explorer&preserve-view=true (2024-09-18 11:07 AM) @cancelled
                     ☐ .alter database policy retention command https://learn.microsoft.com/kusto/management/alter-database-retention-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .alter materialized-view policy retention command https://learn.microsoft.com/kusto/management/alter-materialized-view-retention-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .alter table policy retention command https://learn.microsoft.com/kusto/management/alter-table-retention-policy-command?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1726,7 +1726,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ MongoDB (legacy) https://learn.microsoft.com/en-us/azure/data-factory/connector-mongodb-legacy?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
                 ☐ MongoDB Atlas https://learn.microsoft.com/en-us/azure/data-factory/connector-mongodb-atlas?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
                 ✘ MySQL https://learn.microsoft.com/en-us/azure/data-factory/connector-mysql?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-11-11 12:23 PM) @cancelled
-                ☐ Netezza https://learn.microsoft.com/en-us/azure/data-factory/connector-netezza?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-11 06:03 PM)
+                ✘ Netezza https://learn.microsoft.com/en-us/azure/data-factory/connector-netezza?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-12-11 06:03 PM) @cancelled
                 ☐ OData https://learn.microsoft.com/en-us/azure/data-factory/connector-odata?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-08-02 11:27 AM)
                 ☐ ODBC https://learn.microsoft.com/en-us/azure/data-factory/connector-odbc?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-09-26 10:04 PM)
                 ☐ Office 365 https://learn.microsoft.com/en-us/azure/data-factory/connector-office-365?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2024-10-29 05:03 PM)
@@ -2237,4 +2237,18 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
 ---
 
                 ✔ MySQL https://learn.microsoft.com/en-us/azure/data-factory/connector-mysql?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-20 05:32 AM) @done(25-01-21 22:49)
+
+
+---
+
+                ✔ Alias statement https://learn.microsoft.com/kusto/query/alias-statement?view=azure-data-explorer&preserve-view=true (2025-01-20 06:02 PM) @done(25-01-22 21:45)
+                ✔ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=azure-data-explorer&preserve-view=true (2025-01-20 06:02 PM) @done(25-01-22 21:45)
+                ✔ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=azure-data-explorer&preserve-view=true (2025-01-20 06:02 PM) @done(25-01-22 21:45)
+                ✔ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=azure-data-explorer&preserve-view=true (2025-01-20 06:02 PM) @done(25-01-22 21:45)
+                ✔ Restrict statement https://learn.microsoft.com/kusto/query/restrict-statement?view=azure-data-explorer&preserve-view=true (2025-01-20 06:02 PM) @done(25-01-22 21:46)
+                ✔ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=azure-data-explorer&preserve-view=true (2025-01-20 06:02 PM) @done(25-01-22 21:47)
+                ✔ Tabular expression statements https://learn.microsoft.com/kusto/query/tabular-expression-statements?view=azure-data-explorer&preserve-view=true (2025-01-20 06:02 PM) @done(25-01-22 21:48)
+                ✔ Batches https://learn.microsoft.com/kusto/query/batches?view=azure-data-explorer&preserve-view=true (2025-01-20 06:02 PM) @done(25-01-22 21:48)
+                    ✔ Retention policy https://learn.microsoft.com/kusto/management/retention-policy?view=azure-data-explorer&preserve-view=true (2025-01-21 06:08 PM) @done(25-01-22 21:48)
+                ✔ Netezza https://learn.microsoft.com/en-us/azure/data-factory/connector-netezza?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-21 05:32 AM) @done(25-01-22 21:48)
 

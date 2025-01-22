@@ -748,9 +748,9 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ Governance best practices https://learn.microsoft.com/security/compass/governance (2024-11-27 05:59 PM)
                 ✘ Update Windows VMs in Azure https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/wsus/ (2024-09-09 10:27 PM) @cancelled
                 Backup:
-                    ☐ Backup architecture and components https://learn.microsoft.com/azure/backup/backup-architecture (2024-11-22 05:58 AM)
-                    ☐ Azure Backup support matrix https://learn.microsoft.com/azure/backup/backup-support-matrix (2024-12-11 12:11 PM)
-                    ☐ Backup cloud and on-premises https://learn.microsoft.com/azure/backup/guidance-best-practices (2024-12-11 12:11 PM)
+                    ✘ Backup architecture and components https://learn.microsoft.com/azure/backup/backup-architecture (2024-11-22 05:58 AM) @cancelled
+                    ✘ Azure Backup support matrix https://learn.microsoft.com/azure/backup/backup-support-matrix (2024-12-11 12:11 PM) @cancelled
+                    ✘ Backup cloud and on-premises https://learn.microsoft.com/azure/backup/guidance-best-practices (2024-12-11 12:11 PM) @cancelled
                 Disaster recovery:
                     ✘ Azure to Azure disaster recovery https://learn.microsoft.com/azure/site-recovery/azure-to-azure-architecture (2024-09-23 05:04 PM) @cancelled
                     ✘ Support matrix for Azure VM DR https://learn.microsoft.com/azure/site-recovery/azure-to-azure-support-matrix (2024-11-25 06:03 PM) @cancelled
@@ -761,7 +761,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ✘ Management for Azure environments https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/management (2024-12-13 06:00 PM) @cancelled
                 ✘ Management for VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring (2024-07-16 04:57 PM) @cancelled
             Architectures:
-                ☐ Back up cloud applications https://learn.microsoft.com/azure/backup/guidance-best-practices (2024-12-11 12:11 PM)
+                ✘ Back up cloud applications https://learn.microsoft.com/azure/backup/guidance-best-practices (2024-12-11 12:11 PM) @cancelled
                 ✘ Computer forensics https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/forensics/ (2024-09-09 10:27 PM) @cancelled
                 ✘ End-to-end governance when using CI/CD https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/governance/end-to-end-governance-in-azure (2024-09-09 10:27 PM) @cancelled
                 Hybrid management:
@@ -951,7 +951,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Identity-based authentication https://learn.microsoft.com/azure/storage/files/storage-files-active-directory-overview (2024-10-22 05:31 AM)
                     ☐ Networking considerations https://learn.microsoft.com/azure/storage/files/storage-files-networking-overview (2024-05-10 10:14 PM)
                     ✘ Disaster recovery and failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2024-11-22 05:58 AM) @cancelled
-                    ☐ File share backup https://learn.microsoft.com/azure/backup/azure-file-share-backup-overview (2024-11-20 12:17 PM)
+                    ✘ File share backup https://learn.microsoft.com/azure/backup/azure-file-share-backup-overview (2024-11-20 12:17 PM) @cancelled
                 Queue storage guidance:
                     ☐ Authorize access with Microsoft Entra ID https://learn.microsoft.com/azure/storage/queues/authorize-access-azure-active-directory (2024-04-22 10:06 PM)
                     ☐ Performance and scalability checklist https://learn.microsoft.com/azure/storage/queues/storage-performance-checklist (2023-10-26 10:02 PM)
@@ -1001,15 +1001,15 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
             Guides:
                 ✘ Windows 365 Azure network connection https://learn.microsoft.com/en-us/azure/architecture/guide/guide/virtual-desktop/windows-365-azure-network-connection (2024-09-09 10:27 PM) @cancelled
                 ☐ Azure Virtual Desktop environment https://learn.microsoft.com/azure/virtual-desktop/environment-setup (2024-12-03 11:07 PM)
-                ☐ Azure Virtual Desktop Agent https://learn.microsoft.com/azure/virtual-desktop/agent-overview (2024-12-03 11:07 PM)
-                ☐ Authentication in Azure Virtual Desktop https://learn.microsoft.com/azure/virtual-desktop/authentication (2024-08-12 05:05 PM)
+                ✘ Azure Virtual Desktop Agent https://learn.microsoft.com/azure/virtual-desktop/agent-overview (2024-12-03 11:07 PM) @cancelled
+                ✘ Authentication in Azure Virtual Desktop https://learn.microsoft.com/azure/virtual-desktop/authentication (2024-08-12 05:05 PM) @cancelled
                 Network connectivity:
                     ✘ Overview https://learn.microsoft.com/azure/virtual-desktop/network-connectivity (2024-10-30 07:28 PM) @cancelled
                     ☐ RDP Shortpath https://learn.microsoft.com/azure/virtual-desktop/shortpath (2024-11-04 11:02 PM)
                     ☐ Implement Quality of Service https://learn.microsoft.com/azure/virtual-desktop/rdp-quality-of-service-qos (2024-10-30 07:28 PM)
                     ☐ RDP bandwidth https://learn.microsoft.com/azure/virtual-desktop/rdp-bandwidth (2024-10-30 07:28 PM)
                     ☐ Proxy server guidelines https://learn.microsoft.com/azure/virtual-desktop/proxy-server-support (2024-08-12 05:05 PM)
-                    ☐ Connection quality https://learn.microsoft.com/azure/virtual-desktop/connection-latency (2024-08-12 05:05 PM)
+                    ✘ Connection quality https://learn.microsoft.com/azure/virtual-desktop/connection-latency (2024-08-12 05:05 PM) @cancelled
                 ✘ Multiregion BCDR for AVD https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr (2024-09-09 10:27 PM) @cancelled
                 ☐ AVD for Azure Local https://learn.microsoft.com/azure/virtual-desktop/azure-local-overview (2024-12-02 06:04 PM)
                 FSLogix guidance:
@@ -1176,8 +1176,8 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
     ☐ Browse all Architectures https://learn.microsoft.com/en-us/azure/architecture/guide/browse/ (2024-09-09 10:27 PM)
     ☐ Architecture icons https://learn.microsoft.com/en-us/azure/architecture/guide/icons/ (2024-09-09 10:27 PM)
     ☐ What's new https://learn.microsoft.com/en-us/azure/architecture/guide/changelog (2024-09-09 10:27 PM)
-        ☐ Deployment Options https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/landing-zone-deploy (2024-09-09 10:27 PM)
-            ☐ Bicep landing zone implementation https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/bicep/landing-zone-bicep (2024-09-09 10:27 PM)
+        ✘ Deployment Options https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/landing-zone-deploy (2024-09-09 10:27 PM) @cancelled
+            ✘ Bicep landing zone implementation https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/bicep/landing-zone-bicep (2024-09-09 10:27 PM) @cancelled
             ✘ Terraform landing zone implementation https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/terraform/landing-zone-terraform (2024-09-09 10:27 PM) @cancelled
             ☐ Use the Azure Governance Visualizer https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/azure-governance-visualizer-accelerator (2024-09-09 10:27 PM)
             ☐ Azure Virtual Desktop https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/azure-virtual-desktop/design-guide (2024-09-09 10:27 PM)
@@ -1803,4 +1803,19 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ Choose drives for Azure Local https://learn.microsoft.com/azure-stack/hci/concepts/choose-drives (2025-01-17 11:00 PM)
                     ☐ Compare Stack HCI to Windows Server https://learn.microsoft.com/azure-stack/hci/concepts/compare-windows-server (2025-01-17 11:00 PM)
                     ☐ Choose drives for Azure Local https://learn.microsoft.com/azure-stack/hci/concepts/choose-drives (2025-01-17 11:00 PM)
+
+
+---
+
+        ☐ Deployment options https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/landing-zone-deploy (2024-09-09 10:27 PM)
+        ☐ Bicep platform landing zone implementation https://learn.microsoft.com/en-us/azure/architecture/guide/landing-zones/bicep/landing-zone-bicep (2024-09-09 10:27 PM)
+                ☐ Modern data platform for small and medium businesses https://learn.microsoft.com/en-us/azure/architecture/guide/solution-ideas/articles/small-medium-modern-data-platform (2024-09-09 10:27 PM)
+                    ☐ Backup architecture and components https://learn.microsoft.com/azure/backup/backup-architecture (2025-01-21 12:07 PM)
+                    ☐ Azure Backup support matrix https://learn.microsoft.com/azure/backup/backup-support-matrix (2025-01-21 12:07 PM)
+                    ☐ Backup cloud and on-premises https://learn.microsoft.com/azure/backup/guidance-best-practices (2025-01-21 12:07 PM)
+                ☐ Back up cloud applications https://learn.microsoft.com/azure/backup/guidance-best-practices (2025-01-21 12:07 PM)
+                    ☐ File share backup https://learn.microsoft.com/azure/backup/azure-file-share-backup-overview (2025-01-21 12:07 PM)
+                ☐ Azure Virtual Desktop Agent https://learn.microsoft.com/azure/virtual-desktop/agent-overview (2025-01-20 06:04 PM)
+                ☐ Authentication in Azure Virtual Desktop https://learn.microsoft.com/azure/virtual-desktop/authentication (2025-01-20 06:04 PM)
+                    ☐ Connection quality https://learn.microsoft.com/azure/virtual-desktop/connection-latency (2025-01-20 06:04 PM)
 

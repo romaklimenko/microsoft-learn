@@ -344,7 +344,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ .delete table policy restricted_view_access command https://learn.microsoft.com/kusto/management/delete-table-restricted-view-access-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .show table policy restricted_view_access command https://learn.microsoft.com/kusto/management/show-table-restricted-view-access-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     Retention:
-                        ☐ Retention policy https://learn.microsoft.com/kusto/management/retention-policy?view=microsoft-fabric&preserve-view=true (2024-09-18 11:07 AM)
+                        ✘ Retention policy https://learn.microsoft.com/kusto/management/retention-policy?view=microsoft-fabric&preserve-view=true (2024-09-18 11:07 AM) @cancelled
                         ☐ .alter database policy retention command https://learn.microsoft.com/kusto/management/alter-database-retention-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .alter materialized-view policy retention command https://learn.microsoft.com/kusto/management/alter-materialized-view-retention-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .alter table policy retention command https://learn.microsoft.com/kusto/management/alter-table-retention-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -499,14 +499,14 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ Create alerts from a KQL Queryset https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-alert-queryset (2024-12-16 12:06 PM)
         Vector database:
             ☐ Eventhouse as a vector database overview https://learn.microsoft.com/en-us/fabric/real-time-intelligence/vector-database (2024-12-16 12:06 PM)
-            ☐ Tutorial: Use an Eventhouse as a vector database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/vector-database-eventhouse (2024-12-16 12:06 PM)
+            ✘ Tutorial: Use an Eventhouse as a vector database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/vector-database-eventhouse (2024-12-16 12:06 PM) @cancelled
         Timeseries anomaly detection:
             ☐ Univariate anomaly detection and forecasting https://learn.microsoft.com/kusto/query/anomaly-detection?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             Multivariate anomaly detection:
                 ☐ Multivariate anomaly detection overview https://learn.microsoft.com/en-us/fabric/real-time-intelligence/multivariate-anomaly-overview (2024-12-16 12:06 PM)
                 ✘ Multivariate anomaly detection tutorial https://learn.microsoft.com/en-us/fabric/real-time-intelligence/multivariate-anomaly-detection (2024-12-16 12:06 PM) @cancelled
         Notebooks:
-            ☐ Use Fabric notebooks with data from a KQL database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/notebooks (2024-12-16 12:06 PM)
+            ✘ Use Fabric notebooks with data from a KQL database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/notebooks (2024-12-16 12:06 PM) @cancelled
             ✘ Use a notebook with Apache Spark to query a KQL database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/spark-connector (2024-12-16 12:06 PM) @cancelled
     Visualize data:
         Real-Time Dashboards:
@@ -650,14 +650,14 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                 ☐ wilcoxon_test_fl() https://learn.microsoft.com/kusto/functions-library/wilcoxon-test-fl?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
         Query statements:
             ☐ Query statement types https://learn.microsoft.com/kusto/query/statements?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ Alias statement https://learn.microsoft.com/kusto/query/alias-statement?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=microsoft-fabric&preserve-view=true (2024-12-04 06:00 PM)
-            ☐ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ Restrict statement https://learn.microsoft.com/kusto/query/restrict-statement?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ Tabular expression statements https://learn.microsoft.com/kusto/query/tabular-expression-statements?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ Batches https://learn.microsoft.com/kusto/query/batches?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ Alias statement https://learn.microsoft.com/kusto/query/alias-statement?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+            ✘ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+            ✘ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=microsoft-fabric&preserve-view=true (2024-12-04 06:00 PM) @cancelled
+            ✘ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+            ✘ Restrict statement https://learn.microsoft.com/kusto/query/restrict-statement?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+            ✘ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+            ✘ Tabular expression statements https://learn.microsoft.com/kusto/query/tabular-expression-statements?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+            ✘ Batches https://learn.microsoft.com/kusto/query/batches?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
         Tabular operators:
             ☐ Query operators https://learn.microsoft.com/kusto/query/queries?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ as operator https://learn.microsoft.com/kusto/query/as-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1411,7 +1411,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
 ---
 
                 ☐ Connect to Azure resources using private endpoints https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/set-up-private-endpoint (2025-01-17 06:02 PM)
-                ☐ Stream events to Eventstream using Logic Apps and Power Automate https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/stream-events-from-power-automate (2025-01-17 06:02 PM)
+                ✘ Stream events to Eventstream using Logic Apps and Power Automate https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/stream-events-from-power-automate (2025-01-17 06:02 PM) @cancelled
                 ☐ Build a Power BI report by streaming data from Azure IoT Hub https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/build-report-from-iot-hub (2025-01-17 06:02 PM)
                 ☐ Explore and transform bike-sharing data for KQL database integration https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/transform-sample-data-and-route-to-kql (2025-01-17 06:02 PM)
             ☐ Get data from OneLake https://learn.microsoft.com/en-us/fabric/real-time-intelligence/get-data-onelake (2025-01-17 06:02 PM)
@@ -1426,4 +1426,20 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
 ---
 
             ✔ series_equals() https://learn.microsoft.com/kusto/query/series-equals-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @done(25-01-19 21:07)
+
+
+---
+
+                ☐ Stream events to Eventstream using Logic Apps and Power Automate https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/stream-events-from-power-automate (2025-01-20 06:04 PM)
+                        ☐ Retention policy https://learn.microsoft.com/kusto/management/retention-policy?view=microsoft-fabric&preserve-view=true (2025-01-21 06:08 PM)
+            ☐ Tutorial: Use an Eventhouse as a vector database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/vector-database-eventhouse (2025-01-21 01:18 PM)
+            ☐ Use Fabric notebooks with data from a KQL database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/notebooks (2025-01-20 06:04 PM)
+            ☐ Alias statement https://learn.microsoft.com/kusto/query/alias-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
+            ☐ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
+            ☐ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
+            ☐ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
+            ☐ Restrict statement https://learn.microsoft.com/kusto/query/restrict-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
+            ☐ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
+            ☐ Tabular expression statements https://learn.microsoft.com/kusto/query/tabular-expression-statements?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
+            ☐ Batches https://learn.microsoft.com/kusto/query/batches?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
 

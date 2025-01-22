@@ -364,7 +364,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                         ☐ SNMP traps https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-collection-snmp-data (2024-11-14 11:04 PM)
                         ☐ Windows Firewall logs https://learn.microsoft.com/en-us/azure/azure-monitor/agents/data-sources-firewall-logs (2024-11-14 11:04 PM)
                         ☐ Configure a syslog forwarder https://learn.microsoft.com/azure/sentinel/forward-syslog-monitor-agent (2024-11-28 05:37 AM)
-                    ☐ Log Analytics gateway https://learn.microsoft.com/en-us/azure/azure-monitor/agents/gateway (2024-11-14 11:04 PM)
+                    ✘ Log Analytics gateway https://learn.microsoft.com/en-us/azure/azure-monitor/agents/gateway (2024-11-14 11:04 PM) @cancelled
                     ✘ Send data to Event Hubs and Storage https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-send-data-to-event-hubs-and-storage (2024-12-12 11:02 PM) @cancelled
                 ✘ Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-health (2024-11-14 11:04 PM) @cancelled
                 ✘ Private link https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-private-link (2024-11-19 11:01 PM) @cancelled
@@ -379,8 +379,8 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ✘ FAQ https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview#frequently-asked-questions (2024-11-14 11:04 PM) @cancelled
                 Legacy agents:
                     Log Analytics agent:
-                        ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent (2024-11-14 11:04 PM)
-                        ☐ Windows agents https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows (2024-11-14 11:04 PM)
+                        ✘ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent (2024-11-14 11:04 PM) @cancelled
+                        ✘ Windows agents https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows (2024-11-14 11:04 PM) @cancelled
                         ☐ Linux agents https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux (2024-11-14 11:04 PM)
                         ☐ VM Extension for Windows https://learn.microsoft.com/azure/virtual-machines/extensions/oms-windows (2024-10-13 11:09 AM)
                         ☐ VM Extension for Linux https://learn.microsoft.com/azure/virtual-machines/extensions/oms-linux (2024-10-13 11:09 AM)
@@ -444,12 +444,12 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Windows Arc-enabled server https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-troubleshoot-windows-arc (2024-11-14 11:04 PM)
             Troubleshoot legacy Agents:
                 ☐ Log Analytics VM Extension https://learn.microsoft.com/en-us/azure/azure-monitor/agents/vmext-troubleshoot (2024-11-14 11:04 PM)
-                ☐ Log Analytics Windows agent https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows-troubleshoot (2024-11-14 11:04 PM)
+                ✘ Log Analytics Windows agent https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows-troubleshoot (2024-11-14 11:04 PM) @cancelled
                 ☐ Log Analytics Linux agent https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-linux-troubleshoot (2024-11-14 11:04 PM)
     Data platform:
         ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/data-platform (2024-10-30 05:35 AM)
         Metrics:
-            ☐ Overview of Azure Monitor Metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics (2024-09-11 04:50 PM)
+            ✘ Overview of Azure Monitor Metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics (2024-09-11 04:50 PM) @cancelled
             ☐ Custom metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-custom-overview (2024-12-05 06:04 PM)
             Prometheus metrics:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-metrics-overview (2024-12-23 05:59 PM)
@@ -495,7 +495,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ Run a search job https://learn.microsoft.com/en-us/azure/azure-monitor/logs/search-jobs (2024-12-19 12:14 PM)
                     ☐ Restore logs https://learn.microsoft.com/en-us/azure/azure-monitor/logs/restore (2024-12-04 11:03 PM)
                 Design:
-                    ☐ Design a workspace architecture https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-design (2024-09-11 04:50 PM)
+                    ✘ Design a workspace architecture https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-design (2024-09-11 04:50 PM) @cancelled
                     ☐ Dedicated clusters https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-dedicated-clusters (2024-11-21 05:31 AM)
                     ✘ Enhance resilience with availability zones https://learn.microsoft.com/en-us/azure/azure-monitor/logs/availability-zones (2024-11-21 05:31 AM) @cancelled @cancelled
                 Monitor:
@@ -508,8 +508,8 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2024-09-11 04:50 PM)
                 ☐ Log data https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-security (2024-11-08 11:00 PM)
                 ✘ Customer-managed keys https://learn.microsoft.com/en-us/azure/azure-monitor/logs/customer-managed-keys (2024-12-16 05:37 AM) @cancelled
-                ☐ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2024-09-11 04:50 PM)
-                ☐ Personal log data handling https://learn.microsoft.com/en-us/azure/azure-monitor/logs/personal-data-mgmt (2024-09-11 04:50 PM)
+                ✘ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2024-09-11 04:50 PM) @cancelled
+                ✘ Personal log data handling https://learn.microsoft.com/en-us/azure/azure-monitor/logs/personal-data-mgmt (2024-09-11 04:50 PM) @cancelled
             Integrate with Azure Logic Apps:
                 ☐ Azure Monitor Logs connector https://learn.microsoft.com/azure/connectors/connectors-azure-monitor-logs (2024-09-11 06:38 PM)
                 ☐ Application Insights connector https://learn.microsoft.com/azure/connectors/connectors-azure-application-insights (2024-02-15 12:15 PM)
@@ -523,8 +523,8 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2024-09-11 04:50 PM)
             ☐ Log data https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-security (2024-11-08 11:00 PM)
             ✘ Customer-managed keys https://learn.microsoft.com/en-us/azure/azure-monitor/logs/customer-managed-keys (2024-12-16 05:37 AM) @cancelled
-            ☐ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2024-09-11 04:50 PM)
-            ☐ Personal log data handling https://learn.microsoft.com/en-us/azure/azure-monitor/logs/personal-data-mgmt (2024-09-11 04:50 PM)
+            ✘ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2024-09-11 04:50 PM) @cancelled
+            ✘ Personal log data handling https://learn.microsoft.com/en-us/azure/azure-monitor/logs/personal-data-mgmt (2024-09-11 04:50 PM) @cancelled
         Network isolation:
             Private Link networking:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-link-security (2024-12-10 11:03 PM)
@@ -769,7 +769,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ✘ Activity Logs https://learn.microsoft.com/cli/azure/monitor/activity-log (2023-11-14 09:47 AM) @cancelled
             ☐ Log Analytics https://learn.microsoft.com/cli/azure/monitor/log-analytics (2024-10-08 10:05 PM)
         REST API:
-            ☐ Azure Monitor REST API index https://learn.microsoft.com/en-us/azure/azure-monitor/azure-monitor-rest-api-index (2024-09-11 04:50 PM)
+            ✘ Azure Monitor REST API index https://learn.microsoft.com/en-us/azure/azure-monitor/azure-monitor-rest-api-index (2024-09-11 04:50 PM) @cancelled
         ☐ Azure alerts management SDK for Python https://learn.microsoft.com/python/api/azure-mgmt-monitor/azure.mgmt.monitor.monitormanagementclient (2024-03-06 12:07 PM)
         Resource Manager templates:
             ☐ Azure Monitor https://learn.microsoft.com/azure/templates/microsoft.insights/allversions (2024-12-16 07:04 PM)
@@ -834,7 +834,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ✘ Configure JavaScript SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk-configuration (2024-12-31 06:01 PM) @cancelled
                             ☐ ApplicationInsights.config https://learn.microsoft.com/en-us/azure/azure-monitor/app/configuration-with-applicationinsights-config (2024-12-31 06:01 PM)
                 ☐ Monitor network configuration https://learn.microsoft.com/azure/virtual-network/kubernetes-network-policies#monitor-and-visualize-network-configurations-with-azure-npm (2024-12-31 12:14 PM)
-        ☐ Security best practices in Azure Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM)
+        ✘ Security best practices in Azure Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM) @cancelled
             ✘ Analyze metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/analyze-metrics (2024-12-30 06:31 PM) @cancelled
             ☐ Troubleshooting metric charts https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-troubleshoot (2024-12-30 06:31 PM)
 
@@ -981,4 +981,19 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Performance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-performance (2025-01-19 12:15 PM)
                 ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview#frequently-asked-questions (2025-01-19 12:15 PM)
                     ☐ Replicate workspace across regions https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-replication (2025-01-19 12:15 PM)
+
+
+---
+
+                    ☐ Log Analytics gateway https://learn.microsoft.com/en-us/azure/azure-monitor/agents/gateway (2025-01-20 12:05 PM)
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent (2025-01-20 12:05 PM)
+                        ☐ Windows agents https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows (2025-01-20 12:05 PM)
+            ☐ Overview of Azure Monitor Metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics (2025-01-20 12:05 PM)
+                    ☐ Design a workspace architecture https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-design (2025-01-20 06:04 PM)
+                ☐ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2025-01-20 12:05 PM)
+                ☐ Personal log data handling https://learn.microsoft.com/en-us/azure/azure-monitor/logs/personal-data-mgmt (2025-01-20 12:05 PM)
+        ☐ Azure Monitor security overview and guidelines https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM)
+            ☐ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2025-01-20 12:05 PM)
+            ☐ Personal log data handling https://learn.microsoft.com/en-us/azure/azure-monitor/logs/personal-data-mgmt (2025-01-20 12:05 PM)
+            ☐ Azure Monitor REST API index https://learn.microsoft.com/en-us/azure/azure-monitor/azure-monitor-rest-api-index (2025-01-20 12:05 PM)
 

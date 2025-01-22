@@ -150,7 +150,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
             ✘ Troubleshooting guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-troubleshooting-guide (2024-11-22 06:03 PM) @cancelled
             ☐ SDK troubleshooting guide https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/servicebus/Azure.Messaging.ServiceBus/TROUBLESHOOTING.md
             ☐ Resource Manager exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-exceptions (2024-03-20 05:38 AM)
-            ☐ Service Bus exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions-latest (2024-12-19 11:02 PM)
+            ✘ Service Bus exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions-latest (2024-12-19 11:02 PM) @cancelled
             ☐ Service Bus exceptions (deprecated) https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions (2024-06-17 10:05 PM)
     Reference:
         ✘ Monitoring data reference https://learn.microsoft.com/en-us/azure/service-bus-messaging/monitor-service-bus-reference (2024-10-28 06:09 PM) @cancelled
@@ -305,7 +305,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
 
 ---
 
-            ☐ Test locally with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator (2025-01-13 11:06 PM)
+            ✘ Test locally with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator (2025-01-13 11:06 PM) @cancelled
             ✘ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-14 12:08 PM) @cancelled
             ✘ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-14 12:10 PM) @cancelled
         ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.servicebus (2025-01-14 05:13 PM)
@@ -332,4 +332,10 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
 
             ✔ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-20 12:08 PM) @done(25-01-21 22:48)
             ✔ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-20 12:07 PM) @done(25-01-21 22:48)
+
+
+---
+
+            ✔ Test locally with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator (2025-01-21 06:09 PM) @done(25-01-22 21:43)
+            ✔ Service Bus exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions-latest (2025-01-21 06:09 PM) @started(25-01-22 21:43) @done(25-01-22 21:43) @lasted(55s)
 

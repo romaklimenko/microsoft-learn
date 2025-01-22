@@ -987,7 +987,7 @@ Kusto documentation - Kusto | Microsoft Learn:
                 ☐ .delete table policy restricted_view_access command https://learn.microsoft.com/en-us/kusto/management/delete-table-restricted-view-access-policy-command (2024-08-20 02:54 PM)
                 ☐ .show table policy restricted_view_access command https://learn.microsoft.com/en-us/kusto/management/show-table-restricted-view-access-policy-command (2024-08-20 02:54 PM)
             Retention:
-                ☐ Retention policy https://learn.microsoft.com/en-us/kusto/management/retention-policy (2024-09-18 11:07 AM)
+                ✘ Retention policy https://learn.microsoft.com/en-us/kusto/management/retention-policy (2024-09-18 11:07 AM) @cancelled
                 ☐ .alter database policy retention command https://learn.microsoft.com/en-us/kusto/management/alter-database-retention-policy-command (2024-08-20 02:54 PM)
                 ☐ .alter materialized-view policy retention command https://learn.microsoft.com/en-us/kusto/management/alter-materialized-view-retention-policy-command (2024-08-20 02:54 PM)
                 ☐ .alter table policy retention command https://learn.microsoft.com/en-us/kusto/management/alter-table-retention-policy-command (2024-08-20 02:54 PM)
@@ -1977,14 +1977,14 @@ Kusto documentation - Kusto | Microsoft Learn:
             ☐ Function types https://learn.microsoft.com/en-us/kusto/query/functions/ (2024-08-20 02:54 PM)
             ☐ User-defined functions https://learn.microsoft.com/en-us/kusto/query/functions/user-defined-functions (2024-08-20 02:54 PM)
             ☐ Query statement types https://learn.microsoft.com/en-us/kusto/query/statements (2024-08-20 02:54 PM)
-            ☐ Alias statement https://learn.microsoft.com/en-us/kusto/query/alias-statement (2024-08-20 02:54 PM)
-            ☐ Let statement https://learn.microsoft.com/en-us/kusto/query/let-statement (2024-08-20 02:54 PM)
-            ☐ Pattern statement https://learn.microsoft.com/en-us/kusto/query/pattern-statement (2024-12-04 06:00 PM)
-            ☐ Query parameters statement https://learn.microsoft.com/en-us/kusto/query/query-parameters-statement (2024-08-20 02:54 PM)
-            ☐ Restrict statement https://learn.microsoft.com/en-us/kusto/query/restrict-statement (2024-08-20 02:54 PM)
-            ☐ Set statement https://learn.microsoft.com/en-us/kusto/query/set-statement (2024-08-20 02:54 PM)
-            ☐ Tabular expression statements https://learn.microsoft.com/en-us/kusto/query/tabular-expression-statements (2024-08-20 02:54 PM)
-            ☐ Batches https://learn.microsoft.com/en-us/kusto/query/batches (2024-08-20 02:54 PM)
+            ✘ Alias statement https://learn.microsoft.com/en-us/kusto/query/alias-statement (2024-08-20 02:54 PM) @cancelled
+            ✘ Let statement https://learn.microsoft.com/en-us/kusto/query/let-statement (2024-08-20 02:54 PM) @cancelled
+            ✘ Pattern statement https://learn.microsoft.com/en-us/kusto/query/pattern-statement (2024-12-04 06:00 PM) @cancelled
+            ✘ Query parameters statement https://learn.microsoft.com/en-us/kusto/query/query-parameters-statement (2024-08-20 02:54 PM) @cancelled
+            ✘ Restrict statement https://learn.microsoft.com/en-us/kusto/query/restrict-statement (2024-08-20 02:54 PM) @cancelled
+            ✘ Set statement https://learn.microsoft.com/en-us/kusto/query/set-statement (2024-08-20 02:54 PM) @cancelled
+            ✘ Tabular expression statements https://learn.microsoft.com/en-us/kusto/query/tabular-expression-statements (2024-08-20 02:54 PM) @cancelled
+            ✘ Batches https://learn.microsoft.com/en-us/kusto/query/batches (2024-08-20 02:54 PM) @cancelled
             ☐ Query operators https://learn.microsoft.com/en-us/kusto/query/queries (2024-08-20 02:54 PM)
             ☐ as operator https://learn.microsoft.com/en-us/kusto/query/as-operator (2024-08-20 02:54 PM)
             ☐ consume operator https://learn.microsoft.com/en-us/kusto/query/consume-operator (2024-08-20 02:54 PM)
@@ -2571,4 +2571,18 @@ Kusto documentation - Kusto | Microsoft Learn:
             ☐ SQL to Kusto cheat sheet https://learn.microsoft.com/en-us/kusto/query/sql-cheat-sheet (2024-09-24 11:04 AM)
             ☐ Splunk to Kusto cheat sheet https://learn.microsoft.com/en-us/kusto/query/splunk-cheat-sheet (2024-08-20 02:54 PM)
             ☐ Timezones https://learn.microsoft.com/en-us/kusto/query/timezone (2024-08-20 02:54 PM)
+
+
+---
+
+            ☐ Alias statement https://learn.microsoft.com/en-us/kusto/query/alias-statement (2025-01-20 06:02 PM)
+            ☐ Let statement https://learn.microsoft.com/en-us/kusto/query/let-statement (2025-01-20 06:02 PM)
+            ☐ Pattern statement https://learn.microsoft.com/en-us/kusto/query/pattern-statement (2025-01-20 06:02 PM)
+            ☐ Query parameters statement https://learn.microsoft.com/en-us/kusto/query/query-parameters-statement (2025-01-20 06:02 PM)
+            ☐ Restrict statement https://learn.microsoft.com/en-us/kusto/query/restrict-statement (2025-01-20 06:02 PM)
+            ☐ Set statement https://learn.microsoft.com/en-us/kusto/query/set-statement (2025-01-20 06:02 PM)
+            ☐ Tabular expression statements https://learn.microsoft.com/en-us/kusto/query/tabular-expression-statements (2025-01-20 06:02 PM)
+            ☐ Batches https://learn.microsoft.com/en-us/kusto/query/batches (2025-01-20 06:02 PM)
+                ☐ Avrotize k2a tool https://learn.microsoft.com/en-us/kusto/tools/avrotize (2025-01-16 06:01 PM)
+                ☐ Retention policy https://learn.microsoft.com/en-us/kusto/management/retention-policy (2025-01-21 06:08 PM)
 
