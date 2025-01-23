@@ -30,13 +30,13 @@ SaaS and multitenant solution architecture - Azure Architecture Center | Microso
                 ☐ Governance and compliance https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/governance-compliance (2024-12-11 06:31 PM)
                 ☐ Cost management and allocation https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/cost-management-allocation (2024-09-12 04:46 PM)
                 ☐ Deployment and configuration https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/deployment-configuration (2024-09-12 04:46 PM)
-                ☐ Compute https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/compute (2024-09-12 04:46 PM)
+                ✘ Compute https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/compute (2024-09-12 04:46 PM) @cancelled
                 ☐ Control planes https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/control-planes (2024-09-12 04:46 PM)
                 ☐ Networking https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/networking (2024-09-12 04:46 PM)
                 ☐ Storage and data https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/storage-data (2024-09-12 04:46 PM)
                 ☐ Messaging https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/messaging (2024-11-27 06:34 PM)
                 ☐ Identity https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/identity (2024-09-16 05:36 PM)
-                ☐ Integration https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/integration (2024-09-12 04:46 PM)
+                ✘ Integration https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/integration (2024-09-12 04:46 PM) @cancelled
                 ☐ IoT https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/iot (2024-12-16 06:28 PM)
                 ☐ AI and ML https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/ai-ml (2024-09-12 04:46 PM)
             Service-specific guidance:
@@ -46,14 +46,14 @@ SaaS and multitenant solution architecture - Azure Architecture Center | Microso
                     ☐ Azure Resource Manager https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/resource-manager (2024-09-12 04:46 PM)
                 Compute:
                     ☐ App Service and Functions https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/app-service (2024-09-12 04:46 PM)
-                    ☐ Azure Container Apps https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/container-apps (2024-09-12 04:46 PM)
+                    ✘ Azure Container Apps https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/container-apps (2024-09-12 04:46 PM) @cancelled
                     ☐ Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/aks (2024-11-19 06:30 PM)
                 Networking:
-                    ☐ Azure Front Door https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/front-door (2024-09-12 04:46 PM)
+                    ✘ Azure Front Door https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/front-door (2024-09-12 04:46 PM) @cancelled
                     ☐ Azure NAT Gateway https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/nat-gateway (2024-09-12 04:46 PM)
-                    ☐ Azure Private Link https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/private-link (2024-09-12 04:46 PM)
+                    ✘ Azure Private Link https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/private-link (2024-09-12 04:46 PM) @cancelled
                 Storage and data:
-                    ☐ Azure Cache for Redis https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/cache-redis (2024-09-12 04:46 PM)
+                    ✘ Azure Cache for Redis https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/cache-redis (2024-09-12 04:46 PM) @cancelled
                     ✘ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/cosmos-db (2024-12-06 06:31 PM) @cancelled
                     ☐ Azure Database for PostgreSQL https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/postgresql (2024-11-07 06:33 PM)
                     ☐ Azure SQL Database https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/sql-database (2024-11-07 06:33 PM)
@@ -85,4 +85,14 @@ SaaS and multitenant solution architecture - Azure Architecture Center | Microso
 ---
 
             ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/guide/startups/startup-architecture (2025-01-09 06:30 PM)
+
+
+---
+
+                ☐ Compute https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/compute (2025-01-22 06:30 PM)
+                ☐ Integration https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/integration (2025-01-22 06:30 PM)
+                    ☐ Azure Container Apps https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/container-apps (2025-01-22 06:30 PM)
+                    ☐ Azure Front Door https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/front-door (2025-01-22 06:30 PM)
+                    ☐ Azure Private Link https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/private-link (2025-01-22 06:30 PM)
+                    ☐ Azure Cache for Redis https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/cache-redis (2025-01-22 06:30 PM)
 

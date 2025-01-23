@@ -9,7 +9,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ✘ Long-term support https://learn.microsoft.com/en-us/azure/aks/long-term-support (2024-11-27 11:02 PM) @cancelled
         ☐ Add-ons, extensions, and other integrations https://learn.microsoft.com/en-us/azure/aks/integrations (2024-11-25 11:00 PM)
     Getting started:
-        ☐ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-21 10:01 PM)
+        ✘ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-10-21 10:01 PM) @cancelled
         ☐ Plan your implementation https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-start-here?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-02 06:29 PM)
         ☐ Windows container considerations https://learn.microsoft.com/en-us/azure/aks/windows-vs-linux-containers (2024-09-16 10:00 PM)
     Quickstarts:
@@ -88,7 +88,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ☐ Storage https://learn.microsoft.com/en-us/azure/aks/concepts-storage (2024-12-12 05:31 AM)
         ☐ Scaling https://learn.microsoft.com/en-us/azure/aks/concepts-scale (2024-11-07 05:31 AM)
         Node health:
-            ☐ Node auto-repair https://learn.microsoft.com/en-us/azure/aks/node-auto-repair (2024-08-01 08:29 PM)
+            ✘ Node auto-repair https://learn.microsoft.com/en-us/azure/aks/node-auto-repair (2024-08-01 08:29 PM) @cancelled
             ☐ Node Problem Detector (NPD) https://learn.microsoft.com/en-us/azure/aks/node-problem-detector (2024-10-01 11:06 AM)
         ☐ Service meshes https://learn.microsoft.com/en-us/azure/aks/servicemesh-about (2024-11-29 05:32 AM)
         ☐ Sustainable software engineering https://learn.microsoft.com/en-us/azure/aks/concepts-sustainable-software-engineering (2024-08-01 08:29 PM)
@@ -309,7 +309,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Use a static IP address and DNS label https://learn.microsoft.com/en-us/azure/aks/static-ip (2024-08-01 08:29 PM)
                 ☐ Customize CoreDNS https://learn.microsoft.com/en-us/azure/aks/coredns-custom (2024-10-30 05:00 PM)
             Egress:
-                ☐ Configure outbound type for AKS https://learn.microsoft.com/en-us/azure/aks/egress-outboundtype (2024-12-20 12:04 PM)
+                ✘ Configure outbound type for AKS https://learn.microsoft.com/en-us/azure/aks/egress-outboundtype (2024-12-20 12:04 PM) @cancelled
                 ☐ Use a user-defined route for egress https://learn.microsoft.com/en-us/azure/aks/egress-udr (2024-09-05 09:55 PM)
                 ☐ Use an HTTP proxy https://learn.microsoft.com/en-us/azure/aks/http-proxy (2024-12-05 05:31 AM)
                 ☐ Use a NAT Gateway https://learn.microsoft.com/en-us/azure/aks/nat-gateway (2024-10-27 11:07 AM)
@@ -741,4 +741,17 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ✔ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-20 12:33 PM) @done(25-01-22 21:38)
         ✔ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-20 12:08 PM) @done(25-01-22 21:38)
         ✔ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-20 12:07 PM) @done(25-01-22 21:38)
+
+
+---
+
+        ☐ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-21 10:59 PM)
+            ☐ Node auto-repair https://learn.microsoft.com/en-us/azure/aks/node-auto-repair (2025-01-22 05:30 AM)
+            ☐ Node auto-drain https://learn.microsoft.com/en-us/azure/aks/node-auto-drain (2025-01-22 05:30 AM)
+                ☐ Configure outbound type for AKS https://learn.microsoft.com/en-us/azure/aks/egress-outboundtype (2025-01-22 05:30 AM)
+            ☐ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-22 12:20 PM)
+            ☐ Use Telepresence to develop and test microservices locally https://learn.microsoft.com/en-us/azure/aks/use-telepresence-aks (2025-01-22 05:30 AM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-22 12:36 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-22 12:09 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-22 12:07 PM)
 

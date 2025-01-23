@@ -6823,7 +6823,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                 ☐ sys.dm_exec_dms_services https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-exec-dms-services-transact-sql (2024-09-09 10:27 PM)
                 ☐ sys.dm_exec_dms_workers https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-exec-dms-workers-transact-sql (2024-09-09 10:27 PM)
                 ☐ sys.dm_exec_external_operations https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-exec-external-operations-transact-sql (2024-09-09 10:27 PM)
-                ☐ sys.dm_exec_external_work https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-exec-external-work-transact-sql (2024-09-09 10:27 PM)
+                ✘ sys.dm_exec_external_work https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-exec-external-work-transact-sql (2024-09-09 10:27 PM) @cancelled
                 ☐ sys.dm_exec_function_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-exec-function-stats-transact-sql (2024-09-09 10:27 PM)
                 ☐ sys.dm_exec_input_buffer https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-exec-input-buffer-transact-sql (2024-09-09 10:27 PM)
                 ☐ sys.dm_exec_plan_attributes https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-exec-plan-attributes-transact-sql (2024-09-09 10:27 PM)
@@ -9556,8 +9556,16 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
 
                 ☐ Bring your own key > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-configure (2025-01-21 11:37 PM)
                 ☐ Remove TDE protector > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-remove-tde-protector (2025-01-21 11:37 PM)
-                ☐ Prerequisites https://learn.microsoft.com/en-us/sql/big-data-cluster/active-directory-prerequisites
-                ☐ sys.dm_db_xtp_transactions https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-xtp-transactions-transact-sql
-                ☐ sys.dm_xtp_gc_queue_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-xtp-gc-queue-stats-transact-sql
+                ✘ Prerequisites https://learn.microsoft.com/en-us/sql/big-data-cluster/active-directory-prerequisites @cancelled
+                ✘ sys.dm_db_xtp_transactions https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-xtp-transactions-transact-sql @cancelled
+                ✘ sys.dm_xtp_gc_queue_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-xtp-gc-queue-stats-transact-sql @cancelled
                     ☐ GRANT Server Permissions https://learn.microsoft.com/en-us/sql/t-sql/statements/grant-server-permissions-transact-sql (2024-09-09 10:27 PM)
+
+
+---
+
+                ☐ Prerequisites https://learn.microsoft.com/en-us/sql/big-data-cluster/active-directory-prerequisites (2024-09-09 10:27 PM)
+                ☐ sys.dm_exec_external_work https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-exec-external-work-transact-sql
+                ☐ sys.dm_db_xtp_transactions https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-xtp-transactions-transact-sql (2024-09-09 10:27 PM)
+                ☐ sys.dm_xtp_gc_queue_stats https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-xtp-gc-queue-stats-transact-sql (2024-09-09 10:27 PM)
 

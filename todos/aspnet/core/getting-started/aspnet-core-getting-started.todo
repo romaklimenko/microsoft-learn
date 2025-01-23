@@ -534,7 +534,7 @@ Get started with ASP.NET Core | Microsoft Learn:
             ☐ Request draining https://learn.microsoft.com/en-us/aspnet/core/getting-started/fundamentals/servers/kestrel/request-draining (2024-09-09 10:27 PM)
         IIS:
             ☐ Overview https://learn.microsoft.com/en-us/aspnet/core/getting-started/host-and-deploy/iis/ (2024-09-09 10:27 PM)
-            ☐ ASP.NET Core Module https://learn.microsoft.com/en-us/aspnet/core/getting-started/host-and-deploy/aspnet-core-module (2024-09-09 10:27 PM)
+            ✘ ASP.NET Core Module https://learn.microsoft.com/en-us/aspnet/core/getting-started/host-and-deploy/aspnet-core-module (2024-09-09 10:27 PM) @cancelled
             ☐ In-process hosting https://learn.microsoft.com/en-us/aspnet/core/getting-started/host-and-deploy/iis/in-process-hosting (2024-09-09 10:27 PM)
             ☐ Out-of-process hosting https://learn.microsoft.com/en-us/aspnet/core/getting-started/host-and-deploy/iis/out-of-process-hosting (2024-09-09 10:27 PM)
             ☐ Hosting Bundle https://learn.microsoft.com/en-us/aspnet/core/getting-started/host-and-deploy/iis/hosting-bundle (2024-09-09 10:27 PM)
@@ -566,7 +566,7 @@ Get started with ASP.NET Core | Microsoft Learn:
     Debug:
         ☐ Debug with Visual Studio https://learn.microsoft.com/en-us/aspnet/core/getting-started/test/debug-aspnetcore-source (2024-09-09 10:27 PM)
         ☐ Remote debugging https://learn.microsoft.com/visualstudio/debugger/remote-debugging-azure (2024-11-15 08:13 PM)
-        ☐ Snapshot debugging in Azure https://learn.microsoft.com/azure/azure-monitor/app/snapshot-debugger?toc=/aspnet/core/toc.json&bc=/aspnet/core/breadcrumb/toc.json (2024-09-11 04:50 PM)
+        ✘ Snapshot debugging in Azure https://learn.microsoft.com/azure/azure-monitor/app/snapshot-debugger?toc=/aspnet/core/toc.json&bc=/aspnet/core/breadcrumb/toc.json (2024-09-11 04:50 PM) @cancelled
         ☐ Snapshot debugging in Visual Studio https://learn.microsoft.com/visualstudio/debugger/debug-live-azure-applications (2024-03-11 05:04 PM)
         ☐ Visual Studio Dev Tunnels with Power Platform https://learn.microsoft.com/connectors/custom-connectors/port-tunneling (2024-10-16 06:00 PM)
     Troubleshoot:
@@ -652,7 +652,7 @@ Get started with ASP.NET Core | Microsoft Learn:
             ☐ Publish with Visual Studio for Mac https://learn.microsoft.com/visualstudio/mac/publish-app-svc?toc=/aspnet/core/toc.json&bc=/aspnet/core/breadcrumb/toc.json (2024-09-03 06:12 PM)
             ☐ Publish with the CLI https://learn.microsoft.com/azure/app-service/tutorial-dotnetcore-sqldb-app?toc=/aspnet/core/toc.json&bc=/aspnet/core/breadcrumb/toc.json (2024-12-03 05:33 AM)
             ☐ Continuous deployment with Azure Pipelines https://learn.microsoft.com/azure/devops/pipelines/get-started-yaml (2024-11-08 01:34 PM)
-            ☐ ASP.NET Core Module (ANCM) for IIS https://learn.microsoft.com/en-us/aspnet/core/getting-started/host-and-deploy/aspnet-core-module (2024-09-09 10:27 PM)
+            ✘ ASP.NET Core Module (ANCM) for IIS https://learn.microsoft.com/en-us/aspnet/core/getting-started/host-and-deploy/aspnet-core-module (2024-09-09 10:27 PM) @cancelled
             ☐ Troubleshoot https://learn.microsoft.com/en-us/aspnet/core/getting-started/test/troubleshoot-azure-iis (2024-09-09 10:27 PM)
             ☐ Errors reference https://learn.microsoft.com/en-us/aspnet/core/getting-started/host-and-deploy/azure-iis-errors-reference (2024-09-09 10:27 PM)
         DevOps:
@@ -937,4 +937,10 @@ Get started with ASP.NET Core | Microsoft Learn:
 ---
 
             ✔ Configure JWT bearer authentication https://learn.microsoft.com/en-us/aspnet/core/getting-started/security/authentication/configure-jwt-bearer-authentication (2024-09-09 10:27 PM) @done(25-01-20 14:43)
+
+
+---
+
+            ✔ ASP.NET Core Module https://learn.microsoft.com/en-us/aspnet/core/getting-started/host-and-deploy/aspnet-core-module @done(25-01-23 21:36)
+        ✔ Snapshot debugging in Azure https://learn.microsoft.com/azure/azure-monitor/app/snapshot-debugger?toc=/aspnet/core/toc.json&bc=/aspnet/core/breadcrumb/toc.json (2025-01-22 06:05 PM) @done(25-01-23 21:37)
 

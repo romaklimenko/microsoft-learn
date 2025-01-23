@@ -70,7 +70,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ✘ Hybrid options https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/hybrid-considerations (2024-09-09 10:27 PM) @cancelled
                 ☐ Compare Azure Stack Hub and Azure https://learn.microsoft.com/azure-stack/user/azure-stack-considerations (2024-02-01 10:55 PM)
                 ✘ Compare Azure, Stack Hub, and Stack HCI https://learn.microsoft.com/azure-stack/operator/compare-azure-azure-stack (2024-11-19 01:46 PM) @cancelled
-                ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2024-11-20 06:02 PM)
+                ✘ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2024-11-20 06:02 PM) @cancelled
                 ✘ Compare Stack HCI and Windows Server https://learn.microsoft.com/azure-stack/hci/concepts/compare-windows-server (2024-11-19 01:46 PM) @cancelled
                 ✘ Choose drives for Azure Local https://learn.microsoft.com/azure-stack/hci/concepts/choose-drives (2024-11-19 01:46 PM) @cancelled
                 ☐ FSLogix in Azure Virtual Desktop https://learn.microsoft.com/azure/virtual-desktop/store-fslogix-profile (2024-12-13 06:02 PM)
@@ -78,11 +78,11 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ Deployment models https://learn.microsoft.com/azure/confidential-computing/confidential-computing-deployment-models (2024-12-04 11:05 PM)
                 ☐ Containers for confidential computing https://learn.microsoft.com/azure/confidential-computing/choose-confidential-containers-offerings (2024-08-22 07:16 PM)
             Choose an identity service:
-                ☐ Active Directory services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2024-10-11 10:00 PM)
+                ✘ Active Directory services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2024-10-11 10:00 PM) @cancelled
                 ☐ Hybrid identity authentication methods https://learn.microsoft.com/azure/active-directory/hybrid/choose-ad-authn (2024-12-20 11:01 PM)
             Choose a storage service:
                 ✘ Storage options https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/storage-options (2024-09-09 10:27 PM) @cancelled
-                ☐ Managed disk types https://learn.microsoft.com/azure/virtual-machines/disks-types (2024-08-23 04:58 PM)
+                ✘ Managed disk types https://learn.microsoft.com/azure/virtual-machines/disks-types (2024-08-23 04:58 PM) @cancelled
                 Data transfer:
                     ☐ Data transfer solutions https://learn.microsoft.com/azure/storage/common/storage-choose-data-transfer-solution (2024-01-05 12:22 PM)
                     ☐ Compare data transfer options https://learn.microsoft.com/azure/storsimple/storsimple-8000-choose-storage-solution (2024-12-03 11:07 PM)
@@ -580,7 +580,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ✘ Azure hybrid options https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/hybrid-considerations (2024-09-09 10:27 PM) @cancelled
                     ☐ Compare Azure Stack Hub and Azure https://learn.microsoft.com/azure-stack/user/azure-stack-considerations (2024-02-01 10:55 PM)
                     ✘ Compare Azure, Stack Hub, Stack HCI https://learn.microsoft.com/azure-stack/operator/compare-azure-azure-stack (2024-11-19 01:46 PM) @cancelled
-                    ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2024-11-20 06:02 PM)
+                    ✘ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2024-11-20 06:02 PM) @cancelled
                     ✘ Compare Stack HCI to Windows Server https://learn.microsoft.com/azure-stack/hci/concepts/compare-windows-server (2024-11-19 01:46 PM) @cancelled
                     ✘ Choose drives for Azure Local https://learn.microsoft.com/azure-stack/hci/concepts/choose-drives (2024-11-19 01:46 PM) @cancelled
                 Azure Arc guidance:
@@ -647,7 +647,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ✘ Microsoft Entra architecture https://learn.microsoft.com/azure/active-directory/fundamentals/active-directory-architecture (2024-11-08 06:00 PM) @cancelled
                 ✘ Cross-tenant communication https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/cross-tenant-communication-using-multitenanted-applications (2024-09-09 10:27 PM) @cancelled
                 ☐ Identity and access management in Azure https://learn.microsoft.com/security/compass/identity (2024-08-01 09:59 PM)
-                ☐ Compare identity services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2024-10-11 10:00 PM)
+                ✘ Compare identity services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2024-10-11 10:00 PM) @cancelled
                 ✘ Build for resilience https://learn.microsoft.com/en-us/azure/architecture/guide/guide/resilience/resilience-overview (2024-09-09 10:27 PM) @cancelled
                 Conditional Access:
                     ✘ Conditional Access for Zero trust https://learn.microsoft.com/en-us/azure/architecture/guide/guide/security/conditional-access-zero-trust (2024-09-09 10:27 PM) @cancelled
@@ -878,7 +878,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
             ✘ Get started https://learn.microsoft.com/en-us/azure/architecture/guide/guide/security/security-start-here (2024-09-09 10:27 PM) @cancelled
             Guides:
                 General security:
-                    ☐ Introduction to Azure security https://learn.microsoft.com/azure/security/fundamentals/overview (2024-11-22 05:58 AM)
+                    ✘ Introduction to Azure security https://learn.microsoft.com/azure/security/fundamentals/overview (2024-11-22 05:58 AM) @cancelled
                     ✘ Security design principles https://learn.microsoft.com/azure/well-architected/security/principles (2024-02-05 05:55 PM) @cancelled
                     ✘ Security patterns https://learn.microsoft.com/azure/well-architected/security/design-patterns (2024-10-10 10:00 PM) @cancelled
                     ☐ End-to-end security https://learn.microsoft.com/azure/security/fundamentals/end-to-end (2024-09-30 11:14 AM)
@@ -962,7 +962,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Design for querying https://learn.microsoft.com/azure/storage/tables/table-storage-design-for-query (2023-08-25 09:58 PM)
                     ☐ Table design patterns https://learn.microsoft.com/azure/storage/tables/table-storage-design-patterns (2024-02-05 06:03 PM)
                 Disk storage guidance:
-                    ☐ Choose a managed disk type https://learn.microsoft.com/azure/virtual-machines/disks-types (2024-08-23 04:58 PM)
+                    ✘ Choose a managed disk type https://learn.microsoft.com/azure/virtual-machines/disks-types (2024-08-23 04:58 PM) @cancelled
                     ✘ Server-side encryption https://learn.microsoft.com/azure/virtual-machines/disk-encryption (2024-11-08 10:59 PM) @cancelled
                     ☐ Disk Encryption for Linux VMs https://learn.microsoft.com/azure/virtual-machines/linux/disk-encryption-overview (2024-11-21 05:32 AM)
                     ☐ Disk Encryption for Windows VMs https://learn.microsoft.com/azure/virtual-machines/windows/disk-encryption-overview (2024-11-21 05:32 AM)
@@ -1778,7 +1778,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ Management for VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring (2024-07-16 04:57 PM)
                     ☐ Migrate with Azure VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/migrate (2024-06-13 04:56 PM)
                 ☐ Azure governance design area https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/governance (2024-12-13 06:00 PM)
-                    ☐ Connect Microsoft Defender XDR https://learn.microsoft.com/azure/sentinel/connect-microsoft-365-defender (2025-01-15 06:04 PM)
+                    ✘ Connect Microsoft Defender XDR https://learn.microsoft.com/azure/sentinel/connect-microsoft-365-defender (2025-01-15 06:04 PM) @cancelled
 
 
 ---
@@ -1789,7 +1789,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Anchor relationships https://learn.microsoft.com/azure/spatial-anchors/concepts/anchor-relationships-way-finding (2025-01-16 11:03 PM)
                     ☐ Coarse relocalization https://learn.microsoft.com/azure/spatial-anchors/concepts/coarse-reloc (2025-01-16 11:03 PM)
                     ☐ Experience guidelines https://learn.microsoft.com/azure/spatial-anchors/concepts/guidelines-effective-anchor-experiences (2025-01-16 11:03 PM)
-                ☐ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2025-01-16 06:03 PM)
+                ✘ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2025-01-16 06:03 PM) @cancelled
                 ☐ DR and storage account failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2025-01-15 11:02 PM)
                     ☐ Disaster recovery and failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2025-01-15 11:02 PM)
                     ☐ Server-side encryption https://learn.microsoft.com/azure/virtual-machines/disk-encryption (2025-01-17 05:34 AM)
@@ -1818,4 +1818,18 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ Azure Virtual Desktop Agent https://learn.microsoft.com/azure/virtual-desktop/agent-overview (2025-01-20 06:04 PM)
                 ☐ Authentication in Azure Virtual Desktop https://learn.microsoft.com/azure/virtual-desktop/authentication (2025-01-20 06:04 PM)
                     ☐ Connection quality https://learn.microsoft.com/azure/virtual-desktop/connection-latency (2025-01-20 06:04 PM)
+
+
+---
+
+                ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-21 10:59 PM)
+                ☐ Active Directory services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2025-01-21 10:59 PM)
+                ☐ Managed disk types https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-22 05:31 AM)
+                    ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-21 10:59 PM)
+                ☐ Compare identity services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2025-01-21 10:59 PM)
+                    ☐ Support matrix for Azure VM DR https://learn.microsoft.com/azure/site-recovery/azure-to-azure-support-matrix (2025-01-22 06:07 PM)
+                    ☐ Introduction to Azure security https://learn.microsoft.com/azure/security/fundamentals/overview (2025-01-21 11:02 PM)
+                    ☐ Connect Microsoft Defender XDR https://learn.microsoft.com/azure/sentinel/connect-microsoft-365-defender (2025-01-22 12:20 PM)
+                ☐ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2025-01-21 11:02 PM)
+                    ☐ Choose a managed disk type https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-22 05:31 AM)
 

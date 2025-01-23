@@ -6,7 +6,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
         ✘ Language and voice support https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support (2024-11-27 06:00 PM) @cancelled
         ✘ Region support https://learn.microsoft.com/en-us/azure/ai-services/speech-service/regions (2024-11-19 06:01 PM) @cancelled
         ☐ Pricing https://azure.microsoft.com/pricing/details/cognitive-services/speech-services/
-        ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-services-quotas-and-limits (2024-12-16 06:00 PM)
+        ✘ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-services-quotas-and-limits (2024-12-16 06:00 PM) @cancelled
         ☐ Speech Studio https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-studio-overview (2024-11-20 06:02 PM)
     Speech to text:
         ☐ Speech to text documentation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/index-speech-to-text (2024-09-20 05:36 AM)
@@ -20,7 +20,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
         Batch transcription API:
             ☐ Batch transcription overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription (2024-09-12 04:57 PM)
             ☐ Part 1: Locate audio files in storage https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription-audio-data (2024-09-12 04:57 PM)
-            ☐ Part 2: Create a batch transcription https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription-create (2024-11-11 06:05 PM)
+            ✘ Part 2: Create a batch transcription https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription-create (2024-11-11 06:05 PM) @cancelled
             ☐ Part 3: Get batch transcription results https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription-get (2024-09-12 04:57 PM)
             ☐ Power automate batch transcription https://learn.microsoft.com/en-us/azure/ai-services/speech-service/power-automate-batch-transcription (2024-09-20 10:00 PM)
         Custom speech:
@@ -344,7 +344,7 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
                 ☐ Interactive language learning with pronunciation assessment https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-learning-with-pronunciation-assessment (2025-01-06 12:04 PM)
                 ✘ Voice enable your bot https://learn.microsoft.com/en-us/azure/ai-services/speech-service/tutorial-voice-enable-your-bot-speech-sdk (2025-01-06 12:04 PM) @cancelled
         ☐ Speaker recognition https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speaker-recognition-overview (2025-01-06 12:04 PM)
-            ☐ Speech containers on Azure container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/speech-service/context/context (2025-01-03 06:01 PM)
+            ✘ Speech containers on Azure container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/speech-service/context/context (2025-01-03 06:01 PM) @cancelled
                 ☐ Migrate to custom neural voice https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-migrate-to-custom-neural-voice (2025-01-03 10:59 PM)
         ☐ Generate a REST API client library https://learn.microsoft.com/en-us/azure/ai-services/speech-service/swagger-documentation (2025-01-06 12:04 PM)
             ✘ Text to speech REST API https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-text-to-speech (2025-01-06 12:04 PM) @cancelled
@@ -391,4 +391,11 @@ What is the Speech service? - Azure AI services | Microsoft Learn:
 ---
 
             ✔ Speech to text REST API for short audio https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-speech-to-text-short (2025-01-20 12:07 PM) @done(25-01-22 07:53)
+
+
+---
+
+        ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-services-quotas-and-limits (2025-01-22 06:02 PM)
+            ☐ Part 2: Create a batch transcription https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription-create (2025-01-21 11:00 PM)
+            ☐ Speech containers on Azure container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/speech-service/context/context (2025-01-21 11:00 PM)
 

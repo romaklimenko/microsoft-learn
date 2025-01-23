@@ -39,7 +39,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
         Handle Service Bus events via Event Grid:
             ☐ Azure Logic Apps https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-to-event-grid-integration-example (2024-04-16 06:43 PM)
             ☐ Azure Functions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-to-event-grid-integration-function (2024-12-10 05:41 AM)
-        ☐ Build message-driven business applications with NServiceBus https://learn.microsoft.com/en-us/azure/service-bus-messaging/build-message-driven-apps-nservicebus (2024-08-02 10:04 PM)
+        ✘ Build message-driven business applications with NServiceBus https://learn.microsoft.com/en-us/azure/service-bus-messaging/build-message-driven-apps-nservicebus (2024-08-02 10:04 PM) @cancelled
     Samples:
         ☐ Service Bus samples https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-samples (2024-12-12 05:33 AM)
     Concepts:
@@ -93,7 +93,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
             ☐ Set subscription filters and actions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-filter-examples (2024-07-18 10:02 PM)
             Message handling:
                 ☐ Java message service (JMS) 2.0 entities https://learn.microsoft.com/en-us/azure/service-bus-messaging/java-message-service-20-entities (2023-06-07 11:14 AM)
-                ☐ Java Message Service (JMS) Developer guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/jms-developer-guide (2024-02-23 11:05 PM)
+                ✘ Java Message Service (JMS) Developer guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/jms-developer-guide (2024-02-23 11:05 PM) @cancelled
                 ☐ Messages, payloads, and serialization https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messages-payloads (2024-07-23 10:09 PM)
                 ☐ Message sequencing and timestamps https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-sequencing (2024-07-25 05:34 AM)
                 ☐ Message expiration (Time to Live) https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-expiration (2024-12-17 06:04 PM)
@@ -338,4 +338,13 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
 
             ✔ Test locally with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator (2025-01-21 06:09 PM) @done(25-01-22 21:43)
             ✔ Service Bus exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions-latest (2025-01-21 06:09 PM) @started(25-01-22 21:43) @done(25-01-22 21:43) @lasted(55s)
+
+
+---
+
+        ☐ Build message-driven business applications with NServiceBus https://learn.microsoft.com/en-us/azure/service-bus-messaging/build-message-driven-apps-nservicebus (2025-01-22 06:07 PM)
+                ☐ Java Message Service (JMS) Developer guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/jms-developer-guide (2025-01-22 06:07 PM)
+            ☐ Service Bus exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions-latest (2025-01-21 06:09 PM)
+            ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-22 12:09 PM)
+            ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-22 12:07 PM)
 

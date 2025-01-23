@@ -48,7 +48,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Security Controls by Azure Policy https://learn.microsoft.com/en-us/azure/synapse-analytics/security-controls-policy (2024-08-01 05:35 AM)
                 ☐ Encryption https://learn.microsoft.com/en-us/azure/synapse-analytics/security/workspaces-encryption (2024-08-07 10:04 PM)
                 Network Security:
-                    ☐ Synapse workspace IP firewall rules https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-ip-firewall (2024-08-01 05:35 AM)
+                    ✘ Synapse workspace IP firewall rules https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-ip-firewall (2024-08-01 05:35 AM) @cancelled
                     ☐ Connectivity settings https://learn.microsoft.com/en-us/azure/synapse-analytics/security/connectivity-settings (2024-12-10 05:41 AM)
                     ✘ Gateway IP addresses https://learn.microsoft.com/en-us/azure/synapse-analytics/security/gateway-ip-addresses (2024-10-24 05:04 PM) @cancelled
                     ☐ Synapse workspace Managed virtual network https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-managed-vnet (2024-08-01 05:35 AM)
@@ -111,7 +111,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             ☐ Clone a lake database https://learn.microsoft.com/en-us/azure/synapse-analytics/database-designer/clone-lake-database (2024-08-01 05:35 AM)
     Synapse SQL:
         Overview:
-            ☐ Synapse SQL architecture https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/overview-architecture (2024-11-11 06:07 PM)
+            ✘ Synapse SQL architecture https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/overview-architecture (2024-11-11 06:07 PM) @cancelled
             ☐ Serverless SQL pool https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/on-demand-workspace-overview (2024-09-13 11:13 AM)
             ☐ Dedicated SQL pool https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is?context=/azure/synapse-analytics/context/context (2024-10-07 10:04 PM)
             ☐ Features overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/overview-features (2024-08-14 06:47 PM)
@@ -170,15 +170,15 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 Tables:
                     ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-overview (2024-08-01 11:20 AM)
                     ☐ CETAS https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-cetas (2024-10-14 05:05 PM)
-                    ☐ CTAS https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-develop-ctas?context=/azure/synapse-analytics/context/context (2024-08-01 05:35 AM)
+                    ✘ CTAS https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-develop-ctas?context=/azure/synapse-analytics/context/context (2024-08-01 05:35 AM) @cancelled
                     ☐ Data types https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-data-types (2024-12-18 06:03 PM)
                     ☐ Distributed tables https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-distribute?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
                     ☐ Table constraints https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-table-constraints?context=/azure/synapse-analytics/context/context (2024-12-17 06:04 PM)
                     ✘ External tables https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-external-tables (2024-08-01 05:35 AM) @cancelled
-                    ☐ Indexes https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-index?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
+                    ✘ Indexes https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-index?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM) @cancelled
                     ☐ Identity https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-identity?context=/azure/synapse-analytics/context/context (2024-08-01 05:35 AM)
                     ☐ OPENROWSET https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-openrowset (2024-09-18 05:37 AM)
-                    ☐ Partitions https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-partition?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
+                    ✘ Partitions https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-partition?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM) @cancelled
                     ☐ Replicated tables https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-guidance-for-replicated-tables?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
                     ✘ Statistics https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-statistics (2024-08-01 11:20 AM) @cancelled
                     ☐ Temporary https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-temporary (2024-08-01 11:20 AM)
@@ -230,7 +230,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ SQL requests - Synapse Studio https://learn.microsoft.com/en-us/azure/synapse-analytics/monitoring/how-to-monitor-sql-requests (2024-08-01 05:35 AM)
                 ☐ SQL pools - Synapse Studio https://learn.microsoft.com/en-us/azure/synapse-analytics/monitoring/how-to-monitor-sql-pools (2024-08-01 05:35 AM)
                 ☐ Monitor Gen2 cache https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-how-to-monitor-cache?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
-                ☐ Monitor your workload - DMVs https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-manage-monitor?context=/azure/synapse-analytics/context/context (2024-12-17 06:04 PM)
+                ✘ Monitor your workload - DMVs https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-manage-monitor?context=/azure/synapse-analytics/context/context (2024-12-17 06:04 PM) @cancelled
                 ☐ Monitor your workload - portal https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-monitor-workload-portal?context=/azure/synapse-analytics/context/context (2024-09-19 06:07 PM)
                 ☐ Query history and analysis https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-history-storage-analysis (2024-09-11 06:38 PM)
                 Manage workloads:
@@ -1136,7 +1136,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Columns management https://learn.microsoft.com/kusto/management/columns?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .alter column command https://learn.microsoft.com/kusto/management/alter-column?view=azure-data-explorer&preserve-view=true (2024-10-27 11:04 PM)
                     ☐ .drop column command https://learn.microsoft.com/kusto/management/drop-column?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ .rename column command https://learn.microsoft.com/kusto/management/rename-column?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ .rename column command https://learn.microsoft.com/kusto/management/rename-column?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ☐ .alter table column-docstrings command https://learn.microsoft.com/kusto/management/alter-column-docstrings?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .alter-merge table column-docstrings command https://learn.microsoft.com/kusto/management/alter-merge-table-column?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 Ingestion mappings:
@@ -2251,4 +2251,16 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ✔ Batches https://learn.microsoft.com/kusto/query/batches?view=azure-data-explorer&preserve-view=true (2025-01-20 06:02 PM) @done(25-01-22 21:48)
                     ✔ Retention policy https://learn.microsoft.com/kusto/management/retention-policy?view=azure-data-explorer&preserve-view=true (2025-01-21 06:08 PM) @done(25-01-22 21:48)
                 ✔ Netezza https://learn.microsoft.com/en-us/azure/data-factory/connector-netezza?context=/azure/synapse-analytics/context/context&tabs=synapse-analytics (2025-01-21 05:32 AM) @done(25-01-22 21:48)
+
+
+---
+
+                    ☐ Synapse workspace IP firewall rules https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-ip-firewall (2025-01-22 06:07 PM)
+            ☐ Synapse SQL architecture https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/overview-architecture (2025-01-22 11:02 PM)
+                    ☐ CTAS https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-develop-ctas?context=/azure/synapse-analytics/context/context (2025-01-22 11:02 PM)
+                    ☐ Indexes https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-index?context=/azure/synapse-analytics/context/context (2025-01-22 11:02 PM)
+                    ☐ Partitions https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-partition?context=/azure/synapse-analytics/context/context (2025-01-22 11:02 PM)
+                        ☐ Storage Access Control https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-storage-files-storage-access-control (2025-01-22 11:02 PM)
+                ☐ Monitor your workload - DMVs https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-manage-monitor?context=/azure/synapse-analytics/context/context (2025-01-22 11:02 PM)
+                    ☐ .rename column command https://learn.microsoft.com/kusto/management/rename-column?view=azure-data-explorer&preserve-view=true
 

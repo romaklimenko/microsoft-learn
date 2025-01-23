@@ -40,11 +40,11 @@ Azure Databricks documentation | Microsoft Learn:
         Databricks architecture:
             ☐ Databricks architecture overview https://learn.microsoft.com/en-us/azure/databricks/getting-started/overview (2024-10-04 07:01 PM)
     DatabricksIQ:
-        ☐ DatabricksIQ-powered features https://learn.microsoft.com/en-us/azure/databricks/databricksiq/ (2024-10-24 07:01 PM)
+        ✘ DatabricksIQ-powered features https://learn.microsoft.com/en-us/azure/databricks/databricksiq/ (2024-10-24 07:01 PM) @cancelled
         ✘ DatabricksIQ trust and safety https://learn.microsoft.com/en-us/azure/databricks/databricksiq/databricksiq-trust (2024-12-23 06:42 PM) @cancelled
         ✘ Databricks Assistant FAQ https://learn.microsoft.com/en-us/azure/databricks/notebooks/databricks-assistant-faq (2024-10-15 07:04 PM) @cancelled
         ✘ Use Databricks Assistant https://learn.microsoft.com/en-us/azure/databricks/notebooks/use-databricks-assistant (2024-12-23 06:42 PM) @cancelled
-        ☐ Measure Assistant impact https://learn.microsoft.com/en-us/azure/databricks/databricksiq/databricks-assistant-impact (2024-10-24 07:01 PM)
+        ✘ Measure Assistant impact https://learn.microsoft.com/en-us/azure/databricks/databricksiq/databricks-assistant-impact (2024-10-24 07:01 PM) @cancelled
     Release notes:
         ✘ Release notes overview https://learn.microsoft.com/en-us/azure/databricks/release-notes/ (2024-11-15 09:32 PM) @cancelled
         Platform:
@@ -254,7 +254,7 @@ Azure Databricks documentation | Microsoft Learn:
         Comment on database objects:
             ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/comments/ (2024-12-18 09:37 PM)
             ☐ Add AI-generated comments https://learn.microsoft.com/en-us/azure/databricks/comments/ai-comments (2024-10-02 06:26 PM)
-        ☐ Tag database objects https://learn.microsoft.com/en-us/azure/databricks/database-objects/tags (2024-11-22 10:04 PM)
+        ✘ Tag database objects https://learn.microsoft.com/en-us/azure/databricks/database-objects/tags (2024-11-22 10:04 PM) @cancelled
         ☐ Database objects in the legacy Hive metastore https://learn.microsoft.com/en-us/azure/databricks/database-objects/hive-metastore (2024-11-08 03:08 PM)
     Connect to data sources:
         ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/connect/ (2024-12-04 09:08 PM)
@@ -531,7 +531,7 @@ Azure Databricks documentation | Microsoft Learn:
     Transform data:
         ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/transform/ (2024-11-08 03:08 PM)
         ✘ Clean and validate https://learn.microsoft.com/en-us/azure/databricks/transform/validate (2024-11-08 03:08 PM) @cancelled
-        ☐ Joins https://learn.microsoft.com/en-us/azure/databricks/transform/join (2024-11-08 03:08 PM)
+        ✘ Joins https://learn.microsoft.com/en-us/azure/databricks/transform/join (2024-11-08 03:08 PM) @cancelled
         ☐ Aggregations https://learn.microsoft.com/en-us/azure/databricks/transform/aggregation (2024-11-08 03:08 PM)
         ☐ Data modeling https://learn.microsoft.com/en-us/azure/databricks/transform/data-modeling (2024-11-08 03:08 PM)
         Semi-structured data:
@@ -1069,7 +1069,7 @@ Azure Databricks documentation | Microsoft Learn:
         ☐ Optimize tables https://learn.microsoft.com/en-us/azure/databricks/delta/optimize (2024-12-16 09:39 PM)
         ☐ Clone Delta tables https://learn.microsoft.com/en-us/azure/databricks/delta/clone (2024-10-02 06:26 PM)
         ☐ Clone on Unity Catalog https://learn.microsoft.com/en-us/azure/databricks/delta/clone-unity-catalog (2024-10-31 07:49 PM)
-        ☐ Data skipping https://learn.microsoft.com/en-us/azure/databricks/delta/data-skipping (2024-11-08 03:08 PM)
+        ✘ Data skipping https://learn.microsoft.com/en-us/azure/databricks/delta/data-skipping (2024-11-08 03:08 PM) @cancelled
         ☐ Change data feed https://learn.microsoft.com/en-us/azure/databricks/delta/delta-change-data-feed (2024-10-02 06:26 PM)
         ✘ Table constraints https://learn.microsoft.com/en-us/azure/databricks/tables/constraints (2024-10-02 06:26 PM) @cancelled
         ☐ Delta best practices https://learn.microsoft.com/en-us/azure/databricks/delta/best-practices (2024-10-04 07:01 PM)
@@ -1097,10 +1097,10 @@ Azure Databricks documentation | Microsoft Learn:
             ☐ Accelerated updates https://learn.microsoft.com/en-us/azure/databricks/photon/accelerated-updates (2024-09-04 09:05 PM)
             ☐ Delta archival support https://learn.microsoft.com/en-us/azure/databricks/optimizations/archive-delta (2024-10-02 06:26 PM)
             ☐ Dynamic file pruning https://learn.microsoft.com/en-us/azure/databricks/optimizations/dynamic-file-pruning (2024-10-02 06:26 PM)
-            ☐ Low shuffle merge https://learn.microsoft.com/en-us/azure/databricks/optimizations/low-shuffle-merge (2024-04-21 07:33 PM)
+            ✘ Low shuffle merge https://learn.microsoft.com/en-us/azure/databricks/optimizations/low-shuffle-merge (2024-04-21 07:33 PM) @cancelled
             ☐ Adaptive query execution https://learn.microsoft.com/en-us/azure/databricks/optimizations/aqe (2024-10-04 07:01 PM)
             ☐ Predictive IO https://learn.microsoft.com/en-us/azure/databricks/optimizations/predictive-io (2024-10-02 06:26 PM)
-            ☐ Cost-based optimizer https://learn.microsoft.com/en-us/azure/databricks/optimizations/cbo (2024-11-08 03:08 PM)
+            ✘ Cost-based optimizer https://learn.microsoft.com/en-us/azure/databricks/optimizations/cbo (2024-11-08 03:08 PM) @cancelled
             ☐ Range Join optimization https://learn.microsoft.com/en-us/azure/databricks/optimizations/range-join (2024-10-02 06:26 PM)
             ☐ Isolation levels https://learn.microsoft.com/en-us/azure/databricks/optimizations/isolation-level (2024-10-02 06:26 PM)
             ☐ Column mapping https://learn.microsoft.com/en-us/azure/databricks/delta/column-mapping (2024-10-02 06:26 PM)
@@ -1150,122 +1150,122 @@ Azure Databricks documentation | Microsoft Learn:
             ✘ Configure Databricks Apps https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-apps/configuration (2024-11-22 10:04 PM) @cancelled
         ✘ Databricks Utilities https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-utils (2024-12-02 07:44 PM) @cancelled
         Tools:
-            ☐ Tools overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ (2024-12-23 06:42 PM)
+            ✘ Tools overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ (2024-12-23 06:42 PM) @cancelled
             Authentication:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/ (2024-11-15 07:10 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/ (2024-11-15 07:10 PM) @cancelled
                 ✘ Personal access token authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/pat (2024-12-05 07:35 PM) @cancelled
-                ☐ OAuth machine-to-machine (M2M) authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/oauth-m2m (2024-11-22 10:04 PM)
-                ☐ OAuth user-to-machine (U2M) authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/oauth-u2m (2024-11-22 10:04 PM)
-                ☐ Azure managed identities authentication overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/azure-mi (2024-11-15 07:10 PM)
-                ☐ Azure managed identities authentication walkthrough https://learn.microsoft.com/en-us/azure/databricks/dev-tools/azure-mi-auth (2024-11-15 07:10 PM)
-                ☐ Microsoft Entra ID service principal authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/azure-sp (2024-11-22 10:04 PM)
+                ✘ OAuth machine-to-machine (M2M) authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/oauth-m2m (2024-11-22 10:04 PM) @cancelled
+                ✘ OAuth user-to-machine (U2M) authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/oauth-u2m (2024-11-22 10:04 PM) @cancelled
+                ✘ Azure managed identities authentication overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/azure-mi (2024-11-15 07:10 PM) @cancelled
+                ✘ Azure managed identities authentication walkthrough https://learn.microsoft.com/en-us/azure/databricks/dev-tools/azure-mi-auth (2024-11-15 07:10 PM) @cancelled
+                ✘ Microsoft Entra ID service principal authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/azure-sp (2024-11-22 10:04 PM) @cancelled
                 ✘ Databricks client unified authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/unified-auth (2024-11-15 07:10 PM) @cancelled
                 ✘ Configuration profiles https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/config-profiles (2024-10-02 06:26 PM) @cancelled
-                ☐ Azure CLI authentication overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/azure-cli (2024-11-22 10:04 PM)
-                ☐ Sign in users by using the Azure CLI https://learn.microsoft.com/en-us/azure/databricks/dev-tools/azure-cli-login-user (2024-10-02 06:26 PM)
-                ☐ Sign in service principals by using the Azure CLI https://learn.microsoft.com/en-us/azure/databricks/dev-tools/azure-cli-login-service-principal (2024-10-02 06:26 PM)
-                ☐ Get Microsoft Entra ID tokens for users by using the CLI https://learn.microsoft.com/en-us/azure/databricks/dev-tools/user-aad-token (2024-10-02 06:26 PM)
-                ☐ Get Microsoft Entra ID tokens for service principals by using the CLI https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sp-aad-token (2024-10-02 06:26 PM)
-                ☐ Get Microsoft Entra ID tokens for service principals https://learn.microsoft.com/en-us/azure/databricks/dev-tools/service-prin-aad-token (2024-12-17 07:11 PM)
-                ☐ Get Microsoft Entra ID  tokens using MSAL https://learn.microsoft.com/en-us/azure/databricks/dev-tools/app-aad-token (2024-12-17 07:11 PM)
-                ☐ Troubleshoot Microsoft Entra ID tokens https://learn.microsoft.com/en-us/azure/databricks/dev-tools/troubleshoot-aad-token (2024-12-11 06:37 PM)
-                ☐ Sign in users by using PowerShell https://learn.microsoft.com/en-us/azure/databricks/dev-tools/azure-powershell-login-user (2024-08-30 11:58 PM)
-                ☐ Sign in service principals by using PowerShell https://learn.microsoft.com/en-us/azure/databricks/dev-tools/azure-powershell-login-service-principal (2024-08-30 11:58 PM)
+                ✘ Azure CLI authentication overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/azure-cli (2024-11-22 10:04 PM) @cancelled
+                ✘ Sign in users by using the Azure CLI https://learn.microsoft.com/en-us/azure/databricks/dev-tools/azure-cli-login-user (2024-10-02 06:26 PM) @cancelled
+                ✘ Sign in service principals by using the Azure CLI https://learn.microsoft.com/en-us/azure/databricks/dev-tools/azure-cli-login-service-principal (2024-10-02 06:26 PM) @cancelled
+                ✘ Get Microsoft Entra ID tokens for users by using the CLI https://learn.microsoft.com/en-us/azure/databricks/dev-tools/user-aad-token (2024-10-02 06:26 PM) @cancelled
+                ✘ Get Microsoft Entra ID tokens for service principals by using the CLI https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sp-aad-token (2024-10-02 06:26 PM) @cancelled
+                ✘ Get Microsoft Entra ID tokens for service principals https://learn.microsoft.com/en-us/azure/databricks/dev-tools/service-prin-aad-token (2024-12-17 07:11 PM) @cancelled
+                ✘ Get Microsoft Entra ID  tokens using MSAL https://learn.microsoft.com/en-us/azure/databricks/dev-tools/app-aad-token (2024-12-17 07:11 PM) @cancelled
+                ✘ Troubleshoot Microsoft Entra ID tokens https://learn.microsoft.com/en-us/azure/databricks/dev-tools/troubleshoot-aad-token (2024-12-11 06:37 PM) @cancelled
+                ✘ Sign in users by using PowerShell https://learn.microsoft.com/en-us/azure/databricks/dev-tools/azure-powershell-login-user (2024-08-30 11:58 PM) @cancelled
+                ✘ Sign in service principals by using PowerShell https://learn.microsoft.com/en-us/azure/databricks/dev-tools/azure-powershell-login-service-principal (2024-08-30 11:58 PM) @cancelled
             Databricks Connect:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/ (2024-10-02 06:26 PM)
-                ☐ Cluster configuration and settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/cluster-config (2024-12-18 09:37 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/ (2024-10-02 06:26 PM) @cancelled
+                ✘ Cluster configuration and settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/cluster-config (2024-12-18 09:37 PM) @cancelled
                 Python:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/ (2024-11-22 10:04 PM)
-                    ☐ Install https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/install (2024-12-04 09:08 PM)
-                    ☐ PyCharm https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/pycharm (2024-07-18 05:47 PM)
-                    ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/vscode (2024-08-29 05:03 AM)
-                    ☐ Eclipse with PyDev https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/eclipse (2024-07-15 09:25 PM)
-                    ☐ JupyterLab https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/jupyterlab (2024-07-15 09:25 PM)
-                    ☐ Classic Jupyter Notebook https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/jupyter-notebook (2024-07-15 09:25 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/ (2024-11-22 10:04 PM) @cancelled
+                    ✘ Install https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/install (2024-12-04 09:08 PM) @cancelled
+                    ✘ PyCharm https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/pycharm (2024-07-18 05:47 PM) @cancelled
+                    ✘ Visual Studio Code https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/vscode (2024-08-29 05:03 AM) @cancelled
+                    ✘ Eclipse with PyDev https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/eclipse (2024-07-15 09:25 PM) @cancelled
+                    ✘ JupyterLab https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/jupyterlab (2024-07-15 09:25 PM) @cancelled
+                    ✘ Classic Jupyter Notebook https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/jupyter-notebook (2024-07-15 09:25 PM) @cancelled
                     ✘ Databricks Notebooks https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/notebooks (2024-10-02 06:26 PM) @cancelled
-                    ☐ Code examples https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/examples (2024-11-22 10:04 PM)
-                    ☐ Databricks Utilities https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/databricks-utilities (2024-10-02 06:26 PM)
-                    ☐ Migrate from legacy versions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/migrate (2024-11-22 10:04 PM)
-                    ☐ User-defined functions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/udf (2024-03-05 02:14 PM)
-                    ☐ Asynchronous queries and interruptions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/async (2024-03-05 02:14 PM)
-                    ☐ Advanced usage https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/advanced (2024-11-22 10:04 PM)
-                    ☐ Testing https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/testing (2024-07-15 09:25 PM)
-                    ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/troubleshooting (2024-10-02 06:26 PM)
-                    ☐ Limitations https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/limitations (2024-12-04 09:08 PM)
+                    ✘ Code examples https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/examples (2024-11-22 10:04 PM) @cancelled
+                    ✘ Databricks Utilities https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/databricks-utilities (2024-10-02 06:26 PM) @cancelled
+                    ✘ Migrate from legacy versions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/migrate (2024-11-22 10:04 PM) @cancelled
+                    ✘ User-defined functions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/udf (2024-03-05 02:14 PM) @cancelled
+                    ✘ Asynchronous queries and interruptions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/async (2024-03-05 02:14 PM) @cancelled
+                    ✘ Advanced usage https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/advanced (2024-11-22 10:04 PM) @cancelled
+                    ✘ Testing https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/testing (2024-07-15 09:25 PM) @cancelled
+                    ✘ Troubleshooting https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/troubleshooting (2024-10-02 06:26 PM) @cancelled
+                    ✘ Limitations https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/limitations (2024-12-04 09:08 PM) @cancelled
                 R:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/r/ (2024-11-22 10:04 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/r/ (2024-11-22 10:04 PM) @cancelled
                 Scala:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/ (2024-11-22 10:04 PM)
-                    ☐ Install https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/install (2024-12-04 09:08 PM)
-                    ☐ IntelliJ IDEA https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/intellij-idea (2024-04-18 07:27 PM)
-                    ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/vscode (2024-03-05 02:14 PM)
-                    ☐ Code examples https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/examples (2024-11-22 10:04 PM)
-                    ☐ Databricks Utilities https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/databricks-utilities (2024-10-02 06:26 PM)
-                    ☐ Migrate from legacy versions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/migrate (2024-03-05 02:14 PM)
-                    ☐ User-defined functions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/udf (2024-03-05 02:14 PM)
-                    ☐ Asynchronous queries and interruptions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/async (2024-03-05 02:14 PM)
-                    ☐ Advanced usage https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/advanced (2024-05-18 06:50 AM)
-                    ☐ Testing https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/testing (2024-07-15 09:25 PM)
-                    ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/troubleshooting (2024-10-02 06:26 PM)
-                    ☐ Limitations https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/limitations (2024-12-04 09:08 PM)
-                ☐ Legacy versions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect-legacy (2024-10-16 06:14 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/ (2024-11-22 10:04 PM) @cancelled
+                    ✘ Install https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/install (2024-12-04 09:08 PM) @cancelled
+                    ✘ IntelliJ IDEA https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/intellij-idea (2024-04-18 07:27 PM) @cancelled
+                    ✘ Visual Studio Code https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/vscode (2024-03-05 02:14 PM) @cancelled
+                    ✘ Code examples https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/examples (2024-11-22 10:04 PM) @cancelled
+                    ✘ Databricks Utilities https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/databricks-utilities (2024-10-02 06:26 PM) @cancelled
+                    ✘ Migrate from legacy versions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/migrate (2024-03-05 02:14 PM) @cancelled
+                    ✘ User-defined functions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/udf (2024-03-05 02:14 PM) @cancelled
+                    ✘ Asynchronous queries and interruptions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/async (2024-03-05 02:14 PM) @cancelled
+                    ✘ Advanced usage https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/advanced (2024-05-18 06:50 AM) @cancelled
+                    ✘ Testing https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/testing (2024-07-15 09:25 PM) @cancelled
+                    ✘ Troubleshooting https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/troubleshooting (2024-10-02 06:26 PM) @cancelled
+                    ✘ Limitations https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/scala/limitations (2024-12-04 09:08 PM) @cancelled
+                ✘ Legacy versions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect-legacy (2024-10-16 06:14 PM) @cancelled
             Databricks extension for Visual Studio Code:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/ (2024-10-02 06:26 PM)
-                ☐ Tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/tutorial (2024-10-02 06:26 PM)
-                ☐ Install the extension https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/install (2024-10-02 06:26 PM)
-                ☐ Authenticate https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/authentication (2024-09-25 06:43 PM)
-                ☐ Configure your project https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/configure (2024-10-02 06:26 PM)
-                ☐ Debug code with Databricks Connect https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/databricks-connect (2024-10-02 06:26 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/ (2024-10-02 06:26 PM) @cancelled
+                ✘ Tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/tutorial (2024-10-02 06:26 PM) @cancelled
+                ✘ Install the extension https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/install (2024-10-02 06:26 PM) @cancelled
+                ✘ Authenticate https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/authentication (2024-09-25 06:43 PM) @cancelled
+                ✘ Configure your project https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/configure (2024-10-02 06:26 PM) @cancelled
+                ✘ Debug code with Databricks Connect https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/databricks-connect (2024-10-02 06:26 PM) @cancelled
                 ✘ Debug notebooks with Databricks Connect https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/notebooks (2024-10-02 06:26 PM) @cancelled
-                ☐ Databricks Asset Bundles extension features https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/bundles (2024-12-18 09:37 PM)
-                ☐ Run a file or notebook in Databricks https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/run (2024-10-02 06:26 PM)
-                ☐ Run tests with pytest https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/pytest (2024-10-02 06:26 PM)
-                ☐ Command Palette commands https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/command-palette (2024-12-18 09:37 PM)
-                ☐ Extension settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/settings (2024-12-18 09:37 PM)
-                ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/troubleshooting (2024-10-02 06:26 PM)
-                ☐ FAQs https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/faqs (2024-12-18 09:37 PM)
+                ✘ Databricks Asset Bundles extension features https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/bundles (2024-12-18 09:37 PM) @cancelled
+                ✘ Run a file or notebook in Databricks https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/run (2024-10-02 06:26 PM) @cancelled
+                ✘ Run tests with pytest https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/pytest (2024-10-02 06:26 PM) @cancelled
+                ✘ Command Palette commands https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/command-palette (2024-12-18 09:37 PM) @cancelled
+                ✘ Extension settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/settings (2024-12-18 09:37 PM) @cancelled
+                ✘ Troubleshoot https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/troubleshooting (2024-10-02 06:26 PM) @cancelled
+                ✘ FAQs https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/faqs (2024-12-18 09:37 PM) @cancelled
             SDKs:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdks (2024-10-12 12:04 AM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdks (2024-10-12 12:04 AM) @cancelled
                 ✘ Databricks SDK for Python https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdk-python (2024-10-14 06:43 PM) @cancelled
-                ☐ Databricks SDK for Java https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdk-java (2024-10-12 12:04 AM)
-                ☐ Databricks SDK for Go https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdk-go (2024-10-12 12:04 AM)
-                ☐ Databricks SDK for R https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdk-r (2024-11-15 07:10 PM)
-                ☐ English SDK for Apache Spark https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdk-english (2024-10-02 06:26 PM)
+                ✘ Databricks SDK for Java https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdk-java (2024-10-12 12:04 AM) @cancelled
+                ✘ Databricks SDK for Go https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdk-go (2024-10-12 12:04 AM) @cancelled
+                ✘ Databricks SDK for R https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdk-r (2024-11-15 07:10 PM) @cancelled
+                ✘ English SDK for Apache Spark https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdk-english (2024-10-02 06:26 PM) @cancelled
             SQL drivers and tools:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sql-drivers-tools (2024-11-25 09:19 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sql-drivers-tools (2024-11-25 09:19 PM) @cancelled
                 ✘ Databricks SQL Connector for Python https://learn.microsoft.com/en-us/azure/databricks/dev-tools/python-sql-connector (2024-11-15 07:10 PM) @cancelled
                 ✘ SQLAlchemy dialect for Databricks https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sqlalchemy (2024-11-15 07:10 PM) @cancelled
-                ☐ pyodbc https://learn.microsoft.com/en-us/azure/databricks/dev-tools/pyodbc (2024-10-02 06:26 PM)
-                ☐ Databricks SQL Driver for Go https://learn.microsoft.com/en-us/azure/databricks/dev-tools/go-sql-driver (2024-11-15 07:10 PM)
-                ☐ Databricks SQL Driver for Node.js https://learn.microsoft.com/en-us/azure/databricks/dev-tools/nodejs-sql-driver (2024-11-15 07:10 PM)
+                ✘ pyodbc https://learn.microsoft.com/en-us/azure/databricks/dev-tools/pyodbc (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks SQL Driver for Go https://learn.microsoft.com/en-us/azure/databricks/dev-tools/go-sql-driver (2024-11-15 07:10 PM) @cancelled
+                ✘ Databricks SQL Driver for Node.js https://learn.microsoft.com/en-us/azure/databricks/dev-tools/nodejs-sql-driver (2024-11-15 07:10 PM) @cancelled
                 ✘ Databricks ODBC driver https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/ (2024-11-25 09:19 PM) @cancelled
                 ✘ Databricks JDBC driver https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/ (2024-11-25 09:19 PM) @cancelled
                 ✘ Databricks JDBC Driver (OSS) https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/oss (2024-11-25 09:19 PM) @cancelled
-                ☐ Databricks SQL Statement Execution API https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sql-execution-tutorial (2024-11-15 07:10 PM)
-                ☐ Databricks SQL CLI https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-sql-cli (2024-11-15 07:10 PM)
-                ☐ Databricks Driver for VS Code https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sqltools-driver (2024-11-15 07:10 PM)
-                ☐ DataGrip https://learn.microsoft.com/en-us/azure/databricks/dev-tools/datagrip (2024-11-25 09:19 PM)
-                ☐ DBeaver https://learn.microsoft.com/en-us/azure/databricks/dev-tools/dbeaver (2024-11-25 09:19 PM)
+                ✘ Databricks SQL Statement Execution API https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sql-execution-tutorial (2024-11-15 07:10 PM) @cancelled
+                ✘ Databricks SQL CLI https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-sql-cli (2024-11-15 07:10 PM) @cancelled
+                ✘ Databricks Driver for VS Code https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sqltools-driver (2024-11-15 07:10 PM) @cancelled
+                ✘ DataGrip https://learn.microsoft.com/en-us/azure/databricks/dev-tools/datagrip (2024-11-25 09:19 PM) @cancelled
+                ✘ DBeaver https://learn.microsoft.com/en-us/azure/databricks/dev-tools/dbeaver (2024-11-25 09:19 PM) @cancelled
             Databricks CLI:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/ (2024-10-29 06:15 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/ (2024-10-29 06:15 PM) @cancelled
                 ☐ Use Databricks CLI from Azure Cloud Shell https://learn.microsoft.com/en-us/azure/databricks/scenarios/databricks-cli-from-azure-cloud-shell (2024-10-30 07:25 PM)
-                ☐ Tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/tutorial (2024-10-29 06:15 PM)
-                ☐ Install or update https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/install (2024-10-29 06:15 PM)
+                ✘ Tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/tutorial (2024-10-29 06:15 PM) @cancelled
+                ✘ Install or update https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/install (2024-10-29 06:15 PM) @cancelled
                 ✘ Authenticate https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/authentication (2024-11-15 07:10 PM) @cancelled
                 ✘ Profiles https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/profiles (2024-10-29 06:15 PM) @cancelled
-                ☐ Basic usage https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/usage (2024-10-29 06:15 PM)
+                ✘ Basic usage https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/usage (2024-10-29 06:15 PM) @cancelled
                 Commands:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/commands (2024-11-08 03:08 PM)
-                    ☐ auth command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/auth-commands (2024-10-29 06:15 PM)
-                    ☐ bundle command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/bundle-commands (2024-12-02 07:44 PM)
-                    ☐ completion command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/completion-commands (2024-10-29 06:15 PM)
-                    ☐ configure command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/configure-commands (2024-10-29 06:15 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/commands (2024-11-08 03:08 PM) @cancelled
+                    ✘ auth command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/auth-commands (2024-10-29 06:15 PM) @cancelled
+                    ✘ bundle command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/bundle-commands (2024-12-02 07:44 PM) @cancelled
+                    ✘ completion command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/completion-commands (2024-10-29 06:15 PM) @cancelled
+                    ✘ configure command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/configure-commands (2024-10-29 06:15 PM) @cancelled
                     ✘ fs command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/fs-commands (2024-10-29 06:15 PM) @cancelled
-                    ☐ sync command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/labs-commands (2024-10-29 06:15 PM)
-                    ☐ sync command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/sync-commands (2024-10-29 06:15 PM)
-                    ☐ api command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/api-commands (2024-10-29 06:15 PM)
-                ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/troubleshooting (2024-10-29 06:15 PM)
-                ☐ Migrate https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/migrate (2024-10-02 06:26 PM)
+                    ✘ sync command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/labs-commands (2024-10-29 06:15 PM) @cancelled
+                    ✘ sync command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/sync-commands (2024-10-29 06:15 PM) @cancelled
+                    ✘ api command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/api-commands (2024-10-29 06:15 PM) @cancelled
+                ✘ Troubleshooting https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/troubleshooting (2024-10-29 06:15 PM) @cancelled
+                ✘ Migrate https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/migrate (2024-10-02 06:26 PM) @cancelled
             Databricks Asset Bundles:
                 ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/ (2024-10-04 07:01 PM) @cancelled
                 Bundle development:
@@ -1296,23 +1296,23 @@ Azure Databricks documentation | Microsoft Learn:
                 ✘ MLOps Stacks tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/mlops-stacks (2024-10-31 07:49 PM) @cancelled
                 ✘ Python wheel builds tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/python-wheel (2024-10-02 06:26 PM) @cancelled
             CI/CD:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd (2024-11-08 03:08 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd (2024-11-08 03:08 PM) @cancelled
                 Databricks Terraform provider:
-                    ☐ Databricks Terraform provider overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/ (2024-11-25 09:19 PM)
-                    ☐ Tutorial: Create a workspace with Terraform https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/azure-workspace (2024-03-05 02:14 PM)
-                    ☐ Create basic resources with Terraform https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/cluster-notebook-job (2024-10-04 07:01 PM)
-                    ☐ Manage resources with Terraform https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/workspace-management (2024-10-02 06:26 PM)
-                    ☐ Automate Unity Catalog setup using Terraform https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/automate-uc (2024-11-25 09:19 PM)
-                    ☐ Service principals for Terraform https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/service-principals (2024-11-21 09:05 PM)
-                    ☐ Troubleshoot issues with the Terraform provider https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/troubleshoot (2024-11-25 09:19 PM)
-                ☐ Terraform CDK Databricks provider https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/cdktf (2024-11-25 09:19 PM)
-                ☐ Pulumi Databricks resource provider https://learn.microsoft.com/en-us/azure/databricks/dev-tools/pulumi (2024-11-25 09:19 PM)
-                ☐ Azure DevOps https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/ci-cd-azure-devops (2024-11-25 09:19 PM)
-                ☐ GitHub Actions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/ci-cd-github (2024-11-25 09:19 PM)
-                ☐ Jenkins https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/ci-cd-jenkins (2024-11-25 09:19 PM)
-                ☐ Service principals for CI/CD https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/ci-cd-sp (2024-12-18 09:37 PM)
-                ☐ Authenticate with Azure DevOps https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/auth-with-azure-devops (2024-10-02 06:26 PM)
-                ☐ Use Azure DevOps with Databricks Git credentials https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/use-ms-entra-sp-with-devops (2024-10-12 12:04 AM)
+                    ✘ Databricks Terraform provider overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/ (2024-11-25 09:19 PM) @cancelled
+                    ✘ Tutorial: Create a workspace with Terraform https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/azure-workspace (2024-03-05 02:14 PM) @cancelled
+                    ✘ Create basic resources with Terraform https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/cluster-notebook-job (2024-10-04 07:01 PM) @cancelled
+                    ✘ Manage resources with Terraform https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/workspace-management (2024-10-02 06:26 PM) @cancelled
+                    ✘ Automate Unity Catalog setup using Terraform https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/automate-uc (2024-11-25 09:19 PM) @cancelled
+                    ✘ Service principals for Terraform https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/service-principals (2024-11-21 09:05 PM) @cancelled
+                    ✘ Troubleshoot issues with the Terraform provider https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/troubleshoot (2024-11-25 09:19 PM) @cancelled
+                ✘ Terraform CDK Databricks provider https://learn.microsoft.com/en-us/azure/databricks/dev-tools/terraform/cdktf (2024-11-25 09:19 PM) @cancelled
+                ✘ Pulumi Databricks resource provider https://learn.microsoft.com/en-us/azure/databricks/dev-tools/pulumi (2024-11-25 09:19 PM) @cancelled
+                ✘ Azure DevOps https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/ci-cd-azure-devops (2024-11-25 09:19 PM) @cancelled
+                ✘ GitHub Actions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/ci-cd-github (2024-11-25 09:19 PM) @cancelled
+                ✘ Jenkins https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/ci-cd-jenkins (2024-11-25 09:19 PM) @cancelled
+                ✘ Service principals for CI/CD https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/ci-cd-sp (2024-12-18 09:37 PM) @cancelled
+                ✘ Authenticate with Azure DevOps https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/auth-with-azure-devops (2024-10-02 06:26 PM) @cancelled
+                ✘ Use Azure DevOps with Databricks Git credentials https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd/use-ms-entra-sp-with-devops (2024-10-12 12:04 AM) @cancelled
     Technology partners:
         ✘ Technology partner overview https://learn.microsoft.com/en-us/azure/databricks/integrations/ (2024-10-04 07:01 PM) @cancelled
         ODBC and JDBC Drivers:
@@ -1504,7 +1504,7 @@ Azure Databricks documentation | Microsoft Learn:
             ☐ Authentication and access control overview https://learn.microsoft.com/en-us/azure/databricks/security/auth/ (2024-12-18 09:37 PM)
             ☐ Default workspace permissions https://learn.microsoft.com/en-us/azure/databricks/security/auth/default-permissions (2024-10-04 07:01 PM)
             ☐ Manage entitlements https://learn.microsoft.com/en-us/azure/databricks/security/auth/entitlements (2024-10-04 07:01 PM)
-            ☐ Monitor and manage access to personal access tokens https://learn.microsoft.com/en-us/azure/databricks/admin/access-control/tokens (2024-12-11 06:37 PM)
+            ✘ Monitor and manage access to personal access tokens https://learn.microsoft.com/en-us/azure/databricks/admin/access-control/tokens (2024-12-11 06:37 PM) @cancelled
             ☐ Manage personal access tokens https://learn.microsoft.com/en-us/azure/databricks/security/auth/api-access-permissions (2024-11-08 11:21 PM)
             ☐ Access control overview https://learn.microsoft.com/en-us/azure/databricks/security/auth/access-control/ (2024-12-19 06:46 PM)
             ☐ Conditional access https://learn.microsoft.com/en-us/azure/databricks/admin/access-control/conditional-access (2024-10-02 06:26 PM)
@@ -1567,7 +1567,7 @@ Azure Databricks documentation | Microsoft Learn:
         Auditing, privacy & compliance:
             ☐ Auditing, privacy & compliance overview https://learn.microsoft.com/en-us/azure/databricks/security/privacy/ (2024-10-02 06:26 PM)
             Compliance security profile:
-                ☐ Compliance security profile overview https://learn.microsoft.com/en-us/azure/databricks/security/privacy/security-profile (2024-12-17 07:11 PM)
+                ✘ Compliance security profile overview https://learn.microsoft.com/en-us/azure/databricks/security/privacy/security-profile (2024-12-17 07:11 PM) @cancelled
                 ✘ HIPAA compliance features https://learn.microsoft.com/en-us/azure/databricks/security/privacy/hipaa (2024-12-11 06:37 PM) @cancelled
                 ✘ PCI-DSS compliance features https://learn.microsoft.com/en-us/azure/databricks/security/privacy/pci (2024-12-11 06:37 PM) @cancelled
                 ✘ UK Cyber Essentials Plus compliance controls https://learn.microsoft.com/en-us/azure/databricks/security/privacy/uk-cyber-essentials-plus (2024-12-11 06:37 PM) @cancelled
@@ -2212,7 +2212,7 @@ Azure Databricks documentation | Microsoft Learn:
                     ☐ try_parse_json function https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/try_parse_json (2024-10-02 06:26 PM)
                     ☐ try_reflect function https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/try_reflect (2024-10-02 06:26 PM)
                     ☐ try_secret function https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/try_secret (2024-10-02 06:26 PM)
-                    ☐ try_subtract function https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/try_subtract (2024-10-02 06:26 PM)
+                    ✘ try_subtract function https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/try_subtract (2024-10-02 06:26 PM) @cancelled
                     ☐ try_sum function https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/try_sum (2024-10-02 06:26 PM)
                     ☐ try_to_binary function https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/try_to_binary (2024-10-02 06:26 PM)
                     ☐ try_to_number function https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/try_to_number (2024-10-02 06:26 PM)
@@ -2311,7 +2311,7 @@ Azure Databricks documentation | Microsoft Learn:
                 ☐ CONSTRAINT_COLUMN_USAGE https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/information-schema/constraint_column_usage (2024-10-02 06:26 PM)
                 ☐ CONNECTION_PRIVILEGES https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/information-schema/connection_privileges (2024-12-16 09:39 PM)
                 ☐ CONNECTIONS https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/information-schema/connections (2024-10-02 06:26 PM)
-                ☐ CONSTRAINT_TABLE_USAGE https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/information-schema/constraint_table_usage (2024-10-02 06:26 PM)
+                ✘ CONSTRAINT_TABLE_USAGE https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/information-schema/constraint_table_usage (2024-10-02 06:26 PM) @cancelled
                 ☐ EXTERNAL_LOCATION_PRIVILEGES https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/information-schema/external_location_privileges (2024-12-16 09:39 PM)
                 ☐ EXTERNAL_LOCATIONS https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/information-schema/external_locations (2024-10-02 06:26 PM)
                 ☐ INFORMATION_SCHEMA_CATALOG_NAME https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/information-schema/information_schema_catalog_name (2024-10-02 06:26 PM)
@@ -2451,7 +2451,7 @@ Azure Databricks documentation | Microsoft Learn:
             ☐ WHERE clause https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-qry-select-where (2024-10-02 06:26 PM)
             ☐ WINDOW clause https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-qry-select-named-window (2024-10-02 06:26 PM)
             ☐ WINDOW frame clause https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-window-functions-frame (2024-10-02 06:26 PM)
-            ☐ ANALYZE TABLE https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-aux-analyze-table (2024-11-14 06:50 PM)
+            ✘ ANALYZE TABLE https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-aux-analyze-table (2024-11-14 06:50 PM) @cancelled
             ☐ CACHE TABLE https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-aux-cache-cache-table (2024-11-14 06:50 PM)
             ☐ CLEAR CACHE https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-aux-cache-clear-cache (2024-10-02 06:26 PM)
             ☐ REFRESH FUNCTION https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-aux-cache-refresh-function (2024-10-02 06:26 PM)
@@ -2921,7 +2921,7 @@ Azure Databricks documentation | Microsoft Learn:
 ---
 
             ✘ Create synthetic evaluation sets https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/synthesize-evaluation-set (2024-12-30 06:49 PM) @cancelled
-            ☐ Predictive optimization for Delta Lake https://learn.microsoft.com/en-us/azure/databricks/optimizations/predictive-optimization (2024-12-30 06:49 PM)
+            ✘ Predictive optimization for Delta Lake https://learn.microsoft.com/en-us/azure/databricks/optimizations/predictive-optimization (2024-12-30 06:49 PM) @cancelled
 
 
 ---
@@ -3019,12 +3019,12 @@ Azure Databricks documentation | Microsoft Learn:
             Python overview https://learn.microsoft.com/en-us/azure/databricks/languages/python (2025-01-03 09:55 PM):
         ✘ Scala https://learn.microsoft.com/en-us/azure/databricks/languages/scala (2025-01-03 09:55 PM) @cancelled
         ✘ Databricks Utilities https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-utils (2025-01-02 06:58 PM) @cancelled
-                ☐ Databricks client unified authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/unified-auth (2025-01-02 06:58 PM)
-                ☐ Configuration profiles https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/config-profiles (2025-01-02 06:58 PM)
-                ☐ Databricks SDK for Python https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdk-python (2025-01-02 06:58 PM)
-                ☐ Authenticate https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/authentication (2025-01-02 06:58 PM)
-                ☐ Profiles https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/profiles (2025-01-02 06:58 PM)
-                    ☐ fs command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/fs-commands (2025-01-02 06:58 PM)
+                ✘ Databricks client unified authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/unified-auth (2025-01-02 06:58 PM) @cancelled
+                ✘ Configuration profiles https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/config-profiles (2025-01-02 06:58 PM) @cancelled
+                ✘ Databricks SDK for Python https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sdk-python (2025-01-02 06:58 PM) @cancelled
+                ✘ Authenticate https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/authentication (2025-01-02 06:58 PM) @cancelled
+                ✘ Profiles https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/profiles (2025-01-02 06:58 PM) @cancelled
+                    ✘ fs command group https://learn.microsoft.com/en-us/azure/databricks/dev-tools/cli/fs-commands (2025-01-02 06:58 PM) @cancelled
                 ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/ (2025-01-02 06:58 PM) @cancelled
             ✘ Jobs system tables https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/jobs (2025-01-02 06:58 PM) @cancelled
             ✘ Query history system table https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/query-history (2025-01-03 09:55 PM) @cancelled
@@ -3045,11 +3045,11 @@ Azure Databricks documentation | Microsoft Learn:
             ✘ Features with limited regional availability https://learn.microsoft.com/en-us/azure/databricks/resources/feature-region-support (2025-01-02 06:58 PM) @cancelled
         ✘ Designated Services https://learn.microsoft.com/en-us/azure/databricks/resources/designated-services (2025-01-02 06:58 PM) @cancelled
         ✘ Glossary https://learn.microsoft.com/en-us/azure/databricks/resources/glossary (2025-01-02 06:58 PM) @cancelled
-        ☐ Archived docs https://learn.microsoft.com/en-us/azure/databricks/archive/ (2025-01-02 06:58 PM)
-            ☐ Legacy model serving https://learn.microsoft.com/en-us/azure/databricks/archive/legacy-model-serving/model-serving (2025-01-02 06:58 PM)
-            ☐ Serve LLMs to an optimized LLM serving endpoint https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/llm-optimized-model-serving (2025-01-02 06:58 PM)
+        ✘ Archived docs https://learn.microsoft.com/en-us/azure/databricks/archive/ (2025-01-02 06:58 PM) @cancelled
+            ✘ Legacy model serving https://learn.microsoft.com/en-us/azure/databricks/archive/legacy-model-serving/model-serving (2025-01-02 06:58 PM) @cancelled
+            ✘ Serve LLMs to an optimized LLM serving endpoint https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/llm-optimized-model-serving (2025-01-02 06:58 PM) @cancelled
             ✘ Migrate optimized LLM endpoints to provisioned throughput https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/migrate-provisioned-throughput (2025-01-02 06:58 PM) @cancelled
-            ☐ No-code EDA with bamboolib https://learn.microsoft.com/en-us/azure/databricks/archive/notebooks/bamboolib (2025-01-03 09:55 PM)
+            ✘ No-code EDA with bamboolib https://learn.microsoft.com/en-us/azure/databricks/archive/notebooks/bamboolib (2025-01-03 09:55 PM) @cancelled
 
 
 ---
@@ -3264,8 +3264,8 @@ Azure Databricks documentation | Microsoft Learn:
         ✘ Notebooks limitations https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-limitations (2024-12-17 03:52 PM) @cancelled
         ☐ Manage feature compatibility https://learn.microsoft.com/en-us/azure/databricks/delta/feature-compatibility (2025-01-07 07:53 PM)
         ✘ Universal Format (UniForm) https://learn.microsoft.com/en-us/azure/databricks/delta/uniform (2025-01-09 12:09 AM) @cancelled
-        ☐ Databricks Utilities https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-utils (2025-01-07 07:53 PM)
-                ☐ Debug notebooks with Databricks Connect https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/notebooks (2025-01-07 07:53 PM)
+        ✘ Databricks Utilities https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-utils (2025-01-07 07:53 PM) @cancelled
+                ✘ Debug notebooks with Databricks Connect https://learn.microsoft.com/en-us/azure/databricks/dev-tools/vscode-ext/notebooks (2025-01-07 07:53 PM) @cancelled
                     ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/work-tasks (2024-11-08 03:08 PM) @cancelled
                     ✘ Bundle authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/authentication (2024-10-02 06:26 PM) @cancelled
                     ✘ Bundle project templates https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/templates (2024-10-02 06:26 PM) @cancelled
@@ -3317,63 +3317,63 @@ Azure Databricks documentation | Microsoft Learn:
                     ☐ ai_generate_text function https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/ai_generate_text (2024-10-02 06:26 PM)
             ☐ REPAIR TABLE https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-ddl-repair-table (2025-01-07 07:53 PM)
             ✘ Features with limited regional availability https://learn.microsoft.com/en-us/azure/databricks/resources/feature-region-support (2025-01-07 07:53 PM) @cancelled
-            ☐ Synapse with Polybase https://learn.microsoft.com/en-us/azure/databricks/archive/azure/synapse-polybase (2024-12-18 09:37 PM)
-            ☐ Streaming with AQS https://learn.microsoft.com/en-us/azure/databricks/archive/azure/aqs (2024-11-22 10:04 PM)
-            ☐ Azure Cosmos DB connector https://learn.microsoft.com/en-us/azure/databricks/archive/azure/cosmosdb (2024-10-02 06:26 PM)
-            ☐ Structured Streaming writes to Azure Synapse https://learn.microsoft.com/en-us/azure/databricks/archive/azure/stream-synapse (2024-12-18 09:37 PM)
-            ☐ Create cluster UI (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/compute/configure (2024-11-22 10:04 PM)
-            ☐ Clusters UI changes and cluster access modes https://learn.microsoft.com/en-us/azure/databricks/archive/compute/cluster-ui-preview (2024-10-02 06:26 PM)
-            ☐ Cluster-named init scripts (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/init-scripts/legacy-cluster-named (2024-11-14 06:50 PM)
-            ☐ Global init scripts (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/init-scripts/legacy-global (2024-11-14 06:50 PM)
-            ☐ Install a library with an init script https://learn.microsoft.com/en-us/azure/databricks/archive/compute/libraries-init-scripts (2024-09-04 09:05 PM)
-            ☐ Best practices for cluster policies https://learn.microsoft.com/en-us/azure/databricks/archive/compute/policies-best-practices (2024-12-18 09:37 PM)
-            ☐ Credential passthrough (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/credential-passthrough/ (2024-10-02 06:26 PM)
-            ☐ Authenticate to ADLS using Microsoft Entra ID (formerly Azure AD) credentials https://learn.microsoft.com/en-us/azure/databricks/archive/credential-passthrough/adls-passthrough (2025-01-07 07:53 PM)
-                ☐ Databricks CLI overview https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/ (2024-10-02 06:26 PM)
-                ☐ Clusters https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/clusters-cli (2024-03-05 02:14 PM)
-                ☐ Cluster policies https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/cluster-policies-cli (2024-05-03 09:32 PM)
-                ☐ DBFS https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/dbfs-cli (2024-10-02 06:26 PM)
-                ☐ Delta Live Tables https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/dlt-cli (2024-10-12 12:04 AM)
-                ☐ Groups https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/groups-cli (2024-10-02 06:26 PM)
-                ☐ Instance pools https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/instance-pools-cli (2024-08-29 06:25 PM)
-                ☐ Jobs https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/jobs-cli (2024-12-16 09:39 PM)
-                ☐ Libraries https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/libraries-cli (2024-03-05 02:14 PM)
-                ☐ Repos https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/repos-cli (2024-10-02 06:26 PM)
-                ☐ Runs https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/runs-cli (2024-12-16 09:39 PM)
-                ☐ Secrets https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/secrets-cli (2024-11-22 10:04 PM)
-                ☐ Stack https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/stack-cli (2024-10-04 07:01 PM)
-                ☐ Tokens https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/tokens-cli (2024-03-05 02:14 PM)
-                ☐ Unity Catalog https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/unity-catalog-cli (2024-11-07 11:52 PM)
-                ☐ Workspace https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/workspace-cli (2024-03-19 06:06 PM)
-            ☐ dbutils.library https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbutils-library (2024-10-02 06:26 PM)
-            ☐ Legacy UniForm IcebergCompatV1 https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/uniform (2025-01-07 07:53 PM)
-                ☐ dbx overview https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbx/ (2024-03-05 02:14 PM)
-                ☐ dbx getting started https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbx/dbx (2024-10-12 12:04 AM)
-                ☐ dbx with Visual Studio Code https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbx/ide-how-to (2024-10-12 12:04 AM)
-                ☐ dbx sync https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbx/dbx-sync (2024-10-02 06:26 PM)
-                ☐ Migrate from dbx to bundles https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbx/dbx-migrate (2024-11-08 03:08 PM)
-            ☐ VS Code with Repos https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/vscode-repos (2024-08-29 05:03 AM)
-            ☐ VS Code workspace directory https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/workspace-dir (2024-08-29 05:03 AM)
+            ✘ Synapse with Polybase https://learn.microsoft.com/en-us/azure/databricks/archive/azure/synapse-polybase (2024-12-18 09:37 PM) @cancelled
+            ✘ Streaming with AQS https://learn.microsoft.com/en-us/azure/databricks/archive/azure/aqs (2024-11-22 10:04 PM) @cancelled
+            ✘ Azure Cosmos DB connector https://learn.microsoft.com/en-us/azure/databricks/archive/azure/cosmosdb (2024-10-02 06:26 PM) @cancelled
+            ✘ Structured Streaming writes to Azure Synapse https://learn.microsoft.com/en-us/azure/databricks/archive/azure/stream-synapse (2024-12-18 09:37 PM) @cancelled
+            ✘ Create cluster UI (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/compute/configure (2024-11-22 10:04 PM) @cancelled
+            ✘ Clusters UI changes and cluster access modes https://learn.microsoft.com/en-us/azure/databricks/archive/compute/cluster-ui-preview (2024-10-02 06:26 PM) @cancelled
+            ✘ Cluster-named init scripts (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/init-scripts/legacy-cluster-named (2024-11-14 06:50 PM) @cancelled
+            ✘ Global init scripts (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/init-scripts/legacy-global (2024-11-14 06:50 PM) @cancelled
+            ✘ Install a library with an init script https://learn.microsoft.com/en-us/azure/databricks/archive/compute/libraries-init-scripts (2024-09-04 09:05 PM) @cancelled
+            ✘ Best practices for cluster policies https://learn.microsoft.com/en-us/azure/databricks/archive/compute/policies-best-practices (2024-12-18 09:37 PM) @cancelled
+            ✘ Credential passthrough (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/credential-passthrough/ (2024-10-02 06:26 PM) @cancelled
+            ✘ Authenticate to ADLS using Microsoft Entra ID (formerly Azure AD) credentials https://learn.microsoft.com/en-us/azure/databricks/archive/credential-passthrough/adls-passthrough (2025-01-07 07:53 PM) @cancelled
+                ✘ Databricks CLI overview https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/ (2024-10-02 06:26 PM) @cancelled
+                ✘ Clusters https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/clusters-cli (2024-03-05 02:14 PM) @cancelled
+                ✘ Cluster policies https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/cluster-policies-cli (2024-05-03 09:32 PM) @cancelled
+                ✘ DBFS https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/dbfs-cli (2024-10-02 06:26 PM) @cancelled
+                ✘ Delta Live Tables https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/dlt-cli (2024-10-12 12:04 AM) @cancelled
+                ✘ Groups https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/groups-cli (2024-10-02 06:26 PM) @cancelled
+                ✘ Instance pools https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/instance-pools-cli (2024-08-29 06:25 PM) @cancelled
+                ✘ Jobs https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/jobs-cli (2024-12-16 09:39 PM) @cancelled
+                ✘ Libraries https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/libraries-cli (2024-03-05 02:14 PM) @cancelled
+                ✘ Repos https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/repos-cli (2024-10-02 06:26 PM) @cancelled
+                ✘ Runs https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/runs-cli (2024-12-16 09:39 PM) @cancelled
+                ✘ Secrets https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/secrets-cli (2024-11-22 10:04 PM) @cancelled
+                ✘ Stack https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/stack-cli (2024-10-04 07:01 PM) @cancelled
+                ✘ Tokens https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/tokens-cli (2024-03-05 02:14 PM) @cancelled
+                ✘ Unity Catalog https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/unity-catalog-cli (2024-11-07 11:52 PM) @cancelled
+                ✘ Workspace https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/cli/workspace-cli (2024-03-19 06:06 PM) @cancelled
+            ✘ dbutils.library https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbutils-library (2024-10-02 06:26 PM) @cancelled
+            ✘ Legacy UniForm IcebergCompatV1 https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/uniform (2025-01-07 07:53 PM) @cancelled
+                ✘ dbx overview https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbx/ (2024-03-05 02:14 PM) @cancelled
+                ✘ dbx getting started https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbx/dbx (2024-10-12 12:04 AM) @cancelled
+                ✘ dbx with Visual Studio Code https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbx/ide-how-to (2024-10-12 12:04 AM) @cancelled
+                ✘ dbx sync https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbx/dbx-sync (2024-10-02 06:26 PM) @cancelled
+                ✘ Migrate from dbx to bundles https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/dbx/dbx-migrate (2024-11-08 03:08 PM) @cancelled
+            ✘ VS Code with Repos https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/vscode-repos (2024-08-29 05:03 AM) @cancelled
+            ✘ VS Code workspace directory https://learn.microsoft.com/en-us/azure/databricks/archive/dev-tools/workspace-dir (2024-08-29 05:03 AM) @cancelled
             ✘ External Apache Hive metastore (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/external-metastores/external-hive-metastore (2024-10-02 06:26 PM) @cancelled
-            ☐ Migrate optimized LLM endpoints to provisioned throughput https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/migrate-provisioned-throughput (2025-01-07 07:53 PM)
-            ☐ Share feature tables across workspaces (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/feature-store/multiple-workspaces (2024-11-22 10:04 PM)
-            ☐ Load data using Petastorm https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/petastorm (2024-10-02 06:26 PM)
-            ☐ Single node PyTorch to distributed deep learning https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/mnist-pytorch (2024-09-26 09:15 PM)
-            ☐ Distributed training with TensorFlow 2 https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/spark-tf-distributor (2024-09-26 09:15 PM)
-                    ☐ HorovodRunner examples https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/horovod-runner-examples (2024-10-02 06:26 PM)
-                    ☐ Deep learning using TensorFlow with HorovodRunner https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/mnist-tensorflow-keras (2024-09-26 09:15 PM)
-                ☐ Distributed deep learning with horovod.spark https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/horovod-spark (2024-10-02 06:26 PM)
-            ☐ Model inference for NLP https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/model-inference-nlp (2024-12-04 09:08 PM)
-                ☐ MLeap ML model export https://learn.microsoft.com/en-us/azure/databricks/archive/model-export/mleap-model-export (2024-09-13 01:00 AM)
-                ☐ Train a PySpark model and save in MLeap format https://learn.microsoft.com/en-us/azure/databricks/archive/model-export/tracking-ex-pyspark (2024-10-02 06:26 PM)
-            ☐ Set up ai_generate_text() https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/ai-onboard (2024-10-02 06:26 PM)
-            ☐ ai_generate_text() example https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/ai-generate-text-example (2024-10-02 06:26 PM)
-                ☐ Get started with MLflow R https://learn.microsoft.com/en-us/azure/databricks/archive/mlflow/quick-start-r (2024-11-25 09:19 PM)
-                ☐ Get started with MLflow Java and Scala https://learn.microsoft.com/en-us/azure/databricks/archive/mlflow/quick-start-java-scala (2024-11-25 09:19 PM)
-                ☐ Migrate Apache Spark to 3.x https://learn.microsoft.com/en-us/azure/databricks/archive/spark-3.x-migration/ (2024-10-02 06:26 PM)
-                ☐ Data skipping index https://learn.microsoft.com/en-us/azure/databricks/archive/spark-3.x-migration/dataskipping-index (2024-10-02 06:26 PM)
-                ☐ Dates and timestamps https://learn.microsoft.com/en-us/azure/databricks/archive/spark-3.x-migration/dates-timestamps (2024-10-02 06:26 PM)
-                ☐ Deep learning pipelines migration guide https://learn.microsoft.com/en-us/azure/databricks/archive/spark-3.x-migration/deep-learning-pipelines (2024-12-04 09:08 PM)
+            ✘ Migrate optimized LLM endpoints to provisioned throughput https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/migrate-provisioned-throughput (2025-01-07 07:53 PM) @cancelled
+            ✘ Share feature tables across workspaces (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/feature-store/multiple-workspaces (2024-11-22 10:04 PM) @cancelled
+            ✘ Load data using Petastorm https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/petastorm (2024-10-02 06:26 PM) @cancelled
+            ✘ Single node PyTorch to distributed deep learning https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/mnist-pytorch (2024-09-26 09:15 PM) @cancelled
+            ✘ Distributed training with TensorFlow 2 https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/spark-tf-distributor (2024-09-26 09:15 PM) @cancelled
+                    ✘ HorovodRunner examples https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/horovod-runner-examples (2024-10-02 06:26 PM) @cancelled
+                    ✘ Deep learning using TensorFlow with HorovodRunner https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/mnist-tensorflow-keras (2024-09-26 09:15 PM) @cancelled
+                ✘ Distributed deep learning with horovod.spark https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/horovod-spark (2024-10-02 06:26 PM) @cancelled
+            ✘ Model inference for NLP https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/train-model/model-inference-nlp (2024-12-04 09:08 PM) @cancelled
+                ✘ MLeap ML model export https://learn.microsoft.com/en-us/azure/databricks/archive/model-export/mleap-model-export (2024-09-13 01:00 AM) @cancelled
+                ✘ Train a PySpark model and save in MLeap format https://learn.microsoft.com/en-us/azure/databricks/archive/model-export/tracking-ex-pyspark (2024-10-02 06:26 PM) @cancelled
+            ✘ Set up ai_generate_text() https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/ai-onboard (2024-10-02 06:26 PM) @cancelled
+            ✘ ai_generate_text() example https://learn.microsoft.com/en-us/azure/databricks/archive/machine-learning/ai-generate-text-example (2024-10-02 06:26 PM) @cancelled
+                ✘ Get started with MLflow R https://learn.microsoft.com/en-us/azure/databricks/archive/mlflow/quick-start-r (2024-11-25 09:19 PM) @cancelled
+                ✘ Get started with MLflow Java and Scala https://learn.microsoft.com/en-us/azure/databricks/archive/mlflow/quick-start-java-scala (2024-11-25 09:19 PM) @cancelled
+                ✘ Migrate Apache Spark to 3.x https://learn.microsoft.com/en-us/azure/databricks/archive/spark-3.x-migration/ (2024-10-02 06:26 PM) @cancelled
+                ✘ Data skipping index https://learn.microsoft.com/en-us/azure/databricks/archive/spark-3.x-migration/dataskipping-index (2024-10-02 06:26 PM) @cancelled
+                ✘ Dates and timestamps https://learn.microsoft.com/en-us/azure/databricks/archive/spark-3.x-migration/dates-timestamps (2024-10-02 06:26 PM) @cancelled
+                ✘ Deep learning pipelines migration guide https://learn.microsoft.com/en-us/azure/databricks/archive/spark-3.x-migration/deep-learning-pipelines (2024-12-04 09:08 PM) @cancelled
                 ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/ (2024-11-07 11:52 PM) @cancelled
                 ✘ Databricks Runtime maintenance updates (archived) https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/maintenance-updates-archive (2024-12-18 09:37 PM) @cancelled
                 ✘ Databricks Runtime 15.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.1 (2025-01-07 07:53 PM) @cancelled
@@ -3482,24 +3482,24 @@ Azure Databricks documentation | Microsoft Learn:
                 ✘ Databricks Runtime 12.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/12.x-migration (2024-10-02 06:26 PM) @cancelled
                 ✘ Databricks Runtime 13.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.x-migration (2024-10-02 06:26 PM) @cancelled
                 ✘ Databricks Runtime 14.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/14.x-migration (2024-11-07 11:52 PM) @cancelled
-            ☐ Databricks Light https://learn.microsoft.com/en-us/azure/databricks/archive/runtime/light (2024-10-04 07:01 PM)
-            ☐ Unity Catalog GA release note https://learn.microsoft.com/en-us/azure/databricks/archive/unity-catalog/20220825 (2024-10-04 07:01 PM)
-            ☐ Create metastore using service principal https://learn.microsoft.com/en-us/azure/databricks/archive/unity-catalog/service-principals (2024-10-02 06:26 PM)
-            ☐ Configure Delta storage credentials https://learn.microsoft.com/en-us/azure/databricks/archive/storage/delta-storage-credentials (2024-09-04 09:05 PM)
-            ☐ Audit log schemas for security monitoring https://learn.microsoft.com/en-us/azure/databricks/archive/security/monitor-log-schemas (2024-10-04 07:01 PM)
-            ☐ Azure Blob Storage with WASB (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/storage/wasb-blob (2024-11-22 10:04 PM)
-            ☐ Azure Data Lake Storage Gen1 https://learn.microsoft.com/en-us/azure/databricks/archive/storage/azure-datalake (2024-11-22 10:04 PM)
-                ☐ Transactional writes to cloud storage with DBIO https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/dbio-commit (2024-10-02 06:26 PM)
-                ☐ Hive tables https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/hive-tables (2024-10-02 06:26 PM)
-                ☐ Skew join hints https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/skew-join (2024-05-15 08:18 AM)
-                ☐ Koalas https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/koalas (2024-10-02 06:26 PM)
-                ☐ Neo4j https://learn.microsoft.com/en-us/azure/databricks/archive/connectors/neo4j (2024-09-04 09:05 PM)
-                ☐ spark-xml library https://learn.microsoft.com/en-us/azure/databricks/archive/connectors/spark-xml-library (2024-12-18 09:37 PM)
-                ☐ conda magic command https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/conda (2024-12-18 09:37 PM)
-                ☐ Workspace libraries https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/workspace-libraries (2024-11-04 08:06 PM)
-                ☐ Import data to DBFS https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/data-tab (2024-09-09 04:21 PM)
+            ✘ Databricks Light https://learn.microsoft.com/en-us/azure/databricks/archive/runtime/light (2024-10-04 07:01 PM) @cancelled
+            ✘ Unity Catalog GA release note https://learn.microsoft.com/en-us/azure/databricks/archive/unity-catalog/20220825 (2024-10-04 07:01 PM) @cancelled
+            ✘ Create metastore using service principal https://learn.microsoft.com/en-us/azure/databricks/archive/unity-catalog/service-principals (2024-10-02 06:26 PM) @cancelled
+            ✘ Configure Delta storage credentials https://learn.microsoft.com/en-us/azure/databricks/archive/storage/delta-storage-credentials (2024-09-04 09:05 PM) @cancelled
+            ✘ Audit log schemas for security monitoring https://learn.microsoft.com/en-us/azure/databricks/archive/security/monitor-log-schemas (2024-10-04 07:01 PM) @cancelled
+            ✘ Azure Blob Storage with WASB (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/storage/wasb-blob (2024-11-22 10:04 PM) @cancelled
+            ✘ Azure Data Lake Storage Gen1 https://learn.microsoft.com/en-us/azure/databricks/archive/storage/azure-datalake (2024-11-22 10:04 PM) @cancelled
+                ✘ Transactional writes to cloud storage with DBIO https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/dbio-commit (2024-10-02 06:26 PM) @cancelled
+                ✘ Hive tables https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/hive-tables (2024-10-02 06:26 PM) @cancelled
+                ✘ Skew join hints https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/skew-join (2024-05-15 08:18 AM) @cancelled
+                ✘ Koalas https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/koalas (2024-10-02 06:26 PM) @cancelled
+                ✘ Neo4j https://learn.microsoft.com/en-us/azure/databricks/archive/connectors/neo4j (2024-09-04 09:05 PM) @cancelled
+                ✘ spark-xml library https://learn.microsoft.com/en-us/azure/databricks/archive/connectors/spark-xml-library (2024-12-18 09:37 PM) @cancelled
+                ✘ conda magic command https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/conda (2024-12-18 09:37 PM) @cancelled
+                ✘ Workspace libraries https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/workspace-libraries (2024-11-04 08:06 PM) @cancelled
+                ✘ Import data to DBFS https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/data-tab (2024-09-09 04:21 PM) @cancelled
                 ✘ FileStore https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/filestore (2024-11-04 08:06 PM) @cancelled
-                ☐ DBFS browser https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/file-browser (2024-09-04 09:05 PM)
+                ✘ DBFS browser https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/file-browser (2024-09-04 09:05 PM) @cancelled
 
 
 ---
@@ -3607,7 +3607,7 @@ Azure Databricks documentation | Microsoft Learn:
             Python overview https://learn.microsoft.com/en-us/azure/databricks/languages/python (2025-01-10 07:25 PM):
             ✘ R overview https://learn.microsoft.com/en-us/azure/databricks/sparkr/ (2025-01-10 07:25 PM) @cancelled
             ☐ Python scalar UDFs https://learn.microsoft.com/en-us/azure/databricks/udf/python (2025-01-09 09:40 PM)
-            ☐ What is Databricks Apps? https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-apps/ (2025-01-09 09:40 PM)
+            ✘ What is Databricks Apps? https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-apps/ (2025-01-09 09:40 PM) @cancelled
                     ✘ Databricks Notebooks https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/notebooks (2025-01-10 07:25 PM) @cancelled
         ✘ Technology partner overview https://learn.microsoft.com/en-us/azure/databricks/integrations/ (2025-01-09 09:40 PM) @cancelled
             ✘ System tables overview https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/ (2025-01-09 09:40 PM) @cancelled
@@ -4011,13 +4011,13 @@ Azure Databricks documentation | Microsoft Learn:
                 ✘ Visualizations overview https://learn.microsoft.com/en-us/azure/databricks/dashboards/visualizations/ (2024-12-12 07:31 PM) @cancelled
                 ✘ Visualization types https://learn.microsoft.com/en-us/azure/databricks/dashboards/visualizations/types (2024-12-18 09:37 PM) @cancelled
             ✘ Filter types https://learn.microsoft.com/en-us/azure/databricks/dashboards/filter-types (2024-11-25 09:19 PM) @cancelled
-        ☐ Notebooks overview https://learn.microsoft.com/en-us/azure/databricks/notebooks/ (2025-01-13 07:27 PM)
-        ☐ Notebook interface and controls https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-ui (2025-01-13 07:27 PM)
-            ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebooks-code (2025-01-13 07:27 PM)
+        ✘ Notebooks overview https://learn.microsoft.com/en-us/azure/databricks/notebooks/ (2025-01-13 07:27 PM) @cancelled
+        ✘ Notebook interface and controls https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-ui (2025-01-13 07:27 PM) @cancelled
+            ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebooks-code (2025-01-13 07:27 PM) @cancelled
         Customize notebook appearance:
-            ☐ Customize notebook appearance https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-ui (2025-01-13 07:27 PM)
-            ☐ Organize notebook cells https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-cells (2025-01-13 07:27 PM)
-            ☐ Add images, equations, and other media https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-media (2025-01-13 07:27 PM)
+            ✘ Customize notebook appearance https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-ui (2025-01-13 07:27 PM) @cancelled
+            ✘ Organize notebook cells https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-cells (2025-01-13 07:27 PM) @cancelled
+            ✘ Add images, equations, and other media https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-media (2025-01-13 07:27 PM) @cancelled
         ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/languages/ (2025-01-13 07:27 PM)
             Python overview https://learn.microsoft.com/en-us/azure/databricks/languages/python (2025-01-13 07:27 PM):
             ☐ R overview https://learn.microsoft.com/en-us/azure/databricks/sparkr/ (2025-01-13 07:27 PM)
@@ -4031,9 +4031,9 @@ Azure Databricks documentation | Microsoft Learn:
             ☐ Shiny on Azure Databricks https://learn.microsoft.com/en-us/azure/databricks/sparkr/shiny (2024-10-08 06:06 AM)
             ☐ renv on Azure Databricks https://learn.microsoft.com/en-us/azure/databricks/sparkr/renv (2024-10-08 05:58 PM)
             ☐ Python UDTFs (user-defined table functions) https://learn.microsoft.com/en-us/azure/databricks/udf/python-udtf (2024-10-02 06:26 PM)
-            ☐ Get started with Databricks Apps https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-apps/get-started (2024-11-04 08:06 PM)
-            ☐ Develop Databricks Apps https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-apps/app-development (2024-12-18 09:37 PM)
-            ☐ Configure Databricks Apps https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-apps/configuration (2024-11-22 10:04 PM)
+            ✘ Get started with Databricks Apps https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-apps/get-started (2024-11-04 08:06 PM) @cancelled
+            ✘ Develop Databricks Apps https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-apps/app-development (2024-12-18 09:37 PM) @cancelled
+            ✘ Configure Databricks Apps https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-apps/configuration (2024-11-22 10:04 PM) @cancelled
         Git folders:
             ☐ Git folders overview https://learn.microsoft.com/en-us/azure/databricks/repos/ (2024-10-12 12:04 AM)
             ☐ What happened to Repos? https://learn.microsoft.com/en-us/azure/databricks/repos/what-happened-repos (2024-10-12 12:04 AM)
@@ -4076,7 +4076,7 @@ Azure Databricks documentation | Microsoft Learn:
             ✘ Override partner OAuth token lifetime policy https://learn.microsoft.com/en-us/azure/databricks/integrations/manage-oauth (2024-12-26 06:38 PM) @cancelled
                 ✘ dbt Core tutorial https://learn.microsoft.com/en-us/azure/databricks/integrations/dbt-core-tutorial (2024-10-02 06:26 PM) @cancelled
         ✘ Connect to Databricks from Excel https://learn.microsoft.com/en-us/azure/databricks/integrations/excel (2024-12-17 07:11 PM) @cancelled
-            ☐ Serverless quotas https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/serverless-quotas (2025-01-13 07:27 PM)
+            ✘ Serverless quotas https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/serverless-quotas (2025-01-13 07:27 PM) @cancelled
                 ✘ Monitor job costs & performance with system tables https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/jobs-cost (2024-12-10 07:28 PM) @cancelled
                 ✘ Monitor model serving costs with system tables https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/model-serving-cost (2024-12-10 07:28 PM) @cancelled
             ✘ Data lineage system tables https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/lineage (2025-01-07 07:53 PM) @cancelled
@@ -4095,13 +4095,13 @@ Azure Databricks documentation | Microsoft Learn:
         ☐ Azure Databricks office hours https://learn.microsoft.com/en-us/azure/databricks/resources/office-hours (2025-01-13 07:27 PM)
         ☐ Glossary https://learn.microsoft.com/en-us/azure/databricks/resources/glossary (2025-01-13 07:27 PM)
                 ✘ Databricks Runtime 4.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/4.1ml (2024-10-04 07:01 PM) @cancelled
-                ☐ FileStore https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/filestore (2025-01-13 07:27 PM)
+                ✘ FileStore https://learn.microsoft.com/en-us/azure/databricks/archive/legacy/filestore (2025-01-13 07:27 PM) @cancelled
 
 
 ---
 
-        ☐ Databricks Assistant FAQ https://learn.microsoft.com/en-us/azure/databricks/notebooks/databricks-assistant-faq (2024-10-15 07:04 PM)
-        ☐ Use Databricks Assistant https://learn.microsoft.com/en-us/azure/databricks/notebooks/use-databricks-assistant (2024-12-23 06:42 PM)
+        ✘ Databricks Assistant FAQ https://learn.microsoft.com/en-us/azure/databricks/notebooks/databricks-assistant-faq (2024-10-15 07:04 PM) @cancelled
+        ✘ Use Databricks Assistant https://learn.microsoft.com/en-us/azure/databricks/notebooks/use-databricks-assistant (2024-12-23 06:42 PM) @cancelled
             ☐ Platform release process https://learn.microsoft.com/en-us/azure/databricks/resources/platform-release (2024-10-08 05:58 PM)
                 ✘ Databricks Runtime 16.1 https://learn.microsoft.com/en-us/azure/databricks/release-notes/runtime/16.1 (2025-01-10 07:25 PM) @cancelled
                 ✘ Databricks Runtime 14.3 LTS ML https://learn.microsoft.com/en-us/azure/databricks/release-notes/runtime/14.3lts-ml (2024-10-02 06:26 PM) @cancelled
@@ -4150,35 +4150,35 @@ Azure Databricks documentation | Microsoft Learn:
                     ✘ Share models across workspaces https://learn.microsoft.com/en-us/azure/databricks/machine-learning/manage-model-lifecycle/multiple-workspaces (2024-11-22 10:04 PM) @cancelled
                 ✘ Create and connect to Ray clusters https://learn.microsoft.com/en-us/azure/databricks/machine-learning/ray/ray-create (2025-01-06 07:27 PM) @cancelled
                     ✘ Fine-tune a Hugging Face model https://learn.microsoft.com/en-us/azure/databricks/machine-learning/train-model/huggingface/fine-tune-model (2025-01-02 06:58 PM) @cancelled
-        ☐ Basic editing https://learn.microsoft.com/en-us/azure/databricks/notebooks/basic-editing (2025-01-07 07:53 PM)
-            ☐ Code navigation https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-editor (2025-01-07 07:53 PM)
-            ☐ Code help using Databricks Assistant https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-assistant (2025-01-07 07:53 PM)
+        ✘ Basic editing https://learn.microsoft.com/en-us/azure/databricks/notebooks/basic-editing (2025-01-07 07:53 PM) @cancelled
+            ✘ Code navigation https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-editor (2025-01-07 07:53 PM) @cancelled
+            ✘ Code help using Databricks Assistant https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-assistant (2025-01-07 07:53 PM) @cancelled
             ✘ Outputs and results https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-outputs (2024-11-15 07:10 PM) @cancelled
-            ☐ Share code between notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/share-code (2024-10-04 07:01 PM)
-            ☐ Debug notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/debugger (2024-11-21 09:05 PM)
-            ☐ Version history https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-version-history (2025-01-07 07:53 PM)
-            ☐ Package cells https://learn.microsoft.com/en-us/azure/databricks/notebooks/package-cells (2024-09-13 01:00 AM)
-            ☐ IPython kernel https://learn.microsoft.com/en-us/azure/databricks/notebooks/ipython-kernel (2024-04-21 07:33 PM)
-            ☐ Unit testing https://learn.microsoft.com/en-us/azure/databricks/notebooks/testing (2024-10-02 06:26 PM)
-            ☐ Test notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/test-notebooks (2025-01-03 09:55 PM)
-        ☐ Notebook compute https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-compute (2025-01-03 09:55 PM)
-            ☐ Run notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/run-notebook (2025-01-07 07:53 PM)
-            ☐ Schedule notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/schedule-notebook-jobs (2024-12-20 06:44 PM)
-            ☐ Run a notebook from another notebook https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-workflows (2025-01-07 07:53 PM)
-        ☐ Collaborate using notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebooks-collaborate (2024-10-12 12:04 AM)
+            ✘ Share code between notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/share-code (2024-10-04 07:01 PM) @cancelled
+            ✘ Debug notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/debugger (2024-11-21 09:05 PM) @cancelled
+            ✘ Version history https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-version-history (2025-01-07 07:53 PM) @cancelled
+            ✘ Package cells https://learn.microsoft.com/en-us/azure/databricks/notebooks/package-cells (2024-09-13 01:00 AM) @cancelled
+            ✘ IPython kernel https://learn.microsoft.com/en-us/azure/databricks/notebooks/ipython-kernel (2024-04-21 07:33 PM) @cancelled
+            ✘ Unit testing https://learn.microsoft.com/en-us/azure/databricks/notebooks/testing (2024-10-02 06:26 PM) @cancelled
+            ✘ Test notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/test-notebooks (2025-01-03 09:55 PM) @cancelled
+        ✘ Notebook compute https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-compute (2025-01-03 09:55 PM) @cancelled
+            ✘ Run notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/run-notebook (2025-01-07 07:53 PM) @cancelled
+            ✘ Schedule notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/schedule-notebook-jobs (2024-12-20 06:44 PM) @cancelled
+            ✘ Run a notebook from another notebook https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-workflows (2025-01-07 07:53 PM) @cancelled
+        ✘ Collaborate using notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebooks-collaborate (2024-10-12 12:04 AM) @cancelled
         ✘ Manage notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebooks-manage (2024-11-06 07:23 PM) @cancelled
         ✘ Export and import notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-export-import (2024-10-02 06:26 PM) @cancelled
-        ☐ Tag Databricks notebooks as source https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-source (2024-11-06 07:23 PM)
-        ☐ ipywidgets https://learn.microsoft.com/en-us/azure/databricks/notebooks/ipywidgets (2024-10-02 06:26 PM)
-        ☐ Databricks widgets https://learn.microsoft.com/en-us/azure/databricks/notebooks/widgets (2024-12-04 09:08 PM)
-        ☐ Dashboards https://learn.microsoft.com/en-us/azure/databricks/notebooks/dashboards (2024-10-24 07:01 PM)
-        ☐ Best practices for notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/best-practices (2024-12-20 06:44 PM)
+        ✘ Tag Databricks notebooks as source https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-source (2024-11-06 07:23 PM) @cancelled
+        ✘ ipywidgets https://learn.microsoft.com/en-us/azure/databricks/notebooks/ipywidgets (2024-10-02 06:26 PM) @cancelled
+        ✘ Databricks widgets https://learn.microsoft.com/en-us/azure/databricks/notebooks/widgets (2024-12-04 09:08 PM) @cancelled
+        ✘ Dashboards https://learn.microsoft.com/en-us/azure/databricks/notebooks/dashboards (2024-10-24 07:01 PM) @cancelled
+        ✘ Best practices for notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/best-practices (2024-12-20 06:44 PM) @cancelled
         ✘ Notebooks limitations https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-limitations (2024-12-17 03:52 PM) @cancelled
         ☐ Scala https://learn.microsoft.com/en-us/azure/databricks/languages/scala (2025-01-03 09:55 PM)
         ☐ Azure Databricks status page https://learn.microsoft.com/en-us/azure/databricks/resources/status (2024-10-08 05:58 PM)
         ☐ Submit in-product feedback https://learn.microsoft.com/en-us/azure/databricks/resources/ideas (2024-09-24 10:02 PM)
         ☐ Pricing https://learn.microsoft.com/en-us/azure/databricks/resources/pricing (2024-11-14 06:50 PM)
-        ☐ Limits https://learn.microsoft.com/en-us/azure/databricks/resources/limits (2025-01-10 07:25 PM)
+        ✘ Limits https://learn.microsoft.com/en-us/azure/databricks/resources/limits (2025-01-10 07:25 PM) @cancelled
             ☐ Supported regions https://learn.microsoft.com/en-us/azure/databricks/resources/supported-regions (2024-10-25 10:06 PM)
             ✘ Features with limited regional availability https://learn.microsoft.com/en-us/azure/databricks/resources/feature-region-support (2025-01-07 07:53 PM) @cancelled
             ☐ IP addresses and domains for Databricks services and assets https://learn.microsoft.com/en-us/azure/databricks/resources/ip-domain-region (2024-11-20 07:58 PM)
@@ -4228,9 +4228,9 @@ Azure Databricks documentation | Microsoft Learn:
         ☐ Databricks AI/BI https://learn.microsoft.com/en-us/azure/databricks/ai-bi/ (2025-01-15 06:00 AM)
         ☐ BI tools https://learn.microsoft.com/en-us/azure/databricks/ai-bi/tools (2025-01-15 06:00 AM)
             ✘ Genie space overview https://learn.microsoft.com/en-us/azure/databricks/genie/ (2025-01-15 06:00 AM) @cancelled
-            ☐ Outputs and results https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-outputs (2025-01-15 06:00 AM)
-        ☐ Manage notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebooks-manage (2025-01-15 06:00 AM)
-        ☐ Manage notebook format https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-format (2025-01-15 06:00 AM)
+            ✘ Outputs and results https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-outputs (2025-01-15 06:00 AM) @cancelled
+        ✘ Manage notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebooks-manage (2025-01-15 06:00 AM) @cancelled
+        ✘ Manage notebook format https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-format (2025-01-15 06:00 AM) @cancelled
             ✘ Git operations https://learn.microsoft.com/en-us/azure/databricks/repos/git-operations-with-repos (2025-01-15 06:00 AM) @cancelled
             ✘ Limitations and FAQ https://learn.microsoft.com/en-us/azure/databricks/repos/limits (2025-01-15 06:00 AM) @cancelled
             ✘ System tables overview https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/ (2025-01-15 06:00 AM) @cancelled
@@ -4250,7 +4250,7 @@ Azure Databricks documentation | Microsoft Learn:
 ---
 
             ☐ Configure Spark properties https://learn.microsoft.com/en-us/azure/databricks/spark/conf (2025-01-16 07:16 PM)
-        ☐ DatabricksIQ trust and safety https://learn.microsoft.com/en-us/azure/databricks/databricksiq/databricksiq-trust (2025-01-16 10:00 PM)
+        ✘ DatabricksIQ trust and safety https://learn.microsoft.com/en-us/azure/databricks/databricksiq/databricksiq-trust (2025-01-16 10:00 PM) @cancelled
             ✘ Platform release notes https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/ (2025-01-17 08:07 PM) @cancelled
             ✘ January 2025 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2025/january (2025-01-17 08:07 PM) @cancelled
             ✘ December 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/december (2025-01-17 08:07 PM) @cancelled
@@ -4368,15 +4368,15 @@ Azure Databricks documentation | Microsoft Learn:
         ☐ Iceberg client reads https://learn.microsoft.com/en-us/azure/databricks/external-access/iceberg (2025-01-07 07:53 PM)
         ☐ Delta client reads https://learn.microsoft.com/en-us/azure/databricks/external-access/unity-rest (2024-12-23 06:42 PM)
         ☐ Credential vending https://learn.microsoft.com/en-us/azure/databricks/external-access/credential-vending (2025-01-07 07:53 PM)
-        ☐ Databricks Lakehouse Monitoring https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/ (2025-01-15 11:05 PM)
-        ☐ Create a monitor using the Databricks UI https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/create-monitor-ui (2024-11-08 03:08 PM)
-        ☐ Create a monitor using the API https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/create-monitor-api (2024-11-18 06:57 PM)
-        ☐ Monitor metric tables https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/monitor-output (2024-10-02 06:26 PM)
-        ☐ Use the monitor dashboard https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/monitor-dashboard (2025-01-09 09:40 PM)
-        ☐ Monitor alerts https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/monitor-alerts (2024-10-02 06:26 PM)
-        ☐ Use custom metrics https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/custom-metrics (2024-10-02 06:26 PM)
-        ☐ Monitor fairness and bias for classification models https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/fairness-bias (2024-10-02 06:26 PM)
-        ☐ View Lakehouse Monitoring expenses https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/expense (2024-06-14 09:41 PM)
+        ✘ Databricks Lakehouse Monitoring https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/ (2025-01-15 11:05 PM) @cancelled
+        ✘ Create a monitor using the Databricks UI https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/create-monitor-ui (2024-11-08 03:08 PM) @cancelled
+        ✘ Create a monitor using the API https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/create-monitor-api (2024-11-18 06:57 PM) @cancelled
+        ✘ Monitor metric tables https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/monitor-output (2024-10-02 06:26 PM) @cancelled
+        ✘ Use the monitor dashboard https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/monitor-dashboard (2025-01-09 09:40 PM) @cancelled
+        ✘ Monitor alerts https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/monitor-alerts (2024-10-02 06:26 PM) @cancelled
+        ✘ Use custom metrics https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/custom-metrics (2024-10-02 06:26 PM) @cancelled
+        ✘ Monitor fairness and bias for classification models https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/fairness-bias (2024-10-02 06:26 PM) @cancelled
+        ✘ View Lakehouse Monitoring expenses https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/expense (2024-06-14 09:41 PM) @cancelled
             ☐ Work with clean rooms as a collaborator https://learn.microsoft.com/en-us/azure/databricks/clean-rooms/clean-room-collaborator (2025-01-15 11:05 PM)
             ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/delta-live-tables/ (2025-01-17 08:07 PM)
             ☐ Tutorial https://learn.microsoft.com/en-us/azure/databricks/delta-live-tables/tutorial-pipelines (2025-01-15 11:05 PM)
@@ -4535,18 +4535,18 @@ Azure Databricks documentation | Microsoft Learn:
             ☐ Best practices https://learn.microsoft.com/en-us/azure/databricks/genie/best-practices (2025-01-16 07:16 PM)
             ☐ Query optimization with constraints https://learn.microsoft.com/en-us/azure/databricks/sql/user/queries/query-optimization-constraints (2025-01-17 08:07 PM)
         ☐ Visualizations overview https://learn.microsoft.com/en-us/azure/databricks/sql/user/visualizations/ (2025-01-16 07:16 PM)
-        ☐ Export and import notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-export-import (2025-01-15 11:05 PM)
-        ☐ Notebooks limitations https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-limitations (2025-01-16 07:16 PM)
+        ✘ Export and import notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-export-import (2025-01-15 11:05 PM) @cancelled
+        ✘ Notebooks limitations https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-limitations (2025-01-16 07:16 PM) @cancelled
         ☐ Table constraints https://learn.microsoft.com/en-us/azure/databricks/tables/constraints (2025-01-17 08:07 PM)
             ☐ Git operations https://learn.microsoft.com/en-us/azure/databricks/repos/git-operations-with-repos (2025-01-15 11:05 PM)
-                ☐ Personal access token authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/pat (2025-01-17 08:07 PM)
-                    ☐ Databricks Notebooks https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/notebooks (2025-01-16 07:16 PM)
-                ☐ Databricks SQL Connector for Python https://learn.microsoft.com/en-us/azure/databricks/dev-tools/python-sql-connector (2025-01-15 11:05 PM)
-                ☐ SQLAlchemy dialect for Databricks https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sqlalchemy (2025-01-15 11:05 PM)
+                ✘ Personal access token authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/auth/pat (2025-01-17 08:07 PM) @cancelled
+                    ✘ Databricks Notebooks https://learn.microsoft.com/en-us/azure/databricks/dev-tools/databricks-connect/python/notebooks (2025-01-16 07:16 PM) @cancelled
+                ✘ Databricks SQL Connector for Python https://learn.microsoft.com/en-us/azure/databricks/dev-tools/python-sql-connector (2025-01-15 11:05 PM) @cancelled
+                ✘ SQLAlchemy dialect for Databricks https://learn.microsoft.com/en-us/azure/databricks/dev-tools/sqlalchemy (2025-01-15 11:05 PM) @cancelled
                 ✘ Databricks JDBC Driver (OSS) https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/oss (2025-01-17 08:07 PM) @cancelled
-                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/ (2025-01-15 11:05 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/ (2025-01-15 11:05 PM) @cancelled
                     ✘ Bundle resources https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/resources (2025-01-16 10:00 PM) @cancelled
-                    ☐ Bundle deployment modes https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/deployment-modes (2025-01-17 08:07 PM)
+                    ✘ Bundle deployment modes https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/deployment-modes (2025-01-17 08:07 PM) @cancelled
                     ✘ Bundle configuration reference https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/reference (2025-01-15 11:05 PM) @cancelled
             ✘ JDBC driver (OSS) https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/oss (2025-01-17 08:07 PM) @cancelled
             ☐ Monitor account usage https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/usage (2025-01-15 11:05 PM)
@@ -4576,14 +4576,14 @@ Azure Databricks documentation | Microsoft Learn:
             ☐ DC_DYNAMICS_API_ERROR error https://learn.microsoft.com/en-us/azure/databricks/error-messages/dc-dynamics-api-error-error-class (2024-07-10 07:04 PM)
             ☐ STREAMING_TABLE_OPERATION_NOT_ALLOWED error https://learn.microsoft.com/en-us/azure/databricks/error-messages/streaming-table-operation-not-allowed-error-class (2025-01-17 08:07 PM)
     ✘ What's coming? https://learn.microsoft.com/en-us/azure/databricks/whats-coming (2025-01-17 08:07 PM) @cancelled
-            ☐ External Apache Hive metastore (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/external-metastores/external-hive-metastore (2025-01-16 07:16 PM)
-                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/ (2025-01-15 11:05 PM)
-                ☐ Databricks Runtime maintenance updates (archived) https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/maintenance-updates-archive (2025-01-15 11:05 PM)
-                ☐ Databricks Runtime 15.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.3 (2025-01-15 11:05 PM)
-                ☐ Databricks Runtime 15.3 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.3ml (2025-01-15 11:05 PM)
-                ☐ Databricks Runtime 15.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.2 (2025-01-15 11:05 PM)
-                ☐ Databricks Runtime 15.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.2ml (2025-01-15 11:05 PM)
-                ☐ Databricks Runtime 13.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.x-migration (2025-01-16 10:00 PM)
+            ✘ External Apache Hive metastore (legacy) https://learn.microsoft.com/en-us/azure/databricks/archive/external-metastores/external-hive-metastore (2025-01-16 07:16 PM) @cancelled
+                ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/ (2025-01-15 11:05 PM) @cancelled
+                ✘ Databricks Runtime maintenance updates (archived) https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/maintenance-updates-archive (2025-01-15 11:05 PM) @cancelled
+                ✘ Databricks Runtime 15.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.3 (2025-01-15 11:05 PM) @cancelled
+                ✘ Databricks Runtime 15.3 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.3ml (2025-01-15 11:05 PM) @cancelled
+                ✘ Databricks Runtime 15.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.2 (2025-01-15 11:05 PM) @cancelled
+                ✘ Databricks Runtime 15.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.2ml (2025-01-15 11:05 PM) @cancelled
+                ✘ Databricks Runtime 13.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.x-migration (2025-01-16 10:00 PM) @cancelled
 
 
 ---
@@ -4678,143 +4678,143 @@ Azure Databricks documentation | Microsoft Learn:
             ☐ Clone a legacy dashboard to AI/BI dashboard https://learn.microsoft.com/en-us/azure/databricks/dashboards/clone-legacy-to-aibi (2024-12-18 09:37 PM)
             ☐ Dataset optimization and caching https://learn.microsoft.com/en-us/azure/databricks/dashboards/caching (2024-11-04 08:06 PM)
                 ☐ Visualizations overview https://learn.microsoft.com/en-us/azure/databricks/dashboards/visualizations/ (2024-12-12 07:31 PM)
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/work-tasks (2024-11-08 03:08 PM)
-                    ☐ Bundle authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/authentication (2024-10-02 06:26 PM)
-                    ☐ Bundle project templates https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/templates (2024-10-02 06:26 PM)
-                    ☐ Custom bundle template tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/custom-template (2024-10-12 12:04 AM)
-                    ☐ Scratch bundle tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/manual-bundle (2024-10-02 06:26 PM)
-                    ☐ CI/CD and GitHub Actions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/ci-cd-bundles (2024-10-02 06:26 PM)
-                    ☐ Bundles in air-gapped environments https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/airgapped-environment (2024-04-23 11:08 PM)
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/settings (2024-12-20 06:44 PM)
-                    ☐ Bundle run identity https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/run-as (2024-10-02 06:26 PM)
-                    ☐ Resource permissions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/permissions (2024-12-18 09:37 PM)
-                    ☐ Dynamic artifacts settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/artifact-overrides (2024-12-04 09:08 PM)
-                    ☐ Bundles with private artifacts https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/artifact-private (2024-12-04 09:08 PM)
-                    ☐ Override new job cluster settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/cluster-override (2024-04-23 11:08 PM)
-                    ☐ Job task type settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/job-task-types (2024-12-05 07:35 PM)
-                    ☐ Override job task settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/job-task-override (2024-04-23 11:08 PM)
-                    ☐ Bundle library dependencies https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/library-dependencies (2024-11-04 08:06 PM)
-                    ☐ Substitutions and variables https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/variables (2024-12-06 08:37 PM)
-                    ☐ Bundle configuration examples https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/resource-examples (2024-12-20 06:44 PM)
-                ☐ Bundles with jobs tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/jobs-tutorial (2024-12-02 07:44 PM)
-                ☐ Bundles with pipelines tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/pipelines-tutorial (2024-10-04 07:01 PM)
-                ☐ MLOps Stacks tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/mlops-stacks (2024-10-31 07:49 PM)
-                ☐ Python wheel builds tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/python-wheel (2024-10-02 06:26 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/work-tasks (2024-11-08 03:08 PM) @cancelled
+                    ✘ Bundle authentication https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/authentication (2024-10-02 06:26 PM) @cancelled
+                    ✘ Bundle project templates https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/templates (2024-10-02 06:26 PM) @cancelled
+                    ✘ Custom bundle template tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/custom-template (2024-10-12 12:04 AM) @cancelled
+                    ✘ Scratch bundle tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/manual-bundle (2024-10-02 06:26 PM) @cancelled
+                    ✘ CI/CD and GitHub Actions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/ci-cd-bundles (2024-10-02 06:26 PM) @cancelled
+                    ✘ Bundles in air-gapped environments https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/airgapped-environment (2024-04-23 11:08 PM) @cancelled
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/settings (2024-12-20 06:44 PM) @cancelled
+                    ✘ Bundle run identity https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/run-as (2024-10-02 06:26 PM) @cancelled
+                    ✘ Resource permissions https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/permissions (2024-12-18 09:37 PM) @cancelled
+                    ✘ Dynamic artifacts settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/artifact-overrides (2024-12-04 09:08 PM) @cancelled
+                    ✘ Bundles with private artifacts https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/artifact-private (2024-12-04 09:08 PM) @cancelled
+                    ✘ Override new job cluster settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/cluster-override (2024-04-23 11:08 PM) @cancelled
+                    ✘ Job task type settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/job-task-types (2024-12-05 07:35 PM) @cancelled
+                    ✘ Override job task settings https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/job-task-override (2024-04-23 11:08 PM) @cancelled
+                    ✘ Bundle library dependencies https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/library-dependencies (2024-11-04 08:06 PM) @cancelled
+                    ✘ Substitutions and variables https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/variables (2024-12-06 08:37 PM) @cancelled
+                    ✘ Bundle configuration examples https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/resource-examples (2024-12-20 06:44 PM) @cancelled
+                ✘ Bundles with jobs tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/jobs-tutorial (2024-12-02 07:44 PM) @cancelled
+                ✘ Bundles with pipelines tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/pipelines-tutorial (2024-10-04 07:01 PM) @cancelled
+                ✘ MLOps Stacks tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/mlops-stacks (2024-10-31 07:49 PM) @cancelled
+                ✘ Python wheel builds tutorial https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/python-wheel (2024-10-02 06:26 PM) @cancelled
             ☐ Monitor usage using tags https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/usage-detail-tags (2025-01-10 07:25 PM)
                 ☐ Configure private connectivity to Azure Databricks https://learn.microsoft.com/en-us/azure/databricks/security/network/front-end/front-end-private-connect (2024-08-29 06:25 PM)
                     ☐ IP access lists overview https://learn.microsoft.com/en-us/azure/databricks/security/network/front-end/ip-access-list (2024-10-02 06:26 PM)
-                    ☐ IP access lists for workspaces https://learn.microsoft.com/en-us/azure/databricks/security/network/front-end/ip-access-list-workspace (2024-12-02 07:44 PM)
+                    ✘ IP access lists for workspaces https://learn.microsoft.com/en-us/azure/databricks/security/network/front-end/ip-access-list-workspace (2024-12-02 07:44 PM) @cancelled
                     ☐ IP access lists for the account console https://learn.microsoft.com/en-us/azure/databricks/security/network/front-end/ip-access-list-account (2024-12-10 07:28 PM)
                 ☐ What is serverless egress control? https://learn.microsoft.com/en-us/azure/databricks/security/network/serverless-network-security/network-policies (2024-12-17 03:52 PM)
                 ☐ Managing network policies for serverless egress control https://learn.microsoft.com/en-us/azure/databricks/security/network/serverless-network-security/manage-network-policies (2024-12-12 04:34 PM)
                 ☐ Configure an Azure Storage firewall for serverless compute access https://learn.microsoft.com/en-us/azure/databricks/security/network/serverless-network-security/serverless-firewall (2024-12-17 07:11 PM)
                 ☐ Configure private connectivity from serverless compute https://learn.microsoft.com/en-us/azure/databricks/security/network/serverless-network-security/serverless-private-link (2024-12-17 07:11 PM)
                 ☐ Manage private endpoint rules https://learn.microsoft.com/en-us/azure/databricks/security/network/serverless-network-security/manage-private-endpoint-rules (2024-11-08 11:21 PM)
-                ☐ Databricks Runtime 15.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.1 (2025-01-07 07:53 PM)
-                ☐ Databricks Runtime 15.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.1ml (2025-01-07 07:53 PM)
-                ☐ Databricks Runtime 15.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.0 (2025-01-07 07:53 PM)
-                ☐ Databricks Runtime 15.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.0ml (2025-01-07 07:53 PM)
-                ☐ Databricks Runtime 14.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/14.2 (2024-11-07 11:52 PM)
-                ☐ Databricks Runtime 14.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/14.2ml (2024-11-07 11:52 PM)
-                ☐ Databricks Runtime 14.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/14.0 (2024-10-18 11:58 PM)
-                ☐ Databricks Runtime 14.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/14.0ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 13.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.2 (2025-01-07 07:53 PM)
-                ☐ Databricks Runtime 13.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.2ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 13.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.1 (2024-11-08 03:08 PM)
-                ☐ Databricks Runtime 13.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.1ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 13.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.0 (2024-10-18 11:58 PM)
-                ☐ Databricks Runtime 13.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.0ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 12.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/12.1 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 12.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/12.1ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 12.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/12.0 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 12.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/12.0ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 11.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.2 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 11.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.2ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 11.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.1 (2024-11-21 09:05 PM)
-                ☐ Databricks Runtime 11.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.1ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 11.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.0 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 11.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.0ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 10.5 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.5 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 10.5 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.5ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 10.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.3 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 10.3 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.3ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 10.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.2 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 10.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.2ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 10.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.1 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 10.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.1ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 10.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.0 (2024-12-18 09:37 PM)
-                ☐ Databricks Runtime 10.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.0ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 9.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/9.0 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 9.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/9.0ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 8.4 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.4 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 8.4 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.4ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 8.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.3 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 8.3 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.3ml (2024-11-18 06:57 PM)
-                ☐ Databricks Runtime 8.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.2 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 8.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.2ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 8.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.1 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 8.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.1ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 8.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.0 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 8.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.0ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.6 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.6 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.6 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.6ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.5 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.5 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.5 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.5ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.4 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.4 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.4 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.4ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.3 LTS https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.3lts (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.3 LTS ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.3lts-ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.3 LTS migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.3-migration (2024-09-09 04:21 PM)
-                ☐ Databricks Runtime 7.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.2 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.2ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.1 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.1ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.0 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 7.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.0ml (2024-12-18 09:37 PM)
-                ☐ Databricks Runtime 7.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.x-migration (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.6 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.6 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.6 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.6ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.5 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.5 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.5 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.5ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.4 Extended Support https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.4x (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.4 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.4 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.4 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.4ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.3 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.3 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.3ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.2 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.2ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.1 (2024-11-22 10:04 PM)
-                ☐ Databricks Runtime 6.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.1ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 6.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.0 (2024-12-18 09:37 PM)
-                ☐ Databricks Runtime 6.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.0ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.5 Extended Support https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.5x (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.5 ML Extended Support https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.5xml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.5 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.5 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.5 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.5ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.4 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.4 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.4 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.4ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.3 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.3 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.3ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.2 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.2ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.1 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.1ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 5.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.0 (2024-10-08 05:58 PM)
-                ☐ Databricks Runtime 5.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.0ml (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 4.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/4.3 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 4.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/4.2 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 4.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/4.1 (2025-01-09 09:40 PM)
-                ☐ Databricks Runtime 4.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/4.1ml (2024-10-04 07:01 PM)
-                ☐ Databricks Runtime 4.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/4.0 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 3.5 LTS https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/3.5 (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 3.4 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/3.4 (2024-10-02 06:26 PM)
-                ☐ Databricks Light 2.4 extended support (unsupported) https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/2.4lightx (2024-10-02 06:26 PM)
-                ☐ Databricks Light 2.4 (unsupported) https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/2.4light (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 9.1 LTS migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/9.1-migration (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 10.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.x-migration (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 11.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.x-migration (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 12.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/12.x-migration (2024-10-02 06:26 PM)
-                ☐ Databricks Runtime 14.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/14.x-migration (2024-11-07 11:52 PM)
+                ✘ Databricks Runtime 15.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.1 (2025-01-07 07:53 PM) @cancelled
+                ✘ Databricks Runtime 15.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.1ml (2025-01-07 07:53 PM) @cancelled
+                ✘ Databricks Runtime 15.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.0 (2025-01-07 07:53 PM) @cancelled
+                ✘ Databricks Runtime 15.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/15.0ml (2025-01-07 07:53 PM) @cancelled
+                ✘ Databricks Runtime 14.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/14.2 (2024-11-07 11:52 PM) @cancelled
+                ✘ Databricks Runtime 14.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/14.2ml (2024-11-07 11:52 PM) @cancelled
+                ✘ Databricks Runtime 14.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/14.0 (2024-10-18 11:58 PM) @cancelled
+                ✘ Databricks Runtime 14.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/14.0ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 13.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.2 (2025-01-07 07:53 PM) @cancelled
+                ✘ Databricks Runtime 13.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.2ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 13.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.1 (2024-11-08 03:08 PM) @cancelled
+                ✘ Databricks Runtime 13.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.1ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 13.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.0 (2024-10-18 11:58 PM) @cancelled
+                ✘ Databricks Runtime 13.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/13.0ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 12.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/12.1 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 12.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/12.1ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 12.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/12.0 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 12.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/12.0ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 11.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.2 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 11.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.2ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 11.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.1 (2024-11-21 09:05 PM) @cancelled
+                ✘ Databricks Runtime 11.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.1ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 11.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.0 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 11.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.0ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 10.5 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.5 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 10.5 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.5ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 10.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.3 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 10.3 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.3ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 10.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.2 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 10.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.2ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 10.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.1 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 10.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.1ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 10.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.0 (2024-12-18 09:37 PM) @cancelled
+                ✘ Databricks Runtime 10.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.0ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 9.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/9.0 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 9.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/9.0ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 8.4 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.4 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 8.4 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.4ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 8.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.3 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 8.3 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.3ml (2024-11-18 06:57 PM) @cancelled
+                ✘ Databricks Runtime 8.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.2 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 8.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.2ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 8.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.1 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 8.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.1ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 8.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.0 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 8.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/8.0ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.6 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.6 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.6 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.6ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.5 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.5 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.5 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.5ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.4 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.4 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.4 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.4ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.3 LTS https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.3lts (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.3 LTS ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.3lts-ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.3 LTS migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.3-migration (2024-09-09 04:21 PM) @cancelled
+                ✘ Databricks Runtime 7.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.2 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.2ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.1 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.1ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.0 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 7.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.0ml (2024-12-18 09:37 PM) @cancelled
+                ✘ Databricks Runtime 7.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/7.x-migration (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.6 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.6 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.6 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.6ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.5 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.5 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.5 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.5ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.4 Extended Support https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.4x (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.4 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.4 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.4 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.4ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.3 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.3 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.3ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.2 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.2ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.1 (2024-11-22 10:04 PM) @cancelled
+                ✘ Databricks Runtime 6.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.1ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 6.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.0 (2024-12-18 09:37 PM) @cancelled
+                ✘ Databricks Runtime 6.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/6.0ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.5 Extended Support https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.5x (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.5 ML Extended Support https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.5xml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.5 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.5 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.5 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.5ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.4 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.4 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.4 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.4ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.3 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.3 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.3ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.2 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.2 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.2ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.1 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.1ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 5.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.0 (2024-10-08 05:58 PM) @cancelled
+                ✘ Databricks Runtime 5.0 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/5.0ml (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 4.3 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/4.3 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 4.2 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/4.2 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 4.1 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/4.1 (2025-01-09 09:40 PM) @cancelled
+                ✘ Databricks Runtime 4.1 ML https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/4.1ml (2024-10-04 07:01 PM) @cancelled
+                ✘ Databricks Runtime 4.0 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/4.0 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 3.5 LTS https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/3.5 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 3.4 https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/3.4 (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Light 2.4 extended support (unsupported) https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/2.4lightx (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Light 2.4 (unsupported) https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/2.4light (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 9.1 LTS migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/9.1-migration (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 10.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/10.x-migration (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 11.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/11.x-migration (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 12.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/12.x-migration (2024-10-02 06:26 PM) @cancelled
+                ✘ Databricks Runtime 14.x migration https://learn.microsoft.com/en-us/azure/databricks/archive/runtime-release-notes/14.x-migration (2024-11-07 11:52 PM) @cancelled
 
 
 ---
@@ -4826,8 +4826,8 @@ Azure Databricks documentation | Microsoft Learn:
 
 ---
 
-            ☐ Platform release notes https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/ (2025-01-21 04:23 AM)
-            ☐ January 2025 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2025/january (2025-01-21 04:23 AM)
+            ✘ Platform release notes https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/ (2025-01-21 04:23 AM) @cancelled
+            ✘ January 2025 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2025/january (2025-01-21 04:23 AM) @cancelled
                 ☐ Databricks Runtime 16.1 ML https://learn.microsoft.com/en-us/azure/databricks/release-notes/runtime/16.1ml (2025-01-21 07:51 PM)
                 ☐ Databricks Runtime 16.0 ML https://learn.microsoft.com/en-us/azure/databricks/release-notes/runtime/16.0ml (2025-01-21 07:51 PM)
             ☐ Runtime maintenance updates https://learn.microsoft.com/en-us/azure/databricks/release-notes/runtime/maintenance-updates (2025-01-21 04:23 AM)
@@ -4841,16 +4841,16 @@ Azure Databricks documentation | Microsoft Learn:
                 ☐ Spark MLlib https://learn.microsoft.com/en-us/azure/databricks/machine-learning/train-model/mllib (2024-10-02 06:26 PM)
             ☐ Agent Evaluation overview https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/ (2025-01-21 07:51 PM)
             ☐ How quality, cost, and latency are evaluated https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/llm-judge-metrics (2025-01-21 04:23 AM)
-            ☐ LLM judges reference https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/llm-judge-reference (2025-01-21 04:23 AM)
+            ✘ LLM judges reference https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/llm-judge-reference (2025-01-21 04:23 AM) @cancelled
             ☐ Custom metrics https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/custom-metrics (2025-01-21 04:23 AM)
             ☐ Custom metrics https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/custom-metrics (2025-01-21 04:23 AM)
             ☐ 10-minute RAG demo https://learn.microsoft.com/en-us/azure/databricks/generative-ai/tutorials/agent-framework-notebook (2024-12-09 07:00 PM)
             ☐ Limitations and FAQ https://learn.microsoft.com/en-us/azure/databricks/repos/limits (2025-01-21 07:51 PM)
-                ☐ Databricks JDBC Driver (OSS) https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/oss (2025-01-21 04:23 AM)
-                    ☐ Bundle resources https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/resources (2025-01-21 07:51 PM)
-                    ☐ Bundle configuration reference https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/reference (2025-01-21 04:23 AM)
+                ✘ Databricks JDBC Driver (OSS) https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/oss (2025-01-21 04:23 AM) @cancelled
+                    ✘ Bundle resources https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/resources (2025-01-21 07:51 PM) @cancelled
+                    ✘ Bundle configuration reference https://learn.microsoft.com/en-us/azure/databricks/dev-tools/bundles/reference (2025-01-21 04:23 AM) @cancelled
         ☐ Technology partner overview https://learn.microsoft.com/en-us/azure/databricks/integrations/ (2025-01-21 04:23 AM)
-            ☐ JDBC driver (OSS) https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/oss (2025-01-21 04:23 AM)
+            ✘ JDBC driver (OSS) https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/oss (2025-01-21 04:23 AM) @cancelled
             ☐ What is Partner Connect? https://learn.microsoft.com/en-us/azure/databricks/partner-connect/ (2025-01-21 04:23 AM)
             ☐ Connect to Fivetran walkthrough https://learn.microsoft.com/en-us/azure/databricks/partner-connect/walkthrough-fivetran (2025-01-21 04:23 AM)
             ☐ Connect to a data ingestion partner https://learn.microsoft.com/en-us/azure/databricks/partner-connect/ingestion (2025-01-21 04:23 AM)
@@ -4869,7 +4869,209 @@ Azure Databricks documentation | Microsoft Learn:
             ☐ erwin Data Modeler https://learn.microsoft.com/en-us/azure/databricks/partners/data-governance/erwin (2025-01-21 04:23 AM)
             ☐ Connect to a security partner https://learn.microsoft.com/en-us/azure/databricks/partner-connect/data-security (2025-01-21 04:23 AM)
             ☐ System tables overview https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/ (2025-01-21 07:51 PM)
-            ☐ Diagnostic logs reference guide https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/audit-logs (2025-01-21 07:51 PM)
+            ✘ Diagnostic logs reference guide https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/audit-logs (2025-01-21 07:51 PM) @cancelled
                 ☐ Classic compute plane networking overview https://learn.microsoft.com/en-us/azure/databricks/security/network/classic/ (2025-01-21 07:51 PM)
     ☐ What's coming? https://learn.microsoft.com/en-us/azure/databricks/whats-coming (2025-01-21 04:23 AM)
+
+
+---
+
+        ☐ DatabricksIQ-powered features https://learn.microsoft.com/en-us/azure/databricks/databricksiq/ (2025-01-22 07:51 PM)
+        ☐ DatabricksIQ trust and safety https://learn.microsoft.com/en-us/azure/databricks/databricksiq/databricksiq-trust (2025-01-22 07:51 PM)
+        ☐ Databricks Assistant FAQ https://learn.microsoft.com/en-us/azure/databricks/notebooks/databricks-assistant-faq (2025-01-22 07:51 PM)
+        ☐ Use Databricks Assistant https://learn.microsoft.com/en-us/azure/databricks/notebooks/use-databricks-assistant (2025-01-22 07:51 PM)
+            ☐ Platform release notes https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/ (2025-01-22 07:51 PM)
+            ☐ January 2025 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2025/january (2025-01-22 07:51 PM)
+            ☐ December 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/december (2025-01-22 07:51 PM)
+            ☐ November 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/november (2025-01-02 06:58 PM)
+            ☐ October 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/october (2025-01-02 06:58 PM)
+            ☐ September 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/september (2025-01-02 06:58 PM)
+            ☐ August 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/august (2025-01-02 06:58 PM)
+            ☐ July 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/july (2025-01-13 07:27 PM)
+            ☐ June 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/june (2025-01-15 11:05 PM)
+            ☐ May 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/may (2025-01-15 11:05 PM)
+            ☐ April 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/april (2025-01-02 06:58 PM)
+            ☐ March 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/march (2025-01-02 06:58 PM)
+            ☐ February 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/february (2025-01-02 06:58 PM)
+            ☐ January 2024 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2024/january (2025-01-13 07:27 PM)
+            ☐ December 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/december (2025-01-02 06:58 PM)
+            ☐ November 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/november (2024-11-07 11:52 PM)
+            ☐ October 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/october (2025-01-03 09:55 PM)
+            ☐ September 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/september (2024-10-08 06:00 AM)
+            ☐ August 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/august (2025-01-15 06:00 AM)
+            ☐ July 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/july (2024-12-13 07:08 PM)
+            ☐ June 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/june (2025-01-07 07:53 PM)
+            ☐ May 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/may (2024-10-04 07:01 PM)
+            ☐ April 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/april (2024-11-22 10:04 PM)
+            ☐ March 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/march (2025-01-15 06:00 AM)
+            ☐ February 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/february (2025-01-02 06:58 PM)
+            ☐ January 2023 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2023/january (2025-01-13 07:27 PM)
+            ☐ December 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/december (2024-10-02 06:26 PM)
+            ☐ November 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/november (2024-12-20 06:44 PM)
+            ☐ October 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/october (2024-10-02 06:26 PM)
+            ☐ September 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/september (2024-10-04 07:01 PM)
+            ☐ August 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/august (2024-10-31 07:49 PM)
+            ☐ July 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/july (2024-10-04 07:01 PM)
+            ☐ June 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/june (2024-10-02 06:26 PM)
+            ☐ May 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/may (2025-01-03 09:55 PM)
+            ☐ April 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/april (2024-12-23 06:42 PM)
+            ☐ March 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/march (2024-12-17 07:11 PM)
+            ☐ February 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/february (2024-11-18 06:57 PM)
+            ☐ January 2022 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2022/january (2024-12-23 06:42 PM)
+            ☐ December 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/december (2024-12-18 09:37 PM)
+            ☐ November 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/november (2024-10-04 07:01 PM)
+            ☐ October 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/october (2024-12-18 09:37 PM)
+            ☐ September 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/september (2025-01-13 07:27 PM)
+            ☐ August 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/august (2025-01-13 07:27 PM)
+            ☐ July 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/july (2024-11-22 10:04 PM)
+            ☐ June 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/june (2025-01-17 08:07 PM)
+            ☐ May 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/may (2024-11-18 06:57 PM)
+            ☐ April 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/april (2024-12-19 06:46 PM)
+            ☐ March 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/march (2024-10-04 07:01 PM)
+            ☐ February 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/february (2024-12-17 07:11 PM)
+            ☐ January 2021 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2021/january (2025-01-07 07:53 PM)
+            ☐ December 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/december (2024-11-14 06:50 PM)
+            ☐ November 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/november (2025-01-13 07:27 PM)
+            ☐ October 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/october (2024-11-22 10:04 PM)
+            ☐ September 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/september (2024-11-08 11:21 PM)
+            ☐ August 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/august (2024-11-08 11:21 PM)
+            ☐ July 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/july (2024-11-14 06:50 PM)
+            ☐ June 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/june (2025-01-03 09:55 PM)
+            ☐ May 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/may (2024-10-02 06:26 PM)
+            ☐ April 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/april (2024-10-02 06:26 PM)
+            ☐ March 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/march (2024-10-02 06:26 PM)
+            ☐ February 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/february (2024-10-02 06:26 PM)
+            ☐ January 2020 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2020/january (2024-10-02 06:26 PM)
+            ☐ December 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/december (2024-10-02 06:26 PM)
+            ☐ November 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/november (2024-11-22 10:04 PM)
+            ☐ October 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/october (2024-10-02 06:26 PM)
+            ☐ September 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/september (2024-10-02 06:26 PM)
+            ☐ August 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/august (2024-08-29 06:25 PM)
+            ☐ July 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/july (2024-10-02 06:26 PM)
+            ☐ June 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/june (2024-10-02 06:26 PM)
+            ☐ May 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/may (2024-10-02 06:26 PM)
+            ☐ April 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/april (2025-01-13 07:27 PM)
+            ☐ March 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/march (2024-10-04 07:01 PM)
+            ☐ February 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/february (2024-12-19 06:46 PM)
+            ☐ January 2019 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2019/january (2024-10-02 06:26 PM)
+            ☐ December 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/december (2024-10-02 06:26 PM)
+            ☐ November 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/november (2024-10-02 06:26 PM)
+            ☐ October 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/october (2024-11-22 10:04 PM)
+            ☐ September 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/september (2024-06-14 09:41 PM)
+            ☐ August 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/august (2024-11-14 06:50 PM)
+            ☐ July 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/july (2024-11-22 10:04 PM)
+            ☐ June 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/june (2024-10-02 06:26 PM)
+            ☐ May 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/may (2025-01-13 07:27 PM)
+            ☐ April 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/april (2024-03-07 08:41 PM)
+            ☐ March 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/march (2024-11-15 07:10 PM)
+            ☐ February 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/february (2024-10-04 07:01 PM)
+            ☐ January 2018 https://learn.microsoft.com/en-us/azure/databricks/release-notes/product/2018/january (2024-10-04 07:01 PM)
+        ☐ Tag database objects https://learn.microsoft.com/en-us/azure/databricks/database-objects/tags (2025-01-22 07:51 PM)
+        ☐ Joins https://learn.microsoft.com/en-us/azure/databricks/transform/join (2025-01-22 07:51 PM)
+        ☐ Databricks Lakehouse Monitoring https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/ (2025-01-22 07:51 PM)
+        ☐ Create a monitor using the Databricks UI https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/create-monitor-ui (2025-01-22 07:51 PM)
+        ☐ Create a monitor using the API https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/create-monitor-api (2025-01-22 07:51 PM)
+        ☐ Monitor metric tables https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/monitor-output (2025-01-22 07:51 PM)
+        ☐ Use the monitor dashboard https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/monitor-dashboard (2025-01-22 07:51 PM)
+        ☐ Monitor alerts https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/monitor-alerts (2025-01-22 07:51 PM)
+        ☐ Use custom metrics https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/custom-metrics (2025-01-22 07:51 PM)
+        ☐ Monitor fairness and bias for classification models https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/fairness-bias (2025-01-22 07:51 PM)
+        ☐ View Lakehouse Monitoring expenses https://learn.microsoft.com/en-us/azure/databricks/lakehouse-monitoring/expense (2025-01-22 07:51 PM)
+            ☐ Run an evaluation https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/evaluate-agent (2025-01-22 07:51 PM)
+            ☐ Evaluation sets https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/evaluation-set (2025-01-07 07:53 PM)
+            ☐ Create synthetic evaluation sets https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/synthesize-evaluation-set (2024-12-30 06:49 PM)
+            ☐ LLM judges reference https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/llm-judge-reference (2025-01-22 07:51 PM)
+            ☐ Collect human feedback https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/human-evaluation (2024-12-17 03:52 PM)
+            ☐ Customize LLM judges https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/advanced-agent-eval (2025-01-22 07:51 PM)
+            ☐ Monitor agent quality in production https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/evaluating-production-traffic (2025-01-07 07:53 PM)
+            ☐ Troubleshoot evaluation https://learn.microsoft.com/en-us/azure/databricks/generative-ai/agent-evaluation/troubleshooting (2024-12-13 07:08 PM)
+                ☐ GraphFrames overview https://learn.microsoft.com/en-us/azure/databricks/integrations/graphframes/ (2024-10-14 06:43 PM)
+                ☐ GraphFrames - Scala https://learn.microsoft.com/en-us/azure/databricks/integrations/graphframes/user-guide-scala (2024-10-02 06:26 PM)
+            ☐ Use Genie to explore data https://learn.microsoft.com/en-us/azure/databricks/genie/talk-to-genie (2025-01-22 07:51 PM)
+        ☐ Notebooks overview https://learn.microsoft.com/en-us/azure/databricks/notebooks/ (2025-01-22 07:51 PM)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebooks-code (2025-01-22 07:51 PM)
+            ☐ Debug notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/debugger (2025-01-22 07:51 PM)
+            Use widgets in notebooks:
+                ☐ Databricks widgets https://learn.microsoft.com/en-us/azure/databricks/notebooks/widgets (2024-12-04 09:08 PM)
+                ☐ ipywidgets https://learn.microsoft.com/en-us/azure/databricks/notebooks/ipywidgets (2024-10-02 06:26 PM)
+            ☐ Unit testing https://learn.microsoft.com/en-us/azure/databricks/notebooks/testing (2025-01-22 07:51 PM)
+            ☐ Run notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/run-notebook (2025-01-22 07:51 PM)
+            ☐ Notebook compute https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-compute (2025-01-03 09:55 PM)
+        Collaborate using notebooks:
+            ☐ Collaborate using notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebooks-collaborate (2025-01-22 07:51 PM)
+            ☐ Dashboards https://learn.microsoft.com/en-us/azure/databricks/notebooks/dashboards (2024-10-24 07:01 PM)
+        Manage notebooks:
+            ☐ Manage notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebooks-manage (2025-01-15 06:00 AM)
+            ☐ Manage notebook format https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-format (2025-01-15 06:00 AM)
+            ☐ Export and import notebooks https://learn.microsoft.com/en-us/azure/databricks/notebooks/notebook-export-import (2025-01-15 11:05 PM)
+        ☐ Data skipping https://learn.microsoft.com/en-us/azure/databricks/delta/data-skipping (2025-01-22 07:51 PM)
+            ☐ Predictive optimization for Delta Lake https://learn.microsoft.com/en-us/azure/databricks/optimizations/predictive-optimization (2025-01-22 07:51 PM)
+            ☐ Low shuffle merge https://learn.microsoft.com/en-us/azure/databricks/optimizations/low-shuffle-merge (2025-01-22 07:51 PM)
+            ☐ Cost-based optimizer https://learn.microsoft.com/en-us/azure/databricks/optimizations/cbo (2025-01-22 07:51 PM)
+            ☐ Tools overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ (2025-01-22 07:51 PM)
+                ☐ Databricks ODBC driver https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/ (2024-11-25 09:19 PM)
+                ☐ Databricks JDBC driver https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/ (2024-11-25 09:19 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/dev-tools/ci-cd (2025-01-22 07:51 PM)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc-odbc-bi (2024-10-02 06:26 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/integrations/odbc/ (2024-10-02 06:26 PM)
+                ☐ Download and install https://learn.microsoft.com/en-us/azure/databricks/integrations/odbc/download (2024-10-02 06:26 PM)
+                ☐ Compute settings https://learn.microsoft.com/en-us/azure/databricks/integrations/odbc/compute (2024-10-02 06:26 PM)
+                ☐ Authentication settings https://learn.microsoft.com/en-us/azure/databricks/integrations/odbc/authentication (2024-11-15 07:10 PM)
+                ☐ Driver capability settings https://learn.microsoft.com/en-us/azure/databricks/integrations/odbc/capability (2024-10-02 06:26 PM)
+                ☐ Create a DSN https://learn.microsoft.com/en-us/azure/databricks/integrations/odbc/dsn (2024-10-02 06:26 PM)
+                ☐ Create a DSN-less connection string https://learn.microsoft.com/en-us/azure/databricks/integrations/odbc/dsn-less (2024-10-02 06:26 PM)
+                ☐ Files in Unity Catalog volumes https://learn.microsoft.com/en-us/azure/databricks/integrations/odbc/volumes (2024-10-02 06:26 PM)
+                ☐ Testing https://learn.microsoft.com/en-us/azure/databricks/integrations/odbc/testing (2024-10-02 06:26 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/ (2024-11-25 09:19 PM)
+                ☐ Download and reference https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/download (2024-10-02 06:26 PM)
+                ☐ Compute settings https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/compute (2024-10-02 06:26 PM)
+                ☐ Authentication settings https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/authentication (2024-12-11 06:37 PM)
+                ☐ Driver capability settings https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/capability (2024-10-02 06:26 PM)
+                ☐ Legacy driver settings https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/legacy (2024-12-11 06:37 PM)
+                ☐ Files in Unity Catalog volumes https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/volumes (2024-10-02 06:26 PM)
+                ☐ Testing https://learn.microsoft.com/en-us/azure/databricks/integrations/jdbc/testing (2024-10-02 06:26 PM)
+            ☐ Introduction to Databricks sign-on from partner solutions https://learn.microsoft.com/en-us/azure/databricks/integrations/configuration (2024-10-02 06:26 PM)
+            ☐ Enable or disable partner OAuth applications https://learn.microsoft.com/en-us/azure/databricks/integrations/enable-disable-oauth (2024-10-02 06:26 PM)
+            ☐ Configure Databricks sign-on from Tableau Server https://learn.microsoft.com/en-us/azure/databricks/integrations/configure-oauth-tableau (2024-10-02 06:26 PM)
+            ☐ Configure Databricks sign-on from dbt Core with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/databricks/integrations/configure-oauth-dbt (2024-10-02 06:26 PM)
+            ☐ Override partner OAuth token lifetime policy https://learn.microsoft.com/en-us/azure/databricks/integrations/manage-oauth (2024-12-26 06:38 PM)
+            ☐ Manage connections as an administrator https://learn.microsoft.com/en-us/azure/databricks/partner-connect/admin (2024-10-04 07:01 PM)
+            ☐ Troubleshoot connections https://learn.microsoft.com/en-us/azure/databricks/partner-connect/troubleshoot (2024-11-08 11:21 PM)
+                ☐ dbt Core tutorial https://learn.microsoft.com/en-us/azure/databricks/integrations/dbt-core-tutorial (2024-10-02 06:26 PM)
+        ☐ Connect to Databricks from Excel https://learn.microsoft.com/en-us/azure/databricks/integrations/excel (2024-12-17 07:11 PM)
+            ☐ Serverless quotas https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/serverless-quotas (2025-01-22 07:51 PM)
+            ☐ Audit log system table https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/audit-logs (2025-01-10 07:25 PM)
+                ☐ Billable usage system table https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/billing (2025-01-15 06:00 AM)
+                ☐ Pricing system table https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/pricing (2025-01-10 07:25 PM)
+                ☐ Monitor serverless billing https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/serverless-billing (2025-01-15 06:00 AM)
+                ☐ Monitor job costs & performance with system tables https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/jobs-cost (2024-12-10 07:28 PM)
+                ☐ Monitor model serving costs with system tables https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/model-serving-cost (2024-12-10 07:28 PM)
+            ☐ Data lineage system tables https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/lineage (2025-01-07 07:53 PM)
+            ☐ Marketplace system tables https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/marketplace (2025-01-10 07:25 PM)
+            ☐ Compute system tables https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/compute (2024-10-24 07:01 PM)
+            ☐ SQL warehouses system table https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/warehouses (2025-01-10 07:25 PM)
+            ☐ SQL warehouse events system table https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/warehouse-events (2024-10-18 11:58 PM)
+            ☐ Jobs system tables https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/jobs (2025-01-10 07:25 PM)
+            ☐ Query history system table https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/query-history (2025-01-09 09:40 PM)
+            ☐ Predictive optimization system table https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/predictive-optimization (2025-01-10 07:25 PM)
+            ☐ Databricks Assistant system table https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/assistant (2024-10-18 11:58 PM)
+            ☐ Clean room system table https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/clean-rooms (2025-01-15 06:00 AM)
+            ☐ Network access system table https://learn.microsoft.com/en-us/azure/databricks/admin/system-tables/outbound-network (2024-12-11 06:37 PM)
+            ☐ Diagnostic logs reference guide https://learn.microsoft.com/en-us/azure/databricks/admin/account-settings/audit-logs (2025-01-22 07:51 PM)
+            ☐ Monitor and manage access to personal access tokens https://learn.microsoft.com/en-us/azure/databricks/admin/access-control/tokens (2025-01-22 07:51 PM)
+                    ☐ IP access lists for workspaces https://learn.microsoft.com/en-us/azure/databricks/security/network/front-end/ip-access-list-workspace (2025-01-22 07:51 PM)
+                ☐ Peer virtual networks https://learn.microsoft.com/en-us/azure/databricks/security/network/classic/vnet-peering (2024-10-02 06:26 PM)
+                ☐ Deploy Azure Databricks in your VNet https://learn.microsoft.com/en-us/azure/databricks/security/network/classic/vnet-inject (2025-01-06 07:27 PM)
+                ☐ Connect a workspace to an on-premises network https://learn.microsoft.com/en-us/azure/databricks/security/network/classic/on-prem-network (2024-10-08 06:06 AM)
+                ☐ User-defined route settings https://learn.microsoft.com/en-us/azure/databricks/security/network/classic/udr (2024-10-02 06:26 PM)
+                ☐ Secure cluster connectivity https://learn.microsoft.com/en-us/azure/databricks/security/network/classic/secure-cluster-connectivity (2024-10-12 12:04 AM)
+                    ☐ Private Link overview https://learn.microsoft.com/en-us/azure/databricks/security/network/classic/private-link (2024-10-02 06:26 PM)
+                    ☐ Enable Azure Private Link as a standard deployment https://learn.microsoft.com/en-us/azure/databricks/security/network/classic/private-link-standard (2024-12-13 07:08 PM)
+                    ☐ Enable Azure Private Link as a simplified deployment https://learn.microsoft.com/en-us/azure/databricks/security/network/classic/private-link-simplified (2024-12-13 07:08 PM)
+                ☐ Compliance security profile overview https://learn.microsoft.com/en-us/azure/databricks/security/privacy/security-profile
+                    ☐ try_subtract function https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/functions/try_subtract (2025-01-22 07:51 PM)
+                ☐ CONSTRAINT_TABLE_USAGE https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/information-schema/constraint_table_usage (2025-01-22 07:51 PM)
+            ☐ ANALYZE TABLE https://learn.microsoft.com/en-us/azure/databricks/sql/language-manual/sql-ref-syntax-aux-analyze-table (2025-01-22 07:51 PM)
+        ☐ Limits https://learn.microsoft.com/en-us/azure/databricks/resources/limits (2025-01-22 07:51 PM)
+        ☐ Archived docs https://learn.microsoft.com/en-us/azure/databricks/archive/ (2025-01-22 07:51 PM)
 
