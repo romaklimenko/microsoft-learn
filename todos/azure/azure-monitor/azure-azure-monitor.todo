@@ -374,7 +374,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ✘ DCR Config Generator https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-data-collection-rule-generator (2024-11-14 11:04 PM) @cancelled
                     ☐ MMA removal tool https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-mma-removal-tool (2024-11-14 11:04 PM)
                     ☐ AMA data field differences from MMA https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-field-differences (2024-11-14 11:04 PM)
-                    ☐ Migration custom text log tables https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-custom-text-log-migration (2024-11-14 11:04 PM)
+                    ✘ Migration custom text log tables https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-custom-text-log-migration (2024-11-14 11:04 PM) @cancelled
                 ✘ Performance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-performance (2024-11-14 11:04 PM) @cancelled
                 ✘ FAQ https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview#frequently-asked-questions (2024-11-14 11:04 PM) @cancelled
                 Legacy agents:
@@ -590,8 +590,8 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Examples of metric charts https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metric-chart-samples (2024-09-11 04:50 PM)
             ✘ Troubleshooting metric charts https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-troubleshoot (2024-09-11 04:50 PM) @cancelled
         REST API for metrics:
-            ☐ Metrics REST API Walkthrough https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/rest-api-walkthrough (2024-09-11 04:50 PM)
-            ☐ Migrate to the metrics getBatch API https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/migrate-to-batch-api (2024-12-23 05:59 PM)
+            ✘ Metrics REST API Walkthrough https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/rest-api-walkthrough (2024-09-11 04:50 PM) @cancelled
+            ✘ Migrate to the metrics getBatch API https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/migrate-to-batch-api (2024-12-23 05:59 PM) @cancelled
         Log Analytics:
             ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-overview (2024-09-11 04:50 PM)
             ✘ Simple mode https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-simple-mode (2024-11-18 12:04 PM) @cancelled
@@ -870,7 +870,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Release and work item insights https://learn.microsoft.com/en-us/azure/azure-monitor/app/release-and-work-item-insights (2025-01-06 11:01 PM)
                     ☐ Default configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-default (2025-01-06 11:01 PM)
                     ☐ Send data to Event Hubs and Storage https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-send-data-to-event-hubs-and-storage (2025-01-06 05:31 AM)
-                    ☐ Migration guidance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration (2025-01-06 11:01 PM)
+                    ✘ Migration guidance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration (2025-01-06 11:01 PM) @cancelled
                 ☐ Connect Grafana to Azure Monitor Prometheus metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/prometheus-grafana (2025-01-06 12:05 PM)
                     ☐ Manage https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/azure-monitor-workspace-manage (2025-01-06 12:05 PM)
         ☐ Grafana https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/grafana-plugin (2025-01-06 12:05 PM)
@@ -882,13 +882,13 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ✘ ASP.NET on-premises agent https://learn.microsoft.com/en-us/azure/azure-monitor/app/application-insights-asp-net-agent (2025-01-09 06:00 PM) @cancelled
                 ✘ Troubleshoot VM performance issues https://learn.microsoft.com/troubleshoot/azure/virtual-machines/performance-diagnostics?toc=/azure/azure-monitor/toc.json (2025-01-09 10:01 AM) @cancelled
                 ✘ Requirements https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-requirements (2025-01-09 06:00 PM) @cancelled
-                    ☐ AMA migration helper workbook https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-helper-workbook (2024-11-14 11:04 PM)
-                    ☐ DCR Config Generator https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-data-collection-rule-generator (2024-11-14 11:04 PM)
+                    ✘ AMA migration helper workbook https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-helper-workbook (2024-11-14 11:04 PM) @cancelled
+                    ✘ DCR Config Generator https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-data-collection-rule-generator (2024-11-14 11:04 PM) @cancelled
             ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-platform-logs (2025-01-09 12:05 PM)
                 ☐ Customer-managed keys https://learn.microsoft.com/en-us/azure/azure-monitor/logs/customer-managed-keys (2025-01-08 06:00 PM)
             ☐ Customer-managed keys https://learn.microsoft.com/en-us/azure/azure-monitor/logs/customer-managed-keys (2025-01-08 06:00 PM)
             ✘ Create or edit an Azure workbook https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-create-workbook (2025-01-09 12:05 PM) @cancelled
-            ☐ Dashboard using log data https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/tutorial-logs-dashboards (2025-01-09 12:05 PM)
+            ✘ Dashboard using log data https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/tutorial-logs-dashboards (2025-01-09 12:05 PM) @cancelled
 
 
 ---
@@ -1011,4 +1011,14 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Filter logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-data-collection-filter (2025-01-21 11:01 PM)
                 ☐ Monitor Syslog https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-syslog (2025-01-22 12:25 PM)
                 ☐ Log Analytics Windows agent https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows-troubleshoot (2024-11-14 11:04 PM)
+
+
+---
+
+                    ☐ Configure JavaScript SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk-configuration (2025-01-07 06:02 PM)
+                    ☐ Migration guidance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration (2025-01-22 11:01 PM)
+                    ☐ Migration custom text log tables https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-custom-text-log-migration (2025-01-23 05:37 AM)
+            ☐ Dashboard using log data https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/tutorial-logs-dashboards (2025-01-23 06:02 PM)
+            ☐ Metrics REST API Walkthrough https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/rest-api-walkthrough (2025-01-23 12:07 PM)
+            ☐ Migrate to the metrics getBatch API https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/migrate-to-batch-api (2025-01-23 12:07 PM)
 

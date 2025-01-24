@@ -734,8 +734,8 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             Export to a storage account:
                 ☐ Export a snapshot as a VHD to a storage account - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/copy-snapshot-to-storage-account (2024-08-22 05:37 PM)
                 ☐ Export a managed disk as a VHD to a storage account - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/copy-managed-disks-vhd-to-storage-account (2024-08-22 05:37 PM)
-                ☐ Export a snapshot as a VHD to a storage account - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-copy-snapshot-to-storage-account (2024-08-23 04:58 PM)
-                ☐ Export a managed disk as a VHD to a storage account - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-copy-managed-disks-vhd (2024-08-23 04:58 PM)
+                ✘ Export a snapshot as a VHD to a storage account - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-copy-snapshot-to-storage-account (2024-08-23 04:58 PM) @cancelled
+                ✘ Export a managed disk as a VHD to a storage account - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-copy-managed-disks-vhd (2024-08-23 04:58 PM) @cancelled
             Download a VHD:
                 ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/download-vhd (2024-08-23 04:58 PM)
                 ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/download-vhd (2024-08-23 04:58 PM)
@@ -877,7 +877,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         Bastion:
             ☐ Overview https://learn.microsoft.com/azure/bastion/bastion-overview (2024-12-10 11:02 PM)
             Create a Bastion host:
-                ☐ Portal https://learn.microsoft.com/azure/bastion/tutorial-create-host-portal (2024-12-10 05:41 AM)
+                ✘ Portal https://learn.microsoft.com/azure/bastion/tutorial-create-host-portal (2024-12-10 05:41 AM) @cancelled
                 ☐ PowerShell https://learn.microsoft.com/azure/bastion/bastion-create-host-powershell (2024-08-22 07:16 PM)
                 ☐ CLI https://learn.microsoft.com/azure/bastion/create-host-cli (2024-08-22 07:16 PM)
                 ☐ Bastion SSH connection https://learn.microsoft.com/azure/bastion/bastion-connect-vm-ssh-linux (2024-10-29 05:34 AM)
@@ -1225,9 +1225,17 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 ---
 
             ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal (2025-01-22 06:02 PM)
-            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-22 12:36 PM)
+            ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-22 12:36 PM) @cancelled
         ☐ Disk types https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types (2025-01-22 05:31 AM)
             ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/expand-disks (2025-01-22 06:02 PM)
             ☐ Add public IP address to existing VM https://learn.microsoft.com/azure/virtual-network/ip-services/associate-public-ip-address-vm?toc=/azure/virtual-machines/toc.json (2025-01-22 06:07 PM)
         ☐ Tag a VM https://learn.microsoft.com/azure/azure-resource-manager/management/tag-resources (2025-01-22 11:02 PM)
+
+
+---
+
+            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-23 12:43 PM)
+                ☐ Export a snapshot as a VHD to a storage account - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-copy-snapshot-to-storage-account (2025-01-23 06:03 PM)
+                ☐ Export a managed disk as a VHD to a storage account - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-copy-managed-disks-vhd (2025-01-23 06:03 PM)
+                ☐ Portal https://learn.microsoft.com/azure/bastion/tutorial-create-host-portal (2025-01-23 05:38 AM)
 

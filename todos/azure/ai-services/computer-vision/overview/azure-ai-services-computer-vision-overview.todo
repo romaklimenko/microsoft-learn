@@ -9,7 +9,7 @@ What is Azure AI Vision? - Azure AI services | Microsoft Learn:
         ☐ Azure AI Vision FAQ https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/faq (2024-12-19 06:03 PM)
     Scenario deep-dives:
         ☐ Generate alt text for images https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/use-case-alt-text (2024-12-19 06:03 PM)
-        ☐ Verify a user https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/use-case-identity-verification (2024-08-28 04:59 PM)
+        ✘ Verify a user https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/use-case-identity-verification (2024-08-28 04:59 PM) @cancelled
         ☐ Monitor customer dwell time https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/use-case-dwell-time (2024-12-19 06:03 PM)
         ☐ Measure queue wait time https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/use-case-queue-time (2024-12-19 06:03 PM)
     Optical character recognition (OCR):
@@ -93,7 +93,7 @@ What is Azure AI Vision? - Azure AI services | Microsoft Learn:
                 ☐ Object detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-object-detection-40 (2024-11-20 10:59 PM)
                 ☐ Optical Character Recognition https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-ocr (2024-12-19 06:03 PM)
                 ☐ Smart-cropped thumbnails https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-generate-thumbnails-40 (2024-12-19 06:03 PM)
-                ☐ People detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-people-detection (2024-08-28 04:59 PM)
+                ✘ People detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-people-detection (2024-08-28 04:59 PM) @cancelled
                 ☐ Model customization https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-model-customization (2024-12-19 06:03 PM)
                 ☐ Product Recognition (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-shelf-analysis (2024-12-19 06:03 PM)
                 ☐ Multimodal embeddings https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-image-retrieval (2024-12-19 06:03 PM)
@@ -104,12 +104,12 @@ What is Azure AI Vision? - Azure AI services | Microsoft Learn:
                 ☐ Category taxonomy https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/category-taxonomy (2024-12-19 06:03 PM)
                 ☐ Image descriptions https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-describing-images (2024-12-19 06:03 PM)
                 ☐ Object detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-object-detection (2024-10-15 06:58 AM)
-                ☐ Brand detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-brand-detection (2024-11-20 10:59 PM)
-                ☐ Face detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-faces (2024-08-28 04:59 PM)
+                ✘ Brand detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-brand-detection (2024-11-20 10:59 PM) @cancelled
+                ✘ Face detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-faces (2024-08-28 04:59 PM) @cancelled
                 ☐ Image type detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-image-types (2024-12-19 06:03 PM)
                 ☐ Domain-specific content https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-domain-content (2024-12-19 06:03 PM)
-                ☐ Color scheme detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-color-schemes (2024-12-19 06:03 PM)
-                ☐ Adult content detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-adult-content (2024-12-19 06:03 PM)
+                ✘ Color scheme detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-color-schemes (2024-12-19 06:03 PM) @cancelled
+                ✘ Adult content detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-adult-content (2024-12-19 06:03 PM) @cancelled
                 ☐ Smart-cropped thumbnails https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-generating-thumbnails (2024-12-19 06:03 PM)
         Reference:
             Version 4.0:
@@ -133,27 +133,27 @@ What is Azure AI Vision? - Azure AI services | Microsoft Learn:
             ✘ Azure PowerShell https://learn.microsoft.com/powershell/module/azurerm.cognitiveservices/ (2019-01-19 01:40 AM) @cancelled
     Face:
         ✘ Face overview https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/overview-identity (2024-11-28 05:35 AM) @cancelled
-        ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/identity-quotas-limits (2024-11-28 05:35 AM)
+        ✘ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/identity-quotas-limits (2024-11-28 05:35 AM) @cancelled
         ☐ Pricing https://azure.microsoft.com/pricing/details/cognitive-services/face-api
-        ☐ Face quickstart https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/identity-client-library (2024-11-22 06:02 PM)
+        ✘ Face quickstart https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/identity-client-library (2024-11-22 06:02 PM) @cancelled
         Concepts:
             ☐ Face detection, attributes, and input data https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-face-detection (2024-11-22 06:02 PM)
             ☐ Face recognition https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-face-recognition (2024-11-22 06:02 PM)
-            ☐ Face recognition data structures https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-face-recognition-data-structures (2024-11-28 05:35 AM)
+            ✘ Face recognition data structures https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-face-recognition-data-structures (2024-11-28 05:35 AM) @cancelled
             ☐ Face liveness abuse monitoring https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-liveness-abuse-monitoring (2024-11-22 06:02 PM)
         How-to guides:
             Face detection, landmarks, and attributes:
-                ☐ Detect and analyze faces https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/identity-detect-faces (2024-11-22 06:02 PM)
-                ☐ Specify a face detection model version https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-detection-model (2024-11-22 06:02 PM)
+                ✘ Detect and analyze faces https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/identity-detect-faces (2024-11-22 06:02 PM) @cancelled
+                ✘ Specify a face detection model version https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-detection-model (2024-11-22 06:02 PM) @cancelled
                 ☐ Use the HeadPose attribute https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/use-headpose (2024-11-22 06:02 PM)
             Face recognition (limited access):
                 ✘ Specify a face recognition model version https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-recognition-model (2024-11-22 06:02 PM) @cancelled
-                ☐ Add faces to a PersonGroup https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/add-faces (2024-11-22 06:02 PM)
+                ✘ Add faces to a PersonGroup https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/add-faces (2024-11-22 06:02 PM) @cancelled
                 ☐ Use the PersonDirectory structure (preview) https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/use-persondirectory (2024-11-28 05:35 AM)
                 ☐ Scale to handle more enrolled users https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/use-large-scale (2024-11-28 05:35 AM)
-                ☐ Find similar faces https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/find-similar-faces (2024-11-22 06:02 PM)
+                ✘ Find similar faces https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/find-similar-faces (2024-11-22 06:02 PM) @cancelled
             Service management:
-                ☐ Mitigate latency and improve performance https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/mitigate-latency (2024-11-22 06:02 PM)
+                ✘ Mitigate latency and improve performance https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/mitigate-latency (2024-11-22 06:02 PM) @cancelled
                 ☐ Use limited access tokens https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/identity-access-token (2024-12-04 06:01 PM)
                 ☐ Use customer-managed keys https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/identity-encrypt-data-at-rest (2024-11-22 06:02 PM)
         Tutorials:
@@ -191,7 +191,7 @@ What is Azure AI Vision? - Azure AI services | Microsoft Learn:
                 ☐ Research insights https://learn.microsoft.com/legal/cognitive-services/computer-vision/research-insights?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
             ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/computer-vision/compliance-privacy-security-2?context=/azure/ai-services/computer-vision/context/context (2024-07-17 05:30 PM)
         How-to guides:
-            ☐ Call the Video Retrieval APIs https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/video-retrieval (2024-12-19 06:03 PM)
+            ✘ Call the Video Retrieval APIs https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/video-retrieval (2024-12-19 06:03 PM) @cancelled
             Use the Spatial Analysis container:
                 ☐ Set up the host machine and run the container https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-container (2024-12-19 06:03 PM)
                 ✘ Configure operations https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/spatial-analysis-operations (2024-12-19 06:03 PM) @cancelled
@@ -303,4 +303,24 @@ What is Azure AI Vision? - Azure AI services | Microsoft Learn:
 
                 ☐ Use container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe (2025-01-21 11:00 PM)
             ☐ Detect liveness in faces https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/tutorials/liveness (2025-01-22 06:02 PM)
+
+
+---
+
+        ☐ Verify a user https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/use-case-identity-verification (2025-01-23 12:06 PM)
+                ☐ People detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-people-detection (2025-01-23 12:06 PM)
+                ☐ Brand detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-brand-detection (2025-01-23 12:06 PM)
+                ☐ Face detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-faces (2025-01-23 12:06 PM)
+                ☐ Color scheme detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-color-schemes (2025-01-23 12:06 PM)
+                ☐ Adult content detection https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-detecting-adult-content (2025-01-23 12:06 PM)
+        ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/identity-quotas-limits (2025-01-23 12:06 PM)
+        ☐ Face quickstart https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/quickstarts-sdk/identity-client-library (2025-01-23 12:06 PM)
+            ☐ Face recognition data structures https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-face-recognition-data-structures (2025-01-23 12:06 PM)
+                ☐ Detect and analyze faces https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/identity-detect-faces (2025-01-23 12:06 PM)
+                ☐ Specify a face detection model version https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-detection-model (2025-01-23 12:06 PM)
+                ☐ Specify a face recognition model version https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/specify-recognition-model (2025-01-23 12:06 PM)
+                ☐ Add faces to a PersonGroup https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/add-faces (2025-01-23 12:06 PM)
+                ☐ Find similar faces https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/find-similar-faces (2025-01-23 12:06 PM)
+                ☐ Mitigate latency and improve performance https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/mitigate-latency (2025-01-23 12:06 PM)
+            ☐ Call the Video Retrieval APIs https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/how-to/video-retrieval (2025-01-23 12:06 PM)
 

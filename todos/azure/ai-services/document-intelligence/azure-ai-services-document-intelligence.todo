@@ -5,7 +5,7 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         ✘ What's new https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/whats-new (2024-12-18 06:01 PM) @cancelled
         ✘ Which model should I choose? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/choose-model-feature (2024-12-11 06:01 PM) @cancelled
         ☐ Create a Document Intelligence resource https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/create-document-intelligence-resource (2024-12-11 06:01 PM)
-        ☐ Document Intelligence Studio https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/studio-overview (2024-12-12 05:31 AM)
+        ✘ Document Intelligence Studio https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/studio-overview (2024-12-12 05:31 AM) @cancelled
         Language support:
             ☐ Document analysis models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/ocr?view=doc-intel-4.0.0&preserve-view=true (2024-12-11 06:01 PM)
             ✘ Prebuilt models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/prebuilt (2024-12-11 06:01 PM) @cancelled
@@ -30,7 +30,7 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         ☐ Health insurance card (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/health-insurance-card (2024-12-11 06:01 PM)
         ☐ ID document https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/id-document (2024-12-11 06:01 PM)
         ☐ Invoice https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/invoice (2024-12-11 06:01 PM)
-        ☐ Layout https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/layout (2024-12-11 06:01 PM)
+        ✘ Layout https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/layout (2024-12-11 06:01 PM) @cancelled
         ☐ Marriage certificate (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/marriage-certificate (2024-12-11 06:01 PM)
         ☐ Mortgage documents (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/mortgage-documents (2024-12-11 06:01 PM)
         ☐ Pay stub https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/pay-stub (2024-12-11 06:01 PM)
@@ -38,7 +38,7 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         ✘ Receipt https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/receipt (2024-12-11 06:01 PM) @cancelled
         ✘ Tax documents (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/tax-document (2024-12-12 05:31 AM) @cancelled
     Custom models:
-        ☐ Custom model overview https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-model (2024-12-11 06:01 PM)
+        ✘ Custom model overview https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-model (2024-12-11 06:01 PM) @cancelled
         ☐ Composed models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/composed-models (2024-12-12 05:31 AM)
         ☐ Incremental classifier https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/incremental-classifier (2024-12-11 06:01 PM)
         ☐ Custom template model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-template (2024-12-12 05:31 AM)
@@ -88,7 +88,7 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         ✘ Install and run containers https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/install-run (2024-12-11 06:01 PM) @cancelled
         ☐ Configure containers https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/configuration (2024-12-11 06:01 PM)
         ☐ Container image tags https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/image-tags (2024-12-11 06:01 PM)
-        ☐ Disconnected containers https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/disconnected (2024-12-11 06:01 PM)
+        ✘ Disconnected containers https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/disconnected (2024-12-11 06:01 PM) @cancelled
     Code samples:
         ☐ C#/.NET https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/.NET(v4.0)/README.md
         ☐ Java https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/Java(v4.0)/README.md
@@ -193,4 +193,15 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         ✔ Custom neural model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-neural (2025-01-15 11:02 PM) @done(25-01-18 22:09)
         ✔ Enhanced capabilities https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-add-on-capabilities (2025-01-16 05:32 AM) @done(25-01-18 22:10)
         ✔ Install and run containers https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/install-run (2025-01-15 11:02 PM) @done(25-01-18 22:11)
+
+
+---
+
+        ☐ What is Azure AI Document Intelligence? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/overview (2025-01-22 11:01 PM)
+        ☐ Document Intelligence Studio https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/studio-overview (2025-01-22 11:01 PM)
+        ☐ Service limits and billing https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/service-limits (2025-01-22 11:01 PM)
+        ☐ Layout https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/layout (2025-01-22 11:01 PM)
+        ☐ Custom model overview https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-model (2025-01-23 05:35 AM)
+        ☐ Install and run containers https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/install-run (2025-01-23 05:35 AM)
+        ☐ Disconnected containers https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/disconnected (2025-01-23 05:35 AM)
 

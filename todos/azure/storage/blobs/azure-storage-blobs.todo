@@ -2,7 +2,7 @@ Azure Blob Storage documentation | Microsoft Learn:
     ☐ Azure Blob Storage documentation https://learn.microsoft.com/en-us/azure/storage/blobs/ (2024-08-29 05:56 AM)
     Overview:
         ☐ What is Azure Blob Storage? https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview (2024-08-29 05:56 AM)
-        ☐ Compare core storage services https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-09-03 10:09 PM)
+        ✘ Compare core storage services https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-09-03 10:09 PM) @cancelled
         ✘ Blob Storage feature support https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts (2024-10-10 05:12 PM) @cancelled
     Blob Storage:
         Overview:
@@ -921,7 +921,7 @@ Azure Blob Storage documentation | Microsoft Learn:
 
 ---
 
-                ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support (2025-01-06 06:06 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support (2025-01-06 06:06 PM) @cancelled
             Blob index tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-manage-find-blobs (2025-01-05 12:12 PM):
             Lifecycle management policies https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-overview (2025-01-03 06:30 AM):
             ☐ Performance and scalability checklist https://learn.microsoft.com/en-us/azure/storage/blobs/storage-performance-checklist (2025-01-02 11:04 PM)
@@ -942,9 +942,9 @@ Azure Blob Storage documentation | Microsoft Learn:
 ---
 
                 ✘ Get started https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-09 12:11 PM) @cancelled
-                ☐ Enable or disable SFTP https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-how-to (2024-10-11 10:04 PM)
-                ☐ Authorize access https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-authorize-access (2024-10-16 10:05 PM)
-                ☐ Connect from an SFTP client https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-connect (2024-08-29 05:56 AM)
+                ✘ Enable or disable SFTP https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-how-to (2024-10-11 10:04 PM) @cancelled
+                ✘ Authorize access https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-authorize-access (2024-10-16 10:05 PM) @cancelled
+                ✘ Connect from an SFTP client https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-connect (2024-08-29 05:56 AM) @cancelled
                 ☐ Enable blob inventory reports https://learn.microsoft.com/en-us/azure/storage/blobs/blob-inventory-how-to (2025-01-09 05:32 AM)
                 ☐ Encryption at rest https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-09 06:03 PM)
                     ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-09 12:31 PM) @cancelled
@@ -1073,16 +1073,34 @@ Azure Blob Storage documentation | Microsoft Learn:
 
         ☐ Blob Storage feature support https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts (2025-01-22 11:02 PM)
         ☐ Troubleshooting https://learn.microsoft.com/troubleshoot/azure/azure-storage/welcome-azure-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-22 10:01 AM)
-                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-22 12:36 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-22 12:09 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-22 12:07 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-22 12:09 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-22 12:07 PM)
+                    ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-22 12:36 PM) @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-22 12:09 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-22 12:07 PM) @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-22 12:09 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-22 12:07 PM) @cancelled
             ☐ Blob Storage feature support https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts (2025-01-22 11:02 PM)
             ☐ Supported Blob Storage features https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts (2025-01-22 11:02 PM)
-                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-22 12:36 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-22 12:09 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-22 12:07 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-22 12:09 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-22 12:07 PM)
+                ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-22 12:36 PM) @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-22 12:09 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-22 12:07 PM) @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-22 12:09 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-22 12:07 PM) @cancelled
+
+
+---
+
+        ☐ Compare core storage services https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-23 06:04 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support (2025-01-23 06:04 PM)
+                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-23 12:43 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-23 12:08 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-23 12:08 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-23 12:08 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-23 12:08 PM)
+                ☐ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2025-01-23 12:08 PM)
+                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-23 12:43 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-23 12:08 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-23 12:08 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-23 12:08 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-23 12:08 PM)
+            ☐ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2025-01-23 12:08 PM)
 

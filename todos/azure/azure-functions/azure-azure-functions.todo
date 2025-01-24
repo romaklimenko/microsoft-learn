@@ -139,7 +139,7 @@ Azure Functions documentation | Microsoft Learn:
         ✘ Compare runtime versions https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions (2024-11-19 06:02 PM) @cancelled
         Hosting and scale:
             ☐ Consumption plan https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan (2024-05-21 03:00 PM)
-            ☐ Flex Consumption plan https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan (2024-11-21 11:02 PM)
+            ✘ Flex Consumption plan https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan (2024-11-21 11:02 PM) @cancelled
             ☐ Premium plan https://learn.microsoft.com/en-us/azure/azure-functions/functions-premium-plan (2024-09-13 10:05 PM)
             ☐ Dedicated plan https://learn.microsoft.com/en-us/azure/azure-functions/dedicated-plan (2024-12-03 11:07 PM)
             Container hosting:
@@ -268,7 +268,7 @@ Azure Functions documentation | Microsoft Learn:
             ☐ Configure monitoring https://learn.microsoft.com/en-us/azure/azure-functions/configure-monitoring (2024-12-03 11:07 PM)
             ☐ Analyze telemetry data https://learn.microsoft.com/en-us/azure/azure-functions/analyze-telemetry-data (2024-11-21 11:02 PM)
             ☐ Stream execution logs https://learn.microsoft.com/en-us/azure/azure-functions/streaming-logs (2024-11-06 12:14 PM)
-            ☐ Work with OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-functions/opentelemetry-howto (2024-12-03 11:07 PM)
+            ✘ Work with OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-functions/opentelemetry-howto (2024-12-03 11:07 PM) @cancelled
         Authenticate:
             Configure auth providers:
                 ☐ Authenticate with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad?toc=/azure/azure-functions/toc.json (2024-11-29 11:02 PM)
@@ -584,6 +584,13 @@ Azure Functions documentation | Microsoft Learn:
 
 ---
 
-        ☐ PowerShell https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell
+        ✘ PowerShell https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell @cancelled
             ☐ Run from package https://learn.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package (2025-01-21 11:02 PM)
+
+
+---
+
+            ☐ Flex Consumption plan https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan (2025-01-22 11:02 PM)
+        ☐ PowerShell https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell (2025-01-22 11:02 PM)
+            ☐ Work with OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-functions/opentelemetry-howto (2025-01-22 11:02 PM)
 

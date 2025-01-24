@@ -9,8 +9,8 @@ Azure AI Content Safety documentation - Quickstarts, Tutorials, API Reference - 
     Concepts:
         ☐ Prompt Shields https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/jailbreak-detection (2024-10-17 05:31 AM)
         ☐ Groundedness detection (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/groundedness (2024-10-17 05:31 AM)
-        ☐ Protected material detection (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/protected-material (2024-09-24 11:10 AM)
-        ☐ Custom categories (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/custom-categories (2024-10-30 05:35 AM)
+        ✘ Protected material detection (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/protected-material (2024-09-24 11:10 AM) @cancelled
+        ✘ Custom categories (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/custom-categories (2024-10-30 05:35 AM) @cancelled
         ☐ Harm categories https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/harm-categories (2024-10-17 05:31 AM)
     Quickstarts:
         ☐ Prompt Shields https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-jailbreak (2024-10-17 05:31 AM)
@@ -19,8 +19,8 @@ Azure AI Content Safety documentation - Quickstarts, Tutorials, API Reference - 
         ☐ Protected material detection for code (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-protected-material-code (2024-09-26 03:31 PM)
         ☐ Custom categories (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-custom-categories (2024-11-07 10:59 PM)
         ☐ Content Safety Studio https://learn.microsoft.com/en-us/azure/ai-services/content-safety/studio-quickstart (2024-10-14 09:59 PM)
-        ☐ Text moderation https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-text (2024-08-28 04:59 PM)
-        ☐ Image moderation https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-image (2024-08-28 04:59 PM)
+        ✘ Text moderation https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-text (2024-08-28 04:59 PM) @cancelled
+        ✘ Image moderation https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-image (2024-08-28 04:59 PM) @cancelled
         ☐ Multimodal moderation (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-multimodal (2024-09-24 11:10 AM)
     Samples:
         ☐ Azure AI Content Safety Python samples https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/contentsafety/azure-ai-contentsafety/samples
@@ -31,7 +31,7 @@ Azure AI Content Safety documentation - Quickstarts, Tutorials, API Reference - 
         ☐ Limited access https://learn.microsoft.com/en-us/azure/ai-services/content-safety/limited-access (2024-10-01 08:16 PM)
     How-to guides:
         ☐ Use custom categories (rapid) (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/custom-categories-rapid (2024-09-05 05:04 PM)
-        ☐ Use a blocklist https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/use-blocklist (2024-11-07 10:59 PM)
+        ✘ Use a blocklist https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/use-blocklist (2024-11-07 10:59 PM) @cancelled
         ☐ Mitigate false results https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/improve-performance (2024-11-26 06:02 PM)
         Containers (preview):
             ☐ Content Safety containers overview https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/containers/container-overview (2024-09-24 11:10 AM)
@@ -63,4 +63,14 @@ Azure AI Content Safety documentation - Quickstarts, Tutorials, API Reference - 
 ---
 
         ✔ Response codes https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/response-codes (2025-01-08 05:31 AM) @done(25-01-09 21:31)
+
+
+---
+
+        ☐ Protected material detection (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/protected-material (2025-01-23 12:06 PM)
+        ☐ Custom categories (preview) https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/custom-categories (2025-01-23 12:06 PM)
+        ☐ Text moderation https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-text (2025-01-23 12:06 PM)
+        ☐ Image moderation https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-image (2025-01-23 12:06 PM)
+        ☐ Use a blocklist https://learn.microsoft.com/en-us/azure/ai-services/content-safety/how-to/use-blocklist (2025-01-23 12:06 PM)
+        ☐ Response codes https://learn.microsoft.com/en-us/azure/ai-services/content-safety/concepts/response-codes (2025-01-23 12:06 PM)
 
