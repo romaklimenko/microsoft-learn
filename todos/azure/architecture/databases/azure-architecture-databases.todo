@@ -52,7 +52,7 @@ Databases architecture design - Azure Reference Architectures | Microsoft Learn:
         Apply guidance:
             Databases:
                 NoSQL:
-                    ☐ Use the Transactional Outbox pattern https://learn.microsoft.com/en-us/azure/architecture/databases/guide/transactional-outbox-cosmos (2024-09-12 04:46 PM)
+                    ✘ Use the Transactional Outbox pattern https://learn.microsoft.com/en-us/azure/architecture/databases/guide/transactional-outbox-cosmos (2024-09-12 04:46 PM) @cancelled
                     ☐ Run Apache Cassandra https://learn.microsoft.com/en-us/azure/architecture/databases/guide/cassandra (2024-11-21 06:31 PM)
                 Hybrid:
                     ☐ Extend on-premises data solutions to Azure https://learn.microsoft.com/en-us/azure/architecture/databases/guide/hybrid-on-premises-and-cloud (2024-09-12 04:46 PM)
@@ -62,4 +62,9 @@ Databases architecture design - Azure Reference Architectures | Microsoft Learn:
                 ☐ Data obfuscation with Delphix https://learn.microsoft.com/en-us/azure/architecture/databases/guide/data-obfuscation-with-delphix-in-azure-data-factory (2024-09-13 05:10 PM)
                 ☐ Data scrambling for SAP with Delphix https://learn.microsoft.com/en-us/azure/architecture/databases/guide/data-scrambling-for-sap-using-delphix-and-azure-data-factory (2024-09-13 05:10 PM)
                 ☐ Collection structure for a federated Purview catalog https://learn.microsoft.com/en-us/azure/architecture/guide/data/collection-structure-federated-catalog (2024-09-12 04:46 PM)
+
+
+---
+
+                    ☐ Use the Transactional Outbox pattern https://learn.microsoft.com/en-us/azure/architecture/databases/guide/transactional-outbox-cosmos (2025-01-24 06:30 PM)
 

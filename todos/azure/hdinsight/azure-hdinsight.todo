@@ -5,7 +5,7 @@ Azure HDInsight | Microsoft Learn:
             ☐ What is Azure HDInsight? https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-overview (2024-08-02 11:27 AM)
             ☐ Before you start https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-overview-before-you-start (2024-10-17 11:18 AM)
         Tutorials:
-            ☐ Create HDInsight clusters https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-provision-linux-clusters (2024-09-19 06:07 PM)
+            ✘ Create HDInsight clusters https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-provision-linux-clusters (2024-09-19 06:07 PM) @cancelled
             ☐ Manage HDInsight clusters - Portal https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-administer-use-portal-linux (2024-09-11 06:38 PM)
             ☐ Manage HDInsight clusters - CLI https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-administer-use-command-line (2024-12-02 06:04 PM)
             ☐ Manage HDInsight clusters - .NET SDK https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-administer-use-dotnet-sdk (2024-12-02 06:04 PM)
@@ -59,7 +59,7 @@ Azure HDInsight | Microsoft Learn:
                 ☐ Use Data Lake Storage Gen2 https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-use-data-lake-storage-gen2 (2024-08-02 11:27 AM)
                 ☐ Use Data Lake Storage Gen2 in the portal https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-use-data-lake-storage-gen2-portal (2024-09-06 05:09 PM)
                 ☐ Use Data Lake Storage Gen2 with Azure CLI https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-use-data-lake-storage-gen2-azure-cli (2024-08-02 11:27 AM)
-                ☐ Configure blob storage as primary storage in Azure HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/configure-azure-blob-storage (2024-12-12 05:33 AM)
+                ✘ Configure blob storage as primary storage in Azure HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/configure-azure-blob-storage (2024-12-12 05:33 AM) @cancelled
             Extend clusters:
                 ☐ Install HDInsight apps https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-apps-install-applications (2024-12-02 06:04 PM)
                 ☐ Customize clusters using Bootstrap https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-customize-cluster-bootstrap (2024-12-02 06:04 PM)
@@ -118,8 +118,8 @@ Azure HDInsight | Microsoft Learn:
                 Autoscale:
                     ☐ Autoscale clusters https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-autoscale-clusters (2024-08-02 11:27 AM)
                     ☐ Custom configure Autoscale https://learn.microsoft.com/en-us/azure/hdinsight/how-to-custom-configure-hdinsight-autoscale (2024-08-02 11:27 AM)
-                ☐ Use external metadata stores https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-use-external-metadata-stores (2024-08-02 11:27 AM)
-                ☐ Custom Ambari DB https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-custom-ambari-db (2024-09-06 05:09 PM)
+                ✘ Use external metadata stores https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-use-external-metadata-stores (2024-08-02 11:27 AM) @cancelled
+                ✘ Custom Ambari DB https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-custom-ambari-db (2024-09-06 05:09 PM) @cancelled
                 ✘ Manage logs for a HDInsight cluster https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-log-management (2024-09-23 10:04 PM) @cancelled
                 ☐ Add storage accounts https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-add-storage (2024-08-02 11:27 AM)
                 ☐ Update storage account access key https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-rotate-storage-keys (2024-08-07 10:04 PM)
@@ -604,7 +604,7 @@ Azure HDInsight | Microsoft Learn:
             ☐ Azure CLI https://learn.microsoft.com/cli/azure/hdinsight (2025-01-14 11:00 PM)
             ✘ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2025-01-15 12:27 PM) @cancelled
             ✘ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-15 12:08 PM) @cancelled
-                ☐ Archived release notes for Azure HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes-archive (2024-12-30 06:35 PM)
+                ✘ Archived release notes for Azure HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes-archive (2024-12-30 06:35 PM) @cancelled
 
 
 ---
@@ -630,6 +630,19 @@ Azure HDInsight | Microsoft Learn:
 ---
 
                     ☐ Component version validation error in ARM templates https://learn.microsoft.com/en-us/azure/hdinsight/component-version-validation-error-arm-templates (2025-01-23 06:04 PM)
-            ☐ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2025-01-23 12:43 PM)
-            ☐ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-23 12:08 PM)
+            ✘ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2025-01-23 12:43 PM) @cancelled
+            ✘ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-23 12:08 PM) @cancelled
+
+
+---
+
+            ☐ Create HDInsight clusters https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-provision-linux-clusters (2025-01-24 12:09 PM)
+                ☐ Configure blob storage as primary storage in Azure HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/configure-azure-blob-storage (2025-01-24 12:09 PM)
+                ☐ Use Managed Identity for SQL Database authentication in Azure HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/use-managed-identity-for-sql-database-authentication-in-azure-hdinsight (2025-01-24 06:02 PM)
+                ☐ Use external metadata stores https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-use-external-metadata-stores (2025-01-24 12:09 PM)
+                ☐ Custom Ambari DB https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-custom-ambari-db (2025-01-24 12:09 PM)
+            ☐ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2025-01-24 12:40 PM)
+            ☐ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-24 12:06 PM)
+                ☐ Release notes https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes (2025-01-24 06:02 PM)
+                ☐ Archived release notes for Azure HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes-archive (2025-01-24 12:09 PM)
 

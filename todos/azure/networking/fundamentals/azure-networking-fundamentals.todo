@@ -15,7 +15,7 @@ Azure Networking Fundamentals Documentation | Microsoft Learn:
         Plan and design:
             ☐ Azure for network engineers https://learn.microsoft.com/en-us/azure/networking/azure-for-network-engineers?toc=/azure/networking/fundamentals/toc.json (2024-08-08 05:34 AM)
             ✘ Working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/networking/fundamentals/toc.json (2024-09-06 10:05 PM) @cancelled
-            ☐ Virtual networks https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm?toc=/azure/networking/fundamentals/toc.json (2024-11-22 11:02 PM)
+            ✘ Virtual networks https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm?toc=/azure/networking/fundamentals/toc.json (2024-11-22 11:02 PM) @cancelled
             ☐ Hub-spoke network topology in Azure https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?toc=/azure/networking/fundamentals/toc.json (2024-09-12 04:46 PM)
             Cross-premises connectivity - VPN:
                 ✘ VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/design?toc=/azure/networking/fundamentals/toc.json (2024-12-04 05:32 AM) @cancelled
@@ -26,7 +26,7 @@ Azure Networking Fundamentals Documentation | Microsoft Learn:
             ☐ Azure network latency https://learn.microsoft.com/en-us/azure/networking/azure-network-latency?toc=/azure/networking/fundamentals/toc.json (2024-11-11 11:02 PM)
             ✘ Internet routing preference in Azure https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/routing-preference-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-06 06:02 PM) @cancelled
         Cloud network connectivity:
-            ☐ Virtual network https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=/azure/networking/fundamentals/toc.json (2024-09-19 06:07 PM)
+            ✘ Virtual network https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=/azure/networking/fundamentals/toc.json (2024-09-19 06:07 PM) @cancelled
             ✘ Public IP address https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/networking/fundamentals/toc.json (2024-11-22 05:58 AM) @cancelled
             ☐ DNS https://learn.microsoft.com/en-us/azure/dns/dns-overview?toc=/azure/networking/fundamentals/toc.json (2024-09-17 10:04 PM)
             ✘ Route network traffic https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview?toc=/azure/networking/fundamentals/toc.json (2024-11-19 06:02 PM) @cancelled
@@ -35,7 +35,7 @@ Azure Networking Fundamentals Documentation | Microsoft Learn:
                 ☐ Virtual network manager https://learn.microsoft.com/en-us/azure/virtual-network-manager/overview?toc=/azure/networking/fundamentals/toc.json (2024-11-07 11:02 PM)
             ✘ Private access to resources https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-05 05:33 AM) @cancelled
             Connect on-premises to Azure - VPN encryption:
-                ☐ VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways?toc=/azure/networking/fundamentals/toc.json (2024-12-10 11:02 PM)
+                ✘ VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways?toc=/azure/networking/fundamentals/toc.json (2024-12-10 11:02 PM) @cancelled
                 ☐ Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about?toc=/azure/networking/fundamentals/toc.json (2024-12-10 11:02 PM)
             ☐ Extend on-premises to Azure - private connection https://learn.microsoft.com/en-us/azure/expressroute/expressroute-connect-azure-to-public-cloud?toc=/azure/networking/fundamentals/toc.json (2024-09-06 05:33 AM)
             ✘ Outbound-only internet connectivity https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-overview?toc=/azure/networking/fundamentals/toc.json (2024-10-22 05:31 AM) @cancelled
@@ -74,7 +74,7 @@ Azure Networking Fundamentals Documentation | Microsoft Learn:
         Secure your network:
             ☐ Restrict network access https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources?toc=/azure/networking/fundamentals/toc.json (2024-10-24 05:04 PM)
             ☐ Filter network traffic https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic?toc=/azure/networking/fundamentals/toc.json (2024-10-24 05:04 PM)
-            ☐ Deploy a network firewall https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal?toc=/azure/networking/fundamentals/toc.json (2024-08-02 05:06 PM)
+            ✘ Deploy a network firewall https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal?toc=/azure/networking/fundamentals/toc.json (2024-08-02 05:06 PM) @cancelled
             ☐ Protect your network against DDoS attacks https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection?toc=/azure/networking/fundamentals/toc.json (2024-12-11 05:32 AM)
         Scale your application delivery:
             ☐ Create a network load balancer https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?toc=/azure/networking/fundamentals/toc.json (2024-11-22 05:58 AM)
@@ -109,12 +109,12 @@ Azure Networking Fundamentals Documentation | Microsoft Learn:
             ☐ Working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/networking/fundamentals/toc.json (2024-12-30 11:05 PM)
             ☐ Cross-premises connectivity - dedicated private https://learn.microsoft.com/en-us/azure/expressroute/expressroute-workflows?toc=/azure/networking/fundamentals/toc.json (2024-12-30 11:05 PM)
             ☐ Internet routing preference in Azure https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/routing-preference-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-31 12:14 PM)
-            ☐ Public IP address https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/networking/fundamentals/toc.json (2024-12-31 12:14 PM)
-            ☐ Route network traffic https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-31 12:14 PM)
+            ✘ Public IP address https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/networking/fundamentals/toc.json (2024-12-31 12:14 PM) @cancelled
+            ✘ Route network traffic https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-31 12:14 PM) @cancelled
                 ☐ Virtual network peering https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-31 12:14 PM)
-            ☐ Private access to resources https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-30 11:05 PM)
+            ✘ Private access to resources https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-30 11:05 PM) @cancelled
             ✘ Outbound-only internet connectivity https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-30 11:05 PM) @cancelled
-            ☐ Private Endpoint https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-30 11:05 PM)
+            ✘ Private Endpoint https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-30 11:05 PM) @cancelled
         ☐ Lumenisity UoS Patents https://learn.microsoft.com/en-us/azure/networking/fundamentals/lumenisity-patent-list (2024-12-30 11:05 PM)
 
 
@@ -135,7 +135,7 @@ Azure Networking Fundamentals Documentation | Microsoft Learn:
 
 ---
 
-                ☐ VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/design?toc=/azure/networking/fundamentals/toc.json (2025-01-16 06:09 AM)
+                ✘ VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/design?toc=/azure/networking/fundamentals/toc.json (2025-01-16 06:09 AM) @cancelled
             ☐ Network security groups https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview?toc=/azure/networking/fundamentals/toc.json (2025-01-16 11:03 PM)
             ☐ Connect on-premises network to a virtual network - VPN encryption https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?toc=/azure/networking/fundamentals/toc.json (2025-01-15 11:02 PM)
             ☐ Cross-premises connectivity - dedicated https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager?toc=/azure/networking/fundamentals/toc.json (2025-01-15 11:02 PM)
@@ -145,4 +145,17 @@ Azure Networking Fundamentals Documentation | Microsoft Learn:
 ---
 
             ✔ Azure Firewall https://learn.microsoft.com/en-us/azure/firewall/overview?toc=/azure/networking/fundamentals/toc.json (2025-01-21 06:09 PM) @done(25-01-22 21:42)
+
+
+---
+
+            ☐ Virtual networks https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm?toc=/azure/networking/fundamentals/toc.json (2025-01-24 05:34 AM)
+                ☐ VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/design?toc=/azure/networking/fundamentals/toc.json (2025-01-24 05:34 AM)
+            ☐ Virtual network https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=/azure/networking/fundamentals/toc.json (2025-01-24 05:34 AM)
+            ☐ Public IP address https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/networking/fundamentals/toc.json (2025-01-24 05:34 AM)
+            ☐ Route network traffic https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview?toc=/azure/networking/fundamentals/toc.json (2025-01-24 05:34 AM)
+            ☐ Private access to resources https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/fundamentals/toc.json (2025-01-24 05:34 AM)
+                ☐ VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways?toc=/azure/networking/fundamentals/toc.json (2025-01-24 05:34 AM)
+            ☐ Private Endpoint https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/fundamentals/toc.json (2025-01-24 05:34 AM)
+            ☐ Deploy a network firewall https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal?toc=/azure/networking/fundamentals/toc.json (2025-01-24 06:02 PM)
 

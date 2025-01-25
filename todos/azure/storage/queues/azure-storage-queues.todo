@@ -89,7 +89,7 @@ Azure Queue storage documentation | Microsoft Learn:
                             ☐ Configure customer-managed keys for a new account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-cross-tenant-new-account?toc=/azure/storage/queues/toc.json (2024-08-07 10:04 PM)
                             ☐ Configure customer-managed keys for an existing account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-cross-tenant-existing-account?toc=/azure/storage/queues/toc.json (2024-08-07 10:04 PM)
                     ☐ Configure customer-managed keys in a managed HSM https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-key-vault-hsm?toc=/azure/storage/queues/toc.json (2024-08-07 10:04 PM)
-                ☐ Enable infrastructure encryption for the account https://learn.microsoft.com/en-us/azure/storage/common/infrastructure-encryption-enable?toc=/azure/storage/queues/toc.json (2024-06-06 05:44 AM)
+                ✘ Enable infrastructure encryption for the account https://learn.microsoft.com/en-us/azure/storage/common/infrastructure-encryption-enable?toc=/azure/storage/queues/toc.json (2024-06-06 05:44 AM) @cancelled
             ☐ Configure client-side encryption https://learn.microsoft.com/en-us/azure/storage/queues/client-side-encryption (2024-09-10 10:03 PM)
             Configure network security:
                 ☐ Configure firewalls and virtual networks https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=/azure/storage/queues/toc.json (2024-12-17 06:04 PM)
@@ -333,9 +333,21 @@ Azure Queue storage documentation | Microsoft Learn:
 
 ---
 
-            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-23 12:43 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-23 12:08 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-23 12:08 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-23 12:08 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-23 12:08 PM)
+            ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-23 12:43 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-23 12:08 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-23 12:08 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-23 12:08 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-23 12:08 PM) @cancelled
+
+
+---
+
+        Authorization https://learn.microsoft.com/en-us/azure/storage/common/authorize-data-access?toc=/azure/storage/queues/toc.json (2025-01-24 06:02 PM):
+            Authorizing data operations https://learn.microsoft.com/en-us/azure/storage/common/authorize-data-access?toc=/azure/storage/blobs/toc.json (2025-01-24 06:02 PM):
+                ☐ Enable infrastructure encryption for the account https://learn.microsoft.com/en-us/azure/storage/common/infrastructure-encryption-enable?toc=/azure/storage/queues/toc.json (2025-01-24 05:34 AM)
+            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-24 12:40 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-24 12:06 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-24 12:11 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-24 12:06 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-24 12:11 PM)
 

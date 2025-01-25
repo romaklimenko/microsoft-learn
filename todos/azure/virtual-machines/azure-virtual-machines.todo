@@ -464,7 +464,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ✘ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-hybrid-benefit-linux (2024-12-20 10:58 PM) @cancelled
             ✘ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hybrid-use-benefit-licensing (2024-12-03 05:31 AM) @cancelled
         Reserved instances:
-            ☐ What are Azure reservations? https://learn.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?toc=/azure/virtual-machines/toc.json (2024-12-08 12:09 PM)
+            ✘ What are Azure reservations? https://learn.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?toc=/azure/virtual-machines/toc.json (2024-12-08 12:09 PM) @cancelled
             ✘ Prepay for VMs https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-reserved-vm-instances (2024-08-22 05:37 PM) @cancelled
             ☐ Prepay for Dedicated Hosts https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-dedicated-hosts-reserved-instances (2024-08-22 05:37 PM)
             ☐ VM instance size flexibility https://learn.microsoft.com/en-us/azure/virtual-machines/reserved-vm-instance-size-flexibility (2024-08-22 05:37 PM)
@@ -507,7 +507,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                 ☐ Connect to a Linux VM https://learn.microsoft.com/en-us/azure/virtual-machines/linux-vm-connect (2024-10-16 10:01 PM)
                 ☐ Create and manage SSH keys locally https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-keys-detailed (2024-10-17 05:31 AM)
                 ☐ Create and manage SSH keys in the portal https://learn.microsoft.com/en-us/azure/virtual-machines/ssh-keys-portal (2024-10-16 10:01 PM)
-                ☐ Create and manage SSH keys with the Azure CLI https://learn.microsoft.com/en-us/azure/virtual-machines/ssh-keys-azure-cli (2024-10-17 05:31 AM)
+                ✘ Create and manage SSH keys with the Azure CLI https://learn.microsoft.com/en-us/azure/virtual-machines/ssh-keys-azure-cli (2024-10-17 05:31 AM) @cancelled
                 ☐ SSH on Linux or macOS https://learn.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys (2024-10-16 10:01 PM)
                 ☐ SSH on Windows https://learn.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows (2024-10-16 10:01 PM)
                 ☐ Remote Desktop for Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/use-remote-desktop (2024-08-26 09:59 PM)
@@ -940,7 +940,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                 ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-config-management (2024-08-22 05:37 PM)
     Monitoring:
         ✘ Monitor Virtual Machines https://learn.microsoft.com/en-us/azure/virtual-machines/monitor-vm?toc=/azure/virtual-machines/toc.json (2024-08-22 05:37 PM) @cancelled
-        ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/virtual-machines/monitor-vm-reference?toc=/azure/virtual-machines/toc.json (2024-09-23 10:01 PM)
+        ✘ Monitoring data reference https://learn.microsoft.com/en-us/azure/virtual-machines/monitor-vm-reference?toc=/azure/virtual-machines/toc.json (2024-09-23 10:01 PM) @cancelled
         ☐ Monitoring VMs with Prometheus https://learn.microsoft.com/azure/azure-monitor/essentials/prometheus-remote-write-virtual-machines?toc=/azure/virtual-machines/toc.json (2024-12-23 05:59 PM)
         ☐ Availability with Resource Graph https://learn.microsoft.com/en-us/azure/virtual-machines/resource-graph-availability (2024-08-22 05:37 PM)
         VM watch:
@@ -1057,7 +1057,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2024-12-27 02:31 AM) @cancelled
         ☐ Ubuntu https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/canonical/ubuntu-pro-in-place-upgrade (2024-12-27 12:21 PM)
             ✘ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-hybrid-benefit-linux (2024-12-27 06:02 PM) @cancelled
-            ☐ Change disk types https://learn.microsoft.com/en-us/azure/virtual-machines/disks-convert-types (2024-12-26 11:00 PM)
+            ✘ Change disk types https://learn.microsoft.com/en-us/azure/virtual-machines/disks-convert-types (2024-12-26 11:00 PM) @cancelled
         ✘ Virtual machine network throughput https://learn.microsoft.com/azure/virtual-network/virtual-machine-network-throughput?toc=/azure/virtual-machines/toc.json (2024-12-27 12:22 PM) @cancelled
 
 
@@ -1069,7 +1069,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 
 ---
 
-        ☐ Overview https://learn.microsoft.com/azure/virtual-network/network-overview?toc=/azure/virtual-machines/toc.json (2024-12-31 12:14 PM)
+        ✘ Overview https://learn.microsoft.com/azure/virtual-network/network-overview?toc=/azure/virtual-machines/toc.json (2024-12-31 12:14 PM) @cancelled
         ✘ Best practices https://learn.microsoft.com/azure/virtual-network/concepts-and-best-practices (2024-12-31 12:14 PM) @cancelled
         ☐ Virtual machine network throughput https://learn.microsoft.com/azure/virtual-network/virtual-machine-network-throughput?toc=/azure/virtual-machines/toc.json (2024-12-31 12:14 PM)
             ✘ Migrate AWS VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2024-12-31 12:14 PM) @cancelled
@@ -1112,7 +1112,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             Azure CLI https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-cli?toc=/azure/virtual-machines/toc.json (2025-01-08 05:33 AM):
         ✘ Just-in-time access https://learn.microsoft.com/azure/security-center/security-center-just-in-time (2025-01-07 11:01 PM) @cancelled
             ✘ Overview https://learn.microsoft.com/azure/site-recovery/site-recovery-overview?toc=/azure/virtual-machines/toc.json (2025-01-09 06:03 PM) @cancelled
-            ☐ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2025-01-08 06:02 PM)
+            ✘ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2025-01-08 06:02 PM) @cancelled
 
 
 ---
@@ -1171,7 +1171,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                 ☐ PowerShell and CLI https://learn.microsoft.com/en-us/azure/virtual-machines/move-virtual-machines-regional-zonal-powershell (2025-01-17 12:05 PM)
         ☐ Understand VM reboots https://learn.microsoft.com/en-us/azure/virtual-machines/understand-vm-reboots (2025-01-15 11:00 PM)
                 ☐ Server-side encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption (2025-01-17 05:34 AM)
-            ☐ Disk performance tiers https://learn.microsoft.com/en-us/azure/virtual-machines/disks-change-performance (2025-01-16 05:32 AM)
+            ✘ Disk performance tiers https://learn.microsoft.com/en-us/azure/virtual-machines/disks-change-performance (2025-01-16 05:32 AM) @cancelled
             ☐ Change disk performance tier https://learn.microsoft.com/en-us/azure/virtual-machines/disks-performance-tiers (2025-01-16 05:32 AM)
                 ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/migrate-to-premium-storage-using-azure-site-recovery (2025-01-17 12:05 PM)
             ☐ Migrate to Managed Disks https://learn.microsoft.com/en-us/azure/virtual-machines/windows/migrate-to-managed-disks (2025-01-17 12:05 PM)
@@ -1196,9 +1196,9 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 ---
 
             ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-20 12:33 PM) @cancelled
-                ☐ Azure Monitor agent https://learn.microsoft.com/azure/azure-monitor/agents/azure-monitor-agent-manage?toc=/azure/virtual-machines/toc.json (2025-01-19 12:15 PM)
+                ✘ Azure Monitor agent https://learn.microsoft.com/azure/azure-monitor/agents/azure-monitor-agent-manage?toc=/azure/virtual-machines/toc.json (2025-01-19 12:15 PM) @cancelled
             ✘ Overview https://learn.microsoft.com/azure/reliability/availability-zones-overview?toc=/azure/virtual-machines/toc.json (2025-01-20 12:13 AM) @cancelled
-        ☐ Reliability in Virtual Machines https://learn.microsoft.com/azure/reliability/reliability-virtual-machines?toc=/azure/virtual-machines/toc.json&bc=/azure/virtual-machines/breadcrumb/toc.json (2025-01-20 12:13 AM)
+        ✘ Reliability in Virtual Machines https://learn.microsoft.com/azure/reliability/reliability-virtual-machines?toc=/azure/virtual-machines/toc.json&bc=/azure/virtual-machines/breadcrumb/toc.json (2025-01-20 12:13 AM) @cancelled
 
 
 ---
@@ -1219,7 +1219,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ☐ Restore options https://learn.microsoft.com/azure/backup/backup-azure-arm-restore-vms?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
             ☐ Support matrix https://learn.microsoft.com/azure/backup/backup-support-matrix-iaas?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
             ☐ Pricing https://learn.microsoft.com/azure/backup/azure-backup-pricing?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
-            ☐ FAQ https://learn.microsoft.com/azure/backup/backup-azure-vm-backup-faq?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
+            ✘ FAQ https://learn.microsoft.com/azure/backup/backup-azure-vm-backup-faq?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM) @cancelled
 
 
 ---
@@ -1234,8 +1234,23 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 
 ---
 
-            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-23 12:43 PM)
+            ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-23 12:43 PM) @cancelled
                 ☐ Export a snapshot as a VHD to a storage account - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-copy-snapshot-to-storage-account (2025-01-23 06:03 PM)
                 ☐ Export a managed disk as a VHD to a storage account - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-copy-managed-disks-vhd (2025-01-23 06:03 PM)
                 ☐ Portal https://learn.microsoft.com/azure/bastion/tutorial-create-host-portal (2025-01-23 05:38 AM)
+
+
+---
+
+            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-24 12:40 PM)
+            ☐ What are Azure reservations? https://learn.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?toc=/azure/virtual-machines/toc.json (2025-01-23 11:10 PM)
+                ☐ Create and manage SSH keys with the Azure CLI https://learn.microsoft.com/en-us/azure/virtual-machines/ssh-keys-azure-cli (2025-01-23 11:02 PM)
+                ☐ Azure Monitor agent https://learn.microsoft.com/azure/azure-monitor/agents/azure-monitor-agent-manage?toc=/azure/virtual-machines/toc.json (2025-01-23 11:03 PM)
+            ☐ Disk performance tiers https://learn.microsoft.com/en-us/azure/virtual-machines/disks-change-performance (2025-01-23 11:02 PM)
+            ☐ Change disk types https://learn.microsoft.com/en-us/azure/virtual-machines/disks-convert-types (2025-01-24 05:33 AM)
+        ☐ Overview https://learn.microsoft.com/azure/virtual-network/network-overview?toc=/azure/virtual-machines/toc.json (2025-01-24 05:34 AM)
+        ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/virtual-machines/monitor-vm-reference?toc=/azure/virtual-machines/toc.json (2025-01-24 06:01 PM)
+        ☐ Reliability in Virtual Machines https://learn.microsoft.com/azure/reliability/reliability-virtual-machines?toc=/azure/virtual-machines/toc.json&bc=/azure/virtual-machines/breadcrumb/toc.json (2025-01-24 05:34 AM)
+            ☐ FAQ https://learn.microsoft.com/azure/backup/backup-azure-vm-backup-faq?toc=/azure/virtual-machines/toc.json (2025-01-24 05:34 AM)
+            ☐ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2025-01-24 05:34 AM)
 

@@ -68,7 +68,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ✘ Bare-metal Kubernetes at the edge https://learn.microsoft.com/en-us/azure/architecture/guide/operator-guides/aks/choose-bare-metal-kubernetes (2024-09-09 10:27 PM) @cancelled
             Choose a hybrid service:
                 ✘ Hybrid options https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/hybrid-considerations (2024-09-09 10:27 PM) @cancelled
-                ☐ Compare Azure Stack Hub and Azure https://learn.microsoft.com/azure-stack/user/azure-stack-considerations (2024-02-01 10:55 PM)
+                ✘ Compare Azure Stack Hub and Azure https://learn.microsoft.com/azure-stack/user/azure-stack-considerations (2024-02-01 10:55 PM) @cancelled
                 ✘ Compare Azure, Stack Hub, and Stack HCI https://learn.microsoft.com/azure-stack/operator/compare-azure-azure-stack (2024-11-19 01:46 PM) @cancelled
                 ✘ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2024-11-20 06:02 PM) @cancelled
                 ✘ Compare Stack HCI and Windows Server https://learn.microsoft.com/azure-stack/hci/concepts/compare-windows-server (2024-11-19 01:46 PM) @cancelled
@@ -578,7 +578,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ Hybrid app design considerations https://learn.microsoft.com/hybrid/app-solutions/overview-app-design-considerations (2022-11-09 06:00 PM)
                 Technology choices:
                     ✘ Azure hybrid options https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/hybrid-considerations (2024-09-09 10:27 PM) @cancelled
-                    ☐ Compare Azure Stack Hub and Azure https://learn.microsoft.com/azure-stack/user/azure-stack-considerations (2024-02-01 10:55 PM)
+                    ✘ Compare Azure Stack Hub and Azure https://learn.microsoft.com/azure-stack/user/azure-stack-considerations (2024-02-01 10:55 PM) @cancelled
                     ✘ Compare Azure, Stack Hub, Stack HCI https://learn.microsoft.com/azure-stack/operator/compare-azure-azure-stack (2024-11-19 01:46 PM) @cancelled
                     ✘ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2024-11-20 06:02 PM) @cancelled
                     ✘ Compare Stack HCI to Windows Server https://learn.microsoft.com/azure-stack/hci/concepts/compare-windows-server (2024-11-19 01:46 PM) @cancelled
@@ -948,7 +948,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Security controls by Azure Policy https://learn.microsoft.com/azure/data-lake-store/security-controls-policy (2024-02-05 05:18 PM)
                 File storage guidance:
                     ☐ Planning for deployment https://learn.microsoft.com/azure/storage/files/storage-files-planning (2024-10-22 05:31 AM)
-                    ☐ Identity-based authentication https://learn.microsoft.com/azure/storage/files/storage-files-active-directory-overview (2024-10-22 05:31 AM)
+                    ✘ Identity-based authentication https://learn.microsoft.com/azure/storage/files/storage-files-active-directory-overview (2024-10-22 05:31 AM) @cancelled
                     ☐ Networking considerations https://learn.microsoft.com/azure/storage/files/storage-files-networking-overview (2024-05-10 10:14 PM)
                     ✘ Disaster recovery and failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2024-11-22 05:58 AM) @cancelled
                     ✘ File share backup https://learn.microsoft.com/azure/backup/azure-file-share-backup-overview (2024-11-20 12:17 PM) @cancelled
@@ -1837,8 +1837,16 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
 ---
 
                 ☐ Compare Stack HCI and Windows Server https://learn.microsoft.com/azure-stack/hci/concepts/compare-windows-server (2025-01-23 06:02 PM)
-        ☐ Sequential Convoy https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/sequential-convoy
+        ✘ Sequential Convoy https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/sequential-convoy @cancelled
                     ☐ Compare Stack HCI to Windows Server https://learn.microsoft.com/azure-stack/hci/concepts/compare-windows-server (2025-01-23 06:02 PM)
                     ☐ App Service on Azure Arc https://learn.microsoft.com/azure/app-service/overview-arc-integration (2025-01-22 11:02 PM)
                     ☐ Govern AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/govern (2025-01-23 06:01 PM)
+
+
+---
+
+                ☐ Compare Azure Stack Hub and Azure https://learn.microsoft.com/azure-stack/user/azure-stack-considerations (2025-01-23 11:02 PM)
+        ☐ Sequential Convoy https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/sequential-convoy (2024-09-09 10:27 PM)
+                    ☐ Compare Azure Stack Hub and Azure https://learn.microsoft.com/azure-stack/user/azure-stack-considerations (2025-01-23 11:02 PM)
+                    ☐ Identity-based authentication https://learn.microsoft.com/azure/storage/files/storage-files-active-directory-overview (2025-01-24 06:02 PM)
 

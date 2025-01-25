@@ -417,148 +417,340 @@ Power Query documentation - Power Query | Microsoft Learn:
 
     Power Query documentation https://learn.microsoft.com/en-us/power-query/ (2025-01-23 11:01 PM):
             ☐ Use Power Query to transform data https://learn.microsoft.com/en-us/power-query/power-query-ui (2025-01-23 11:01 PM)
-            ☐ Access database https://learn.microsoft.com/en-us/power-query/connectors/access-database (2024-12-18 11:02 PM)
-            ☐ Active Directory https://learn.microsoft.com/en-us/power-query/connectors/active-directory (2024-12-18 11:02 PM)
-            ☐ Adobe Analytics https://learn.microsoft.com/en-us/power-query/connectors/adobe-analytics (2024-12-18 11:02 PM)
-            ☐ Amazon Athena https://learn.microsoft.com/en-us/power-query/connectors/amazon-athena (2024-12-18 11:02 PM)
-            ☐ Amazon OpenSearch Service (Beta) https://learn.microsoft.com/en-us/power-query/connectors/amazon-opensearch-service (2024-12-18 11:02 PM)
-            ☐ Amazon Redshift https://learn.microsoft.com/en-us/power-query/connectors/amazon-redshift (2024-12-18 11:02 PM)
-            ☐ Anaplan https://learn.microsoft.com/en-us/power-query/connectors/anaplan (2024-12-18 11:02 PM)
-            ☐ AssembleViews https://learn.microsoft.com/en-us/power-query/connectors/assemble-views (2024-12-18 11:02 PM)
-            ☐ Autodesk Construction Cloud https://learn.microsoft.com/en-us/power-query/connectors/autodesk-construction-cloud (2024-12-18 11:02 PM)
-            ☐ Automy Data Analytics (Beta) https://learn.microsoft.com/en-us/power-query/connectors/automy-data-analytics (2024-12-18 11:02 PM)
-            ☐ Azure Analysis Services database https://learn.microsoft.com/en-us/power-query/connectors/azure-analysis-services (2024-12-18 11:02 PM)
-            ☐ Azure Blob Storage https://learn.microsoft.com/en-us/power-query/connectors/azure-blob-storage (2024-12-18 11:02 PM)
-            ☐ Azure Cosmos DB v2 (Beta) https://learn.microsoft.com/en-us/power-query/connectors/azure-cosmos-db-v2 (2024-12-18 11:02 PM)
-            ☐ Azure Cost Management https://learn.microsoft.com/en-us/power-query/connectors/azure-cost-management (2024-12-18 11:02 PM)
-            ☐ Azure Databricks https://learn.microsoft.com/en-us/power-query/connectors/databricks-azure (2024-12-18 11:02 PM)
-            ☐ Azure Data Explorer (Kusto) https://learn.microsoft.com/en-us/power-query/connectors/azure-data-explorer (2024-12-18 11:02 PM)
-            ☐ Azure Data Lake Storage Gen1 https://learn.microsoft.com/en-us/power-query/connectors/azure-data-lake-storage-gen1 (2024-12-18 11:02 PM)
-                ☐ Connect to ADLS Gen2 https://learn.microsoft.com/en-us/power-query/connectors/data-lake-storage (2024-12-18 11:02 PM)
-                ☐ Analyze ADLS Gen2 data https://learn.microsoft.com/en-us/power-query/connectors/analyze-data-in-adls-gen2 (2024-12-18 11:02 PM)
-            ☐ Azure HDInsight https://learn.microsoft.com/en-us/power-query/connectors/azure-hdinsight (2024-12-18 11:02 PM)
-            ☐ Azure HDInsight on AKS Trino (Beta) (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/azure-hdinsight-on-aks-trino (2024-12-18 11:02 PM)
-            ☐ Azure SQL database https://learn.microsoft.com/en-us/power-query/connectors/azure-sql-database (2024-12-18 11:02 PM)
-            ☐ Azure Resource Graph https://learn.microsoft.com/en-us/power-query/connectors/azure-resource-graph (2024-12-18 11:02 PM)
-            ☐ Azure Synapse Analytics (SQL DW) https://learn.microsoft.com/en-us/power-query/connectors/azure-sql-data-warehouse (2024-12-18 11:02 PM)
-            ☐ Azure Synapse Analytics workspace (Beta) https://learn.microsoft.com/en-us/power-query/connectors/synapse (2024-12-18 11:02 PM)
-            ☐ Azure Table Storage https://learn.microsoft.com/en-us/power-query/connectors/azure-table-storage (2024-12-18 11:02 PM)
-            ☐ Bitsight Security Ratings https://learn.microsoft.com/en-us/power-query/connectors/bitsight-security-ratings (2024-12-18 11:02 PM)
-            ☐ Bloomberg Data and Analytics https://learn.microsoft.com/en-us/power-query/connectors/bloomberg-data-and-analytics (2024-12-18 11:02 PM)
-            ☐ BQE Core https://learn.microsoft.com/en-us/power-query/connectors/bqecore (2024-12-18 11:02 PM)
-            ☐ BuildingConnected (Beta) https://learn.microsoft.com/en-us/power-query/connectors/buildingconnected (2024-12-18 11:02 PM)
-            ☐ CData Connect Cloud https://learn.microsoft.com/en-us/power-query/connectors/cdata-connect-cloud (2024-12-18 11:02 PM)
-            ☐ Celonis EMS https://learn.microsoft.com/en-us/power-query/connectors/celonis-ems (2024-12-18 11:02 PM)
-            ☐ CloudBluePSA (Beta) https://learn.microsoft.com/en-us/power-query/connectors/cloudbluepsa (2024-12-18 11:02 PM)
-            ☐ Common Data Service (Legacy) https://learn.microsoft.com/en-us/power-query/connectors/common-data-service-legacy (2024-12-18 11:02 PM)
-            ☐ ClickHouse (Beta) https://learn.microsoft.com/en-us/power-query/connectors/clickhouse (2024-12-18 11:02 PM)
-            ☐ Databricks https://learn.microsoft.com/en-us/power-query/connectors/databricks (2025-01-06 11:02 PM)
-            ☐ Dataverse https://learn.microsoft.com/en-us/power-query/connectors/dataverse (2024-12-18 11:02 PM)
-            ☐ Dataflows https://learn.microsoft.com/en-us/power-query/connectors/dataflows (2024-12-18 11:02 PM)
-            ☐ Delta Sharing https://learn.microsoft.com/en-us/power-query/connectors/delta-sharing (2024-12-18 11:02 PM)
-            ☐ Denodo https://learn.microsoft.com/en-us/power-query/connectors/denodo (2024-12-18 11:02 PM)
-            ☐ Digital Construction Works Insights (Beta) https://learn.microsoft.com/en-us/power-query/connectors/digital-construction-works-insights (2024-12-18 11:02 PM)
-            ☐ Dynamics 365 Online (legacy) https://learn.microsoft.com/en-us/power-query/connectors/dynamics-365-online (2024-12-18 11:02 PM)
-            ☐ Eduframe (Beta) https://learn.microsoft.com/en-us/power-query/connectors/eduframe (2024-12-18 11:02 PM)
-            ☐ Emplifi Metrics (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/emplifi-metrics (2024-12-18 11:02 PM)
-            ☐ EQuIS https://learn.microsoft.com/en-us/power-query/connectors/equis (2024-12-18 11:02 PM)
-            ☐ Essbase https://learn.microsoft.com/en-us/power-query/connectors/essbase (2024-12-18 11:02 PM)
-            ☐ Exact Online Premium https://learn.microsoft.com/en-us/power-query/connectors/exact-online-premium (2024-12-18 11:02 PM)
-            ☐ Excel https://learn.microsoft.com/en-us/power-query/connectors/excel (2024-12-18 11:02 PM)
-            ☐ FactSet RMS (Beta) https://learn.microsoft.com/en-us/power-query/connectors/factset-rms (2024-12-18 11:02 PM)
-                ☐ Connect to FHIR https://learn.microsoft.com/en-us/power-query/connectors/fhir/fhir (2024-12-18 11:02 PM)
-                ☐ Authentication https://learn.microsoft.com/en-us/power-query/connectors/fhir/fhir-authentication (2024-12-18 11:02 PM)
-                ☐ Query folding https://learn.microsoft.com/en-us/power-query/connectors/fhir/fhir-query-folding (2024-12-18 11:02 PM)
-                ☐ Query folding patterns https://learn.microsoft.com/en-us/power-query/connectors/fhir/fhir-query-folding-patterns (2024-12-18 11:02 PM)
-                ☐ Data relationships https://learn.microsoft.com/en-us/power-query/connectors/fhir/fhir-relationships (2024-12-18 11:02 PM)
-            ☐ Folder https://learn.microsoft.com/en-us/power-query/connectors/folder (2024-12-18 11:02 PM)
-            ☐ Funnel https://learn.microsoft.com/en-us/power-query/connectors/funnel (2024-12-18 11:02 PM)
-            ☐ Google Analytics https://learn.microsoft.com/en-us/power-query/connectors/google-analytics (2024-12-18 11:02 PM)
-            ☐ Google BigQuery https://learn.microsoft.com/en-us/power-query/connectors/google-bigquery (2024-12-18 11:02 PM)
-            ☐ Google BigQuery (Microsoft Entra ID) https://learn.microsoft.com/en-us/power-query/connectors/google-bigquery-aad (2024-12-18 11:02 PM)
-            ☐ Google Sheets https://learn.microsoft.com/en-us/power-query/connectors/google-sheets (2024-12-18 11:02 PM)
-            ☐ Hadoop File (HDFS) https://learn.microsoft.com/en-us/power-query/connectors/hadoop-file-system (2024-12-18 11:02 PM)
-            ☐ Hive LLAP https://learn.microsoft.com/en-us/power-query/connectors/hive-llap (2024-12-18 11:02 PM)
-            ☐ IBM Db2 database https://learn.microsoft.com/en-us/power-query/connectors/ibm-db2-database (2024-12-18 11:02 PM)
-            ☐ Impala database https://learn.microsoft.com/en-us/power-query/connectors/impala-database (2024-12-18 11:02 PM)
-            ☐ Intersystems Health Insight https://learn.microsoft.com/en-us/power-query/connectors/intersystems-healthinsight (2024-12-18 11:02 PM)
-            ☐ inwink (Beta) https://learn.microsoft.com/en-us/power-query/connectors/inwink (2024-12-18 11:02 PM)
-            ☐ JSON https://learn.microsoft.com/en-us/power-query/connectors/json (2024-12-18 11:02 PM)
-            ☐ KQL database https://learn.microsoft.com/en-us/power-query/connectors/kql-database (2024-12-18 11:02 PM)
-            ☐ Kyvos ODBC (Beta) https://learn.microsoft.com/en-us/power-query/connectors/kyvos-odbc (2024-12-18 11:02 PM)
-            ☐ Lakehouse (Beta) https://learn.microsoft.com/en-us/power-query/connectors/lakehouse (2024-12-18 11:02 PM)
-            ☐ LinkedIn Learning https://learn.microsoft.com/en-us/power-query/connectors/linkedin-learning (2024-12-18 11:02 PM)
-            ☐ LEAP (Beta) https://learn.microsoft.com/en-us/power-query/connectors/leap (2024-12-18 11:02 PM)
-            ☐ LinkedIn Sales Navigator (Beta) https://learn.microsoft.com/en-us/power-query/connectors/linkedin-sales-navigator (2024-12-18 11:02 PM)
-            ☐ Mailchimp (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/mailchimp (2024-12-18 11:02 PM)
-            ☐ Microsoft Azure Consumption Insights (Beta) (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/microsoft-azure-consumption-insights (2024-12-18 11:02 PM)
-            ☐ Microsoft Exchange https://learn.microsoft.com/en-us/power-query/connectors/microsoft-exchange (2024-12-18 11:02 PM)
-            ☐ Microsoft Exchange Online https://learn.microsoft.com/en-us/power-query/connectors/microsoft-exchange-online (2024-12-18 11:02 PM)
-            ☐ Microsoft Graph Security (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/microsoft-graph-security (2024-12-18 11:02 PM)
-            ☐ MicroStrategy for Power BI https://learn.microsoft.com/en-us/power-query/connectors/microstrategy-for-power-bi (2024-12-18 11:02 PM)
-            ☐ MongoDB Atlas SQL interface https://learn.microsoft.com/en-us/power-query/connectors/mongodb-atlas-sql-interface (2024-12-18 11:02 PM)
-            ☐ MySQL database https://learn.microsoft.com/en-us/power-query/connectors/mysql-database (2024-12-18 11:02 PM)
-                ☐ Connect to an OData Feed https://learn.microsoft.com/en-us/power-query/connectors/odata-feed (2024-12-18 11:02 PM)
-            ☐ ODBC https://learn.microsoft.com/en-us/power-query/connectors/odbc (2024-12-18 11:02 PM)
-            ☐ OLE DB https://learn.microsoft.com/en-us/power-query/connectors/ole-db (2024-12-18 11:02 PM)
-            ☐ OneStream (Beta) https://learn.microsoft.com/en-us/power-query/connectors/onestream (2024-12-18 11:02 PM)
-            ☐ OpenSearch Project (Beta) https://learn.microsoft.com/en-us/power-query/connectors/opensearch-project (2024-12-18 11:02 PM)
-            ☐ Oracle database https://learn.microsoft.com/en-us/power-query/connectors/oracle-database (2024-12-18 11:02 PM)
-            ☐ Palantir Foundry https://learn.microsoft.com/en-us/power-query/connectors/palantir-foundry-datasets (2024-12-18 11:02 PM)
-            ☐ Parquet https://learn.microsoft.com/en-us/power-query/connectors/parquet (2024-12-18 11:02 PM)
-            ☐ PDF https://learn.microsoft.com/en-us/power-query/connectors/pdf (2024-12-18 11:02 PM)
-            ☐ Planview OKR (Beta) https://learn.microsoft.com/en-us/power-query/connectors/planview-okr (2024-12-18 11:02 PM)
-            ☐ PostgreSQL https://learn.microsoft.com/en-us/power-query/connectors/postgresql (2024-12-18 11:02 PM)
-            ☐ Profisee https://learn.microsoft.com/en-us/power-query/connectors/profisee (2024-12-18 11:02 PM)
-            ☐ QuickBooks Online (Beta) https://learn.microsoft.com/en-us/power-query/connectors/quickbooks-online (2024-12-18 11:02 PM)
-            ☐ Salesforce Objects https://learn.microsoft.com/en-us/power-query/connectors/salesforce-objects (2024-12-18 11:02 PM)
-            ☐ Salesforce Reports https://learn.microsoft.com/en-us/power-query/connectors/salesforce-reports (2024-12-18 11:02 PM)
-            ☐ Samsara https://learn.microsoft.com/en-us/power-query/connectors/samsara (2024-12-18 11:02 PM)
-                ☐ Connect to an SAP Business Warehouse Application Server https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/application-setup-and-connect (2024-12-18 11:02 PM)
-                ☐ Connect to an SAP Business Warehouse Message Server https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/message-setup-and-connect (2024-12-18 11:02 PM)
-                ☐ SAP BW fundamentals https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/sap-bw-fundamentals (2024-12-18 11:02 PM)
-                ☐ Navigate the query objects https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/navigate-query-objects (2024-12-18 11:02 PM)
-                ☐ Transform and filter an SAP BW data set https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/transform-filter-sap-bw-data (2024-12-18 11:02 PM)
-                ☐ Implementation details https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/implementation-details (2024-12-18 11:02 PM)
-                ☐ Import vs. DirectQuery for SAP BW https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/import-vs-directquery (2024-12-18 11:02 PM)
-                ☐ Windows authentication and single sign-on https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/single-sign-on (2024-12-18 11:02 PM)
-                ☐ Use advanced options https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/use-advanced-options (2024-12-18 11:02 PM)
-                ☐ SAP BW connector troubleshooting https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/sap-bw-troubleshooting (2024-12-18 11:02 PM)
-                ☐ Connect to an SAP HANA database https://learn.microsoft.com/en-us/power-query/connectors/sap-hana/overview (2024-12-18 11:02 PM)
-                ☐ SAP HANA encryption https://learn.microsoft.com/en-us/power-query/connectors/sap-hana/sap-hana-encryption (2024-12-18 11:02 PM)
-                ☐ Configure ODBC for SAP HANA https://learn.microsoft.com/en-us/power-query/connectors/sap-hana/configure-odbc-sap-hana (2024-12-18 11:02 PM)
-                ☐ Troubleshooting https://learn.microsoft.com/en-us/power-query/connectors/sap-hana/sap-hana-troubleshooting (2024-12-18 11:02 PM)
-            ☐ SharePoint folder https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-folder (2024-12-18 11:02 PM)
-            ☐ SharePoint list https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-list (2024-12-18 11:02 PM)
-            ☐ SharePoint Online list https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-online-list (2024-12-18 11:02 PM)
-            ☐ SingleStore https://learn.microsoft.com/en-us/power-query/connectors/singlestore (2024-12-18 11:02 PM)
-            ☐ SIS-CC SDMX (Beta) https://learn.microsoft.com/en-us/power-query/connectors/sis-cc-sdmx (2024-12-18 11:02 PM)
-            ☐ Smartsheet (Beta) https://learn.microsoft.com/en-us/power-query/connectors/smartsheet (2024-12-18 11:02 PM)
-            ☐ Snowflake https://learn.microsoft.com/en-us/power-query/connectors/snowflake (2025-01-15 05:01 PM)
-            ☐ Socialbakers Metrics (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/socialbakers (2024-12-18 11:02 PM)
-            ☐ SoftOne BI (Beta) https://learn.microsoft.com/en-us/power-query/connectors/softone-bi (2024-12-18 11:02 PM)
-            ☐ SolarWinds Service Desk https://learn.microsoft.com/en-us/power-query/connectors/solarwinds-service-desk (2024-12-18 11:02 PM)
-            ☐ SQL Server Analysis Services database https://learn.microsoft.com/en-us/power-query/connectors/sql-server-analysis-services (2024-12-18 11:02 PM)
-            ☐ SQL Server database https://learn.microsoft.com/en-us/power-query/connectors/sql-server (2024-12-18 11:02 PM)
-            ☐ Stripe (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/stripe (2024-12-18 11:02 PM)
-            ☐ SumTotal https://learn.microsoft.com/en-us/power-query/connectors/sumtotal (2024-12-18 11:02 PM)
-            ☐ Supermetrics https://learn.microsoft.com/en-us/power-query/connectors/supermetrics (2024-12-18 11:02 PM)
-            ☐ Sybase database https://learn.microsoft.com/en-us/power-query/connectors/sybase-database (2024-12-18 11:02 PM)
-            ☐ Teradata database https://learn.microsoft.com/en-us/power-query/connectors/teradata (2024-12-18 11:02 PM)
-            ☐ Text/CSV https://learn.microsoft.com/en-us/power-query/connectors/text-csv (2024-12-18 11:02 PM)
-            ☐ TIBCO(R) Data Virtualization https://learn.microsoft.com/en-us/power-query/connectors/tibco (2024-12-18 11:02 PM)
-            ☐ Twilio (Beta) (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/twilio (2024-12-18 11:02 PM)
-            ☐ Usercube (Beta) https://learn.microsoft.com/en-us/power-query/connectors/usercube (2024-12-18 11:02 PM)
-            ☐ Vessel Insight https://learn.microsoft.com/en-us/power-query/connectors/vessel-insight (2024-12-18 11:02 PM)
-            ☐ Warehouse (Beta) https://learn.microsoft.com/en-us/power-query/connectors/warehouse (2024-12-18 11:02 PM)
-                ☐ Connect to Web data https://learn.microsoft.com/en-us/power-query/connectors/web/web (2024-12-18 11:02 PM)
-                ☐ Web by example https://learn.microsoft.com/en-us/power-query/connectors/web/web-by-example (2024-12-18 11:02 PM)
-                ☐ Troubleshooting https://learn.microsoft.com/en-us/power-query/connectors/web/web-troubleshoot (2024-12-18 11:02 PM)
-            ☐ Windsor (Beta) https://learn.microsoft.com/en-us/power-query/connectors/windsor (2024-12-18 11:02 PM)
-            ☐ Wolters Kluwer CCH Tagetik https://learn.microsoft.com/en-us/power-query/connectors/wolters-kluwer-cch-tagetik (2024-12-18 11:02 PM)
-            ☐ Workforce Dimensions (Beta) (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/workforce-dimensions (2024-12-18 11:02 PM)
-            ☐ XML https://learn.microsoft.com/en-us/power-query/connectors/xml (2024-12-18 11:02 PM)
-            ☐ Zendesk (Beta) https://learn.microsoft.com/en-us/power-query/connectors/zendesk (2024-12-18 11:02 PM)
-            ☐ Zendesk Data (Beta) https://learn.microsoft.com/en-us/power-query/connectors/zendesk-data (2024-12-18 11:02 PM)
-            ☐ Connector support and feedback https://learn.microsoft.com/en-us/power-query/connectors/connector-feedback (2024-12-18 11:02 PM)
+            ✘ Access database https://learn.microsoft.com/en-us/power-query/connectors/access-database (2024-12-18 11:02 PM) @cancelled
+            ✘ Active Directory https://learn.microsoft.com/en-us/power-query/connectors/active-directory (2024-12-18 11:02 PM) @cancelled
+            ✘ Adobe Analytics https://learn.microsoft.com/en-us/power-query/connectors/adobe-analytics (2024-12-18 11:02 PM) @cancelled
+            ✘ Amazon Athena https://learn.microsoft.com/en-us/power-query/connectors/amazon-athena (2024-12-18 11:02 PM) @cancelled
+            ✘ Amazon OpenSearch Service (Beta) https://learn.microsoft.com/en-us/power-query/connectors/amazon-opensearch-service (2024-12-18 11:02 PM) @cancelled
+            ✘ Amazon Redshift https://learn.microsoft.com/en-us/power-query/connectors/amazon-redshift (2024-12-18 11:02 PM) @cancelled
+            ✘ Anaplan https://learn.microsoft.com/en-us/power-query/connectors/anaplan (2024-12-18 11:02 PM) @cancelled
+            ✘ AssembleViews https://learn.microsoft.com/en-us/power-query/connectors/assemble-views (2024-12-18 11:02 PM) @cancelled
+            ✘ Autodesk Construction Cloud https://learn.microsoft.com/en-us/power-query/connectors/autodesk-construction-cloud (2024-12-18 11:02 PM) @cancelled
+            ✘ Automy Data Analytics (Beta) https://learn.microsoft.com/en-us/power-query/connectors/automy-data-analytics (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure Analysis Services database https://learn.microsoft.com/en-us/power-query/connectors/azure-analysis-services (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure Blob Storage https://learn.microsoft.com/en-us/power-query/connectors/azure-blob-storage (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure Cosmos DB v2 (Beta) https://learn.microsoft.com/en-us/power-query/connectors/azure-cosmos-db-v2 (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure Cost Management https://learn.microsoft.com/en-us/power-query/connectors/azure-cost-management (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure Databricks https://learn.microsoft.com/en-us/power-query/connectors/databricks-azure (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure Data Explorer (Kusto) https://learn.microsoft.com/en-us/power-query/connectors/azure-data-explorer (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure Data Lake Storage Gen1 https://learn.microsoft.com/en-us/power-query/connectors/azure-data-lake-storage-gen1 (2024-12-18 11:02 PM) @cancelled
+                ✘ Connect to ADLS Gen2 https://learn.microsoft.com/en-us/power-query/connectors/data-lake-storage (2024-12-18 11:02 PM) @cancelled
+                ✘ Analyze ADLS Gen2 data https://learn.microsoft.com/en-us/power-query/connectors/analyze-data-in-adls-gen2 (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure HDInsight https://learn.microsoft.com/en-us/power-query/connectors/azure-hdinsight (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure HDInsight on AKS Trino (Beta) (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/azure-hdinsight-on-aks-trino (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure SQL database https://learn.microsoft.com/en-us/power-query/connectors/azure-sql-database (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure Resource Graph https://learn.microsoft.com/en-us/power-query/connectors/azure-resource-graph (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure Synapse Analytics (SQL DW) https://learn.microsoft.com/en-us/power-query/connectors/azure-sql-data-warehouse (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure Synapse Analytics workspace (Beta) https://learn.microsoft.com/en-us/power-query/connectors/synapse (2024-12-18 11:02 PM) @cancelled
+            ✘ Azure Table Storage https://learn.microsoft.com/en-us/power-query/connectors/azure-table-storage (2024-12-18 11:02 PM) @cancelled
+            ✘ Bitsight Security Ratings https://learn.microsoft.com/en-us/power-query/connectors/bitsight-security-ratings (2024-12-18 11:02 PM) @cancelled
+            ✘ Bloomberg Data and Analytics https://learn.microsoft.com/en-us/power-query/connectors/bloomberg-data-and-analytics (2024-12-18 11:02 PM) @cancelled
+            ✘ BQE Core https://learn.microsoft.com/en-us/power-query/connectors/bqecore (2024-12-18 11:02 PM) @cancelled
+            ✘ BuildingConnected (Beta) https://learn.microsoft.com/en-us/power-query/connectors/buildingconnected (2024-12-18 11:02 PM) @cancelled
+            ✘ CData Connect Cloud https://learn.microsoft.com/en-us/power-query/connectors/cdata-connect-cloud (2024-12-18 11:02 PM) @cancelled
+            ✘ Celonis EMS https://learn.microsoft.com/en-us/power-query/connectors/celonis-ems (2024-12-18 11:02 PM) @cancelled
+            ✘ CloudBluePSA (Beta) https://learn.microsoft.com/en-us/power-query/connectors/cloudbluepsa (2024-12-18 11:02 PM) @cancelled
+            ✘ Common Data Service (Legacy) https://learn.microsoft.com/en-us/power-query/connectors/common-data-service-legacy (2024-12-18 11:02 PM) @cancelled
+            ✘ ClickHouse (Beta) https://learn.microsoft.com/en-us/power-query/connectors/clickhouse (2024-12-18 11:02 PM) @cancelled
+            ✘ Databricks https://learn.microsoft.com/en-us/power-query/connectors/databricks (2025-01-06 11:02 PM) @cancelled
+            ✘ Dataverse https://learn.microsoft.com/en-us/power-query/connectors/dataverse (2024-12-18 11:02 PM) @cancelled
+            ✘ Dataflows https://learn.microsoft.com/en-us/power-query/connectors/dataflows (2024-12-18 11:02 PM) @cancelled
+            ✘ Delta Sharing https://learn.microsoft.com/en-us/power-query/connectors/delta-sharing (2024-12-18 11:02 PM) @cancelled
+            ✘ Denodo https://learn.microsoft.com/en-us/power-query/connectors/denodo (2024-12-18 11:02 PM) @cancelled
+            ✘ Digital Construction Works Insights (Beta) https://learn.microsoft.com/en-us/power-query/connectors/digital-construction-works-insights (2024-12-18 11:02 PM) @cancelled
+            ✘ Dynamics 365 Online (legacy) https://learn.microsoft.com/en-us/power-query/connectors/dynamics-365-online (2024-12-18 11:02 PM) @cancelled
+            ✘ Eduframe (Beta) https://learn.microsoft.com/en-us/power-query/connectors/eduframe (2024-12-18 11:02 PM) @cancelled
+            ✘ Emplifi Metrics (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/emplifi-metrics (2024-12-18 11:02 PM) @cancelled
+            ✘ EQuIS https://learn.microsoft.com/en-us/power-query/connectors/equis (2024-12-18 11:02 PM) @cancelled
+            ✘ Essbase https://learn.microsoft.com/en-us/power-query/connectors/essbase (2024-12-18 11:02 PM) @cancelled
+            ✘ Exact Online Premium https://learn.microsoft.com/en-us/power-query/connectors/exact-online-premium (2024-12-18 11:02 PM) @cancelled
+            ✘ Excel https://learn.microsoft.com/en-us/power-query/connectors/excel (2024-12-18 11:02 PM) @cancelled
+            ✘ FactSet RMS (Beta) https://learn.microsoft.com/en-us/power-query/connectors/factset-rms (2024-12-18 11:02 PM) @cancelled
+                ✘ Connect to FHIR https://learn.microsoft.com/en-us/power-query/connectors/fhir/fhir (2024-12-18 11:02 PM) @cancelled
+                ✘ Authentication https://learn.microsoft.com/en-us/power-query/connectors/fhir/fhir-authentication (2024-12-18 11:02 PM) @cancelled
+                ✘ Query folding https://learn.microsoft.com/en-us/power-query/connectors/fhir/fhir-query-folding (2024-12-18 11:02 PM) @cancelled
+                ✘ Query folding patterns https://learn.microsoft.com/en-us/power-query/connectors/fhir/fhir-query-folding-patterns (2024-12-18 11:02 PM) @cancelled
+                ✘ Data relationships https://learn.microsoft.com/en-us/power-query/connectors/fhir/fhir-relationships (2024-12-18 11:02 PM) @cancelled
+            ✘ Folder https://learn.microsoft.com/en-us/power-query/connectors/folder (2024-12-18 11:02 PM) @cancelled
+            ✘ Funnel https://learn.microsoft.com/en-us/power-query/connectors/funnel (2024-12-18 11:02 PM) @cancelled
+            ✘ Google Analytics https://learn.microsoft.com/en-us/power-query/connectors/google-analytics (2024-12-18 11:02 PM) @cancelled
+            ✘ Google BigQuery https://learn.microsoft.com/en-us/power-query/connectors/google-bigquery (2024-12-18 11:02 PM) @cancelled
+            ✘ Google BigQuery (Microsoft Entra ID) https://learn.microsoft.com/en-us/power-query/connectors/google-bigquery-aad (2024-12-18 11:02 PM) @cancelled
+            ✘ Google Sheets https://learn.microsoft.com/en-us/power-query/connectors/google-sheets (2024-12-18 11:02 PM) @cancelled
+            ✘ Hadoop File (HDFS) https://learn.microsoft.com/en-us/power-query/connectors/hadoop-file-system (2024-12-18 11:02 PM) @cancelled
+            ✘ Hive LLAP https://learn.microsoft.com/en-us/power-query/connectors/hive-llap (2024-12-18 11:02 PM) @cancelled
+            ✘ IBM Db2 database https://learn.microsoft.com/en-us/power-query/connectors/ibm-db2-database (2024-12-18 11:02 PM) @cancelled
+            ✘ Impala database https://learn.microsoft.com/en-us/power-query/connectors/impala-database (2024-12-18 11:02 PM) @cancelled
+            ✘ Intersystems Health Insight https://learn.microsoft.com/en-us/power-query/connectors/intersystems-healthinsight (2024-12-18 11:02 PM) @cancelled
+            ✘ inwink (Beta) https://learn.microsoft.com/en-us/power-query/connectors/inwink (2024-12-18 11:02 PM) @cancelled
+            ✘ JSON https://learn.microsoft.com/en-us/power-query/connectors/json (2024-12-18 11:02 PM) @cancelled
+            ✘ KQL database https://learn.microsoft.com/en-us/power-query/connectors/kql-database (2024-12-18 11:02 PM) @cancelled
+            ✘ Kyvos ODBC (Beta) https://learn.microsoft.com/en-us/power-query/connectors/kyvos-odbc (2024-12-18 11:02 PM) @cancelled
+            ✘ Lakehouse (Beta) https://learn.microsoft.com/en-us/power-query/connectors/lakehouse (2024-12-18 11:02 PM) @cancelled
+            ✘ LinkedIn Learning https://learn.microsoft.com/en-us/power-query/connectors/linkedin-learning (2024-12-18 11:02 PM) @cancelled
+            ✘ LEAP (Beta) https://learn.microsoft.com/en-us/power-query/connectors/leap (2024-12-18 11:02 PM) @cancelled
+            ✘ LinkedIn Sales Navigator (Beta) https://learn.microsoft.com/en-us/power-query/connectors/linkedin-sales-navigator (2024-12-18 11:02 PM) @cancelled
+            ✘ Mailchimp (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/mailchimp (2024-12-18 11:02 PM) @cancelled
+            ✘ Microsoft Azure Consumption Insights (Beta) (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/microsoft-azure-consumption-insights (2024-12-18 11:02 PM) @cancelled
+            ✘ Microsoft Exchange https://learn.microsoft.com/en-us/power-query/connectors/microsoft-exchange (2024-12-18 11:02 PM) @cancelled
+            ✘ Microsoft Exchange Online https://learn.microsoft.com/en-us/power-query/connectors/microsoft-exchange-online (2024-12-18 11:02 PM) @cancelled
+            ✘ Microsoft Graph Security (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/microsoft-graph-security (2024-12-18 11:02 PM) @cancelled
+            ✘ MicroStrategy for Power BI https://learn.microsoft.com/en-us/power-query/connectors/microstrategy-for-power-bi (2024-12-18 11:02 PM) @cancelled
+            ✘ MongoDB Atlas SQL interface https://learn.microsoft.com/en-us/power-query/connectors/mongodb-atlas-sql-interface (2024-12-18 11:02 PM) @cancelled
+            ✘ MySQL database https://learn.microsoft.com/en-us/power-query/connectors/mysql-database (2024-12-18 11:02 PM) @cancelled
+                ✘ Connect to an OData Feed https://learn.microsoft.com/en-us/power-query/connectors/odata-feed (2024-12-18 11:02 PM) @cancelled
+            ✘ ODBC https://learn.microsoft.com/en-us/power-query/connectors/odbc (2024-12-18 11:02 PM) @cancelled
+            ✘ OLE DB https://learn.microsoft.com/en-us/power-query/connectors/ole-db (2024-12-18 11:02 PM) @cancelled
+            ✘ OneStream (Beta) https://learn.microsoft.com/en-us/power-query/connectors/onestream (2024-12-18 11:02 PM) @cancelled
+            ✘ OpenSearch Project (Beta) https://learn.microsoft.com/en-us/power-query/connectors/opensearch-project (2024-12-18 11:02 PM) @cancelled
+            ✘ Oracle database https://learn.microsoft.com/en-us/power-query/connectors/oracle-database (2024-12-18 11:02 PM) @cancelled
+            ✘ Palantir Foundry https://learn.microsoft.com/en-us/power-query/connectors/palantir-foundry-datasets (2024-12-18 11:02 PM) @cancelled
+            ✘ Parquet https://learn.microsoft.com/en-us/power-query/connectors/parquet (2024-12-18 11:02 PM) @cancelled
+            ✘ PDF https://learn.microsoft.com/en-us/power-query/connectors/pdf (2024-12-18 11:02 PM) @cancelled
+            ✘ Planview OKR (Beta) https://learn.microsoft.com/en-us/power-query/connectors/planview-okr (2024-12-18 11:02 PM) @cancelled
+            ✘ PostgreSQL https://learn.microsoft.com/en-us/power-query/connectors/postgresql (2024-12-18 11:02 PM) @cancelled
+            ✘ Profisee https://learn.microsoft.com/en-us/power-query/connectors/profisee (2024-12-18 11:02 PM) @cancelled
+            ✘ QuickBooks Online (Beta) https://learn.microsoft.com/en-us/power-query/connectors/quickbooks-online (2024-12-18 11:02 PM) @cancelled
+            ✘ Salesforce Objects https://learn.microsoft.com/en-us/power-query/connectors/salesforce-objects (2024-12-18 11:02 PM) @cancelled
+            ✘ Salesforce Reports https://learn.microsoft.com/en-us/power-query/connectors/salesforce-reports (2024-12-18 11:02 PM) @cancelled
+            ✘ Samsara https://learn.microsoft.com/en-us/power-query/connectors/samsara (2024-12-18 11:02 PM) @cancelled
+                ✘ Connect to an SAP Business Warehouse Application Server https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/application-setup-and-connect (2024-12-18 11:02 PM) @cancelled
+                ✘ Connect to an SAP Business Warehouse Message Server https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/message-setup-and-connect (2024-12-18 11:02 PM) @cancelled
+                ✘ SAP BW fundamentals https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/sap-bw-fundamentals (2024-12-18 11:02 PM) @cancelled
+                ✘ Navigate the query objects https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/navigate-query-objects (2024-12-18 11:02 PM) @cancelled
+                ✘ Transform and filter an SAP BW data set https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/transform-filter-sap-bw-data (2024-12-18 11:02 PM) @cancelled
+                ✘ Implementation details https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/implementation-details (2024-12-18 11:02 PM) @cancelled
+                ✘ Import vs. DirectQuery for SAP BW https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/import-vs-directquery (2024-12-18 11:02 PM) @cancelled
+                ✘ Windows authentication and single sign-on https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/single-sign-on (2024-12-18 11:02 PM) @cancelled
+                ✘ Use advanced options https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/use-advanced-options (2024-12-18 11:02 PM) @cancelled
+                ✘ SAP BW connector troubleshooting https://learn.microsoft.com/en-us/power-query/connectors/sap-bw/sap-bw-troubleshooting (2024-12-18 11:02 PM) @cancelled
+                ✘ Connect to an SAP HANA database https://learn.microsoft.com/en-us/power-query/connectors/sap-hana/overview (2024-12-18 11:02 PM) @cancelled
+                ✘ SAP HANA encryption https://learn.microsoft.com/en-us/power-query/connectors/sap-hana/sap-hana-encryption (2024-12-18 11:02 PM) @cancelled
+                ✘ Configure ODBC for SAP HANA https://learn.microsoft.com/en-us/power-query/connectors/sap-hana/configure-odbc-sap-hana (2024-12-18 11:02 PM) @cancelled
+                ✘ Troubleshooting https://learn.microsoft.com/en-us/power-query/connectors/sap-hana/sap-hana-troubleshooting (2024-12-18 11:02 PM) @cancelled
+            ✘ SharePoint folder https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-folder (2024-12-18 11:02 PM) @cancelled
+            ✘ SharePoint list https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-list (2024-12-18 11:02 PM) @cancelled
+            ✘ SharePoint Online list https://learn.microsoft.com/en-us/power-query/connectors/sharepoint-online-list (2024-12-18 11:02 PM) @cancelled
+            ✘ SingleStore https://learn.microsoft.com/en-us/power-query/connectors/singlestore (2024-12-18 11:02 PM) @cancelled
+            ✘ SIS-CC SDMX (Beta) https://learn.microsoft.com/en-us/power-query/connectors/sis-cc-sdmx (2024-12-18 11:02 PM) @cancelled
+            ✘ Smartsheet (Beta) https://learn.microsoft.com/en-us/power-query/connectors/smartsheet (2024-12-18 11:02 PM) @cancelled
+            ✘ Snowflake https://learn.microsoft.com/en-us/power-query/connectors/snowflake (2025-01-15 05:01 PM) @cancelled
+            ✘ Socialbakers Metrics (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/socialbakers (2024-12-18 11:02 PM) @cancelled
+            ✘ SoftOne BI (Beta) https://learn.microsoft.com/en-us/power-query/connectors/softone-bi (2024-12-18 11:02 PM) @cancelled
+            ✘ SolarWinds Service Desk https://learn.microsoft.com/en-us/power-query/connectors/solarwinds-service-desk (2024-12-18 11:02 PM) @cancelled
+            ✘ SQL Server Analysis Services database https://learn.microsoft.com/en-us/power-query/connectors/sql-server-analysis-services (2024-12-18 11:02 PM) @cancelled
+            ✘ SQL Server database https://learn.microsoft.com/en-us/power-query/connectors/sql-server (2024-12-18 11:02 PM) @cancelled
+            ✘ Stripe (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/stripe (2024-12-18 11:02 PM) @cancelled
+            ✘ SumTotal https://learn.microsoft.com/en-us/power-query/connectors/sumtotal (2024-12-18 11:02 PM) @cancelled
+            ✘ Supermetrics https://learn.microsoft.com/en-us/power-query/connectors/supermetrics (2024-12-18 11:02 PM) @cancelled
+            ✘ Sybase database https://learn.microsoft.com/en-us/power-query/connectors/sybase-database (2024-12-18 11:02 PM) @cancelled
+            ✘ Teradata database https://learn.microsoft.com/en-us/power-query/connectors/teradata (2024-12-18 11:02 PM) @cancelled
+            ✘ Text/CSV https://learn.microsoft.com/en-us/power-query/connectors/text-csv (2024-12-18 11:02 PM) @cancelled
+            ✘ TIBCO(R) Data Virtualization https://learn.microsoft.com/en-us/power-query/connectors/tibco (2024-12-18 11:02 PM) @cancelled
+            ✘ Twilio (Beta) (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/twilio (2024-12-18 11:02 PM) @cancelled
+            ✘ Usercube (Beta) https://learn.microsoft.com/en-us/power-query/connectors/usercube (2024-12-18 11:02 PM) @cancelled
+            ✘ Vessel Insight https://learn.microsoft.com/en-us/power-query/connectors/vessel-insight (2024-12-18 11:02 PM) @cancelled
+            ✘ Warehouse (Beta) https://learn.microsoft.com/en-us/power-query/connectors/warehouse (2024-12-18 11:02 PM) @cancelled
+                ✘ Connect to Web data https://learn.microsoft.com/en-us/power-query/connectors/web/web (2024-12-18 11:02 PM) @cancelled
+                ✘ Web by example https://learn.microsoft.com/en-us/power-query/connectors/web/web-by-example (2024-12-18 11:02 PM) @cancelled
+                ✘ Troubleshooting https://learn.microsoft.com/en-us/power-query/connectors/web/web-troubleshoot (2024-12-18 11:02 PM) @cancelled
+            ✘ Windsor (Beta) https://learn.microsoft.com/en-us/power-query/connectors/windsor (2024-12-18 11:02 PM) @cancelled
+            ✘ Wolters Kluwer CCH Tagetik https://learn.microsoft.com/en-us/power-query/connectors/wolters-kluwer-cch-tagetik (2024-12-18 11:02 PM) @cancelled
+            ✘ Workforce Dimensions (Beta) (Deprecated) https://learn.microsoft.com/en-us/power-query/connectors/workforce-dimensions (2024-12-18 11:02 PM) @cancelled
+            ✘ XML https://learn.microsoft.com/en-us/power-query/connectors/xml (2024-12-18 11:02 PM) @cancelled
+            ✘ Zendesk (Beta) https://learn.microsoft.com/en-us/power-query/connectors/zendesk (2024-12-18 11:02 PM) @cancelled
+            ✘ Zendesk Data (Beta) https://learn.microsoft.com/en-us/power-query/connectors/zendesk-data (2024-12-18 11:02 PM) @cancelled
+            ✘ Connector support and feedback https://learn.microsoft.com/en-us/power-query/connectors/connector-feedback (2024-12-18 11:02 PM) @cancelled
+
+
+---
+
+        ☐ What is Power Query? https://learn.microsoft.com/en-us/power-query/power-query-what-is-power-query (2024-03-14 04:03 PM)
+            ☐ Getting data overview https://learn.microsoft.com/en-us/power-query/get-data-experience (2024-12-18 11:02 PM)
+            ☐ Where to get data https://learn.microsoft.com/en-us/power-query/where-to-get-data (2025-01-10 05:01 PM)
+            ☐ Get data experience https://learn.microsoft.com/en-us/power-query/get-data-ui (2024-12-18 11:02 PM)
+                ☐ Authentication in Desktop apps https://learn.microsoft.com/en-us/power-query/connector-authentication (2024-12-18 11:02 PM)
+                ☐ Authentication in Power Query Online https://learn.microsoft.com/en-us/power-query/connection-authentication-pqo (2024-12-18 11:02 PM)
+                ☐ Auto sign in for Microsoft Entra ID data sources https://learn.microsoft.com/en-us/power-query/auto-signin-aad (2024-12-18 11:02 PM)
+            ☐ Upload a file https://learn.microsoft.com/en-us/power-query/upload-file (2024-12-18 11:02 PM)
+            ☐ SharePoint and OneDrive for Business files import https://learn.microsoft.com/en-us/power-query/sharepoint-onedrive-files (2024-12-18 11:02 PM)
+            ☐ Lack of support connecting to Microsoft Graph https://learn.microsoft.com/en-us/power-query/connecting-to-graph (2024-12-18 11:02 PM)
+            ☐ Connectivity without an existing connector https://learn.microsoft.com/en-us/power-query/connector-alternatives (2024-12-18 11:02 PM)
+            ☐ Connect using generic interfaces https://learn.microsoft.com/en-us/power-query/connect-using-generic-interfaces (2024-12-18 11:02 PM)
+            ☐ Manage connections https://learn.microsoft.com/en-us/power-query/manage-connections (2024-12-18 11:02 PM)
+            ☐ Change a dataflow gateway https://learn.microsoft.com/en-us/power-query/change-gateway-dataflow (2024-12-18 11:02 PM)
+            ☐ Using the Applied Steps list https://learn.microsoft.com/en-us/power-query/applied-steps (2024-12-18 11:02 PM)
+            ☐ Global search box (Preview) https://learn.microsoft.com/en-us/power-query/search-box (2024-12-18 11:02 PM)
+                ☐ Understanding query evaluation and folding https://learn.microsoft.com/en-us/power-query/query-folding-basics (2024-12-18 11:02 PM)
+                ☐ Query folding examples https://learn.microsoft.com/en-us/power-query/query-folding-examples (2024-12-18 11:02 PM)
+                ☐ Query folding indicators https://learn.microsoft.com/en-us/power-query/step-folding-indicators (2024-12-18 11:02 PM)
+                ☐ Query plan (Preview) https://learn.microsoft.com/en-us/power-query/query-plan (2024-12-18 11:02 PM)
+                ☐ Query folding on native queries https://learn.microsoft.com/en-us/power-query/native-query-folding (2024-12-18 11:02 PM)
+            ☐ Using the data profiling tools https://learn.microsoft.com/en-us/power-query/data-profiling-tools (2024-12-18 11:02 PM)
+            ☐ Using the Queries pane https://learn.microsoft.com/en-us/power-query/queries-pane (2024-12-18 11:02 PM)
+            ☐ Diagram view https://learn.microsoft.com/en-us/power-query/diagram-view (2024-12-18 11:02 PM)
+            ☐ Using Schema view (Preview) https://learn.microsoft.com/en-us/power-query/schema-view (2024-12-18 11:02 PM)
+            ☐ Share a query https://learn.microsoft.com/en-us/power-query/share-query (2024-12-18 11:02 PM)
+            ☐ Using custom functions https://learn.microsoft.com/en-us/power-query/custom-function (2024-12-18 11:02 PM)
+                ☐ Promote or demote column headers https://learn.microsoft.com/en-us/power-query/table-promote-demote-headers (2024-12-18 11:02 PM)
+                ☐ Filter by row position https://learn.microsoft.com/en-us/power-query/filter-row-position (2024-12-18 11:02 PM)
+                ☐ Filter by values https://learn.microsoft.com/en-us/power-query/filter-values (2024-12-18 11:02 PM)
+                ☐ Choose or remove columns https://learn.microsoft.com/en-us/power-query/choose-remove-columns (2024-12-18 11:02 PM)
+                ☐ Grouping or summarizing rows https://learn.microsoft.com/en-us/power-query/group-by (2024-12-18 11:02 PM)
+                ☐ Unpivot column https://learn.microsoft.com/en-us/power-query/unpivot-column (2024-12-18 11:02 PM)
+                ☐ Pivot column https://learn.microsoft.com/en-us/power-query/pivot-columns (2024-12-18 11:02 PM)
+                ☐ Transpose table https://learn.microsoft.com/en-us/power-query/transpose-table (2024-12-18 11:02 PM)
+                ☐ Reverse rows https://learn.microsoft.com/en-us/power-query/reverse-rows (2024-12-18 11:02 PM)
+                ☐ Data types https://learn.microsoft.com/en-us/power-query/data-types (2024-12-18 11:02 PM)
+                ☐ Dealing with errors https://learn.microsoft.com/en-us/power-query/dealing-with-errors (2024-12-18 11:02 PM)
+                ☐ Working with duplicates https://learn.microsoft.com/en-us/power-query/working-with-duplicates (2024-12-18 11:02 PM)
+                ☐ Fill values in a column https://learn.microsoft.com/en-us/power-query/fill-values-column (2024-12-18 11:02 PM)
+                ☐ Sort columns https://learn.microsoft.com/en-us/power-query/sort-columns (2024-12-18 11:02 PM)
+                ☐ Rename column https://learn.microsoft.com/en-us/power-query/rename-column (2024-12-18 11:02 PM)
+                ☐ Move columns https://learn.microsoft.com/en-us/power-query/move-columns (2024-12-18 11:02 PM)
+                ☐ Replace values https://learn.microsoft.com/en-us/power-query/replace-values (2024-12-18 11:02 PM)
+                ☐ Parse text as JSON or XML https://learn.microsoft.com/en-us/power-query/parse-json-xml (2024-12-18 11:02 PM)
+                ☐ Add a column from examples https://learn.microsoft.com/en-us/power-query/column-from-example (2024-12-18 11:02 PM)
+                ☐ Add an index column https://learn.microsoft.com/en-us/power-query/add-index-column (2024-12-18 11:02 PM)
+                ☐ Add a custom column https://learn.microsoft.com/en-us/power-query/add-custom-column (2024-12-18 11:02 PM)
+                ☐ Add a conditional column https://learn.microsoft.com/en-us/power-query/add-conditional-column (2024-12-18 11:02 PM)
+                ☐ Add a rank column https://learn.microsoft.com/en-us/power-query/rank-column (2024-12-18 11:02 PM)
+                ☐ Add a cluster values column https://learn.microsoft.com/en-us/power-query/cluster-values (2024-12-18 11:02 PM)
+                ☐ Append queries https://learn.microsoft.com/en-us/power-query/append-queries (2024-12-18 11:02 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/power-query/combine-files-overview (2024-12-18 11:02 PM)
+                    ☐ CSV documents https://learn.microsoft.com/en-us/power-query/combine-files-csv (2024-12-18 11:02 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/power-query/merge-queries-overview (2024-12-18 11:02 PM)
+                    ☐ Left outer join https://learn.microsoft.com/en-us/power-query/merge-queries-left-outer (2024-12-18 11:02 PM)
+                    ☐ Right outer join https://learn.microsoft.com/en-us/power-query/merge-queries-right-outer (2024-12-18 11:02 PM)
+                    ☐ Full outer join https://learn.microsoft.com/en-us/power-query/merge-queries-full-outer (2024-12-18 11:02 PM)
+                    ☐ Inner join https://learn.microsoft.com/en-us/power-query/merge-queries-inner (2024-12-18 11:02 PM)
+                    ☐ Left anti join https://learn.microsoft.com/en-us/power-query/merge-queries-left-anti (2024-12-18 11:02 PM)
+                    ☐ Right anti join https://learn.microsoft.com/en-us/power-query/merge-queries-right-anti (2024-12-18 11:02 PM)
+                    ☐ Fuzzy merge https://learn.microsoft.com/en-us/power-query/merge-queries-fuzzy-match (2024-12-18 11:02 PM)
+                    ☐ Cross join https://learn.microsoft.com/en-us/power-query/cross-join (2024-12-18 11:02 PM)
+                ☐ By delimiter https://learn.microsoft.com/en-us/power-query/split-columns-delimiter (2024-12-18 11:02 PM)
+                ☐ By number of characters https://learn.microsoft.com/en-us/power-query/split-columns-number-characters (2024-12-18 11:02 PM)
+                ☐ By positions https://learn.microsoft.com/en-us/power-query/split-columns-positions (2024-12-18 11:02 PM)
+                ☐ By lowercase to uppercase https://learn.microsoft.com/en-us/power-query/splitcolumns-lowercase-to-uppercase (2024-12-18 11:02 PM)
+                ☐ By uppercase to lowercase https://learn.microsoft.com/en-us/power-query/splitcolumns-uppercase-to-lowercase (2024-12-18 11:02 PM)
+                ☐ By digit to non-digit https://learn.microsoft.com/en-us/power-query/splitcolumns-digit-to-nondigit (2024-12-18 11:02 PM)
+                ☐ By non-digit to digit https://learn.microsoft.com/en-us/power-query/splitcolumns-nondigit-to-digit (2024-12-18 11:02 PM)
+            ☐ Overview of dataflows https://learn.microsoft.com/en-us/power-query/dataflows/overview-dataflows-across-power-platform-dynamics-365 (2024-12-18 11:02 PM)
+            ☐ Analytical vs. standard dataflows https://learn.microsoft.com/en-us/power-query/dataflows/understanding-differences-between-analytical-standard-dataflows (2025-01-06 11:02 PM)
+            ☐ Create and use dataflows https://learn.microsoft.com/en-us/power-query/dataflows/create-use (2024-12-18 11:02 PM)
+            ☐ Create and use dataflows in Teams https://learn.microsoft.com/en-us/power-query/dataflows/dataflows-teams (2024-12-18 11:02 PM)
+            ☐ Consume data from dataflows https://learn.microsoft.com/en-us/power-query/dataflows/using-the-output-of-power-platform-dataflows (2024-12-18 11:02 PM)
+            ☐ Use dataflows in solutions https://learn.microsoft.com/en-us/power-query/dataflows/dataflow-solution-awareness (2024-12-18 11:02 PM)
+            ☐ Use incremental refresh https://learn.microsoft.com/en-us/power-query/dataflows/incremental-refresh (2024-12-18 11:02 PM)
+            ☐ Connect to data sources https://learn.microsoft.com/en-us/power-query/dataflows/data-sources (2024-12-18 11:02 PM)
+            ☐ Dataflow licenses https://learn.microsoft.com/en-us/power-query/dataflows/what-licenses-do-you-need-in-order-to-use-dataflows (2024-12-18 11:02 PM)
+            ☐ Migrate queries to dataflows https://learn.microsoft.com/en-us/power-query/dataflows/how-to-migrate-queries-from-power-query-desktop-to-dataflows (2024-12-18 11:02 PM)
+            ☐ Use an on-premises data gateway https://learn.microsoft.com/en-us/power-query/dataflows/using-dataflows-with-on-premises-data (2024-12-18 11:02 PM)
+            ☐ Data exfiltration best practices for dataflows https://learn.microsoft.com/en-us/power-query/dataflows/data-exfiltration-best-practices (2024-12-18 11:02 PM)
+                ☐ Create computed tables https://learn.microsoft.com/en-us/power-query/dataflows/computed-tables (2024-12-18 11:02 PM)
+                ☐ Link tables between dataflows https://learn.microsoft.com/en-us/power-query/dataflows/linked-tables (2024-12-18 11:02 PM)
+                ☐ Connect Azure Data Lake for dataflow storage https://learn.microsoft.com/en-us/power-query/dataflows/connect-azure-data-lake-storage-for-dataflow (2024-12-18 11:02 PM)
+                    ☐ Common Data Model storage structure https://learn.microsoft.com/en-us/power-query/dataflows/what-is-the-cdm-storage-structure-for-analytical-dataflows (2024-12-18 11:02 PM)
+                    ☐ Configure storage and compute https://learn.microsoft.com/en-us/power-query/dataflows/configuring-storage-and-compute-options-for-analytical-dataflows (2024-12-18 11:02 PM)
+                    ☐ Scenarios for computed tables https://learn.microsoft.com/en-us/power-query/dataflows/computed-tables-scenarios (2024-12-18 11:02 PM)
+                    ☐ Developing complex dataflows https://learn.microsoft.com/en-us/power-query/dataflows/best-practices-developing-complex-dataflows (2024-12-18 11:02 PM)
+                    ☐ Reusing dataflows https://learn.microsoft.com/en-us/power-query/dataflows/best-practices-reusing-dataflows (2024-12-18 11:02 PM)
+                    ☐ Dimensional model https://learn.microsoft.com/en-us/power-query/dataflows/best-practices-for-dimensional-model-using-dataflows (2024-12-18 11:02 PM)
+                    ☐ Performance https://learn.microsoft.com/en-us/power-query/dataflows/performance-ingestion-transformation-dataflows (2024-12-18 11:02 PM)
+                ☐ Get dataflows data from Azure services https://learn.microsoft.com/en-us/power-query/dataflows/using-output-power-platform-dataflows-other-azure (2024-12-18 11:02 PM)
+                ☐ Relationships and lookups https://learn.microsoft.com/en-us/power-query/dataflows/relationships-in-standard-dataflows (2024-12-18 11:02 PM)
+                ☐ Field mapping https://learn.microsoft.com/en-us/power-query/dataflows/get-best-of-standard-dataflows (2024-12-18 11:02 PM)
+                ☐ Security and Roles https://learn.microsoft.com/en-us/power-query/dataflows/security-role-standard-dataflows (2024-12-18 11:02 PM)
+                ☐ Sync Excel data https://learn.microsoft.com/en-us/power-query/dataflows/sync-excel-cds-dataflow (2024-12-18 11:02 PM)
+                ☐ Add data to a table in Dataverse https://learn.microsoft.com/en-us/power-query/dataflows/add-data-power-query (2024-12-18 11:02 PM)
+                ☐ Migrate standard V1 to a V2 dataflow https://learn.microsoft.com/en-us/power-query/dataflows/migrate-standard-v1-to-v2-dataflow (2024-12-18 11:02 PM)
+                ☐ Data Factory dataflows https://learn.microsoft.com/en-us/power-query/dataflows/power-platform-dataflows-and-adf-wrangling-data-flows (2024-12-18 11:02 PM)
+                ☐ Overview of Power Automate templates for dataflows https://learn.microsoft.com/en-us/power-query/dataflows/dataflow-power-automate-connector-templates (2024-12-18 11:02 PM)
+                ☐ Send notification when a dataflow refresh completes https://learn.microsoft.com/en-us/power-query/dataflows/send-notification-when-dataflow-refresh-completes (2024-12-18 11:02 PM)
+                ☐ Open a ticket when a dataflow refresh fails https://learn.microsoft.com/en-us/power-query/dataflows/open-support-ticket-when-dataflow-refresh-completes (2024-12-18 11:02 PM)
+                ☐ Trigger dataflows and Power BI semantic models sequentially https://learn.microsoft.com/en-us/power-query/dataflows/trigger-dataflows-and-power-bi-dataset-sequentially (2024-12-18 11:02 PM)
+                ☐ Use Dataverse to build a dataflows monitoring report https://learn.microsoft.com/en-us/power-query/dataflows/load-dataflow-metadata-into-dataverse-table (2024-12-18 11:02 PM)
+                ☐ Use Excel to build a dataflows monitoring report https://learn.microsoft.com/en-us/power-query/dataflows/load-dataflow-metadata-into-excel-online (2024-12-18 11:02 PM)
+                ☐ Use a Power BI dataset to build a dataflows monitoring report https://learn.microsoft.com/en-us/power-query/dataflows/load-dataflow-metadata-into-power-bi-dataset (2024-12-18 11:02 PM)
+                ☐ Automatically retry a dataflow on failure https://learn.microsoft.com/en-us/power-query/dataflows/automatically-retry-dataflow (2024-12-18 11:02 PM)
+                ☐ Monitor your dataflow refreshes with Power BI https://learn.microsoft.com/en-us/power-query/dataflows/monitor-dataflow-refreshes (2024-12-18 11:02 PM)
+                ☐ Creating dataflows https://learn.microsoft.com/en-us/power-query/dataflows/troubleshooting-dataflows-issues-creating-dataflow (2024-12-18 11:02 PM)
+                ☐ Getting data from dataflows https://learn.microsoft.com/en-us/power-query/dataflows/troubleshooting-dataflow-issue-get-data-from-dataflow (2024-12-18 11:02 PM)
+                ☐ Connecting to the data source https://learn.microsoft.com/en-us/power-query/dataflows/troubleshooting-dataflow-issues-connection-to-the-data-source (2024-12-18 11:02 PM)
+        ☐ Power Query template (preview) https://learn.microsoft.com/en-us/power-query/power-query-template (2024-12-18 11:02 PM)
+        ☐ Keyboard shortcuts https://learn.microsoft.com/en-us/power-query/keyboard-shortcuts (2024-12-18 11:02 PM)
+        ☐ Best practices https://learn.microsoft.com/en-us/power-query/best-practices (2024-12-18 11:02 PM)
+        ☐ Feedback and support https://learn.microsoft.com/en-us/power-query/feedback (2024-12-18 11:02 PM)
+            ☐ Fuzzy matching https://learn.microsoft.com/en-us/power-query/fuzzy-matching (2024-12-18 11:02 PM)
+            ☐ Behind the scenes of the Data Privacy Firewall https://learn.microsoft.com/en-us/power-query/data-privacy-firewall (2024-12-18 11:02 PM)
+                ☐ What is Query Diagnostics for Power Query? https://learn.microsoft.com/en-us/power-query/query-diagnostics (2024-12-18 11:02 PM)
+                ☐ Recording Query Diagnostics https://learn.microsoft.com/en-us/power-query/record-query-diagnostics (2024-12-18 11:02 PM)
+                ☐ Reading Query Diagnostics https://learn.microsoft.com/en-us/power-query/read-query-diagnostics (2024-12-18 11:02 PM)
+                ☐ Understanding folding with Query Diagnostics https://learn.microsoft.com/en-us/power-query/query-diagnostics-folding (2024-12-18 11:02 PM)
+            ☐ Why does my query run multiple times? https://learn.microsoft.com/en-us/power-query/multiple-queries (2024-12-18 11:02 PM)
+            ☐ Use Query Parameters https://learn.microsoft.com/en-us/power-query/power-query-query-parameters (2024-12-18 11:02 PM)
+            ☐ Error handling https://learn.microsoft.com/en-us/power-query/error-handling (2024-12-18 11:02 PM)
+            ☐ Import data using native database query https://learn.microsoft.com/en-us/power-query/native-database-query (2024-12-18 11:02 PM)
+            ☐ Create Power Platform dataflows from queries in Microsoft Excel (Preview) https://learn.microsoft.com/en-us/power-query/new-dataflow-from-template (2024-12-18 11:02 PM)
+            ☐ Optimize Power Query when expanding table columns https://learn.microsoft.com/en-us/power-query/optimize-expanding-table-columns (2024-12-18 11:02 PM)
+            ☐ Using Microsoft Edge for OAuth in Power BI Desktop https://learn.microsoft.com/en-us/power-query/oauth-edge-chromium (2024-12-18 11:02 PM)
+            ☐ Privacy levels https://learn.microsoft.com/en-us/power-query/privacy-levels (2024-12-18 11:02 PM)
+            ☐ List of all Power Query connectors https://learn.microsoft.com/en-us/power-query/connectors/ (2025-01-22 11:02 PM)
+            ☐ Vertica database https://learn.microsoft.com/en-us/power-query/connectors/vertica-database (2025-01-22 11:02 PM)
+            ☐ Power Query online limits https://learn.microsoft.com/en-us/power-query/power-query-online-limits (2024-12-18 11:02 PM)
+            ☐ Common issues https://learn.microsoft.com/en-us/power-query/common-issues (2024-12-18 11:02 PM)
+            ☐ Review script changes https://learn.microsoft.com/en-us/power-query/review-script-changes (2024-12-18 11:02 PM)
+            ☐ Capture web requests with Fiddler https://learn.microsoft.com/en-us/power-query/web-connection-fiddler (2024-12-18 11:02 PM)
+            ☐ Develop a connector using the Power Query SDK https://learn.microsoft.com/en-us/power-query/install-sdk (2024-12-18 11:02 PM)
+                ☐ Power Query SDK Overview https://learn.microsoft.com/en-us/power-query/power-query-sdk-vs-code (2024-12-18 11:02 PM)
+                ☐ Creating your first connector project - Hello World https://learn.microsoft.com/en-us/power-query/creating-first-connector (2024-12-18 11:02 PM)
+                    ☐ Additional connector functionality https://learn.microsoft.com/en-us/power-query/additional-connector-functionality (2024-12-18 11:02 PM)
+                    ☐ Handling authentication https://learn.microsoft.com/en-us/power-query/handling-authentication (2024-12-18 11:02 PM)
+                    ☐ Configure Microsoft Entra ID for your connector https://learn.microsoft.com/en-us/power-query/configure-microsoft-entra-for-connector (2024-12-18 11:02 PM)
+                    ☐ Handling data access https://learn.microsoft.com/en-us/power-query/handling-data-access (2024-12-18 11:02 PM)
+                        ☐ Enabling DirectQuery for an ODBC based connector https://learn.microsoft.com/en-us/power-query/odbc (2024-12-18 11:02 PM)
+                        ☐ Parameters for Odbc.DataSource https://learn.microsoft.com/en-us/power-query/odbc-parameters (2024-12-18 11:02 PM)
+                        ☐ Testing and troubleshooting https://learn.microsoft.com/en-us/power-query/odbc-troubleshooting (2024-12-18 11:02 PM)
+                    ☐ Handling resource path https://learn.microsoft.com/en-us/power-query/handling-resource-path (2024-12-18 11:02 PM)
+                    ☐ Handling paging https://learn.microsoft.com/en-us/power-query/handling-paging (2024-12-18 11:02 PM)
+                    ☐ Handling transformations https://learn.microsoft.com/en-us/power-query/handling-transformations (2024-12-18 11:02 PM)
+                    ☐ Handling schemas https://learn.microsoft.com/en-us/power-query/handling-schema (2024-12-18 11:02 PM)
+                        ☐ Default behavior https://learn.microsoft.com/en-us/power-query/handling-status-codes (2024-12-18 11:02 PM)
+                        ☐ Wait retry pattern https://learn.microsoft.com/en-us/power-query/wait-retry (2024-12-18 11:02 PM)
+                    ☐ Handling unit testing https://learn.microsoft.com/en-us/power-query/handling-unit-testing (2024-12-18 11:02 PM)
+                    ☐ Helper functions https://learn.microsoft.com/en-us/power-query/helper-functions (2024-12-18 11:02 PM)
+                    ☐ Handling documentation https://learn.microsoft.com/en-us/power-query/handling-documentation (2024-12-18 11:02 PM)
+                    ☐ Handling navigation tables https://learn.microsoft.com/en-us/power-query/handling-navigation-tables (2024-12-18 11:02 PM)
+                    ☐ Handling gateway support https://learn.microsoft.com/en-us/power-query/handling-gateway-support (2024-12-18 11:02 PM)
+                    ☐ Handling connector signing https://learn.microsoft.com/en-us/power-query/handling-connector-signing (2024-12-18 11:02 PM)
+                    ☐ Handling proxy support https://learn.microsoft.com/en-us/power-query/handling-proxy-support (2024-12-18 11:02 PM)
+                    ☐ Handling native query support https://learn.microsoft.com/en-us/power-query/native-query-sdk (2024-12-18 11:02 PM)
+                    ☐ Versioning https://learn.microsoft.com/en-us/power-query/handling-versioning (2024-12-18 11:02 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/power-query/sdk-testframework/test-framework (2024-12-18 11:02 PM)
+                    ☐ 1. Setup https://learn.microsoft.com/en-us/power-query/sdk-testframework/1-set-up (2024-12-18 11:02 PM)
+                    ☐ 2. Preparing data https://learn.microsoft.com/en-us/power-query/sdk-testframework/2-data (2024-12-18 11:02 PM)
+                    ☐ 3. Test suite https://learn.microsoft.com/en-us/power-query/sdk-testframework/3-tests (2024-12-18 11:02 PM)
+                    ☐ 4. Test format specification https://learn.microsoft.com/en-us/power-query/sdk-testframework/4-testformat (2024-12-18 11:02 PM)
+                    ☐ 5. Connector testing https://learn.microsoft.com/en-us/power-query/sdk-testframework/5-connector (2024-12-18 11:02 PM)
+                    ☐ 6. Adding tests https://learn.microsoft.com/en-us/power-query/sdk-testframework/6-adding (2024-12-18 11:02 PM)
+                    ☐ 7. Pipeline setup guide https://learn.microsoft.com/en-us/power-query/sdk-testframework/7-pipeline (2024-12-18 11:02 PM)
+                        ☐ Overview https://learn.microsoft.com/en-us/power-query/sdk-tools/pqtest-overview (2024-12-18 11:02 PM)
+                        ☐ Commands and options https://learn.microsoft.com/en-us/power-query/sdk-tools/pqtest-commands-options (2024-12-18 11:02 PM)
+                        ☐ General usage https://learn.microsoft.com/en-us/power-query/sdk-tools/pqtest-general-usage (2024-12-18 11:02 PM)
+                        ☐ Credentials https://learn.microsoft.com/en-us/power-query/sdk-tools/pqtest-credentials (2024-12-18 11:02 PM)
+                        ☐ Compare https://learn.microsoft.com/en-us/power-query/sdk-tools/pqtest-compare (2024-12-18 11:02 PM)
+                ☐ Samples list https://learn.microsoft.com/en-us/power-query/samples-directory (2024-12-18 11:02 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/power-query/samples/trippin/readme (2024-12-18 11:02 PM)
+                    ☐ 1. OData https://learn.microsoft.com/en-us/power-query/samples/trippin/1-odata/readme (2024-12-18 11:02 PM)
+                    ☐ 2. REST API https://learn.microsoft.com/en-us/power-query/samples/trippin/2-rest/readme (2024-12-18 11:02 PM)
+                    ☐ 3. Navigation tables https://learn.microsoft.com/en-us/power-query/samples/trippin/3-navtables/readme (2024-12-18 11:02 PM)
+                    ☐ 4. Paths https://learn.microsoft.com/en-us/power-query/samples/trippin/4-paths/readme (2024-12-18 11:02 PM)
+                    ☐ 5. Paging https://learn.microsoft.com/en-us/power-query/samples/trippin/5-paging/readme (2024-12-18 11:02 PM)
+                    ☐ 6. Schemas https://learn.microsoft.com/en-us/power-query/samples/trippin/6-schema/readme (2024-12-18 11:02 PM)
+                    ☐ 7. Advanced schemas https://learn.microsoft.com/en-us/power-query/samples/trippin/7-advancedschema/readme (2024-12-18 11:02 PM)
+                    ☐ 8. Diagnostics https://learn.microsoft.com/en-us/power-query/samples/trippin/8-diagnostics/readme (2024-12-18 11:02 PM)
+                    ☐ 9. Test connection https://learn.microsoft.com/en-us/power-query/samples/trippin/9-testconnection/readme (2024-12-18 11:02 PM)
+                    ☐ 10. Folding https://learn.microsoft.com/en-us/power-query/samples/trippin/10-tableview1/readme (2024-12-18 11:02 PM)
+                ☐ OAuth tutorial (GitHub) https://learn.microsoft.com/en-us/power-query/samples/github/readme (2024-12-18 11:02 PM)
+            ☐ Connector development FAQ https://learn.microsoft.com/en-us/power-query/custom-connector-development-faq (2024-12-18 11:02 PM)
 

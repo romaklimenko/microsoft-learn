@@ -36,13 +36,13 @@ ExpressRoute documentation | Microsoft Learn:
         ✘ About ExpressRoute Global Reach https://learn.microsoft.com/en-us/azure/expressroute/expressroute-global-reach (2024-08-01 05:04 PM) @cancelled
         ✘ About ExpressRoute Metro https://learn.microsoft.com/en-us/azure/expressroute/metro (2024-11-25 12:43 PM) @cancelled
         ✘ About ExpressRoute encryption https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption (2024-08-12 05:05 PM) @cancelled
-        ☐ About ExpressRoute limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/expressroute/toc.json#expressroute-limits (2024-12-12 12:24 PM)
+        ✘ About ExpressRoute limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/expressroute/toc.json#expressroute-limits (2024-12-12 12:24 PM) @cancelled
         ✘ Design architecture for ExpressRoute resiliency https://learn.microsoft.com/en-us/azure/expressroute/design-architecture-for-resiliency (2024-12-08 12:09 PM) @cancelled
         ✘ ExpressRoute Traffic Collector https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector (2024-10-30 07:28 PM) @cancelled
         ☐ Connect Azure to public cloud https://learn.microsoft.com/en-us/azure/expressroute/expressroute-connect-azure-to-public-cloud (2024-09-06 05:33 AM)
         ✘ Connectivity between virtual networks https://learn.microsoft.com/en-us/azure/expressroute/virtual-network-connectivity-guidance (2024-08-01 05:04 PM) @cancelled
         ✘ Planned maintenance guidance https://learn.microsoft.com/en-us/azure/expressroute/planned-maintenance (2024-08-01 05:04 PM) @cancelled
-        ☐ Cross-network connectivity https://learn.microsoft.com/en-us/azure/expressroute/cross-network-connectivity (2024-09-06 05:33 AM)
+        ✘ Cross-network connectivity https://learn.microsoft.com/en-us/azure/expressroute/cross-network-connectivity (2024-09-06 05:33 AM) @cancelled
         ✘ BGP communities https://learn.microsoft.com/en-us/azure/expressroute/bgp-communities (2024-08-01 05:04 PM) @cancelled
         Security:
             ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/expressroute-security-baseline?toc=/azure/expressroute/TOC.json (2024-08-05 07:13 PM)
@@ -151,8 +151,8 @@ ExpressRoute documentation | Microsoft Learn:
         ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
         ☐ Service updates https://azure.microsoft.com/updates/?product=expressroute
         ☐ SLA https://azure.microsoft.com/support/legal/sla/
-        ☐ Subscription and Service Limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/expressroute/toc.json (2024-12-12 12:24 PM)
-        ☐ ExpressRoute for Cloud Solution Providers (CSP) https://learn.microsoft.com/en-us/azure/expressroute/expressroute-for-cloud-solution-providers (2024-12-20 11:04 PM)
+        ✘ Subscription and Service Limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/expressroute/toc.json (2024-12-12 12:24 PM) @cancelled
+        ✘ ExpressRoute for Cloud Solution Providers (CSP) https://learn.microsoft.com/en-us/azure/expressroute/expressroute-for-cloud-solution-providers (2024-12-20 11:04 PM) @cancelled
         Videos https://azure.microsoft.com/documentation/videos/index/?services=expressroute:
             ☐ Connect a virtual network gateway to a circuit https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-a-connection-between-your-vpn-gateway-and-expressroute-circuit/
             ☐ Create a virtual network for ExpressRoute https://azure.microsoft.com/documentation/videos/azure-expressroute-how-to-create-a-virtual-network/
@@ -236,7 +236,7 @@ ExpressRoute documentation | Microsoft Learn:
         ☐ Create an ExpressRoute circuit - Portal https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager (2025-01-15 11:02 PM)
         ☐ Create an ExpressRoute circuit - PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-arm (2025-01-15 11:02 PM)
         ☐ Create an ExpressRoute circuit - CLI https://learn.microsoft.com/en-us/azure/expressroute/howto-circuit-cli (2025-01-15 11:02 PM)
-        ☐ ExpressRoute Traffic Collector https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector (2025-01-17 05:34 AM)
+        ✘ ExpressRoute Traffic Collector https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector (2025-01-17 05:34 AM) @cancelled
 
 
 ---
@@ -253,4 +253,13 @@ ExpressRoute documentation | Microsoft Learn:
 ---
 
         ☐ About ExpressRoute FastPath https://learn.microsoft.com/en-us/azure/expressroute/about-fastpath (2025-01-23 05:38 AM)
+
+
+---
+
+        ☐ About ExpressRoute limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/expressroute/toc.json#azure-expressroute-limits (2025-01-24 05:34 AM)
+        ☐ ExpressRoute Traffic Collector https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector (2025-01-24 05:34 AM)
+        ☐ Cross-network connectivity https://learn.microsoft.com/en-us/azure/expressroute/cross-network-connectivity (2025-01-24 05:34 AM)
+        ☐ Subscription and Service Limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/expressroute/toc.json (2025-01-24 05:34 AM)
+        ☐ ExpressRoute for Cloud Solution Providers (CSP) https://learn.microsoft.com/en-us/azure/expressroute/expressroute-for-cloud-solution-providers (2025-01-24 05:34 AM)
 

@@ -181,7 +181,7 @@ Azure Application Gateway documentation | Microsoft Learn:
         ☐ Node.js https://azure.microsoft.com/develop/nodejs/#azure-sdk
         ☐ Python https://azure.microsoft.com/develop/python/
         ☐ REST https://learn.microsoft.com/rest/api/application-gateway/application-gateways (2024-12-03 11:02 PM)
-        ☐ Azure Resource Manager https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview (2024-06-03 05:38 AM)
+        ✘ Azure Resource Manager https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview (2024-06-03 05:38 AM) @cancelled
         ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.network/applicationgateways (2024-12-03 10:14 PM)
     Resources:
         ☐ Author templates https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax (2024-10-28 05:04 PM)
@@ -277,7 +277,7 @@ Azure Application Gateway documentation | Microsoft Learn:
         ☐ Ingress Controller add-on for AKS (Greenfield) https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-new (2024-12-29 12:12 PM)
         ☐ Ingress Controller add-on for AKS (Brownfield) https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-existing (2024-12-29 12:12 PM)
         ☐ Deploy Application Gateway with DDoS protection https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-protect-application-gateway (2024-12-29 12:12 PM)
-            ☐ Application Gateway features https://learn.microsoft.com/en-us/azure/application-gateway/features (2024-12-29 12:12 PM)
+            ✘ Application Gateway features https://learn.microsoft.com/en-us/azure/application-gateway/features (2024-12-29 12:12 PM) @cancelled
             ☐ How Application Gateway works https://learn.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works (2024-12-29 12:12 PM)
             ☐ Application Gateway components https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-components (2024-12-29 12:12 PM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/application-gateway/configuration-overview (2024-08-02 10:04 PM)
@@ -291,7 +291,7 @@ Azure Application Gateway documentation | Microsoft Learn:
             ☐ Rewrite HTTP headers and URL https://learn.microsoft.com/en-us/azure/application-gateway/rewrite-http-headers-url (2024-12-29 12:12 PM)
             ☐ Private Deployment https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-private-deployment (2024-12-03 05:33 AM)
             ☐ Private Link https://learn.microsoft.com/en-us/azure/application-gateway/private-link (2024-12-29 12:12 PM)
-            ☐ SSL termination and end to end SSL https://learn.microsoft.com/en-us/azure/application-gateway/ssl-overview (2024-12-29 12:12 PM)
+            ✘ SSL termination and end to end SSL https://learn.microsoft.com/en-us/azure/application-gateway/ssl-overview (2024-12-29 12:12 PM) @cancelled
             ☐ SSL policy overview https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-ssl-policy-overview (2024-11-28 12:15 PM)
             ☐ Mutual authentication https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-overview (2024-12-29 12:12 PM)
             ☐ Using Key Vault https://learn.microsoft.com/en-us/azure/application-gateway/key-vault-certs (2024-12-29 12:12 PM)
@@ -306,7 +306,7 @@ Azure Application Gateway documentation | Microsoft Learn:
         ☐ WebSocket support https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-websocket (2024-12-29 12:12 PM)
         ☐ Ingress for AKS https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview (2024-09-06 05:33 AM)
         ☐ Understanding pricing https://learn.microsoft.com/en-us/azure/application-gateway/understanding-pricing (2024-12-29 12:12 PM)
-        ☐ FAQ https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq (2024-10-25 10:04 PM)
+        ✘ FAQ https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq (2024-10-25 10:04 PM) @cancelled
             ☐ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/how-to-tcp-tls-proxy (2024-08-02 10:04 PM)
             ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-manage-web-traffic-powershell (2024-08-22 07:16 PM)
             ☐ Azure CLI https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-manage-web-traffic-cli (2024-08-22 07:16 PM)
@@ -379,7 +379,7 @@ Azure Application Gateway documentation | Microsoft Learn:
         ☐ Proxy buffer configuration https://learn.microsoft.com/en-us/azure/application-gateway/proxy-buffers (2024-09-25 10:03 PM)
         ☐ Custom error pages https://learn.microsoft.com/en-us/azure/application-gateway/custom-error (2024-11-19 06:02 PM)
             ☐ About v1 retirement https://learn.microsoft.com/en-us/azure/application-gateway/v1-retirement (2024-08-04 11:36 AM)
-            ☐ Migrate from v1 to v2 https://learn.microsoft.com/en-us/azure/application-gateway/migrate-v1-v2 (2024-11-22 11:02 PM)
+            ✘ Migrate from v1 to v2 https://learn.microsoft.com/en-us/azure/application-gateway/migrate-v1-v2 (2024-11-22 11:02 PM) @cancelled
             ☐ FAQ https://learn.microsoft.com/en-us/azure/application-gateway/retirement-faq (2024-12-19 06:04 PM)
         ☐ Configure alerts https://learn.microsoft.com/en-us/azure/application-gateway/configure-alerts-with-templates (2024-09-11 06:38 PM)
         ☐ Classic to Resource Manager https://learn.microsoft.com/en-us/azure/application-gateway/classic-to-resource-manager (2024-10-02 10:08 PM)
@@ -400,4 +400,13 @@ Azure Application Gateway documentation | Microsoft Learn:
         ☐ Autoscaling v2 SKU https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant (2025-01-15 05:32 AM)
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/application-gateway (2025-01-14 11:00 PM)
         ☐ Azure PowerShell https://learn.microsoft.com/powershell/azure/ (2025-01-14 11:38 PM)
+
+
+---
+
+            ☐ Application Gateway features https://learn.microsoft.com/en-us/azure/application-gateway/features (2025-01-24 05:34 AM)
+            ☐ SSL termination and end to end SSL https://learn.microsoft.com/en-us/azure/application-gateway/ssl-overview (2025-01-24 05:34 AM)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq (2025-01-24 05:34 AM)
+            ☐ Migrate from v1 to v2 https://learn.microsoft.com/en-us/azure/application-gateway/migrate-v1-v2 (2025-01-24 05:34 AM)
+        ☐ Azure Resource Manager https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview (2025-01-24 05:34 AM)
 

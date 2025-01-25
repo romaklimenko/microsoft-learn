@@ -207,8 +207,8 @@ Azure Event Grid documentation | Microsoft Learn:
                     ☐ Azure Storage Actions https://learn.microsoft.com/en-us/azure/event-grid/event-schema-storage-actions (2024-03-07 06:04 PM)
                     ☐ Azure subscriptions https://learn.microsoft.com/en-us/azure/event-grid/event-schema-subscriptions (2024-02-27 11:07 PM)
             Partner Events:
-                ☐ Partner Events overview (customers) https://learn.microsoft.com/en-us/azure/event-grid/partner-events-overview (2024-01-31 11:11 PM)
-                ☐ Partner Events overview (partners) https://learn.microsoft.com/en-us/azure/event-grid/partner-events-overview-for-partners (2024-12-09 06:04 PM)
+                ✘ Partner Events overview (customers) https://learn.microsoft.com/en-us/azure/event-grid/partner-events-overview (2024-01-31 11:11 PM) @cancelled
+                ✘ Partner Events overview (partners) https://learn.microsoft.com/en-us/azure/event-grid/partner-events-overview-for-partners (2024-12-09 06:04 PM) @cancelled
                 Event sources (publishers):
                     ☐ Auth0 https://learn.microsoft.com/en-us/azure/event-grid/auth0-overview (2022-04-04 10:13 PM)
                     ☐ SAP https://learn.microsoft.com/en-us/azure/event-grid/subscribe-to-sap-events (2024-07-12 10:08 PM)
@@ -323,7 +323,7 @@ Azure Event Grid documentation | Microsoft Learn:
                 ☐ Create alerts https://learn.microsoft.com/en-us/azure/event-grid/set-alerts (2024-09-11 06:38 PM)
             Troubleshoot:
                 ☐ Troubleshoot Event Grid issues https://learn.microsoft.com/en-us/azure/event-grid/troubleshoot-issues (2024-09-11 06:38 PM)
-                ☐ Troubleshoot errors https://learn.microsoft.com/en-us/azure/event-grid/troubleshoot-errors (2024-01-23 06:04 PM)
+                ✘ Troubleshoot errors https://learn.microsoft.com/en-us/azure/event-grid/troubleshoot-errors (2024-01-23 06:04 PM) @cancelled
                 ☐ Troubleshoot network connectivity issues https://learn.microsoft.com/en-us/azure/event-grid/troubleshoot-network-connectivity (2024-12-09 06:04 PM)
                 ✘ Troubleshoot subscription validation https://learn.microsoft.com/en-us/azure/event-grid/troubleshoot-subscription-validation (2024-11-04 11:02 PM) @cancelled
         Reference:
@@ -512,8 +512,20 @@ Azure Event Grid documentation | Microsoft Learn:
             ☐ Filter events https://learn.microsoft.com/en-us/azure/event-grid/how-to-filter-events (2025-01-23 05:38 AM)
             ☐ Track asynchronous REST operations https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/async-operations?toc=/azure/event-grid/toc.json (2025-01-23 05:38 AM)
                 ☐ Troubleshoot subscription validation https://learn.microsoft.com/en-us/azure/event-grid/troubleshoot-subscription-validation (2025-01-23 05:38 AM)
-            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-23 12:43 PM)
-            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-23 12:43 PM)
-            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-23 12:08 PM)
-            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-23 12:08 PM)
+            ✘ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-23 12:43 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-23 12:43 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-23 12:08 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-23 12:08 PM) @cancelled
+
+
+---
+
+                    ☐ Portal https://learn.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal (2025-01-15 06:04 PM)
+                    ☐ PowerShell https://learn.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-powershell (2024-08-21 10:04 PM)
+                ☐ Partner Events overview (customers) https://learn.microsoft.com/en-us/azure/event-grid/partner-events-overview (2025-01-24 05:34 AM)
+                ☐ Troubleshoot errors https://learn.microsoft.com/en-us/azure/event-grid/troubleshoot-errors (2025-01-24 05:34 AM)
+            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-24 12:40 PM)
+            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-24 12:40 PM)
+            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-24 12:06 PM)
+            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-24 12:11 PM)
 

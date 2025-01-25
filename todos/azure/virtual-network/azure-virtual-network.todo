@@ -1,7 +1,7 @@
 Azure Virtual Network Documentation - Tutorials, quickstarts, API references | Microsoft Learn:
     ☐ Virtual Network documentation https://learn.microsoft.com/en-us/azure/virtual-network/ (2024-11-11 06:07 PM)
     Overview:
-        ☐ About Virtual Network https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview (2024-09-19 06:07 PM)
+        ✘ About Virtual Network https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview (2024-09-19 06:07 PM) @cancelled
     Quickstarts:
         ☐ Create virtual network - Portal https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-portal (2024-08-08 05:34 AM)
         ☐ Create virtual network - PowerShell https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-powershell (2024-08-08 05:34 AM)
@@ -27,7 +27,7 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
         Integrate Azure services:
             ✘ Overview https://learn.microsoft.com/en-us/azure/virtual-network/vnet-integration-for-azure-services (2024-08-08 05:34 AM) @cancelled
             ✘ Deploy a dedicated service https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-for-azure-services (2024-12-09 06:04 PM) @cancelled
-            ☐ Private Link https://learn.microsoft.com/en-us/azure/private-link/private-link-overview?toc=/azure/virtual-network/toc.json (2024-12-05 05:33 AM)
+            ✘ Private Link https://learn.microsoft.com/en-us/azure/private-link/private-link-overview?toc=/azure/virtual-network/toc.json (2024-12-05 05:33 AM) @cancelled
             ✘ Service endpoints https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview (2024-11-04 06:02 PM) @cancelled
             ✘ Service tags https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview (2024-12-11 06:03 PM) @cancelled
         Security:
@@ -55,7 +55,7 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
         ☐ Classic deployment https://learn.microsoft.com/previous-versions/azure/virtual-network/virtual-network-ip-addresses-overview-classic (2020-01-24 08:45 PM)
     How-to guides:
         Plan and configure:
-            ☐ Plan virtual networks https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm (2024-11-22 11:02 PM)
+            ✘ Plan virtual networks https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm (2024-11-22 11:02 PM) @cancelled
             ☐ Name resolution for VMs and cloud services https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances (2024-11-22 11:02 PM)
             ☐ Use dynamic DNS with your own DNS server https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-ddns (2024-11-22 11:02 PM)
             ☐ Optimize network throughput https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-optimize-network-bandwidth (2024-11-22 11:02 PM)
@@ -124,8 +124,8 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
             ☐ Virtual networks https://learn.microsoft.com/en-us/azure/resource-mover/tutorial-move-region-virtual-machines?toc=/azure/virtual-network/toc.json (2024-08-02 11:27 AM)
             ☐ Network interfaces (NICs) https://learn.microsoft.com/en-us/azure/resource-mover/tutorial-move-region-virtual-machines?toc=/azure/virtual-network/toc.json (2024-08-02 11:27 AM)
             Manual relocation:
-                ☐ Network security groups (NSG) https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-virtual-network-nsg?toc=/azure/virtual-network/toc.json (2024-07-11 05:12 PM)
-                ☐ Virtual networks https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-virtual-network?toc=/azure/virtual-network/toc.json (2024-08-08 05:34 AM)
+                ✘ Network security groups (NSG) https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-virtual-network-nsg?toc=/azure/virtual-network/toc.json (2024-07-11 05:12 PM) @cancelled
+                ✘ Virtual networks https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-virtual-network?toc=/azure/virtual-network/toc.json (2024-08-08 05:34 AM) @cancelled
         Troubleshoot:
             ☐ Troubleshoot virtual network peering issues https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-peering-issues (2024-08-08 05:34 AM)
             ☐ Network security groups https://learn.microsoft.com/en-us/azure/virtual-network/diagnose-network-traffic-filter-problem (2024-08-22 07:16 PM)
@@ -186,19 +186,19 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
 
         ✘ Concepts and best practices https://learn.microsoft.com/en-us/azure/virtual-network/concepts-and-best-practices (2024-12-31 12:14 PM) @cancelled
         ☐ Business continuity https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-disaster-recovery-guidance (2024-12-31 12:14 PM)
-            ☐ Routing https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview (2024-12-31 12:14 PM)
+            ✘ Routing https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview (2024-12-31 12:14 PM) @cancelled
             ☐ Container networking https://learn.microsoft.com/en-us/azure/virtual-network/container-networking-overview (2024-12-31 12:14 PM)
             ☐ Peering https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview (2024-12-31 12:14 PM)
-            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-network/vnet-integration-for-azure-services (2024-12-31 12:14 PM)
+            ✘ Overview https://learn.microsoft.com/en-us/azure/virtual-network/vnet-integration-for-azure-services (2024-12-31 12:14 PM) @cancelled
             ☐ Deploy a dedicated service https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-for-azure-services (2024-12-31 12:14 PM)
             ☐ Service endpoints https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview (2024-12-31 12:14 PM)
-            ☐ Network isolation of Azure services https://learn.microsoft.com/en-us/azure/virtual-network/vnet-integration-for-azure-services (2024-12-31 12:14 PM)
+            ✘ Network isolation of Azure services https://learn.microsoft.com/en-us/azure/virtual-network/vnet-integration-for-azure-services (2024-12-31 12:14 PM) @cancelled
                 ☐ How it works https://learn.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works (2024-12-31 12:14 PM)
             ☐ Service endpoint policies https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies-overview (2024-12-31 12:14 PM)
             ☐ Kubernetes network policies https://learn.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies (2024-12-31 12:14 PM)
             ☐ Subnet extension https://learn.microsoft.com/en-us/azure/virtual-network/subnet-extension (2024-12-31 12:14 PM)
             ☐ Subnet delegation https://learn.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview (2024-12-31 12:14 PM)
-        ☐ Virtual machine networking https://learn.microsoft.com/en-us/azure/virtual-network/network-overview (2024-12-31 12:14 PM)
+        ✘ Virtual machine networking https://learn.microsoft.com/en-us/azure/virtual-network/network-overview (2024-12-31 12:14 PM) @cancelled
                 ☐ Secure networks with virtual appliances https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-scenario-udr-gw-nva (2024-12-31 12:14 PM)
             ☐ Virtual machine network throughput https://learn.microsoft.com/en-us/azure/virtual-network/virtual-machine-network-throughput (2024-12-31 12:14 PM)
             ☐ About IP address 168.63.129.16 https://learn.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16 (2024-12-31 12:14 PM)
@@ -214,7 +214,7 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
 ---
 
                 ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-encryption-faq (2025-01-02 11:04 PM)
-        ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq (2025-01-02 11:04 PM)
+        ✘ FAQ https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq (2025-01-02 11:04 PM) @cancelled
 
 
 ---
@@ -265,4 +265,18 @@ Azure Virtual Network Documentation - Tutorials, quickstarts, API references | M
 ---
 
         ☐ Node.js https://learn.microsoft.com/javascript/azure#azure-sdk (2025-01-23 06:01 PM)
+
+
+---
+
+        ☐ About Virtual Network https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview (2025-01-24 05:34 AM)
+            ☐ Routing https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview (2025-01-24 05:34 AM)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-network/vnet-integration-for-azure-services (2025-01-24 05:34 AM)
+            ☐ Private Link https://learn.microsoft.com/en-us/azure/private-link/private-link-overview?toc=/azure/virtual-network/toc.json (2025-01-24 05:34 AM)
+            ☐ Network isolation of Azure services https://learn.microsoft.com/en-us/azure/virtual-network/vnet-integration-for-azure-services (2025-01-24 05:34 AM)
+        ☐ Virtual machine networking https://learn.microsoft.com/en-us/azure/virtual-network/network-overview (2025-01-24 05:34 AM)
+            ☐ Plan virtual networks https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm (2025-01-24 05:34 AM)
+                ☐ Network security groups (NSG) https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-virtual-network-nsg?toc=/azure/virtual-network/toc.json (2025-01-24 05:34 AM)
+                ☐ Virtual networks https://learn.microsoft.com/en-us/azure/operational-excellence/relocation-virtual-network?toc=/azure/virtual-network/toc.json (2025-01-24 05:34 AM)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq (2025-01-24 05:34 AM)
 

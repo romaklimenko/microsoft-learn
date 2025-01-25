@@ -98,7 +98,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
         ☐ Pipeline execution and triggers https://learn.microsoft.com/en-us/azure/data-factory/concepts-pipeline-execution-triggers (2024-09-03 10:09 PM)
         Integration runtime:
             ☐ Integration runtime overview https://learn.microsoft.com/en-us/azure/data-factory/concepts-integration-runtime (2024-08-02 11:27 AM)
-            ☐ Choose the right integration runtime configuration for your scenario https://learn.microsoft.com/en-us/azure/data-factory/choose-the-right-integration-runtime-configuration (2024-09-26 10:04 PM)
+            ✘ Choose the right integration runtime configuration for your scenario https://learn.microsoft.com/en-us/azure/data-factory/choose-the-right-integration-runtime-configuration (2024-09-26 10:04 PM) @cancelled
         Data flows:
             Transform data with mapping data flows:
                 ☐ Mapping data flow overview https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-overview (2024-09-26 10:04 PM)
@@ -532,7 +532,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
                 ☐ Get delta data from SAP ECC via SAP CDC in mapping data flows https://learn.microsoft.com/en-us/azure/data-factory/pricing-examples-get-delta-data-from-sap-ecc (2024-08-02 11:27 AM)
         Troubleshooting guides:
             ☐ Azure Data Factory Studio https://learn.microsoft.com/en-us/azure/data-factory/data-factory-ux-troubleshoot-guide (2024-08-02 11:27 AM)
-            ☐ Activities https://learn.microsoft.com/en-us/azure/data-factory/data-factory-troubleshoot-guide (2024-12-11 06:03 PM)
+            ✘ Activities https://learn.microsoft.com/en-us/azure/data-factory/data-factory-troubleshoot-guide (2024-12-11 06:03 PM) @cancelled
             Change data capture:
                 ☐ Change data capture troubleshooting https://learn.microsoft.com/en-us/azure/data-factory/change-data-capture-troubleshoot (2024-10-04 11:22 AM)
             Connectors:
@@ -564,7 +564,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
                 ☐ XML format https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-xml (2024-08-02 11:27 AM)
             ☐ Pipeline Triggers https://learn.microsoft.com/en-us/azure/data-factory/pipeline-trigger-troubleshoot-guide (2024-10-04 11:22 AM)
             Data Flows:
-                ☐ Data flow troubleshooting guide https://learn.microsoft.com/en-us/azure/data-factory/data-flow-troubleshoot-guide (2024-12-11 06:03 PM)
+                ✘ Data flow troubleshooting guide https://learn.microsoft.com/en-us/azure/data-factory/data-flow-troubleshoot-guide (2024-12-11 06:03 PM) @cancelled
                 ☐ Connector and format https://learn.microsoft.com/en-us/azure/data-factory/data-flow-troubleshoot-connector-format (2024-10-18 10:05 PM)
             ✘ Continuous Integration and Deployment https://learn.microsoft.com/en-us/azure/data-factory/ci-cd-github-troubleshoot-guide (2024-08-02 11:27 AM) @cancelled
             ☐ Security and access control https://learn.microsoft.com/en-us/azure/data-factory/security-and-access-control-troubleshoot-guide (2024-08-07 10:04 PM)
@@ -621,7 +621,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ Connector upgrades https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-plan (2024-12-13 12:09 PM)
             ☐ Connector upgrade FAQ https://learn.microsoft.com/en-us/azure/data-factory/connector-deprecation-frequently-asked-questions (2024-11-26 12:20 PM)
         ☐ Whitepapers https://learn.microsoft.com/en-us/azure/data-factory/whitepapers (2024-08-02 11:27 AM)
-        ☐ FAQ https://learn.microsoft.com/en-us/azure/data-factory/frequently-asked-questions (2024-08-26 10:08 PM)
+        ✘ FAQ https://learn.microsoft.com/en-us/azure/data-factory/frequently-asked-questions (2024-08-26 10:08 PM) @cancelled
         ☐ Service updates https://azure.microsoft.com/updates/?product=data-factory
         ☐ Blog https://techcommunity.microsoft.com/t5/azure-data-factory/bg-p/AzureDataFactoryBlog
         ☐ Ask a question - Microsoft Q&A question page https://learn.microsoft.com/answers/topics/azure-data-factory.html
@@ -630,7 +630,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
         ☐ Pricing https://azure.microsoft.com/pricing/details/data-factory/
         ☐ Availability by region https://azure.microsoft.com/global-infrastructure/services/
         ☐ Support options https://azure.microsoft.com/support/options/
-        ☐ Request quota increases from support https://learn.microsoft.com/en-us/azure/data-factory/quota-increase (2024-10-04 11:22 AM)
+        ✘ Request quota increases from support https://learn.microsoft.com/en-us/azure/data-factory/quota-increase (2024-10-04 11:22 AM) @cancelled
         ☐ Limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#data-factory-limits (2024-12-12 12:24 PM)
 
 
@@ -789,6 +789,18 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
 
 ---
 
-        ☐ Code samples https://azure.microsoft.com/resources/samples/?service=data-factory
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-23 12:08 PM)
+        ✘ Code samples https://azure.microsoft.com/resources/samples/?service=data-factory @cancelled
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-23 12:08 PM) @cancelled
+
+
+---
+
+        ☐ Code samples https://azure.microsoft.com/resources/samples/?service=data-factory (2024-11-01 08:16 PM)
+            ☐ Choose the right integration runtime configuration for your scenario https://learn.microsoft.com/en-us/azure/data-factory/choose-the-right-integration-runtime-configuration (2025-01-24 05:34 AM)
+            ☐ Activities https://learn.microsoft.com/en-us/azure/data-factory/data-factory-troubleshoot-guide (2025-01-24 05:34 AM)
+                ☐ Data flow troubleshooting guide https://learn.microsoft.com/en-us/azure/data-factory/data-flow-troubleshoot-guide (2025-01-24 05:34 AM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-24 12:06 PM)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/data-factory/frequently-asked-questions (2025-01-24 05:34 AM)
+        ☐ Request quota increases from support https://learn.microsoft.com/en-us/azure/data-factory/quota-increase (2025-01-24 05:34 AM)
+        ☐ Limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits#azure-data-factory-limits (2025-01-24 05:34 AM)
 

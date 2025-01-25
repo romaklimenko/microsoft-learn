@@ -6,7 +6,7 @@ Azure Functions documentation | Microsoft Learn:
         ☐ Getting started https://learn.microsoft.com/en-us/azure/azure-functions/functions-get-started (2024-09-19 10:05 PM)
         ☐ Durable Functions https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview (2024-09-10 05:10 PM)
         ☐ Serverless comparison https://learn.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs (2024-09-29 11:22 AM)
-        ☐ Hosting plan options https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale (2024-11-21 11:02 PM)
+        ✘ Hosting plan options https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale (2024-11-21 11:02 PM) @cancelled
     Quickstarts:
         Create your first function:
             C#:
@@ -91,7 +91,7 @@ Azure Functions documentation | Microsoft Learn:
         Networking:
             ☐ Connect to a Virtual Network https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet (2024-12-03 11:07 PM)
             ☐ Establish private site access https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-private-site-access (2024-06-17 10:05 PM)
-            ☐ Use an outbound NAT gateway https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-nat-gateway (2023-06-20 10:01 PM)
+            ✘ Use an outbound NAT gateway https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-nat-gateway (2023-06-20 10:01 PM) @cancelled
         Identity-based connections:
             ☐ Use identity for host connections https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-based-connections-tutorial (2024-11-19 06:02 PM)
             ☐ Use identity for triggers and bindings https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-based-connections-tutorial-2 (2024-08-07 10:04 PM)
@@ -143,7 +143,7 @@ Azure Functions documentation | Microsoft Learn:
             ☐ Premium plan https://learn.microsoft.com/en-us/azure/azure-functions/functions-premium-plan (2024-09-13 10:05 PM)
             ☐ Dedicated plan https://learn.microsoft.com/en-us/azure/azure-functions/dedicated-plan (2024-12-03 11:07 PM)
             Container hosting:
-                ☐ Containerized functions https://learn.microsoft.com/en-us/azure/azure-functions/container-concepts (2024-12-03 11:07 PM)
+                ✘ Containerized functions https://learn.microsoft.com/en-us/azure/azure-functions/container-concepts (2024-12-03 11:07 PM) @cancelled
                 ☐ Azure Container Apps hosting https://learn.microsoft.com/en-us/azure/azure-functions/functions-container-apps-hosting (2024-11-06 12:14 PM)
         ☐ Deployment options https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies (2024-11-12 06:06 PM)
         Events and messaging:
@@ -184,9 +184,9 @@ Azure Functions documentation | Microsoft Learn:
         ☐ Java https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-java (2024-12-03 11:07 PM)
         ✘ PowerShell https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell (2024-12-06 11:03 PM) @cancelled
         Python:
-            ☐ Developer reference guide https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python (2024-11-21 11:02 PM)
-            ☐ Programming models https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python#programming-model (2024-11-21 11:02 PM)
-            ☐ Binding definitions for Python v2 https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python (2024-11-21 11:02 PM)
+            ✘ Developer reference guide https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python (2024-11-21 11:02 PM) @cancelled
+            ✘ Programming models https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python#programming-model (2024-11-21 11:02 PM) @cancelled
+            ✘ Binding definitions for Python v2 https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python (2024-11-21 11:02 PM) @cancelled
             ☐ Python worker extensions https://learn.microsoft.com/en-us/azure/azure-functions/develop-python-worker-extensions (2023-04-25 11:20 AM)
             ☐ Scale and performance recommendations https://learn.microsoft.com/en-us/azure/azure-functions/python-scale-performance-reference (2023-10-26 10:02 PM)
             Troubleshooting:
@@ -199,8 +199,8 @@ Azure Functions documentation | Microsoft Learn:
             ☐ Developer guide https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference (2024-12-03 11:07 PM)
             Local development:
                 ☐ Develop and debug locally https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-local (2024-08-21 10:04 PM)
-                ☐ Visual Studio Code development https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code (2024-08-30 10:06 PM)
-                ☐ Visual Studio development https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs (2024-11-19 06:02 PM)
+                ✘ Visual Studio Code development https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code (2024-08-30 10:06 PM) @cancelled
+                ✘ Visual Studio development https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs (2024-11-19 06:02 PM) @cancelled
                 ☐ Core Tools development https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local (2024-10-17 05:04 PM)
             Create functions:
                 HTTP trigger:
@@ -235,7 +235,7 @@ Azure Functions documentation | Microsoft Learn:
             ☐ Develop Python worker extensions https://learn.microsoft.com/en-us/azure/azure-functions/develop-python-worker-extensions (2023-04-25 11:20 AM)
         Deploy:
             ☐ Continuous deployment https://learn.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment (2024-12-03 11:07 PM)
-            ☐ Deployment slots https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-slots (2024-10-30 07:28 PM)
+            ✘ Deployment slots https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-slots (2024-10-30 07:28 PM) @cancelled
             Containers:
                 ☐ Work with containers https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-custom-container (2024-12-03 11:07 PM)
                 ☐ Create functions in containers https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-container-registry (2024-06-10 05:07 PM)
@@ -315,14 +315,14 @@ Azure Functions documentation | Microsoft Learn:
                 ☐ Remove Start/Stop VMs https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/remove (2022-06-09 05:05 PM)
                 ☐ Define pre-actions https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/pre-actions (2022-09-30 10:03 PM)
                 ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/troubleshoot (2024-10-29 05:03 PM)
-            ☐ Connect to SQL Database https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenario-database-table-cleanup (2023-01-30 11:04 PM)
+            ✘ Connect to SQL Database https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenario-database-table-cleanup (2023-01-30 11:04 PM) @cancelled
             ☐ Connect to a virtual Network https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet (2024-12-03 11:07 PM)
             Create OpenAPI definitions:
                 ☐ API Management integration (portal) https://learn.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition (2022-02-02 11:03 PM)
                 ☐ Visual Studio with API Management (C#) https://learn.microsoft.com/en-us/azure/azure-functions/openapi-apim-integrate-visual-studio (2024-08-07 10:04 PM)
             ☐ Use a managed identity https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?toc=/azure/azure-functions/toc.json (2024-10-22 05:03 PM)
             ☐ Customize endpoints with legacy proxies https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-serverless-api (2024-08-21 10:04 PM)
-            ☐ Manage on-premises resources https://learn.microsoft.com/en-us/azure/azure-functions/functions-hybrid-powershell (2023-03-03 12:19 PM)
+            ✘ Manage on-premises resources https://learn.microsoft.com/en-us/azure/azure-functions/functions-hybrid-powershell (2023-03-03 12:19 PM) @cancelled
         Troubleshoot:
             ☐ Storage connections https://learn.microsoft.com/en-us/azure/azure-functions/functions-recover-storage-account (2024-03-27 05:39 AM)
             ☐ Azure Cosmos DB bindings https://learn.microsoft.com/azure/cosmos-db/troubleshoot-changefeed-functions?toc=/azure/azure-functions/toc.json (2024-09-27 10:00 PM)
@@ -484,7 +484,7 @@ Azure Functions documentation | Microsoft Learn:
         ☐ Pricing details https://azure.microsoft.com/pricing/details/functions/
         ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
         ✘ Language support policy https://learn.microsoft.com/en-us/azure/azure-functions/language-support-policy (2024-11-11 11:02 PM) @cancelled
-        ☐ Quota information https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale#service-limits (2024-11-21 11:02 PM)
+        ✘ Quota information https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale#service-limits (2024-11-21 11:02 PM) @cancelled
         ☐ Regional availability https://azure.microsoft.com/global-infrastructure/services/
         ☐ Videos https://www.youtube.com/@AzureDevelopers/search?query=functions
         ☐ Microsoft Q&A question page https://learn.microsoft.com/answers/topics/azure-functions.html
@@ -538,7 +538,7 @@ Azure Functions documentation | Microsoft Learn:
 
         ☐ Scenarios https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenarios (2025-01-03 11:01 PM)
                 ☐ IntelliJ IDEA https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij (2024-12-30 06:35 PM)
-        ☐ Compare runtime versions https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions (2025-01-03 11:01 PM)
+        ✘ Compare runtime versions https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions (2025-01-03 11:01 PM) @cancelled
             ☐ Restrict IPs https://learn.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions?toc=/azure/azure-functions/toc.json (2025-01-06 06:06 PM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql (2025-01-02 11:04 PM)
                 ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql-output (2025-01-02 11:04 PM)
@@ -593,4 +593,20 @@ Azure Functions documentation | Microsoft Learn:
             ☐ Flex Consumption plan https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan (2025-01-22 11:02 PM)
         ☐ PowerShell https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell (2025-01-22 11:02 PM)
             ☐ Work with OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-functions/opentelemetry-howto (2025-01-22 11:02 PM)
+
+
+---
+
+        ☐ Hosting plan options https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale (2025-01-24 05:34 AM)
+            ☐ Use an outbound NAT gateway https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-nat-gateway (2025-01-23 11:10 PM)
+        ☐ Compare runtime versions https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions (2025-01-23 11:10 PM)
+                ☐ Containerized functions https://learn.microsoft.com/en-us/azure/azure-functions/container-concepts (2025-01-24 05:34 AM)
+            ☐ Developer reference guide https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python (2025-01-24 05:34 AM)
+            ☐ Programming models https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python#programming-model (2025-01-24 05:34 AM)
+            ☐ Binding definitions for Python v2 https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python (2025-01-24 05:34 AM)
+                ☐ Visual Studio development https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs (2025-01-23 11:10 PM)
+            ☐ Deployment slots https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-slots (2025-01-24 05:34 AM)
+            ☐ Connect to SQL Database https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenario-database-table-cleanup (2025-01-23 11:10 PM)
+            ☐ Manage on-premises resources https://learn.microsoft.com/en-us/azure/azure-functions/functions-hybrid-powershell (2025-01-23 11:10 PM)
+        ☐ Quota information https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale#service-limits (2025-01-24 05:34 AM)
 

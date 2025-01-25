@@ -1,7 +1,7 @@
 VPN Gateway documentation | Microsoft Learn:
     ☐ VPN Gateway documentation https://learn.microsoft.com/en-us/azure/vpn-gateway/ (2024-12-03 11:07 PM)
     Overview:
-        ☐ What is VPN Gateway? https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways (2024-12-10 11:02 PM)
+        ✘ What is VPN Gateway? https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways (2024-12-10 11:02 PM) @cancelled
     Tutorials:
         ✘ Create and manage a VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2024-11-20 11:04 PM) @cancelled
         ✘ Configure a site-to-site connection https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2024-11-20 11:04 PM) @cancelled
@@ -121,7 +121,7 @@ VPN Gateway documentation | Microsoft Learn:
             Configure Always On tunnels:
                 ☐ Device tunnel https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-device-tunnel (2024-12-13 11:03 PM)
                 ☐ User tunnel https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-user-tunnel (2024-11-04 11:02 PM)
-            ☐ Move to OpenVPN or IKEv2 from SSTP https://learn.microsoft.com/en-us/azure/vpn-gateway/ikev2-openvpn-from-sstp (2024-08-09 05:35 AM)
+            ✘ Move to OpenVPN or IKEv2 from SSTP https://learn.microsoft.com/en-us/azure/vpn-gateway/ikev2-openvpn-from-sstp (2024-08-09 05:35 AM) @cancelled
             ☐ P2S session management https://learn.microsoft.com/en-us/azure/vpn-gateway/p2s-session-management (2024-08-02 11:27 AM)
             ☐ Advertise custom routes to P2S clients https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-p2s-advertise-custom-routes (2024-10-15 10:04 PM)
             ☐ Create custom IPsec policies for P2S https://learn.microsoft.com/en-us/azure/vpn-gateway/create-custom-policies-p2s-ps (2024-11-04 11:02 PM)
@@ -188,7 +188,7 @@ VPN Gateway documentation | Microsoft Learn:
         ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=networking
         ☐ Blog https://azure.microsoft.com/blog/topics/networking
         ☐ Microsoft Q&A question page https://learn.microsoft.com/answers/topics/azure-virtual-network.html
-        ☐ Subscription and service limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/vpn-gateway/toc.json (2024-12-12 12:24 PM)
+        ✘ Subscription and service limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/vpn-gateway/toc.json (2024-12-12 12:24 PM) @cancelled
         ☐ Pricing https://azure.microsoft.com/pricing/details/vpn-gateway
         ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
         ☐ SLA https://azure.microsoft.com/support/legal/sla
@@ -238,14 +238,23 @@ VPN Gateway documentation | Microsoft Learn:
 ---
 
         ☐ Configure a site-to-site connection https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2025-01-15 11:02 PM)
-        ☐ About VPN Gateway design https://learn.microsoft.com/en-us/azure/vpn-gateway/design (2025-01-16 06:09 AM)
+        ✘ About VPN Gateway design https://learn.microsoft.com/en-us/azure/vpn-gateway/design (2025-01-16 06:09 AM) @cancelled
         ☐ About point-to-site VPN https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about (2025-01-16 11:03 PM)
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2025-01-15 11:02 PM)
                     ☐ Linux clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-linux (2025-01-16 11:03 PM)
-            ☐ Configure and validate VNet or VPN connections https://support.microsoft.com/help/4032151/configuring-and-validating-vnet-or-vpn-connections (2025-01-16 06:09 AM)
+            ✘ Configure and validate VNet or VPN connections https://support.microsoft.com/help/4032151/configuring-and-validating-vnet-or-vpn-connections (2025-01-16 06:09 AM) @cancelled
 
 
 ---
 
                     ☐ Configure multifactor authentication (MFA) https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-mfa (2025-01-22 11:02 PM)
+
+
+---
+
+        ☐ What is VPN Gateway? https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways (2025-01-24 05:34 AM)
+        ☐ About VPN Gateway design https://learn.microsoft.com/en-us/azure/vpn-gateway/design (2025-01-24 05:34 AM)
+            ☐ Move to OpenVPN or IKEv2 from SSTP https://learn.microsoft.com/en-us/azure/vpn-gateway/ikev2-openvpn-from-sstp (2025-01-24 05:34 AM)
+            ☐ Configure and validate VNet or VPN connections https://support.microsoft.com/help/4032151/configuring-and-validating-vnet-or-vpn-connections (2025-01-24 05:34 AM)
+        ☐ Subscription and service limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/vpn-gateway/toc.json (2025-01-24 05:34 AM)
 
