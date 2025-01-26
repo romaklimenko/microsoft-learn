@@ -44,7 +44,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ Long-term backup retention https://learn.microsoft.com/en-us/azure/azure-sql/database/long-term-retention-overview (2024-08-12 10:33 PM)
             Monitor and tune:
                 ☐ Documentation https://learn.microsoft.com/en-us/azure/azure-sql/database/monitoring-tuning-index (2024-08-23 10:35 PM)
-                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/monitor-tune-overview (2024-10-09 01:28 AM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/monitor-tune-overview (2024-10-09 01:28 AM) @cancelled
                 ☐ Intelligent Insights https://learn.microsoft.com/en-us/azure/azure-sql/database/intelligent-insights-overview (2024-08-23 10:35 PM)
                 Database watcher (preview):
                     ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-overview (2024-11-12 06:04 PM)
@@ -516,7 +516,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
         ☐ Documentation https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/ (2024-07-31 05:33 PM)
         Overview:
             ✘ What is Azure SQL Managed Instance? https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/sql-managed-instance-paas-overview (2024-12-19 11:35 PM) @cancelled
-            ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/doc-changes-updates-release-notes-whats-new (2024-12-19 11:35 PM)
+            ✘ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/doc-changes-updates-release-notes-whats-new (2024-12-19 11:35 PM) @cancelled
             ☐ Try for free https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/free-offer (2024-11-22 07:03 PM)
             ✘ Frequently asked questions https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/frequently-asked-questions-faq (2024-12-19 11:35 PM) @cancelled
         Quickstarts https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/quickstart-content-reference-guide (2024-07-31 05:33 PM):
@@ -689,7 +689,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ How-to documentation https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/how-to-content-reference-guide (2024-12-09 06:32 PM)
             ☐ Connect applications https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/connect-application-instance (2024-07-31 05:33 PM)
             ☐ Distributed transactions with DTC https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/distributed-transaction-coordinator-dtc (2024-12-04 06:33 PM)
-            ☐ Enroll in November 2022 feature wave https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/november-2022-feature-wave-enroll (2024-12-19 11:35 PM)
+            ✘ Enroll in November 2022 feature wave https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/november-2022-feature-wave-enroll (2024-12-19 11:35 PM) @cancelled
             ☐ Use Next-gen General Purpose tier https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/service-tiers-next-gen-general-purpose-use (2024-10-18 05:32 PM)
             Automation:
                 ☐ Azure Automation https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/automation-manage (2024-07-31 05:33 PM)
@@ -799,8 +799,8 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             How-to guides:
                 ☐ Connect to SQL Server VM https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/ways-to-connect-to-sql (2024-11-26 06:31 PM)
                 Create SQL Server VM:
-                    ☐ Use the portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/create-sql-vm-portal (2024-10-22 11:03 PM)
-                    ☐ Use Azure PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/create-sql-vm-powershell (2024-10-22 11:03 PM)
+                    ✘ Use the portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/create-sql-vm-portal (2024-10-22 11:03 PM) @cancelled
+                    ✘ Use Azure PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/create-sql-vm-powershell (2024-10-22 11:03 PM) @cancelled
                     ☐ on Azure confidential VMs https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-vm-create-confidential-vm-how-to (2024-10-22 11:03 PM)
                 Manage:
                     ✘ With the Azure portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/manage-sql-vm-portal (2024-10-22 11:03 PM) @cancelled
@@ -812,7 +812,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ Azure Update Manager https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/azure-update-manager-sql-vm (2024-10-22 11:03 PM)
                     ✘ Automated Patching https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/automated-patching (2024-10-22 11:03 PM) @cancelled
                     ☐ Azure Key Vault Integration https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/azure-key-vault-integration-configure (2024-11-25 11:30 PM)
-                    ☐ Migrate storage to Ultradisk https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/storage-migrate-to-ultradisk (2024-10-22 11:03 PM)
+                    ✘ Migrate storage to Ultradisk https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/storage-migrate-to-ultradisk (2024-10-22 11:03 PM) @cancelled
                     SQL IaaS Agent extension:
                         ☐ Automatic registration https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-agent-extension-automatic-registration-all-vms (2024-10-22 11:03 PM)
                         ✘ Register single VM https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-agent-extension-manually-register-single-vm (2024-10-22 11:03 PM) @cancelled
@@ -832,37 +832,37 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                         ☐ Automated backup (SQL 2014) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/automated-backup-sql-2014 (2024-10-22 11:03 PM)
                     Availability group (AG):
                         Configure AG (multi-subnet):
-                            ☐ Azure portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-azure-portal-configure (2024-10-22 11:03 PM)
-                            ☐ PowerShell or Az CLI https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-az-commandline-configure-multi-subnet (2024-10-22 11:03 PM)
+                            ✘ Azure portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-azure-portal-configure (2024-10-22 11:03 PM) @cancelled
+                            ✘ PowerShell or Az CLI https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-az-commandline-configure-multi-subnet (2024-10-22 11:03 PM) @cancelled
                             ☐ Migrate single subnet to multi-subnet https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-migrate-multi-subnet (2024-10-22 11:03 PM)
                             Manually:
-                                ☐ Prerequisites https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-prerequisites-tutorial-multi-subnet (2024-10-22 11:03 PM)
-                                ☐ Create availability group https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-tutorial-multi-subnet (2024-10-22 11:03 PM)
-                                ☐ Extend AG to multiple regions https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-multi-subnet-multiple-regions (2024-10-22 11:03 PM)
+                                ✘ Prerequisites https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-prerequisites-tutorial-multi-subnet (2024-10-22 11:03 PM) @cancelled
+                                ✘ Create availability group https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-tutorial-multi-subnet (2024-10-22 11:03 PM) @cancelled
+                                ✘ Extend AG to multiple regions https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-multi-subnet-multiple-regions (2024-10-22 11:03 PM) @cancelled
                         Configure AG (single subnet):
-                            ☐ PowerShell or Az CLI https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-az-commandline-configure (2024-10-22 11:03 PM)
-                            ☐ Azure Quickstart templates https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-quickstart-template-configure (2024-12-03 06:32 PM)
-                            ☐ Multiple regions https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-multiple-regions (2024-10-22 11:03 PM)
-                            ☐ Domain-independent (workgroup) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-clusterless-workgroup-configure (2024-10-22 11:03 PM)
+                            ✘ PowerShell or Az CLI https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-az-commandline-configure (2024-10-22 11:03 PM) @cancelled
+                            ✘ Azure Quickstart templates https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-quickstart-template-configure (2024-12-03 06:32 PM) @cancelled
+                            ✘ Multiple regions https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-multiple-regions (2024-10-22 11:03 PM) @cancelled
+                            ✘ Domain-independent (workgroup) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-clusterless-workgroup-configure (2024-10-22 11:03 PM) @cancelled
                             Manually:
-                                ☐ Prerequisites https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-prerequisites-tutorial-single-subnet (2024-10-22 11:03 PM)
-                                ☐ Create availability group https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-tutorial-single-subnet (2024-10-22 11:03 PM)
-                                ☐ Load balancer - Azure portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-load-balancer-portal-configure (2024-10-22 11:03 PM)
+                                ✘ Prerequisites https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-prerequisites-tutorial-single-subnet (2024-10-22 11:03 PM) @cancelled
+                                ✘ Create availability group https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-tutorial-single-subnet (2024-10-22 11:03 PM) @cancelled
+                                ✘ Load balancer - Azure portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-load-balancer-portal-configure (2024-10-22 11:03 PM) @cancelled
                                 ✘ Load balancer - Azure PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-listener-powershell-configure (2024-10-22 11:03 PM) @cancelled
                             Configure connectivity:
                                 ☐ VNN listener https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-vnn-azure-load-balancer-configure (2024-10-22 11:03 PM)
                                 ☐ DNN listener https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-distributed-network-name-dnn-listener-configure (2024-10-22 11:03 PM)
                                 ☐ DNN interoperability https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-dnn-interoperability (2024-10-22 11:03 PM)
                     Failover cluster instance (FCI):
-                        ☐ Prepare VM for FCI https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-prepare-vm (2024-11-21 06:30 PM)
+                        ✘ Prepare VM for FCI https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-prepare-vm (2024-11-21 06:30 PM) @cancelled
                         Create FCI with:
-                            ☐ Azure shared disks https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-azure-shared-disks-manually-configure (2024-10-22 11:03 PM)
-                            ☐ Storage Spaces Direct (Win2016+) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-storage-spaces-direct-manually-configure (2024-10-22 11:03 PM)
-                            ☐ Premium file share (Win2012+) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-premium-file-share-manually-configure (2024-10-22 11:03 PM)
-                            ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-azure-elastic-san-manually-configure (2024-10-22 11:03 PM)
+                            ✘ Azure shared disks https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-azure-shared-disks-manually-configure (2024-10-22 11:03 PM) @cancelled
+                            ✘ Storage Spaces Direct (Win2016+) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-storage-spaces-direct-manually-configure (2024-10-22 11:03 PM) @cancelled
+                            ✘ Premium file share (Win2012+) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-premium-file-share-manually-configure (2024-10-22 11:03 PM) @cancelled
+                            ✘ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-azure-elastic-san-manually-configure (2024-10-22 11:03 PM) @cancelled
                         Configure connectivity (Single subnet):
-                            ☐ Virtual network name (VNN) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-vnn-azure-load-balancer-configure (2024-10-22 11:03 PM)
-                            ☐ Distributed network name (DNN) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-distributed-network-name-dnn-configure (2024-10-22 11:03 PM)
+                            ✘ Virtual network name (VNN) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-vnn-azure-load-balancer-configure (2024-10-22 11:03 PM) @cancelled
+                            ✘ Distributed network name (DNN) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-distributed-network-name-dnn-configure (2024-10-22 11:03 PM) @cancelled
                             ☐ DNN interoperability https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-dnn-interoperability (2024-10-22 11:03 PM)
             Scripts:
                 ☐ Create SQL Server VM with PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/scripts/create-sql-vm-powershell (2024-10-22 11:03 PM)
@@ -981,14 +981,14 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
         ☐ Azure Roadmap https://azure.microsoft.com/roadmap/
         ☐ Public data sets https://learn.microsoft.com/en-us/azure/azure-sql/public-data-sets (2024-11-22 07:03 PM)
         ☐ Pricing https://azure.microsoft.com/pricing/details/azure-sql-database/single/
-        ☐ MSDN forum https://social.msdn.microsoft.com/Forums/home (2024-06-05 01:05 AM)
+        ✘ MSDN forum https://social.msdn.microsoft.com/Forums/home (2024-06-05 01:05 AM) @cancelled
         ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-sql-database
         Microsoft Q&A:
             ☐ Azure SQL Database https://learn.microsoft.com/answers/tags/51/azure-sql-database
             ☐ SQL Server on Azure VMs https://learn.microsoft.com/answers/tags/19/azure-sql-virtual-machines
         What's New Archives:
             ✘ Azure SQL Database https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new-archive (2024-11-21 06:30 PM) @cancelled
-            ☐ Azure SQL Managed Instance https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/doc-changes-updates-release-notes-whats-new-archive (2024-11-05 11:33 PM)
+            ✘ Azure SQL Managed Instance https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/doc-changes-updates-release-notes-whats-new-archive (2024-11-05 11:33 PM) @cancelled
             ✘ SQL Server on Azure VMs https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new-archive (2024-10-22 11:03 PM) @cancelled
         Troubleshoot:
             ☐ Known issues with Azure SQL Managed Instance https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/doc-changes-updates-known-issues (2024-11-25 11:30 PM)
@@ -1051,7 +1051,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ Virtual cluster architecture https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/virtual-cluster-architecture (2025-01-06 11:40 PM)
             ✘ Connectivity architecture https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview (2025-01-03 06:31 PM) @cancelled
                 ☐ High availability https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/high-availability-sla-local-zone-redundancy (2025-01-06 11:40 PM)
-                    ☐ Security https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/security-considerations-best-practices (2025-01-06 11:40 PM)
+                    ✘ Security https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/security-considerations-best-practices (2025-01-06 11:40 PM) @cancelled
 
 
 ---
@@ -1064,7 +1064,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 
 ---
 
-            ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new (2025-01-09 11:30 PM)
+            ✘ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new (2025-01-09 11:30 PM) @cancelled
                 ☐ Elastic pools https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-elastic-pool-overview (2025-01-09 11:30 PM)
                 ✘ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-frequently-asked-questions-faq (2025-01-09 11:30 PM) @cancelled
                 ☐ Logical server limits https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-limits-logical-server (2025-01-09 11:30 PM)
@@ -1079,7 +1079,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 
 ---
 
-            ☐ Azure SQL Database https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new-archive (2024-11-21 06:30 PM)
+            ✘ Azure SQL Database https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new-archive (2024-11-21 06:30 PM) @cancelled
 
 
 ---
@@ -1200,7 +1200,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ Automated Patching https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/automated-patching (2025-01-17 06:30 PM)
                     ☐ Backup and restore using managed identities https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/backup-restore-to-url-using-managed-identities (2025-01-16 06:32 PM)
                     ☐ EKM with AKV using managed identities https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/managed-identity-extensible-key-management (2025-01-16 06:32 PM)
-                                ☐ Load balancer - Azure PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-listener-powershell-configure (2025-01-17 06:30 PM)
+                                ✘ Load balancer - Azure PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-listener-powershell-configure (2025-01-17 06:30 PM) @cancelled
             ☐ From Oracle https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/virtual-machines/oracle-to-sql-on-azure-vm-guide (2025-01-15 11:30 PM)
                 ☐ Overview https://learn.microsoft.com/data-migration/sql-server/virtual-machines/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
                 ☐ Migration guide https://learn.microsoft.com/data-migration/sql-server/virtual-machines/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
@@ -1258,7 +1258,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Long-term backup retention https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/long-term-backup-retention-configure (2025-01-21 11:37 PM)
                 ☐ API reference https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/api-references-create-manage-instance (2025-01-21 11:37 PM)
                 ☐ TDE certificate https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/tde-certificate-migrate (2025-01-21 11:37 PM)
-        ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new (2025-01-21 11:37 PM)
+        ✘ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new (2025-01-21 11:37 PM) @cancelled
                         ☐ Register single VM https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/sql-agent-extension-manually-register-single-vm (2025-01-21 11:37 PM)
 
 
@@ -1266,7 +1266,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 
                 ☐ Import/export (allow Azure services disabled) https://learn.microsoft.com/en-us/azure/azure-sql/database/database-import-export-azure-services-off (2024-09-19 10:31 PM)
                 ☐ Import/export using Private endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/database-import-export-private-link (2025-01-09 11:30 PM)
-            ☐ SQL Server on Azure VMs https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new-archive (2025-01-13 11:31 PM)
+            ✘ SQL Server on Azure VMs https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new-archive (2025-01-13 11:31 PM) @cancelled
             ☐ Import/Export service hangs https://learn.microsoft.com/en-us/azure/azure-sql/database/database-import-export-hang (2024-07-31 05:33 PM)
 
 
@@ -1274,4 +1274,38 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 
                 ☐ Use Azure Functions https://learn.microsoft.com/azure/azure-functions/functions-scenario-database-table-cleanup?toc=/azure/azure-sql/toc.json (2025-01-23 11:10 PM)
             ☐ Connectivity architecture https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview (2025-01-24 06:30 PM)
+
+
+---
+
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/monitor-tune-overview (2025-01-24 11:32 PM)
+            ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new (2025-01-24 11:32 PM)
+            ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/doc-changes-updates-release-notes-whats-new (2025-01-24 11:32 PM)
+            ☐ Enroll in November 2022 feature wave https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/november-2022-feature-wave-enroll (2025-01-24 11:32 PM)
+        ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new (2025-01-24 11:32 PM)
+                    ☐ Security https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/security-considerations-best-practices (2025-01-24 11:32 PM)
+                    ☐ Use the portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/create-sql-vm-portal (2025-01-24 11:32 PM)
+                    ☐ Use Azure PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/create-sql-vm-powershell (2025-01-24 11:32 PM)
+                    ☐ Migrate storage to Ultradisk https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/storage-migrate-to-ultradisk (2025-01-24 11:32 PM)
+                            ☐ Azure portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-azure-portal-configure (2025-01-24 11:32 PM)
+                            ☐ PowerShell or Az CLI https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-az-commandline-configure-multi-subnet (2025-01-24 11:32 PM)
+                                ☐ Prerequisites https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-prerequisites-tutorial-multi-subnet (2025-01-24 11:32 PM)
+                                ☐ Create availability group https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-tutorial-multi-subnet (2025-01-24 11:32 PM)
+                                ☐ Extend AG to multiple regions https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-multi-subnet-multiple-regions (2025-01-24 11:32 PM)
+                            ☐ PowerShell or Az CLI https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-az-commandline-configure (2025-01-24 11:32 PM)
+                            ☐ Azure Quickstart templates https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-quickstart-template-configure (2025-01-24 11:32 PM)
+                            ☐ Multiple regions https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-multiple-regions (2025-01-24 11:32 PM)
+                            ☐ Domain-independent (workgroup) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-clusterless-workgroup-configure (2025-01-24 11:32 PM)
+                                ☐ Prerequisites https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-prerequisites-tutorial-single-subnet (2025-01-24 11:32 PM)
+                                ☐ Create availability group https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-manually-configure-tutorial-single-subnet (2025-01-24 11:32 PM)
+                                ☐ Load balancer - Azure portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-load-balancer-portal-configure (2025-01-24 11:32 PM)
+                                ☐ Load balancer - Azure PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-listener-powershell-configure (2025-01-24 11:32 PM)
+                        ☐ Prepare VM for FCI https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-prepare-vm (2025-01-24 11:32 PM)
+                            ☐ Azure shared disks https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-azure-shared-disks-manually-configure (2025-01-24 11:32 PM)
+                            ☐ Storage Spaces Direct (Win2016+) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-storage-spaces-direct-manually-configure (2025-01-24 11:32 PM)
+                            ☐ Premium file share (Win2012+) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-premium-file-share-manually-configure (2025-01-24 11:32 PM)
+                            ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-azure-elastic-san-manually-configure (2025-01-24 11:32 PM)
+                            ☐ Virtual network name (VNN) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-vnn-azure-load-balancer-configure (2025-01-24 11:32 PM)
+                            ☐ Distributed network name (DNN) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-distributed-network-name-dnn-configure (2025-01-24 11:32 PM)
+        ☐ MSDN forum https://social.msdn.microsoft.com/Forums/home (2025-01-24 10:08 PM)
 

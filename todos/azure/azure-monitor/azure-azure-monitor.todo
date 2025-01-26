@@ -109,7 +109,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ✘ View insights https://learn.microsoft.com/en-us/azure/azure-monitor/insights/view-code-optimizations (2024-10-28 05:03 PM) @cancelled
                     Extensions (preview):
                         ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-extensions (2024-10-28 05:03 PM)
-                        ☐ Visual Studio https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-vs-extension (2024-11-19 06:02 PM)
+                        ✘ Visual Studio https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-vs-extension (2024-11-19 06:02 PM) @cancelled
                         ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-vscode-extension (2024-10-28 05:03 PM)
                     ✘ Troubleshooting https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-troubleshoot (2024-12-10 11:03 PM) @cancelled
                     Profiler:
@@ -255,7 +255,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Disable monitoring https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-monitoring-disable (2024-09-11 04:50 PM)
             Troubleshooting:
                 ☐ Prometheus https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-troubleshoot (2024-10-28 05:03 PM)
-                ☐ Container insights https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-troubleshoot (2024-09-11 04:50 PM)
+                ✘ Container insights https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-troubleshoot (2024-09-11 04:50 PM) @cancelled
         Monitor networks:
             ☐ Network Watcher https://learn.microsoft.com/azure/network-watcher/network-watcher-overview?toc=/azure/azure-monitor/toc.json (2024-10-30 07:28 PM)
             Network Insights:
@@ -1025,7 +1025,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
 
 ---
 
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-profiler-overview (2025-01-24 06:02 PM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-profiler-overview (2025-01-24 06:02 PM) @cancelled
                     Enable using .NET Profiler:
                         Enable Profiler on specific Azure resources:
                             ☐ Azure App Service in Windows https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler (2025-01-24 06:02 PM)
@@ -1043,4 +1043,19 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ AMA migration helper workbook https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-helper-workbook (2024-11-14 11:04 PM)
                     ☐ DCR Config Generator https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration-data-collection-rule-generator (2024-11-14 11:04 PM)
             ☐ Get started https://learn.microsoft.com/en-us/azure/azure-monitor/logs/get-started-queries (2025-01-24 05:34 AM)
+
+
+---
+
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-profiler-overview (2025-01-24 11:00 PM)
+                            ☐ Azure Functions app https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-azure-functions (2024-11-19 06:02 PM)
+                            ☐ Azure Cloud Service https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-cloudservice (2024-10-24 04:59 PM)
+                            ☐ Azure Service Fabric app https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-servicefabric (2024-10-24 04:59 PM)
+                            ☐ Azure Virtual Machines https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-vm (2024-10-24 04:59 PM)
+                            ☐ ASP.NET Core app running in container https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-containers (2024-10-24 04:59 PM)
+                            ☐ Configure Profiler https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-settings (2024-10-28 05:03 PM)
+                            ☐ Configure BYOS (Bring Your Own Storage) https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-bring-your-own-storage (2024-10-24 04:59 PM)
+                        ☐ Visual Studio https://learn.microsoft.com/en-us/azure/azure-monitor/insights/code-optimizations-vs-extension (2025-01-24 11:00 PM)
+                    ☐ Configure BYOS (Bring Your Own Storage) https://learn.microsoft.com/en-us/azure/azure-monitor/profiler/profiler-bring-your-own-storage (2024-10-24 04:59 PM)
+                ☐ Container insights https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-troubleshoot (2025-01-24 11:00 PM)
 

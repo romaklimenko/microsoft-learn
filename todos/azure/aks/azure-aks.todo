@@ -50,7 +50,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ✘ Backup and recover cluster https://learn.microsoft.com/azure/backup/azure-kubernetes-service-backup-overview?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-03 11:07 PM) @cancelled
         Observability:
             ☐ Monitor AKS https://learn.microsoft.com/en-us/azure/aks/monitor-aks (2024-12-13 11:02 PM)
-            ☐ Monitor control plane metrics https://learn.microsoft.com/en-us/azure/aks/control-plane-metrics-monitor (2024-12-06 05:36 AM)
+            ✘ Monitor control plane metrics https://learn.microsoft.com/en-us/azure/aks/control-plane-metrics-monitor (2024-12-06 05:36 AM) @cancelled
             ☐ Container Network Observability https://learn.microsoft.com/en-us/azure/aks/container-network-observability-concepts (2024-12-20 12:04 PM)
         Security:
             ☐ Security concepts https://learn.microsoft.com/en-us/azure/aks/concepts-security (2024-11-10 12:11 PM)
@@ -165,7 +165,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Use the AKS Visual Studio Code extension https://learn.microsoft.com/en-us/azure/aks/aks-extension-vs-code (2024-10-31 05:34 AM)
         Nodes:
             Cluster nodes:
-                ☐ Custom node configuration https://learn.microsoft.com/en-us/azure/aks/custom-node-configuration (2024-11-10 12:11 PM)
+                ✘ Custom node configuration https://learn.microsoft.com/en-us/azure/aks/custom-node-configuration (2024-11-10 12:11 PM) @cancelled
                 ☐ Abort long running operations https://learn.microsoft.com/en-us/azure/aks/manage-abort-operations (2024-12-12 05:31 AM)
                 ☐ Stop/deallocate nodes with Scale-down Mode https://learn.microsoft.com/en-us/azure/aks/scale-down-mode (2024-10-31 05:34 AM)
                 ☐ Connect securely to cluster nodes https://learn.microsoft.com/en-us/azure/aks/node-access (2024-08-01 08:29 PM)
@@ -256,7 +256,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             Node security:
                 ☐ BYOK for Azure managed disks https://learn.microsoft.com/en-us/azure/aks/azure-disk-customer-managed-keys (2024-12-12 05:31 AM)
                 ☐ Enable host-based encryption https://learn.microsoft.com/en-us/azure/aks/enable-host-encryption (2024-12-12 05:31 AM)
-                ☐ Enable FIPS https://learn.microsoft.com/en-us/azure/aks/enable-fips-nodes (2024-12-12 05:31 AM)
+                ✘ Enable FIPS https://learn.microsoft.com/en-us/azure/aks/enable-fips-nodes (2024-12-12 05:31 AM) @cancelled
                 ☐ Use Confidential Virtual Machines https://learn.microsoft.com/en-us/azure/aks/use-cvm (2024-10-31 05:34 AM)
                 ☐ Use Dedicated Hosts with AKS https://learn.microsoft.com/en-us/azure/aks/use-azure-dedicated-hosts (2024-12-12 05:31 AM)
                 ☐ Restrict access to IMDS https://learn.microsoft.com/en-us/azure/aks/imds-restriction (2024-12-03 06:01 PM)
@@ -432,10 +432,10 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         Upgrade:
             ☐ Upgrade options https://learn.microsoft.com/en-us/azure/aks/upgrade-cluster (2024-10-31 05:34 AM)
             Perform manual upgrades:
-                ☐ Upgrade an AKS cluster https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-cluster (2024-11-19 06:01 PM)
+                ✘ Upgrade an AKS cluster https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-cluster (2024-11-19 06:01 PM) @cancelled
                 ☐ Orchestrate upgrade across multiple clusters https://learn.microsoft.com/azure/kubernetes-fleet/update-orchestration?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-24 12:06 PM)
                 ☐ Upgrade node OS images https://learn.microsoft.com/en-us/azure/aks/node-image-upgrade (2024-09-23 10:01 PM)
-                ☐ Customize node surge upgrade https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-cluster#customize-node-surge-upgrade (2024-11-19 06:01 PM)
+                ✘ Customize node surge upgrade https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-cluster#customize-node-surge-upgrade (2024-11-19 06:01 PM) @cancelled
                 ☐ Process node OS updates https://learn.microsoft.com/en-us/azure/aks/node-updates-kured (2024-10-31 05:34 AM)
             Configure automatic upgrades:
                 ☐ Automatically upgrade an AKS cluster https://learn.microsoft.com/en-us/azure/aks/auto-upgrade-cluster (2024-09-24 05:00 PM)
@@ -771,4 +771,13 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-24 12:40 PM)
         ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-24 12:06 PM)
         ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-24 12:11 PM)
+
+
+---
+
+            ✔ Monitor control plane metrics https://learn.microsoft.com/en-us/azure/aks/control-plane-metrics-monitor (2025-01-24 10:59 PM) @done(25-01-26 20:07)
+                ✔ Custom node configuration https://learn.microsoft.com/en-us/azure/aks/custom-node-configuration (2025-01-24 10:59 PM) @done(25-01-26 20:07)
+                ✔ Enable FIPS https://learn.microsoft.com/en-us/azure/aks/enable-fips-nodes (2025-01-24 10:59 PM) @done(25-01-26 20:08)
+                ✔ Upgrade an AKS cluster https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-cluster (2025-01-24 10:59 PM) @done(25-01-26 20:08)
+                ✔ Customize node surge upgrade https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-cluster#customize-node-surge-upgrade (2025-01-24 10:59 PM) @done(25-01-26 20:08)
 
