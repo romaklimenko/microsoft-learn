@@ -625,7 +625,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ current_database() https://learn.microsoft.com/kusto/query/current-database-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ current_principal() https://learn.microsoft.com/kusto/query/current-principal-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ current_principal_details() https://learn.microsoft.com/kusto/query/current-principal-details-function?view=azure-data-explorer&preserve-view=true (2024-11-04 12:05 PM)
-                ☐ current_principal_is_member_of() https://learn.microsoft.com/kusto/query/current-principal-is-member-of-function?view=azure-data-explorer&preserve-view=true (2024-10-27 11:04 PM)
+                ✘ current_principal_is_member_of() https://learn.microsoft.com/kusto/query/current-principal-is-member-of-function?view=azure-data-explorer&preserve-view=true (2024-10-27 11:04 PM) @cancelled
                 ☐ cursor_after() https://learn.microsoft.com/kusto/query/cursor-after-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ cursor_before_or_at() https://learn.microsoft.com/kusto/query/cursor-before-or-at-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ cursor_current() https://learn.microsoft.com/kusto/query/cursor-current?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -2166,7 +2166,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Ingest from storage https://learn.microsoft.com/kusto/management/data-ingestion/ingest-from-storage?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
                 ☐ Inline ingestion https://learn.microsoft.com/kusto/management/data-ingestion/ingest-inline?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
                 ☐ To cloud storage https://learn.microsoft.com/kusto/management/data-export/export-data-to-storage?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
-                ☐ To an external table https://learn.microsoft.com/kusto/management/data-export/export-data-to-an-external-table?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                ✘ To an external table https://learn.microsoft.com/kusto/management/data-export/export-data-to-an-external-table?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM) @cancelled
                 ☐ To an SQL table https://learn.microsoft.com/kusto/management/data-export/export-data-to-sql?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
                     ☐ Disable or enable continuous export https://learn.microsoft.com/kusto/management/data-export/disable-enable-continuous?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
             ☐ Database cursors https://learn.microsoft.com/kusto/management/database-cursor?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
@@ -2286,4 +2286,10 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
 
                     ☐ Apache Spark Notebooks https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks (2025-01-24 11:02 PM)
                 ☐ Manage notebooks https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks (2025-01-24 11:02 PM)
+
+
+---
+
+                ☐ current_principal_is_member_of() https://learn.microsoft.com/kusto/query/current-principal-is-member-of-function?view=azure-data-explorer&preserve-view=true (2025-01-26 12:08 PM)
+                ☐ To an external table https://learn.microsoft.com/kusto/management/data-export/export-data-to-an-external-table?view=azure-data-explorer&preserve-view=true (2025-01-26 12:08 PM)
 

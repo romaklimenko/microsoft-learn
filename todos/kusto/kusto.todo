@@ -1888,7 +1888,7 @@ Kusto documentation - Kusto | Microsoft Learn:
             ☐ .ingest inline command https://learn.microsoft.com/en-us/kusto/management/data-ingestion/ingest-inline (2025-01-08 12:11 PM)
             ☐ .show data operations command https://learn.microsoft.com/en-us/kusto/management/show-data-operations (2024-09-26 11:03 AM)
             ☐ .export to storage https://learn.microsoft.com/en-us/kusto/management/data-export/export-data-to-storage (2025-01-08 12:11 PM)
-            ☐ .export totable https://learn.microsoft.com/en-us/kusto/management/data-export/export-data-to-an-external-table (2025-01-08 12:11 PM)
+            ✘ .export totable https://learn.microsoft.com/en-us/kusto/management/data-export/export-data-to-an-external-table (2025-01-08 12:11 PM) @cancelled
             ☐ .export to SQL https://learn.microsoft.com/en-us/kusto/management/data-export/export-data-to-sql (2025-01-08 12:11 PM)
                 ☐ Disable or enable continuous export https://learn.microsoft.com/en-us/kusto/management/data-export/disable-enable-continuous (2025-01-08 12:11 PM)
             ☐ .show journal commands https://learn.microsoft.com/en-us/kusto/management/journal (2024-08-20 02:54 PM)
@@ -2184,7 +2184,7 @@ Kusto documentation - Kusto | Microsoft Learn:
             ☐ current_database() https://learn.microsoft.com/en-us/kusto/query/current-database-function (2024-08-20 02:54 PM)
             ☐ current_principal() https://learn.microsoft.com/en-us/kusto/query/current-principal-function (2024-08-20 02:54 PM)
             ☐ current_principal_details() https://learn.microsoft.com/en-us/kusto/query/current-principal-details-function (2024-11-04 12:05 PM)
-            ☐ current_principal_is_member_of() https://learn.microsoft.com/en-us/kusto/query/current-principal-is-member-of-function (2024-10-27 11:04 PM)
+            ✘ current_principal_is_member_of() https://learn.microsoft.com/en-us/kusto/query/current-principal-is-member-of-function (2024-10-27 11:04 PM) @cancelled
             ☐ cursor_after() https://learn.microsoft.com/en-us/kusto/query/cursor-after-function (2024-08-20 02:54 PM)
             ☐ cursor_before_or_at() https://learn.microsoft.com/en-us/kusto/query/cursor-before-or-at-function (2024-08-20 02:54 PM)
             ☐ cursor_current() https://learn.microsoft.com/en-us/kusto/query/cursor-current (2024-08-20 02:54 PM)
@@ -2590,4 +2590,10 @@ Kusto documentation - Kusto | Microsoft Learn:
 ---
 
             ☐ Create your first app https://learn.microsoft.com/en-us/kusto/api/get-started/app-hello-kusto (2025-01-22 12:20 PM)
+
+
+---
+
+            ☐ current_principal_is_member_of() https://learn.microsoft.com/en-us/kusto/query/current-principal-is-member-of-function (2025-01-26 12:08 PM)
+            ☐ .export to table https://learn.microsoft.com/en-us/kusto/management/data-export/export-data-to-an-external-table (2025-01-26 12:08 PM)
 
