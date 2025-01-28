@@ -1001,7 +1001,7 @@ Kusto documentation - Kusto | Microsoft Learn:
                 ☐ .show materialized-view policy retention command https://learn.microsoft.com/en-us/kusto/management/show-materialized-view-retention-policy-command (2024-08-20 02:54 PM)
                 ☐ .show table policy retention command https://learn.microsoft.com/en-us/kusto/management/show-table-retention-policy-command (2024-08-20 02:54 PM)
             Row level security:
-                ☐ Row level security policy https://learn.microsoft.com/en-us/kusto/management/row-level-security-policy (2024-11-11 12:21 PM)
+                ✘ Row level security policy https://learn.microsoft.com/en-us/kusto/management/row-level-security-policy (2024-11-11 12:21 PM) @cancelled
                 ☐ .alter materialized-view policy row_level_security command https://learn.microsoft.com/en-us/kusto/management/alter-materialized-view-row-level-security-policy-command (2024-08-20 02:54 PM)
                 ☐ .alter table policy row_level_security command https://learn.microsoft.com/en-us/kusto/management/alter-table-row-level-security-policy-command (2024-08-20 02:54 PM)
                 ☐ .delete materialized-view policy row_level_security command https://learn.microsoft.com/en-us/kusto/management/delete-materialized-view-row-level-security-policy-command (2024-08-20 02:54 PM)
@@ -1052,9 +1052,9 @@ Kusto documentation - Kusto | Microsoft Learn:
         Security roles:
             ☐ Security roles overview https://learn.microsoft.com/en-us/kusto/management/security-roles (2024-08-20 02:54 PM)
             Access control:
-                ☐ Access control overview https://learn.microsoft.com/en-us/kusto/access-control/ (2024-10-27 11:04 PM)
-                ☐ Role-based access control https://learn.microsoft.com/en-us/kusto/access-control/role-based-access-control (2024-09-05 05:00 PM)
-                ☐ Microsoft Entra App registration https://learn.microsoft.com/en-us/kusto/access-control/provision-entra-id-app (2024-10-30 11:08 AM)
+                ✘ Access control overview https://learn.microsoft.com/en-us/kusto/access-control/ (2024-10-27 11:04 PM) @cancelled
+                ✘ Role-based access control https://learn.microsoft.com/en-us/kusto/access-control/role-based-access-control (2024-09-05 05:00 PM) @cancelled
+                ✘ Microsoft Entra App registration https://learn.microsoft.com/en-us/kusto/access-control/provision-entra-id-app (2024-10-30 11:08 AM) @cancelled
             ☐ Manage database roles https://learn.microsoft.com/en-us/kusto/management/manage-database-security-roles (2024-08-20 02:54 PM)
             Manage table roles:
                 ☐ Manage table roles https://learn.microsoft.com/en-us/kusto/management/manage-table-security-roles (2024-08-20 02:54 PM)
@@ -2596,4 +2596,10 @@ Kusto documentation - Kusto | Microsoft Learn:
 
             ☐ current_principal_is_member_of() https://learn.microsoft.com/en-us/kusto/query/current-principal-is-member-of-function (2025-01-26 12:08 PM)
             ☐ .export to table https://learn.microsoft.com/en-us/kusto/management/data-export/export-data-to-an-external-table (2025-01-26 12:08 PM)
+
+
+---
+
+                ☐ Row level security policy https://learn.microsoft.com/en-us/kusto/management/row-level-security-policy (2025-01-27 12:08 PM)
+                ☐ Access control overview https://learn.microsoft.com/en-us/kusto/access-control/ (2025-01-27 12:08 PM)
 

@@ -358,7 +358,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ .show materialized-view policy retention command https://learn.microsoft.com/kusto/management/show-materialized-view-retention-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .show table policy retention command https://learn.microsoft.com/kusto/management/show-table-retention-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     Row level security:
-                        ☐ Row level security policy https://learn.microsoft.com/kusto/management/row-level-security-policy?view=microsoft-fabric&preserve-view=true (2024-11-11 12:21 PM)
+                        ✘ Row level security policy https://learn.microsoft.com/kusto/management/row-level-security-policy?view=microsoft-fabric&preserve-view=true (2024-11-11 12:21 PM) @cancelled
                         ☐ .alter materialized-view policy row_level_security command https://learn.microsoft.com/kusto/management/alter-materialized-view-row-level-security-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .alter table policy row_level_security command https://learn.microsoft.com/kusto/management/alter-table-row-level-security-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .delete materialized-view policy row_level_security command https://learn.microsoft.com/kusto/management/delete-materialized-view-row-level-security-policy-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -383,7 +383,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                 Security roles:
                     ☐ Security roles overview https://learn.microsoft.com/kusto/management/security-roles?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     Access control:
-                        ☐ Access control overview https://learn.microsoft.com/kusto/access-control/index?view=microsoft-fabric&preserve-view=true (2024-10-27 11:04 PM)
+                        ✘ Access control overview https://learn.microsoft.com/kusto/access-control/index?view=microsoft-fabric&preserve-view=true (2024-10-27 11:04 PM) @cancelled
                         ☐ Role-based access control https://learn.microsoft.com/kusto/access-control/role-based-access-control?view=microsoft-fabric&preserve-view=true (2024-09-05 05:00 PM)
                         ☐ Microsoft Entra App registration https://learn.microsoft.com/kusto/access-control/provision-entra-id-app?view=microsoft-fabric&preserve-view=true (2024-10-30 11:08 AM)
                     ☐ Manage database roles https://learn.microsoft.com/kusto/management/manage-database-security-roles?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1674,4 +1674,12 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
         ☐ Ingestion results logs https://learn.microsoft.com/en-us/fabric/real-time-intelligence/monitor-logs-ingestion-results (2025-01-26 12:09 PM)
         ☐ Query logs https://learn.microsoft.com/en-us/fabric/real-time-intelligence/monitor-logs-query (2025-01-26 12:09 PM)
             ☐ current_principal_is_member_of() https://learn.microsoft.com/kusto/query/current-principal-is-member-of-function?view=microsoft-fabric&preserve-view=true (2025-01-26 12:08 PM)
+
+
+---
+
+                ☐ Stream Oracle CDC data to Eventstream Kafka endpoint with GoldenGate https://learn.microsoft.com/en-us/fabric/real-time-intelligence/event-streams/stream-oracle-data-to-eventstream (2025-01-27 06:02 PM)
+                        ☐ Row level security policy https://learn.microsoft.com/kusto/management/row-level-security-policy?view=microsoft-fabric&preserve-view=true (2025-01-27 12:08 PM)
+                        ☐ Access control overview https://learn.microsoft.com/kusto/access-control/index?view=microsoft-fabric&preserve-view=true (2025-01-27 12:08 PM)
+                    ☐ Accelerate queries over OneLake shortcuts - overview https://learn.microsoft.com/en-us/fabric/real-time-intelligence/query-acceleration-overview (2024-12-16 12:06 PM)
 

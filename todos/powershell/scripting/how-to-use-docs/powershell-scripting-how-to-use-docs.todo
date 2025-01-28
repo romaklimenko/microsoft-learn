@@ -1,7 +1,7 @@
 How to use the PowerShell documentation - PowerShell | Microsoft Learn:
     ✘ How to use this documentation https://learn.microsoft.com/en-us/powershell/scripting/how-to-use-docs (2024-11-08 12:26 PM) @cancelled
     Overview:
-        ☐ What is PowerShell? https://learn.microsoft.com/en-us/powershell/scripting/overview (2024-10-30 10:01 PM)
+        ✘ What is PowerShell? https://learn.microsoft.com/en-us/powershell/scripting/overview (2024-10-30 10:01 PM) @cancelled
         ☐ What is Windows PowerShell? https://learn.microsoft.com/en-us/powershell/scripting/what-is-windows-powershell (2024-03-07 10:58 PM)
         ☐ What is a PowerShell command? https://learn.microsoft.com/en-us/powershell/scripting/powershell-commands (2024-03-07 10:58 PM)
         ☐ Discover PowerShell https://learn.microsoft.com/en-us/powershell/scripting/discover-powershell (2024-03-07 10:58 PM)
@@ -167,7 +167,7 @@ How to use the PowerShell documentation - PowerShell | Microsoft Learn:
                 ☐ Audit and Report on JEA https://learn.microsoft.com/en-us/powershell/scripting/security/remoting/jea/audit-and-report (2024-04-01 05:07 PM)
             ☐ Running remote commands https://learn.microsoft.com/en-us/powershell/scripting/security/remoting/running-remote-commands (2024-04-01 05:07 PM)
             ☐ PowerShell remoting over SSH https://learn.microsoft.com/en-us/powershell/scripting/security/remoting/ssh-remoting-in-powershell (2024-04-01 05:07 PM)
-            ☐ WS-Management (WSMan) remoting in PowerShell https://learn.microsoft.com/en-us/powershell/scripting/security/remoting/wsman-remoting-in-powershell (2024-04-01 05:07 PM)
+            ✘ WS-Management (WSMan) remoting in PowerShell https://learn.microsoft.com/en-us/powershell/scripting/security/remoting/wsman-remoting-in-powershell (2024-04-01 05:07 PM) @cancelled
             ☐ WinRM Security https://learn.microsoft.com/en-us/powershell/scripting/security/remoting/winrm-security (2024-12-09 11:01 PM)
             ☐ Making the second hop in PowerShell Remoting https://learn.microsoft.com/en-us/powershell/scripting/security/remoting/ps-remoting-second-hop (2024-04-01 05:07 PM)
             ☐ Securing a restricted PowerShell remoting session https://learn.microsoft.com/en-us/powershell/scripting/security/securing-restricted-sessions (2024-04-01 05:07 PM)
@@ -832,14 +832,14 @@ How to use the PowerShell documentation - PowerShell | Microsoft Learn:
 
 ---
 
-        ☐ Installing PowerShell on Windows https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows (2025-01-23 11:03 PM)
-            ☐ Installing on Alpine https://learn.microsoft.com/en-us/powershell/scripting/install/install-alpine (2025-01-23 11:03 PM)
-            ☐ Installing on Debian https://learn.microsoft.com/en-us/powershell/scripting/install/install-debian (2025-01-23 11:03 PM)
-            ☐ Installing on RHEL https://learn.microsoft.com/en-us/powershell/scripting/install/install-rhel (2025-01-23 11:03 PM)
-            ☐ Installing on Ubuntu https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu (2025-01-23 11:03 PM)
-            ☐ Community support for Linux https://learn.microsoft.com/en-us/powershell/scripting/install/community-support (2025-01-23 11:03 PM)
-            ☐ Alternate ways to install on Linux https://learn.microsoft.com/en-us/powershell/scripting/install/install-other-linux (2025-01-23 11:03 PM)
-        ☐ Installing PowerShell on macOS https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-macos (2025-01-23 11:03 PM)
+        ✘ Installing PowerShell on Windows https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows (2025-01-23 11:03 PM) @cancelled
+            ✘ Installing on Alpine https://learn.microsoft.com/en-us/powershell/scripting/install/install-alpine (2025-01-23 11:03 PM) @cancelled
+            ✘ Installing on Debian https://learn.microsoft.com/en-us/powershell/scripting/install/install-debian (2025-01-23 11:03 PM) @cancelled
+            ✘ Installing on RHEL https://learn.microsoft.com/en-us/powershell/scripting/install/install-rhel (2025-01-23 11:03 PM) @cancelled
+            ✘ Installing on Ubuntu https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu (2025-01-23 11:03 PM) @cancelled
+            ✘ Community support for Linux https://learn.microsoft.com/en-us/powershell/scripting/install/community-support (2025-01-23 11:03 PM) @cancelled
+            ✘ Alternate ways to install on Linux https://learn.microsoft.com/en-us/powershell/scripting/install/install-other-linux (2025-01-23 11:03 PM) @cancelled
+        ✘ Installing PowerShell on macOS https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-macos (2025-01-23 11:03 PM) @cancelled
         ☐ Microsoft Update FAQ for PowerShell https://learn.microsoft.com/en-us/powershell/scripting/install/microsoft-update-faq (2025-01-23 11:03 PM)
             ☐ Functions https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/09-functions (2025-01-23 11:03 PM)
             ☐ Running commands in the Shell https://learn.microsoft.com/en-us/powershell/scripting/learn/shell/running-commands (2025-01-23 11:03 PM)
@@ -854,4 +854,18 @@ How to use the PowerShell documentation - PowerShell | Microsoft Learn:
 ---
 
                 ☐ Everything you want to know about $null https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-null (2025-01-24 11:01 PM)
+
+
+---
+
+        ☐ What is PowerShell? https://learn.microsoft.com/en-us/powershell/scripting/overview (2025-01-27 11:01 PM)
+        ☐ Installing PowerShell on Windows https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows (2025-01-27 11:01 PM)
+            ☐ Installing on Alpine https://learn.microsoft.com/en-us/powershell/scripting/install/install-alpine (2025-01-27 11:01 PM)
+            ☐ Installing on Debian https://learn.microsoft.com/en-us/powershell/scripting/install/install-debian (2025-01-27 11:01 PM)
+            ☐ Installing on RHEL https://learn.microsoft.com/en-us/powershell/scripting/install/install-rhel (2025-01-27 11:01 PM)
+            ☐ Installing on Ubuntu https://learn.microsoft.com/en-us/powershell/scripting/install/install-ubuntu (2025-01-27 11:01 PM)
+            ☐ Community support for Linux https://learn.microsoft.com/en-us/powershell/scripting/install/community-support (2025-01-27 11:01 PM)
+            ☐ Alternate ways to install on Linux https://learn.microsoft.com/en-us/powershell/scripting/install/install-other-linux (2025-01-27 11:01 PM)
+        ☐ Installing PowerShell on macOS https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-macos (2025-01-27 11:01 PM)
+            ☐ WS-Management (WSMan) remoting in PowerShell https://learn.microsoft.com/en-us/powershell/scripting/security/remoting/wsman-remoting-in-powershell (2025-01-27 11:01 PM)
 

@@ -67,7 +67,7 @@ Azure Container Apps documentation | Microsoft Learn:
                 ✘ JavaScript Code Interpreter (preview) https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs (2024-11-19 06:02 PM) @cancelled
         Event-driven processing:
             ☐ With a job https://learn.microsoft.com/en-us/azure/container-apps/tutorial-event-driven-jobs (2024-12-10 11:02 PM)
-        ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/container-apps/troubleshooting (2024-11-25 12:08 AM)
+        ✘ Troubleshooting https://learn.microsoft.com/en-us/azure/container-apps/troubleshooting (2024-11-25 12:08 AM) @cancelled
         ☐ Reliability in Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps?toc=/azure/container-apps/toc.json&bc=/azure/container-apps/breadcrumb/toc.json (2024-11-20 11:04 PM)
     Observability:
         ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/observability (2024-11-25 12:08 AM)
@@ -310,4 +310,17 @@ Azure Container Apps documentation | Microsoft Learn:
 ---
 
             ☐ Create an Azure Files storage mount https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts-azure-files (2024-08-04 11:36 AM)
+
+
+---
+
+        Troubleshooting:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/troubleshooting (2024-11-25 12:08 AM)
+            Errors and failures:
+                ☐ Container create https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-container-create-failures (2025-01-27 11:07 PM)
+                ☐ Open Container Initiative (OCI) https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-open-container-initiative-errors (2025-01-27 11:07 PM)
+                ☐ Health probe https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-health-probe-failures (2025-01-27 11:07 PM)
+                ☐ Image pull https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-image-pull-failures (2025-01-27 11:07 PM)
+                ☐ Storage mount https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-storage-mount-failures (2025-01-27 11:07 PM)
+                ☐ Target port https://learn.microsoft.com/en-us/azure/container-apps/troubleshoot-target-port-settings (2025-01-27 11:07 PM)
 

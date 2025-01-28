@@ -579,8 +579,8 @@ Azure AI Search documentation | Microsoft Learn:
             ☐ Develop in .NET https://learn.microsoft.com/en-us/azure/search/search-how-to-dotnet-sdk (2024-12-06 11:01 PM)
             ☐ Manage with Azure SDKs https://learn.microsoft.com/en-us/azure/search/search-dotnet-mgmt-sdk-migration (2024-10-11 08:18 AM)
             ✘ Handle concurrent updates https://learn.microsoft.com/en-us/azure/search/search-howto-concurrency (2024-10-11 08:18 AM) @cancelled
-            ☐ Monitor https://learn.microsoft.com/en-us/azure/search/monitor-azure-cognitive-search (2024-10-11 08:18 AM)
-            ☐ Monitor queries https://learn.microsoft.com/en-us/azure/search/search-monitor-queries (2024-12-06 11:01 PM)
+            ✘ Monitor https://learn.microsoft.com/en-us/azure/search/monitor-azure-cognitive-search (2024-10-11 08:18 AM) @cancelled
+            ✘ Monitor queries https://learn.microsoft.com/en-us/azure/search/search-monitor-queries (2024-12-06 11:01 PM) @cancelled
             ✘ Monitor indexer-based indexing https://learn.microsoft.com/en-us/azure/search/search-howto-monitor-indexers (2024-12-06 11:01 PM) @cancelled
             ☐ Monitor client-side interactions https://learn.microsoft.com/en-us/azure/search/search-traffic-analytics (2024-12-06 11:01 PM)
             ☐ Visualize resource logs https://learn.microsoft.com/en-us/azure/search/search-monitor-logs-powerbi (2024-12-10 06:00 PM)
@@ -612,7 +612,7 @@ Azure AI Search documentation | Microsoft Learn:
                 ☐ search.score https://learn.microsoft.com/en-us/azure/search/search-query-odata-search-score-function (2024-10-11 08:18 AM)
                 ☐ OData Language Grammar https://learn.microsoft.com/en-us/azure/search/search-query-odata-syntax-reference (2024-10-11 08:18 AM)
             ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/search/policy-reference (2024-12-10 06:00 PM)
-            ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/search/monitor-azure-cognitive-search-data-reference (2024-12-06 11:01 PM)
+            ✘ Monitoring data reference https://learn.microsoft.com/en-us/azure/search/monitor-azure-cognitive-search-data-reference (2024-12-06 11:01 PM) @cancelled
             ☐ Overview https://learn.microsoft.com/en-us/azure/search/cognitive-search-predefined-skills (2024-11-21 06:03 PM)
             ☐ Annotation reference language https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-annotation-language (2024-10-11 08:18 AM)
                 ☐ Document Layout skill https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-document-intelligence-layout (2024-11-21 06:03 PM)
@@ -754,7 +754,7 @@ Azure AI Search documentation | Microsoft Learn:
                 ☐ Page, sort, and shape results https://learn.microsoft.com/en-us/azure/search/search-pagination-page-layout (2025-01-17 06:00 PM)
         ☐ Hybrid search https://learn.microsoft.com/en-us/azure/search/hybrid-search-how-to-query (2025-01-17 06:00 PM)
             ☐ Enable role-based access https://learn.microsoft.com/en-us/azure/search/search-security-enable-roles (2025-01-17 10:59 PM)
-            ☐ Assign roles (users) https://learn.microsoft.com/en-us/azure/search/search-security-rbac (2025-01-17 10:59 PM)
+            ✘ Assign roles (users) https://learn.microsoft.com/en-us/azure/search/search-security-rbac (2025-01-17 10:59 PM) @cancelled
             ☐ Authenticate with keys https://learn.microsoft.com/en-us/azure/search/search-security-api-keys (2025-01-17 10:59 PM)
                     ☐ Azure Storage https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-storage (2025-01-17 05:33 AM)
             ☐ Document-level security https://learn.microsoft.com/en-us/azure/search/search-security-trimming-for-azure-search (2025-01-16 05:32 AM)
@@ -782,7 +782,7 @@ Azure AI Search documentation | Microsoft Learn:
 ---
 
                 ☐ Explore the code https://learn.microsoft.com/en-us/azure/search/tutorial-csharp-search-query-integration (2025-01-22 06:02 PM)
-            ☐ Choose a region https://learn.microsoft.com/en-us/azure/search/search-region-support (2025-01-22 11:01 PM)
+            ✘ Choose a region https://learn.microsoft.com/en-us/azure/search/search-region-support (2025-01-22 11:01 PM) @cancelled
                 ☐ Azure DB for MySQL https://learn.microsoft.com/en-us/azure/search/search-howto-index-mysql (2025-01-22 06:02 PM)
 
 
@@ -795,4 +795,13 @@ Azure AI Search documentation | Microsoft Learn:
 
         ☐ Full text search https://learn.microsoft.com/en-us/azure/search/search-get-started-text (2025-01-24 06:00 PM)
                     ☐ Connect to an Azure function https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-azure-functions (2025-01-23 11:02 PM)
+
+
+---
+
+            ☐ Choose a region https://learn.microsoft.com/en-us/azure/search/search-region-support (2025-01-27 06:02 PM)
+            ☐ Assign roles (users) https://learn.microsoft.com/en-us/azure/search/search-security-rbac (2025-01-27 06:02 PM)
+            ☐ Monitor https://learn.microsoft.com/en-us/azure/search/monitor-azure-cognitive-search (2025-01-27 06:02 PM)
+            ☐ Monitor queries https://learn.microsoft.com/en-us/azure/search/search-monitor-queries (2025-01-27 06:02 PM)
+            ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/search/monitor-azure-cognitive-search-data-reference (2025-01-27 06:02 PM)
 

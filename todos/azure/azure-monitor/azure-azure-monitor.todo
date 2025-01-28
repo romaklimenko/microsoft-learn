@@ -496,7 +496,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ Restore logs https://learn.microsoft.com/en-us/azure/azure-monitor/logs/restore (2024-12-04 11:03 PM)
                 Design:
                     ✘ Design a workspace architecture https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-design (2024-09-11 04:50 PM) @cancelled
-                    ☐ Dedicated clusters https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-dedicated-clusters (2024-11-21 05:31 AM)
+                    ✘ Dedicated clusters https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-dedicated-clusters (2024-11-21 05:31 AM) @cancelled
                     ✘ Enhance resilience with availability zones https://learn.microsoft.com/en-us/azure/azure-monitor/logs/availability-zones (2024-11-21 05:31 AM) @cancelled @cancelled
                 Monitor:
                     ☐ Log Analytics workspace insights https://learn.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-workspace-insights-overview (2024-09-11 04:50 PM)
@@ -531,7 +531,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Design https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-link-design (2024-12-10 11:03 PM)
                 ☐ Configuration https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-link-configure (2024-12-17 11:02 PM)
             ☐ Network security perimeter https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/network-security-perimeter (2024-12-10 11:03 PM)
-        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-monitor-security-baseline?toc=/azure/azure-monitor/toc.json (2024-02-21 03:04 AM)
+        ✘ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-monitor-security-baseline?toc=/azure/azure-monitor/toc.json (2024-02-21 03:04 AM) @cancelled
         ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/security-controls-policy (2024-09-11 04:50 PM)
     Visualize:
         Workbooks:
@@ -739,7 +739,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
         ✘ IP addresses, ports, and firewall settings https://learn.microsoft.com/en-us/azure/azure-monitor/ip-addresses (2024-12-10 11:03 PM) @cancelled
         ☐ Service limits https://learn.microsoft.com/en-us/azure/azure-monitor/service-limits (2024-09-11 04:50 PM)
         Security:
-            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-monitor-security-baseline?toc=/azure/azure-monitor/toc.json (2024-02-21 03:04 AM)
+            ✘ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-monitor-security-baseline?toc=/azure/azure-monitor/toc.json (2024-02-21 03:04 AM) @cancelled
             ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/security-controls-policy (2024-09-11 04:50 PM)
         ☐ Self-monitoring data reference https://learn.microsoft.com/en-us/azure/azure-monitor/monitor-azure-monitor-reference (2024-10-04 10:00 PM)
         Supported metrics:
@@ -928,7 +928,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                         ☐ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2025-01-13 06:03 PM)
                     ☐ Custom configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration (2025-01-14 05:32 AM)
                 ✘ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-13 11:00 PM) @cancelled
-                    ☐ Manage access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-access (2025-01-14 06:01 PM)
+                    ✘ Manage access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-access (2025-01-14 06:01 PM) @cancelled
             ☐ Azure Monitor https://learn.microsoft.com/powershell/module/az.monitor/ (2025-01-14 05:13 PM)
             ☐ Azure Monitor Logs https://learn.microsoft.com/powershell/module/az.operationalinsights/ (2025-01-14 05:13 PM)
             ☐ Application Insights https://learn.microsoft.com/powershell/module/az.applicationinsights/ (2025-01-14 05:13 PM)
@@ -1064,4 +1064,13 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
 
             ☐ Migrate to the metrics getBatch API https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/migrate-to-batch-api (2025-01-26 12:11 PM)
                 ☐ Troubleshoot alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-troubleshoot (2025-01-26 12:11 PM)
+
+
+---
+
+                    ☐ Manage access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-access (2025-01-27 06:02 PM)
+                    ☐ Dedicated clusters https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-dedicated-clusters (2025-01-27 06:02 PM)
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-monitor-security-baseline?toc=/azure/azure-monitor/toc.json (2025-01-27 09:59 PM)
+                ☐ Troubleshoot metric alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-troubleshoot-metric (2024-12-27 12:20 PM)
+            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-monitor-security-baseline?toc=/azure/azure-monitor/toc.json (2025-01-27 09:59 PM)
 

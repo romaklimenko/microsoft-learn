@@ -237,7 +237,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             Image security:
                 ☐ Validate signed images with Image Integrity https://learn.microsoft.com/en-us/azure/aks/image-integrity (2024-08-01 08:29 PM)
                 ☐ Remove vulnerable images with ImageCleaner https://learn.microsoft.com/en-us/azure/aks/image-cleaner (2024-12-05 11:00 PM)
-                ☐ Scan images in your CI/CD Workflow https://learn.microsoft.com/azure/defender-for-cloud/defender-for-container-registries-cicd?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-17 06:03 PM)
+                ✘ Scan images in your CI/CD Workflow https://learn.microsoft.com/azure/defender-for-cloud/defender-for-container-registries-cicd?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-17 06:03 PM) @cancelled
                 ☐ Scan images in ACR registries https://learn.microsoft.com/azure/defender-for-cloud/defender-for-containers-introduction?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-09 12:05 PM)
             Cluster security:
                 ☐ Azure kubelogin https://learn.microsoft.com/en-us/azure/aks/kubelogin-authentication (2024-12-12 05:31 AM)
@@ -452,8 +452,8 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             ☐ Use HostProcess containers https://learn.microsoft.com/en-us/azure/aks/use-windows-hpc (2024-10-31 05:34 AM)
             ☐ Use Windows Annual Channel for Containers https://learn.microsoft.com/en-us/azure/aks/windows-annual-channel (2024-10-30 09:59 PM)
             ☐ Upgrade from Windows Server 2019 to 2022 https://learn.microsoft.com/en-us/azure/aks/upgrade-windows-2019-2022 (2024-10-31 05:34 AM)
-            ☐ Create Dockerfiles for Windows Server containers https://learn.microsoft.com/virtualization/windowscontainers/manage-docker/manage-windows-dockerfile?context=/azure/aks/context/aks-context (2024-10-17 09:35 AM)
-            ☐ Optimize Dockerfiles for Windows Server containers https://learn.microsoft.com/virtualization/windowscontainers/manage-docker/optimize-windows-dockerfile?context=/azure/aks/context/aks-context (2024-10-17 09:35 AM)
+            ✘ Create Dockerfiles for Windows Server containers https://learn.microsoft.com/virtualization/windowscontainers/manage-docker/manage-windows-dockerfile?context=/azure/aks/context/aks-context (2024-10-17 09:35 AM) @cancelled
+            ✘ Optimize Dockerfiles for Windows Server containers https://learn.microsoft.com/virtualization/windowscontainers/manage-docker/optimize-windows-dockerfile?context=/azure/aks/context/aks-context (2024-10-17 09:35 AM) @cancelled
             ☐ Windows AKS partner solutions https://learn.microsoft.com/en-us/azure/aks/windows-aks-partner-solutions (2024-10-31 05:34 AM)
             ☐ Windows AKS customer stories https://learn.microsoft.com/en-us/azure/aks/windows-aks-customer-stories (2024-10-31 05:34 AM)
             ☐ Migration and modernization solutions for Windows containers on AKS https://learn.microsoft.com/en-us/azure/aks/windows-aks-migration-modernization-solutions (2024-10-31 05:34 AM)
@@ -768,9 +768,9 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
 
             ☐ Node auto-repair https://learn.microsoft.com/en-us/azure/aks/node-auto-repair (2025-01-23 11:02 PM)
             ☐ Manage https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-manage-backups?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-24 12:09 PM)
-        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-24 12:40 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-24 12:06 PM)
-        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-24 12:11 PM)
+        ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-24 12:40 PM) @cancelled
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-24 12:06 PM) @cancelled
+        ✘ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-24 12:11 PM) @cancelled
 
 
 ---
@@ -780,4 +780,14 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ✔ Enable FIPS https://learn.microsoft.com/en-us/azure/aks/enable-fips-nodes (2025-01-24 10:59 PM) @done(25-01-26 20:08)
                 ✔ Upgrade an AKS cluster https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-cluster (2025-01-24 10:59 PM) @done(25-01-26 20:08)
                 ✔ Customize node surge upgrade https://learn.microsoft.com/en-us/azure/aks/upgrade-aks-cluster#customize-node-surge-upgrade (2025-01-24 10:59 PM) @done(25-01-26 20:08)
+
+
+---
+
+                ☐ Scan images in your CI/CD Workflow https://learn.microsoft.com/azure/defender-for-cloud/defender-for-container-registries-cicd?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-27 12:09 PM)
+            ☐ Create Dockerfiles for Windows Server containers https://learn.microsoft.com/virtualization/windowscontainers/manage-docker/manage-windows-dockerfile?context=/azure/aks/context/aks-context (2025-01-27 07:14 PM)
+            ☐ Optimize Dockerfiles for Windows Server containers https://learn.microsoft.com/virtualization/windowscontainers/manage-docker/optimize-windows-dockerfile?context=/azure/aks/context/aks-context (2025-01-27 07:14 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-27 12:38 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-27 12:09 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-27 12:08 PM)
 

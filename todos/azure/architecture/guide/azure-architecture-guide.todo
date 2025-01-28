@@ -821,7 +821,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Build a migration plan https://learn.microsoft.com/azure/migrate/concepts-migration-planning (2024-11-29 06:04 PM)
                     ✘ Support for VMware migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-vmware-migration (2024-12-19 06:04 PM) @cancelled
                     ✘ Support for Hyper-V migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-hyper-v-migration (2024-12-19 06:04 PM) @cancelled
-                    ☐ Support for physical server migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-physical-migration (2024-11-29 06:04 PM)
+                    ✘ Support for physical server migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-physical-migration (2024-11-29 06:04 PM) @cancelled
                 ☐ Security baseline for Azure Migrate https://learn.microsoft.com/security/benchmark/azure/baselines/migrate-security-baseline (2023-09-20 09:42 PM)
                 ☐ Hyper-V migration https://learn.microsoft.com/azure/migrate/hyper-v-migration-architecture (2024-11-29 06:04 PM)
                 VMware agentless migration:
@@ -1703,7 +1703,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Integrate Azure and Defender https://learn.microsoft.com/en-us/azure/architecture/guide/solution-ideas/articles/microsoft-365-defender-security-integrate-azure (2024-09-09 10:27 PM)
                     ☐ Microsoft Sentinel automated responses https://learn.microsoft.com/en-us/azure/architecture/guide/solution-ideas/articles/microsoft-sentinel-automated-response (2024-09-09 10:27 PM)
             ☐ Get started https://learn.microsoft.com/en-us/azure/architecture/guide/guide/storage/storage-start-here (2024-09-09 10:27 PM)
-                    ☐ Storage encryption for data at rest https://learn.microsoft.com/azure/storage/common/storage-service-encryption (2025-01-09 06:03 PM)
+                    ✘ Storage encryption for data at rest https://learn.microsoft.com/azure/storage/common/storage-service-encryption (2025-01-09 06:03 PM) @cancelled
                     ✘ Server-side encryption https://learn.microsoft.com/azure/virtual-machines/disk-encryption (2025-01-09 05:32 AM) @cancelled
                 ☐ Azure file shares in a hybrid environment https://learn.microsoft.com/en-us/azure/architecture/guide/hybrid/azure-file-share (2024-09-09 10:27 PM)
                 ☐ Azure files secured by AD DS https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/hybrid/azure-files-on-premises-authentication (2024-09-09 10:27 PM)
@@ -1748,7 +1748,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ✘ Vector search https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/vector-search (2024-09-09 10:03 PM) @cancelled
         ☐ Saga https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/saga (2024-09-09 10:27 PM)
                     ☐ Connectors overview https://learn.microsoft.com/azure/connectors/apis-list (2025-01-14 01:01 AM)
-                    ☐ Support for VMware migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-vmware-migration (2025-01-14 12:35 PM)
+                    ✘ Support for VMware migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-vmware-migration (2025-01-14 12:35 PM) @cancelled
     ☐ Cloud Adoption Framework for Azure https://learn.microsoft.com/azure/cloud-adoption-framework/ (2025-01-14 06:00 PM)
 
 
@@ -1822,10 +1822,10 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
 
 ---
 
-                ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-21 10:59 PM)
+                ✘ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-21 10:59 PM) @cancelled
                 ☐ Active Directory services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2025-01-21 10:59 PM)
                 ☐ Managed disk types https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-22 05:31 AM)
-                    ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-21 10:59 PM)
+                    ✘ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-21 10:59 PM) @cancelled
                 ☐ Compare identity services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2025-01-21 10:59 PM)
                     ☐ Support matrix for Azure VM DR https://learn.microsoft.com/azure/site-recovery/azure-to-azure-support-matrix (2025-01-22 06:07 PM)
                     ☐ Introduction to Azure security https://learn.microsoft.com/azure/security/fundamentals/overview (2025-01-21 11:02 PM)
@@ -1854,4 +1854,13 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
 ---
 
                     ✔ Overview https://learn.microsoft.com/azure/logic-apps/logic-apps-overview (2025-01-24 11:02 PM) @done(25-01-26 22:36)
+
+
+---
+
+                ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-27 11:01 PM)
+                    ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-27 11:01 PM)
+                    ☐ Support for VMware migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-vmware-migration (2025-01-27 12:12 PM)
+                    ☐ Support for physical server migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-physical-migration (2025-01-27 12:12 PM)
+                    ☐ Storage encryption for data at rest https://learn.microsoft.com/azure/storage/common/storage-service-encryption (2025-01-27 11:07 PM)
 

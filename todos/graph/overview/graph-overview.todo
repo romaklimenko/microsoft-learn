@@ -534,18 +534,18 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
     Migrate:
         Azure AD Graph:
             ☐ Migrate Azure AD Graph apps https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-overview (2024-10-01 02:59 AM)
-            ☐ Checklist to migrate apps https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-planning-checklist (2024-06-13 02:45 AM)
+            ✘ Checklist to migrate apps https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-planning-checklist (2024-06-13 02:45 AM) @cancelled
             1: Review differences:
-                ☐ Requests https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-request-differences (2024-06-13 02:45 AM)
+                ✘ Requests https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-request-differences (2024-06-13 02:45 AM) @cancelled
                 ☐ Service features https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-feature-differences (2024-06-13 02:45 AM)
                 ☐ Resource types https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-resource-differences (2024-06-13 02:45 AM)
                 ☐ Entity properties https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-property-differences (2024-06-13 02:45 AM)
                 ☐ Methods https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-method-differences (2024-06-13 02:45 AM)
-                ☐ Permissions https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-permissions-differences (2024-06-13 02:45 AM)
+                ✘ Permissions https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-permissions-differences (2024-06-13 02:45 AM) @cancelled
             ☐ 2: Examine API use https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-audit-api-use (2024-06-13 02:45 AM)
             3: Review app details:
                 ☐ App registration https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-app-registration (2024-06-13 02:45 AM)
-                ☐ Auth libraries https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-authentication-library (2024-06-13 02:45 AM)
+                ✘ Auth libraries https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-authentication-library (2024-06-13 02:45 AM) @cancelled
                 ☐ .NET client libraries https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-client-libraries (2024-06-13 02:45 AM)
             ☐ 4: Deploy, test, and extend https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-deploy-test-extend (2024-06-13 02:45 AM)
             ☐ Azure AD Graph migration FAQ https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-faq (2024-12-14 02:19 AM)
@@ -688,7 +688,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
 ---
 
         ✘ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-21 01:42 AM) @cancelled
-                ☐ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2025-01-21 01:42 AM)
+                ✘ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2025-01-21 01:42 AM) @cancelled
 
 
 ---
@@ -698,6 +698,25 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
 
 ---
 
-        ☐ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-23 01:34 AM)
+        ✘ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-23 01:34 AM) @cancelled
             ☐ Connect to national clouds https://learn.microsoft.com/en-us/graph/sdks/national-clouds (2025-01-23 01:34 AM)
+
+
+---
+
+        ☐ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-28 12:38 AM)
+        ☐ Deploy with Bicep https://learn.microsoft.com/graph/templates?toc=/graph/toc.json (2024-12-23 12:17 PM)
+            ☐ Default user permissions https://learn.microsoft.com/entra/fundamentals/users-default-permissions?toc=/graph/toc.json (2025-01-12 12:08 PM)
+            ☐ Overview https://learn.microsoft.com/graph/api/resources/groups-overview?toc=/graph/toc.json (2024-12-27 11:44 PM)
+                ☐ App manifest https://learn.microsoft.com/entra/identity-platform/reference-microsoft-graph-app-manifest?toc=/graph/toc.json (2025-01-15 06:05 PM)
+                ☐ Validation differences for signInAudience https://learn.microsoft.com/entra/identity-platform/supported-accounts-validation?toc=/graph/toc.json (2025-01-07 06:01 PM)
+                ☐ Automate provisioning https://learn.microsoft.com/entra/identity/app-provisioning/application-provisioning-configuration-api?toc=/graph/toc.json (2024-08-08 11:16 AM)
+                ☐ Configure a custom claim provider token issuance event https://learn.microsoft.com/entra/identity-platform/custom-extension-tokenissuancestart-configuration?tabs=microsoft-graph?toc=/graph/toc.json&tabs=microsoft-graph (2024-12-18 06:05 PM)
+                ☐ API operations reference https://learn.microsoft.com/en-us/graph/permissions-management-howto (2025-01-28 12:38 AM)
+                ☐ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2025-01-28 12:38 AM)
+        ☐ Microsoft Entra service limits https://learn.microsoft.com/entra/identity/users/directory-service-limits-restrictions?toc=/graph/toc.json (2024-04-22 10:02 PM)
+            ☐ Checklist to migrate apps https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-planning-checklist (2025-01-28 12:38 AM)
+                ☐ Requests https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-request-differences (2025-01-28 12:38 AM)
+                ☐ Permissions https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-permissions-differences (2025-01-28 12:38 AM)
+                ☐ Auth libraries https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-authentication-library (2025-01-28 12:38 AM)
 

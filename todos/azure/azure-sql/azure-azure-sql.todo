@@ -27,7 +27,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Advanced Threat Protection https://learn.microsoft.com/en-us/azure/azure-sql/database/threat-detection-overview (2024-08-30 05:31 PM)
                 ✘ Data discovery and classification https://learn.microsoft.com/en-us/azure/azure-sql/database/data-discovery-and-classification-overview (2024-07-31 05:33 PM) @cancelled
                 ☐ Dynamic data masking https://learn.microsoft.com/en-us/azure/azure-sql/database/dynamic-data-masking-overview (2024-11-22 07:03 PM)
-                ☐ SQL Vulnerability Assessment https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-overview?toc=/azure/azure-sql/toc.json (2024-08-07 04:44 PM)
+                ✘ SQL Vulnerability Assessment https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-overview?toc=/azure/azure-sql/toc.json (2024-08-07 04:44 PM) @cancelled
                 ☐ Logins, user accounts, roles, and permissions https://learn.microsoft.com/en-us/azure/azure-sql/database/logins-create-manage (2024-09-27 10:32 PM)
                 Microsoft Entra authentication:
                     ☐ Microsoft Entra authentication documentation https://learn.microsoft.com/en-us/azure/azure-sql/database/authentication-azure-ad-landing (2024-09-27 10:32 PM)
@@ -362,7 +362,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ How to configure automatic database digests https://learn.microsoft.com/sql/relational-databases/security/ledger/ledger-how-to-configure-ledger-database (2024-09-04 05:34 PM)
                     ☐ Verify ledger database for tampering https://learn.microsoft.com/sql/relational-databases/security/ledger/ledger-verify-database (2024-09-04 05:34 PM)
                 Vulnerability assessment:
-                    ☐ Enable vulnerability assessment https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-enable?toc=/azure/azure-sql/toc.json (2024-08-07 04:44 PM)
+                    ✘ Enable vulnerability assessment https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-enable?toc=/azure/azure-sql/toc.json (2024-08-07 04:44 PM) @cancelled
                     ✘ Manage vulnerability assessments https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-manage?toc=/azure/azure-sql/toc.json (2024-12-17 06:03 PM) @cancelled
                     ☐ Find and remediate threats https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-find?toc=/azure/azure-sql/toc.json (2024-08-07 04:44 PM)
                     ☐ Review sensitive data https://learn.microsoft.com/azure/defender-for-cloud/sql-information-protection-policy?toc=/azure/azure-sql/toc.json (2024-12-17 06:03 PM)
@@ -1122,7 +1122,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ✘ Configure backup retention using Azure Blob storage https://learn.microsoft.com/en-us/azure/azure-sql/database/long-term-backup-retention-configure (2025-01-14 06:30 PM) @cancelled
                 ✘ Recover using backups https://learn.microsoft.com/en-us/azure/azure-sql/database/recovery-using-backups (2025-01-13 11:31 PM) @cancelled
                 ✘ IP-based firewall https://learn.microsoft.com/en-us/azure/azure-sql/database/firewall-configure (2025-01-14 06:30 PM) @cancelled
-                    ☐ Manage vulnerability assessments https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-manage?toc=/azure/azure-sql/toc.json (2025-01-14 06:00 PM)
+                    ✘ Manage vulnerability assessments https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-manage?toc=/azure/azure-sql/toc.json (2025-01-14 06:00 PM) @cancelled
                     ☐ Create server configured with UMI and customer-managed TDE https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-create-server (2025-01-14 06:30 PM)
                     ☐ Create server configured with cross-tenant customer-managed TDE https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-create-server-cross-tenant (2025-01-14 06:30 PM)
                     ☐ Rotate TDE BYOK keys https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-key-rotation (2025-01-14 06:30 PM)
@@ -1239,7 +1239,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ Logical servers https://learn.microsoft.com/en-us/azure/azure-sql/database/logical-servers (2025-01-21 11:37 PM)
                 ☐ DNS aliases https://learn.microsoft.com/en-us/azure/azure-sql/database/dns-alias-overview (2025-01-21 11:37 PM)
                 ☐ Outbound firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/outbound-firewall-rule-overview (2025-01-21 11:37 PM)
-                ☐ VNet endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview (2025-01-21 11:37 PM)
+                ✘ VNet endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview (2025-01-21 11:37 PM) @cancelled
                 ☐ Move sharded data https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-overview-split-and-merge (2025-01-21 11:37 PM)
                 ☐ Management API reference https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-manage (2025-01-21 11:37 PM)
                 ☐ DNS alias PowerShell https://learn.microsoft.com/en-us/azure/azure-sql/database/dns-alias-powershell-create (2025-01-21 11:37 PM)
@@ -1315,4 +1315,12 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ Azure SQL Database https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new-archive (2024-11-21 06:30 PM)
             ☐ Azure SQL Managed Instance https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/doc-changes-updates-release-notes-whats-new-archive (2024-11-05 11:33 PM)
             ☐ SQL Server on Azure VMs https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new-archive (2025-01-13 11:31 PM)
+
+
+---
+
+                ☐ SQL Vulnerability Assessment https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-overview?toc=/azure/azure-sql/toc.json (2025-01-27 12:09 PM)
+                ☐ VNet endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview (2025-01-27 06:30 PM)
+                    ☐ Enable vulnerability assessment https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-enable?toc=/azure/azure-sql/toc.json (2025-01-27 12:09 PM)
+                    ☐ Manage vulnerability assessments https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-manage?toc=/azure/azure-sql/toc.json (2025-01-27 12:09 PM)
 
