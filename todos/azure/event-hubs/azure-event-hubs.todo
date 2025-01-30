@@ -93,7 +93,7 @@ Azure Event Hubs documentation | Microsoft Learn:
             ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/event-hubs-security-baseline?toc=/azure/event-hubs/TOC.json (2024-08-05 07:13 PM)
             ☐ Enforce minimum required TLS version https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-enforce-minimum-version (2024-10-29 05:03 PM)
         ✘ Availability and consistency https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-availability-and-consistency (2024-11-22 05:58 AM) @cancelled
-        ☐ Scalability https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability (2024-12-12 11:04 PM)
+        ✘ Scalability https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability (2024-12-12 11:04 PM) @cancelled
         AMQP:
             ☐ AMQP 1.0 protocol guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-protocol-guide (2024-11-19 06:02 PM)
             ☐ AMQP errors https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-amqp-troubleshoot (2021-09-20 10:02 PM)
@@ -209,7 +209,7 @@ Azure Event Hubs documentation | Microsoft Learn:
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/eventhubs (2024-11-19 11:00 PM)
         ☐ REST https://learn.microsoft.com/rest/api/eventhub (2024-08-06 10:08 PM)
         ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.eventhub/allversions (2024-12-03 10:14 PM)
-        ☐ Apache Kafka configurations https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-configurations (2024-12-13 11:03 PM)
+        ✘ Apache Kafka configurations https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-configurations (2024-12-13 11:03 PM) @cancelled
         ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/event-hubs/policy-reference (2024-02-06 06:05 PM)
     Resources:
         ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-event-hubs (2024-10-07 11:05 PM)
@@ -338,5 +338,12 @@ Azure Event Hubs documentation | Microsoft Learn:
 
 ---
 
-            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-27 12:09 PM)
+            ✘ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-27 12:09 PM) @cancelled
+
+
+---
+
+        ☐ Scalability https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-scalability (2025-01-29 06:06 PM)
+            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-29 12:07 PM)
+        ☐ Apache Kafka configurations https://learn.microsoft.com/en-us/azure/event-hubs/apache-kafka-configurations (2025-01-29 06:06 PM)
 

@@ -76,7 +76,7 @@ Azure Event Grid documentation | Microsoft Learn:
                         ☐ Azure CLI https://learn.microsoft.com/en-us/azure/event-grid/publish-events-using-namespace-topics (2024-06-27 05:04 PM)
                         ☐ Azure portal https://learn.microsoft.com/en-us/azure/event-grid/publish-events-namespace-topics-portal (2024-06-27 05:04 PM)
                     Send and pull messages:
-                        ☐ .NET https://learn.microsoft.com/en-us/azure/event-grid/event-grid-dotnet-get-started-pull-delivery (2024-07-19 09:57 PM)
+                        ✘ .NET https://learn.microsoft.com/en-us/azure/event-grid/event-grid-dotnet-get-started-pull-delivery (2024-07-19 09:57 PM) @cancelled
                 Push delivery:
                     Deliver events to Azure Event Hubs using namespace topics:
                         ☐ Azure CLI https://learn.microsoft.com/en-us/azure/event-grid/publish-deliver-events-with-namespace-topics (2024-06-27 05:04 PM)
@@ -329,7 +329,7 @@ Azure Event Grid documentation | Microsoft Learn:
         Reference:
             ☐ Subscription schema https://learn.microsoft.com/en-us/azure/event-grid/subscription-creation-schema (2023-03-20 05:06 PM)
             Template resources:
-                ☐ Event subscriptions https://learn.microsoft.com/azure/templates/microsoft.eventgrid/eventsubscriptions (2024-12-16 07:04 PM)
+                ✘ Event subscriptions https://learn.microsoft.com/azure/templates/microsoft.eventgrid/eventsubscriptions (2024-12-16 07:04 PM) @cancelled
                 ☐ Topics https://learn.microsoft.com/azure/templates/microsoft.eventgrid/topics (2024-12-09 06:20 PM)
             ☐ Transition from Event Grid on IoT Edge to Azure IoT Edge https://learn.microsoft.com/en-us/azure/event-grid/transition (2024-08-02 11:27 AM)
     Reference:
@@ -537,8 +537,18 @@ Azure Event Grid documentation | Microsoft Learn:
 
 ---
 
-            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-27 12:38 PM)
-            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-27 12:38 PM)
-            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-27 12:09 PM)
-            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-27 12:08 PM)
+            ✘ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-27 12:38 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-27 12:38 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-27 12:09 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-27 12:08 PM) @cancelled
+
+
+---
+
+                        ☐ .NET https://learn.microsoft.com/en-us/azure/event-grid/event-grid-dotnet-get-started-pull-delivery (2025-01-29 06:06 PM)
+                ☐ Event subscriptions https://learn.microsoft.com/azure/templates/microsoft.eventgrid/eventsubscriptions (2025-01-28 02:47 PM)
+            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-29 12:37 PM)
+            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-29 12:37 PM)
+            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-29 12:07 PM)
+            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-29 12:09 PM)
 

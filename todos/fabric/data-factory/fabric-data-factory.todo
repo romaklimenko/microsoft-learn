@@ -409,7 +409,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
             ☐ What is an on-premises data gateway? https://learn.microsoft.com/data-integration/gateway/service-gateway-onprem?toc=/fabric/data-factory/toc.json (2024-12-20 11:01 PM)
             Concepts:
                 ☐ On-premises data gateway architecture https://learn.microsoft.com/data-integration/gateway/service-gateway-onprem-indepth?toc=/fabric/data-factory/toc.json (2024-07-29 10:03 PM)
-                ☐ On-premises data gateway FAQ https://learn.microsoft.com/data-integration/gateway/service-gateway-onprem-faq?toc=/fabric/data-factory/toc.json (2024-12-20 11:01 PM)
+                ✘ On-premises data gateway FAQ https://learn.microsoft.com/data-integration/gateway/service-gateway-onprem-faq?toc=/fabric/data-factory/toc.json (2024-12-20 11:01 PM) @cancelled
             How to:
                 ☐ Install gateways https://learn.microsoft.com/data-integration/gateway/service-gateway-install?toc=/fabric/data-factory/toc.json (2024-10-29 10:01 PM)
                 Configure gateways:
@@ -467,7 +467,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
             ☐ Set up SMTP Server https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-set-smtp-server (2024-11-19 06:02 PM)
             ☐ Add a Kubernetes secret https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-access-private-container-registry (2024-11-19 06:02 PM)
             ☐ Apache Airflow configurations https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-supported-apache-airflow-configurations (2024-11-19 06:02 PM)
-            ☐ Migrate from Azure Workflow Orchestration Manager https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-migrate-azure-workflow-orchestration-manager (2024-11-19 06:02 PM)
+            ✘ Migrate from Azure Workflow Orchestration Manager https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-migrate-azure-workflow-orchestration-manager (2024-11-19 06:02 PM) @cancelled
             ☐ Access logs https://learn.microsoft.com/en-us/fabric/data-factory/access-apache-airflow-job-logs (2024-11-19 06:02 PM)
         Tutorials:
             ✘ Hello World https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-hello-world (2024-11-19 06:02 PM) @cancelled
@@ -542,7 +542,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
 ---
 
         ✘ What's new in Data Factory https://learn.microsoft.com/en-us/fabric/get-started/whats-new?toc=/fabric/data-factory/toc.json#data-factory-in-microsoft-fabric (2025-01-03 11:00 PM) @cancelled
-            ☐ Use AI to build DAGs from an image https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-job-build-dags-using-azure-openai (2025-01-03 11:00 PM)
+            ✘ Use AI to build DAGs from an image https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-job-build-dags-using-azure-openai (2025-01-03 11:00 PM) @cancelled
         ✘ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2025-01-06 11:00 PM) @cancelled
 
 
@@ -595,7 +595,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
         ☐ What's new in Data Factory https://learn.microsoft.com/en-us/fabric/get-started/whats-new?toc=/fabric/data-factory/toc.json#data-factory-in-microsoft-fabric (2025-01-22 10:58 PM)
         ✘ How to access on-premises Data https://learn.microsoft.com/en-us/fabric/data-factory/how-to-access-on-premises-data (2025-01-22 12:21 PM) @cancelled
         ☐ Activity Continuity between ADF and Data Factory in Fabric https://learn.microsoft.com/en-us/fabric/data-factory/activity-parity (2025-01-22 10:58 PM)
-                ☐ Supported monthly updates https://learn.microsoft.com/data-integration/gateway/service-gateway-monthly-updates?toc=/fabric/data-factory/toc.json (2025-01-22 05:02 PM)
+                ✘ Supported monthly updates https://learn.microsoft.com/data-integration/gateway/service-gateway-monthly-updates?toc=/fabric/data-factory/toc.json (2025-01-22 05:02 PM) @cancelled
         ✘ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2025-01-22 06:04 PM) @cancelled
 
 
@@ -611,7 +611,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
 
 ---
 
-        ☐ What's new in Data Factory https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new?toc=/fabric/data-factory/toc.json#data-factory-in-microsoft-fabric (2025-01-26 12:09 PM)
+        ✘ What's new in Data Factory https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new?toc=/fabric/data-factory/toc.json#data-factory-in-microsoft-fabric (2025-01-26 12:09 PM) @cancelled
         ☐ Create a dataflow https://learn.microsoft.com/en-us/fabric/data-factory/create-first-dataflow-gen2 (2025-01-26 12:09 PM)
         ☐ Create a data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/create-first-pipeline-with-sample-data (2025-01-26 12:09 PM)
         ☐ Create an Apache Airflow Job https://learn.microsoft.com/en-us/fabric/data-factory/create-apache-airflow-jobs (2025-01-26 12:09 PM)
@@ -677,4 +677,14 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
         ✔ How to access on-premises Data https://learn.microsoft.com/en-us/fabric/data-factory/how-to-access-on-premises-data (2025-01-27 12:08 PM) @done(25-01-28 22:43)
         ✔ Migrate to Dataflow Gen2 scenarios https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1-scenarios (2024-12-09 06:13 PM) @done(25-01-28 22:43)
         ✔ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2025-01-27 11:01 PM) @done(25-01-28 22:43)
+
+
+---
+
+        ☐ What's new in Data Factory https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new?toc=/fabric/data-factory/toc.json#data-factory-in-microsoft-fabric (2025-01-28 11:08 PM)
+                ☐ On-premises data gateway FAQ https://learn.microsoft.com/data-integration/gateway/service-gateway-onprem-faq?toc=/fabric/data-factory/toc.json (2025-01-29 11:01 PM)
+                ☐ Supported monthly updates https://learn.microsoft.com/data-integration/gateway/service-gateway-monthly-updates?toc=/fabric/data-factory/toc.json (2025-01-28 05:01 PM)
+            ☐ Migrate from Azure Workflow Orchestration Manager https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-migrate-azure-workflow-orchestration-manager (2025-01-29 11:02 PM)
+            ☐ Use AI to build DAGs from an image https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-job-build-dags-using-azure-openai (2025-01-29 11:02 PM)
+        ☐ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2025-01-29 12:18 PM)
 

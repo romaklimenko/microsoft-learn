@@ -249,7 +249,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Manage cluster certificates and rotation https://learn.microsoft.com/en-us/azure/aks/certificate-rotation (2024-12-12 05:31 AM)
                 ☐ Use custom certificate authorities https://learn.microsoft.com/en-us/azure/aks/custom-certificate-authority (2024-12-04 11:02 PM)
                 ☐ Use Azure Policy https://learn.microsoft.com/en-us/azure/aks/use-azure-policy (2024-08-01 08:29 PM)
-                ☐ Control deployments with Azure Policy https://learn.microsoft.com/azure/governance/policy/concepts/policy-for-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-22 12:11 PM)
+                ✘ Control deployments with Azure Policy https://learn.microsoft.com/azure/governance/policy/concepts/policy-for-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-22 12:11 PM) @cancelled
                 ☐ Create an OIDC Issuer for your cluster https://learn.microsoft.com/en-us/azure/aks/use-oidc-issuer (2024-12-12 05:31 AM)
                 ☐ Use KMS etcd encryption https://learn.microsoft.com/en-us/azure/aks/use-kms-etcd-encryption (2024-12-03 05:31 AM)
                 ☐ Secure container access to resources https://learn.microsoft.com/en-us/azure/aks/secure-container-access (2024-12-05 05:31 AM)
@@ -275,7 +275,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Use Kubernetes RBAC with Microsoft Entra integration https://learn.microsoft.com/en-us/azure/aks/azure-ad-rbac (2024-10-31 05:34 AM)
                 ☐ Update cluster credentials https://learn.microsoft.com/en-us/azure/aks/update-credentials (2024-10-31 05:34 AM)
                 ☐ Limit access to cluster configuration file https://learn.microsoft.com/en-us/azure/aks/control-kubeconfig-access (2024-10-31 05:34 AM)
-                ☐ Control deployments with Azure Policy https://learn.microsoft.com/azure/governance/policy/concepts/policy-for-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-22 12:11 PM)
+                ✘ Control deployments with Azure Policy https://learn.microsoft.com/azure/governance/policy/concepts/policy-for-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-22 12:11 PM) @cancelled
             Application security:
                 ☐ Create an OIDC Issuer for your cluster https://learn.microsoft.com/en-us/azure/aks/use-oidc-issuer (2024-12-12 05:31 AM)
                 Workload identity:
@@ -327,7 +327,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                     ☐ Migrate from HTTP application routing to the application routing add-on https://learn.microsoft.com/en-us/azure/aks/app-routing-migration (2024-08-01 08:29 PM)
                 ✘ Use Application Gateway Ingress Controller add-on https://learn.microsoft.com/azure/application-gateway/tutorial-ingress-controller-add-on-existing?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-08-23 10:04 PM) @cancelled
                 ☐ Use Istio gateway with Istio Service Mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-deploy-ingress (2024-11-05 10:59 PM)
-                ☐ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2024-08-01 08:29 PM)
+                ✘ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2024-08-01 08:29 PM) @cancelled
             Load balancing:
                 ☐ Create an internal load balancer https://learn.microsoft.com/en-us/azure/aks/internal-lb (2024-12-11 11:00 PM)
                 ☐ Use a Standard Load Balancer https://learn.microsoft.com/en-us/azure/aks/load-balancer-standard (2024-11-20 06:02 PM)
@@ -394,7 +394,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Enable native sidecar mode (Preview) https://learn.microsoft.com/en-us/azure/aks/istio-native-sidecar (2024-10-31 05:34 AM)
                 ✘ Configure Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-meshconfig (2024-10-31 05:34 AM) @cancelled
                 ☐ Deploy external or internal Istio Ingress https://learn.microsoft.com/en-us/azure/aks/istio-deploy-ingress (2024-11-05 10:59 PM)
-                ☐ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2024-08-01 08:29 PM)
+                ✘ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2024-08-01 08:29 PM) @cancelled
                 ✘ Plug-in CA certificates for Istio https://learn.microsoft.com/en-us/azure/aks/istio-plugin-ca (2024-08-01 08:29 PM) @cancelled
                 ☐ Upgrade Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-upgrade (2024-10-31 05:34 AM)
                 ☐ Istio service mesh add-on support policy https://learn.microsoft.com/en-us/azure/aks/istio-support-policy (2024-10-31 05:34 AM)
@@ -465,7 +465,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             ☐ Use OpenFaaS https://learn.microsoft.com/en-us/azure/aks/openfaas (2024-10-09 05:32 AM)
             ☐ Create containerized app with Draft https://learn.microsoft.com/en-us/azure/aks/draft (2024-10-31 05:34 AM)
             ✘ Build Django app with PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/tutorial-django-aks-database?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-19 12:13 PM) @cancelled
-            ☐ Build Java app with WebSphere Liberty or Open Liberty https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-liberty-app (2024-12-05 06:03 PM)
+            ✘ Build Java app with WebSphere Liberty or Open Liberty https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-liberty-app (2024-12-05 06:03 PM) @cancelled
             ✘ Build Java app with WebLogic Server https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-wls-app (2024-11-03 12:04 PM) @cancelled
             ☐ Build Java app with Quarkus https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-quarkus-app (2024-12-17 10:59 PM)
             ☐ Build WordPress app with MySQL https://learn.microsoft.com/azure/mysql/flexible-server/tutorial-deploy-wordpress-on-aks?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-02 11:02 PM)
@@ -474,7 +474,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Deploy Kubernetes applications from Azure Marketplace https://learn.microsoft.com/en-us/azure/aks/deploy-marketplace (2024-10-15 10:00 PM)
                 ✘ Deploy Kubernetes applications with ARM template https://learn.microsoft.com/en-us/azure/aks/deploy-application-template (2024-08-01 08:29 PM) @cancelled
                 ☐ Deploy Kubernetes applications with Azure CLI https://learn.microsoft.com/en-us/azure/aks/deploy-application-az-cli (2024-10-31 10:00 PM)
-            ☐ Connect an AKS app to Azure SQL Database https://learn.microsoft.com/azure/service-connector/tutorial-python-aks-sql-database-connection-string?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-13 05:38 AM)
+            ✘ Connect an AKS app to Azure SQL Database https://learn.microsoft.com/azure/service-connector/tutorial-python-aks-sql-database-connection-string?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-12-13 05:38 AM) @cancelled
             Dapr:
                 ✘ Install the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr (2024-10-31 05:34 AM) @cancelled
                 ✘ Configure the Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-settings (2024-12-10 06:00 PM) @cancelled
@@ -525,7 +525,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
         ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2024-12-24 12:08 PM) @cancelled @cancelled
         ✘ Java https://learn.microsoft.com/java/api/overview/azure/containerservice (2024-12-24 12:11 PM) @cancelled @cancelled
         ✘ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2024-12-24 12:12 PM) @cancelled @cancelled
-        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.containerservice/managedclusters (2024-12-03 10:14 PM)
+        ✘ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.containerservice/managedclusters (2024-12-03 10:14 PM) @cancelled
         ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/aks/policy-reference (2024-08-01 08:29 PM)
         ☐ AKS monitoring data reference https://learn.microsoft.com/en-us/azure/aks/monitor-aks-reference (2024-09-23 04:58 PM)
     Resources:
@@ -787,7 +787,21 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Scan images in your CI/CD Workflow https://learn.microsoft.com/azure/defender-for-cloud/defender-for-container-registries-cicd?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-27 12:09 PM)
             ☐ Create Dockerfiles for Windows Server containers https://learn.microsoft.com/virtualization/windowscontainers/manage-docker/manage-windows-dockerfile?context=/azure/aks/context/aks-context (2025-01-27 07:14 PM)
             ☐ Optimize Dockerfiles for Windows Server containers https://learn.microsoft.com/virtualization/windowscontainers/manage-docker/optimize-windows-dockerfile?context=/azure/aks/context/aks-context (2025-01-27 07:14 PM)
-        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-27 12:38 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-27 12:09 PM)
-        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-27 12:08 PM)
+        ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-27 12:38 PM) @cancelled
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-27 12:09 PM) @cancelled
+        ✘ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-27 12:08 PM) @cancelled
+
+
+---
+
+                ☐ Control deployments with Azure Policy https://learn.microsoft.com/azure/governance/policy/concepts/policy-for-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-29 12:19 PM)
+                ☐ Control deployments with Azure Policy https://learn.microsoft.com/azure/governance/policy/concepts/policy-for-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-29 12:19 PM)
+                ☐ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2025-01-29 12:16 PM)
+                ☐ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2025-01-29 12:16 PM)
+            ☐ Build Java app with WebSphere Liberty or Open Liberty https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-liberty-app (2025-01-28 06:03 PM)
+            ☐ Connect an AKS app to Azure SQL Database https://learn.microsoft.com/azure/service-connector/tutorial-python-aks-sql-database-connection-string?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-28 11:09 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-29 12:37 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-29 12:07 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-29 12:09 PM)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.containerservice/managedclusters (2025-01-28 02:47 PM)
 

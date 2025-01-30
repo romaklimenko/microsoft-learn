@@ -70,7 +70,7 @@ Azure Table storage documentation | Microsoft Learn:
                 ☐ Java https://learn.microsoft.com/azure/storage/blobs/client-side-encryption?toc=%2Fazure%2Fstorage%2Ftables%2Ftoc.json&tabs=java (2024-10-03 10:03 PM)
                 ☐ Python https://learn.microsoft.com/azure/storage/blobs/client-side-encryption?toc=%2Fazure%2Fstorage%2Ftables%2Ftoc.json&tabs=python (2024-10-03 10:03 PM)
             Configure network security:
-                ☐ Configure firewalls and virtual networks https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=/azure/storage/tables/toc.json (2024-12-17 06:04 PM)
+                ✘ Configure firewalls and virtual networks https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=/azure/storage/tables/toc.json (2024-12-17 06:04 PM) @cancelled
                 ☐ Require secure transfer https://learn.microsoft.com/en-us/azure/storage/common/storage-require-secure-transfer?toc=/azure/storage/tables/toc.json (2024-06-27 05:04 PM)
                 Manage Transport Layer Security (TLS):
                     ☐ Enforce minimum TLS version for incoming requests https://learn.microsoft.com/en-us/azure/storage/common/transport-layer-security-configure-minimum-version?toc=/azure/storage/tables/toc.json (2024-09-11 06:38 PM)
@@ -293,9 +293,19 @@ Azure Table storage documentation | Microsoft Learn:
 ---
 
             ☐ Azure Storage encryption at rest https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=/azure/storage/tables/toc.json (2025-01-27 11:07 PM)
-            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-27 12:38 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-27 12:09 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-27 12:08 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-27 12:09 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-27 12:08 PM)
+            ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-27 12:38 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-27 12:09 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-27 12:08 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-27 12:09 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-27 12:08 PM) @cancelled
+
+
+---
+
+                ☐ Configure firewalls and virtual networks https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=/azure/storage/tables/toc.json (2025-01-28 12:10 PM)
+            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-29 12:37 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-29 12:07 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-29 12:09 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-29 12:07 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-29 12:09 PM)
 

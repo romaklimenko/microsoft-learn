@@ -861,7 +861,7 @@ Kusto documentation - Kusto | Microsoft Learn:
                 ☐ .alter table column-docstrings command https://learn.microsoft.com/en-us/kusto/management/alter-column-docstrings (2024-08-20 02:54 PM)
                 ☐ .alter-merge table column-docstrings command https://learn.microsoft.com/en-us/kusto/management/alter-merge-table-column (2024-08-20 02:54 PM)
             Ingestion mappings:
-                ☐ Ingestion mappings overview https://learn.microsoft.com/en-us/kusto/management/mappings (2024-09-03 11:04 AM)
+                ✘ Ingestion mappings overview https://learn.microsoft.com/en-us/kusto/management/mappings (2024-09-03 11:04 AM) @cancelled
                 ☐ CSV mapping https://learn.microsoft.com/en-us/kusto/management/csv-mapping (2024-08-20 02:54 PM)
                 ☐ JSON mapping https://learn.microsoft.com/en-us/kusto/management/json-mapping (2024-08-20 02:54 PM)
                 ✘ AVRO mapping https://learn.microsoft.com/en-us/kusto/management/avro-mapping (2024-08-20 02:54 PM) @cancelled
@@ -873,7 +873,7 @@ Kusto documentation - Kusto | Microsoft Learn:
                 ☐ .alter function command https://learn.microsoft.com/en-us/kusto/management/alter-function (2024-08-20 02:54 PM)
                 ☐ .alter function docstring command https://learn.microsoft.com/en-us/kusto/management/alter-docstring-function (2024-08-20 02:54 PM)
                 ☐ .alter function folder command https://learn.microsoft.com/en-us/kusto/management/alter-folder-function (2024-08-20 02:54 PM)
-                ☐ .create function command https://learn.microsoft.com/en-us/kusto/management/create-function (2024-08-20 02:54 PM)
+                ✘ .create function command https://learn.microsoft.com/en-us/kusto/management/create-function (2024-08-20 02:54 PM) @cancelled
                 ☐ .create-or-alter function command https://learn.microsoft.com/en-us/kusto/management/create-alter-function (2024-08-20 02:54 PM)
                 ☐ .drop function command https://learn.microsoft.com/en-us/kusto/management/drop-function (2024-08-20 02:54 PM)
                 ☐ .show functions command https://learn.microsoft.com/en-us/kusto/management/show-function (2024-08-20 02:54 PM)
@@ -1091,7 +1091,7 @@ Kusto documentation - Kusto | Microsoft Learn:
                 ☐ .drop continuous-export https://learn.microsoft.com/en-us/kusto/management/data-export/drop-continuous-export (2024-12-17 12:03 PM)
                 ☐ .show continuous-export https://learn.microsoft.com/en-us/kusto/management/data-export/show-continuous-export (2024-12-17 12:03 PM)
                 ☐ .show continuous-export exported-artifacts https://learn.microsoft.com/en-us/kusto/management/data-export/show-continuous-artifacts (2024-12-17 12:03 PM)
-                ☐ .show continuous-export failures https://learn.microsoft.com/en-us/kusto/management/data-export/show-continuous-failures (2024-12-17 12:03 PM)
+                ✘ .show continuous-export failures https://learn.microsoft.com/en-us/kusto/management/data-export/show-continuous-failures (2024-12-17 12:03 PM) @cancelled
         ☐ Database cursors https://learn.microsoft.com/en-us/kusto/management/database-cursor (2024-08-20 02:54 PM)
         Plugin commands:
             ☐ .show plugins command https://learn.microsoft.com/en-us/kusto/management/show-plugins (2024-08-20 02:54 PM)
@@ -1855,7 +1855,7 @@ Kusto documentation - Kusto | Microsoft Learn:
                 ☐ .delete cluster policy request_classification command https://learn.microsoft.com/en-us/kusto/management/delete-cluster-policy-request-classification-command (2025-01-09 05:57 PM)
                 ☐ .show cluster policy request_classification command https://learn.microsoft.com/en-us/kusto/management/show-cluster-policy-request-classification-command (2025-01-09 05:57 PM)
             ☐ Request limits policy https://learn.microsoft.com/en-us/kusto/management/request-limits-policy (2025-01-09 05:57 PM)
-            ☐ Request rate limit policy https://learn.microsoft.com/en-us/kusto/management/request-rate-limit-policy (2025-01-09 05:57 PM)
+            ✘ Request rate limit policy https://learn.microsoft.com/en-us/kusto/management/request-rate-limit-policy (2025-01-09 05:57 PM) @cancelled
             ☐ Request rate limits enforcement policy https://learn.microsoft.com/en-us/kusto/management/request-rate-limits-enforcement-policy (2025-01-09 05:57 PM)
             ☐ Request queuing policy https://learn.microsoft.com/en-us/kusto/management/request-queuing-policy (2025-01-09 05:57 PM)
             ☐ Query consistency policy https://learn.microsoft.com/en-us/kusto/management/query-consistency-policy (2025-01-09 05:57 PM)
@@ -1945,7 +1945,7 @@ Kusto documentation - Kusto | Microsoft Learn:
         ☐ Quick reference guide https://learn.microsoft.com/en-us/kusto/query/kql-quick-reference (2024-08-20 02:54 PM)
         ☐ 1 - Learn common operators https://learn.microsoft.com/en-us/kusto/query/tutorials/learn-common-operators (2024-12-04 12:12 PM)
         ☐ 2 - Use aggregation functions https://learn.microsoft.com/en-us/kusto/query/tutorials/use-aggregation-functions (2024-08-20 02:54 PM)
-        ☐ 3 - Join data from multiple tables https://learn.microsoft.com/en-us/kusto/query/tutorials/join-data-from-multiple-tables (2024-08-20 02:54 PM)
+        ✘ 3 - Join data from multiple tables https://learn.microsoft.com/en-us/kusto/query/tutorials/join-data-from-multiple-tables (2024-08-20 02:54 PM) @cancelled
         ☐ 4 - Create geospatial visualizations https://learn.microsoft.com/en-us/kusto/query/tutorials/create-geospatial-visualizations (2024-08-20 02:54 PM)
         ☐ Syntax conventions https://learn.microsoft.com/en-us/kusto/query/syntax-conventions (2024-08-20 02:54 PM)
         ☐ Add a comment in KQL https://learn.microsoft.com/en-us/kusto/query/comment (2024-08-20 02:54 PM)
@@ -1973,7 +1973,7 @@ Kusto documentation - Kusto | Microsoft Learn:
             ☐ real https://learn.microsoft.com/en-us/kusto/query/scalar-data-types/real (2024-08-20 02:54 PM)
             ☐ string https://learn.microsoft.com/en-us/kusto/query/scalar-data-types/string (2024-09-26 11:03 AM)
             ☐ timespan https://learn.microsoft.com/en-us/kusto/query/scalar-data-types/timespan (2024-09-18 04:57 PM)
-            ☐ Null values https://learn.microsoft.com/en-us/kusto/query/scalar-data-types/null-values (2024-09-24 11:04 AM)
+            ✘ Null values https://learn.microsoft.com/en-us/kusto/query/scalar-data-types/null-values (2024-09-24 11:04 AM) @cancelled
             ☐ Function types https://learn.microsoft.com/en-us/kusto/query/functions/ (2024-08-20 02:54 PM)
             ☐ User-defined functions https://learn.microsoft.com/en-us/kusto/query/functions/user-defined-functions (2024-08-20 02:54 PM)
             ☐ Query statement types https://learn.microsoft.com/en-us/kusto/query/statements (2024-08-20 02:54 PM)
@@ -1986,30 +1986,30 @@ Kusto documentation - Kusto | Microsoft Learn:
             ✘ Tabular expression statements https://learn.microsoft.com/en-us/kusto/query/tabular-expression-statements (2024-08-20 02:54 PM) @cancelled
             ✘ Batches https://learn.microsoft.com/en-us/kusto/query/batches (2024-08-20 02:54 PM) @cancelled
             ☐ Query operators https://learn.microsoft.com/en-us/kusto/query/queries (2024-08-20 02:54 PM)
-            ☐ as operator https://learn.microsoft.com/en-us/kusto/query/as-operator (2024-08-20 02:54 PM)
+            ✘ as operator https://learn.microsoft.com/en-us/kusto/query/as-operator (2024-08-20 02:54 PM) @cancelled
             ☐ consume operator https://learn.microsoft.com/en-us/kusto/query/consume-operator (2024-08-20 02:54 PM)
-            ☐ count operator https://learn.microsoft.com/en-us/kusto/query/count-operator (2024-08-20 02:54 PM)
-            ☐ datatable operator https://learn.microsoft.com/en-us/kusto/query/datatable-operator (2025-01-08 12:11 PM)
+            ✘ count operator https://learn.microsoft.com/en-us/kusto/query/count-operator (2024-08-20 02:54 PM) @cancelled
+            ✘ datatable operator https://learn.microsoft.com/en-us/kusto/query/datatable-operator (2025-01-08 12:11 PM) @cancelled
             ☐ distinct operator https://learn.microsoft.com/en-us/kusto/query/distinct-operator (2024-08-20 02:54 PM)
             ☐ evaluate operator https://learn.microsoft.com/en-us/kusto/query/evaluate-operator (2024-08-20 02:54 PM)
             ☐ extend operator https://learn.microsoft.com/en-us/kusto/query/extend-operator (2024-08-20 02:54 PM)
-            ☐ externaldata operator https://learn.microsoft.com/en-us/kusto/query/externaldata-operator (2024-08-20 02:54 PM)
+            ✘ externaldata operator https://learn.microsoft.com/en-us/kusto/query/externaldata-operator (2024-08-20 02:54 PM) @cancelled
             ☐ facet operator https://learn.microsoft.com/en-us/kusto/query/facet-operator (2025-01-06 06:01 PM)
-            ☐ find operator https://learn.microsoft.com/en-us/kusto/query/find-operator (2024-08-20 02:54 PM)
-            ☐ fork operator https://learn.microsoft.com/en-us/kusto/query/fork-operator (2024-08-20 02:54 PM)
+            ✘ find operator https://learn.microsoft.com/en-us/kusto/query/find-operator (2024-08-20 02:54 PM) @cancelled
+            ✘ fork operator https://learn.microsoft.com/en-us/kusto/query/fork-operator (2024-08-20 02:54 PM) @cancelled
             ☐ getschema operator https://learn.microsoft.com/en-us/kusto/query/getschema-operator (2024-08-20 02:54 PM)
-            ☐ invoke operator https://learn.microsoft.com/en-us/kusto/query/invoke-operator (2024-08-20 02:54 PM)
+            ✘ invoke operator https://learn.microsoft.com/en-us/kusto/query/invoke-operator (2024-08-20 02:54 PM) @cancelled
                 ☐ join operator https://learn.microsoft.com/en-us/kusto/query/join-operator (2024-08-20 02:54 PM)
-                    ☐ innerunique https://learn.microsoft.com/en-us/kusto/query/join-innerunique (2024-08-20 02:54 PM)
-                    ☐ inner https://learn.microsoft.com/en-us/kusto/query/join-inner (2024-08-20 02:54 PM)
-                    ☐ leftouter https://learn.microsoft.com/en-us/kusto/query/join-leftouter (2024-08-20 02:54 PM)
+                    ✘ innerunique https://learn.microsoft.com/en-us/kusto/query/join-innerunique (2024-08-20 02:54 PM) @cancelled
+                    ✘ inner https://learn.microsoft.com/en-us/kusto/query/join-inner (2024-08-20 02:54 PM) @cancelled
+                    ✘ leftouter https://learn.microsoft.com/en-us/kusto/query/join-leftouter (2024-08-20 02:54 PM) @cancelled
                     ☐ rightouter https://learn.microsoft.com/en-us/kusto/query/join-rightouter (2024-08-20 02:54 PM)
-                    ☐ fullouter https://learn.microsoft.com/en-us/kusto/query/join-fullouter (2024-08-20 02:54 PM)
-                    ☐ leftsemi https://learn.microsoft.com/en-us/kusto/query/join-leftsemi (2024-08-20 02:54 PM)
-                    ☐ leftanti https://learn.microsoft.com/en-us/kusto/query/join-leftanti (2024-08-20 02:54 PM)
+                    ✘ fullouter https://learn.microsoft.com/en-us/kusto/query/join-fullouter (2024-08-20 02:54 PM) @cancelled
+                    ✘ leftsemi https://learn.microsoft.com/en-us/kusto/query/join-leftsemi (2024-08-20 02:54 PM) @cancelled
+                    ✘ leftanti https://learn.microsoft.com/en-us/kusto/query/join-leftanti (2024-08-20 02:54 PM) @cancelled
                     ☐ rightsemi https://learn.microsoft.com/en-us/kusto/query/join-rightsemi (2024-08-20 02:54 PM)
-                    ☐ rightanti https://learn.microsoft.com/en-us/kusto/query/join-rightanti (2024-08-20 02:54 PM)
-                ☐ Cross-cluster join https://learn.microsoft.com/en-us/kusto/query/join-cross-cluster (2024-08-20 02:54 PM)
+                    ✘ rightanti https://learn.microsoft.com/en-us/kusto/query/join-rightanti (2024-08-20 02:54 PM) @cancelled
+                ✘ Cross-cluster join https://learn.microsoft.com/en-us/kusto/query/join-cross-cluster (2024-08-20 02:54 PM) @cancelled
                 ☐ Broadcast join https://learn.microsoft.com/en-us/kusto/query/broadcast-join (2024-08-20 02:54 PM)
                 ☐ Time window join https://learn.microsoft.com/en-us/kusto/query/join-time-window (2024-08-20 02:54 PM)
             ☐ lookup operator https://learn.microsoft.com/en-us/kusto/query/lookup-operator (2024-12-04 06:00 PM)
@@ -2027,21 +2027,21 @@ Kusto documentation - Kusto | Microsoft Learn:
             ☐ print operator https://learn.microsoft.com/en-us/kusto/query/print-operator (2024-11-21 06:02 PM)
             ☐ range operator https://learn.microsoft.com/en-us/kusto/query/range-operator (2025-01-08 12:11 PM)
             ☐ reduce operator https://learn.microsoft.com/en-us/kusto/query/reduce-operator (2024-08-20 02:54 PM)
-                ☐ render operator https://learn.microsoft.com/en-us/kusto/query/render-operator (2024-08-20 02:54 PM)
-                    ☐ anomalychart https://learn.microsoft.com/en-us/kusto/query/visualization-anomalychart (2024-08-20 02:54 PM)
-                    ☐ areachart https://learn.microsoft.com/en-us/kusto/query/visualization-areachart (2024-08-20 02:54 PM)
-                    ☐ barchart https://learn.microsoft.com/en-us/kusto/query/visualization-barchart (2024-08-20 02:54 PM)
+                ✘ render operator https://learn.microsoft.com/en-us/kusto/query/render-operator (2024-08-20 02:54 PM) @cancelled
+                    ✘ anomalychart https://learn.microsoft.com/en-us/kusto/query/visualization-anomalychart (2024-08-20 02:54 PM) @cancelled
+                    ✘ areachart https://learn.microsoft.com/en-us/kusto/query/visualization-areachart (2024-08-20 02:54 PM) @cancelled
+                    ✘ barchart https://learn.microsoft.com/en-us/kusto/query/visualization-barchart (2024-08-20 02:54 PM) @cancelled
                     ☐ card https://learn.microsoft.com/en-us/kusto/query/visualization-card (2024-08-20 02:54 PM)
-                    ☐ columnchart https://learn.microsoft.com/en-us/kusto/query/visualization-columnchart (2024-08-20 02:54 PM)
+                    ✘ columnchart https://learn.microsoft.com/en-us/kusto/query/visualization-columnchart (2024-08-20 02:54 PM) @cancelled
                     ☐ ladderchart https://learn.microsoft.com/en-us/kusto/query/visualization-ladderchart (2024-08-20 02:54 PM)
-                    ☐ linechart https://learn.microsoft.com/en-us/kusto/query/visualization-linechart (2024-08-20 02:54 PM)
+                    ✘ linechart https://learn.microsoft.com/en-us/kusto/query/visualization-linechart (2024-08-20 02:54 PM) @cancelled
                     ☐ piechart https://learn.microsoft.com/en-us/kusto/query/visualization-piechart (2024-08-20 02:54 PM)
                     ☐ pivotchart https://learn.microsoft.com/en-us/kusto/query/visualization-pivotchart (2024-08-20 02:54 PM)
                     ☐ Plotly https://learn.microsoft.com/en-us/kusto/query/visualization-plotly (2024-08-20 02:54 PM)
                     ☐ scatterchart https://learn.microsoft.com/en-us/kusto/query/visualization-scatterchart (2024-08-20 02:54 PM)
                     ☐ stackedareachart https://learn.microsoft.com/en-us/kusto/query/visualization-stackedareachart (2024-11-27 12:13 PM)
                     ☐ table https://learn.microsoft.com/en-us/kusto/query/visualization-table (2024-08-20 02:54 PM)
-                    ☐ timechart https://learn.microsoft.com/en-us/kusto/query/visualization-timechart (2024-11-21 06:02 PM)
+                    ✘ timechart https://learn.microsoft.com/en-us/kusto/query/visualization-timechart (2024-11-21 06:02 PM) @cancelled
                     ☐ timepivot https://learn.microsoft.com/en-us/kusto/query/visualization-timepivot (2024-08-20 02:54 PM)
                     ☐ treemap https://learn.microsoft.com/en-us/kusto/query/visualization-treemap (2024-08-20 02:54 PM)
             ☐ sample operator https://learn.microsoft.com/en-us/kusto/query/sample-operator (2024-08-20 02:54 PM)
@@ -2374,10 +2374,10 @@ Kusto documentation - Kusto | Microsoft Learn:
             ☐ binary_all_or https://learn.microsoft.com/en-us/kusto/query/binary-all-or-aggregation-function (2024-08-20 02:54 PM)
             ☐ binary_all_xor https://learn.microsoft.com/en-us/kusto/query/binary-all-xor-aggregation-function (2024-08-20 02:54 PM)
             ☐ buildschema() https://learn.microsoft.com/en-us/kusto/query/buildschema-aggregation-function (2024-08-20 02:54 PM)
-            ☐ count() https://learn.microsoft.com/en-us/kusto/query/count-aggregation-function (2024-08-20 02:54 PM)
-            ☐ count_distinct() https://learn.microsoft.com/en-us/kusto/query/count-distinct-aggregation-function (2024-12-05 12:14 PM)
+            ✘ count() https://learn.microsoft.com/en-us/kusto/query/count-aggregation-function (2024-08-20 02:54 PM) @cancelled
+            ✘ count_distinct() https://learn.microsoft.com/en-us/kusto/query/count-distinct-aggregation-function (2024-12-05 12:14 PM) @cancelled
             ☐ count_distinctif() https://learn.microsoft.com/en-us/kusto/query/count-distinctif-aggregation-function (2024-10-06 11:30 PM)
-            ☐ countif() https://learn.microsoft.com/en-us/kusto/query/countif-aggregation-function (2024-08-20 02:54 PM)
+            ✘ countif() https://learn.microsoft.com/en-us/kusto/query/countif-aggregation-function (2024-08-20 02:54 PM) @cancelled
             ☐ dcount() https://learn.microsoft.com/en-us/kusto/query/dcount-aggregation-function (2024-09-24 11:04 AM)
             ☐ dcountif() https://learn.microsoft.com/en-us/kusto/query/dcountif-aggregation-function (2024-08-20 02:54 PM)
             ☐ hll() https://learn.microsoft.com/en-us/kusto/query/hll-aggregation-function (2024-09-24 11:04 AM)
@@ -2413,7 +2413,7 @@ Kusto documentation - Kusto | Microsoft Learn:
             ☐ Graph scenarios https://learn.microsoft.com/en-us/kusto/query/graph-scenarios (2024-08-20 02:54 PM)
             ☐ Graph operators overview https://learn.microsoft.com/en-us/kusto/query/graph-operators (2024-11-07 12:05 PM)
             ☐ make-graph https://learn.microsoft.com/en-us/kusto/query/make-graph-operator (2024-12-24 12:05 PM)
-            ☐ graph-match https://learn.microsoft.com/en-us/kusto/query/graph-match-operator (2024-08-20 02:54 PM)
+            ✘ graph-match https://learn.microsoft.com/en-us/kusto/query/graph-match-operator (2024-08-20 02:54 PM) @cancelled
             ☐ graph-to-table https://learn.microsoft.com/en-us/kusto/query/graph-to-table-operator (2024-08-20 02:54 PM)
             ☐ graph-shortest-paths https://learn.microsoft.com/en-us/kusto/query/graph-shortest-paths-operator (2024-11-07 12:05 PM)
             ☐ graph-mark-components https://learn.microsoft.com/en-us/kusto/query/graph-mark-components-operator (2024-11-07 12:05 PM)
@@ -2575,14 +2575,14 @@ Kusto documentation - Kusto | Microsoft Learn:
 
 ---
 
-            ☐ Alias statement https://learn.microsoft.com/en-us/kusto/query/alias-statement (2025-01-20 06:02 PM)
-            ☐ Let statement https://learn.microsoft.com/en-us/kusto/query/let-statement (2025-01-20 06:02 PM)
-            ☐ Pattern statement https://learn.microsoft.com/en-us/kusto/query/pattern-statement (2025-01-20 06:02 PM)
-            ☐ Query parameters statement https://learn.microsoft.com/en-us/kusto/query/query-parameters-statement (2025-01-20 06:02 PM)
-            ☐ Restrict statement https://learn.microsoft.com/en-us/kusto/query/restrict-statement (2025-01-20 06:02 PM)
-            ☐ Set statement https://learn.microsoft.com/en-us/kusto/query/set-statement (2025-01-20 06:02 PM)
-            ☐ Tabular expression statements https://learn.microsoft.com/en-us/kusto/query/tabular-expression-statements (2025-01-20 06:02 PM)
-            ☐ Batches https://learn.microsoft.com/en-us/kusto/query/batches (2025-01-20 06:02 PM)
+            ✘ Alias statement https://learn.microsoft.com/en-us/kusto/query/alias-statement (2025-01-20 06:02 PM) @cancelled
+            ✘ Let statement https://learn.microsoft.com/en-us/kusto/query/let-statement (2025-01-20 06:02 PM) @cancelled
+            ✘ Pattern statement https://learn.microsoft.com/en-us/kusto/query/pattern-statement (2025-01-20 06:02 PM) @cancelled
+            ✘ Query parameters statement https://learn.microsoft.com/en-us/kusto/query/query-parameters-statement (2025-01-20 06:02 PM) @cancelled
+            ✘ Restrict statement https://learn.microsoft.com/en-us/kusto/query/restrict-statement (2025-01-20 06:02 PM) @cancelled
+            ✘ Set statement https://learn.microsoft.com/en-us/kusto/query/set-statement (2025-01-20 06:02 PM) @cancelled
+            ✘ Tabular expression statements https://learn.microsoft.com/en-us/kusto/query/tabular-expression-statements (2025-01-20 06:02 PM) @cancelled
+            ✘ Batches https://learn.microsoft.com/en-us/kusto/query/batches (2025-01-20 06:02 PM) @cancelled
                 ☐ Avrotize k2a tool https://learn.microsoft.com/en-us/kusto/tools/avrotize (2025-01-16 06:01 PM)
                 ☐ Retention policy https://learn.microsoft.com/en-us/kusto/management/retention-policy (2025-01-21 06:08 PM)
 
@@ -2602,4 +2602,50 @@ Kusto documentation - Kusto | Microsoft Learn:
 
                 ☐ Row level security policy https://learn.microsoft.com/en-us/kusto/management/row-level-security-policy (2025-01-27 12:08 PM)
                 ☐ Access control overview https://learn.microsoft.com/en-us/kusto/access-control/ (2025-01-27 12:08 PM)
+
+
+---
+
+        ☐ 3 - Join data from multiple tables https://learn.microsoft.com/en-us/kusto/query/tutorials/join-data-from-multiple-tables (2025-01-29 12:18 PM)
+            ☐ Null values https://learn.microsoft.com/en-us/kusto/query/scalar-data-types/null-values (2025-01-28 06:04 PM)
+            ☐ Alias statement https://learn.microsoft.com/en-us/kusto/query/alias-statement (2025-01-28 12:06 PM)
+            ☐ Let statement https://learn.microsoft.com/en-us/kusto/query/let-statement (2025-01-29 12:18 PM)
+            ☐ Pattern statement https://learn.microsoft.com/en-us/kusto/query/pattern-statement (2025-01-29 12:18 PM)
+            ☐ Query parameters statement https://learn.microsoft.com/en-us/kusto/query/query-parameters-statement (2025-01-29 12:18 PM)
+            ☐ Restrict statement https://learn.microsoft.com/en-us/kusto/query/restrict-statement (2025-01-29 12:18 PM)
+            ☐ Set statement https://learn.microsoft.com/en-us/kusto/query/set-statement (2025-01-29 12:18 PM)
+            ☐ Tabular expression statements https://learn.microsoft.com/en-us/kusto/query/tabular-expression-statements (2025-01-29 12:18 PM)
+            ☐ Batches https://learn.microsoft.com/en-us/kusto/query/batches (2025-01-28 12:06 PM)
+            ☐ as operator https://learn.microsoft.com/en-us/kusto/query/as-operator (2025-01-28 12:06 PM)
+            ☐ count operator https://learn.microsoft.com/en-us/kusto/query/count-operator (2025-01-28 12:06 PM)
+            ☐ datatable operator https://learn.microsoft.com/en-us/kusto/query/datatable-operator (2025-01-28 12:06 PM)
+            ☐ externaldata operator https://learn.microsoft.com/en-us/kusto/query/externaldata-operator (2025-01-28 12:06 PM)
+            ☐ find operator https://learn.microsoft.com/en-us/kusto/query/find-operator (2025-01-28 12:06 PM)
+            ☐ fork operator https://learn.microsoft.com/en-us/kusto/query/fork-operator (2025-01-28 12:06 PM)
+            ☐ invoke operator https://learn.microsoft.com/en-us/kusto/query/invoke-operator (2025-01-29 12:18 PM)
+                    ☐ innerunique https://learn.microsoft.com/en-us/kusto/query/join-innerunique (2025-01-29 12:18 PM)
+                    ☐ inner https://learn.microsoft.com/en-us/kusto/query/join-inner (2025-01-29 12:18 PM)
+                    ☐ leftouter https://learn.microsoft.com/en-us/kusto/query/join-leftouter (2025-01-29 12:18 PM)
+                    ☐ fullouter https://learn.microsoft.com/en-us/kusto/query/join-fullouter (2025-01-29 12:18 PM)
+                    ☐ leftsemi https://learn.microsoft.com/en-us/kusto/query/join-leftsemi (2025-01-29 12:18 PM)
+                    ☐ leftanti https://learn.microsoft.com/en-us/kusto/query/join-leftanti (2025-01-29 12:18 PM)
+                    ☐ rightanti https://learn.microsoft.com/en-us/kusto/query/join-rightanti (2025-01-29 12:18 PM)
+                ☐ Cross-cluster join https://learn.microsoft.com/en-us/kusto/query/join-cross-cluster (2025-01-29 12:18 PM)
+                ☐ render operator https://learn.microsoft.com/en-us/kusto/query/render-operator (2025-01-29 12:18 PM)
+                    ☐ anomalychart https://learn.microsoft.com/en-us/kusto/query/visualization-anomalychart (2025-01-29 12:18 PM)
+                    ☐ areachart https://learn.microsoft.com/en-us/kusto/query/visualization-areachart (2025-01-29 12:18 PM)
+                    ☐ barchart https://learn.microsoft.com/en-us/kusto/query/visualization-barchart (2025-01-29 12:18 PM)
+                    ☐ columnchart https://learn.microsoft.com/en-us/kusto/query/visualization-columnchart (2025-01-29 12:18 PM)
+                    ☐ linechart https://learn.microsoft.com/en-us/kusto/query/visualization-linechart (2025-01-29 12:18 PM)
+                    ☐ timechart https://learn.microsoft.com/en-us/kusto/query/visualization-timechart (2025-01-29 12:18 PM)
+            ☐ count() https://learn.microsoft.com/en-us/kusto/query/count-aggregation-function (2025-01-28 06:04 PM)
+            ☐ count_distinct() https://learn.microsoft.com/en-us/kusto/query/count-distinct-aggregation-function (2025-01-28 06:04 PM)
+            ☐ countif() https://learn.microsoft.com/en-us/kusto/query/countif-aggregation-function (2025-01-28 06:04 PM)
+            ☐ graph-match https://learn.microsoft.com/en-us/kusto/query/graph-match-operator (2025-01-29 12:18 PM)
+            ☐ Request rate limit policy https://learn.microsoft.com/en-us/kusto/management/request-rate-limit-policy (2025-01-29 12:18 PM)
+                ☐ .create function command https://learn.microsoft.com/en-us/kusto/management/create-function (2025-01-29 12:18 PM)
+                ☐ Role-based access control https://learn.microsoft.com/en-us/kusto/access-control/role-based-access-control (2024-09-05 05:00 PM)
+                ☐ Microsoft Entra App registration https://learn.microsoft.com/en-us/kusto/access-control/provision-entra-id-app (2024-10-30 11:08 AM)
+                ☐ Ingestion mappings overview https://learn.microsoft.com/en-us/kusto/management/mappings (2025-01-29 12:18 PM)
+                ☐ .show continuous-export failures https://learn.microsoft.com/en-us/kusto/management/data-export/show-continuous-failures (2025-01-29 12:18 PM)
 

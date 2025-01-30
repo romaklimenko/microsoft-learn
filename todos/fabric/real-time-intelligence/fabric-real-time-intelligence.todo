@@ -241,7 +241,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ .alter table column-docstrings command https://learn.microsoft.com/kusto/management/alter-column-docstrings?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .alter-merge table column-docstrings command https://learn.microsoft.com/kusto/management/alter-merge-table-column?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     Ingestion mappings:
-                        ☐ Ingestion mappings overview https://learn.microsoft.com/kusto/management/mappings?view=microsoft-fabric&preserve-view=true (2024-09-03 11:04 AM)
+                        ✘ Ingestion mappings overview https://learn.microsoft.com/kusto/management/mappings?view=microsoft-fabric&preserve-view=true (2024-09-03 11:04 AM) @cancelled
                         ☐ CSV mapping https://learn.microsoft.com/kusto/management/csv-mapping?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ JSON mapping https://learn.microsoft.com/kusto/management/json-mapping?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ✘ AVRO mapping https://learn.microsoft.com/kusto/management/avro-mapping?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
@@ -253,7 +253,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ .alter function command https://learn.microsoft.com/kusto/management/alter-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .alter function docstring command https://learn.microsoft.com/kusto/management/alter-docstring-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .alter function folder command https://learn.microsoft.com/kusto/management/alter-folder-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                        ☐ .create function command https://learn.microsoft.com/kusto/management/create-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                        ✘ .create function command https://learn.microsoft.com/kusto/management/create-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ☐ .create-or-alter function command https://learn.microsoft.com/kusto/management/create-alter-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .drop function command https://learn.microsoft.com/kusto/management/drop-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ .show functions command https://learn.microsoft.com/kusto/management/show-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -422,7 +422,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ Drop continuous export https://learn.microsoft.com/kusto/management/data-export/drop-continuous-export?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
                         ☐ Show continuous export https://learn.microsoft.com/kusto/management/data-export/show-continuous-export?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
                         ☐ Show continuous export artifacts https://learn.microsoft.com/kusto/management/data-export/show-continuous-artifacts?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
-                        ☐ Show continuous export failures https://learn.microsoft.com/kusto/management/data-export/show-continuous-failures?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM)
+                        ✘ Show continuous export failures https://learn.microsoft.com/kusto/management/data-export/show-continuous-failures?view=microsoft-fabric&preserve-view=true (2024-12-17 12:03 PM) @cancelled
                 Query results cache https://learn.microsoft.com/kusto/management/query-results-cache-commands?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM):
                     ☐ .show database cache query_results command https://learn.microsoft.com/kusto/management/show-query-results-cache-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .clear database cache query_results command https://learn.microsoft.com/kusto/management/clear-query-results-cache-command?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -584,7 +584,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ real https://learn.microsoft.com/kusto/query/scalar-data-types/real?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ string https://learn.microsoft.com/kusto/query/scalar-data-types/string?view=microsoft-fabric&preserve-view=true (2024-09-26 11:03 AM)
             ☐ timespan https://learn.microsoft.com/kusto/query/scalar-data-types/timespan?view=microsoft-fabric&preserve-view=true (2024-09-18 04:57 PM)
-            ☐ Null values https://learn.microsoft.com/kusto/query/scalar-data-types/null-values?view=microsoft-fabric&preserve-view=true (2024-09-24 11:04 AM)
+            ✘ Null values https://learn.microsoft.com/kusto/query/scalar-data-types/null-values?view=microsoft-fabric&preserve-view=true (2024-09-24 11:04 AM) @cancelled
         Functions:
             ☐ Function types https://learn.microsoft.com/kusto/query/functions/index?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ User-defined functions https://learn.microsoft.com/kusto/query/functions/user-defined-functions?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -660,32 +660,32 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ✘ Batches https://learn.microsoft.com/kusto/query/batches?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
         Tabular operators:
             ☐ Query operators https://learn.microsoft.com/kusto/query/queries?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ as operator https://learn.microsoft.com/kusto/query/as-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ as operator https://learn.microsoft.com/kusto/query/as-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ consume operator https://learn.microsoft.com/kusto/query/consume-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ count operator https://learn.microsoft.com/kusto/query/count-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ count operator https://learn.microsoft.com/kusto/query/count-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ✘ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ distinct operator https://learn.microsoft.com/kusto/query/distinct-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ evaluate operator https://learn.microsoft.com/kusto/query/evaluate-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ extend operator https://learn.microsoft.com/kusto/query/extend-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ externaldata operator https://learn.microsoft.com/kusto/query/externaldata-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ externaldata operator https://learn.microsoft.com/kusto/query/externaldata-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ✘ facet operator https://learn.microsoft.com/kusto/query/facet-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
-            ☐ find operator https://learn.microsoft.com/kusto/query/find-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ fork operator https://learn.microsoft.com/kusto/query/fork-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ find operator https://learn.microsoft.com/kusto/query/find-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+            ✘ fork operator https://learn.microsoft.com/kusto/query/fork-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ getschema operator https://learn.microsoft.com/kusto/query/getschema-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ invoke operator https://learn.microsoft.com/kusto/query/invoke-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ invoke operator https://learn.microsoft.com/kusto/query/invoke-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             join operator:
                 ☐ join operator https://learn.microsoft.com/kusto/query/join-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                 join flavors:
-                    ☐ innerunique https://learn.microsoft.com/kusto/query/join-innerunique?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ inner https://learn.microsoft.com/kusto/query/join-inner?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ leftouter https://learn.microsoft.com/kusto/query/join-leftouter?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ innerunique https://learn.microsoft.com/kusto/query/join-innerunique?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ inner https://learn.microsoft.com/kusto/query/join-inner?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ leftouter https://learn.microsoft.com/kusto/query/join-leftouter?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ☐ rightouter https://learn.microsoft.com/kusto/query/join-rightouter?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ fullouter https://learn.microsoft.com/kusto/query/join-fullouter?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ leftsemi https://learn.microsoft.com/kusto/query/join-leftsemi?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ leftanti https://learn.microsoft.com/kusto/query/join-leftanti?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ fullouter https://learn.microsoft.com/kusto/query/join-fullouter?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ leftsemi https://learn.microsoft.com/kusto/query/join-leftsemi?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ leftanti https://learn.microsoft.com/kusto/query/join-leftanti?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ☐ rightsemi https://learn.microsoft.com/kusto/query/join-rightsemi?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ rightanti https://learn.microsoft.com/kusto/query/join-rightanti?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Cross-cluster join https://learn.microsoft.com/kusto/query/join-cross-cluster?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ rightanti https://learn.microsoft.com/kusto/query/join-rightanti?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ Cross-cluster join https://learn.microsoft.com/kusto/query/join-cross-cluster?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ Broadcast join https://learn.microsoft.com/kusto/query/broadcast-join?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ Time window join https://learn.microsoft.com/kusto/query/join-time-window?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ lookup operator https://learn.microsoft.com/kusto/query/lookup-operator?view=microsoft-fabric&preserve-view=true (2024-12-04 06:00 PM)
@@ -704,22 +704,22 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ✘ range operator https://learn.microsoft.com/kusto/query/range-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ reduce operator https://learn.microsoft.com/kusto/query/reduce-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             render operator:
-                ☐ render operator https://learn.microsoft.com/kusto/query/render-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ render operator https://learn.microsoft.com/kusto/query/render-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 visualizations:
-                    ☐ anomalychart https://learn.microsoft.com/kusto/query/visualization-anomalychart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ areachart https://learn.microsoft.com/kusto/query/visualization-areachart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ barchart https://learn.microsoft.com/kusto/query/visualization-barchart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ anomalychart https://learn.microsoft.com/kusto/query/visualization-anomalychart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ areachart https://learn.microsoft.com/kusto/query/visualization-areachart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                    ✘ barchart https://learn.microsoft.com/kusto/query/visualization-barchart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ☐ card https://learn.microsoft.com/kusto/query/visualization-card?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ columnchart https://learn.microsoft.com/kusto/query/visualization-columnchart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ columnchart https://learn.microsoft.com/kusto/query/visualization-columnchart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ☐ ladderchart https://learn.microsoft.com/kusto/query/visualization-ladderchart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ linechart https://learn.microsoft.com/kusto/query/visualization-linechart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ linechart https://learn.microsoft.com/kusto/query/visualization-linechart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ☐ piechart https://learn.microsoft.com/kusto/query/visualization-piechart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ pivotchart https://learn.microsoft.com/kusto/query/visualization-pivotchart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ Plotly https://learn.microsoft.com/kusto/query/visualization-plotly?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ scatterchart https://learn.microsoft.com/kusto/query/visualization-scatterchart?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ stackedareachart https://learn.microsoft.com/kusto/query/visualization-stackedareachart?view=microsoft-fabric&preserve-view=true (2024-11-27 12:13 PM)
                     ☐ table https://learn.microsoft.com/kusto/query/visualization-table?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ timechart https://learn.microsoft.com/kusto/query/visualization-timechart?view=microsoft-fabric&preserve-view=true (2024-11-21 06:02 PM)
+                    ✘ timechart https://learn.microsoft.com/kusto/query/visualization-timechart?view=microsoft-fabric&preserve-view=true (2024-11-21 06:02 PM) @cancelled
                     ☐ timepivot https://learn.microsoft.com/kusto/query/visualization-timepivot?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ treemap https://learn.microsoft.com/kusto/query/visualization-treemap?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ sample operator https://learn.microsoft.com/kusto/query/sample-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1060,10 +1060,10 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ binary_all_or https://learn.microsoft.com/kusto/query/binary-all-or-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ binary_all_xor https://learn.microsoft.com/kusto/query/binary-all-xor-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ buildschema() https://learn.microsoft.com/kusto/query/buildschema-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ count() https://learn.microsoft.com/kusto/query/count-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ count_distinct() https://learn.microsoft.com/kusto/query/count-distinct-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-12-05 12:14 PM)
+            ✘ count() https://learn.microsoft.com/kusto/query/count-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+            ✘ count_distinct() https://learn.microsoft.com/kusto/query/count-distinct-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-12-05 12:14 PM) @cancelled
             ☐ count_distinctif() https://learn.microsoft.com/kusto/query/count-distinctif-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-10-06 11:30 PM)
-            ☐ countif() https://learn.microsoft.com/kusto/query/countif-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ countif() https://learn.microsoft.com/kusto/query/countif-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ dcount() https://learn.microsoft.com/kusto/query/dcount-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-09-24 11:04 AM)
             ☐ dcountif() https://learn.microsoft.com/kusto/query/dcountif-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ hll() https://learn.microsoft.com/kusto/query/hll-aggregation-function?view=microsoft-fabric&preserve-view=true (2024-09-24 11:04 AM)
@@ -1100,7 +1100,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ Graph scenarios https://learn.microsoft.com/kusto/query/graph-scenarios?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ Graph operators overview https://learn.microsoft.com/kusto/query/graph-operators?view=microsoft-fabric&preserve-view=true (2024-11-07 12:05 PM)
             ✘ make-graph https://learn.microsoft.com/kusto/query/make-graph-operator?view=microsoft-fabric&preserve-view=true (2024-11-05 12:06 PM) @cancelled
-            ☐ graph-match https://learn.microsoft.com/kusto/query/graph-match-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ graph-match https://learn.microsoft.com/kusto/query/graph-match-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             ☐ graph-to-table https://learn.microsoft.com/kusto/query/graph-to-table-operator?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
             ☐ graph-shortest-paths https://learn.microsoft.com/kusto/query/graph-shortest-paths-operator?view=microsoft-fabric&preserve-view=true (2024-11-07 12:05 PM)
             ☐ graph-mark-components https://learn.microsoft.com/kusto/query/graph-mark-components-operator?view=microsoft-fabric&preserve-view=true (2024-11-07 12:05 PM)
@@ -1364,7 +1364,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ .delete cluster policy request_classification command https://learn.microsoft.com/kusto/management/delete-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
                         ☐ .show cluster policy request_classification command https://learn.microsoft.com/kusto/management/show-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
                     ☐ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
-                    ☐ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                    ✘ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM) @cancelled
                     ☐ Request rate limits enforcement policy https://learn.microsoft.com/kusto/management/request-rate-limits-enforcement-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
                     ☐ Request queuing policy https://learn.microsoft.com/kusto/management/request-queuing-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
                     ☐ Query consistency policy https://learn.microsoft.com/kusto/management/query-consistency-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
@@ -1375,7 +1375,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                     ☐ To an SQL table https://learn.microsoft.com/kusto/management/data-export/export-data-to-sql?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
                         ☐ Disable or enable continuous export https://learn.microsoft.com/kusto/management/data-export/disable-enable-continuous?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
             ☐ datetime https://learn.microsoft.com/kusto/query/scalar-data-types/datetime?view=microsoft-fabric&preserve-view=true (2025-01-09 12:05 PM)
-            ☐ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
+            ✘ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM) @cancelled
             ☐ range operator https://learn.microsoft.com/kusto/query/range-operator?view=microsoft-fabric&preserve-view=true (2025-01-08 12:11 PM)
             ☐ Logical or binary operators https://learn.microsoft.com/kusto/query/logical-operators?view=microsoft-fabric&preserve-view=true (2025-01-09 12:05 PM)
             ☐ column_ifexists() https://learn.microsoft.com/kusto/query/column-ifexists-function?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
@@ -1434,14 +1434,14 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ Retention policy https://learn.microsoft.com/kusto/management/retention-policy?view=microsoft-fabric&preserve-view=true (2025-01-21 06:08 PM)
             ✘ Tutorial: Use an Eventhouse as a vector database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/vector-database-eventhouse (2025-01-21 01:18 PM) @cancelled
             ✘ Use Fabric notebooks with data from a KQL database https://learn.microsoft.com/en-us/fabric/real-time-intelligence/notebooks (2025-01-20 06:04 PM) @cancelled
-            ☐ Alias statement https://learn.microsoft.com/kusto/query/alias-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
-            ☐ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
-            ☐ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
-            ☐ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
-            ☐ Restrict statement https://learn.microsoft.com/kusto/query/restrict-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
-            ☐ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
-            ☐ Tabular expression statements https://learn.microsoft.com/kusto/query/tabular-expression-statements?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
-            ☐ Batches https://learn.microsoft.com/kusto/query/batches?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM)
+            ✘ Alias statement https://learn.microsoft.com/kusto/query/alias-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM) @cancelled
+            ✘ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM) @cancelled
+            ✘ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM) @cancelled
+            ✘ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM) @cancelled
+            ✘ Restrict statement https://learn.microsoft.com/kusto/query/restrict-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM) @cancelled
+            ✘ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM) @cancelled
+            ✘ Tabular expression statements https://learn.microsoft.com/kusto/query/tabular-expression-statements?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM) @cancelled
+            ✘ Batches https://learn.microsoft.com/kusto/query/batches?view=microsoft-fabric&preserve-view=true (2025-01-20 06:02 PM) @cancelled
 
 
 ---
@@ -1584,7 +1584,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ✘ Get data from Eventstreams https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-get-data-eventstreams (2024-11-26 12:06 PM) @cancelled
             ✘ Get data from Real-Time Hub https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-get-data-real-time-hub (2025-01-23 11:02 PM) @cancelled
             ☐ Overview of Activator rules https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-rules-overview (2024-12-10 12:06 PM)
-            ☐ Create rules and activations https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-create-activators (2024-12-10 12:06 PM)
+            ✘ Create rules and activations https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-create-activators (2024-12-10 12:06 PM) @cancelled
             ✘ Assign data to Activator objects https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-assign-data-objects (2024-11-27 11:01 PM) @cancelled
             ✘ Trigger Fabric items https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-trigger-fabric-items (2024-11-27 05:59 PM) @cancelled
             ✘ Detection conditions for Activator https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-detection-conditions (2024-11-27 05:59 PM) @cancelled
@@ -1663,7 +1663,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ Detection conditions for Activator https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-detection-conditions (2025-01-26 12:09 PM)
             ☐ Create alerts from a Real-Time Dashboard https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-get-data-real-time-dashboard (2025-01-26 12:09 PM)
             ☐ Create alerts from a KQL Queryset https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-alert-queryset (2025-01-26 12:09 PM)
-            ☐ Use custom actions to trigger Power Automate flows https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-trigger-power-automate-flows (2025-01-26 12:09 PM)
+            ✘ Use custom actions to trigger Power Automate flows https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-trigger-power-automate-flows (2025-01-26 12:09 PM) @cancelled
             ☐ Activator limitations https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-limitations (2025-01-26 12:09 PM)
             ☐ Troubleshoot errors https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-troubleshooting (2025-01-26 12:09 PM)
             ☐ Activator tutorial using sample data https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-tutorial (2025-01-26 12:09 PM)
@@ -1682,4 +1682,49 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ Row level security policy https://learn.microsoft.com/kusto/management/row-level-security-policy?view=microsoft-fabric&preserve-view=true (2025-01-27 12:08 PM)
                         ☐ Access control overview https://learn.microsoft.com/kusto/access-control/index?view=microsoft-fabric&preserve-view=true (2025-01-27 12:08 PM)
                     ☐ Accelerate queries over OneLake shortcuts - overview https://learn.microsoft.com/en-us/fabric/real-time-intelligence/query-acceleration-overview (2024-12-16 12:06 PM)
+
+
+---
+
+                    ☐ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                        ☐ Ingestion mappings overview https://learn.microsoft.com/kusto/management/mappings?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                        ☐ .create function command https://learn.microsoft.com/kusto/management/create-function?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                        ☐ Show continuous export failures https://learn.microsoft.com/kusto/management/data-export/show-continuous-failures?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+            ☐ Create rules and activations https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-create-activators (2025-01-29 11:02 PM)
+            ☐ Use custom actions to trigger Power Automate flows https://learn.microsoft.com/en-us/fabric/real-time-intelligence/data-activator/activator-trigger-power-automate-flows (2025-01-29 12:18 PM)
+            ☐ Null values https://learn.microsoft.com/kusto/query/scalar-data-types/null-values?view=microsoft-fabric&preserve-view=true (2025-01-28 06:04 PM)
+            ☐ Alias statement https://learn.microsoft.com/kusto/query/alias-statement?view=microsoft-fabric&preserve-view=true (2025-01-28 12:06 PM)
+            ☐ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+            ☐ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+            ☐ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+            ☐ Restrict statement https://learn.microsoft.com/kusto/query/restrict-statement?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+            ☐ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+            ☐ Tabular expression statements https://learn.microsoft.com/kusto/query/tabular-expression-statements?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+            ☐ Batches https://learn.microsoft.com/kusto/query/batches?view=microsoft-fabric&preserve-view=true (2025-01-28 12:06 PM)
+            ☐ as operator https://learn.microsoft.com/kusto/query/as-operator?view=microsoft-fabric&preserve-view=true (2025-01-28 12:06 PM)
+            ☐ count operator https://learn.microsoft.com/kusto/query/count-operator?view=microsoft-fabric&preserve-view=true (2025-01-28 12:06 PM)
+            ☐ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=microsoft-fabric&preserve-view=true (2025-01-28 12:06 PM)
+            ☐ externaldata operator https://learn.microsoft.com/kusto/query/externaldata-operator?view=microsoft-fabric&preserve-view=true (2025-01-28 12:06 PM)
+            ☐ find operator https://learn.microsoft.com/kusto/query/find-operator?view=microsoft-fabric&preserve-view=true (2025-01-28 12:06 PM)
+            ☐ fork operator https://learn.microsoft.com/kusto/query/fork-operator?view=microsoft-fabric&preserve-view=true (2025-01-28 12:06 PM)
+            ☐ invoke operator https://learn.microsoft.com/kusto/query/invoke-operator?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ innerunique https://learn.microsoft.com/kusto/query/join-innerunique?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ inner https://learn.microsoft.com/kusto/query/join-inner?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ leftouter https://learn.microsoft.com/kusto/query/join-leftouter?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ fullouter https://learn.microsoft.com/kusto/query/join-fullouter?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ leftsemi https://learn.microsoft.com/kusto/query/join-leftsemi?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ leftanti https://learn.microsoft.com/kusto/query/join-leftanti?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ rightanti https://learn.microsoft.com/kusto/query/join-rightanti?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                ☐ Cross-cluster join https://learn.microsoft.com/kusto/query/join-cross-cluster?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                ☐ render operator https://learn.microsoft.com/kusto/query/render-operator?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ anomalychart https://learn.microsoft.com/kusto/query/visualization-anomalychart?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ areachart https://learn.microsoft.com/kusto/query/visualization-areachart?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ barchart https://learn.microsoft.com/kusto/query/visualization-barchart?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ columnchart https://learn.microsoft.com/kusto/query/visualization-columnchart?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ linechart https://learn.microsoft.com/kusto/query/visualization-linechart?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+                    ☐ timechart https://learn.microsoft.com/kusto/query/visualization-timechart?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+            ☐ count() https://learn.microsoft.com/kusto/query/count-aggregation-function?view=microsoft-fabric&preserve-view=true (2025-01-28 06:04 PM)
+            ☐ count_distinct() https://learn.microsoft.com/kusto/query/count-distinct-aggregation-function?view=microsoft-fabric&preserve-view=true (2025-01-28 06:04 PM)
+            ☐ countif() https://learn.microsoft.com/kusto/query/countif-aggregation-function?view=microsoft-fabric&preserve-view=true (2025-01-28 06:04 PM)
+            ☐ graph-match https://learn.microsoft.com/kusto/query/graph-match-operator?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
 

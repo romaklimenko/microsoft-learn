@@ -18,8 +18,8 @@ Azure for Python developers | Microsoft Learn:
             ☐ Quickstart in Codespaces https://learn.microsoft.com/en-us/azure/developer/python/quickstart-python-web-azd-codespaces (2024-12-17 06:03 PM)
             ☐ Scale with Bicep https://learn.microsoft.com/en-us/azure/developer/python/quickstart-python-scale-bicep (2024-12-17 06:03 PM)
         Web app solutions:
-            ☐ Django/Flask https://learn.microsoft.com/azure/app-service/quickstart-python?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-12-23 06:06 PM)
-            ☐ Django/Flask + db https://learn.microsoft.com/azure/app-service/tutorial-python-postgresql-app?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-12-20 06:07 PM)
+            ✘ Django/Flask https://learn.microsoft.com/azure/app-service/quickstart-python?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-12-23 06:06 PM) @cancelled
+            ✘ Django/Flask + db https://learn.microsoft.com/azure/app-service/tutorial-python-postgresql-app?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-12-20 06:07 PM) @cancelled
             ☐ Passwordless auth - system-assigned managed identity https://learn.microsoft.com/en-us/azure/developer/python/tutorial-python-managed-identity-cli (2024-09-23 04:59 PM)
             ☐ Passwordless auth - user-assigned managed identity https://learn.microsoft.com/en-us/azure/developer/python/tutorial-python-managed-identity-user-assigned-cli (2024-09-23 04:59 PM)
             Static websites:
@@ -31,7 +31,7 @@ Azure for Python developers | Microsoft Learn:
             CI/CD with App Service:
                 ☐ GitHub Actions https://learn.microsoft.com/en-us/azure/developer/python/python-web-app-github-actions-app-service (2024-12-03 06:01 PM)
                 ☐ Azure Pipelines https://learn.microsoft.com/azure/devops/pipelines/ecosystems/python-webapp?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-12-20 01:01 AM)
-            ☐ Add sign in https://learn.microsoft.com/entra/identity-platform/quickstart-web-app-python-sign-in?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-04-19 04:58 PM)
+            ✘ Add sign in https://learn.microsoft.com/entra/identity-platform/quickstart-web-app-python-sign-in?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-04-19 04:58 PM) @cancelled
             ☐ Store and retrieve secrets https://learn.microsoft.com/azure/key-vault/secrets/quick-create-python?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-10-04 10:15 PM)
             ☐ Set up Azure monitor https://learn.microsoft.com/azure/azure-monitor/app/opencensus-python?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2024-10-07 10:33 PM)
         Serverless solutions:
@@ -196,5 +196,20 @@ Azure for Python developers | Microsoft Learn:
 ---
 
     ☐ Get started https://learn.microsoft.com/en-us/azure/developer/python/get-started (2025-01-27 06:01 PM)
-    ☐ SDK reference documentation https://learn.microsoft.com/python/api/overview/azure/ (2025-01-27 12:12 PM)
+    ✘ SDK reference documentation https://learn.microsoft.com/python/api/overview/azure/ (2025-01-27 12:12 PM) @cancelled
+
+
+---
+
+        ☐ Get started with the Python enterprise chat sample https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-template (2024-12-22 06:01 PM)
+        ☐ Configure document security https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-document-security-trim (2024-12-20 06:02 PM)
+        ☐ Secure your chat endpoint https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-private-endpoint (2024-12-17 06:03 PM)
+        ☐ Evaluate your chat app https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-evaluations (2024-12-20 06:02 PM)
+        ☐ Scale Azure OpenAI with Azure Container Apps https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-scaling-with-azure-container-apps (2024-12-20 06:02 PM)
+        ☐ Scale Azure OpenAI with Azure API Management https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-scaling-with-azure-api-management (2024-12-22 06:01 PM)
+        ☐ Load test with Locust https://learn.microsoft.com/en-us/azure/developer/python/get-started-app-chat-app-load-test-locust (2024-12-22 06:01 PM)
+            ☐ Django/Flask https://learn.microsoft.com/azure/app-service/quickstart-python?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2025-01-29 06:06 PM)
+            ☐ Django/Flask + db https://learn.microsoft.com/azure/app-service/tutorial-python-postgresql-app?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2025-01-29 06:06 PM)
+            ☐ Add sign in https://learn.microsoft.com/entra/identity-platform/quickstart-web-app-python-sign-in?toc=/azure/developer/python/toc.json&bc=/azure/developer/python/breadcrumb/toc.json (2025-01-29 06:04 PM)
+    ☐ SDK reference documentation https://learn.microsoft.com/python/api/overview/azure/ (2025-01-29 12:11 PM)
 

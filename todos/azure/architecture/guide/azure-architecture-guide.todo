@@ -304,7 +304,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ✘ Migrate Google Cloud VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-gcp-virtual-machines (2024-12-19 06:04 PM) @cancelled
                 Security for Google Cloud:
                     ☐ Protect Google Cloud with Defender https://learn.microsoft.com/defender-cloud-apps/protect-gcp (2024-10-23 05:33 AM)
-                    ☐ Connect Google Cloud projects https://learn.microsoft.com/azure/defender-for-cloud/quickstart-onboard-gcp (2024-12-05 12:14 PM)
+                    ✘ Connect Google Cloud projects https://learn.microsoft.com/azure/defender-for-cloud/quickstart-onboard-gcp (2024-12-05 12:14 PM) @cancelled
                     ☐ Connect Google Cloud to Defender https://learn.microsoft.com/defender-cloud-apps/connect-google-gcp (2024-10-23 05:33 AM)
                     ☐ Video: Protect containers https://learn.microsoft.com/azure/defender-for-cloud/episode-ten (2024-08-19 05:01 PM)
     Design Patterns:
@@ -899,7 +899,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ✘ Connect Microsoft Defender XDR https://learn.microsoft.com/azure/sentinel/connect-microsoft-365-defender (2024-11-27 06:02 PM) @cancelled
                     ☐ Integrate Data Explorer with Sentinel https://learn.microsoft.com/azure/sentinel/store-logs-in-azure-data-explorer?tabs=adx-event-hub (2024-12-17 12:06 PM)
                 Microsoft Defender for Cloud:
-                    ☐ Overview https://learn.microsoft.com/azure/defender-for-cloud/defender-for-cloud-introduction (2024-10-08 05:04 PM)
+                    ✘ Overview https://learn.microsoft.com/azure/defender-for-cloud/defender-for-cloud-introduction (2024-10-08 05:04 PM) @cancelled
                     ☐ Security recommendations https://learn.microsoft.com/azure/defender-for-cloud/recommendations-reference (2024-08-07 04:44 PM)
                     ☐ Security recommendations for AWS https://learn.microsoft.com/azure/defender-for-cloud/recommendations-reference-aws (2024-12-17 06:03 PM)
                     ☐ Security alerts and incidents https://learn.microsoft.com/azure/defender-for-cloud/alerts-overview (2024-12-17 06:03 PM)
@@ -1428,7 +1428,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
             ☐ Get started https://learn.microsoft.com/en-us/azure/architecture/guide/topics/high-performance-computing (2024-09-09 10:27 PM)
                 ☐ Choose a compute service https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/compute-decision-tree (2024-09-09 10:27 PM)
                 ☐ SAS on Azure architecture https://learn.microsoft.com/en-us/azure/architecture/guide/guide/sas/sas-overview (2024-09-09 10:27 PM)
-                ☐ Building on spot VMs https://learn.microsoft.com/en-us/azure/architecture/guide/guide/spot/spot-eviction (2024-09-09 10:27 PM)
+                ✘ Building on spot VMs https://learn.microsoft.com/en-us/azure/architecture/guide/guide/spot/spot-eviction (2024-09-09 10:27 PM) @cancelled
                 ☐ VM baseline https://learn.microsoft.com/en-us/azure/architecture/guide/virtual-machines/baseline (2024-09-09 10:27 PM)
                 ☐ VM baseline in Azure landing zones https://learn.microsoft.com/en-us/azure/architecture/guide/virtual-machines/baseline-landing-zone (2024-09-09 10:27 PM)
                 ☐ Teamcenter baseline architecture https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/manufacturing/teamcenter-baseline (2024-09-09 10:27 PM)
@@ -1824,14 +1824,14 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
 
                 ✘ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-21 10:59 PM) @cancelled
                 ☐ Active Directory services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2025-01-21 10:59 PM)
-                ☐ Managed disk types https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-22 05:31 AM)
+                ✘ Managed disk types https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-22 05:31 AM) @cancelled
                     ✘ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-21 10:59 PM) @cancelled
                 ☐ Compare identity services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2025-01-21 10:59 PM)
                     ☐ Support matrix for Azure VM DR https://learn.microsoft.com/azure/site-recovery/azure-to-azure-support-matrix (2025-01-22 06:07 PM)
                     ☐ Introduction to Azure security https://learn.microsoft.com/azure/security/fundamentals/overview (2025-01-21 11:02 PM)
                     ☐ Connect Microsoft Defender XDR https://learn.microsoft.com/azure/sentinel/connect-microsoft-365-defender (2025-01-22 12:20 PM)
                 ☐ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2025-01-21 11:02 PM)
-                    ☐ Choose a managed disk type https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-22 05:31 AM)
+                    ✘ Choose a managed disk type https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-22 05:31 AM) @cancelled
 
 
 ---
@@ -1863,4 +1863,14 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Support for VMware migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-vmware-migration (2025-01-27 12:12 PM)
                     ☐ Support for physical server migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-physical-migration (2025-01-27 12:12 PM)
                     ☐ Storage encryption for data at rest https://learn.microsoft.com/azure/storage/common/storage-service-encryption (2025-01-27 11:07 PM)
+
+
+---
+
+                ☐ Managed disk types https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-28 11:09 PM)
+                    ☐ Connect Google Cloud projects https://learn.microsoft.com/azure/defender-for-cloud/quickstart-onboard-gcp (2025-01-29 12:18 PM)
+                ☐ Build workloads with Azure Spot Virtual Machines https://learn.microsoft.com/en-us/azure/architecture/guide/guide/spot/spot-eviction (2024-09-09 10:27 PM)
+                    ☐ Overview https://learn.microsoft.com/azure/logic-apps/logic-apps-overview (2025-01-29 12:19 PM)
+                    ☐ Overview https://learn.microsoft.com/azure/defender-for-cloud/defender-for-cloud-introduction (2025-01-29 12:18 PM)
+                    ☐ Choose a managed disk type https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-28 11:09 PM)
 

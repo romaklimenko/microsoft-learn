@@ -62,7 +62,7 @@ VPN Gateway documentation | Microsoft Learn:
             ☐ VPN over private peering https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-vpn-private-peering (2024-08-23 05:14 PM)
         VNet-to-VNet:
             Configure VNet-to-VNet connections:
-                ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal (2024-11-04 06:02 PM)
+                ✘ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal (2024-11-04 06:02 PM) @cancelled
                 ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vnet-vnet-rm-ps (2024-09-25 05:04 PM)
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-cli (2024-08-02 11:27 AM)
             Configure a VNet-to-VNet connection between deployment models:
@@ -76,7 +76,7 @@ VPN Gateway documentation | Microsoft Learn:
                 VPN client configuration:
                     Windows clients:
                         ☐ Native VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-native (2024-11-04 11:02 PM)
-                        ☐ Azure VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-azure-vpn-client (2024-11-04 11:02 PM)
+                        ✘ Azure VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-azure-vpn-client (2024-11-04 11:02 PM) @cancelled
                         OpenVPN client:
                             ☐ Version 2.x https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-openvpn-client (2024-11-04 11:02 PM)
                             ☐ Version 3.x https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3 (2024-11-04 11:02 PM)
@@ -123,7 +123,7 @@ VPN Gateway documentation | Microsoft Learn:
                 ☐ User tunnel https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-user-tunnel (2024-11-04 11:02 PM)
             ✘ Move to OpenVPN or IKEv2 from SSTP https://learn.microsoft.com/en-us/azure/vpn-gateway/ikev2-openvpn-from-sstp (2024-08-09 05:35 AM) @cancelled
             ☐ P2S session management https://learn.microsoft.com/en-us/azure/vpn-gateway/p2s-session-management (2024-08-02 11:27 AM)
-            ☐ Advertise custom routes to P2S clients https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-p2s-advertise-custom-routes (2024-10-15 10:04 PM)
+            ✘ Advertise custom routes to P2S clients https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-p2s-advertise-custom-routes (2024-10-15 10:04 PM) @cancelled
             ☐ Create custom IPsec policies for P2S https://learn.microsoft.com/en-us/azure/vpn-gateway/create-custom-policies-p2s-ps (2024-11-04 11:02 PM)
             ☐ Azure VPN Client - optional settings https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-optional-configurations (2024-11-04 11:02 PM)
             ☐ Azure VPN Client prerequisites check https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-prerequisites-check (2024-12-17 05:33 AM)
@@ -257,4 +257,11 @@ VPN Gateway documentation | Microsoft Learn:
             ☐ Move to OpenVPN or IKEv2 from SSTP https://learn.microsoft.com/en-us/azure/vpn-gateway/ikev2-openvpn-from-sstp (2025-01-24 05:34 AM)
             ☐ Configure and validate VNet or VPN connections https://support.microsoft.com/help/4032151/configuring-and-validating-vnet-or-vpn-connections (2025-01-24 05:34 AM)
         ☐ Subscription and service limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/vpn-gateway/toc.json (2025-01-24 05:34 AM)
+
+
+---
+
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal (2025-01-29 06:06 PM)
+                        ☐ Azure VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-azure-vpn-client (2025-01-28 11:09 PM)
+            ☐ Advertise custom routes to P2S clients https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-p2s-advertise-custom-routes (2025-01-29 06:06 PM)
 

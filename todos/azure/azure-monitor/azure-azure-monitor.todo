@@ -37,13 +37,13 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ✘ Configure OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-configuration (2024-11-11 11:00 PM) @cancelled
                     ✘ Add and modify OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-add-modify (2024-12-12 11:02 PM) @cancelled
                     ☐ Filter OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-filter (2024-12-12 11:02 PM)
-                    ☐ Help, support, and feedback https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-help-support-feedback (2024-12-10 11:03 PM)
+                    ✘ Help, support, and feedback https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-help-support-feedback (2024-12-10 11:03 PM) @cancelled
                     .NET (supplemental):
                         ✘ Migrate from Application Insights .NET SDKs to OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-dotnet-migrate (2024-10-30 09:59 PM) @cancelled
                     Java (supplemental):
                         ✘ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2024-11-14 06:02 PM) @cancelled
                         ✘ Profiler https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-profiler (2024-12-10 11:03 PM) @cancelled
-                        ☐ Get started (supplemental) https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-get-started-supplemental (2024-11-01 05:03 PM)
+                        ✘ Get started (supplemental) https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-get-started-supplemental (2024-11-01 05:03 PM) @cancelled
                         Configuration:
                             ✘ General https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-config (2024-11-14 06:02 PM) @cancelled
                             ✘ JMX metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-jmx-metrics-configuration (2024-09-11 04:50 PM) @cancelled
@@ -51,7 +51,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                             Telemetry processors:
                                 ✘ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors (2024-09-11 04:50 PM) @cancelled
                                 ✘ Examples https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors-examples (2024-09-11 04:50 PM) @cancelled
-                        ☐ Upgrade from 2.x https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-upgrade-from-2x (2024-11-01 05:03 PM)
+                        ✘ Upgrade from 2.x https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-upgrade-from-2x (2024-11-01 05:03 PM) @cancelled
                     Node.js (supplemental):
                         ☐ Upgrade from SDK 2.X https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-nodejs-migrate (2024-09-30 05:01 PM)
                     Python (supplemental):
@@ -231,11 +231,11 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Send to multiple metric workspaces https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-multiple-workspaces (2024-09-11 04:50 PM)
                 ☐ Send Prometheus metrics to Logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-prometheus-logs (2024-09-11 04:50 PM)
             Remote-write with Prometheus:
-                ☐ Prometheus remote-write https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write (2024-11-19 06:02 PM)
-                ☐ Managed identity authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-managed-identity (2024-09-11 04:50 PM)
-                ☐ Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-active-directory (2024-09-11 04:50 PM)
-                ☐ Microsoft Entra Workload ID authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-azure-workload-identity (2024-10-02 10:02 PM)
-                ☐ Troubleshoot remote-write https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-troubleshooting (2024-09-11 04:50 PM)
+                ✘ Prometheus remote-write https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write (2024-11-19 06:02 PM) @cancelled
+                ✘ Managed identity authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-managed-identity (2024-09-11 04:50 PM) @cancelled
+                ✘ Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-active-directory (2024-09-11 04:50 PM) @cancelled
+                ✘ Microsoft Entra Workload ID authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-azure-workload-identity (2024-10-02 10:02 PM) @cancelled
+                ✘ Troubleshoot remote-write https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-troubleshooting (2024-09-11 04:50 PM) @cancelled
             Monitor:
                 ☐ Monitor performance https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-analyze (2024-09-11 04:50 PM)
                 ☐ Monitor GPU performance https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-gpu-monitoring (2024-09-11 04:50 PM)
@@ -505,7 +505,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ Log data ingestion time https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-ingestion-time (2024-12-17 12:06 PM)
                     ✘ Analyze usage and cost https://learn.microsoft.com/en-us/azure/azure-monitor/logs/analyze-usage (2024-10-08 05:00 PM) @cancelled
             Data security:
-                ☐ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2024-09-11 04:50 PM)
+                ✘ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2024-09-11 04:50 PM) @cancelled
                 ☐ Log data https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-security (2024-11-08 11:00 PM)
                 ✘ Customer-managed keys https://learn.microsoft.com/en-us/azure/azure-monitor/logs/customer-managed-keys (2024-12-16 05:37 AM) @cancelled
                 ✘ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2024-09-11 04:50 PM) @cancelled
@@ -520,7 +520,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Migrate from Splunk to Azure Monitor Logs https://learn.microsoft.com/en-us/azure/azure-monitor/logs/migrate-splunk-to-azure-monitor-logs (2024-09-11 04:50 PM)
     Security and networking:
         Data security:
-            ☐ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2024-09-11 04:50 PM)
+            ✘ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2024-09-11 04:50 PM) @cancelled
             ☐ Log data https://learn.microsoft.com/en-us/azure/azure-monitor/logs/data-security (2024-11-08 11:00 PM)
             ✘ Customer-managed keys https://learn.microsoft.com/en-us/azure/azure-monitor/logs/customer-managed-keys (2024-12-16 05:37 AM) @cancelled
             ✘ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2024-09-11 04:50 PM) @cancelled
@@ -750,7 +750,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Resource log schemas https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/resource-logs-schema (2024-09-13 05:33 AM)
             ☐ Activity log schema https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/activity-log-schema (2024-12-04 05:31 AM)
         Azure Monitor Logs:
-            ☐ Logs tables reference https://learn.microsoft.com/azure/azure-monitor/reference/tables-index (2024-11-04 11:01 PM)
+            ✘ Logs tables reference https://learn.microsoft.com/azure/azure-monitor/reference/tables-index (2024-11-04 11:01 PM) @cancelled
             ☐ Tables that support transformations https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tables-feature-support (2024-09-11 04:50 PM)
             ☐ Tables that support the Basic table plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/basic-logs-azure-tables (2024-11-04 12:06 PM)
         ☐ Windows diagnostics extension schema https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-schema-windows (2024-11-14 11:04 PM)
@@ -772,7 +772,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ✘ Azure Monitor REST API index https://learn.microsoft.com/en-us/azure/azure-monitor/azure-monitor-rest-api-index (2024-09-11 04:50 PM) @cancelled
         ☐ Azure alerts management SDK for Python https://learn.microsoft.com/python/api/azure-mgmt-monitor/azure.mgmt.monitor.monitormanagementclient (2024-03-06 12:07 PM)
         Resource Manager templates:
-            ☐ Azure Monitor https://learn.microsoft.com/azure/templates/microsoft.insights/allversions (2024-12-16 07:04 PM)
+            ✘ Azure Monitor https://learn.microsoft.com/azure/templates/microsoft.insights/allversions (2024-12-16 07:04 PM) @cancelled
             ☐ Azure Monitor Logs https://learn.microsoft.com/azure/templates/microsoft.operationalinsights/allversions (2024-12-03 10:14 PM)
         ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/azure-monitor/policy-reference (2024-09-11 04:50 PM)
         ☐ Archived documentation https://learn.microsoft.com/previous-versions/azure/azure-monitor/azure-monitor-documentation-archive (2023-03-15 10:25 PM)
@@ -854,7 +854,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ Add and modify OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-add-modify (2025-01-02 11:02 PM)
                         ☐ Migrate from Application Insights .NET SDKs to OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-dotnet-migrate (2025-01-02 11:02 PM)
                         ☐ Profiler https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-profiler (2025-01-06 11:01 PM)
-                            ☐ General https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-config (2025-01-02 11:02 PM)
+                            ✘ General https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-config (2025-01-02 11:02 PM) @cancelled
                             ✘ JMX metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-jmx-metrics-configuration (2025-01-06 11:01 PM) @cancelled
                             ☐ Sampling overrides https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-sampling-overrides (2025-01-06 11:01 PM)
                                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-telemetry-processors (2025-01-06 11:01 PM)
@@ -925,8 +925,8 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
 
 ---
 
-                        ☐ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2025-01-13 06:03 PM)
-                    ☐ Custom configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration (2025-01-14 05:32 AM)
+                        ✘ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2025-01-13 06:03 PM) @cancelled
+                    ✘ Custom configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration (2025-01-14 05:32 AM) @cancelled
                 ✘ Supported operating systems https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-supported-operating-systems (2025-01-13 11:00 PM) @cancelled
                     ✘ Manage access https://learn.microsoft.com/en-us/azure/azure-monitor/logs/manage-access (2025-01-14 06:01 PM) @cancelled
             ☐ Azure Monitor https://learn.microsoft.com/powershell/module/az.monitor/ (2025-01-14 05:13 PM)
@@ -940,7 +940,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                             ☐ JMX metrics https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-jmx-metrics-configuration (2025-01-15 12:12 PM)
                     ☐ Enable VM insights https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable (2025-01-14 10:59 PM)
                     ☐ Migrate to Azure Monitor agent https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-migrate-agent (2025-01-14 10:59 PM)
-                    ☐ Minimal ingestion profile https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration-minimal (2024-09-11 04:50 PM)
+                    ✘ Minimal ingestion profile https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration-minimal (2024-09-11 04:50 PM) @cancelled
                 ☐ Metric alert rules https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-metric-alerts (2025-01-14 10:59 PM)
                 ☐ Bring your own storage https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/workbooks-bring-your-own-storage (2025-01-15 06:03 PM)
             ☐ Activity Logs https://learn.microsoft.com/cli/azure/monitor/activity-log (2025-01-14 11:00 PM)
@@ -951,13 +951,13 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Create a resource https://learn.microsoft.com/en-us/azure/azure-monitor/app/create-workspace-resource (2025-01-17 06:02 PM)
                 ☐ Availability https://learn.microsoft.com/en-us/azure/azure-monitor/app/availability (2025-01-17 05:33 AM)
                 ☐ Transaction Search and Diagnostics https://learn.microsoft.com/en-us/azure/azure-monitor/app/transaction-search-and-diagnostics (2025-01-17 06:02 PM)
-                ☐ Analyze data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-analyze (2025-01-17 05:33 AM)
+                ✘ Analyze data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-analyze (2025-01-17 05:33 AM) @cancelled
                 ☐ Troubleshoot VM performance issues https://learn.microsoft.com/troubleshoot/azure/virtual-machines/performance-diagnostics?toc=/azure/azure-monitor/toc.json (2025-01-16 08:20 PM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-overview (2025-01-16 05:32 AM)
                     ☐ Enable with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-policy (2024-12-04 05:31 AM)
                     ☐ Windows client machines https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-client (2024-11-07 10:59 PM)
                     ☐ Monitor performance https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-performance (2025-01-17 05:33 AM)
-                ☐ Collect logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-data-collection-configure (2025-01-17 05:33 AM)
+                ✘ Collect logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-data-collection-configure (2025-01-17 05:33 AM) @cancelled
                 ☐ Topology https://learn.microsoft.com/azure/network-watcher/network-insights-topology?toc=/azure/azure-monitor/toc.json (2025-01-15 11:02 PM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings (2025-01-16 06:02 PM)
                 ☐ Create Diagnostic Settings with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/diagnostic-settings-policy (2025-01-16 06:02 PM)
@@ -975,7 +975,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ✘ Virtual machines https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-manage (2025-01-19 12:15 PM) @cancelled
                     ☐ Windows clients https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-windows-client (2025-01-19 12:15 PM)
                     ☐ Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-policy (2025-01-19 12:15 PM)
-                    ☐ Create data collection rule https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-collection (2025-01-19 12:15 PM)
+                    ✘ Create data collection rule https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-collection (2025-01-19 12:15 PM) @cancelled
                 ☐ Monitor https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-health (2025-01-19 12:15 PM)
                 ☐ Private link https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-private-link (2025-01-19 12:15 PM)
                 ☐ Performance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-performance (2025-01-19 12:15 PM)
@@ -992,7 +992,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ Design a workspace architecture https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-design (2025-01-20 06:04 PM)
                 ☐ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2025-01-20 12:05 PM)
                 ☐ Personal log data handling https://learn.microsoft.com/en-us/azure/azure-monitor/logs/personal-data-mgmt (2025-01-20 12:05 PM)
-        ☐ Azure Monitor security overview and guidelines https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM)
+        ✘ Azure Monitor security overview and guidelines https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM) @cancelled
             ☐ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2025-01-20 12:05 PM)
             ☐ Personal log data handling https://learn.microsoft.com/en-us/azure/azure-monitor/logs/personal-data-mgmt (2025-01-20 12:05 PM)
             ☐ Azure Monitor REST API index https://learn.microsoft.com/en-us/azure/azure-monitor/azure-monitor-rest-api-index (2025-01-20 12:05 PM)
@@ -1000,7 +1000,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
 
 ---
 
-                    ☐ Get started with OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-enable (2025-01-21 11:01 PM)
+                    ✘ Get started with OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-enable (2025-01-21 11:01 PM) @cancelled
                     ☐ Get Started with JavaScript SDK https://learn.microsoft.com/en-us/azure/azure-monitor/app/javascript-sdk (2025-01-22 05:31 AM)
                     ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/snapshot-debugger/snapshot-debugger (2025-01-22 06:05 PM)
                     ☐ View snapshots https://learn.microsoft.com/en-us/azure/azure-monitor/snapshot-debugger/snapshot-debugger-data (2025-01-22 06:05 PM)
@@ -1073,4 +1073,32 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
         ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-monitor-security-baseline?toc=/azure/azure-monitor/toc.json (2025-01-27 09:59 PM)
                 ☐ Troubleshoot metric alerts https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-troubleshoot-metric (2024-12-27 12:20 PM)
             ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-monitor-security-baseline?toc=/azure/azure-monitor/toc.json (2025-01-27 09:59 PM)
+
+
+---
+
+        Best practices:
+            ☐ Reliability https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-reliability (2024-09-15 11:07 AM)
+            ☐ Security https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM)
+            ☐ Cost optimization https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-cost (2024-12-09 05:37 AM)
+            ☐ Operational excellence https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-operation (2024-09-15 11:07 AM)
+            ☐ Performance efficiency https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-performance (2024-09-15 11:07 AM)
+                    ☐ Get started with OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-enable (2025-01-28 11:08 PM)
+                    ☐ Help, support, and feedback https://learn.microsoft.com/en-us/azure/azure-monitor/app/opentelemetry-help-support-feedback (2025-01-28 11:08 PM)
+                        ☐ Spring Boot https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-spring-boot (2025-01-28 11:08 PM)
+                        ☐ Get started (supplemental) https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-get-started-supplemental (2025-01-28 11:08 PM)
+                            ☐ General https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-config (2025-01-28 11:08 PM)
+                        ☐ Upgrade from 2.x https://learn.microsoft.com/en-us/azure/azure-monitor/app/java-standalone-upgrade-from-2x (2025-01-28 11:08 PM)
+            ☐ Virtual machine guest performance counters https://learn.microsoft.com/en-us/azure/azure-monitor/vm/virtual-machine-guest-metrics (2025-01-29 06:05 PM)
+                ☐ Analyze data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-analyze (2025-01-28 06:04 PM)
+                ☐ Collect logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-data-collection-configure (2025-01-28 06:04 PM)
+                    ☐ Custom configuration https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration (2025-01-28 12:07 PM)
+                ☐ Prometheus remote-write https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write (2025-01-28 06:04 PM)
+                    ☐ Create data collection rule https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-collection (2025-01-28 12:07 PM)
+                ☐ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2025-01-28 06:04 PM)
+            ☐ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2025-01-28 06:04 PM)
+        ☐ Supported metrics https://learn.microsoft.com/azure/azure-monitor/reference/metrics-index (2025-01-28 12:07 PM)
+            ☐ Supported resource log categories https://learn.microsoft.com/azure/azure-monitor/reference/logs-index (2025-01-28 12:07 PM)
+            ☐ Logs tables reference https://learn.microsoft.com/azure/azure-monitor/reference/tables-index (2025-01-29 12:18 PM)
+            ☐ Azure Monitor https://learn.microsoft.com/azure/templates/microsoft.insights/allversions (2025-01-28 02:47 PM)
 

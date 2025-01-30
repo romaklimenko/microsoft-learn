@@ -267,12 +267,12 @@ Azure AI Foundry documentation | Microsoft Learn:
                 ☐ Fine-tune Phi-3 chat models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/fine-tune-phi-3 (2024-12-23 11:00 PM)
                 ☐ Cohere Rerank models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-cohere-rerank (2024-12-23 11:00 PM)
                 ☐ Fine-tune Meta Llama family models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/fine-tune-model-llama (2024-12-23 11:00 PM)
-            ☐ AI21 Jamba models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-jamba (2024-12-23 11:00 PM)
+            ✘ AI21 Jamba models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-jamba (2024-12-23 11:00 PM) @cancelled
             ☐ TimeGEN-1 model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-timegen-1 (2024-12-23 11:00 PM)
             ☐ Fine-tune tsuzumi model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/fine-tune-models-tsuzumi (2024-12-23 11:00 PM)
                 ✘ Upgrade from GitHub Models https://learn.microsoft.com/en-us/azure/ai-studio/ai-services/how-to/quickstart-github-models (2024-12-23 11:00 PM) @cancelled
-                ☐ Deploy models as serverless API https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-serverless (2024-12-23 11:00 PM)
-                ☐ Consume serverless API models from a different project or hub https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-serverless-connect (2024-12-23 11:00 PM)
+                ✘ Deploy models as serverless API https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-serverless (2024-12-23 11:00 PM) @cancelled
+                ✘ Consume serverless API models from a different project or hub https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-serverless-connect (2024-12-23 11:00 PM) @cancelled
             ✘ Managed compute https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-managed (2024-12-23 11:00 PM) @cancelled
         ✘ Create a project https://learn.microsoft.com/en-us/azure/ai-studio/how-to/create-projects (2024-12-23 11:00 PM) @cancelled
             ☐ Hubs and projects overview https://learn.microsoft.com/en-us/azure/ai-studio/concepts/ai-resources (2024-12-23 11:00 PM)
@@ -295,7 +295,7 @@ Azure AI Foundry documentation | Microsoft Learn:
             Develop with code:
                 ✘ Work with projects in VS Code https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/vscode (2024-12-23 11:00 PM) @cancelled
                 ☐ Tracing overview https://learn.microsoft.com/en-us/azure/ai-studio/concepts/trace (2024-12-23 11:00 PM)
-                ☐ Trace your application with Azure AI Inference SDK https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/trace-local-sdk (2024-12-23 11:00 PM)
+                ✘ Trace your application with Azure AI Inference SDK https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/trace-local-sdk (2024-12-23 11:00 PM) @cancelled
                 ☐ Visualize your traces https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/visualize-traces (2024-12-23 11:00 PM)
             ☐ Manually evaluate prompts in the playground https://learn.microsoft.com/en-us/azure/ai-studio/how-to/evaluate-prompts-playground (2024-11-22 11:03 PM)
             ☐ Generate synthetic and simulated data for evaluation https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/simulator-interaction-data (2024-12-23 11:00 PM)
@@ -344,7 +344,7 @@ Azure AI Foundry documentation | Microsoft Learn:
                 ✘ Mistral Nemo model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-nemo (2024-11-21 06:03 PM) @cancelled
                 ✘ Mistral-7B and Mixtral models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-open (2024-11-21 06:03 PM) @cancelled
             ✘ JAIS model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-jais (2024-11-22 11:03 PM) @cancelled
-            ☐ NTTDATA tsuzumi model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-tsuzumi (2024-11-21 06:03 PM)
+            ✘ NTTDATA tsuzumi model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-tsuzumi (2024-11-21 06:03 PM) @cancelled
             ✘ Deployments overview https://learn.microsoft.com/en-us/azure/ai-studio/concepts/deployments-overview (2024-11-21 06:03 PM) @cancelled
                 ☐ What is the Azure AI model inference service? https://learn.microsoft.com/en-us/azure/ai-studio/ai-services/model-inference (2024-11-20 06:02 PM)
                 ☐ Add and configure models https://learn.microsoft.com/en-us/azure/ai-studio/ai-services/how-to/create-model-deployments (2024-11-07 10:59 PM)
@@ -362,18 +362,18 @@ Azure AI Foundry documentation | Microsoft Learn:
                         ✘ Create a flow https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-develop (2024-11-21 06:03 PM) @cancelled
                         ☐ Tune prompts using variants https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-tune-prompts-using-variants (2024-11-21 06:03 PM)
                         ☐ Process images in a flow https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-process-image (2024-11-20 06:02 PM)
-                            ☐ Prompt flow tools overview https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/prompt-flow-tools-overview (2024-11-21 06:03 PM)
-                            ☐ LLM tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/llm-tool (2024-11-21 06:03 PM)
-                            ☐ Prompt tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/prompt-tool (2024-11-21 06:03 PM)
-                            ☐ Python tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/python-tool (2024-11-21 06:03 PM)
-                            ☐ Index Lookup tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/index-lookup-tool (2024-11-21 06:03 PM)
-                            ☐ Rerank tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/rerank-tool (2024-11-21 06:03 PM)
-                            ☐ Content Safety tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/content-safety-tool (2024-11-21 06:03 PM)
-                            ☐ Embedding tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/embedding-tool (2024-11-21 06:03 PM)
+                            ✘ Prompt flow tools overview https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/prompt-flow-tools-overview (2024-11-21 06:03 PM) @cancelled
+                            ✘ LLM tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/llm-tool (2024-11-21 06:03 PM) @cancelled
+                            ✘ Prompt tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/prompt-tool (2024-11-21 06:03 PM) @cancelled
+                            ✘ Python tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/python-tool (2024-11-21 06:03 PM) @cancelled
+                            ✘ Index Lookup tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/index-lookup-tool (2024-11-21 06:03 PM) @cancelled
+                            ✘ Rerank tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/rerank-tool (2024-11-21 06:03 PM) @cancelled
+                            ✘ Content Safety tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/content-safety-tool (2024-11-21 06:03 PM) @cancelled
+                            ✘ Embedding tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/embedding-tool (2024-11-21 06:03 PM) @cancelled
                 ✘ Start with an AI template https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/ai-template-get-started (2024-12-11 11:00 PM) @cancelled
                 ✘ Develop with LangChain https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/langchain (2024-12-18 10:58 PM) @cancelled
-                ☐ Develop with LlamaIndex https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/llama-index (2024-11-21 06:03 PM)
-                ☐ Develop with Semantic Kernel https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/semantic-kernel (2024-12-16 12:06 PM)
+                ✘ Develop with LlamaIndex https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/llama-index (2024-11-21 06:03 PM) @cancelled
+                ✘ Develop with Semantic Kernel https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/semantic-kernel (2024-12-16 12:06 PM) @cancelled
                 ✘ Evaluation of generative AI models and AI applications https://learn.microsoft.com/en-us/azure/ai-studio/concepts/evaluation-approach-gen-ai (2024-12-16 11:00 PM) @cancelled
                 ☐ Evaluation and monitoring metrics for generative AI https://learn.microsoft.com/en-us/azure/ai-studio/concepts/evaluation-metrics-built-in (2024-11-21 06:03 PM)
             ✘ Evaluate with the Azure AI Evaluation SDK https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/evaluate-sdk (2024-12-20 06:03 PM) @cancelled
@@ -462,7 +462,7 @@ Azure AI Foundry documentation | Microsoft Learn:
                 ✘ Mistral Nemo model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-nemo (2025-01-09 06:00 PM) @cancelled
                 ✘ Mistral-7B and Mixtral models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-open (2025-01-09 06:00 PM) @cancelled
             ✘ JAIS model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-jais (2025-01-09 06:00 PM) @cancelled
-                ☐ Model and region availability for Serverless API deployments https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-serverless-availability (2025-01-09 06:00 PM)
+                ✘ Model and region availability for Serverless API deployments https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-serverless-availability (2025-01-09 06:00 PM) @cancelled
                 ☐ Work with projects in VS Code https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/vscode (2025-01-08 05:31 AM)
                 ✘ Develop with LangChain https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/langchain (2025-01-08 05:31 AM) @cancelled
             ☐ Evaluate with the Azure AI Evaluation SDK https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/evaluate-sdk (2025-01-08 05:31 AM)
@@ -481,13 +481,13 @@ Azure AI Foundry documentation | Microsoft Learn:
                 ✘ Phi-3 chat model with vision https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3-vision (2025-01-10 05:33 AM) @cancelled
                 ✘ Phi-3.5 chat model with vision https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3-5-vision (2025-01-10 05:33 AM) @cancelled
                 ✘ Phi-4 chat models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-4 (2025-01-10 05:33 AM) @cancelled
-                ☐ Cohere Command models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-cohere-command (2025-01-10 05:33 AM)
-                ☐ Cohere Embed models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-cohere-embed (2025-01-10 05:33 AM)
-                ☐ Meta Llama family models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-llama (2025-01-10 05:33 AM)
+                ✘ Cohere Command models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-cohere-command (2025-01-10 05:33 AM) @cancelled
+                ✘ Cohere Embed models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-cohere-embed (2025-01-10 05:33 AM) @cancelled
+                ✘ Meta Llama family models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-llama (2025-01-10 05:33 AM) @cancelled
                 ✘ Mistral premium models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral (2025-01-10 05:33 AM) @cancelled
                 ✘ Mistral Nemo model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-nemo (2025-01-10 05:33 AM) @cancelled
                 ✘ Mistral-7B and Mixtral models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-open (2025-01-10 05:33 AM) @cancelled
-            ☐ JAIS model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-jais (2025-01-10 05:33 AM)
+            ✘ JAIS model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-jais (2025-01-10 05:33 AM) @cancelled
             ✘ Managed compute https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-managed (2025-01-10 05:33 AM) @cancelled
                         ✘ Create a flow https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-develop (2025-01-12 12:11 PM) @cancelled
                 ☐ Deploy a flow for real-time inference https://learn.microsoft.com/en-us/azure/ai-studio/how-to/flow-deploy (2025-01-12 12:11 PM)
@@ -529,10 +529,10 @@ Azure AI Foundry documentation | Microsoft Learn:
             ✘ What are AI services? https://learn.microsoft.com/en-us/azure/ai-services/what-are-ai-services?context=/azure/ai-studio/context/context (2025-01-15 11:02 PM) @cancelled
                 ✘ Use GPT-4o in the real-time audio playground https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-quickstart?context=/azure/ai-studio/context/context (2025-01-16 06:01 PM) @cancelled
             ✘ Model catalog https://learn.microsoft.com/en-us/azure/ai-studio/how-to/model-catalog-overview (2025-01-16 06:01 PM) @cancelled
-                ☐ Phi-3 chat models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3 (2025-01-16 06:01 PM)
-                ☐ Phi-3 chat model with vision https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3-vision (2025-01-16 06:01 PM)
-                ☐ Phi-3.5 chat model with vision https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3-5-vision (2025-01-16 06:01 PM)
-                ☐ Phi-4 chat models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-4 (2025-01-16 06:01 PM)
+                ✘ Phi-3 chat models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3 (2025-01-16 06:01 PM) @cancelled
+                ✘ Phi-3 chat model with vision https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3-vision (2025-01-16 06:01 PM) @cancelled
+                ✘ Phi-3.5 chat model with vision https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3-5-vision (2025-01-16 06:01 PM) @cancelled
+                ✘ Phi-4 chat models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-4 (2025-01-16 06:01 PM) @cancelled
             ☐ Configure private link https://learn.microsoft.com/en-us/azure/ai-studio/how-to/configure-private-link (2025-01-15 11:02 PM)
             ✘ What's the Azure AI Model Inference API? https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-api (2025-01-16 05:32 AM) @cancelled
 
@@ -573,8 +573,8 @@ Azure AI Foundry documentation | Microsoft Learn:
                 ☐ Analyze images and video with GPT-4 for Vision in the playground https://learn.microsoft.com/en-us/azure/ai-studio/quickstarts/multimodal-vision (2025-01-23 12:06 PM)
             ☐ Deployments overview https://learn.microsoft.com/en-us/azure/ai-studio/concepts/deployments-overview (2025-01-23 06:02 PM)
                 ✘ What is the Azure AI model inference service? https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/overview?context=/azure/ai-studio/context/context (2025-01-23 06:02 PM) @cancelled
-                ☐ Upgrade from GitHub Models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/quickstart-github-models?context=/azure/ai-studio/context/context (2025-01-23 06:02 PM)
-                ☐ Add and configure models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/create-model-deployments?context=/azure/ai-studio/context/context (2025-01-23 06:02 PM)
+                ✘ Upgrade from GitHub Models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/quickstart-github-models?context=/azure/ai-studio/context/context (2025-01-23 06:02 PM) @cancelled
+                ✘ Add and configure models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/create-model-deployments?context=/azure/ai-studio/context/context (2025-01-23 06:02 PM) @cancelled
                 ✘ Deployment types https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/deployment-types?context=/azure/ai-studio/context/context (2025-01-23 06:02 PM) @cancelled
                 ✘ Use the inference endpoint https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/endpoints?context=/azure/ai-studio/context/context (2025-01-23 06:02 PM) @cancelled
                 ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/quotas-limits?context=/azure/ai-studio/context/context (2025-01-23 06:02 PM)
@@ -603,14 +603,57 @@ Azure AI Foundry documentation | Microsoft Learn:
 
 ---
 
-                ☐ Use the inference endpoint https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/endpoints?context=/azure/ai-studio/context/context (2025-01-26 12:11 PM)
+                ✘ Use the inference endpoint https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/endpoints?context=/azure/ai-studio/context/context (2025-01-26 12:11 PM) @cancelled
             ✘ What's the Azure AI Model Inference API? https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-api (2025-01-26 12:11 PM) @cancelled
 
 
 ---
 
-                ☐ Deployment types https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/deployment-types?context=/azure/ai-studio/context/context (2025-01-27 11:01 PM)
+                ✘ Deployment types https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/deployment-types?context=/azure/ai-studio/context/context (2025-01-27 11:01 PM) @cancelled
             ☐ Create your first hub https://learn.microsoft.com/en-us/azure/ai-studio/how-to/create-azure-ai-resource (2025-01-27 06:02 PM)
-        ☐ Use Azure AI Content Safety in the portal https://learn.microsoft.com/en-us/azure/ai-studio/ai-services/how-to/content-safety (2025-01-23 06:02 PM)
+        ✘ Use Azure AI Content Safety in the portal https://learn.microsoft.com/en-us/azure/ai-studio/ai-services/how-to/content-safety (2025-01-23 06:02 PM) @cancelled
             ☐ What's the Azure AI Model Inference API? https://learn.microsoft.com/en-us/azure/ai-studio/reference/reference-model-inference-api (2025-01-27 06:02 PM)
+
+
+---
+
+        ☐ Azure AI FAQ https://learn.microsoft.com/en-us/azure/ai-studio/faq (2025-01-28 11:09 PM)
+                ☐ Phi-3 chat models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3 (2025-01-29 12:16 PM)
+                ☐ Phi-3 chat model with vision https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3-vision (2025-01-29 12:16 PM)
+                ☐ Phi-3.5 chat model with vision https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-3-5-vision (2025-01-29 12:16 PM)
+                ☐ Phi-4 chat models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-phi-4 (2025-01-29 12:16 PM)
+                ☐ Cohere Command models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-cohere-command (2025-01-29 12:16 PM)
+                ☐ Cohere Embed models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-cohere-embed (2025-01-29 12:16 PM)
+            ☐ DeepSeek-R1 reasoning models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-deepseek (2025-01-29 08:55 PM)
+                ☐ Meta Llama family models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-llama (2025-01-29 12:16 PM)
+                ☐ Mistral premium models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral (2025-01-29 12:16 PM)
+                ☐ Codestral model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-codestral (2025-01-29 12:16 PM)
+                ☐ Mistral Nemo model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-nemo (2025-01-29 12:16 PM)
+                ☐ Mistral-7B and Mixtral models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-mistral-open (2025-01-29 12:16 PM)
+            ☐ Gretel Navigator model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-gretel-navigator (2025-01-29 12:16 PM)
+            ☐ JAIS model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-jais (2025-01-29 12:16 PM)
+            ☐ AI21 Jamba models https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-jamba (2025-01-29 12:16 PM)
+            ☐ NTTDATA tsuzumi model https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-tsuzumi (2025-01-29 12:16 PM)
+                ☐ What is the Azure AI model inference service? https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/overview?context=/azure/ai-studio/context/context (2025-01-29 08:55 PM)
+                ☐ Upgrade from GitHub Models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/quickstart-github-models?context=/azure/ai-studio/context/context (2025-01-28 11:09 PM)
+                ☐ Add and configure models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/create-model-deployments?context=/azure/ai-studio/context/context (2025-01-28 11:09 PM)
+                ☐ Deployment types https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/deployment-types?context=/azure/ai-studio/context/context (2025-01-28 11:09 PM)
+                ☐ Use the inference endpoint https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/endpoints?context=/azure/ai-studio/context/context (2025-01-29 12:16 PM)
+                ☐ Deploy models as serverless API https://learn.microsoft.com/en-us/azure/ai-studio/how-to/deploy-models-serverless (2025-01-29 12:16 PM)
+                            ☐ Prompt flow tools overview https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/prompt-flow-tools-overview (2025-01-29 12:16 PM)
+                            ☐ LLM tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/llm-tool (2025-01-29 12:16 PM)
+                            ☐ Prompt tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/prompt-tool (2025-01-29 12:16 PM)
+                            ☐ Python tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/python-tool (2025-01-29 12:16 PM)
+                            ☐ Azure OpenAI GPT-4 Turbo with Vision tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/azure-open-ai-gpt-4v-tool (2025-01-29 06:05 PM)
+                            ☐ Index Lookup tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/index-lookup-tool (2025-01-29 12:16 PM)
+                            ☐ Rerank tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/rerank-tool (2025-01-29 12:16 PM)
+                            ☐ Content Safety tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/content-safety-tool (2025-01-29 12:16 PM)
+                            ☐ Embedding tool https://learn.microsoft.com/en-us/azure/ai-studio/how-to/prompt-flow-tools/embedding-tool (2025-01-29 12:16 PM)
+                ☐ Develop with LangChain https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/langchain (2025-01-29 12:16 PM)
+                ☐ Develop with LlamaIndex https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/llama-index (2025-01-29 12:16 PM)
+                ☐ Develop with Semantic Kernel https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/semantic-kernel (2025-01-29 12:16 PM)
+                ☐ Trace your application with Azure AI Inference SDK https://learn.microsoft.com/en-us/azure/ai-studio/how-to/develop/trace-local-sdk (2025-01-29 12:16 PM)
+            ☐ Audit and manage using Azure Policy https://learn.microsoft.com/en-us/azure/ai-studio/how-to/azure-policy (2025-01-28 11:09 PM)
+        ☐ Use Azure AI Content Safety in the portal https://learn.microsoft.com/en-us/azure/ai-studio/ai-services/how-to/content-safety (2025-01-29 12:16 PM)
+        ☐ Azure AI Model Inference API https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/reference/reference-model-inference-api (2025-01-29 12:16 PM)
 

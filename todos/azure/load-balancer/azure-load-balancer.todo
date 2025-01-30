@@ -21,7 +21,7 @@ Load Balancer | Microsoft Learn:
         Inbound NAT rule:
             ☐ Create a single VM inbound NAT rule https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-port-forwarding-portal (2024-11-22 05:58 AM)
             ☐ Create a multiple VMs inbound NAT rule https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-nat-rule-multi-instance-portal (2024-11-22 05:58 AM)
-            ☐ Migrate Inbound NAT Pools to NAT Rules https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-nat-pool-migration (2024-12-09 06:04 PM)
+            ✘ Migrate Inbound NAT Pools to NAT Rules https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-nat-pool-migration (2024-12-09 06:04 PM) @cancelled
         Scaling and availability:
             ☐ Load balance a VM within a specific availability zone https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-load-balancer-standard-public-zonal-portal (2024-08-01 05:04 PM)
             ☐ Load balance VMs with multiple availability sets https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-multi-availability-sets-portal (2024-08-01 05:04 PM)
@@ -164,7 +164,7 @@ Load Balancer | Microsoft Learn:
 ---
 
         ✘ What's new? https://learn.microsoft.com/en-us/azure/load-balancer/whats-new (2024-12-30 11:05 PM) @cancelled
-        ☐ Components https://learn.microsoft.com/en-us/azure/load-balancer/components (2024-12-30 11:05 PM)
+        ✘ Components https://learn.microsoft.com/en-us/azure/load-balancer/components (2024-12-30 11:05 PM) @cancelled
         ☐ Load balancing algorithm https://learn.microsoft.com/en-us/azure/load-balancer/concepts (2024-12-30 11:05 PM)
         ☐ Distribution modes https://learn.microsoft.com/en-us/azure/load-balancer/distribution-mode-concepts (2024-12-30 11:05 PM)
         ☐ Health probes https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-custom-probe-overview (2024-12-30 11:05 PM)
@@ -193,7 +193,7 @@ Load Balancer | Microsoft Learn:
 
 ---
 
-            ☐ Floating IP configuration https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-floating-ip (2025-01-03 11:01 PM)
+            ✘ Floating IP configuration https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-floating-ip (2025-01-03 11:01 PM) @cancelled
             ☐ Common error codes for Azure Instance Metadata Service (IMDS) https://learn.microsoft.com/en-us/azure/load-balancer/troubleshoot-load-balancer-imds (2025-01-07 05:32 AM)
 
 
@@ -242,4 +242,13 @@ Load Balancer | Microsoft Learn:
 ---
 
         ☐ What's new? https://learn.microsoft.com/en-us/azure/load-balancer/whats-new (2025-01-27 06:03 PM)
+
+
+---
+
+        ☐ Load balancer best practices https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-best-practices (2025-01-28 06:07 PM)
+            ☐ Migrate Inbound NAT Pools to NAT Rules https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-nat-pool-migration (2025-01-28 11:09 PM)
+        ☐ Load balancer best practices https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-best-practices (2025-01-28 06:07 PM)
+        ☐ Components https://learn.microsoft.com/en-us/azure/load-balancer/components (2025-01-28 06:07 PM)
+            ☐ Floating IP configuration https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-floating-ip (2025-01-29 06:06 PM)
 

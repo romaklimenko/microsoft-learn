@@ -376,7 +376,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
 
                 ✘ Best practices https://learn.microsoft.com/en-us/azure/frontdoor/best-practices (2024-12-27 06:03 PM) @cancelled
             ✘ Edgio retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2024-12-27 12:22 PM) @cancelled
-                    ☐ Custom domain https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door (2024-12-27 12:22 PM)
+                    ✘ Custom domain https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door (2024-12-27 12:22 PM) @cancelled
 
 
 ---
@@ -465,7 +465,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 ☐ Understand billing https://learn.microsoft.com/en-us/azure/frontdoor/billing (2024-12-30 11:05 PM)
                 ☐ Price comparison between tiers https://learn.microsoft.com/en-us/azure/frontdoor/understanding-pricing (2024-12-30 11:05 PM)
                 ☐ Best practices https://learn.microsoft.com/en-us/azure/frontdoor/best-practices (2024-12-30 11:05 PM)
-                    ☐ Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-storage-blobs (2024-12-30 11:05 PM)
+                    ✘ Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-storage-blobs (2024-12-30 11:05 PM) @cancelled
                     ☐ Upload to Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-upload-storage-blobs (2024-12-30 11:05 PM)
                     ☐ About tier migration https://learn.microsoft.com/en-us/azure/frontdoor/tier-migration (2024-12-30 11:05 PM)
                     ☐ Classic to Standard/Premium mapping https://learn.microsoft.com/en-us/azure/frontdoor/tier-mapping (2024-12-30 11:05 PM)
@@ -624,4 +624,15 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
     Overview https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/frontdoor/standard-premium/toc.json (2024-09-12 04:46 PM):
         ☐ Front Door and CDN comparison https://learn.microsoft.com/en-us/azure/frontdoor/front-door-cdn-comparison (2025-01-27 06:03 PM)
         Choosing the right load balancer
+
+
+---
+
+                    ☐ Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-storage-blobs (2025-01-28 12:10 PM)
+            Monitor:
+                ☐ Monitor Front Door https://learn.microsoft.com/en-us/azure/frontdoor/monitor-front-door (2025-01-29 12:19 PM)
+                ☐ Front Door monitoring data reference https://learn.microsoft.com/en-us/azure/frontdoor/monitor-front-door-reference (2025-01-29 12:19 PM)
+            Migrate to Azure Front Door:
+                ☐ Custom domain https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door (2024-12-27 12:22 PM)
+                ☐ Retain *.azureedge.net domain https://learn.microsoft.com/en-us/azure/cdn/migrate-cdn-to-front-door-retain-edge-domain?toc=/azure/frontdoor/TOC.json (2024-12-26 06:03 PM)
 

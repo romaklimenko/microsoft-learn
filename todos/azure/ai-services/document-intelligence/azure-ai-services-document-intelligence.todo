@@ -52,7 +52,7 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         ☐ Query field extraction https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-query-fields (2024-12-11 06:01 PM)
     Concepts:
         ☐ Accuracy and confidence scores https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/accuracy-confidence (2024-12-11 06:01 PM)
-        ☐ Analyze document API response https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/analyze-document-response (2024-12-11 06:01 PM)
+        ✘ Analyze document API response https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/analyze-document-response (2024-12-11 06:01 PM) @cancelled
         ☐ Retrieval-Augmented Generation (RAG) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/retrieval-augmented-generation (2024-12-11 06:01 PM)
         ☐ Batch documents analysis https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-batch-analysis (2024-12-11 06:01 PM)
     Quickstarts:
@@ -102,9 +102,9 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         Create Document Intelligence workflows with AI Builder:
             ☐ Custom https://learn.microsoft.com/ai-builder/create-form-processing-model?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2024-12-12 02:36 PM)
             ☐ Invoice https://learn.microsoft.com/ai-builder/flow-invoice-processing?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2024-11-22 01:00 AM)
-            ☐ Receipt https://learn.microsoft.com/ai-builder/flow-receipt-processing?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2024-07-10 01:01 AM)
-            ☐ ID document https://learn.microsoft.com/ai-builder/id-reader?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/applied-ai-services/breadcrumb/toc.json (2024-07-10 01:01 AM)
-            ☐ Business card https://learn.microsoft.com/ai-builder/flow-business-card-reader?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2024-07-10 01:01 AM)
+            ✘ Receipt https://learn.microsoft.com/ai-builder/flow-receipt-processing?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2024-07-10 01:01 AM) @cancelled
+            ✘ ID document https://learn.microsoft.com/ai-builder/id-reader?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/applied-ai-services/breadcrumb/toc.json (2024-07-10 01:01 AM) @cancelled
+            ✘ Business card https://learn.microsoft.com/ai-builder/flow-business-card-reader?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2024-07-10 01:01 AM) @cancelled
         ☐ Use Azure AI Document Intelligence with Azure AI Search https://learn.microsoft.com/azure/search/cognitive-search-custom-skill-form (2023-02-06 07:28 PM)
         ☐ Use Azure AI Document Intelligence with Azure Functions https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/tutorial-azure-function (2024-12-11 06:01 PM)
     Reference:
@@ -211,4 +211,12 @@ Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Az
         ✔ What's new https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/whats-new (2025-01-24 11:00 PM) @done(25-01-26 20:05)
         ✔ FAQ https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/faq (2025-01-24 11:00 PM) @done(25-01-26 20:05)
         ✔ Enhanced capabilities https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-add-on-capabilities (2025-01-24 11:00 PM) @done(25-01-26 20:06)
+
+
+---
+
+        ☐ Analyze document API response https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/analyze-document-response (2025-01-29 06:05 PM)
+            ☐ Receipt https://learn.microsoft.com/ai-builder/flow-receipt-processing?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2025-01-29 01:01 AM)
+            ☐ ID document https://learn.microsoft.com/ai-builder/id-reader?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/applied-ai-services/breadcrumb/toc.json (2025-01-29 01:01 AM)
+            ☐ Business card https://learn.microsoft.com/ai-builder/flow-business-card-reader?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2025-01-29 01:01 AM)
 

@@ -193,7 +193,7 @@ Azure HDInsight | Microsoft Learn:
             ☐ Get help on the Microsoft Q&A question page https://learn.microsoft.com/answers/topics/azure-hdinsight.html
             ☐ Preview features https://learn.microsoft.com/en-us/azure/hdinsight/what-are-preview-features (2024-10-07 11:15 AM)
             ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
-            ☐ Windows tools for HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-windows-tools (2024-09-06 05:09 PM)
+            ✘ Windows tools for HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-windows-tools (2024-09-06 05:09 PM) @cancelled
     Apache Spark:
         Overview:
             ☐ What is Apache Spark in HDInsight? https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-overview (2024-08-02 11:27 AM)
@@ -205,7 +205,7 @@ Azure HDInsight | Microsoft Learn:
             ☐ Create Apache Spark cluster - ARM Template https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-jupyter-spark-sql (2024-09-06 05:09 PM)
         Tutorials:
             ☐ Run queries on an Apache Spark cluster https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-load-data-run-query (2024-12-12 05:33 AM)
-            ☐ Failure spark job debugging in IntelliJ (preview) https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-intellij-tool-failure-debug (2024-12-12 05:33 AM)
+            ✘ Failure spark job debugging in IntelliJ (preview) https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-intellij-tool-failure-debug (2024-12-12 05:33 AM) @cancelled
             ✘ Analyze data using BI tools https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-use-bi-tools (2024-08-02 11:27 AM) @cancelled
             ☐ Create a machine learning app https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-ipython-notebook-machine-learning (2024-09-06 05:09 PM)
             ☐ Create an Apache Spark app in IntelliJ https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-create-standalone-application (2024-08-02 11:27 AM)
@@ -271,7 +271,7 @@ Azure HDInsight | Microsoft Learn:
                 ☐ Apache Spark event log - RequestBodyTooLarge https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-troubleshoot-event-log-requestbodytoolarge (2024-12-12 05:33 AM)
                 ☐ Debug Apache Spark jobs https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-job-debugging (2024-09-06 05:09 PM)
                 ☐ Debug WASB file operations https://learn.microsoft.com/en-us/azure/hdinsight/spark/troubleshoot-debug-wasb (2024-09-19 06:07 PM)
-                ☐ Use IntelliJ to debug Apache Spark job https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-intellij-tool-debug-remotely-through-ssh (2024-12-19 06:04 PM)
+                ✘ Use IntelliJ to debug Apache Spark job https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-intellij-tool-debug-remotely-through-ssh (2024-12-19 06:04 PM) @cancelled
                 ☐ Apache Spark troubleshooting https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-troubleshoot-spark (2024-09-19 06:07 PM)
                 ☐ Known issues https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-known-issues (2024-08-02 11:27 AM)
     Apache Hadoop:
@@ -649,6 +649,15 @@ Azure HDInsight | Microsoft Learn:
 
 ---
 
-            ☐ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2025-01-27 12:38 PM)
-            ☐ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-27 12:09 PM)
+            ✘ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2025-01-27 12:38 PM) @cancelled
+            ✘ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-27 12:09 PM) @cancelled
+
+
+---
+
+            ☐ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2025-01-29 12:37 PM)
+            ☐ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-29 12:07 PM)
+            ☐ Windows tools for HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-windows-tools (2025-01-29 06:06 PM)
+            ☐ Failure spark job debugging in IntelliJ (preview) https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-intellij-tool-failure-debug (2025-01-29 06:06 PM)
+                ☐ Use IntelliJ to debug Apache Spark job https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-intellij-tool-debug-remotely-through-ssh (2025-01-29 06:06 PM)
 
