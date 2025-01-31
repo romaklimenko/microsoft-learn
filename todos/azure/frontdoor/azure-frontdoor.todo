@@ -170,7 +170,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                     ☐ Azure API Management https://learn.microsoft.com/en-us/azure/api-management/front-door-api-management?toc=/azure/frontdoor/toc.json (2024-12-19 06:04 PM)
                     ✘ Azure OpenAI https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-azure-open-ai?toc=/azure/frontdoor/toc.json (2024-10-16 10:05 PM) @cancelled
                     ☐ Azure Static Web Apps https://learn.microsoft.com/en-us/azure/static-web-apps/front-door-manual?toc=/azure/frontdoor/toc.json (2024-10-02 05:09 PM)
-                    ☐ Azure Spring Apps https://learn.microsoft.com/azure/architecture/web-apps/spring-apps/guides/spring-cloud-reverse-proxy?toc=/azure/frontdoor/toc.json (2024-12-05 06:06 PM)
+                    ✘ Azure Spring Apps https://learn.microsoft.com/azure/architecture/web-apps/spring-apps/guides/spring-cloud-reverse-proxy?toc=/azure/frontdoor/toc.json (2024-12-05 06:06 PM) @cancelled
             Classic:
                 Migrate to Standard or Premium tier:
                     ✘ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier (2024-11-19 06:02 PM) @cancelled
@@ -450,8 +450,8 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 ☐ Endpoints https://learn.microsoft.com/en-us/azure/frontdoor/endpoint (2024-12-30 11:05 PM)
                     ☐ Overview https://learn.microsoft.com/en-us/azure/frontdoor/origin?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
                     ☐ Origin selection https://learn.microsoft.com/en-us/azure/frontdoor/routing-methods (2024-12-30 11:05 PM)
-                    ☐ Private Link https://learn.microsoft.com/en-us/azure/frontdoor/private-link (2024-12-30 11:05 PM)
-                    ☐ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2024-12-30 11:05 PM)
+                    ✘ Private Link https://learn.microsoft.com/en-us/azure/frontdoor/private-link (2024-12-30 11:05 PM) @cancelled
+                    ✘ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2024-12-30 11:05 PM) @cancelled
                     ☐ Overview https://learn.microsoft.com/en-us/azure/frontdoor/domain (2024-12-30 11:05 PM)
                     ☐ Apex domains https://learn.microsoft.com/en-us/azure/frontdoor/apex-domain (2024-12-30 11:05 PM)
                     ☐ Wildcard domains https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-standard-premium (2024-12-30 11:05 PM)
@@ -477,7 +477,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                     ☐ Routing limits https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits (2024-12-30 11:05 PM)
                 ☐ Backend pool https://learn.microsoft.com/en-us/azure/frontdoor/origin?pivots=front-door-classic (2024-12-30 11:05 PM)
                 ☐ Wildcard domain https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-classic (2024-12-30 11:05 PM)
-                ☐ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2024-12-30 11:05 PM)
+                ✘ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2024-12-30 11:05 PM) @cancelled
                     ☐ Rules Engine architecture https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-classic (2024-12-30 11:05 PM)
                     ☐ Rules match conditions https://learn.microsoft.com/en-us/azure/frontdoor/rules-match-conditions?pivots=front-door-classic (2024-12-30 11:05 PM)
                     ☐ Rules actions https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-classic (2024-12-30 11:05 PM)
@@ -635,4 +635,12 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
             Migrate to Azure Front Door:
                 ☐ Custom domain https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door (2024-12-27 12:22 PM)
                 ☐ Retain *.azureedge.net domain https://learn.microsoft.com/en-us/azure/cdn/migrate-cdn-to-front-door-retain-edge-domain?toc=/azure/frontdoor/TOC.json (2024-12-26 06:03 PM)
+
+
+---
+
+                    ☐ Private Link https://learn.microsoft.com/en-us/azure/frontdoor/private-link (2025-01-30 12:22 PM)
+                    ☐ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2025-01-29 11:43 PM)
+                ☐ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2025-01-29 11:43 PM)
+                    ☐ Azure Spring Apps https://learn.microsoft.com/azure/architecture/web-apps/spring-apps/guides/spring-cloud-reverse-proxy?toc=/azure/frontdoor/toc.json (2025-01-30 12:22 PM)
 

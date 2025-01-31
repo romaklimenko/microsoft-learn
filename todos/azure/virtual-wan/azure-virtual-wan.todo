@@ -111,7 +111,7 @@ Virtual WAN documentation | Microsoft Learn:
                     ✘ Multi-application Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app (2024-08-02 11:27 AM) @cancelled
                 Certificate authentication clients:
                     ✘ Windows clients https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows (2024-08-02 11:27 AM) @cancelled
-                    ☐ macOS and iOS clients https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac (2024-08-02 11:27 AM)
+                    ✘ macOS and iOS clients https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac (2024-08-02 11:27 AM) @cancelled
                     ☐ Install client certificates https://learn.microsoft.com/en-us/azure/virtual-wan/install-client-certificates (2024-08-02 11:27 AM)
                 VPN client profiles:
                     ☐ Download global and hub profiles https://learn.microsoft.com/en-us/azure/virtual-wan/global-hub-profile (2024-08-02 11:27 AM)
@@ -289,5 +289,19 @@ Virtual WAN documentation | Microsoft Learn:
 
 ---
 
-                    ☐ Windows clients https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows (2025-01-28 11:09 PM)
+                    ✘ Windows clients https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows (2025-01-28 11:09 PM) @cancelled
+
+
+---
+
+                    Windows clients:
+                        ☐ Native VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows (2025-01-28 11:09 PM)
+                        ☐ Azure VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows (2025-01-28 11:09 PM)
+                        OpenVPN client:
+                            ☐ Version 2.x https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-2 (2025-01-30 12:22 PM)
+                            ☐ Version 3.x https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3 (2025-01-30 12:22 PM)
+                    macOS and iOS clients:
+                        ☐ Native VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac (2024-08-02 11:27 AM)
+                        ☐ OpenVPN client - macOS https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-mac (2025-01-30 11:06 PM)
+                        ☐ OpenVPN client - iOS https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-ios (2025-01-30 11:06 PM)
 

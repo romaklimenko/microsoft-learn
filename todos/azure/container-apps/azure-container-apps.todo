@@ -79,7 +79,7 @@ Azure Container Apps documentation | Microsoft Learn:
         ☐ Metrics https://learn.microsoft.com/en-us/azure/container-apps/metrics (2024-11-25 12:08 AM)
         ☐ Log monitoring https://learn.microsoft.com/en-us/azure/container-apps/log-monitoring (2024-11-25 12:08 AM)
         ☐ Alerts https://learn.microsoft.com/en-us/azure/container-apps/alerts (2024-11-25 12:08 AM)
-        ☐ OpenTelemetry agents https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents (2024-12-13 11:03 PM)
+        ✘ OpenTelemetry agents https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents (2024-12-13 11:03 PM) @cancelled
     Scaling & performance:
         ✘ Overview https://learn.microsoft.com/en-us/azure/container-apps/scale-app (2024-08-04 11:36 AM) @cancelled
         ☐ Scale a container app https://learn.microsoft.com/en-us/azure/container-apps/tutorial-scaling (2024-11-25 12:08 AM)
@@ -220,7 +220,7 @@ Azure Container Apps documentation | Microsoft Learn:
 ---
 
                 ✘ LlamaIndex https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-llamaindex (2025-01-08 11:02 PM) @cancelled
-        ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/authentication (2025-01-08 11:02 PM)
+        ✘ Overview https://learn.microsoft.com/en-us/azure/container-apps/authentication (2025-01-08 11:02 PM) @cancelled
         ✘ Serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview (2025-01-09 05:32 AM) @cancelled
             ☐ Generate images with serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-image-generation (2025-01-09 05:32 AM)
             ✘ Overview https://learn.microsoft.com/en-us/azure/container-apps/dapr-overview (2025-01-09 06:03 PM) @cancelled
@@ -233,12 +233,12 @@ Azure Container Apps documentation | Microsoft Learn:
 
 ---
 
-            ☐ Microsoft Entra ID https://learn.microsoft.com/en-us/azure/container-apps/authentication-azure-active-directory (2024-12-20 06:07 PM)
-            ☐ Facebook https://learn.microsoft.com/en-us/azure/container-apps/authentication-facebook (2024-10-16 05:09 PM)
-            ☐ GitHub https://learn.microsoft.com/en-us/azure/container-apps/authentication-github (2024-10-28 06:09 PM)
-            ☐ Google https://learn.microsoft.com/en-us/azure/container-apps/authentication-google (2024-11-19 11:02 PM)
-            ☐ X https://learn.microsoft.com/en-us/azure/container-apps/authentication-twitter (2024-11-19 11:02 PM)
-            ☐ Custom OpenID Connect https://learn.microsoft.com/en-us/azure/container-apps/authentication-openid (2024-10-16 05:09 PM)
+            ✘ Microsoft Entra ID https://learn.microsoft.com/en-us/azure/container-apps/authentication-azure-active-directory (2024-12-20 06:07 PM) @cancelled
+            ✘ Facebook https://learn.microsoft.com/en-us/azure/container-apps/authentication-facebook (2024-10-16 05:09 PM) @cancelled
+            ✘ GitHub https://learn.microsoft.com/en-us/azure/container-apps/authentication-github (2024-10-28 06:09 PM) @cancelled
+            ✘ Google https://learn.microsoft.com/en-us/azure/container-apps/authentication-google (2024-11-19 11:02 PM) @cancelled
+            ✘ X https://learn.microsoft.com/en-us/azure/container-apps/authentication-twitter (2024-11-19 11:02 PM) @cancelled
+            ✘ Custom OpenID Connect https://learn.microsoft.com/en-us/azure/container-apps/authentication-openid (2024-10-16 05:09 PM) @cancelled
 
 
 ---
@@ -328,7 +328,7 @@ Azure Container Apps documentation | Microsoft Learn:
 ---
 
         ☐ Dynamic sessions https://learn.microsoft.com/en-us/azure/container-apps/sessions (2025-01-28 11:09 PM)
-            ☐ Use storage mounts https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts (2025-01-28 06:07 PM)
+            ✘ Use storage mounts https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts (2025-01-28 06:07 PM) @cancelled
                 ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/sessions-code-interpreter (2024-11-21 11:02 PM)
                 Tutorials:
                     Use a LLM agent:
@@ -338,6 +338,16 @@ Azure Container Apps documentation | Microsoft Learn:
                         ☐ Semantic Kernel https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-semantic-kernel (2024-11-21 11:02 PM)
                     Use the REST API:
                         ☐ JavaScript Code interpreter (preview) https://learn.microsoft.com/en-us/azure/container-apps/sessions-tutorial-nodejs (2025-01-14 06:29 PM)
-        ☐ Workload profiles https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-overview (2025-01-29 12:19 PM)
+        ✘ Workload profiles https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-overview (2025-01-29 12:19 PM) @cancelled
         ☐ Serverless GPUs https://learn.microsoft.com/en-us/azure/container-apps/gpu-serverless-overview (2025-01-29 12:19 PM)
+
+
+---
+
+            ☐ Use storage mounts https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts (2025-01-30 06:05 PM)
+            ☐ Create an Azure Files storage mount https://learn.microsoft.com/en-us/azure/container-apps/storage-mounts-azure-files (2024-08-04 11:36 AM)
+            ☐ Custom container sessions https://learn.microsoft.com/en-us/azure/container-apps/sessions-custom-container (2024-11-21 11:02 PM)
+        ☐ OpenTelemetry agents https://learn.microsoft.com/en-us/azure/container-apps/opentelemetry-agents (2025-01-30 06:05 PM)
+        ☐ Overview https://learn.microsoft.com/en-us/azure/container-apps/authentication (2025-01-30 06:05 PM)
+        ☐ Workload profiles https://learn.microsoft.com/en-us/azure/container-apps/workload-profiles-overview (2025-01-30 12:22 PM)
 

@@ -202,7 +202,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Onboard hybrid cluster https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-hybrid-setup (2024-09-11 04:50 PM)
                 ☐ Prometheus based Container Insights https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-experience-v2 (2024-09-11 04:50 PM)
                 ☐ Firewall requirements https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-monitoring-firewall (2024-12-12 06:02 PM)
-                ☐ Private Link https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-monitoring-private-link (2024-12-19 12:14 PM)
+                ✘ Private Link https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-monitoring-private-link (2024-12-19 12:14 PM) @cancelled
                 ☐ Agent management https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-manage-agent (2024-09-11 04:50 PM)
                 ☐ Legacy authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-authentication (2024-09-22 11:15 AM)
                 ☐ Supported region mappings https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-region-mapping (2024-09-11 04:50 PM)
@@ -228,7 +228,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                         ☐ Monitor Argo CD https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-argo-cd-integration (2024-09-11 04:50 PM)
                         ☐ Monitor Elastic Search https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-elasticsearch-integration (2024-09-11 04:50 PM)
                     ☐ Scale using KEDA based on Prometheus metrics https://learn.microsoft.com/en-us/azure/azure-monitor/containers/integrate-keda (2024-10-30 09:59 PM)
-                ☐ Send to multiple metric workspaces https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-multiple-workspaces (2024-09-11 04:50 PM)
+                ✘ Send to multiple metric workspaces https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-multiple-workspaces (2024-09-11 04:50 PM) @cancelled
                 ☐ Send Prometheus metrics to Logs https://learn.microsoft.com/en-us/azure/azure-monitor/containers/container-insights-prometheus-logs (2024-09-11 04:50 PM)
             Remote-write with Prometheus:
                 ✘ Prometheus remote-write https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write (2024-11-19 06:02 PM) @cancelled
@@ -417,8 +417,8 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                             ☐ Version history https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-versions (2024-11-14 11:04 PM)
                             ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-troubleshooting (2024-11-14 11:04 PM)
                         Linux:
-                            ☐ Version 4.0 https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-linux (2024-10-13 11:09 AM)
-                            ☐ Version 3.0 https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-linux-v3 (2024-10-13 11:09 AM)
+                            ✘ Version 4.0 https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-linux (2024-10-13 11:09 AM) @cancelled
+                            ✘ Version 3.0 https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-linux-v3 (2024-10-13 11:09 AM) @cancelled
                             ☐ Collect metrics with Telegraf https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-linux-telegraf (2024-12-23 05:59 PM)
             ☐ Custom metrics ingestion using REST https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-store-custom-rest-api (2024-11-12 06:03 PM)
             Logs ingestion API:
@@ -952,7 +952,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Availability https://learn.microsoft.com/en-us/azure/azure-monitor/app/availability (2025-01-17 05:33 AM)
                 ☐ Transaction Search and Diagnostics https://learn.microsoft.com/en-us/azure/azure-monitor/app/transaction-search-and-diagnostics (2025-01-17 06:02 PM)
                 ✘ Analyze data https://learn.microsoft.com/en-us/azure/azure-monitor/vm/monitor-virtual-machine-analyze (2025-01-17 05:33 AM) @cancelled
-                ☐ Troubleshoot VM performance issues https://learn.microsoft.com/troubleshoot/azure/virtual-machines/performance-diagnostics?toc=/azure/azure-monitor/toc.json (2025-01-16 08:20 PM)
+                ✘ Troubleshoot VM performance issues https://learn.microsoft.com/troubleshoot/azure/virtual-machines/performance-diagnostics?toc=/azure/azure-monitor/toc.json (2025-01-16 08:20 PM) @cancelled
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-overview (2025-01-16 05:32 AM)
                     ☐ Enable with Azure Policy https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-policy (2024-12-04 05:31 AM)
                     ☐ Windows client machines https://learn.microsoft.com/en-us/azure/azure-monitor/vm/vminsights-enable-client (2024-11-07 10:59 PM)
@@ -980,7 +980,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                 ☐ Private link https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-private-link (2025-01-19 12:15 PM)
                 ☐ Performance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-performance (2025-01-19 12:15 PM)
                 ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agents-overview#frequently-asked-questions (2025-01-19 12:15 PM)
-                    ☐ Replicate workspace across regions https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-replication (2025-01-19 12:15 PM)
+                    ✘ Replicate workspace across regions https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-replication (2025-01-19 12:15 PM) @cancelled
 
 
 ---
@@ -989,7 +989,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                         ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/agents/log-analytics-agent (2025-01-20 12:05 PM)
                         ☐ Windows agents https://learn.microsoft.com/en-us/azure/azure-monitor/agents/agent-windows (2025-01-20 12:05 PM)
             ☐ Overview of Azure Monitor Metrics https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/data-platform-metrics (2025-01-20 12:05 PM)
-                    ☐ Design a workspace architecture https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-design (2025-01-20 06:04 PM)
+                    ✘ Design a workspace architecture https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-design (2025-01-20 06:04 PM) @cancelled
                 ☐ Private storage https://learn.microsoft.com/en-us/azure/azure-monitor/logs/private-storage (2025-01-20 12:05 PM)
                 ☐ Personal log data handling https://learn.microsoft.com/en-us/azure/azure-monitor/logs/personal-data-mgmt (2025-01-20 12:05 PM)
         ✘ Azure Monitor security overview and guidelines https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM) @cancelled
@@ -1079,7 +1079,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
 
         Best practices:
             ☐ Reliability https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-reliability (2024-09-15 11:07 AM)
-            ☐ Security https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM)
+            ✘ Security https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM) @cancelled
             ☐ Cost optimization https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-cost (2024-12-09 05:37 AM)
             ☐ Operational excellence https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-operation (2024-09-15 11:07 AM)
             ☐ Performance efficiency https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-performance (2024-09-15 11:07 AM)
@@ -1097,8 +1097,25 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ Create data collection rule https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-data-collection (2025-01-28 12:07 PM)
                 ☐ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2025-01-28 06:04 PM)
             ☐ Roles permissions and security https://learn.microsoft.com/en-us/azure/azure-monitor/roles-permissions-security (2025-01-28 06:04 PM)
-        ☐ Supported metrics https://learn.microsoft.com/azure/azure-monitor/reference/metrics-index (2025-01-28 12:07 PM)
+        ✘ Supported metrics https://learn.microsoft.com/azure/azure-monitor/reference/metrics-index (2025-01-28 12:07 PM) @cancelled
             ☐ Supported resource log categories https://learn.microsoft.com/azure/azure-monitor/reference/logs-index (2025-01-28 12:07 PM)
             ☐ Logs tables reference https://learn.microsoft.com/azure/azure-monitor/reference/tables-index (2025-01-29 12:18 PM)
             ☐ Azure Monitor https://learn.microsoft.com/azure/templates/microsoft.insights/allversions (2025-01-28 02:47 PM)
+
+
+---
+
+                ☐ Troubleshoot VM performance issues https://learn.microsoft.com/troubleshoot/azure/virtual-machines/performance-diagnostics?toc=/azure/azure-monitor/toc.json (2025-01-30 02:01 AM)
+                ☐ Private Link https://learn.microsoft.com/en-us/azure/azure-monitor/containers/kubernetes-monitoring-private-link (2025-01-30 06:03 PM)
+                    ☐ Minimal ingestion profile https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-scrape-configuration-minimal (2024-09-11 04:50 PM)
+                ☐ Send to multiple metric workspaces https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-metrics-multiple-workspaces (2025-01-30 06:03 PM)
+                ☐ Managed identity authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-managed-identity (2024-09-11 04:50 PM)
+                ☐ Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-active-directory (2024-09-11 04:50 PM)
+                ☐ Microsoft Entra Workload ID authentication https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-azure-workload-identity (2024-10-02 10:02 PM)
+                ☐ Troubleshoot remote-write https://learn.microsoft.com/en-us/azure/azure-monitor/containers/prometheus-remote-write-troubleshooting (2024-09-11 04:50 PM)
+                            ☐ Version 4.0 https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-linux (2025-01-30 06:03 PM)
+                    ☐ Replicate workspace across regions https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-replication (2025-01-30 06:03 PM)
+                    ☐ Design a workspace architecture https://learn.microsoft.com/en-us/azure/azure-monitor/logs/workspace-design (2025-01-29 11:04 PM)
+        ☐ Azure Monitor security overview and guidelines https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM)
+        ☐ Supported metrics https://learn.microsoft.com/azure/azure-monitor/reference/metrics-index (2025-01-30 06:03 PM)
 

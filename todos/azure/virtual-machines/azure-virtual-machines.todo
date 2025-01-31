@@ -75,7 +75,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         ☐ Azure Confidential Compute https://learn.microsoft.com/azure/confidential-computing/overview (2024-10-11 10:04 PM)
         ☐ SQL on Virtual Machines https://learn.microsoft.com/azure/azure-sql/virtual-machines/index (2024-10-22 11:03 PM)
         High Performance Computing (HPC):
-            ☐ HPC on Azure https://learn.microsoft.com/azure/architecture/topics/high-performance-computing/ (2024-12-12 06:32 PM)
+            ✘ HPC on Azure https://learn.microsoft.com/azure/architecture/topics/high-performance-computing/ (2024-12-12 06:32 PM) @cancelled
             ☐ HPC for H-series and N-series VMs https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/hpc/overview (2024-08-22 05:37 PM)
             ☐ How to set up HPC/AI VMs https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/hpc/set-up-hpc-vms (2024-08-22 05:37 PM)
             Configuration:
@@ -110,9 +110,9 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                     ☐ Dalsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dalsv6-series (2024-11-21 12:09 PM)
                     ☐ Daldsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/daldsv6-series (2024-12-20 10:58 PM)
                     ☐ Dpsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpsv6-series (2024-12-11 11:00 PM)
-                    ☐ Dpdsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpdsv6-series (2024-12-11 11:00 PM)
+                    ✘ Dpdsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpdsv6-series (2024-12-11 11:00 PM) @cancelled
                     ☐ Dplsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dplsv6-series (2024-12-11 11:00 PM)
-                    ☐ Dpldsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpldsv6-series (2024-12-11 11:00 PM)
+                    ✘ Dpldsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpldsv6-series (2024-12-11 11:00 PM) @cancelled
                     ☐ Dv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dv5-series (2024-10-24 10:02 PM)
                     ☐ Dsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dsv5-series (2024-10-24 10:02 PM)
                     ☐ Ddv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/ddv5-series (2024-10-24 10:02 PM)
@@ -1018,7 +1018,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
         ☐ Best practices https://learn.microsoft.com/en-us/azure/virtual-machines/cost-optimization-best-practices (2024-08-22 05:37 PM)
     Resources:
         ☐ Cloud adoption framework https://learn.microsoft.com/azure/cloud-adoption-framework/get-started/ (2024-12-12 06:03 PM)
-        ☐ Architecture center https://learn.microsoft.com/azure/architecture/ (2024-12-18 07:03 PM)
+        ✘ Architecture center https://learn.microsoft.com/azure/architecture/ (2024-12-18 07:03 PM) @cancelled
         ☐ Migration tools https://learn.microsoft.com/azure/cloud-adoption-framework/migrate/azure-migration-guide/?tabs=MigrationTools (2024-04-26 04:58 PM)
         ☐ Microsoft Q&A https://learn.microsoft.com/answers/topics/azure-virtual-machines.html
         ☐ Azure Quickstart Templates https://azure.microsoft.com/resources/templates/?resourceType=Microsoft.Compute&pageNumber=1&sort=Popular (2024-11-01 08:16 PM)
@@ -1204,17 +1204,17 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 ---
 
                 ✘ REST with SSH https://learn.microsoft.com/rest/api/compute/virtual-machines/create-or-update?tabs=HTTP#create-a-vm-with-ssh-authentication (2025-01-21 11:00 PM) @cancelled
-            ☐ Overview https://learn.microsoft.com/azure/reliability/availability-zones-overview?toc=/azure/virtual-machines/toc.json (2025-01-21 11:02 PM)
+            ✘ Overview https://learn.microsoft.com/azure/reliability/availability-zones-overview?toc=/azure/virtual-machines/toc.json (2025-01-21 11:02 PM) @cancelled
         ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview (2025-01-21 11:03 PM)
                 ☐ Overview https://learn.microsoft.com/azure/backup/disk-backup-overview?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
                 ☐ Configure Azure Disk Backup https://learn.microsoft.com/azure/backup/backup-managed-disks?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
                 ☐ Restore disks with Azure Disk Backup https://learn.microsoft.com/azure/backup/restore-managed-disks?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
             ✘ Add public IP address to existing VM https://learn.microsoft.com/azure/virtual-network/ip-services/associate-public-ip-address-vm?toc=/azure/virtual-machines/toc.json (2025-01-21 11:02 PM) @cancelled
             ☐ Overview https://learn.microsoft.com/azure/backup/backup-azure-vms-introduction?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
-                ☐ CLI https://learn.microsoft.com/azure/backup/quick-backup-vm-cli?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
-                ☐ PowerShell https://learn.microsoft.com/azure/backup/quick-backup-vm-powershell?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
-                ☐ Portal https://learn.microsoft.com/azure/backup/quick-backup-vm-portal?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
-                ☐ Template https://learn.microsoft.com/azure/backup/quick-backup-vm-template?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
+                ✘ CLI https://learn.microsoft.com/azure/backup/quick-backup-vm-cli?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM) @cancelled
+                ✘ PowerShell https://learn.microsoft.com/azure/backup/quick-backup-vm-powershell?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM) @cancelled
+                ✘ Portal https://learn.microsoft.com/azure/backup/quick-backup-vm-portal?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM) @cancelled
+                ✘ Template https://learn.microsoft.com/azure/backup/quick-backup-vm-template?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM) @cancelled
             ☐ Back up multiple VMs https://learn.microsoft.com/azure/backup/tutorial-backup-vm-at-scale?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
             ☐ Restore options https://learn.microsoft.com/azure/backup/backup-azure-arm-restore-vms?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
             ☐ Support matrix https://learn.microsoft.com/azure/backup/backup-support-matrix-iaas?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
@@ -1268,7 +1268,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 
 ---
 
-            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-29 12:37 PM)
+            ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-29 12:37 PM) @cancelled
                         ☐ HBv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/high-performance-compute/hbv2-series (2025-01-29 12:17 PM)
                         ☐ HBv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/high-performance-compute/hbv3-series (2025-01-29 12:17 PM)
                         ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/hbv4-series-overview (2025-01-28 11:09 PM)
@@ -1276,11 +1276,24 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                         ☐ HC series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/high-performance-compute/hc-series (2025-01-28 11:09 PM)
                         ☐ HX series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/high-performance-compute/hx-series (2025-01-29 12:17 PM)
             ☐ Spot Placement Score (Preview) https://learn.microsoft.com/azure/virtual-machine-scale-sets/spot-placement-score?toc=/azure/virtual-machines/toc.json (2025-01-28 11:09 PM)
-            ☐ Handle Spot Evictions https://learn.microsoft.com/azure/architecture/guide/spot/spot-eviction (2025-01-29 06:32 PM)
+            ✘ Handle Spot Evictions https://learn.microsoft.com/azure/architecture/guide/spot/spot-eviction (2025-01-29 06:32 PM) @cancelled
                 ☐ REST with SSH https://learn.microsoft.com/rest/api/compute/virtual-machines/create-or-update?tabs=HTTP#create-a-vm-with-ssh-authentication (2025-01-28 11:19 PM)
             ☐ Hibernate Linux VMs https://learn.microsoft.com/en-us/azure/virtual-machines/linux/hibernate-resume-linux (2025-01-28 06:03 PM)
         ☐ Disk types https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types (2025-01-28 11:09 PM)
         ☐ What's new in Azure Disk Storage https://learn.microsoft.com/en-us/azure/virtual-machines/disks-whats-new (2025-01-28 11:09 PM)
             ☐ Change disk types https://learn.microsoft.com/en-us/azure/virtual-machines/disks-convert-types (2025-01-28 11:09 PM)
         ☐ Microsoft Defender for Cloud https://learn.microsoft.com/azure/security-center/security-center-introduction (2025-01-29 12:18 PM)
+
+
+---
+
+            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-30 12:36 PM)
+                    ☐ Dpdsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpdsv6-series (2025-01-30 11:03 PM)
+                    ☐ Dpldsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpldsv6-series (2025-01-30 11:03 PM)
+            ☐ Overview https://learn.microsoft.com/azure/reliability/availability-zones-overview?toc=/azure/virtual-machines/toc.json (2025-01-30 12:22 PM)
+                ☐ CLI https://learn.microsoft.com/azure/backup/quick-backup-vm-cli?toc=/azure/virtual-machines/toc.json (2025-01-30 06:05 PM)
+                ☐ PowerShell https://learn.microsoft.com/azure/backup/quick-backup-vm-powershell?toc=/azure/virtual-machines/toc.json (2025-01-30 06:05 PM)
+                ☐ Portal https://learn.microsoft.com/azure/backup/quick-backup-vm-portal?toc=/azure/virtual-machines/toc.json (2025-01-30 06:05 PM)
+                ☐ Template https://learn.microsoft.com/azure/backup/quick-backup-vm-template?toc=/azure/virtual-machines/toc.json (2025-01-30 06:05 PM)
+        ☐ Architecture center https://learn.microsoft.com/azure/architecture/ (2025-01-30 06:35 PM)
 

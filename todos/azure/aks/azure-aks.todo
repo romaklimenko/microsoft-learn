@@ -749,7 +749,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             ✘ Node auto-repair https://learn.microsoft.com/en-us/azure/aks/node-auto-repair (2025-01-22 05:30 AM) @cancelled
             ☐ Node auto-drain https://learn.microsoft.com/en-us/azure/aks/node-auto-drain (2025-01-22 05:30 AM)
                 ☐ Configure outbound type for AKS https://learn.microsoft.com/en-us/azure/aks/egress-outboundtype (2025-01-22 05:30 AM)
-            ☐ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-22 12:20 PM)
+            ✘ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-22 12:20 PM) @cancelled
             ☐ Use Telepresence to develop and test microservices locally https://learn.microsoft.com/en-us/azure/aks/use-telepresence-aks (2025-01-22 05:30 AM)
         ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-22 12:36 PM) @cancelled
         ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-22 12:09 PM) @cancelled
@@ -798,10 +798,21 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Control deployments with Azure Policy https://learn.microsoft.com/azure/governance/policy/concepts/policy-for-kubernetes?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-29 12:19 PM)
                 ☐ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2025-01-29 12:16 PM)
                 ☐ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2025-01-29 12:16 PM)
-            ☐ Build Java app with WebSphere Liberty or Open Liberty https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-liberty-app (2025-01-28 06:03 PM)
+            ✘ Build Java app with WebSphere Liberty or Open Liberty https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-liberty-app (2025-01-28 06:03 PM) @cancelled
             ☐ Connect an AKS app to Azure SQL Database https://learn.microsoft.com/azure/service-connector/tutorial-python-aks-sql-database-connection-string?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-28 11:09 PM)
-        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-29 12:37 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-29 12:07 PM)
-        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-29 12:09 PM)
+        ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-29 12:37 PM) @cancelled
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-29 12:07 PM) @cancelled
+        ✘ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-29 12:09 PM) @cancelled
         ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.containerservice/managedclusters (2025-01-28 02:47 PM)
+
+
+---
+
+            ☐ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-30 06:05 PM)
+            ☐ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-30 06:05 PM)
+            ☐ Restore https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-restore?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-30 06:05 PM)
+            ☐ Build Java app with WebSphere Liberty or Open Liberty https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-liberty-app (2025-01-30 12:11 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-30 12:36 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-30 12:08 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-30 12:10 PM)
 

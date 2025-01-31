@@ -316,7 +316,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
             ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-web (2024-12-18 10:58 PM)
     Data pipelines:
         Activities:
-            ☐ Activity overview https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview (2024-09-24 07:03 AM)
+            ✘ Activity overview https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview (2024-09-24 07:03 AM) @cancelled
             ✘ Append Variable activity https://learn.microsoft.com/en-us/fabric/data-factory/append-variable-activity (2024-12-18 10:58 PM) @cancelled
             ✘ Azure Batch activity https://learn.microsoft.com/en-us/fabric/data-factory/azure-batch-activity (2024-01-22 06:02 PM) @cancelled
             ✘ Azure Databricks activity https://learn.microsoft.com/en-us/fabric/data-factory/azure-databricks-activity (2024-12-18 10:58 PM) @cancelled
@@ -661,7 +661,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
             ☐ Move data from Azure SQL DB to Lakehouse via pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-move-data-lakehouse-pipeline (2025-01-26 12:09 PM)
             ☐ Load sample data to Data Warehouse https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-load-sample-data-to-data-warehouse (2025-01-26 12:09 PM)
             ☐ Load data to Lakehouse using partition https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-lakehouse-partition (2025-01-26 12:09 PM)
-            ☐ Dataflow Gen2 with CICD and Git integration https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-cicd-and-git-integration (2025-01-26 12:09 PM)
+            ✘ Dataflow Gen2 with CICD and Git integration https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-cicd-and-git-integration (2025-01-26 12:09 PM) @cancelled
             ☐ Use a dataflow in a pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-dataflows-gen2-pipeline-activity (2025-01-26 12:09 PM)
             ☐ Pattern to incrementally amass data with Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-setup-incremental-refresh-with-dataflows-gen2 (2025-01-26 12:09 PM)
         ☐ What is the Copy job in Data Factory? https://learn.microsoft.com/en-us/fabric/data-factory/what-is-copy-job (2025-01-26 12:09 PM)
@@ -684,7 +684,15 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
         ☐ What's new in Data Factory https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new?toc=/fabric/data-factory/toc.json#data-factory-in-microsoft-fabric (2025-01-28 11:08 PM)
                 ☐ On-premises data gateway FAQ https://learn.microsoft.com/data-integration/gateway/service-gateway-onprem-faq?toc=/fabric/data-factory/toc.json (2025-01-29 11:01 PM)
                 ☐ Supported monthly updates https://learn.microsoft.com/data-integration/gateway/service-gateway-monthly-updates?toc=/fabric/data-factory/toc.json (2025-01-28 05:01 PM)
-            ☐ Migrate from Azure Workflow Orchestration Manager https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-migrate-azure-workflow-orchestration-manager (2025-01-29 11:02 PM)
-            ☐ Use AI to build DAGs from an image https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-job-build-dags-using-azure-openai (2025-01-29 11:02 PM)
+            ✘ Migrate from Azure Workflow Orchestration Manager https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-migrate-azure-workflow-orchestration-manager (2025-01-29 11:02 PM) @cancelled
+            ✘ Use AI to build DAGs from an image https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-job-build-dags-using-azure-openai (2025-01-29 11:02 PM) @cancelled
         ☐ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2025-01-29 12:18 PM)
+
+
+---
+
+            ✔ Activity overview https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview (2025-01-30 06:04 PM) @done(25-01-31 23:11)
+            ✔ Dataflow Gen2 with CICD and Git integration https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-cicd-and-git-integration (2025-01-30 11:02 PM) @done(25-01-31 23:12)
+            ✔ Migrate from Azure Workflow Orchestration Manager https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-migrate-azure-workflow-orchestration-manager (2025-01-30 11:02 PM) @done(25-01-31 23:12)
+            ✔ Use AI to build DAGs from an image https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-job-build-dags-using-azure-openai (2025-01-30 11:02 PM) @done(25-01-31 23:14)
 

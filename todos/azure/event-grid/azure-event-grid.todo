@@ -64,7 +64,7 @@ Azure Event Grid documentation | Microsoft Learn:
                     ☐ Allow access from specific IP addresses https://learn.microsoft.com/en-us/azure/event-grid/mqtt-configure-firewall (2024-08-02 11:27 AM)
                     ☐ Allow access via private endpoints https://learn.microsoft.com/en-us/azure/event-grid/mqtt-configure-private-endpoints (2024-08-02 11:27 AM)
                     ☐ Enable managed identity for namespace https://learn.microsoft.com/en-us/azure/event-grid/event-grid-namespace-managed-identity (2024-08-02 11:27 AM)
-                    ☐ MQTT client authentication using certificate chain https://learn.microsoft.com/en-us/azure/event-grid/mqtt-certificate-chain-client-authentication (2024-08-02 11:27 AM)
+                    ✘ MQTT client authentication using certificate chain https://learn.microsoft.com/en-us/azure/event-grid/mqtt-certificate-chain-client-authentication (2024-08-02 11:27 AM) @cancelled
         Namespace topics:
             ☐ Pull delivery overview https://learn.microsoft.com/en-us/azure/event-grid/pull-delivery-overview (2024-09-26 11:12 AM)
             ☐ Push delivery overview https://learn.microsoft.com/en-us/azure/event-grid/namespace-push-delivery-overview (2024-05-21 03:00 PM)
@@ -354,7 +354,7 @@ Azure Event Grid documentation | Microsoft Learn:
         ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/event-grid/quotas-limits (2023-05-23 02:25 PM)
     Resources:
         ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-event-grid (2024-10-07 11:05 PM)
-        ☐ FAQ https://learn.microsoft.com/en-us/azure/event-grid/faq (2024-11-22 05:58 AM)
+        ✘ FAQ https://learn.microsoft.com/en-us/azure/event-grid/faq (2024-11-22 05:58 AM) @cancelled
         ☐ Azure Roadmap https://azure.microsoft.com/roadmap/
         ☐ Pricing https://azure.microsoft.com/pricing/details/event-grid/
         ☐ Pricing Calculator https://azure.microsoft.com/pricing/calculator/
@@ -547,8 +547,19 @@ Azure Event Grid documentation | Microsoft Learn:
 
                         ☐ .NET https://learn.microsoft.com/en-us/azure/event-grid/event-grid-dotnet-get-started-pull-delivery (2025-01-29 06:06 PM)
                 ☐ Event subscriptions https://learn.microsoft.com/azure/templates/microsoft.eventgrid/eventsubscriptions (2025-01-28 02:47 PM)
-            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-29 12:37 PM)
-            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-29 12:37 PM)
-            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-29 12:07 PM)
-            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-29 12:09 PM)
+            ✘ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-29 12:37 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-29 12:37 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-29 12:07 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-29 12:09 PM) @cancelled
+
+
+---
+
+                    ☐ MQTT client authentication using certificate chain https://learn.microsoft.com/en-us/azure/event-grid/mqtt-certificate-chain-client-authentication (2025-01-30 12:22 PM)
+                        ☐ Telephony and SMS Events https://learn.microsoft.com/en-us/azure/event-grid/communication-services-telephony-sms-events (2025-01-30 12:22 PM)
+            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-30 12:36 PM)
+            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-30 12:36 PM)
+            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-30 12:08 PM)
+            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-30 12:10 PM)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/event-grid/faq (2025-01-30 12:22 PM)
 

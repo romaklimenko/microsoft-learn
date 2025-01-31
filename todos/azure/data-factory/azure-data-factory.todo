@@ -136,7 +136,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ✘ Change data capture resource https://learn.microsoft.com/en-us/azure/data-factory/concepts-change-data-capture-resource (2024-08-02 11:27 AM) @cancelled
         ☐ Roles and permissions https://learn.microsoft.com/en-us/azure/data-factory/concepts-roles-permissions (2024-08-02 11:27 AM)
         ☐ Naming rules https://learn.microsoft.com/en-us/azure/data-factory/naming-rules (2024-08-02 11:27 AM)
-        ☐ Data redundancy https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-redundancy (2024-11-22 05:58 AM)
+        ✘ Data redundancy https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-redundancy (2024-11-22 05:58 AM) @cancelled
     How-to guides:
         ☐ Create a data factory in UI https://learn.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory (2024-10-04 11:22 AM)
         Create Data Factory Programmatically:
@@ -154,7 +154,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ✘ Source control https://learn.microsoft.com/en-us/azure/data-factory/source-control (2024-11-27 11:03 PM) @cancelled
             ☐ Author a change data capture resource https://learn.microsoft.com/en-us/azure/data-factory/how-to-change-data-capture-resource (2024-10-04 11:22 AM)
             ☐ Author a change data capture resource with schema evolution https://learn.microsoft.com/en-us/azure/data-factory/how-to-change-data-capture-resource-with-schema-evolution (2024-10-04 11:22 AM)
-            ☐ Connect to Azure DevOps in another tenant https://learn.microsoft.com/en-us/azure/data-factory/cross-tenant-connections-to-azure-devops (2024-08-02 11:27 AM)
+            ✘ Connect to Azure DevOps in another tenant https://learn.microsoft.com/en-us/azure/data-factory/cross-tenant-connections-to-azure-devops (2024-08-02 11:27 AM) @cancelled
             ☐ Manage your environment with DataOps https://learn.microsoft.com/en-us/azure/data-factory/apply-dataops (2024-10-04 11:22 AM)
             Continuous integration and delivery:
                 ✘ Overview https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery (2024-10-11 08:21 AM) @cancelled
@@ -602,7 +602,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ Retrieve the IP address of an Airflow cluster https://learn.microsoft.com/en-us/azure/data-factory/airflow-get-ip-airflow-cluster (2024-08-02 11:27 AM)
             ☐ Sync a GitHub repository https://learn.microsoft.com/en-us/azure/data-factory/airflow-sync-github-repository (2024-10-18 10:05 PM)
             ☐ Diagnostic logs and metrics https://learn.microsoft.com/en-us/azure/data-factory/diagnostic-logs-and-metrics-for-workflow-orchestration-manager (2024-10-04 11:22 AM)
-            ☐ CI/CD Patterns https://learn.microsoft.com/en-us/azure/data-factory/ci-cd-pattern-with-airflow (2024-08-02 11:27 AM)
+            ✘ CI/CD Patterns https://learn.microsoft.com/en-us/azure/data-factory/ci-cd-pattern-with-airflow (2024-08-02 11:27 AM) @cancelled
             ☐ Airflow Configurations https://learn.microsoft.com/en-us/azure/data-factory/airflow-configurations (2024-08-02 11:27 AM)
         ☐ Pricing https://learn.microsoft.com/en-us/azure/data-factory/airflow-pricing (2024-08-02 11:27 AM)
     Reference:
@@ -690,9 +690,9 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
                 ☐ Supported functions https://learn.microsoft.com/en-us/azure/data-factory/wrangling-functions (2025-01-09 06:03 PM)
             ☐ Change data capture https://learn.microsoft.com/en-us/azure/data-factory/concepts-change-data-capture (2025-01-09 06:03 PM)
             ☐ Change data capture resource https://learn.microsoft.com/en-us/azure/data-factory/concepts-change-data-capture-resource (2025-01-09 06:03 PM)
-            ☐ Source control https://learn.microsoft.com/en-us/azure/data-factory/source-control (2025-01-09 06:03 PM)
-                ☐ Overview https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery (2025-01-09 06:03 PM)
-                ☐ Using a hotfix production environment https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-hotfix-environment (2025-01-09 06:03 PM)
+            ✘ Source control https://learn.microsoft.com/en-us/azure/data-factory/source-control (2025-01-09 06:03 PM) @cancelled
+                ✘ Overview https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery (2025-01-09 06:03 PM) @cancelled
+                ✘ Using a hotfix production environment https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-hotfix-environment (2025-01-09 06:03 PM) @cancelled
             ☐ Delta format https://learn.microsoft.com/en-us/azure/data-factory/format-delta (2025-01-09 06:03 PM)
             ☐ Execute Power Query activity https://learn.microsoft.com/en-us/azure/data-factory/control-flow-power-query-activity (2025-01-09 06:03 PM)
             ☐ Machine Learning Studio (classic) Update Resource activity https://learn.microsoft.com/en-us/azure/data-factory/update-machine-learning-models (2025-01-08 11:02 PM)
@@ -735,12 +735,12 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
                     ☐ Using data flows in pipelines https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-flow-performance-pipelines (2024-08-02 11:27 AM)
                     ☐ Aggregate functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-aggregate-functions (2024-08-02 11:27 AM)
                     ☐ Window functions https://learn.microsoft.com/en-us/azure/data-factory/data-flow-window-functions (2024-08-02 11:27 AM)
-                ☐ Automate with Azure Pipelines releases https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-automate-azure-pipelines (2024-09-26 10:04 PM)
-                ☐ Manually promote a Resource Manager template for each environment https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-manual-promotion (2024-08-02 11:27 AM)
-                ☐ Use custom parameters with a Resource Manager template https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-resource-manager-custom-parameters (2024-09-26 10:04 PM)
-                ☐ Linked Resource Manager templates https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-linked-templates (2024-08-02 11:27 AM)
-                ☐ Sample pre- and post-deployment script https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script (2024-09-26 10:04 PM)
-            ☐ Automated publishing for CI/CD https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements (2024-12-11 06:03 PM)
+                ✘ Automate with Azure Pipelines releases https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-automate-azure-pipelines (2024-09-26 10:04 PM) @cancelled
+                ✘ Manually promote a Resource Manager template for each environment https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-manual-promotion (2024-08-02 11:27 AM) @cancelled
+                ✘ Use custom parameters with a Resource Manager template https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-resource-manager-custom-parameters (2024-09-26 10:04 PM) @cancelled
+                ✘ Linked Resource Manager templates https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-linked-templates (2024-08-02 11:27 AM) @cancelled
+                ✘ Sample pre- and post-deployment script https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script (2024-09-26 10:04 PM) @cancelled
+            ✘ Automated publishing for CI/CD https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements (2024-12-11 06:03 PM) @cancelled
             ☐ Sink https://learn.microsoft.com/en-us/azure/data-factory/data-flow-sink (2025-01-10 12:11 PM)
         ✘ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-10 12:08 PM) @cancelled
 
@@ -838,5 +838,22 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
 
 ---
 
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-29 12:07 PM)
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-29 12:07 PM) @cancelled
+
+
+---
+
+        ☐ Data redundancy https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-redundancy (2025-01-29 11:43 PM)
+            ☐ Source control https://learn.microsoft.com/en-us/azure/data-factory/source-control (2025-01-29 11:43 PM)
+            ☐ Connect to Azure DevOps in another tenant https://learn.microsoft.com/en-us/azure/data-factory/cross-tenant-connections-to-azure-devops (2025-01-29 11:43 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery (2025-01-29 11:43 PM)
+                ☐ Automate with Azure Pipelines releases https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-automate-azure-pipelines (2025-01-29 11:43 PM)
+                ☐ Manually promote a Resource Manager template for each environment https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-manual-promotion (2025-01-29 11:43 PM)
+                ☐ Use custom parameters with a Resource Manager template https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-resource-manager-custom-parameters (2025-01-29 11:43 PM)
+                ☐ Linked Resource Manager templates https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-linked-templates (2025-01-29 11:43 PM)
+                ☐ Using a hotfix production environment https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-hotfix-environment (2025-01-29 11:43 PM)
+                ☐ Sample pre- and post-deployment script https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-sample-script (2025-01-29 11:43 PM)
+            ☐ Automated publishing for CI/CD https://learn.microsoft.com/en-us/azure/data-factory/continuous-integration-delivery-improvements (2025-01-29 11:43 PM)
+            ☐ CI/CD Patterns https://learn.microsoft.com/en-us/azure/data-factory/ci-cd-pattern-with-airflow (2025-01-29 11:43 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-30 12:08 PM)
 

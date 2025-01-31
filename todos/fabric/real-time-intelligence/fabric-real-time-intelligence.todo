@@ -1265,7 +1265,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ row_window_session() https://learn.microsoft.com/kusto/query/row-window-session-function?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
         Limits and Errors:
             ☐ Query consistency https://learn.microsoft.com/kusto/concepts/query-consistency?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
-            ☐ Query limits https://learn.microsoft.com/kusto/concepts/query-limits?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
+            ✘ Query limits https://learn.microsoft.com/kusto/concepts/query-limits?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM) @cancelled
             Partial query failures https://learn.microsoft.com/kusto/concepts/partial-query-failures?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM):
                 ☐ Result truncation https://learn.microsoft.com/kusto/concepts/result-truncation?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ Runaway queries https://learn.microsoft.com/kusto/concepts/runaway-queries?view=microsoft-fabric&preserve-view=true (2024-08-20 02:54 PM)
@@ -1363,7 +1363,7 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
                         ☐ .alter-merge cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-merge-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
                         ☐ .delete cluster policy request_classification command https://learn.microsoft.com/kusto/management/delete-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
                         ☐ .show cluster policy request_classification command https://learn.microsoft.com/kusto/management/show-cluster-policy-request-classification-command?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
-                    ☐ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
+                    ✘ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM) @cancelled
                     ✘ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM) @cancelled
                     ☐ Request rate limits enforcement policy https://learn.microsoft.com/kusto/management/request-rate-limits-enforcement-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
                     ☐ Request queuing policy https://learn.microsoft.com/kusto/management/request-queuing-policy?view=microsoft-fabric&preserve-view=true (2025-01-09 05:57 PM)
@@ -1727,4 +1727,11 @@ Real-Time Intelligence in Microsoft Fabric documentation - Microsoft Fabric | Mi
             ☐ count_distinct() https://learn.microsoft.com/kusto/query/count-distinct-aggregation-function?view=microsoft-fabric&preserve-view=true (2025-01-28 06:04 PM)
             ☐ countif() https://learn.microsoft.com/kusto/query/countif-aggregation-function?view=microsoft-fabric&preserve-view=true (2025-01-28 06:04 PM)
             ☐ graph-match https://learn.microsoft.com/kusto/query/graph-match-operator?view=microsoft-fabric&preserve-view=true (2025-01-29 12:18 PM)
+
+
+---
+
+                    ✔ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=microsoft-fabric&preserve-view=true (2025-01-30 12:11 PM) @done(25-01-31 23:15)
+            ✔ Query results cache https://learn.microsoft.com/kusto/query/query-results-cache?view=microsoft-fabric&preserve-view=true (2025-01-30 12:11 PM) @done(25-01-31 23:16)
+            ✔ Query limits https://learn.microsoft.com/kusto/concepts/query-limits?view=microsoft-fabric&preserve-view=true (2025-01-30 12:11 PM) @done(25-01-31 23:16)
 

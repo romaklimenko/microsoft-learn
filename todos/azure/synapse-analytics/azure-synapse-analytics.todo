@@ -86,7 +86,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Provision and secure a linked service with Managed VNet https://learn.microsoft.com/en-us/azure/synapse-analytics/data-integration/linked-service (2024-08-01 05:35 AM)
                     ☐ Connect to Synapse workspace from restricted network https://learn.microsoft.com/en-us/azure/synapse-analytics/security/how-to-connect-to-workspace-from-restricted-network (2024-08-01 05:35 AM)
             Troubleshoot:
-                ☐ Azure Synapse Analytics known issues https://learn.microsoft.com/en-us/azure/synapse-analytics/known-issues (2024-11-11 06:07 PM)
+                ✘ Azure Synapse Analytics known issues https://learn.microsoft.com/en-us/azure/synapse-analytics/known-issues (2024-11-11 06:07 PM) @cancelled
                 ☐ Troubleshoot Synapse Studio https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio (2024-08-01 05:35 AM)
                 ☐ Troubleshoot Synapse Studio connectivity issues https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio-powershell (2024-11-20 11:04 PM)
                 ☐ Troubleshoot connectivity between Synapse Studio and storage https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio-and-storage-connectivity (2024-08-01 05:35 AM)
@@ -1019,7 +1019,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ row_window_session() https://learn.microsoft.com/kusto/query/row-window-session-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
             Limits and Errors:
                 ☐ Query consistency https://learn.microsoft.com/kusto/concepts/query-consistency?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ Query limits https://learn.microsoft.com/kusto/concepts/query-limits?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ Query limits https://learn.microsoft.com/kusto/concepts/query-limits?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 Partial query failures https://learn.microsoft.com/kusto/concepts/partial-query-failures?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM):
                     ☐ Result truncation https://learn.microsoft.com/kusto/concepts/result-truncation?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ Runaway queries https://learn.microsoft.com/kusto/concepts/runaway-queries?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -2134,7 +2134,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ .alter-merge cluster policy request_classification command https://learn.microsoft.com/kusto/management/alter-merge-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
                     ☐ .delete cluster policy request_classification command https://learn.microsoft.com/kusto/management/delete-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
                     ☐ .show cluster policy request_classification command https://learn.microsoft.com/kusto/management/show-cluster-policy-request-classification-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
-                ☐ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                ✘ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM) @cancelled
                 ✘ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM) @cancelled
                 ☐ Request rate limits enforcement policy https://learn.microsoft.com/kusto/management/request-rate-limits-enforcement-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
                 ☐ Request queuing policy https://learn.microsoft.com/kusto/management/request-queuing-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
@@ -2361,4 +2361,12 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ .create function command https://learn.microsoft.com/kusto/management/create-function?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
                     ☐ Show continuous export failures https://learn.microsoft.com/kusto/management/data-export/show-continuous-failures?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
                 ☐ Connect to Spark with IntelliJ plug-in https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/intellij-tool-synapse (2025-01-29 06:06 PM)
+
+
+---
+
+                ☐ Azure Synapse Analytics known issues https://learn.microsoft.com/en-us/azure/synapse-analytics/known-issues (2025-01-30 06:05 PM)
+                ☐ Query results cache https://learn.microsoft.com/kusto/query/query-results-cache?view=azure-data-explorer&preserve-view=true (2025-01-30 12:11 PM)
+                ☐ Query limits https://learn.microsoft.com/kusto/concepts/query-limits?view=azure-data-explorer&preserve-view=true (2025-01-30 12:11 PM)
+                ☐ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=azure-data-explorer&preserve-view=true (2025-01-30 12:11 PM)
 
