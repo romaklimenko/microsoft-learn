@@ -249,7 +249,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
             Guidance:
                 Identity management for AWS:
                     ✘ Microsoft Entra identity management for AWS https://learn.microsoft.com/en-us/azure/architecture/guide/reference-architectures/aws/aws-azure-ad-security (2024-09-09 10:27 PM) @cancelled
-                    ☐ Onboard an AWS account https://learn.microsoft.com/azure/active-directory/cloud-infrastructure-entitlement-management/onboard-aws (2024-05-14 11:06 AM)
+                    ✘ Onboard an AWS account https://learn.microsoft.com/azure/active-directory/cloud-infrastructure-entitlement-management/onboard-aws (2024-05-14 11:06 AM) @cancelled
                     ☐ Amazon Managed Grafana https://learn.microsoft.com/azure/active-directory/saas-apps/amazon-managed-grafana-tutorial (2024-05-31 10:09 PM)
                     ☐ AWS single-account access https://learn.microsoft.com/azure/active-directory/saas-apps/amazon-web-service-tutorial (2024-10-29 10:03 PM)
                     ☐ AWS Single Sign-on https://learn.microsoft.com/azure/active-directory/saas-apps/aws-single-sign-on-tutorial (2024-08-05 11:26 AM)
@@ -296,7 +296,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ✘ GC Ubuntu with Terraform https://learn.microsoft.com/azure/cloud-adoption-framework/manage/hybrid/server/best-practices/gcp-terraform-ubuntu (2023-08-23 04:47 PM) @cancelled
                     ✘ GC Windows with Terraform https://learn.microsoft.com/azure/cloud-adoption-framework/manage/hybrid/server/best-practices/gcp-terraform-windows (2023-08-23 04:47 PM) @cancelled
                 Identity management for Google Cloud:
-                    ☐ Onboard a Google Cloud project https://learn.microsoft.com/azure/active-directory/cloud-infrastructure-entitlement-management/onboard-gcp (2024-05-14 11:06 AM)
+                    ✘ Onboard a Google Cloud project https://learn.microsoft.com/azure/active-directory/cloud-infrastructure-entitlement-management/onboard-gcp (2024-05-14 11:06 AM) @cancelled
                     ☐ Add and remove roles and tasks https://learn.microsoft.com/azure/active-directory/cloud-infrastructure-entitlement-management/how-to-add-remove-role-task (2024-12-11 12:14 PM)
                 Migration from Google Cloud:
                     ✘ Discover Google Cloud instances https://learn.microsoft.com/azure/migrate/tutorial-discover-gcp (2024-11-29 06:04 PM) @cancelled
@@ -1830,7 +1830,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Support matrix for Azure VM DR https://learn.microsoft.com/azure/site-recovery/azure-to-azure-support-matrix (2025-01-22 06:07 PM)
                     ☐ Introduction to Azure security https://learn.microsoft.com/azure/security/fundamentals/overview (2025-01-21 11:02 PM)
                     ☐ Connect Microsoft Defender XDR https://learn.microsoft.com/azure/sentinel/connect-microsoft-365-defender (2025-01-22 12:20 PM)
-                ☐ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2025-01-21 11:02 PM)
+                ✘ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2025-01-21 11:02 PM) @cancelled
                     ✘ Choose a managed disk type https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-22 05:31 AM) @cancelled
 
 
@@ -1878,4 +1878,11 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
 ---
 
                     ✔ ANF volume group for SAP HANA https://learn.microsoft.com/azure/azure-netapp-files/application-volume-group-introduction (2025-01-29 11:43 PM) @done(25-01-31 22:44)
+
+
+---
+
+                    ☐ Onboard an AWS account https://learn.microsoft.com/azure/active-directory/cloud-infrastructure-entitlement-management/onboard-aws (2025-01-31 06:09 PM)
+                    ☐ Onboard a Google Cloud project https://learn.microsoft.com/azure/active-directory/cloud-infrastructure-entitlement-management/onboard-gcp (2025-01-31 06:09 PM)
+                ☐ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2025-01-31 12:25 PM)
 

@@ -190,7 +190,7 @@ Azure reliability documentation | Microsoft Learn:
         Security:
             ☐ Azure Disk Encryption https://learn.microsoft.com/azure/virtual-machines/disks-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 05:32 AM)
             ☐ Azure Firewall https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-02 05:06 PM)
-            ☐ Azure Key Vault https://learn.microsoft.com/azure/key-vault/general/disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 05:31 AM)
+            ✘ Azure Key Vault https://learn.microsoft.com/azure/key-vault/general/disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 05:31 AM) @cancelled
             Azure Web Application Firewall:
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-08-02 05:06 PM)
                 ✘ Azure Web Application Firewall https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-do-i-achieve-a-disaster-recovery-scenario-across-datacenters-by-using-application-gateway (2024-10-25 10:04 PM) @cancelled
@@ -555,7 +555,7 @@ Azure reliability documentation | Microsoft Learn:
         ☐ Multi-region solutions in nonpaired regions https://learn.microsoft.com/en-us/azure/reliability/regions-multi-region-nonpaired (2025-01-28 12:10 PM)
     Azure availability zones:
         ✘ Services with availability zone support https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support (2025-01-29 12:19 PM) @cancelled
-        ☐ Overview https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance (2025-01-29 12:19 PM)
+        ✘ Overview https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance (2025-01-29 12:19 PM) @cancelled
             ☐ Sustainability data solutions in Fabric https://learn.microsoft.com/en-us/azure/reliability/reliability-sustainability-data-solutions-fabric (2025-01-28 12:10 PM)
             ☐ Azure Public IP https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-zone (2025-01-28 11:09 PM)
 
@@ -563,7 +563,7 @@ Azure reliability documentation | Microsoft Learn:
 ---
 
         ☐ Business continuity, high availability, and disaster recovery https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery (2025-01-22 05:32 AM)
-        ☐ Shared responsibility for resiliency https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility (2025-01-21 06:09 PM)
+        ✔ Shared responsibility for resiliency https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility (2025-01-21 06:09 PM) @done(25-02-01 22:04)
         ☐ What are Azure regions? https://learn.microsoft.com/en-us/azure/reliability/regions-overview (2025-01-30 12:22 PM)
         ☐ What are Azure availability zones? https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview (2025-01-30 12:22 PM)
         ☐ Services with availability zone support https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support (2025-01-30 12:22 PM)
@@ -584,7 +584,7 @@ Azure reliability documentation | Microsoft Learn:
                 ☐ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/reliability/migrate-cosmos-nosql (2024-11-20 11:04 PM)
                 ☐ Azure Database for MySQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/migrate-database-mysql-flex (2024-08-14 06:47 PM)
                 ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san#availability-zone-migration (2025-01-20 12:13 AM)
-                ☐ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight#availability-zone-migration (2025-01-22 05:32 AM)
+                ✘ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight#availability-zone-migration (2025-01-22 05:32 AM) @cancelled
                 ☐ Azure Load Balancer https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer (2024-01-21 12:36 PM)
                 ☐ Log Analytics Dedicated Cluster workspaces https://learn.microsoft.com/en-us/azure/reliability/migrate-monitor-log-analytics (2024-11-20 11:04 PM)
                 ☐ Azure Recovery Services vault https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault (2024-11-20 11:04 PM)
@@ -596,8 +596,8 @@ Azure reliability documentation | Microsoft Learn:
                 ☐ Workload - Azure Kubernetes and MySQL https://learn.microsoft.com/en-us/azure/reliability/migrate-workload-aks-mysql (2024-11-20 11:04 PM)
             ☐ Azure AI Health Insights https://learn.microsoft.com/en-us/azure/reliability/reliability-health-insights (2024-11-22 05:58 AM)
             ☐ Azure Bot Service https://learn.microsoft.com/en-us/azure/reliability/reliability-bot (2024-11-22 05:58 AM)
-            ☐ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight (2025-01-22 05:32 AM)
-            ☐ Azure HDInsight on AKS https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight-on-aks (2024-11-01 10:03 PM)
+            ✘ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight (2025-01-22 05:32 AM) @cancelled
+            ✘ Azure HDInsight on AKS https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight-on-aks (2024-11-01 10:03 PM) @cancelled
             ☐ Azure Event Hubs https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs (2024-11-20 11:04 PM)
             ☐ Azure Chaos Studio https://learn.microsoft.com/en-us/azure/reliability/reliability-chaos-studio (2024-11-22 05:58 AM)
             ☐ Microsoft Fabric https://learn.microsoft.com/en-us/azure/reliability/reliability-fabric (2025-01-17 11:02 PM)
@@ -647,4 +647,12 @@ Azure reliability documentation | Microsoft Learn:
             ☐ Service availability by category https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category (2025-01-22 05:32 AM)
                 ☐ Microsoft Azure operated by 21Vianet https://learn.microsoft.com/en-us/azure/reliability/sovereign-cloud-china (2024-10-16 10:05 PM)
             ☐ Overview https://learn.microsoft.com/en-us/azure/reliability/asm-retirement (2024-07-02 05:47 AM)
+
+
+---
+
+                ☐ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight#availability-zone-migration (2025-01-31 06:19 PM)
+        ☐ Overview https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance (2025-01-31 06:19 PM)
+            ☐ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight (2025-01-31 06:19 PM)
+            ☐ Azure Key Vault https://learn.microsoft.com/azure/key-vault/general/disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-31 11:04 PM)
 

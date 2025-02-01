@@ -35,8 +35,8 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
     Migrate to Fabric:
         ✘ Activity Continuity between ADF and Data Factory in Fabric https://learn.microsoft.com/en-us/fabric/data-factory/activity-parity (2024-12-18 10:58 PM) @cancelled
         ☐ Connector Continuity between ADF and Data Factory in Fabric https://learn.microsoft.com/en-us/fabric/data-factory/connector-parity (2024-12-18 10:58 PM)
-        ☐ Migrate from ADF and Power BI https://learn.microsoft.com/en-us/fabric/data-factory/upgrade-paths (2024-12-18 10:58 PM)
-        ☐ Move queries from Dataflow Gen1 to Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/move-dataflow-gen1-to-dataflow-gen2 (2024-12-18 10:58 PM)
+        ✘ Migrate from ADF and Power BI https://learn.microsoft.com/en-us/fabric/data-factory/upgrade-paths (2024-12-18 10:58 PM) @cancelled
+        ✘ Move queries from Dataflow Gen1 to Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/move-dataflow-gen1-to-dataflow-gen2 (2024-12-18 10:58 PM) @cancelled
         ✘ How to ingest data from ADF to Fabric https://learn.microsoft.com/en-us/fabric/data-factory/how-to-ingest-data-into-fabric-from-azure-data-factory (2024-09-20 11:07 AM) @cancelled
         ✘ Migrate from Dataflow Gen1 to Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1 (2024-12-09 12:04 PM) @cancelled
         ✘ Migrate to Dataflow Gen2 scenarios https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1-scenarios (2024-12-09 06:13 PM) @cancelled
@@ -419,7 +419,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
                     ☐ Change the gateway service account https://learn.microsoft.com/data-integration/gateway/service-gateway-service-account?toc=/fabric/data-factory/toc.json (2024-05-06 10:02 PM)
                     ☐ Set the data center region https://learn.microsoft.com/data-integration/gateway/service-gateway-data-region?toc=/fabric/data-factory/toc.json (2024-05-06 10:02 PM)
                     ☐ Set the Azure Relay https://learn.microsoft.com/data-integration/gateway/service-gateway-azure-relay?toc=/fabric/data-factory/toc.json (2024-05-06 10:02 PM)
-                    ☐ Adjust communication settings https://learn.microsoft.com/data-integration/gateway/service-gateway-communication?toc=/fabric/data-factory/toc.json (2024-10-17 04:02 PM)
+                    ✘ Adjust communication settings https://learn.microsoft.com/data-integration/gateway/service-gateway-communication?toc=/fabric/data-factory/toc.json (2024-10-17 04:02 PM) @cancelled
                     ☐ Configure the gateway log file https://learn.microsoft.com/data-integration/gateway/service-gateway-log-files?toc=/fabric/data-factory/toc.json (2024-05-06 10:02 PM)
                     ☐ Adjust performance based on CPU https://learn.microsoft.com/data-integration/gateway/service-gateway-performance-cpu?toc=/fabric/data-factory/toc.json (2024-05-06 10:02 PM)
                     ☐ Configure gateway disk space https://learn.microsoft.com/data-integration/gateway/service-gateway-configure-disk-space?toc=/fabric/data-factory/toc.json (2024-09-30 10:01 PM)
@@ -594,7 +594,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
 
         ☐ What's new in Data Factory https://learn.microsoft.com/en-us/fabric/get-started/whats-new?toc=/fabric/data-factory/toc.json#data-factory-in-microsoft-fabric (2025-01-22 10:58 PM)
         ✘ How to access on-premises Data https://learn.microsoft.com/en-us/fabric/data-factory/how-to-access-on-premises-data (2025-01-22 12:21 PM) @cancelled
-        ☐ Activity Continuity between ADF and Data Factory in Fabric https://learn.microsoft.com/en-us/fabric/data-factory/activity-parity (2025-01-22 10:58 PM)
+        ✘ Activity Continuity between ADF and Data Factory in Fabric https://learn.microsoft.com/en-us/fabric/data-factory/activity-parity (2025-01-22 10:58 PM) @cancelled
                 ✘ Supported monthly updates https://learn.microsoft.com/data-integration/gateway/service-gateway-monthly-updates?toc=/fabric/data-factory/toc.json (2025-01-22 05:02 PM) @cancelled
         ✘ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2025-01-22 06:04 PM) @cancelled
 
@@ -618,8 +618,8 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
         ☐ Operationalize Data Factory https://learn.microsoft.com/en-us/fabric/data-factory/transform-data (2025-01-26 12:09 PM)
         ☐ Decide - Copy activity, dataflow, or Spark? https://learn.microsoft.com/en-us/fabric/fundamentals/decision-guide-pipeline-dataflow-spark (2025-01-26 12:09 PM)
         ☐ Bring Azure Data Factory to Fabric https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-bring-azure-data-factory-to-fabric (2025-01-26 12:09 PM)
-        ☐ How to ingest data from ADF to Fabric https://learn.microsoft.com/en-us/fabric/data-factory/how-to-ingest-data-into-fabric-from-azure-data-factory (2025-01-26 12:09 PM)
-        ☐ Migrate from Dataflow Gen1 to Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1 (2025-01-26 12:09 PM)
+        ✘ How to ingest data from ADF to Fabric https://learn.microsoft.com/en-us/fabric/data-factory/how-to-ingest-data-into-fabric-from-azure-data-factory (2025-01-26 12:09 PM) @cancelled
+        ✘ Migrate from Dataflow Gen1 to Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1 (2025-01-26 12:09 PM) @cancelled
             ☐ Module 1 - Create a pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-pipeline (2025-01-26 12:09 PM)
         ☐ Connector overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-overview (2025-01-26 12:09 PM)
         ☐ Data pipeline connectors https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-support (2025-01-26 12:09 PM)
@@ -686,7 +686,7 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
                 ☐ Supported monthly updates https://learn.microsoft.com/data-integration/gateway/service-gateway-monthly-updates?toc=/fabric/data-factory/toc.json (2025-01-28 05:01 PM)
             ✘ Migrate from Azure Workflow Orchestration Manager https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-migrate-azure-workflow-orchestration-manager (2025-01-29 11:02 PM) @cancelled
             ✘ Use AI to build DAGs from an image https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-job-build-dags-using-azure-openai (2025-01-29 11:02 PM) @cancelled
-        ☐ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2025-01-29 12:18 PM)
+        ✘ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2025-01-29 12:18 PM) @cancelled
 
 
 ---
@@ -695,4 +695,20 @@ Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft L
             ✔ Dataflow Gen2 with CICD and Git integration https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-cicd-and-git-integration (2025-01-30 11:02 PM) @done(25-01-31 23:12)
             ✔ Migrate from Azure Workflow Orchestration Manager https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-migrate-azure-workflow-orchestration-manager (2025-01-30 11:02 PM) @done(25-01-31 23:12)
             ✔ Use AI to build DAGs from an image https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-job-build-dags-using-azure-openai (2025-01-30 11:02 PM) @done(25-01-31 23:14)
+
+
+---
+
+        ☐ Migration paths from ADF and Power BI https://learn.microsoft.com/en-us/fabric/data-factory/upgrade-paths (2024-12-18 10:58 PM)
+        Pipelines:
+            ☐ Planning your migration from ADF https://learn.microsoft.com/en-us/fabric/data-factory/migrate-planning-azure-data-factory (2025-01-31 06:08 PM)
+            ☐ Migrate from ADF https://learn.microsoft.com/en-us/fabric/data-factory/migrate-from-azure-data-factory (2025-01-31 11:03 PM)
+            ☐ How to ingest data from ADF to Fabric https://learn.microsoft.com/en-us/fabric/data-factory/how-to-ingest-data-into-fabric-from-azure-data-factory (2025-01-26 12:09 PM)
+            ☐ Activity Continuity between ADF and Data Factory in Fabric https://learn.microsoft.com/en-us/fabric/data-factory/activity-parity (2025-01-22 10:58 PM)
+        Dataflows:
+            ☐ Move queries from Dataflow Gen1 to Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/move-dataflow-gen1-to-dataflow-gen2 (2024-12-18 10:58 PM)
+            ☐ Migrate from Dataflow Gen1 to Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1 (2025-01-26 12:09 PM)
+            ☐ Migrate to Dataflow Gen2 scenarios https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1-scenarios (2024-12-09 06:13 PM)
+                    ☐ Adjust communication settings https://learn.microsoft.com/data-integration/gateway/service-gateway-communication?toc=/fabric/data-factory/toc.json (2025-01-31 05:01 PM)
+        ☐ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2025-01-31 06:08 PM)
 

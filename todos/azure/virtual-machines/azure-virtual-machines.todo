@@ -563,7 +563,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                 ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpccompute-gpu-linux (2024-12-19 10:58 PM)
                 ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpccompute-gpu-windows (2024-12-11 05:31 AM)
             AMD GPU Drivers:
-                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpccompute-amd-gpu-windows (2024-11-19 06:02 PM)
+                ✘ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpccompute-amd-gpu-windows (2024-11-19 06:02 PM) @cancelled
             Azure Monitor:
                 ✘ Azure Monitor agent https://learn.microsoft.com/azure/azure-monitor/agents/azure-monitor-agent-manage?toc=/azure/virtual-machines/toc.json (2024-12-09 05:37 AM) @cancelled
                 ☐ Diagnostics extension https://learn.microsoft.com/azure/azure-monitor/agents/diagnostics-extension-overview?toc=/azure/virtual-machines/toc.json (2024-11-14 11:04 PM)
@@ -1139,7 +1139,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 ---
 
                     ✘ Mbsv3 and Mbdsv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mbsv3-mbdsv3-series (2025-01-13 11:00 PM) @cancelled
-                    ☐ Msv3 and Mdsv3 High Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/msv3-mdsv3-high-memory-series (2025-01-13 11:00 PM)
+                    ✘ Msv3 and Mdsv3 High Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/msv3-mdsv3-high-memory-series (2025-01-13 11:00 PM) @cancelled
                     ☐ Mdsv3 Very High Memory Series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mdsv3-very-high-memory-series (2025-01-13 11:00 PM)
         ✘ Best practices for achieving high availability https://learn.microsoft.com/en-us/azure/virtual-machines/disks-high-availability @cancelled
             ☐ Disk Storage reservations https://learn.microsoft.com/azure/cost-management-billing/reservations/understand-disk-reservations?toc=/azure/virtual-machines/toc.json (2025-01-13 11:06 PM)
@@ -1287,7 +1287,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 
 ---
 
-            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-30 12:36 PM)
+            ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-30 12:36 PM) @cancelled
                     ☐ Dpdsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpdsv6-series (2025-01-30 11:03 PM)
                     ☐ Dpldsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpldsv6-series (2025-01-30 11:03 PM)
             ☐ Overview https://learn.microsoft.com/azure/reliability/availability-zones-overview?toc=/azure/virtual-machines/toc.json (2025-01-30 12:22 PM)
@@ -1296,4 +1296,13 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                 ☐ Portal https://learn.microsoft.com/azure/backup/quick-backup-vm-portal?toc=/azure/virtual-machines/toc.json (2025-01-30 06:05 PM)
                 ☐ Template https://learn.microsoft.com/azure/backup/quick-backup-vm-template?toc=/azure/virtual-machines/toc.json (2025-01-30 06:05 PM)
         ☐ Architecture center https://learn.microsoft.com/azure/architecture/ (2025-01-30 06:35 PM)
+
+
+---
+
+            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-31 12:39 PM)
+            ☐ HPC on Azure https://learn.microsoft.com/azure/architecture/topics/high-performance-computing/ (2024-12-12 06:32 PM)
+                    ☐ Msv3 and Mdsv3 High Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/msv3-mdsv3-high-memory-series (2025-01-31 11:04 PM)
+            ☐ Handle Spot Evictions https://learn.microsoft.com/azure/architecture/guide/spot/spot-eviction (2025-01-29 06:32 PM)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpccompute-amd-gpu-windows (2025-01-31 11:04 PM)
 

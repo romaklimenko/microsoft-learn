@@ -44,7 +44,7 @@ Azure Virtual Network Manager documentation | Microsoft Learn:
             ☐ Block network traffic - Portal https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-block-network-traffic-portal (2024-12-12 05:33 AM)
             ☐ Block network traffic -PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-block-network-traffic-powershell (2024-08-01 05:04 PM)
             ☐ Protect high-risk network ports with security admin rules and exceptions https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-block-high-risk-ports (2024-12-12 05:33 AM)
-        ☐ Create user-defined routes (UDRs) https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-user-defined-route (2024-12-12 05:33 AM)
+        ✘ Create user-defined routes (UDRs) https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-user-defined-route (2024-12-12 05:33 AM) @cancelled
         Create a network topology:
             Hub-and-spoke:
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke (2024-12-11 06:03 PM)
@@ -63,9 +63,9 @@ Azure Virtual Network Manager documentation | Microsoft Learn:
             ☐ Define dynamic network group membership with Azure Policy https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-define-network-group-membership-azure-policy (2024-12-11 06:03 PM)
             ☐ Verify resource reachability https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-verify-reachability-with-virtual-network-verifier (2024-12-12 05:33 AM)
         User-defined routes (UDRs) management:
-            ☐ Create user-defined routes (UDRs) https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-user-defined-route (2024-12-12 05:33 AM)
+            ✘ Create user-defined routes (UDRs) https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-user-defined-route (2024-12-12 05:33 AM) @cancelled
             ☐ Deploy hub and spoke topology with Azure Firewall https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-deploy-hub-spoke-topology-with-azure-firewall (2024-12-12 05:33 AM)
-            ☐ Manage User-defined Routes (UDRs) across multiple hub-and-spoke topologies https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-manage-user-defined-routes-multiple-hub-spoke-topologies (2024-11-07 05:33 AM)
+            ✘ Manage User-defined Routes (UDRs) across multiple hub-and-spoke topologies https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-manage-user-defined-routes-multiple-hub-spoke-topologies (2024-11-07 05:33 AM) @cancelled
         ☐ Common issues https://learn.microsoft.com/en-us/azure/virtual-network-manager/common-issues (2024-08-01 05:04 PM)
     Reference:
         ☐ Code samples https://azure.microsoft.com/resources/samples/?service=virtual-network-manager (2024-11-01 08:16 PM)
@@ -126,11 +126,19 @@ Azure Virtual Network Manager documentation | Microsoft Learn:
         ☐ Common use cases for Azure Virtual Network Manager https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-use-cases (2025-01-16 11:03 PM)
         ☐ Use cases https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-use-cases (2025-01-16 11:03 PM)
         ✘ IP address management https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-ip-address-management (2025-01-16 11:03 PM) @cancelled
-            ☐ User-defined routes (UDRs) management https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-user-defined-route (2025-01-16 11:03 PM)
+            ✘ User-defined routes (UDRs) management https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-user-defined-route (2025-01-16 11:03 PM) @cancelled
 
 
 ---
 
         ☐ Create Virtual Network Manager - PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-powershell (2025-01-30 11:06 PM)
         ☐ IP address management https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-ip-address-management (2025-01-30 11:06 PM)
+
+
+---
+
+            ☐ User-defined routes (UDRs) management https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-user-defined-route (2025-01-31 11:06 PM)
+        ☐ Create user-defined routes (UDRs) https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-user-defined-route (2025-01-31 11:06 PM)
+            ☐ Create user-defined routes (UDRs) https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-user-defined-route (2025-01-31 11:06 PM)
+            ☐ Manage User-defined Routes (UDRs) across multiple hub-and-spoke topologies https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-manage-user-defined-routes-multiple-hub-spoke-topologies (2025-01-31 11:06 PM)
 

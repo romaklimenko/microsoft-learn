@@ -81,16 +81,16 @@ Network Watcher Documentation | Microsoft Learn:
                 ☐ Visualize network traffic patterns using open source tools https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-using-open-source-tools (2024-10-24 05:35 AM)
         Log network traffic:
             Manage NSG flow logs:
-                ☐ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-portal (2024-09-26 10:04 PM)
+                ✘ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-portal (2024-09-26 10:04 PM) @cancelled
                 ☐ PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-powershell (2024-09-26 10:04 PM)
-                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-cli (2024-09-26 10:04 PM)
+                ✘ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-cli (2024-09-26 10:04 PM) @cancelled
                 ☐ REST https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-rest (2024-11-01 10:03 PM)
                 ☐ ARM template https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-azure-resource-manager (2024-11-01 10:03 PM)
                 ✘ Built-in Policy https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-policy-portal (2024-12-17 05:33 AM) @cancelled
             Manage VNet flow logs:
-                ☐ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-portal (2024-09-11 06:38 PM)
+                ✘ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-portal (2024-09-11 06:38 PM) @cancelled
                 ☐ PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-powershell (2024-11-11 06:07 PM)
-                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-cli (2024-08-04 11:36 AM)
+                ✘ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-cli (2024-08-04 11:36 AM) @cancelled
                 ✘ Built-in Policy https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-policy (2024-08-04 11:36 AM) @cancelled
             ✘ Migrate NSG flow logs https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-migrate (2024-10-28 10:05 PM) @cancelled
             ☐ Read flow logs https://learn.microsoft.com/en-us/azure/network-watcher/flow-logs-read (2024-11-01 10:03 PM)
@@ -253,7 +253,7 @@ Network Watcher Documentation | Microsoft Learn:
 
             ☐ Update to latest version https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-agent-update (2025-01-24 11:02 PM)
             ☐ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-create-using-portal (2025-01-24 11:02 PM)
-            ☐ Manage packet captures https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-manage (2025-01-24 11:02 PM)
+            ✘ Manage packet captures https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-manage (2025-01-24 11:02 PM) @cancelled
 
 
 ---
@@ -275,5 +275,15 @@ Network Watcher Documentation | Microsoft Learn:
         ☐ Packet capture https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-overview (2025-01-29 11:43 PM)
                 ☐ PowerShell https://learn.microsoft.com/en-us/azure/network-watcher/vpn-troubleshoot-powershell (2025-01-29 11:43 PM)
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/vpn-troubleshoot-cli (2025-01-29 11:43 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/network (2025-01-30 12:08 PM)
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/network (2025-01-30 12:08 PM) @cancelled
+
+
+---
+
+            ☐ Manage packet captures https://learn.microsoft.com/en-us/azure/network-watcher/packet-capture-manage (2025-01-31 11:06 PM)
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-portal (2025-01-31 11:06 PM)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/nsg-flow-logs-cli (2025-01-31 11:06 PM)
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-portal (2025-01-31 11:06 PM)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/network-watcher/vnet-flow-logs-cli (2025-01-31 11:06 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/network (2025-01-31 12:04 PM)
 

@@ -3,7 +3,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
     ☐ Switch to dedicated SQL pool (formerly SQL DW) > https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-overview-what-is (2024-10-07 10:04 PM)
     Overview:
         ✘ What is Azure Synapse? https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-what-is (2024-08-01 11:20 AM) @cancelled
-        ☐ Terminology https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-terminology (2024-08-01 11:20 AM)
+        ✘ Terminology https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-terminology (2024-08-01 11:20 AM) @cancelled
         ✘ FAQ https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-faq (2024-10-07 10:04 PM) @cancelled
     Quickstarts:
         ☐ Get started https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started (2024-11-08 11:02 PM)
@@ -12,7 +12,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
         ✘ 3 Analyze using a Data Explorer pool https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-data-explorer (2024-08-01 05:35 AM) @cancelled
         ☐ 4 Analyze using a serverless Spark pool https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-spark (2024-11-20 11:04 PM)
         ☐ 5 Analyze using a dedicated SQL pool https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-sql-pool (2024-12-18 06:03 PM)
-        ☐ 6 Analyze data in a storage account https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-storage (2024-12-18 06:03 PM)
+        ✘ 6 Analyze data in a storage account https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-storage (2024-12-18 06:03 PM) @cancelled
         ☐ 7 Integrate with pipelines https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started-pipelines (2024-12-11 11:02 PM)
         ☐ 8 Visualize with Power BI https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started-visualize-power-bi (2024-12-18 06:03 PM)
         ☐ 9 Monitor https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started-monitor (2024-08-01 05:35 AM)
@@ -34,7 +34,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             Shared metadata management:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/metadata/overview (2024-08-01 11:20 AM)
                 Metadata objects:
-                    ☐ Shared databases https://learn.microsoft.com/en-us/azure/synapse-analytics/metadata/database (2024-08-01 11:20 AM)
+                    ✘ Shared databases https://learn.microsoft.com/en-us/azure/synapse-analytics/metadata/database (2024-08-01 11:20 AM) @cancelled
                     ☐ Shared tables https://learn.microsoft.com/en-us/azure/synapse-analytics/metadata/table (2024-10-16 05:09 PM)
                 Code artifacts:
                     ✘ Apache Spark Notebooks https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-development-using-notebooks (2024-09-12 05:35 AM) @cancelled
@@ -53,7 +53,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ✘ Gateway IP addresses https://learn.microsoft.com/en-us/azure/synapse-analytics/security/gateway-ip-addresses (2024-10-24 05:04 PM) @cancelled
                     ✘ Synapse workspace Managed virtual network https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-managed-vnet (2024-08-01 05:35 AM) @cancelled
                     ☐ Synapse workspace Managed private endpoints https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-managed-private-endpoints (2024-11-20 11:04 PM)
-                    ☐ Synapse workspace data exfiltration protection https://learn.microsoft.com/en-us/azure/synapse-analytics/security/workspace-data-exfiltration-protection (2024-08-01 05:35 AM)
+                    ✘ Synapse workspace data exfiltration protection https://learn.microsoft.com/en-us/azure/synapse-analytics/security/workspace-data-exfiltration-protection (2024-08-01 05:35 AM) @cancelled
                     ☐ Synapse workspace with private link hubs https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-private-link-hubs (2024-08-01 05:35 AM)
                     ☐ Connect to a secured storage account https://learn.microsoft.com/en-us/azure/synapse-analytics/security/connect-to-a-secure-storage-account (2024-08-01 05:35 AM)
                 Authentication and pass-through:
@@ -87,9 +87,9 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Connect to Synapse workspace from restricted network https://learn.microsoft.com/en-us/azure/synapse-analytics/security/how-to-connect-to-workspace-from-restricted-network (2024-08-01 05:35 AM)
             Troubleshoot:
                 ✘ Azure Synapse Analytics known issues https://learn.microsoft.com/en-us/azure/synapse-analytics/known-issues (2024-11-11 06:07 PM) @cancelled
-                ☐ Troubleshoot Synapse Studio https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio (2024-08-01 05:35 AM)
-                ☐ Troubleshoot Synapse Studio connectivity issues https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio-powershell (2024-11-20 11:04 PM)
-                ☐ Troubleshoot connectivity between Synapse Studio and storage https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio-and-storage-connectivity (2024-08-01 05:35 AM)
+                ✘ Troubleshoot Synapse Studio https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio (2024-08-01 05:35 AM) @cancelled
+                ✘ Troubleshoot Synapse Studio connectivity issues https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio-powershell (2024-11-20 11:04 PM) @cancelled
+                ✘ Troubleshoot connectivity between Synapse Studio and storage https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio-and-storage-connectivity (2024-08-01 05:35 AM) @cancelled
                 ☐ Troubleshoot workspaces created by SDK https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/workspaces-created-by-sdk (2024-08-01 05:35 AM)
                 ☐ Troubleshoot reading UTF-8 text https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/reading-utf8-text (2024-08-01 05:35 AM)
                 ☐ Troubleshoot Spark job failures https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-handle-livy-error (2024-08-01 05:35 AM)
@@ -168,7 +168,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Clean up cache https://learn.microsoft.com/sql/t-sql/database-console-commands/dbcc-dropresultsetcache-transact-sql?context=/azure/synapse-analytics/context/context&view=azure-sqldw-latest&preserve-view=true (2023-01-13 11:32 PM)
                 ☐ Machine learning predictions https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-predict?context=/azure/synapse-analytics/context/context (2024-08-28 07:22 PM)
                 Tables:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-overview (2024-08-01 11:20 AM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-overview (2024-08-01 11:20 AM) @cancelled
                     ☐ CETAS https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-cetas (2024-10-14 05:05 PM)
                     ✘ CTAS https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-develop-ctas?context=/azure/synapse-analytics/context/context (2024-08-01 05:35 AM) @cancelled
                     ☐ Data types https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-data-types (2024-12-18 06:03 PM)
@@ -176,7 +176,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Table constraints https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-table-constraints?context=/azure/synapse-analytics/context/context (2024-12-17 06:04 PM)
                     ✘ External tables https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-external-tables (2024-08-01 05:35 AM) @cancelled
                     ✘ Indexes https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-index?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM) @cancelled
-                    ☐ Identity https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-identity?context=/azure/synapse-analytics/context/context (2024-08-01 05:35 AM)
+                    ✘ Identity https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-identity?context=/azure/synapse-analytics/context/context (2024-08-01 05:35 AM) @cancelled
                     ☐ OPENROWSET https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-openrowset (2024-09-18 05:37 AM)
                     ✘ Partitions https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-partition?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM) @cancelled
                     ☐ Replicated tables https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-guidance-for-replicated-tables?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
@@ -256,14 +256,14 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Continuous integration and deployment https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-continuous-integration-and-deployment?context=/azure/synapse-analytics/context/context (2024-08-02 05:38 AM)
                 ☐ Deploy linked ARM templates with VSTS https://learn.microsoft.com/en-us/azure/data-factory/deploy-linked-arm-templates-with-vsts (2024-10-04 11:22 AM)
             Query external data:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-data-storage (2024-10-01 05:10 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-data-storage (2024-10-01 05:10 PM) @cancelled
                 ☐ Query CSV files https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-single-csv-file (2024-12-17 06:04 PM)
                 ☐ Query Parquet files https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-parquet-files (2024-12-17 06:04 PM)
                 ☐ Query JSON files https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-json-files (2024-08-01 05:35 AM)
                 ☐ Query nested types https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-parquet-nested-types (2024-12-17 06:04 PM)
                 ☐ Query Delta Lake https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-delta-lake-format (2024-12-18 06:03 PM)
-                ☐ Query folders and multiple files https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-folders-multiple-csv-files (2024-08-01 05:35 AM)
-                ☐ Query partitioned files using file metadata https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-specific-files (2024-08-01 05:35 AM)
+                ✘ Query folders and multiple files https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-folders-multiple-csv-files (2024-08-01 05:35 AM) @cancelled
+                ✘ Query partitioned files using file metadata https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-specific-files (2024-08-01 05:35 AM) @cancelled
                 ☐ Create and use views https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/create-use-views (2024-12-12 06:02 PM)
                 ☐ Create and use external tables https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/create-use-external-tables (2024-12-12 06:02 PM)
                 ☐ Store query results to storage https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/create-external-table-as-select (2024-08-01 11:20 AM)
@@ -2369,4 +2369,19 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Query results cache https://learn.microsoft.com/kusto/query/query-results-cache?view=azure-data-explorer&preserve-view=true (2025-01-30 12:11 PM)
                 ☐ Query limits https://learn.microsoft.com/kusto/concepts/query-limits?view=azure-data-explorer&preserve-view=true (2025-01-30 12:11 PM)
                 ☐ Request limits policy https://learn.microsoft.com/kusto/management/request-limits-policy?view=azure-data-explorer&preserve-view=true (2025-01-30 12:11 PM)
+
+
+---
+
+        ☐ Terminology https://learn.microsoft.com/en-us/azure/synapse-analytics/overview-terminology (2025-01-31 11:06 PM)
+        ☐ 6 Analyze data in a storage account https://learn.microsoft.com/en-us/azure/synapse-analytics/get-started-analyze-storage (2025-01-30 11:06 PM)
+                    ☐ Shared databases https://learn.microsoft.com/en-us/azure/synapse-analytics/metadata/database (2025-01-31 11:06 PM)
+                    ☐ Synapse workspace data exfiltration protection https://learn.microsoft.com/en-us/azure/synapse-analytics/security/workspace-data-exfiltration-protection (2025-01-31 06:19 PM)
+                ☐ Troubleshoot Synapse Studio https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio (2025-01-31 06:19 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-overview (2025-01-31 11:06 PM)
+                    ☐ Identity https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-identity?context=/azure/synapse-analytics/context/context (2025-01-31 11:06 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-data-storage (2025-01-31 11:06 PM)
+                ☐ Query folders and multiple files https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-folders-multiple-csv-files (2025-01-31 11:06 PM)
+                ☐ Use file metadata in queries https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/query-specific-files (2025-01-31 11:06 PM)
+                ☐ Troubleshoot serverless SQL pools https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/resources-self-help-sql-on-demand (2025-01-30 11:06 PM)
 

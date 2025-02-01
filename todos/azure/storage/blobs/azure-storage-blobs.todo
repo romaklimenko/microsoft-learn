@@ -1418,11 +1418,11 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ☐ Route events to a custom endpoint https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart (2024-06-27 05:04 PM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/storage-samples-blobs-powershell (2023-09-12 11:19 AM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/storage-samples-blobs-cli (2023-09-12 11:19 AM)
-                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-30 12:36 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-30 12:08 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-30 12:10 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-30 12:08 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-30 12:10 PM)
+                    ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-30 12:36 PM) @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-30 12:08 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-30 12:10 PM) @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-30 12:08 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-30 12:10 PM) @cancelled
             ☐ Query acceleration reference https://learn.microsoft.com/en-us/azure/storage/blobs/query-acceleration-sql-reference (2024-11-26 11:03 PM)
                 ☐ Configure settings https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-configuration?toc=/azure/storage/blobs/toc.json (2024-12-13 11:03 PM)
                     ☐ The BlobFuse2 command set https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands?toc=/azure/storage/blobs/toc.json (2024-05-03 11:20 AM)
@@ -1486,11 +1486,11 @@ Azure Blob Storage documentation | Microsoft Learn:
             ☐ Use with Apache Hive and HDInsight https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-tutorial-extract-transform-load-hive (2024-11-26 11:03 PM)
             ☐ Use with Databricks Delta and Event Grid https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-events (2024-11-26 11:03 PM)
             ☐ Use with other Azure services https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-integrate-with-services-tutorials (2024-11-26 11:03 PM)
-                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-30 12:36 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-30 12:08 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-30 12:10 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-30 12:08 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-30 12:10 PM)
+                ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-30 12:36 PM) @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-30 12:08 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-30 12:10 PM) @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-30 12:08 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-30 12:10 PM) @cancelled
         ☐ Query acceleration reference https://learn.microsoft.com/en-us/azure/storage/blobs/query-acceleration-sql-reference (2024-11-26 11:03 PM)
             ☐ Configure settings https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-configuration?toc=/azure/storage/blobs/toc.json (2024-12-13 11:03 PM)
                 ☐ The BlobFuse2 command set https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands?toc=/azure/storage/blobs/toc.json (2024-05-03 11:20 AM)
@@ -1511,4 +1511,21 @@ Azure Blob Storage documentation | Microsoft Learn:
         ☐ Monitoring data https://learn.microsoft.com/en-us/azure/storage/blobs/monitor-blob-storage-reference (2024-11-06 05:33 AM)
         ☐ Host keys (SFTP) support https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-host-keys (2025-01-27 06:03 PM)
         ☐ FAQ https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-faq (2024-11-27 05:32 AM)
+
+
+---
+
+            ☐ Storage accounts overview https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-31 12:25 PM)
+                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-31 12:39 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-31 12:04 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-31 12:06 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-31 12:04 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-31 12:06 PM)
+                ☐ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2025-01-23 12:08 PM)
+                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-31 12:39 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-31 12:04 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-31 12:06 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-31 12:04 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-31 12:06 PM)
+            ☐ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2025-01-23 12:08 PM)
 
