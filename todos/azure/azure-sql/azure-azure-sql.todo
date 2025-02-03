@@ -148,7 +148,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ✘ With ledger and digest storage https://learn.microsoft.com/en-us/azure/azure-sql/database/ledger-create-a-single-database-with-ledger-enabled (2024-11-25 11:30 PM) @cancelled
                 ✘ With user-assigned managed identity https://learn.microsoft.com/en-us/azure/azure-sql/database/authentication-azure-ad-user-assigned-managed-identity-create-server (2024-11-25 06:32 PM) @cancelled
             Configure:
-                ☐ Server-level IP firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/firewall-create-server-level-portal-quickstart (2024-09-18 10:34 PM)
+                ✘ Server-level IP firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/firewall-create-server-level-portal-quickstart (2024-09-18 10:34 PM) @cancelled
             Connect and query:
                 ☐ .NET with SqlClient https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-dotnet-quickstart (2024-09-23 05:32 PM)
                 ☐ .NET with EF Core https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-dotnet-entity-framework-core-quickstart (2024-11-19 06:31 PM)
@@ -198,7 +198,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ vCore model https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tiers-sql-database-vcore (2024-12-19 11:35 PM)
                 ☐ DTU model https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tiers-dtu (2024-09-27 10:32 PM)
             Connectivity:
-                ☐ Connectivity architecture https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-architecture (2024-07-31 05:33 PM)
+                ✘ Connectivity architecture https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-architecture (2024-07-31 05:33 PM) @cancelled
                 ✘ Connectivity settings https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-settings (2024-11-06 06:32 PM) @cancelled
             Local development:
                 ☐ Local development experience https://learn.microsoft.com/en-us/azure/azure-sql/database/local-dev-experience-overview (2024-09-06 05:32 PM)
@@ -233,8 +233,8 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ Monitor digest uploads https://learn.microsoft.com/sql/relational-databases/security/ledger/ledger-monitor-digest-uploads (2024-08-05 05:37 PM)
                     ☐ Recover ledger database after tampering https://learn.microsoft.com/sql/relational-databases/security/ledger/ledger-how-to-recover-after-tampering (2024-08-05 05:37 PM)
                     ☐ Ledger limitations https://learn.microsoft.com/sql/relational-databases/security/ledger/ledger-limits (2024-08-12 10:33 PM)
-                ☐ Network access controls https://learn.microsoft.com/en-us/azure/azure-sql/database/network-access-controls-overview (2024-12-04 11:34 PM)
-                ☐ Network Security Perimeter https://learn.microsoft.com/en-us/azure/azure-sql/database/network-security-perimeter (2024-11-19 01:21 PM)
+                ✘ Network access controls https://learn.microsoft.com/en-us/azure/azure-sql/database/network-access-controls-overview (2024-12-04 11:34 PM) @cancelled
+                ✘ Network Security Perimeter https://learn.microsoft.com/en-us/azure/azure-sql/database/network-security-perimeter (2024-11-19 01:21 PM) @cancelled
                 ✘ Outbound firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/outbound-firewall-rule-overview (2024-07-31 05:33 PM) @cancelled
                 Transparent data encryption (TDE):
                     ✘ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-tde-overview (2024-11-05 11:33 PM) @cancelled
@@ -242,7 +242,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ✘ Managed identities with CMK https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-identity (2024-07-31 05:33 PM) @cancelled
                     ☐ Cross-tenant CMK https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-cross-tenant (2024-07-31 05:33 PM)
                     ☐ Database level CMK https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-database-level-overview (2024-07-31 05:33 PM)
-                ☐ Private Link https://learn.microsoft.com/en-us/azure/azure-sql/database/private-endpoint-overview (2024-10-31 05:31 PM)
+                ✘ Private Link https://learn.microsoft.com/en-us/azure/azure-sql/database/private-endpoint-overview (2024-10-31 05:31 PM) @cancelled
                 ✘ VNet endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview (2024-07-31 05:33 PM) @cancelled
                 ☐ Server roles https://learn.microsoft.com/en-us/azure/azure-sql/database/security-server-roles (2024-07-31 05:33 PM)
             Business continuity:
@@ -1002,7 +1002,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ Request quota increases https://learn.microsoft.com/en-us/azure/azure-sql/database/quota-increase-request (2024-11-21 06:30 PM)
         Service updates:
             ☐ SSL root certificate expiring https://learn.microsoft.com/en-us/azure/azure-sql/updates/ssl-root-certificate-expiring (2024-08-12 10:33 PM)
-            ☐ Gateway IP address updates https://learn.microsoft.com/en-us/azure/azure-sql/database/gateway-migration (2024-07-31 05:33 PM)
+            ✘ Gateway IP address updates https://learn.microsoft.com/en-us/azure/azure-sql/database/gateway-migration (2024-07-31 05:33 PM) @cancelled
             ☐ Periodic maintenance events https://learn.microsoft.com/en-us/azure/azure-sql/database/planned-maintenance (2024-07-31 05:33 PM)
         ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=sql-database
         ☐ Service updates https://azure.microsoft.com/updates/?product=sql-database
@@ -1102,7 +1102,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ✘ Geo-distributed application https://learn.microsoft.com/en-us/azure/azure-sql/database/geo-distributed-application-configure-tutorial (2025-01-14 06:30 PM) @cancelled
             ✘ Logical servers https://learn.microsoft.com/en-us/azure/azure-sql/database/logical-servers (2025-01-14 06:30 PM) @cancelled
                 ✘ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-frequently-asked-questions-faq (2025-01-14 06:30 PM) @cancelled
-                ☐ Connectivity settings https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-settings (2025-01-14 06:30 PM)
+                ✘ Connectivity settings https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-settings (2025-01-14 06:30 PM) @cancelled
                     ☐ Auditing managed identity https://learn.microsoft.com/en-us/azure/azure-sql/database/auditing-managed-identity (2025-01-14 06:30 PM)
                 ✘ DNS aliases https://learn.microsoft.com/en-us/azure/azure-sql/database/dns-alias-overview (2025-01-14 06:30 PM) @cancelled
                 ✘ Outbound firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/outbound-firewall-rule-overview (2025-01-14 06:30 PM) @cancelled
@@ -1238,7 +1238,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Geo-distributed application https://learn.microsoft.com/en-us/azure/azure-sql/database/geo-distributed-application-configure-tutorial (2025-01-21 11:37 PM)
             ☐ Logical servers https://learn.microsoft.com/en-us/azure/azure-sql/database/logical-servers (2025-01-21 11:37 PM)
                 ☐ DNS aliases https://learn.microsoft.com/en-us/azure/azure-sql/database/dns-alias-overview (2025-01-21 11:37 PM)
-                ☐ Outbound firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/outbound-firewall-rule-overview (2025-01-21 11:37 PM)
+                ✘ Outbound firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/outbound-firewall-rule-overview (2025-01-21 11:37 PM) @cancelled
                 ✘ VNet endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview (2025-01-21 11:37 PM) @cancelled
                 ☐ Move sharded data https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-overview-split-and-merge (2025-01-21 11:37 PM)
                 ☐ Management API reference https://learn.microsoft.com/en-us/azure/azure-sql/database/single-database-manage (2025-01-21 11:37 PM)
@@ -1320,7 +1320,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 ---
 
                 ☐ SQL Vulnerability Assessment https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-overview?toc=/azure/azure-sql/toc.json (2025-01-27 12:09 PM)
-                ☐ VNet endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview (2025-01-27 06:30 PM)
+                ✘ VNet endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview (2025-01-27 06:30 PM) @cancelled
                     ☐ Enable vulnerability assessment https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-enable?toc=/azure/azure-sql/toc.json (2025-01-27 12:09 PM)
                     ☐ Manage vulnerability assessments https://learn.microsoft.com/azure/defender-for-cloud/sql-azure-vulnerability-assessment-manage?toc=/azure/azure-sql/toc.json (2025-01-27 12:09 PM)
 
@@ -1363,4 +1363,17 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 ---
 
             ☐ Custom roles https://learn.microsoft.com/data-migration/sql-server/virtual-machines/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
+
+
+---
+
+                ☐ Server-level IP firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/firewall-create-server-level-portal-quickstart (2025-01-31 11:34 PM)
+                ☐ Connectivity architecture https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-architecture (2025-01-31 11:34 PM)
+                ☐ Connectivity settings https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-settings (2025-01-31 11:34 PM)
+                ☐ Network access controls https://learn.microsoft.com/en-us/azure/azure-sql/database/network-access-controls-overview (2025-01-31 11:34 PM)
+                ☐ Network Security Perimeter https://learn.microsoft.com/en-us/azure/azure-sql/database/network-security-perimeter (2025-01-31 11:34 PM)
+                ☐ Outbound firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/outbound-firewall-rule-overview (2025-01-31 11:34 PM)
+                ☐ Private Link https://learn.microsoft.com/en-us/azure/azure-sql/database/private-endpoint-overview (2025-01-31 11:34 PM)
+                ☐ VNet endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview (2025-01-31 11:34 PM)
+            ☐ Gateway IP address updates https://learn.microsoft.com/en-us/azure/azure-sql/database/gateway-migration (2025-01-31 11:34 PM)
 

@@ -1011,7 +1011,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Proxy server guidelines https://learn.microsoft.com/azure/virtual-desktop/proxy-server-support (2024-08-12 05:05 PM)
                     ✘ Connection quality https://learn.microsoft.com/azure/virtual-desktop/connection-latency (2024-08-12 05:05 PM) @cancelled
                 ✘ Multiregion BCDR for AVD https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/azure-virtual-desktop/azure-virtual-desktop-multi-region-bcdr (2024-09-09 10:27 PM) @cancelled
-                ☐ AVD for Azure Local https://learn.microsoft.com/azure/virtual-desktop/azure-local-overview (2024-12-02 06:04 PM)
+                ✘ AVD for Azure Local https://learn.microsoft.com/azure/virtual-desktop/azure-local-overview (2024-12-02 06:04 PM) @cancelled
                 FSLogix guidance:
                     ☐ FSLogix configuration examples https://learn.microsoft.com/fslogix/concepts-configuration-examples (2023-12-05 10:01 PM)
                     ✘ FSLogix profile containers and files https://learn.microsoft.com/azure/virtual-desktop/fslogix-containers-azure-files (2024-08-22 05:04 PM) @cancelled
@@ -1729,15 +1729,15 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ Multiple Active Directory forests https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/azure-virtual-desktop/multi-forest (2024-09-09 10:27 PM)
                 ☐ Multiple forests with Microsoft Entra Domain Services https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/azure-virtual-desktop/multi-forest-azure-managed (2024-09-09 10:27 PM)
         ☐ Web applications https://learn.microsoft.com/en-us/azure/architecture/guide/web-apps/ (2024-09-09 10:27 PM)
-    ☐ Microsoft Azure Well-Architected Framework https://learn.microsoft.com/azure/well-architected/ (2025-01-08 05:59 PM)
+    ✘ Microsoft Azure Well-Architected Framework https://learn.microsoft.com/azure/well-architected/ (2025-01-08 05:59 PM) @cancelled
 
 
 ---
 
                     ✔ Apache HDFS migration to Azure https://learn.microsoft.com/en-us/azure/architecture/guide/guide/hadoop/apache-hdfs-migration (2024-09-09 10:27 PM) @done(25-01-12 22:07)
                     ✔ Support for VMware migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-vmware-migration (2025-01-10 05:33 AM) @done(25-01-12 22:07)
-                    ☐ Security design principles https://learn.microsoft.com/azure/well-architected/security/principles (2024-02-05 05:55 PM)
-                    ☐ Security patterns https://learn.microsoft.com/azure/well-architected/security/design-patterns (2024-10-10 10:00 PM)
+                    ✘ Security design principles https://learn.microsoft.com/azure/well-architected/security/principles (2024-02-05 05:55 PM) @cancelled
+                    ✘ Security patterns https://learn.microsoft.com/azure/well-architected/security/design-patterns (2024-10-10 10:00 PM) @cancelled
 
 
 ---
@@ -1792,7 +1792,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ✘ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2025-01-16 06:03 PM) @cancelled
                 ☐ DR and storage account failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2025-01-15 11:02 PM)
                     ☐ Disaster recovery and failover https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance (2025-01-15 11:02 PM)
-                    ☐ Server-side encryption https://learn.microsoft.com/azure/virtual-machines/disk-encryption (2025-01-17 05:34 AM)
+                    ✘ Server-side encryption https://learn.microsoft.com/azure/virtual-machines/disk-encryption (2025-01-17 05:34 AM) @cancelled
                     ☐ Overview https://learn.microsoft.com/azure/virtual-desktop/network-connectivity (2025-01-17 06:02 PM)
                     ☐ FSLogix profile containers and files https://learn.microsoft.com/azure/virtual-desktop/fslogix-containers-azure-files (2025-01-17 06:02 PM)
 
@@ -1885,4 +1885,11 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Onboard an AWS account https://learn.microsoft.com/azure/active-directory/cloud-infrastructure-entitlement-management/onboard-aws (2025-01-31 06:09 PM)
                     ☐ Onboard a Google Cloud project https://learn.microsoft.com/azure/active-directory/cloud-infrastructure-entitlement-management/onboard-gcp (2025-01-31 06:09 PM)
                 ☐ Storage accounts https://learn.microsoft.com/azure/storage/common/storage-account-overview (2025-01-31 12:25 PM)
+
+
+---
+
+                    ☐ Server-side encryption https://learn.microsoft.com/azure/virtual-machines/disk-encryption (2025-02-02 12:05 PM)
+                ☐ AVD for Azure Local https://learn.microsoft.com/azure/virtual-desktop/azure-local-overview (2025-02-02 12:10 PM)
+    ☐ Microsoft Azure Well-Architected Framework https://learn.microsoft.com/azure/well-architected/ (2025-01-31 11:04 PM)
 

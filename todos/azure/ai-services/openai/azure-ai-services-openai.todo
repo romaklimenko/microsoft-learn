@@ -9,7 +9,7 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
         ☐ Pricing https://azure.microsoft.com/pricing/details/cognitive-services/openai-service/
         ✘ What's new https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new (2024-12-18 10:58 PM) @cancelled
         ☐ Programming languages/SDKs https://learn.microsoft.com/en-us/azure/ai-services/openai/supported-languages (2024-11-19 06:01 PM)
-        ☐ Azure OpenAI FAQ https://learn.microsoft.com/en-us/azure/ai-services/openai/faq (2024-11-26 06:02 PM)
+        ✘ Azure OpenAI FAQ https://learn.microsoft.com/en-us/azure/ai-services/openai/faq (2024-11-26 06:02 PM) @cancelled
         ✘ Azure OpenAI in Azure Government https://learn.microsoft.com/en-us/azure/ai-services/openai/azure-government (2024-12-19 12:14 PM) @cancelled
     Quickstarts:
         ✘ Assistants (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart (2024-11-27 06:00 PM) @cancelled
@@ -44,7 +44,7 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
         ✘ Provisioned throughput units (PTU) https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput (2024-12-11 06:01 PM) @cancelled
         ✘ Azure OpenAI PTU update https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-migration (2024-11-21 06:03 PM) @cancelled
         ✘ Azure OpenAI PTU reservation update https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-reservation-update (2024-12-05 06:03 PM) @cancelled
-        ☐ Legacy models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/legacy-models (2024-08-28 04:59 PM)
+        ✘ Legacy models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/legacy-models (2024-08-28 04:59 PM) @cancelled
     How-to:
         ✘ API version lifecycle https://learn.microsoft.com/en-us/azure/ai-services/openai/api-version-deprecation (2024-12-13 05:32 AM) @cancelled
         Assistants (preview):
@@ -91,23 +91,23 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
             ✘ Troubleshooting and best practices https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/on-your-data-best-practices (2024-08-28 04:59 PM) @cancelled
         ✘ Use the Realtime API (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/realtime-audio (2024-12-20 12:06 PM) @cancelled
         ☐ Migrate to OpenAI Python v1.x https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/migration (2024-09-22 11:26 AM)
-        ☐ Migrate to OpenAI JavaScript v4.x https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/migration-javascript (2024-11-07 10:59 PM)
+        ✘ Migrate to OpenAI JavaScript v4.x https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/migration-javascript (2024-11-07 10:59 PM) @cancelled
         ☐ Migrate to Azure OpenAI .NET v2.0 https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/dotnet-migration (2024-11-19 11:00 PM)
         Models:
             ✘ Manage models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/working-with-models (2024-11-26 06:02 PM) @cancelled
         Networking and security:
-            ☐ Use virtual networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/openai/context/context (2024-11-20 06:02 PM)
+            ✘ Use virtual networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/openai/context/context (2024-11-20 06:02 PM) @cancelled
             ☐ Encryption of data at rest https://learn.microsoft.com/en-us/azure/ai-services/openai/encrypt-data-at-rest (2024-12-02 06:04 PM)
-            ☐ Managed identity https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/managed-identity (2024-08-28 04:59 PM)
+            ✘ Managed identity https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/managed-identity (2024-08-28 04:59 PM) @cancelled
         Service management:
-            ☐ Resource creation & model deployment https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource (2024-08-28 04:59 PM)
+            ✘ Resource creation & model deployment https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource (2024-08-28 04:59 PM) @cancelled
             ✘ OpenAI vs Azure OpenAI (Python) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/switching-endpoints (2024-08-30 05:04 PM) @cancelled
             ✘ Manage quota https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/quota (2024-11-26 06:02 PM) @cancelled
-            ☐ Dynamic quota https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/dynamic-quota (2024-09-20 10:00 PM)
+            ✘ Dynamic quota https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/dynamic-quota (2024-09-20 10:00 PM) @cancelled
             ✘ Monitor Azure OpenAI https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/monitor-openai (2024-11-26 06:02 PM) @cancelled
             ☐ Onboarding to Provisioned Throughput Units (PTU) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/provisioned-throughput-onboarding (2024-12-03 11:00 PM)
             ✘ Get started with Provisioned Deployments https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/provisioned-get-started (2024-12-05 06:03 PM) @cancelled
-            ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/manage-costs (2024-11-19 06:01 PM)
+            ✘ Plan and manage costs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/manage-costs (2024-11-19 06:01 PM) @cancelled
             ☐ Performance & latency https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/latency (2024-11-20 10:59 PM)
             ✘ Role-based access control (Azure RBAC) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/role-based-access-control (2024-12-18 06:01 PM) @cancelled
             ☐ Business continuity & disaster recovery (BCDR) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/business-continuity-disaster-recovery (2024-12-04 11:02 PM)
@@ -115,16 +115,16 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
         ☐ Embeddings https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/embeddings (2024-08-30 05:04 PM)
         ✘ Fine-tuning GPT-4o mini https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/fine-tune (2024-10-13 11:09 AM) @cancelled
     Security & Governance:
-        ☐ Use virtual networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/openai/context/context (2024-11-20 06:02 PM)
+        ✘ Use virtual networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/openai/context/context (2024-11-20 06:02 PM) @cancelled
         ☐ Encryption of data at rest https://learn.microsoft.com/en-us/azure/ai-services/openai/encrypt-data-at-rest (2024-12-02 06:04 PM)
-        ☐ Managed identity https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/managed-identity (2024-08-28 04:59 PM)
+        ✘ Managed identity https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/managed-identity (2024-08-28 04:59 PM) @cancelled
         ✘ Role-based access control (Azure RBAC) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/role-based-access-control (2024-12-18 06:01 PM) @cancelled
         ☐ Business continuity & disaster recovery (BCDR) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/business-continuity-disaster-recovery (2024-12-04 11:02 PM)
         Use your data:
             ✘ Network and access configuration https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/on-your-data-configuration (2024-12-19 06:03 PM) @cancelled
     Responsible AI:
         ☐ Overview https://learn.microsoft.com/legal/cognitive-services/openai/overview?context=/azure/ai-services/openai/context/context (2024-07-17 05:30 PM)
-        ☐ Transparency note https://learn.microsoft.com/legal/cognitive-services/openai/transparency-note?context=/azure/ai-services/openai/context/context (2024-12-17 06:30 PM)
+        ✘ Transparency note https://learn.microsoft.com/legal/cognitive-services/openai/transparency-note?context=/azure/ai-services/openai/context/context (2024-12-17 06:30 PM) @cancelled
         ☐ Limited access https://learn.microsoft.com/legal/cognitive-services/openai/limited-access?context=/azure/ai-services/openai/context/context (2024-07-23 05:30 PM)
         ☐ Code of conduct https://learn.microsoft.com/legal/cognitive-services/openai/code-of-conduct?context=/azure/ai-services/openai/context/context (2024-07-30 10:46 PM)
         ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/openai/data-privacy?context=/azure/ai-services/openai/context/context (2024-12-18 07:02 PM)
@@ -395,14 +395,32 @@ Azure OpenAI Service documentation - Quickstarts, Tutorials, API Reference - Azu
         ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits (2025-01-31 09:47 PM)
         ☐ Models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models (2025-01-31 09:47 PM)
         ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/openai/whats-new (2025-01-31 09:47 PM)
-            ☐ Reasoning models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/reasoning (2025-01-31 09:47 PM)
+            ✘ Reasoning models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/reasoning (2025-01-31 09:47 PM) @cancelled
             ☐ Function calling https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/function-calling (2025-01-31 09:47 PM)
             ☐ Structured outputs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/structured-outputs (2025-01-31 09:47 PM)
-            ☐ Azure OpenAI On Your Data https://learn.microsoft.com/en-us/azure/ai-services/openai/references/on-your-data (2024-12-02 11:02 PM)
+            ✘ Azure OpenAI On Your Data https://learn.microsoft.com/en-us/azure/ai-services/openai/references/on-your-data (2024-12-02 11:02 PM) @cancelled
             ☐ Data source - Azure AI Search https://learn.microsoft.com/en-us/azure/ai-services/openai/references/azure-search (2024-12-02 11:02 PM)
             ☐ Data source - Azure Cosmos DB for MongoDB vCore https://learn.microsoft.com/en-us/azure/ai-services/openai/references/cosmos-db (2024-12-02 11:02 PM)
             ☐ Data source - Azure Machine Learning index (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/references/azure-machine-learning (2025-01-28 11:09 PM)
             ☐ Data source - Elasticsearch (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/references/elasticsearch (2025-01-28 11:09 PM)
             ☐ Data source - Pinecone (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/references/pinecone (2025-01-28 11:09 PM)
             ☐ Data source - Mongo DB (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/references/mongo-db (2024-11-21 06:03 PM)
+
+
+---
+
+        ☐ Azure OpenAI FAQ https://learn.microsoft.com/en-us/azure/ai-services/openai/faq (2025-02-02 12:05 PM)
+        ☐ Legacy models https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/legacy-models (2025-01-31 11:04 PM)
+            ☐ Reasoning models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/reasoning (2025-01-31 11:04 PM)
+        ☐ Migrate to OpenAI JavaScript v4.x https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/migration-javascript (2025-01-31 11:04 PM)
+            ☐ Use virtual networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/openai/context/context (2025-02-02 12:05 PM)
+            ☐ Managed identity https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/managed-identity (2025-01-31 11:04 PM)
+            ☐ Resource creation & model deployment https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/create-resource (2025-01-31 11:04 PM)
+            ☐ Dynamic quota https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/dynamic-quota (2025-01-31 11:04 PM)
+            ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/manage-costs (2025-01-31 11:04 PM)
+        ☐ Use virtual networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/openai/context/context (2025-02-02 12:05 PM)
+        ☐ Managed identity https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/managed-identity (2025-01-31 11:04 PM)
+        ☐ Transparency note https://learn.microsoft.com/legal/cognitive-services/openai/transparency-note?context=/azure/ai-services/openai/context/context (2025-01-31 11:32 PM)
+            ☐ Azure OpenAI On Your Data https://learn.microsoft.com/en-us/azure/ai-services/openai/references/on-your-data (2025-02-02 12:05 PM)
+                ☐ C# https://learn.microsoft.com/dotnet/ai/get-started-app-chat-template (2025-02-02 09:48 AM)
 

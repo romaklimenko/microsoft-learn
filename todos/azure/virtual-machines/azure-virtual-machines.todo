@@ -1167,10 +1167,10 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
             ✘ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-01-17 12:27 PM) @cancelled
                     ✘ Dadsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dadsv6-series @cancelled
                     ☐ Mbsv3 and Mbdsv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mbsv3-mbdsv3-series (2025-01-17 06:00 PM)
-                ☐ Setup AMD GPU drivers https://learn.microsoft.com/en-us/azure/virtual-machines/windows/n-series-amd-driver-setup (2025-01-16 05:32 AM)
+                ✘ Setup AMD GPU drivers https://learn.microsoft.com/en-us/azure/virtual-machines/windows/n-series-amd-driver-setup (2025-01-16 05:32 AM) @cancelled
                 ☐ PowerShell and CLI https://learn.microsoft.com/en-us/azure/virtual-machines/move-virtual-machines-regional-zonal-powershell (2025-01-17 12:05 PM)
         ☐ Understand VM reboots https://learn.microsoft.com/en-us/azure/virtual-machines/understand-vm-reboots (2025-01-15 11:00 PM)
-                ☐ Server-side encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption (2025-01-17 05:34 AM)
+                ✘ Server-side encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption (2025-01-17 05:34 AM) @cancelled
             ✘ Disk performance tiers https://learn.microsoft.com/en-us/azure/virtual-machines/disks-change-performance (2025-01-16 05:32 AM) @cancelled
             ☐ Change disk performance tier https://learn.microsoft.com/en-us/azure/virtual-machines/disks-performance-tiers (2025-01-16 05:32 AM)
                 ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/migrate-to-premium-storage-using-azure-site-recovery (2025-01-17 12:05 PM)
@@ -1190,7 +1190,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 ---
 
                     ☐ Dadsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dadsv6-series (2024-12-20 10:58 PM)
-            ☐ Disk encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption-overview (2024-08-22 05:37 PM)
+            ✘ Disk encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption-overview (2024-08-22 05:37 PM) @cancelled
 
 
 ---
@@ -1205,7 +1205,7 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
 
                 ✘ REST with SSH https://learn.microsoft.com/rest/api/compute/virtual-machines/create-or-update?tabs=HTTP#create-a-vm-with-ssh-authentication (2025-01-21 11:00 PM) @cancelled
             ✘ Overview https://learn.microsoft.com/azure/reliability/availability-zones-overview?toc=/azure/virtual-machines/toc.json (2025-01-21 11:02 PM) @cancelled
-        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview (2025-01-21 11:03 PM)
+        ✘ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview (2025-01-21 11:03 PM) @cancelled
                 ☐ Overview https://learn.microsoft.com/azure/backup/disk-backup-overview?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
                 ☐ Configure Azure Disk Backup https://learn.microsoft.com/azure/backup/backup-managed-disks?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
                 ☐ Restore disks with Azure Disk Backup https://learn.microsoft.com/azure/backup/restore-managed-disks?toc=/azure/virtual-machines/toc.json (2025-01-21 12:07 PM)
@@ -1305,4 +1305,11 @@ Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
                     ☐ Msv3 and Mdsv3 High Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/msv3-mdsv3-high-memory-series (2025-01-31 11:04 PM)
             ☐ Handle Spot Evictions https://learn.microsoft.com/azure/architecture/guide/spot/spot-eviction (2025-01-29 06:32 PM)
                 ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpccompute-amd-gpu-windows (2025-01-31 11:04 PM)
+
+
+---
+
+                ☐ Setup AMD GPU drivers https://learn.microsoft.com/en-us/azure/virtual-machines/windows/n-series-amd-driver-setup (2025-02-02 12:05 PM)
+        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview (2025-02-02 12:05 PM)
+                ☐ Server-side encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption (2025-02-02 12:05 PM)
 

@@ -420,7 +420,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                             ✘ Version 4.0 https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-linux (2024-10-13 11:09 AM) @cancelled
                             ✘ Version 3.0 https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-linux-v3 (2024-10-13 11:09 AM) @cancelled
                             ☐ Collect metrics with Telegraf https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/collect-custom-metrics-linux-telegraf (2024-12-23 05:59 PM)
-            ☐ Custom metrics ingestion using REST https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-store-custom-rest-api (2024-11-12 06:03 PM)
+            ✘ Custom metrics ingestion using REST https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-store-custom-rest-api (2024-11-12 06:03 PM) @cancelled
             Logs ingestion API:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-monitor/logs/logs-ingestion-api-overview (2024-11-04 06:00 PM)
                 ☐ Configure with PowerShell https://learn.microsoft.com/en-us/azure/azure-monitor/logs/set-up-logs-ingestion-api-prerequisites (2024-09-11 04:50 PM)
@@ -754,7 +754,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
             ☐ Tables that support transformations https://learn.microsoft.com/en-us/azure/azure-monitor/logs/tables-feature-support (2024-09-11 04:50 PM)
             ☐ Tables that support the Basic table plan https://learn.microsoft.com/en-us/azure/azure-monitor/logs/basic-logs-azure-tables (2024-11-04 12:06 PM)
         ☐ Windows diagnostics extension schema https://learn.microsoft.com/en-us/azure/azure-monitor/agents/diagnostics-extension-schema-windows (2024-11-14 11:04 PM)
-        ☐ Azure Monitor Agent extension versions https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-extension-versions (2024-12-16 06:01 PM)
+        ✘ Azure Monitor Agent extension versions https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-extension-versions (2024-12-16 06:01 PM) @cancelled
         Application Insights:
             ☐ Application Insights data model https://learn.microsoft.com/en-us/azure/azure-monitor/app/data-model-complete (2024-09-11 04:50 PM)
             ☐ Statsbeat https://learn.microsoft.com/en-us/azure/azure-monitor/app/statsbeat (2024-09-25 04:59 PM)
@@ -1019,7 +1019,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                     ☐ Migration guidance https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-migration (2025-01-22 11:01 PM)
                     ☐ Migration custom text log tables https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-custom-text-log-migration (2025-01-23 05:37 AM)
             ☐ Dashboard using log data https://learn.microsoft.com/en-us/azure/azure-monitor/visualize/tutorial-logs-dashboards (2025-01-23 06:02 PM)
-            ☐ Metrics REST API Walkthrough https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/rest-api-walkthrough (2025-01-23 12:07 PM)
+            ✘ Metrics REST API Walkthrough https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/rest-api-walkthrough (2025-01-23 12:07 PM) @cancelled
             ✘ Migrate to the metrics getBatch API https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/migrate-to-batch-api (2025-01-23 12:07 PM) @cancelled
 
 
@@ -1123,7 +1123,7 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
 ---
 
         ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-monitor/whats-new (2025-01-31 12:07 PM)
-            ☐ Security https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM)
+            ✘ Security https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM) @cancelled
             ☐ Application Insights overview https://learn.microsoft.com/en-us/azure/azure-monitor/app/app-insights-overview (2025-01-31 12:07 PM)
                         ☐ ASP.NET Core App Monitoring https://learn.microsoft.com/en-us/azure/azure-monitor/app/asp-net-core (2025-01-31 12:07 PM)
                         ☐ Non-HTTP, console, and background apps https://learn.microsoft.com/en-us/azure/azure-monitor/app/worker-service (2025-01-31 12:07 PM)
@@ -1138,4 +1138,12 @@ Azure Monitor documentation - Azure Monitor | Microsoft Learn:
                             ☐ Version 3.0 https://learn.microsoft.com/azure/virtual-machines/extensions/diagnostics-linux-v3 (2024-10-13 11:09 AM)
             ☐ Network security perimeter https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/network-security-perimeter (2025-01-30 11:03 PM)
                     ☐ Metric alert on Azure Monitor Logs https://learn.microsoft.com/en-us/azure/azure-monitor/alerts/alerts-metric-logs (2025-01-31 12:07 PM)
+
+
+---
+
+            ☐ Custom metrics ingestion using REST https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/metrics-store-custom-rest-api (2025-02-02 12:06 PM)
+        ☐ Azure Monitor security overview and guidelines https://learn.microsoft.com/en-us/azure/azure-monitor/best-practices-security (2024-12-31 06:01 PM)
+            ☐ Metrics REST API Walkthrough https://learn.microsoft.com/en-us/azure/azure-monitor/essentials/rest-api-walkthrough (2025-02-02 12:06 PM)
+        ☐ Azure Monitor Agent extension versions https://learn.microsoft.com/en-us/azure/azure-monitor/agents/azure-monitor-agent-extension-versions (2025-01-31 11:04 PM)
 

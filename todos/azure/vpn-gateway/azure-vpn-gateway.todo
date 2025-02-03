@@ -57,8 +57,8 @@ VPN Gateway documentation | Microsoft Learn:
             ☐ Connect to multiple policy-based VPN devices https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-multiple-policybased-rm-ps (2024-10-15 10:04 PM)
         Site-to-site with ExpressRoute connections:
             Coexisting connections:
-                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-coexisting-gateway-portal?toc=/azure/vpn-gateway/toc.json (2024-11-04 11:02 PM)
-                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager?toc=/azure/vpn-gateway/toc.json (2024-08-01 05:04 PM)
+                ✘ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-coexisting-gateway-portal?toc=/azure/vpn-gateway/toc.json (2024-11-04 11:02 PM) @cancelled
+                ✘ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager?toc=/azure/vpn-gateway/toc.json (2024-08-01 05:04 PM) @cancelled
             ☐ VPN over private peering https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-vpn-private-peering (2024-08-23 05:14 PM)
         VNet-to-VNet:
             Configure VNet-to-VNet connections:
@@ -275,4 +275,10 @@ VPN Gateway documentation | Microsoft Learn:
 ---
 
                         ☐ OpenVPN client - iOS https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-ios (2025-01-31 06:19 PM)
+
+
+---
+
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-coexisting-gateway-portal?toc=/azure/vpn-gateway/toc.json (2025-02-02 12:10 PM)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager?toc=/azure/vpn-gateway/toc.json (2025-02-02 12:10 PM)
 
