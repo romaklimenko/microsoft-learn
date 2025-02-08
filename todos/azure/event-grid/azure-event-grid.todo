@@ -85,7 +85,7 @@ Azure Event Grid documentation | Microsoft Learn:
                         ☐ Azure CLI https://learn.microsoft.com/en-us/azure/event-grid/publish-deliver-events-with-namespace-topics-webhook (2024-06-27 05:04 PM)
                         ☐ Azure portal https://learn.microsoft.com/en-us/azure/event-grid/publish-deliver-events-with-namespace-topics-webhook-portal (2024-06-27 05:04 PM)
             Concepts:
-                ☐ Terminology https://learn.microsoft.com/en-us/azure/event-grid/concepts-event-grid-namespaces (2024-12-16 11:03 PM)
+                ✘ Terminology https://learn.microsoft.com/en-us/azure/event-grid/concepts-event-grid-namespaces (2024-12-16 11:03 PM) @cancelled
                 Event handlers (Push delivery) https://learn.microsoft.com/en-us/azure/event-grid/namespace-topics-event-handlers (2024-05-21 03:00 PM):
                     ☐ Event Hubs https://learn.microsoft.com/en-us/azure/event-grid/namespace-handler-event-hubs (2024-11-04 11:02 PM)
                     ☐ Webhook https://learn.microsoft.com/en-us/azure/event-grid/namespace-handler-webhook (2024-12-09 06:04 PM)
@@ -198,7 +198,7 @@ Azure Event Grid documentation | Microsoft Learn:
                     ☐ Azure Policy https://learn.microsoft.com/en-us/azure/event-grid/event-schema-policy (2024-02-09 12:13 PM)
                     ☐ Azure resource groups https://learn.microsoft.com/en-us/azure/event-grid/event-schema-resource-groups (2024-02-27 11:07 PM)
                     Azure Resource Notifications:
-                        ☐ Overview https://learn.microsoft.com/en-us/azure/event-grid/event-schema-resource-notifications (2024-11-19 06:02 PM)
+                        ✘ Overview https://learn.microsoft.com/en-us/azure/event-grid/event-schema-resource-notifications (2024-11-19 06:02 PM) @cancelled
                         ☐ Health Resources https://learn.microsoft.com/en-us/azure/event-grid/event-schema-health-resources (2024-09-11 06:38 PM)
                         ☐ Azure Resource Management https://learn.microsoft.com/en-us/azure/event-grid/event-schema-resources (2024-12-09 06:04 PM)
                         ☐ Container Service Event Resources https://learn.microsoft.com/en-us/azure/event-grid/event-schema-containerservice-resources (2024-11-19 06:02 PM)
@@ -441,9 +441,9 @@ Azure Event Grid documentation | Microsoft Learn:
 
 ---
 
-        ☐ What is Event Grid? https://learn.microsoft.com/en-us/azure/event-grid/overview (2025-01-13 11:06 PM)
+        ✘ What is Event Grid? https://learn.microsoft.com/en-us/azure/event-grid/overview (2025-01-13 11:06 PM) @cancelled
             ✘ Overview https://learn.microsoft.com/en-us/azure/event-grid/mqtt-overview (2025-01-13 11:06 PM) @cancelled
-                    ☐ JWT authentication and RBAC authorization for clients with Microsoft Entra identity https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-microsoft-entra-token-and-rbac (2025-01-13 11:06 PM)
+                    ✘ JWT authentication and RBAC authorization for clients with Microsoft Entra identity https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-microsoft-entra-token-and-rbac (2025-01-13 11:06 PM) @cancelled
                     ☐ Azure API Center https://learn.microsoft.com/en-us/azure/event-grid/event-schema-api-center (2025-01-13 11:06 PM)
         ☐ Azure CLI https://learn.microsoft.com/cli/azure/eventgrid (2025-01-13 11:00 PM)
         ☐ PowerShell https://learn.microsoft.com/powershell/module/az.eventgrid (2025-01-14 05:13 PM)
@@ -454,7 +454,7 @@ Azure Event Grid documentation | Microsoft Learn:
 ---
 
                 ☐ Assign custom domain name to a namespace https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name (2025-01-15 06:04 PM)
-                ☐ Authenticate with MQTT broker using OAuth 2.0 authentication https://learn.microsoft.com/en-us/azure/event-grid/authenticate-with-namespaces-using-json-web-tokens (2025-01-15 06:04 PM)
+                ✘ Authenticate with MQTT broker using OAuth 2.0 authentication https://learn.microsoft.com/en-us/azure/event-grid/authenticate-with-namespaces-using-json-web-tokens (2025-01-15 06:04 PM) @cancelled
                     ☐ Monitoring data reference (MQTT delivery) https://learn.microsoft.com/en-us/azure/event-grid/monitor-mqtt-delivery-reference (2025-01-15 06:04 PM)
                 ☐ Assign custom domain name to a namespace https://learn.microsoft.com/en-us/azure/event-grid/assign-custom-domain-name (2025-01-15 06:04 PM)
                     ✘ Portal https://learn.microsoft.com/en-us/azure/event-grid/custom-event-quickstart-portal (2025-01-15 06:04 PM) @cancelled
@@ -566,8 +566,24 @@ Azure Event Grid documentation | Microsoft Learn:
 
 ---
 
-            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-31 12:39 PM)
-            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-31 12:39 PM)
-            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-31 12:04 PM)
-            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-31 12:06 PM)
+            ✘ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-01-31 12:39 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-01-31 12:39 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-01-31 12:04 PM) @cancelled
+            ✘ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-01-31 12:06 PM) @cancelled
+
+
+---
+
+        ☐ What is Event Grid? https://learn.microsoft.com/en-us/azure/event-grid/overview (2025-02-05 11:02 PM)
+        ☐ Use cases https://learn.microsoft.com/en-us/azure/event-grid/use-cases (2025-02-05 11:02 PM)
+                MQTT client authentication https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-authentication (2025-02-05 05:33 AM):
+                    ☐ Microsoft Entra JWT authentication and RBAC authorization for clients https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-microsoft-entra-token-and-rbac (2025-02-05 05:33 AM)
+                    ☐ OAuth 2.0 JSON Web Token authentication and authorization for clients https://learn.microsoft.com/en-us/azure/event-grid/mqtt-client-custom-jwt (2025-02-05 05:33 AM)
+                ☐ Authenticate with MQTT broker using OAuth 2.0 authentication https://learn.microsoft.com/en-us/azure/event-grid/authenticate-with-namespaces-using-json-web-tokens (2025-02-05 05:33 AM)
+                ☐ Terminology https://learn.microsoft.com/en-us/azure/event-grid/concepts-event-grid-namespaces (2025-02-03 12:10 AM)
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/event-grid/event-schema-resource-notifications (2025-02-04 12:06 PM)
+            ☐ Preview https://learn.microsoft.com/dotnet/api/overview/azure/event-grid?view=azure-dotnet-preview&preserve-view=true (2025-02-07 12:28 PM)
+            ☐ GA https://learn.microsoft.com/dotnet/api/overview/azure/event-grid (2025-02-07 12:28 PM)
+            ☐ GA https://learn.microsoft.com/python/api/overview/azure/event-grid (2025-02-07 12:08 PM)
+            ☐ GA https://learn.microsoft.com/javascript/api/overview/azure/event-grid (2025-02-07 12:09 PM)
 

@@ -272,9 +272,9 @@ Azure Application Gateway documentation | Microsoft Learn:
         ☐ Create Application Gateway - Terraform https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-terraform (2024-08-02 10:04 PM)
         ☐ Secure with SSL https://learn.microsoft.com/en-us/azure/application-gateway/create-ssl-portal (2024-12-29 12:12 PM)
         ☐ Host multiple sites https://learn.microsoft.com/en-us/azure/application-gateway/create-multiple-sites-portal (2024-12-29 12:12 PM)
-        ☐ Route by URL https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal (2024-12-29 12:12 PM)
+        ✘ Route by URL https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal (2024-12-29 12:12 PM) @cancelled
         ☐ Redirect web traffic https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-url-redirect-cli (2024-08-22 07:16 PM)
-        ☐ Ingress Controller add-on for AKS (Greenfield) https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-new (2024-12-29 12:12 PM)
+        ✘ Ingress Controller add-on for AKS (Greenfield) https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-new (2024-12-29 12:12 PM) @cancelled
         ☐ Ingress Controller add-on for AKS (Brownfield) https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-existing (2024-12-29 12:12 PM)
         ☐ Deploy Application Gateway with DDoS protection https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-protect-application-gateway (2024-12-29 12:12 PM)
             ✘ Application Gateway features https://learn.microsoft.com/en-us/azure/application-gateway/features (2024-12-29 12:12 PM) @cancelled
@@ -325,7 +325,7 @@ Azure Application Gateway documentation | Microsoft Learn:
                 ☐ Trusted client certificates https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-certificate-management (2024-08-02 10:04 PM)
                 ☐ Configure SSL policy https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-configure-ssl-policy-powershell (2024-08-02 10:04 PM)
                 ☐ Listener specific SSL policy https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-configure-listener-specific-ssl-policy (2024-08-02 10:04 PM)
-            ☐ Ingress for AKS via Helm (Brownfield) https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-install-existing (2024-10-16 10:05 PM)
+            ✘ Ingress for AKS via Helm (Brownfield) https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-install-existing (2024-10-16 10:05 PM) @cancelled
             ☐ Ingress for AKS via Helm (Greenfield) https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-install-new (2024-12-29 12:12 PM)
             ☐ Migrate from Helm deployment to AKS add-on https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-migration (2024-09-06 05:33 AM)
             ☐ Disable and re-enable AKS Ingress Controller add-on https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-disable-addon (2024-10-16 10:05 PM)
@@ -414,4 +414,11 @@ Azure Application Gateway documentation | Microsoft Learn:
 ---
 
         ☐ .NET https://learn.microsoft.com/dotnet/api/ (2025-01-29 08:15 AM)
+
+
+---
+
+        ☐ Route by URL https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal (2025-02-05 11:02 PM)
+        ☐ Ingress Controller add-on for AKS (Greenfield) https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-new (2025-02-04 06:06 PM)
+            ☐ Ingress for AKS via Helm (Brownfield) https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-install-existing (2025-02-04 06:06 PM)
 

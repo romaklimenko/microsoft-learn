@@ -29,7 +29,7 @@ Azure reliability documentation | Microsoft Learn:
                 ✘ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2024-12-17 10:59 PM) @cancelled
                 ✘ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san#availability-zone-migration (2024-12-11 05:32 AM) @cancelled
                 ✘ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight#availability-zone-migration (2024-11-20 11:04 PM) @cancelled
-                ☐ Azure Kubernetes Service https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability (2024-10-31 05:34 AM)
+                ✘ Azure Kubernetes Service https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability (2024-10-31 05:34 AM) @cancelled
                 ✘ Azure Load Balancer https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer (2024-01-21 12:36 PM) @cancelled
                 ✘ Log Analytics Dedicated Cluster workspaces https://learn.microsoft.com/en-us/azure/reliability/migrate-monitor-log-analytics (2024-11-20 11:04 PM) @cancelled
                 ☐ Azure Logic Apps https://learn.microsoft.com/azure/logic-apps/set-up-zone-redundancy-availability-zones?tabs=standard&toc=/azure/reliability (2024-11-20 11:04 PM)
@@ -71,7 +71,7 @@ Azure reliability documentation | Microsoft Learn:
             ✘ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps (2024-11-20 11:04 PM) @cancelled
             ✘ Azure Container Instances https://learn.microsoft.com/en-us/azure/reliability/reliability-containers (2024-10-14 10:04 PM) @cancelled
             ✘ Azure Functions https://learn.microsoft.com/en-us/azure/reliability/reliability-functions (2024-12-09 11:06 PM) @cancelled
-            ☐ Azure Kubernetes Service (AKS) https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-10-31 05:34 AM)
+            ✘ Azure Kubernetes Service (AKS) https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-10-31 05:34 AM) @cancelled
             Azure Service Fabric:
                 ☐ Availability zones https://learn.microsoft.com/azure/service-fabric/service-fabric-cross-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 06:02 PM)
                 ☐ Disaster recovery https://learn.microsoft.com/azure/service-fabric/service-fabric-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-of-the-service-fabric-cluster (2024-08-22 05:37 PM)
@@ -89,19 +89,19 @@ Azure reliability documentation | Microsoft Learn:
             Azure Container Registry:
                 ✘ Availability zones https://learn.microsoft.com/azure/container-registry/zone-redundancy?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 05:31 AM) @cancelled
                 ✘ Disaster recovery https://learn.microsoft.com/azure/container-registry/container-registry-geo-replication?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-09-27 10:00 PM) @cancelled
-            ☐ Azure Kubernetes Service (AKS) https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-10-31 05:34 AM)
+            ✘ Azure Kubernetes Service (AKS) https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-10-31 05:34 AM) @cancelled
             Azure Service Fabric:
                 ☐ Availability zones https://learn.microsoft.com/azure/service-fabric/service-fabric-cross-availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-21 06:02 PM)
                 ☐ Disaster recovery https://learn.microsoft.com/azure/service-fabric/service-fabric-disaster-recovery?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-of-the-service-fabric-cluster (2024-08-22 05:37 PM)
         Databases:
             Azure SQL:
-                ☐ Availability zones https://learn.microsoft.com/azure/azure-sql/database/high-availability-sla?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-22 07:03 PM)
+                ✘ Availability zones https://learn.microsoft.com/azure/azure-sql/database/high-availability-sla?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-11-22 07:03 PM) @cancelled
                 ✘ Disaster recovery https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore (2024-09-27 10:32 PM) @cancelled
             ✘ Azure SQL-Managed Instance https://learn.microsoft.com/azure/azure-sql/database/auto-failover-group-sql-db?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=azure-powershell (2024-11-21 06:30 PM) @cancelled
             ☐ Azure Database for MySQL https://learn.microsoft.com/azure/mysql/single-server/concepts-business-continuity?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#recover-from-an-azure-regional-data-center-outage (2024-12-02 11:02 PM)
             Azure Database for MySQL - Flexible Server:
                 ☐ Availability zones https://learn.microsoft.com/azure/mysql/flexible-server/concepts-high-availability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-26 10:59 PM)
-                ☐ Disaster recovery https://learn.microsoft.com/azure/mysql/flexible-server/how-to-restore-server-portal?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore-to-latest-restore-point (2024-12-02 11:02 PM)
+                ✘ Disaster recovery https://learn.microsoft.com/azure/mysql/flexible-server/how-to-restore-server-portal?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore-to-latest-restore-point (2024-12-02 11:02 PM) @cancelled
             ✘ Azure Database for PostgreSQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/reliability-postgresql-flexible-server (2024-12-26 06:03 PM) @cancelled
             ✘ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-db-nosql (2024-11-20 11:04 PM) @cancelled
             ✘ Azure Cosmos DB for MongoDB vCore https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-mongodb (2024-08-14 06:47 PM) @cancelled
@@ -220,7 +220,7 @@ Azure reliability documentation | Microsoft Learn:
             ☐ Service availability by region https://azure.microsoft.com/global-infrastructure/services/
             ✘ Service availability by category https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category (2024-12-17 06:04 PM) @cancelled
             Service availability by sovereign cloud:
-                ☐ US Government https://learn.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#service-availability (2024-09-30 11:14 AM)
+                ✘ US Government https://learn.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#service-availability (2024-09-30 11:14 AM) @cancelled
                 ✘ Microsoft Azure operated by 21Vianet https://learn.microsoft.com/en-us/azure/reliability/sovereign-cloud-china (2024-10-16 10:05 PM) @cancelled
         ☐ Azure Reliability feature page https://azure.microsoft.com/explore/reliability/#overview
         ☐ Reliability testing - Chaos engineering https://learn.microsoft.com/azure/well-architected/resiliency/chaos-engineering (2024-11-27 05:59 PM)
@@ -282,14 +282,14 @@ Azure reliability documentation | Microsoft Learn:
                 ✘ Azure API Management https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt (2025-01-10 06:17 PM) @cancelled
                 ✘ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2025-01-09 10:59 PM) @cancelled
             ✘ Azure Database for PostgreSQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/reliability-postgresql-flexible-server (2025-01-10 06:17 PM) @cancelled
-            ☐ Azure Route Server https://learn.microsoft.com/en-us/azure/route-server/route-server-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-10 11:02 PM)
+            ✘ Azure Route Server https://learn.microsoft.com/en-us/azure/route-server/route-server-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-10 11:02 PM) @cancelled
                 ✘ Availability zones https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-are-availability-zones-and-resiliency-handled-in-virtual-wan (2025-01-10 11:02 PM) @cancelled
                 ✘ Virtual WAN https://learn.microsoft.com/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#update-router (2025-01-10 11:02 PM) @cancelled
 
 
 ---
 
-                ☐ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2025-01-13 06:02 PM)
+                ✘ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2025-01-13 06:02 PM) @cancelled
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-13 06:03 PM)
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/site-recovery/site-recovery-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-13 06:03 PM)
 
@@ -297,7 +297,7 @@ Azure reliability documentation | Microsoft Learn:
 ---
 
                 ✘ Disaster recovery https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore (2025-01-13 11:31 PM) @cancelled
-            ☐ Azure SQL-Managed Instance https://learn.microsoft.com/azure/azure-sql/database/auto-failover-group-sql-db?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=azure-powershell (2025-01-14 06:30 PM)
+            ✘ Azure SQL-Managed Instance https://learn.microsoft.com/azure/azure-sql/database/auto-failover-group-sql-db?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=azure-powershell (2025-01-14 06:30 PM) @cancelled
                 ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-14 06:29 PM)
                 ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/api-management/api-management-howto-disaster-recovery-backup-restore?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-14 06:29 PM)
                 ✘ App Service Environment v1/v2 https://learn.microsoft.com/azure/app-service/environment/migrate?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-14 05:33 AM) @cancelled
@@ -316,7 +316,7 @@ Azure reliability documentation | Microsoft Learn:
             ☐ Azure AI Search https://learn.microsoft.com/azure/search/search-reliability?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-15 11:02 PM)
             ✘ Microsoft Fabric https://learn.microsoft.com/en-us/azure/reliability/reliability-fabric (2025-01-17 11:02 PM) @cancelled
             ✘ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2025-01-17 11:02 PM) @cancelled
-                ☐ Disaster recovery https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore (2025-01-16 11:32 PM)
+                ✘ Disaster recovery https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore (2025-01-16 11:32 PM) @cancelled
                 ☐ Availability zones https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#choose-the-right-redundancy-option (2025-01-15 11:02 PM)
                 ☐ Disaster recovery https://learn.microsoft.com/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-15 11:02 PM)
             ✘ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san (2025-01-17 06:02 PM) @cancelled
@@ -538,126 +538,148 @@ Azure reliability documentation | Microsoft Learn:
             ✘ Azure Virtual Machines https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machines (2025-01-24 05:34 AM) @cancelled
             ✘ Azure Public IP https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-zone (2025-01-24 05:34 AM) @cancelled
                 ☐ Availability zones https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#virtual-networks-and-availability-zones (2025-01-24 05:34 AM)
-                ☐ Availability zones https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-are-availability-zones-and-resiliency-handled-in-virtual-wan (2025-01-24 05:34 AM)
+                ✘ Availability zones https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-are-availability-zones-and-resiliency-handled-in-virtual-wan (2025-01-24 05:34 AM) @cancelled
                 ☐ Azure Web Application Firewall https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-do-i-achieve-a-disaster-recovery-scenario-across-datacenters-by-using-application-gateway (2025-01-24 05:34 AM)
                 ☐ Azure Web Application Firewall https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-do-i-achieve-a-disaster-recovery-scenario-across-datacenters-by-using-application-gateway (2025-01-24 05:34 AM)
                 ☐ App Service Environment v1/v2 https://learn.microsoft.com/azure/app-service/environment/migrate?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-24 05:34 AM)
                 ☐ Classic Resource Providers https://learn.microsoft.com/azure/azure-resource-manager/management/deployment-models?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-23 11:10 PM)
-                ☐ Virtual WAN https://learn.microsoft.com/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#update-router (2025-01-24 05:34 AM)
+                ✘ Virtual WAN https://learn.microsoft.com/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#update-router (2025-01-24 05:34 AM) @cancelled
 
 
 ---
 
-    ☐ Azure reliability documentation https://learn.microsoft.com/en-us/azure/reliability/ (2025-01-28 12:10 PM)
-    ☐ Overview https://learn.microsoft.com/en-us/azure/reliability/overview (2025-01-29 12:19 PM)
+    ✘ Azure reliability documentation https://learn.microsoft.com/en-us/azure/reliability/ (2025-01-28 12:10 PM) @cancelled
+    ✘ Overview https://learn.microsoft.com/en-us/azure/reliability/overview (2025-01-29 12:19 PM) @cancelled
         ✘ What are Azure regions? https://learn.microsoft.com/en-us/azure/reliability/regions-overview (2025-01-29 06:06 PM) @cancelled
-        ☐ Paired and nonpaired regions https://learn.microsoft.com/en-us/azure/reliability/regions-paired (2025-01-29 06:06 PM)
-        ☐ Multi-region solutions in nonpaired regions https://learn.microsoft.com/en-us/azure/reliability/regions-multi-region-nonpaired (2025-01-28 12:10 PM)
+        ✘ Paired and nonpaired regions https://learn.microsoft.com/en-us/azure/reliability/regions-paired (2025-01-29 06:06 PM) @cancelled
+        ✘ Multi-region solutions in nonpaired regions https://learn.microsoft.com/en-us/azure/reliability/regions-multi-region-nonpaired (2025-01-28 12:10 PM) @cancelled
     Azure availability zones:
         ✘ Services with availability zone support https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support (2025-01-29 12:19 PM) @cancelled
         ✘ Overview https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance (2025-01-29 12:19 PM) @cancelled
-            ☐ Sustainability data solutions in Fabric https://learn.microsoft.com/en-us/azure/reliability/reliability-sustainability-data-solutions-fabric (2025-01-28 12:10 PM)
-            ☐ Azure Public IP https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-zone (2025-01-28 11:09 PM)
+            ✘ Sustainability data solutions in Fabric https://learn.microsoft.com/en-us/azure/reliability/reliability-sustainability-data-solutions-fabric (2025-01-28 12:10 PM) @cancelled
+            ✘ Azure Public IP https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-zone (2025-01-28 11:09 PM) @cancelled
 
 
 ---
 
-        ☐ Business continuity, high availability, and disaster recovery https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery (2025-01-22 05:32 AM)
+        ✘ Business continuity, high availability, and disaster recovery https://learn.microsoft.com/en-us/azure/reliability/concept-business-continuity-high-availability-disaster-recovery (2025-01-22 05:32 AM) @cancelled
         ✔ Shared responsibility for resiliency https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility (2025-01-21 06:09 PM) @done(25-02-01 22:04)
-        ☐ What are Azure regions? https://learn.microsoft.com/en-us/azure/reliability/regions-overview (2025-01-30 12:22 PM)
-        ☐ What are Azure availability zones? https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview (2025-01-30 12:22 PM)
-        ☐ Services with availability zone support https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support (2025-01-30 12:22 PM)
-        ☐ Regions with availability zone support https://learn.microsoft.com/en-us/azure/reliability/availability-zones-region-support (2025-01-20 12:13 AM)
-            ☐ Overview https://learn.microsoft.com/en-us/azure/reliability/availability-zones-migration-overview (2024-11-20 11:04 PM)
-            ☐ Azure availability zone migration baseline https://learn.microsoft.com/en-us/azure/reliability/availability-zones-baseline (2025-01-21 11:02 PM)
-                ☐ Azure API Management https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt (2025-01-10 06:17 PM)
-                ☐ Azure App Configuration https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration (2024-11-20 11:04 PM)
-                ☐ Azure Application Gateway https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2 (2024-11-20 11:04 PM)
-                ☐ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service#configure-availability-zone-support (2025-01-17 11:02 PM)
-                ☐ Azure Functions https://learn.microsoft.com/en-us/azure/reliability/migrate-functions (2023-09-24 11:29 AM)
-                ☐ Azure Cache for Redis https://learn.microsoft.com/en-us/azure/reliability/migrate-cache-redis (2024-12-06 11:03 PM)
-                ☐ Azure AI Search https://learn.microsoft.com/en-us/azure/reliability/migrate-search-service (2024-08-28 07:22 PM)
-                ☐ Azure Backup https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault (2024-11-20 11:04 PM)
-                ☐ Azure Batch https://learn.microsoft.com/en-us/azure/reliability/reliability-batch#availability-zone-migration (2024-11-20 11:04 PM)
-                ☐ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps#availability-zone-migration (2024-11-20 11:04 PM)
-                ☐ Azure Container Instances https://learn.microsoft.com/en-us/azure/reliability/migrate-container-instances (2024-11-20 11:04 PM)
-                ☐ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/reliability/migrate-cosmos-nosql (2024-11-20 11:04 PM)
-                ☐ Azure Database for MySQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/migrate-database-mysql-flex (2024-08-14 06:47 PM)
-                ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san#availability-zone-migration (2025-01-20 12:13 AM)
+        ✘ What are Azure regions? https://learn.microsoft.com/en-us/azure/reliability/regions-overview (2025-01-30 12:22 PM) @cancelled
+        ✘ What are Azure availability zones? https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview (2025-01-30 12:22 PM) @cancelled
+        ✘ Services with availability zone support https://learn.microsoft.com/en-us/azure/reliability/availability-zones-service-support (2025-01-30 12:22 PM) @cancelled
+        ✘ Regions with availability zone support https://learn.microsoft.com/en-us/azure/reliability/availability-zones-region-support (2025-01-20 12:13 AM) @cancelled
+            ✘ Overview https://learn.microsoft.com/en-us/azure/reliability/availability-zones-migration-overview (2024-11-20 11:04 PM) @cancelled
+            ✘ Azure availability zone migration baseline https://learn.microsoft.com/en-us/azure/reliability/availability-zones-baseline (2025-01-21 11:02 PM) @cancelled
+                ✘ Azure API Management https://learn.microsoft.com/en-us/azure/reliability/migrate-api-mgt (2025-01-10 06:17 PM) @cancelled
+                ✘ Azure App Configuration https://learn.microsoft.com/en-us/azure/reliability/migrate-app-configuration (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure Application Gateway https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2 (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service#configure-availability-zone-support (2025-01-17 11:02 PM) @cancelled
+                ✘ Azure Functions https://learn.microsoft.com/en-us/azure/reliability/migrate-functions (2023-09-24 11:29 AM) @cancelled
+                ✘ Azure Cache for Redis https://learn.microsoft.com/en-us/azure/reliability/migrate-cache-redis (2024-12-06 11:03 PM) @cancelled
+                ✘ Azure AI Search https://learn.microsoft.com/en-us/azure/reliability/migrate-search-service (2024-08-28 07:22 PM) @cancelled
+                ✘ Azure Backup https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure Batch https://learn.microsoft.com/en-us/azure/reliability/reliability-batch#availability-zone-migration (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps#availability-zone-migration (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure Container Instances https://learn.microsoft.com/en-us/azure/reliability/migrate-container-instances (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/reliability/migrate-cosmos-nosql (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure Database for MySQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/migrate-database-mysql-flex (2024-08-14 06:47 PM) @cancelled
+                ✘ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san#availability-zone-migration (2025-01-20 12:13 AM) @cancelled
                 ✘ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight#availability-zone-migration (2025-01-22 05:32 AM) @cancelled
-                ☐ Azure Load Balancer https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer (2024-01-21 12:36 PM)
-                ☐ Log Analytics Dedicated Cluster workspaces https://learn.microsoft.com/en-us/azure/reliability/migrate-monitor-log-analytics (2024-11-20 11:04 PM)
-                ☐ Azure Recovery Services vault https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault (2024-11-20 11:04 PM)
-                ☐ Azure Service Fabric https://learn.microsoft.com/en-us/azure/reliability/migrate-service-fabric (2024-11-20 11:04 PM)
-                ☐ Azure SQL Database https://learn.microsoft.com/en-us/azure/reliability/migrate-sql-database (2024-11-20 11:04 PM)
-                ☐ Azure Storage accounts https://learn.microsoft.com/en-us/azure/reliability/migrate-storage (2024-11-20 11:04 PM)
-                ☐ Azure SQL managed instance https://learn.microsoft.com/en-us/azure/reliability/migrate-sql-managed-instance (2024-11-20 11:04 PM)
-                ☐ Azure Virtual Machines and Virtual Machine Scale Sets https://learn.microsoft.com/en-us/azure/reliability/migrate-vm (2024-11-21 11:02 PM)
-                ☐ Workload - Azure Kubernetes and MySQL https://learn.microsoft.com/en-us/azure/reliability/migrate-workload-aks-mysql (2024-11-20 11:04 PM)
-            ☐ Azure AI Health Insights https://learn.microsoft.com/en-us/azure/reliability/reliability-health-insights (2024-11-22 05:58 AM)
-            ☐ Azure Bot Service https://learn.microsoft.com/en-us/azure/reliability/reliability-bot (2024-11-22 05:58 AM)
+                ✘ Azure Load Balancer https://learn.microsoft.com/en-us/azure/reliability/migrate-load-balancer (2024-01-21 12:36 PM) @cancelled
+                ✘ Log Analytics Dedicated Cluster workspaces https://learn.microsoft.com/en-us/azure/reliability/migrate-monitor-log-analytics (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure Recovery Services vault https://learn.microsoft.com/en-us/azure/reliability/migrate-recovery-services-vault (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure Service Fabric https://learn.microsoft.com/en-us/azure/reliability/migrate-service-fabric (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure SQL Database https://learn.microsoft.com/en-us/azure/reliability/migrate-sql-database (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure Storage accounts https://learn.microsoft.com/en-us/azure/reliability/migrate-storage (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure SQL managed instance https://learn.microsoft.com/en-us/azure/reliability/migrate-sql-managed-instance (2024-11-20 11:04 PM) @cancelled
+                ✘ Azure Virtual Machines and Virtual Machine Scale Sets https://learn.microsoft.com/en-us/azure/reliability/migrate-vm (2024-11-21 11:02 PM) @cancelled
+                ✘ Workload - Azure Kubernetes and MySQL https://learn.microsoft.com/en-us/azure/reliability/migrate-workload-aks-mysql (2024-11-20 11:04 PM) @cancelled
+            ✘ Azure AI Health Insights https://learn.microsoft.com/en-us/azure/reliability/reliability-health-insights (2024-11-22 05:58 AM) @cancelled
+            ✘ Azure Bot Service https://learn.microsoft.com/en-us/azure/reliability/reliability-bot (2024-11-22 05:58 AM) @cancelled
             ✘ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight (2025-01-22 05:32 AM) @cancelled
             ✘ Azure HDInsight on AKS https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight-on-aks (2024-11-01 10:03 PM) @cancelled
-            ☐ Azure Event Hubs https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs (2024-11-20 11:04 PM)
-            ☐ Azure Chaos Studio https://learn.microsoft.com/en-us/azure/reliability/reliability-chaos-studio (2024-11-22 05:58 AM)
-            ☐ Microsoft Fabric https://learn.microsoft.com/en-us/azure/reliability/reliability-fabric (2025-01-17 11:02 PM)
-            ☐ Microsoft Purview https://learn.microsoft.com/en-us/azure/reliability/reliability-microsoft-purview (2024-12-13 06:02 PM)
-            ☐ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2025-01-17 11:02 PM)
-            ☐ Azure Batch https://learn.microsoft.com/en-us/azure/reliability/reliability-batch (2024-11-20 11:04 PM)
-            ☐ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps (2024-11-20 11:04 PM)
-            ☐ Azure Container Instances https://learn.microsoft.com/en-us/azure/reliability/reliability-containers (2024-10-14 10:04 PM)
-            ☐ Azure Functions https://learn.microsoft.com/en-us/azure/reliability/reliability-functions (2024-12-09 11:06 PM)
-            ☐ Azure Spring Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-spring-apps (2024-12-09 06:04 PM)
-            ☐ Azure Virtual Machines https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machines (2025-01-24 05:34 AM)
-            ☐ Azure Virtual Machine Image Builder https://learn.microsoft.com/en-us/azure/reliability/reliability-image-builder (2024-11-01 10:03 PM)
-            ☐ Azure Virtual Machine Scale Sets https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machine-scale-sets (2024-11-20 11:04 PM)
-            ☐ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps (2024-11-20 11:04 PM)
-            ☐ Azure Container Instances https://learn.microsoft.com/en-us/azure/reliability/reliability-containers (2024-10-14 10:04 PM)
-            ☐ Azure Database for PostgreSQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/reliability-postgresql-flexible-server (2025-01-10 06:17 PM)
-            ☐ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-db-nosql (2025-01-22 05:32 AM)
-            ☐ Azure Cosmos DB for MongoDB vCore https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-mongodb (2024-08-14 06:47 PM)
-            ☐ Azure API Center https://learn.microsoft.com/en-us/azure/reliability/reliability-api-center (2024-11-22 05:58 AM)
-            ☐ Azure Deployment Environments https://learn.microsoft.com/en-us/azure/reliability/reliability-deployment-environments?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-30 06:35 PM)
-            ☐ Azure Operator Nexus https://learn.microsoft.com/en-us/azure/reliability/reliability-operator-nexus (2023-07-12 09:55 PM)
-            ☐ Microsoft Community Training https://learn.microsoft.com/en-us/azure/reliability/reliability-community-training (2025-01-22 05:32 AM)
-            ☐ Azure Data Manager for Energy https://learn.microsoft.com/en-us/azure/reliability/reliability-energy-data-services (2024-10-15 07:01 AM)
+            ✘ Azure Event Hubs https://learn.microsoft.com/en-us/azure/reliability/reliability-event-hubs (2024-11-20 11:04 PM) @cancelled
+            ✘ Azure Chaos Studio https://learn.microsoft.com/en-us/azure/reliability/reliability-chaos-studio (2024-11-22 05:58 AM) @cancelled
+            ✘ Microsoft Fabric https://learn.microsoft.com/en-us/azure/reliability/reliability-fabric (2025-01-17 11:02 PM) @cancelled
+            ✘ Microsoft Purview https://learn.microsoft.com/en-us/azure/reliability/reliability-microsoft-purview (2024-12-13 06:02 PM) @cancelled
+            ✘ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2025-01-17 11:02 PM) @cancelled
+            ✘ Azure Batch https://learn.microsoft.com/en-us/azure/reliability/reliability-batch (2024-11-20 11:04 PM) @cancelled
+            ✘ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps (2024-11-20 11:04 PM) @cancelled
+            ✘ Azure Container Instances https://learn.microsoft.com/en-us/azure/reliability/reliability-containers (2024-10-14 10:04 PM) @cancelled
+            ✘ Azure Functions https://learn.microsoft.com/en-us/azure/reliability/reliability-functions (2024-12-09 11:06 PM) @cancelled
+            ✘ Azure Spring Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-spring-apps (2024-12-09 06:04 PM) @cancelled
+            ✘ Azure Virtual Machines https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machines (2025-01-24 05:34 AM) @cancelled
+            ✘ Azure Virtual Machine Image Builder https://learn.microsoft.com/en-us/azure/reliability/reliability-image-builder (2024-11-01 10:03 PM) @cancelled
+            ✘ Azure Virtual Machine Scale Sets https://learn.microsoft.com/en-us/azure/reliability/reliability-virtual-machine-scale-sets (2024-11-20 11:04 PM) @cancelled
+            ✘ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps (2024-11-20 11:04 PM) @cancelled
+            ✘ Azure Container Instances https://learn.microsoft.com/en-us/azure/reliability/reliability-containers (2024-10-14 10:04 PM) @cancelled
+            ✘ Azure Database for PostgreSQL - Flexible Server https://learn.microsoft.com/en-us/azure/reliability/reliability-postgresql-flexible-server (2025-01-10 06:17 PM) @cancelled
+            ✘ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-db-nosql (2025-01-22 05:32 AM) @cancelled
+            ✘ Azure Cosmos DB for MongoDB vCore https://learn.microsoft.com/en-us/azure/reliability/reliability-cosmos-mongodb (2024-08-14 06:47 PM) @cancelled
+            ✘ Azure API Center https://learn.microsoft.com/en-us/azure/reliability/reliability-api-center (2024-11-22 05:58 AM) @cancelled
+            ✘ Azure Deployment Environments https://learn.microsoft.com/en-us/azure/reliability/reliability-deployment-environments?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2024-12-30 06:35 PM) @cancelled
+            ✘ Azure Operator Nexus https://learn.microsoft.com/en-us/azure/reliability/reliability-operator-nexus (2023-07-12 09:55 PM) @cancelled
+            ✘ Microsoft Community Training https://learn.microsoft.com/en-us/azure/reliability/reliability-community-training (2025-01-22 05:32 AM) @cancelled
+            ✘ Azure Data Manager for Energy https://learn.microsoft.com/en-us/azure/reliability/reliability-energy-data-services (2024-10-15 07:01 AM) @cancelled
             ☐ Azure Data Factory https://learn.microsoft.com/en-us/azure/data-factory/concepts-data-redundancy?bc=/azure/reliability/breadcrumb/toc.json&toc=/azure/reliability/toc.json (2025-01-29 11:43 PM)
-            ☐ Azure Event Grid https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid (2025-01-22 05:32 AM)
-            ☐ Azure Functions https://learn.microsoft.com/en-us/azure/reliability/reliability-functions (2024-12-09 11:06 PM)
-                ☐ De-identification service https://learn.microsoft.com/en-us/azure/reliability/reliability-health-data-services-deidentification (2024-12-23 06:06 PM)
-            ☐ Azure Logic Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-logic-apps (2025-01-07 11:03 PM)
-            ☐ Azure Device Registry https://learn.microsoft.com/en-us/azure/reliability/reliability-device-registry (2024-11-22 05:58 AM)
-            ☐ Azure Notification Hubs https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs (2024-12-13 11:03 PM)
-            ☐ Azure Backup https://learn.microsoft.com/en-us/azure/reliability/reliability-backup (2025-01-20 12:13 AM)
-            ☐ Azure Application Gateway for Containers https://learn.microsoft.com/en-us/azure/reliability/reliability-app-gateway-containers (2024-11-22 05:58 AM)
-            ☐ Azure Bastion https://learn.microsoft.com/en-us/azure/reliability/reliability-bastion (2024-11-21 11:02 PM)
-            ☐ Azure DNS https://learn.microsoft.com/en-us/azure/reliability/reliability-dns (2024-12-13 06:02 PM)
-            ☐ Azure DDoS Protection https://learn.microsoft.com/en-us/azure/reliability/reliability-ddos (2024-11-22 05:58 AM)
-            ☐ Azure Load Balancer https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer (2024-11-20 11:04 PM)
-            ☐ Azure Traffic Manager https://learn.microsoft.com/en-us/azure/reliability/reliability-traffic-manager (2024-11-01 10:03 PM)
-            ☐ Microsoft Defender for Cloud DevOps security https://learn.microsoft.com/en-us/azure/reliability/reliability-defender-devops (2024-08-07 10:04 PM)
-            ☐ Azure Backup https://learn.microsoft.com/en-us/azure/reliability/reliability-backup (2025-01-20 12:13 AM)
-            ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san (2025-01-20 12:13 AM)
-            ☐ Azure Storage Actions https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-actions (2024-11-22 05:58 AM)
-            ☐ Azure Storage Mover https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-storage-mover (2024-11-20 11:04 PM)
-            ☐ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2025-01-17 11:02 PM)
-            ☐ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps (2024-11-20 11:04 PM)
-            ☐ Azure Notification Hubs https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs (2024-12-13 11:03 PM)
-        ☐ Azure service incident response https://learn.microsoft.com/en-us/azure/reliability/incident-response (2024-12-11 05:32 AM)
-            ☐ Service availability by category https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category (2025-01-22 05:32 AM)
-                ☐ Microsoft Azure operated by 21Vianet https://learn.microsoft.com/en-us/azure/reliability/sovereign-cloud-china (2024-10-16 10:05 PM)
-            ☐ Overview https://learn.microsoft.com/en-us/azure/reliability/asm-retirement (2024-07-02 05:47 AM)
+            ✘ Azure Event Grid https://learn.microsoft.com/en-us/azure/reliability/reliability-event-grid (2025-01-22 05:32 AM) @cancelled
+            ✘ Azure Functions https://learn.microsoft.com/en-us/azure/reliability/reliability-functions (2024-12-09 11:06 PM) @cancelled
+                ✘ De-identification service https://learn.microsoft.com/en-us/azure/reliability/reliability-health-data-services-deidentification (2024-12-23 06:06 PM) @cancelled
+            ✘ Azure Logic Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-logic-apps (2025-01-07 11:03 PM) @cancelled
+            ✘ Azure Device Registry https://learn.microsoft.com/en-us/azure/reliability/reliability-device-registry (2024-11-22 05:58 AM) @cancelled
+            ✘ Azure Notification Hubs https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs (2024-12-13 11:03 PM) @cancelled
+            ✘ Azure Backup https://learn.microsoft.com/en-us/azure/reliability/reliability-backup (2025-01-20 12:13 AM) @cancelled
+            ✘ Azure Application Gateway for Containers https://learn.microsoft.com/en-us/azure/reliability/reliability-app-gateway-containers (2024-11-22 05:58 AM) @cancelled
+            ✘ Azure Bastion https://learn.microsoft.com/en-us/azure/reliability/reliability-bastion (2024-11-21 11:02 PM) @cancelled
+            ✘ Azure DNS https://learn.microsoft.com/en-us/azure/reliability/reliability-dns (2024-12-13 06:02 PM) @cancelled
+            ✘ Azure DDoS Protection https://learn.microsoft.com/en-us/azure/reliability/reliability-ddos (2024-11-22 05:58 AM) @cancelled
+            ✘ Azure Load Balancer https://learn.microsoft.com/en-us/azure/reliability/reliability-load-balancer (2024-11-20 11:04 PM) @cancelled
+            ✘ Azure Traffic Manager https://learn.microsoft.com/en-us/azure/reliability/reliability-traffic-manager (2024-11-01 10:03 PM) @cancelled
+            ✘ Microsoft Defender for Cloud DevOps security https://learn.microsoft.com/en-us/azure/reliability/reliability-defender-devops (2024-08-07 10:04 PM) @cancelled
+            ✘ Azure Backup https://learn.microsoft.com/en-us/azure/reliability/reliability-backup (2025-01-20 12:13 AM) @cancelled
+            ✘ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/reliability/reliability-elastic-san (2025-01-20 12:13 AM) @cancelled
+            ✘ Azure Storage Actions https://learn.microsoft.com/en-us/azure/reliability/reliability-storage-actions (2024-11-22 05:58 AM) @cancelled
+            ✘ Azure Storage Mover https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-storage-mover (2024-11-20 11:04 PM) @cancelled
+            ✘ Azure App Service https://learn.microsoft.com/en-us/azure/reliability/reliability-app-service (2025-01-17 11:02 PM) @cancelled
+            ✘ Azure Container Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-azure-container-apps (2024-11-20 11:04 PM) @cancelled
+            ✘ Azure Notification Hubs https://learn.microsoft.com/en-us/azure/reliability/reliability-notification-hubs (2024-12-13 11:03 PM) @cancelled
+        ✘ Azure service incident response https://learn.microsoft.com/en-us/azure/reliability/incident-response (2024-12-11 05:32 AM) @cancelled
+            ✘ Service availability by category https://learn.microsoft.com/en-us/azure/reliability/availability-service-by-category (2025-01-22 05:32 AM) @cancelled
+                ✘ Microsoft Azure operated by 21Vianet https://learn.microsoft.com/en-us/azure/reliability/sovereign-cloud-china (2024-10-16 10:05 PM) @cancelled
+            ✘ Overview https://learn.microsoft.com/en-us/azure/reliability/asm-retirement (2024-07-02 05:47 AM) @cancelled
 
 
 ---
 
-                ☐ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight#availability-zone-migration (2025-01-31 06:19 PM)
-        ☐ Overview https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance (2025-01-31 06:19 PM)
-            ☐ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight (2025-01-31 06:19 PM)
+                ✘ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight#availability-zone-migration (2025-01-31 06:19 PM) @cancelled
+        ✘ Overview https://learn.microsoft.com/en-us/azure/reliability/overview-reliability-guidance (2025-01-31 06:19 PM) @cancelled
+            ✘ Azure HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight (2025-01-31 06:19 PM) @cancelled
             ☐ Azure Key Vault https://learn.microsoft.com/azure/key-vault/general/disaster-recovery-guidance?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-01-31 11:04 PM)
 
 
 ---
 
             ☐ Azure Guest Configuration https://learn.microsoft.com/en-us/azure/governance/machine-configuration/overview?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability (2025-02-02 12:10 PM)
+
+
+---
+
+    ☐ Azure reliability documentation https://learn.microsoft.com/en-us/azure/reliability/ (2025-02-03 11:15 PM)
+    ☐ What's new https://learn.microsoft.com/en-us/azure/reliability/whats-new (2025-02-03 11:15 PM)
+        ☐ Shared responsibility for reliability https://learn.microsoft.com/en-us/azure/reliability/concept-shared-responsibility (2025-02-05 05:33 AM)
+        ☐ What are Azure availability zones? https://learn.microsoft.com/en-us/azure/reliability/availability-zones-overview (2025-02-03 11:15 PM)
+                ☐ Azure Database for PostgreSQL https://learn.microsoft.com/azure/postgresql/flexible-server/how-to-manage-high-availability-portal#enable-high-availability-during-server-creation (2025-02-07 12:07 PM)
+                ☐ Azure Kubernetes Service https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability (2025-02-03 11:01 PM)
+            ☐ Azure Kubernetes Service (AKS) https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-02-03 11:01 PM)
+            ☐ Azure Kubernetes Service (AKS) https://learn.microsoft.com/azure/aks/availability-zones?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-02-03 11:01 PM)
+                ☐ Availability zones https://learn.microsoft.com/azure/azure-sql/database/high-availability-sla?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-02-05 06:33 PM)
+                ☐ Disaster recovery https://learn.microsoft.com/azure/azure-sql/database/recovery-using-backups?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore (2025-02-04 06:35 PM)
+            ☐ Azure SQL-Managed Instance https://learn.microsoft.com/azure/azure-sql/database/auto-failover-group-sql-db?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json&tabs=azure-powershell (2025-02-04 06:35 PM)
+                ☐ Disaster recovery https://learn.microsoft.com/azure/mysql/flexible-server/how-to-restore-server-portal?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#geo-restore-to-latest-restore-point (2025-02-04 12:05 PM)
+            ☐ Azure Logic Apps https://learn.microsoft.com/en-us/azure/reliability/reliability-logic-apps (2025-02-05 05:33 AM)
+            ☐ Azure Public IP https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#availability-zone (2025-02-05 05:33 AM)
+            ☐ Azure Route Server https://learn.microsoft.com/en-us/azure/route-server/route-server-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json (2025-02-04 11:08 PM)
+                ☐ Availability zones https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#how-are-availability-zones-and-resiliency-handled-in-virtual-wan (2025-02-07 11:03 PM)
+                ☐ US Government https://learn.microsoft.com/en-us/azure/azure-government/compare-azure-government-global-azure?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#service-availability (2025-02-06 05:37 AM)
+                ☐ Virtual WAN https://learn.microsoft.com/azure/virtual-wan/virtual-wan-faq?toc=/azure/reliability/toc.json&bc=/azure/reliability/breadcrumb/toc.json#update-router (2025-02-07 11:03 PM)
 

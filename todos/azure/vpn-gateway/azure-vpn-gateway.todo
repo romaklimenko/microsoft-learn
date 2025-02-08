@@ -81,11 +81,11 @@ VPN Gateway documentation | Microsoft Learn:
                             ✘ Version 2.x https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-openvpn-client (2024-11-04 11:02 PM) @cancelled
                             ✘ Version 3.x https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3 (2024-11-04 11:02 PM) @cancelled
                     Linux clients:
-                        ☐ Azure VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-client-linux-azure-vpn-client (2024-12-17 05:33 AM)
+                        ✘ Azure VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-client-linux-azure-vpn-client (2024-12-17 05:33 AM) @cancelled
                         ☐ OpenVPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-linux (2024-11-04 11:02 PM)
                         ☐ IKEv2 -strongSwan https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-ike-linux (2024-11-04 11:02 PM)
                     macOS and iOS clients:
-                        ☐ Native VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-cert-mac (2024-11-04 11:02 PM)
+                        ✘ Native VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-cert-mac (2024-11-04 11:02 PM) @cancelled
                         ☐ OpenVPN client - macOS https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-mac (2024-11-04 11:02 PM)
                         ✘ OpenVPN client - iOS https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-ios (2024-11-04 11:02 PM) @cancelled
                 Generate self-signed certificates:
@@ -93,7 +93,7 @@ VPN Gateway documentation | Microsoft Learn:
                         ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site (2024-11-04 11:02 PM)
                         ☐ Makecert https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-makecert (2024-11-04 11:02 PM)
                     .pem files:
-                        ☐ Linux - OpenSSL https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificates-linux-openssl (2024-11-04 11:02 PM)
+                        ✘ Linux - OpenSSL https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificates-linux-openssl (2024-11-04 11:02 PM) @cancelled
                         ☐ Linux - strongSwan https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-linux (2024-11-04 11:02 PM)
                 ☐ Install VPN client certificates https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-vpn-client-install-azure-cert (2024-11-04 11:02 PM)
             Microsoft Entra ID authentication:
@@ -104,11 +104,11 @@ VPN Gateway documentation | Microsoft Learn:
                     ☐ Configure access based on users and groups https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-users-access (2024-08-12 10:07 PM)
                     ✘ Configure multifactor authentication (MFA) https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-mfa (2024-09-25 05:34 AM) @cancelled
                 VPN client configuration:
-                    ☐ Windows clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows (2024-10-16 11:25 AM)
+                    ✘ Windows clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows (2024-10-16 11:25 AM) @cancelled
                     ✘ Linux clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-linux (2024-10-15 05:04 PM) @cancelled
                     ☐ macOS clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-mac (2024-10-15 05:04 PM)
                 ☐ Generate VPN client profile configuration files https://learn.microsoft.com/en-us/azure/vpn-gateway/about-vpn-profile-download (2024-08-02 11:27 AM)
-                ☐ Migrate manually registered client to Microsoft-registered client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway-update (2024-08-06 05:10 PM)
+                ✘ Migrate manually registered client to Microsoft-registered client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway-update (2024-08-06 05:10 PM) @cancelled
             RADIUS authentication:
                 P2S gateway configuration:
                     ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-radius-gateway (2024-12-06 11:03 PM)
@@ -281,4 +281,13 @@ VPN Gateway documentation | Microsoft Learn:
 
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-coexisting-gateway-portal?toc=/azure/vpn-gateway/toc.json (2025-02-02 12:10 PM)
                 ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager?toc=/azure/vpn-gateway/toc.json (2025-02-02 12:10 PM)
+
+
+---
+
+                        ☐ Azure VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-client-linux-azure-vpn-client (2025-02-06 11:03 PM)
+                        ☐ Native VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-cert-mac (2025-02-04 11:08 PM)
+                        ☐ Linux - OpenSSL https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificates-linux-openssl (2025-02-06 11:03 PM)
+                    ☐ Change from manually registered to Microsoft-registered VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway-update (2025-02-07 11:03 PM)
+                    ☐ Windows clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows (2025-02-07 11:03 PM)
 

@@ -55,8 +55,8 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
             ☐ Duplicate message detection https://learn.microsoft.com/en-us/azure/service-bus-messaging/duplicate-detection (2024-09-25 05:34 AM)
             ☐ Topic filters and actions https://learn.microsoft.com/en-us/azure/service-bus-messaging/topic-filters (2024-11-01 05:35 AM)
             ☐ Message browsing https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-browsing (2024-07-26 05:35 AM)
-            ☐ Message transfers, locks, and settlement https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-transfers-locks-settlement (2024-11-25 06:03 PM)
-            ☐ Dead-letter queues https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dead-letter-queues (2024-10-01 11:13 AM)
+            ✘ Message transfers, locks, and settlement https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-transfers-locks-settlement (2024-11-25 06:03 PM) @cancelled
+            ✘ Dead-letter queues https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dead-letter-queues (2024-10-01 11:13 AM) @cancelled
             ☐ Message deferral https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-deferral (2024-07-26 05:35 AM)
             ☐ Prefetch messages https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-prefetch (2024-07-17 05:42 AM)
             ☐ Chain entities with auto-forwarding https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-auto-forwarding (2024-11-19 06:02 PM)
@@ -95,7 +95,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
                 ☐ Java message service (JMS) 2.0 entities https://learn.microsoft.com/en-us/azure/service-bus-messaging/java-message-service-20-entities (2023-06-07 11:14 AM)
                 ✘ Java Message Service (JMS) Developer guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/jms-developer-guide (2024-02-23 11:05 PM) @cancelled
                 ☐ Messages, payloads, and serialization https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messages-payloads (2024-07-23 10:09 PM)
-                ☐ Message sequencing and timestamps https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-sequencing (2024-07-25 05:34 AM)
+                ✘ Message sequencing and timestamps https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-sequencing (2024-07-25 05:34 AM) @cancelled
                 ☐ Message expiration (Time to Live) https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-expiration (2024-12-17 06:04 PM)
             ✘ Migrate from Standard to Premium namespaces https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-standard-premium (2024-06-24 10:06 PM) @cancelled
             ☐ Partitioned queues and topics https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-partitioning (2024-12-19 11:02 PM)
@@ -127,7 +127,7 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
             ☐ Enable dead lettering for a queue or subscription https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-dead-letter (2024-06-17 10:05 PM)
             ☐ Get message counters https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-counters (2024-11-01 05:35 AM)
             ☐ Move across regions https://learn.microsoft.com/en-us/azure/service-bus-messaging/move-across-regions (2021-06-09 11:04 AM)
-            ☐ Automatically update messaging units https://learn.microsoft.com/en-us/azure/service-bus-messaging/automate-update-messaging-units (2024-09-11 06:38 PM)
+            ✘ Automatically update messaging units https://learn.microsoft.com/en-us/azure/service-bus-messaging/automate-update-messaging-units (2024-09-11 06:38 PM) @cancelled
             ☐ Use Azure PowerShell to provision entities https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-manage-with-ps (2024-06-27 05:04 PM)
             ☐ Service Bus management libraries https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-management-libraries (2024-06-17 10:05 PM)
             ☐ Suspend and reactivate messaging entities https://learn.microsoft.com/en-us/azure/service-bus-messaging/entity-suspend (2023-10-16 10:16 PM)
@@ -141,11 +141,11 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
             ☐ Allow access from specific IP addresses https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-ip-filtering (2024-12-02 11:02 PM)
             ☐ Allow access from specific virtual networks https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-service-endpoints (2024-10-28 06:09 PM)
             ☐ Allow access via private endpoints https://learn.microsoft.com/en-us/azure/service-bus-messaging/private-link-service (2024-12-20 12:09 PM)
-            ☐ Encrypt data using customer-managed keys https://learn.microsoft.com/en-us/azure/service-bus-messaging/configure-customer-managed-key (2024-10-10 10:04 PM)
+            ✘ Encrypt data using customer-managed keys https://learn.microsoft.com/en-us/azure/service-bus-messaging/configure-customer-managed-key (2024-10-10 10:04 PM) @cancelled
             ☐ Disable local or SAS authentication https://learn.microsoft.com/en-us/azure/service-bus-messaging/disable-local-authentication (2024-12-17 06:04 PM)
             ☐ Configure minimum required TLS version https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-configure-minimum-version (2024-10-28 10:05 PM)
             ☐ Audit minimum required TLS version https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-audit-minimum-version (2024-08-02 10:04 PM)
-            ☐ Configure TLS version for client https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-configure-client-version (2024-08-02 10:04 PM)
+            ✘ Configure TLS version for client https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-configure-client-version (2024-08-02 10:04 PM) @cancelled
         Troubleshoot:
             ✘ Troubleshooting guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-troubleshooting-guide (2024-11-22 06:03 PM) @cancelled
             ☐ SDK troubleshooting guide https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/servicebus/Azure.Messaging.ServiceBus/TROUBLESHOOTING.md
@@ -388,6 +388,18 @@ Azure Service Bus Messaging documentation | Microsoft Learn:
 
 ---
 
-            ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-31 12:04 PM)
-            ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-31 12:06 PM)
+            ✘ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-01-31 12:04 PM) @cancelled
+            ✘ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-01-31 12:06 PM) @cancelled
+
+
+---
+
+            ☐ Message transfers, locks, and settlement https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-transfers-locks-settlement (2025-02-04 11:08 PM)
+            ☐ Dead-letter queues https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dead-letter-queues (2025-02-07 11:03 PM)
+                ☐ Message sequencing and timestamps https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-sequencing (2025-02-04 11:08 PM)
+            ☐ Automatically update messaging units https://learn.microsoft.com/en-us/azure/service-bus-messaging/automate-update-messaging-units (2025-02-04 11:08 PM)
+            ☐ Encrypt data using customer-managed keys https://learn.microsoft.com/en-us/azure/service-bus-messaging/configure-customer-managed-key (2025-02-03 11:15 PM)
+            ☐ Configure TLS version for client https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-configure-client-version (2025-02-03 11:15 PM)
+            ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-02-07 12:08 PM)
+            ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-02-07 12:09 PM)
 

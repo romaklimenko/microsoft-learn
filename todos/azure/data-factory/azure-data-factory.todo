@@ -430,7 +430,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
                 ☐ Self-hosted integration runtime auto-update and expire notification https://learn.microsoft.com/en-us/azure/data-factory/self-hosted-integration-runtime-auto-update (2024-11-19 06:02 PM)
                 ☐ Shared self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/create-shared-self-hosted-integration-runtime-powershell (2024-08-02 11:27 AM)
                 ☐ Automation scripts of self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/self-hosted-integration-runtime-automation-scripts (2024-08-02 11:27 AM)
-                ☐ Run self-Hosted Integration Runtime in Windows container https://learn.microsoft.com/en-us/azure/data-factory/how-to-run-self-hosted-integration-runtime-in-windows-container (2024-08-02 11:27 AM)
+                ✘ Run self-Hosted Integration Runtime in Windows container https://learn.microsoft.com/en-us/azure/data-factory/how-to-run-self-hosted-integration-runtime-in-windows-container (2024-08-02 11:27 AM) @cancelled
                 ☐ Diagnostic tool for self-hosted integration runtime https://learn.microsoft.com/en-us/azure/data-factory/self-hosted-integration-runtime-diagnostic-tool (2024-08-02 11:27 AM)
                 ☐ Monitor self-hosted integration runtime in Azure https://learn.microsoft.com/en-us/azure/data-factory/monitor-shir-in-azure (2024-10-04 11:22 AM)
                 ☐ Configure self-hosted integration runtime for log analytics collection https://learn.microsoft.com/en-us/azure/data-factory/how-to-configure-shir-for-log-analytics-collection (2024-10-04 11:22 AM)
@@ -600,7 +600,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
             ☐ Kubernetes secret to access private container registry https://learn.microsoft.com/en-us/azure/data-factory/kubernetes-secret-pull-image-from-private-container-registry (2024-10-04 11:22 AM)
             ✘ Rest APIs for the Airflow integrated runtime https://learn.microsoft.com/en-us/azure/data-factory/rest-apis-for-airflow-integrated-runtime (2024-10-25 10:04 PM) @cancelled
             ☐ Retrieve the IP address of an Airflow cluster https://learn.microsoft.com/en-us/azure/data-factory/airflow-get-ip-airflow-cluster (2024-08-02 11:27 AM)
-            ☐ Sync a GitHub repository https://learn.microsoft.com/en-us/azure/data-factory/airflow-sync-github-repository (2024-10-18 10:05 PM)
+            ✘ Sync a GitHub repository https://learn.microsoft.com/en-us/azure/data-factory/airflow-sync-github-repository (2024-10-18 10:05 PM) @cancelled
             ☐ Diagnostic logs and metrics https://learn.microsoft.com/en-us/azure/data-factory/diagnostic-logs-and-metrics-for-workflow-orchestration-manager (2024-10-04 11:22 AM)
             ✘ CI/CD Patterns https://learn.microsoft.com/en-us/azure/data-factory/ci-cd-pattern-with-airflow (2024-08-02 11:27 AM) @cancelled
             ☐ Airflow Configurations https://learn.microsoft.com/en-us/azure/data-factory/airflow-configurations (2024-08-02 11:27 AM)
@@ -723,7 +723,7 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
                 ☐ Dedupe and null check with snippets https://learn.microsoft.com/en-us/azure/data-factory/how-to-data-flow-dedupe-nulls-snippets (2025-01-09 06:03 PM)
                 ☐ Azure Synapse Analytics, Azure SQL Database, SQL Server, Azure SQL Managed Instance, and Amazon RDS for SQL Server https://learn.microsoft.com/en-us/azure/data-factory/connector-troubleshoot-synapse-sql (2025-01-08 11:02 PM)
             ☐ Advanced topics https://learn.microsoft.com/en-us/azure/data-factory/sap-change-data-capture-advanced-topics (2025-01-08 11:02 PM)
-            ☐ Rest APIs for the Airflow integrated runtime https://learn.microsoft.com/en-us/azure/data-factory/rest-apis-for-airflow-integrated-runtime (2025-01-08 11:02 PM)
+            ✘ Rest APIs for the Airflow integrated runtime https://learn.microsoft.com/en-us/azure/data-factory/rest-apis-for-airflow-integrated-runtime (2025-01-08 11:02 PM) @cancelled
         ☐ Data flow script https://learn.microsoft.com/en-us/azure/data-factory/data-flow-script (2025-01-09 06:03 PM)
         ✘ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-09 12:07 PM) @cancelled
 
@@ -860,5 +860,13 @@ Azure Data Factory Documentation - Azure Data Factory | Microsoft Learn:
 
 ---
 
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-31 12:04 PM)
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-01-31 12:04 PM) @cancelled
+
+
+---
+
+                ☐ Run self-Hosted Integration Runtime in Windows container https://learn.microsoft.com/en-us/azure/data-factory/how-to-run-self-hosted-integration-runtime-in-windows-container (2025-02-05 05:33 AM)
+            ☐ Rest APIs for the Airflow integrated runtime https://learn.microsoft.com/en-us/azure/data-factory/rest-apis-for-airflow-integrated-runtime (2025-02-04 06:06 PM)
+            ☐ Sync a GitHub repository https://learn.microsoft.com/en-us/azure/data-factory/airflow-sync-github-repository (2025-02-04 06:06 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/datafactory (2025-02-07 12:08 PM)
 

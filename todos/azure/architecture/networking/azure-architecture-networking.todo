@@ -1,43 +1,43 @@
 Networking architecture design - Azure Architecture Center | Microsoft Learn:
     Networking https://learn.microsoft.com/en-us/azure/architecture/networking/ (2024-12-12 06:32 PM):
         Explore ideas about:
-            ☐ Low-latency network for industry https://learn.microsoft.com/en-us/azure/architecture/networking/idea/low-latency-network (2024-10-07 05:30 PM)
+            ✘ Low-latency network for industry https://learn.microsoft.com/en-us/azure/architecture/networking/idea/low-latency-network (2024-10-07 05:30 PM) @cancelled
         Design architectures:
             Network topology:
                 ✘ Hub-spoke network topology in Azure https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke (2024-09-12 04:46 PM) @cancelled
                 ✘ Hub-spoke topology with VWAN https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke-vwan-architecture (2024-09-12 04:46 PM) @cancelled
-                ☐ Update route tables with Route Server https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/manage-routing-azure-route-server (2024-09-12 04:46 PM)
-                ☐ Massive-scale VWAN architecture design https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/massive-scale-azure-architecture (2024-11-11 06:32 PM)
-                ☐ Virtual WAN optimized for requirements https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/performance-security-optimized-vwan (2024-11-14 06:33 PM)
-                ☐ Azure DNS Private Resolver https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/azure-dns-private-resolver (2024-09-12 04:46 PM)
+                ✘ Update route tables with Route Server https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/manage-routing-azure-route-server (2024-09-12 04:46 PM) @cancelled
+                ✘ Massive-scale VWAN architecture design https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/massive-scale-azure-architecture (2024-11-11 06:32 PM) @cancelled
+                ✘ Virtual WAN optimized for requirements https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/performance-security-optimized-vwan (2024-11-14 06:33 PM) @cancelled
+                ✘ Azure DNS Private Resolver https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/azure-dns-private-resolver (2024-09-12 04:46 PM) @cancelled
             Network security:
-                ☐ TIC 3.0 compliance https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/trusted-internet-connections (2024-11-21 06:31 PM)
+                ✘ TIC 3.0 compliance https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/trusted-internet-connections (2024-11-21 06:31 PM) @cancelled
         Apply guidance:
             Deploy private 5G networks:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/networking/guide/deploy-private-mobile-network (2024-12-18 07:03 PM)
-                ☐ Build a private 5G network https://learn.microsoft.com/en-us/azure/architecture/networking/guide/build-private-5g-network (2024-12-18 07:03 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/architecture/networking/guide/deploy-private-mobile-network (2024-12-18 07:03 PM) @cancelled
+                ✘ Build a private 5G network https://learn.microsoft.com/en-us/azure/architecture/networking/guide/build-private-5g-network (2024-12-18 07:03 PM) @cancelled
             Network topology:
-                ☐ Spoke-to-spoke networking https://learn.microsoft.com/en-us/azure/architecture/networking/guide/spoke-to-spoke-networking (2024-09-12 04:46 PM)
+                ✘ Spoke-to-spoke networking https://learn.microsoft.com/en-us/azure/architecture/networking/guide/spoke-to-spoke-networking (2024-09-12 04:46 PM) @cancelled
             Network security:
-                ☐ Segment virtual networks https://learn.microsoft.com/en-us/azure/architecture/networking/guide/network-level-segmentation (2024-09-12 04:46 PM)
-                ☐ Use a split-brain DNS configuration to host a web app https://learn.microsoft.com/en-us/azure/architecture/example-scenario/networking/split-brain-dns (2024-09-12 04:46 PM)
+                ✘ Segment virtual networks https://learn.microsoft.com/en-us/azure/architecture/networking/guide/network-level-segmentation (2024-09-12 04:46 PM) @cancelled
+                ✘ Use a split-brain DNS configuration to host a web app https://learn.microsoft.com/en-us/azure/architecture/example-scenario/networking/split-brain-dns (2024-09-12 04:46 PM) @cancelled
             Private link:
-                ☐ Resolve overlapping IP address space constraints https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-ip-constraints (2024-09-12 04:46 PM)
-                ☐ Private Link in hub-and-spoke network https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-hub-spoke-network (2024-09-12 04:46 PM)
-                ☐ Cross-tenant secure access to apps https://learn.microsoft.com/en-us/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints (2024-09-12 04:46 PM)
+                ✘ Resolve overlapping IP address space constraints https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-ip-constraints (2024-09-12 04:46 PM) @cancelled
+                ✘ Private Link in hub-and-spoke network https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-hub-spoke-network (2024-09-12 04:46 PM) @cancelled
+                ✘ Cross-tenant secure access to apps https://learn.microsoft.com/en-us/azure/architecture/networking/guide/cross-tenant-secure-access-private-endpoints (2024-09-12 04:46 PM) @cancelled
                 Guide to Private Link and DNS with Azure Virtual WAN:
-                    ☐ Guide overview https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-virtual-wan-dns-guide (2024-09-12 04:46 PM)
-                    ☐ Virtual hub extension pattern https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-virtual-wan-dns-virtual-hub-extension-pattern (2024-09-12 04:46 PM)
-                    ☐ Single region accessing single resource https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-virtual-wan-dns-single-region-workload (2024-09-12 04:46 PM)
+                    ✘ Guide overview https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-virtual-wan-dns-guide (2024-09-12 04:46 PM) @cancelled
+                    ✘ Virtual hub extension pattern https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-virtual-wan-dns-virtual-hub-extension-pattern (2024-09-12 04:46 PM) @cancelled
+                    ✘ Single region accessing single resource https://learn.microsoft.com/en-us/azure/architecture/networking/guide/private-link-virtual-wan-dns-single-region-workload (2024-09-12 04:46 PM) @cancelled
             Adopt IPv6:
-                ☐ Prevent IPv4 exhaustion https://learn.microsoft.com/en-us/azure/architecture/networking/guide/ipv4-exhaustion (2024-10-18 05:38 PM)
-                ☐ IPv6 hub-spoke network topology https://learn.microsoft.com/en-us/azure/architecture/networking/guide/ipv6-architecture (2024-09-12 04:46 PM)
+                ✘ Prevent IPv4 exhaustion https://learn.microsoft.com/en-us/azure/architecture/networking/guide/ipv4-exhaustion (2024-10-18 05:38 PM) @cancelled
+                ✘ IPv6 hub-spoke network topology https://learn.microsoft.com/en-us/azure/architecture/networking/guide/ipv6-architecture (2024-09-12 04:46 PM) @cancelled
                 ✘ Conceptual planning for IPv6 networking https://learn.microsoft.com/en-us/azure/architecture/networking/guide/ipv6-ip-planning (2024-09-12 04:46 PM) @cancelled
             Resource organization:
-                ☐ Azure NVA Firewall architecture overview https://learn.microsoft.com/en-us/azure/architecture/networking/guide/network-virtual-appliances-architecture (2024-09-12 04:46 PM)
-                ☐ Deploy highly available NVAs https://learn.microsoft.com/en-us/azure/architecture/networking/guide/nva-ha (2024-09-12 04:46 PM)
+                ✘ Azure NVA Firewall architecture overview https://learn.microsoft.com/en-us/azure/architecture/networking/guide/network-virtual-appliances-architecture (2024-09-12 04:46 PM) @cancelled
+                ✘ Deploy highly available NVAs https://learn.microsoft.com/en-us/azure/architecture/networking/guide/nva-ha (2024-09-12 04:46 PM) @cancelled
                 ✘ SDWAN integration https://learn.microsoft.com/en-us/azure/architecture/networking/guide/sdwan-integration-in-hub-and-spoke-network-topologies (2024-09-12 04:46 PM) @cancelled
-            ☐ NAT gateway framework review https://learn.microsoft.com/en-us/azure/architecture/networking/guide/well-architected-network-address-translation-gateway (2024-09-12 04:46 PM)
+            ✘ NAT gateway framework review https://learn.microsoft.com/en-us/azure/architecture/networking/guide/well-architected-network-address-translation-gateway (2024-09-12 04:46 PM) @cancelled
 
 
 ---
@@ -47,15 +47,21 @@ Networking architecture design - Azure Architecture Center | Microsoft Learn:
 
 ---
 
-                ☐ SDWAN integration https://learn.microsoft.com/en-us/azure/architecture/networking/guide/sdwan-integration-in-hub-and-spoke-network-topologies (2025-01-22 06:30 PM)
+                ✘ SDWAN integration https://learn.microsoft.com/en-us/azure/architecture/networking/guide/sdwan-integration-in-hub-and-spoke-network-topologies (2025-01-22 06:30 PM) @cancelled
 
 
 ---
 
-                ☐ Hub-spoke network topology in Azure https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke (2025-01-28 06:41 PM)
+                ✘ Hub-spoke network topology in Azure https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke (2025-01-28 06:41 PM) @cancelled
 
 
 ---
 
                 ✔ Hub-spoke topology with VWAN https://learn.microsoft.com/en-us/azure/architecture/networking/architecture/hub-spoke-vwan-architecture (2024-09-12 04:46 PM) @done(25-01-31 22:44)
+
+
+---
+
+    Networking https://learn.microsoft.com/en-us/azure/architecture/networking/ (2025-02-04 06:33 PM):
+                ☐ Use a split-brain DNS configuration to host a web app https://learn.microsoft.com/en-us/azure/architecture/example-scenario/networking/split-brain-dns (2025-02-06 06:33 PM)
 

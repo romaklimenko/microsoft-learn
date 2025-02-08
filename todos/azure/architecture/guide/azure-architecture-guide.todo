@@ -79,7 +79,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ Containers for confidential computing https://learn.microsoft.com/azure/confidential-computing/choose-confidential-containers-offerings (2024-08-22 07:16 PM)
             Choose an identity service:
                 ✘ Active Directory services https://learn.microsoft.com/azure/active-directory-domain-services/compare-identity-solutions (2024-10-11 10:00 PM) @cancelled
-                ☐ Hybrid identity authentication methods https://learn.microsoft.com/azure/active-directory/hybrid/choose-ad-authn (2024-12-20 11:01 PM)
+                ✘ Hybrid identity authentication methods https://learn.microsoft.com/azure/active-directory/hybrid/choose-ad-authn (2024-12-20 11:01 PM) @cancelled
             Choose a storage service:
                 ✘ Storage options https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/storage-options (2024-09-09 10:27 PM) @cancelled
                 ✘ Managed disk types https://learn.microsoft.com/azure/virtual-machines/disks-types (2024-08-23 04:58 PM) @cancelled
@@ -670,7 +670,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ✘ Limit cross-tenant private endpoints https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-best-practices/limit-cross-tenant-private-endpoint-connections (2024-10-22 05:01 PM) @cancelled
                     ✘ Resource organization https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json (2024-05-29 04:59 PM) @cancelled
                 Hybrid identity:
-                    ☐ Choose a hybrid identity method https://learn.microsoft.com/azure/active-directory/hybrid/choose-ad-authn (2024-12-20 11:01 PM)
+                    ✘ Choose a hybrid identity method https://learn.microsoft.com/azure/active-directory/hybrid/choose-ad-authn (2024-12-20 11:01 PM) @cancelled
                     ☐ Cloud management for on-premises https://learn.microsoft.com/azure/active-directory/hybrid/cloud-governed-management-for-on-premises (2024-12-18 10:57 PM)
                     ☐ Hybrid identity foundation with Microsoft Entra ID https://learn.microsoft.com/azure/active-directory/hybrid/four-steps (2024-09-08 11:11 PM)
                     ✘ Microsoft Entra Connect for on-premises https://learn.microsoft.com/azure/active-directory/hybrid/whatis-azure-ad-connect (2024-12-05 06:04 PM) @cancelled
@@ -1569,7 +1569,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                         ☐ Azure Local stretched clusters for DR https://learn.microsoft.com/en-us/azure/architecture/guide/hybrid/azure-local-dr (2024-09-09 10:27 PM)
                             ☐ AKS on Azure Local baseline architecture https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/hybrid/aks-baseline (2024-09-09 10:27 PM)
                             ☐ AKS on Azure Local network architecture https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/hybrid/aks-network (2024-09-09 10:27 PM)
-                            ☐ Deploy apps with AKS hybrid on Azure Stack ACI https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/hybrid/aks-hybrid-azure-local (2024-09-09 10:27 PM)
+                            ✘ Deploy apps with AKS hybrid on Azure Stack ACI https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/hybrid/aks-hybrid-azure-local (2024-09-09 10:27 PM) @cancelled
                         ☐ Azure Local cross cluster scaling https://learn.microsoft.com/en-us/azure/architecture/guide/hybrid/hybrid-cross-cluster-scaling (2024-09-09 10:27 PM)
                         ☐ Azure Virtual Desktop for Azure Local https://learn.microsoft.com/en-us/azure/architecture/guide/hybrid/azure-local-workload-virtual-desktop (2024-09-09 10:27 PM)
                 ☐ Connect on-premises with ExpressRoute https://learn.microsoft.com/en-us/azure/architecture/guide/reference-architectures/hybrid-networking/expressroute-vpn-failover (2024-09-09 10:27 PM)
@@ -1585,7 +1585,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                 ☐ Public MEC high availability https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/hybrid/multi-access-edge-compute-ha (2024-09-09 10:27 PM)
                 ☐ Use file shares in a hybrid environment https://learn.microsoft.com/en-us/azure/architecture/guide/hybrid/azure-file-share (2024-09-09 10:27 PM)
             ☐ Get started https://learn.microsoft.com/en-us/azure/architecture/guide/identity/identity-start-here (2024-09-09 10:27 PM)
-                ☐ Cross-tenant communication https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/cross-tenant-communication-using-multitenanted-applications (2024-09-09 10:27 PM)
+                ✘ Cross-tenant communication https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/cross-tenant-communication-using-multitenanted-applications (2024-09-09 10:27 PM) @cancelled
                 ☐ Build for resilience https://learn.microsoft.com/en-us/azure/architecture/guide/guide/resilience/resilience-overview (2024-09-09 10:27 PM)
                     ☐ Conditional Access for Zero trust https://learn.microsoft.com/en-us/azure/architecture/guide/guide/security/conditional-access-zero-trust (2024-09-09 10:27 PM)
                     ☐ Conditional Access design principles https://learn.microsoft.com/en-us/azure/architecture/guide/guide/security/conditional-access-design (2024-09-09 10:27 PM)
@@ -1662,7 +1662,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
             ☐ Get started https://learn.microsoft.com/en-us/azure/architecture/guide/guide/migration/migration-start-here (2024-09-09 10:27 PM)
                     ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/guide/guide/hadoop/overview (2024-09-09 10:27 PM)
                     ☐ Apache HBase migration to Azure https://learn.microsoft.com/en-us/azure/architecture/guide/guide/hadoop/apache-hbase-migration (2024-09-09 10:27 PM)
-                    ☐ Apache Kafka migration to Azure https://learn.microsoft.com/en-us/azure/architecture/guide/guide/hadoop/apache-kafka-migration (2024-09-09 10:27 PM)
+                    ✘ Apache Kafka migration to Azure https://learn.microsoft.com/en-us/azure/architecture/guide/guide/hadoop/apache-kafka-migration (2024-09-09 10:27 PM) @cancelled
                     ☐ Apache Sqoop migration to Azure https://learn.microsoft.com/en-us/azure/architecture/guide/guide/hadoop/apache-sqoop-migration (2024-09-09 10:27 PM)
                     ☐ Banking cloud transformation https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/banking/banking-system-cloud-transformation (2024-09-09 10:27 PM)
                     ☐ Patterns and implementations https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/banking/patterns-and-implementations (2024-09-09 10:27 PM)
@@ -1749,7 +1749,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
         ☐ Saga https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/saga (2024-09-09 10:27 PM)
                     ☐ Connectors overview https://learn.microsoft.com/azure/connectors/apis-list (2025-01-14 01:01 AM)
                     ✘ Support for VMware migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-vmware-migration (2025-01-14 12:35 PM) @cancelled
-    ☐ Cloud Adoption Framework for Azure https://learn.microsoft.com/azure/cloud-adoption-framework/ (2025-01-14 06:00 PM)
+    ✘ Cloud Adoption Framework for Azure https://learn.microsoft.com/azure/cloud-adoption-framework/ (2025-01-14 06:00 PM) @cancelled
 
 
 ---
@@ -1758,26 +1758,26 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
             ☐ Design for operations https://learn.microsoft.com/en-us/azure/architecture/guide/guide/design-principles/design-for-operations (2024-09-09 10:27 PM)
                 ☐ Understand data stores in Azure https://learn.microsoft.com/en-us/azure/architecture/guide/data-guide/technology-choices/data-store-classification (2024-09-09 10:27 PM)
                     ☐ Vector search https://learn.microsoft.com/en-us/azure/architecture/guide/guide/technology-choices/vector-search (2024-09-09 10:27 PM)
-                ☐ Overview https://learn.microsoft.com/azure/cloud-adoption-framework/strategy/responsible-ai (2025-01-15 06:02 PM)
-                ☐ Six key principles https://learn.microsoft.com/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai (2025-01-15 06:02 PM)
-                    ☐ GC Ubuntu with Terraform https://learn.microsoft.com/azure/cloud-adoption-framework/manage/hybrid/server/best-practices/gcp-terraform-ubuntu (2023-08-23 04:47 PM)
-                    ☐ GC Windows with Terraform https://learn.microsoft.com/azure/cloud-adoption-framework/manage/hybrid/server/best-practices/gcp-terraform-windows (2023-08-23 04:47 PM)
-                    ☐ BCDR for AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-business-continuity-and-disaster-recovery (2024-11-21 06:02 PM)
+                ✘ Overview https://learn.microsoft.com/azure/cloud-adoption-framework/strategy/responsible-ai (2025-01-15 06:02 PM) @cancelled
+                ✘ Six key principles https://learn.microsoft.com/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai (2025-01-15 06:02 PM) @cancelled
+                    ✘ GC Ubuntu with Terraform https://learn.microsoft.com/azure/cloud-adoption-framework/manage/hybrid/server/best-practices/gcp-terraform-ubuntu (2023-08-23 04:47 PM) @cancelled
+                    ✘ GC Windows with Terraform https://learn.microsoft.com/azure/cloud-adoption-framework/manage/hybrid/server/best-practices/gcp-terraform-windows (2023-08-23 04:47 PM) @cancelled
+                    ✘ BCDR for AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-business-continuity-and-disaster-recovery (2024-11-21 06:02 PM) @cancelled
                     ✘ Govern AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/govern (2024-05-14 05:09 PM) @cancelled
-                    ☐ Manage and monitor AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring (2024-07-16 04:57 PM)
-                    ☐ Migrate with AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/migrate (2024-06-13 04:56 PM)
-                        ☐ Network topology and connectivity https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-network-topology-connectivity (2024-03-01 05:58 PM)
-                    ☐ Platform automation for AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-platform-automation-and-devops (2024-05-14 05:09 PM)
-                    ☐ Security and governance for AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-security-governance-and-compliance (2024-10-31 05:01 PM)
-                    ☐ Azure billing and Microsoft Entra tenants https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/azure-billing-ad-tenant?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json (2024-11-29 05:59 PM)
-                    ☐ Identity and access management https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/identity-access?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json (2024-12-13 06:00 PM)
-                    ☐ Limit cross-tenant private endpoints https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-best-practices/limit-cross-tenant-private-endpoint-connections (2024-10-22 05:01 PM)
-                    ☐ Resource organization https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json (2024-05-29 04:59 PM)
-                    ☐ BCDR for Azure VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-business-continuity-and-disaster-recovery (2024-11-21 06:02 PM)
-                ☐ Management for Azure environments https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/management (2024-12-13 06:00 PM)
-                ☐ Management for VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring (2024-07-16 04:57 PM)
-                    ☐ Migrate with Azure VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/migrate (2024-06-13 04:56 PM)
-                ☐ Azure governance design area https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/governance (2024-12-13 06:00 PM)
+                    ✘ Manage and monitor AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring (2024-07-16 04:57 PM) @cancelled
+                    ✘ Migrate with AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/migrate (2024-06-13 04:56 PM) @cancelled
+                        ✘ Network topology and connectivity https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-network-topology-connectivity (2024-03-01 05:58 PM) @cancelled
+                    ✘ Platform automation for AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-platform-automation-and-devops (2024-05-14 05:09 PM) @cancelled
+                    ✘ Security and governance for AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-security-governance-and-compliance (2024-10-31 05:01 PM) @cancelled
+                    ✘ Azure billing and Microsoft Entra tenants https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/azure-billing-ad-tenant?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json (2024-11-29 05:59 PM) @cancelled
+                    ✘ Identity and access management https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/identity-access?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json (2024-12-13 06:00 PM) @cancelled
+                    ✘ Limit cross-tenant private endpoints https://learn.microsoft.com/azure/cloud-adoption-framework/ready/azure-best-practices/limit-cross-tenant-private-endpoint-connections (2024-10-22 05:01 PM) @cancelled
+                    ✘ Resource organization https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/resource-org?toc=/azure/architecture/toc.json&bc=/azure/architecture/_bread/toc.json (2024-05-29 04:59 PM) @cancelled
+                    ✘ BCDR for Azure VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-business-continuity-and-disaster-recovery (2024-11-21 06:02 PM) @cancelled
+                ✘ Management for Azure environments https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/management (2024-12-13 06:00 PM) @cancelled
+                ✘ Management for VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring (2024-07-16 04:57 PM) @cancelled
+                    ✘ Migrate with Azure VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/migrate (2024-06-13 04:56 PM) @cancelled
+                ✘ Azure governance design area https://learn.microsoft.com/azure/cloud-adoption-framework/ready/landing-zone/design-area/governance (2024-12-13 06:00 PM) @cancelled
                     ✘ Connect Microsoft Defender XDR https://learn.microsoft.com/azure/sentinel/connect-microsoft-365-defender (2025-01-15 06:04 PM) @cancelled
 
 
@@ -1840,7 +1840,7 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
         ✘ Sequential Convoy https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/sequential-convoy @cancelled
                     ☐ Compare Stack HCI to Windows Server https://learn.microsoft.com/azure-stack/hci/concepts/compare-windows-server (2025-01-23 06:02 PM)
                     ☐ App Service on Azure Arc https://learn.microsoft.com/azure/app-service/overview-arc-integration (2025-01-22 11:02 PM)
-                    ☐ Govern AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/govern (2025-01-23 06:01 PM)
+                    ✘ Govern AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/govern (2025-01-23 06:01 PM) @cancelled
 
 
 ---
@@ -1860,19 +1860,19 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
 
                 ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-27 11:01 PM)
                     ☐ Compare Azure Local and Stack Hub https://learn.microsoft.com/azure-stack/hci/concepts/compare-azure-stack-hub (2025-01-27 11:01 PM)
-                    ☐ Support for VMware migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-vmware-migration (2025-01-27 12:12 PM)
+                    ✘ Support for VMware migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-vmware-migration (2025-01-27 12:12 PM) @cancelled
                     ☐ Support for physical server migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-physical-migration (2025-01-27 12:12 PM)
                     ☐ Storage encryption for data at rest https://learn.microsoft.com/azure/storage/common/storage-service-encryption (2025-01-27 11:07 PM)
 
 
 ---
 
-                ☐ Managed disk types https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-28 11:09 PM)
-                    ☐ Connect Google Cloud projects https://learn.microsoft.com/azure/defender-for-cloud/quickstart-onboard-gcp (2025-01-29 12:18 PM)
+                ✘ Managed disk types https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-28 11:09 PM) @cancelled
+                    ✘ Connect Google Cloud projects https://learn.microsoft.com/azure/defender-for-cloud/quickstart-onboard-gcp (2025-01-29 12:18 PM) @cancelled
                 ☐ Build workloads with Azure Spot Virtual Machines https://learn.microsoft.com/en-us/azure/architecture/guide/guide/spot/spot-eviction (2024-09-09 10:27 PM)
                     ☐ Overview https://learn.microsoft.com/azure/logic-apps/logic-apps-overview (2025-01-29 12:19 PM)
                     ☐ Overview https://learn.microsoft.com/azure/defender-for-cloud/defender-for-cloud-introduction (2025-01-29 12:18 PM)
-                    ☐ Choose a managed disk type https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-28 11:09 PM)
+                    ✘ Choose a managed disk type https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-01-28 11:09 PM) @cancelled
 
 
 ---
@@ -1892,4 +1892,23 @@ Azure Application Architecture Fundamentals - Azure Architecture Center | Micros
                     ☐ Server-side encryption https://learn.microsoft.com/azure/virtual-machines/disk-encryption (2025-02-02 12:05 PM)
                 ☐ AVD for Azure Local https://learn.microsoft.com/azure/virtual-desktop/azure-local-overview (2025-02-02 12:10 PM)
     ☐ Microsoft Azure Well-Architected Framework https://learn.microsoft.com/azure/well-architected/ (2025-01-31 11:04 PM)
+
+
+---
+
+                ☐ Hybrid identity authentication methods https://learn.microsoft.com/azure/active-directory/hybrid/choose-ad-authn (2025-02-05 11:00 PM)
+                ☐ Managed disk types https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-02-06 05:34 AM)
+                ☐ Overview https://learn.microsoft.com/azure/cloud-adoption-framework/strategy/responsible-ai (2025-02-03 06:03 PM)
+                ☐ Six key principles https://learn.microsoft.com/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai (2025-02-03 06:03 PM)
+                    ☐ Connect Google Cloud projects https://learn.microsoft.com/azure/defender-for-cloud/quickstart-onboard-gcp (2025-02-03 06:05 PM)
+                    ☐ Govern AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/govern (2025-02-06 06:05 PM)
+                    ☐ Manage and monitor AVS https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring (2025-02-06 06:05 PM)
+                            ☐ Deploy apps with AKS on Azure Local https://learn.microsoft.com/en-us/azure/architecture/guide/example-scenario/hybrid/aks-hybrid-azure-local (2024-09-09 10:27 PM)
+                ☐ Cross-tenant communication https://learn.microsoft.com/en-us/azure/architecture/guide/patterns/cross-tenant-communication-using-multitenanted-applications
+                ☐ Cross-tenant secure access to apps https://learn.microsoft.com/en-us/azure/architecture/guide/networking/guide/cross-tenant-secure-access-private-endpoints (2024-09-09 10:27 PM)
+                ☐ Apache Kafka migration to Azure https://learn.microsoft.com/en-us/azure/architecture/guide/guide/hadoop/apache-kafka-migration (2024-09-09 10:27 PM)
+                ☐ Management for VMware Solution https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/azure-vmware/eslz-management-and-monitoring (2025-02-06 06:05 PM)
+                    ☐ Support for VMware migration https://learn.microsoft.com/azure/migrate/migrate-support-matrix-vmware-migration (2025-02-06 12:11 PM)
+                    ☐ Choose a managed disk type https://learn.microsoft.com/azure/virtual-machines/disks-types (2025-02-06 05:34 AM)
+    ☐ Cloud Adoption Framework for Azure https://learn.microsoft.com/azure/cloud-adoption-framework/ (2025-02-07 06:02 PM)
 

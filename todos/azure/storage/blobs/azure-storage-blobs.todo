@@ -217,7 +217,7 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ☐ Regions that support GZRS https://learn.microsoft.com/en-us/azure/storage/common/redundancy-regions-gzrs?toc=/azure/storage/blobs/toc.json (2023-10-22 11:24 AM)
             Disaster recovery:
                 ✘ Disaster recovery planning and failover https://learn.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-22 05:58 AM) @cancelled
-                ☐ How customer-managed planned failover (preview) works https://learn.microsoft.com/en-us/azure/storage/common/storage-failover-customer-managed-planned?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-10-08 05:34 AM)
+                ✘ How customer-managed planned failover (preview) works https://learn.microsoft.com/en-us/azure/storage/common/storage-failover-customer-managed-planned?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-10-08 05:34 AM) @cancelled
                 ✘ How customer-managed (unplanned) failover works https://learn.microsoft.com/en-us/azure/storage/common/storage-failover-customer-managed-unplanned?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05 10:12 PM) @cancelled
                 ✘ Initiate account failover https://learn.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05 10:12 PM) @cancelled
                 ☐ Check the Last Sync Time property https://learn.microsoft.com/en-us/azure/storage/common/last-sync-time-get?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05 10:12 PM)
@@ -279,10 +279,10 @@ Azure Blob Storage documentation | Microsoft Learn:
                     ✘ Get started https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-dotnet-get-started (2024-11-05 06:07 PM) @cancelled
                     Authorize access from your application:
                         Microsoft Entra ID:
-                            ☐ Overview https://learn.microsoft.com/dotnet/azure/sdk/authentication?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-15 08:08 AM)
+                            ✘ Overview https://learn.microsoft.com/dotnet/azure/sdk/authentication?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-15 08:08 AM) @cancelled
                             ☐ Auth using developer service principals https://learn.microsoft.com/dotnet/azure/sdk/authentication-local-development-service-principal?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05 06:43 PM)
                             ☐ Auth using developer accounts https://learn.microsoft.com/dotnet/azure/sdk/authentication-local-development-dev-accounts?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05 06:43 PM)
-                            ☐ Auth from Azure-hosted apps https://learn.microsoft.com/dotnet/azure/sdk/authentication-azure-hosted-apps?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05 06:43 PM)
+                            ✘ Auth from Azure-hosted apps https://learn.microsoft.com/dotnet/azure/sdk/authentication-azure-hosted-apps?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05 06:43 PM) @cancelled
                             ☐ Auth from on-premises apps https://learn.microsoft.com/dotnet/azure/sdk/authentication-on-premises-apps?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05 06:43 PM)
                         Shared access signature (SAS):
                             ✘ Authorize using a user delegation SAS https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-user-delegation-sas-create-dotnet (2024-09-06 10:05 PM) @cancelled
@@ -314,7 +314,7 @@ Azure Blob Storage documentation | Microsoft Learn:
                     Client library configuration options:
                         ✘ Performance tuning for uploads and downloads https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-tune-upload-download (2024-08-22 05:04 PM) @cancelled
                         ✘ Implement a retry policy https://learn.microsoft.com/en-us/azure/storage/blobs/storage-retry-policy (2024-11-19 11:02 PM) @cancelled
-                        ☐ Configure logging https://learn.microsoft.com/dotnet/azure/sdk/logging?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-04-09 12:15 PM)
+                        ✘ Configure logging https://learn.microsoft.com/dotnet/azure/sdk/logging?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-04-09 12:15 PM) @cancelled
                         ✘ Manage concurrency https://learn.microsoft.com/en-us/azure/storage/blobs/concurrency-manage (2024-09-04 10:09 PM) @cancelled
                         ✘ Provide an encryption key on a write request https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-customer-provided-key (2023-10-12 11:16 AM) @cancelled
                     ✘ Tutorial: Upload and process image files https://learn.microsoft.com/en-us/azure/storage/blobs/blob-upload-function-trigger (2024-08-28 07:22 PM) @cancelled
@@ -457,7 +457,7 @@ Azure Blob Storage documentation | Microsoft Learn:
             Test with a storage emulator:
                 ☐ Use the Azurite open-source emulator https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-02-20 06:05 PM)
                 ✘ Use Azurite to run automated tests https://learn.microsoft.com/en-us/azure/storage/blobs/use-azurite-to-run-automated-tests (2023-09-12 11:19 AM) @cancelled
-                ☐ Use the Azure Storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-06-27 05:04 PM)
+                ✘ Use the Azure Storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-06-27 05:04 PM) @cancelled
             Change feed and events:
                 ✘ Change feed https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-change-feed (2024-10-09 05:07 PM) @cancelled
                 ✘ Process change feed logs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-change-feed-how-to (2024-06-07 05:04 PM) @cancelled
@@ -1203,8 +1203,8 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ☐ Plan to upgrade an account https://learn.microsoft.com/en-us/azure/storage/blobs/upgrade-to-data-lake-storage-gen2 (2024-11-26 11:03 PM)
                 ☐ Upgrade an account https://learn.microsoft.com/en-us/azure/storage/blobs/upgrade-to-data-lake-storage-gen2-how-to (2024-11-26 11:03 PM)
                 ☐ What is BlobFuse2? https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-what-is (2024-11-19 06:02 PM)
-                ☐ Deploy BlobFuse2 on Linux https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-how-to-deploy (2024-12-13 11:03 PM)
-                ☐ Deploy BlobFuse v1 on Linux https://learn.microsoft.com/en-us/azure/storage/blobs/storage-how-to-mount-container-linux (2024-06-24 10:06 PM)
+                ✘ Deploy BlobFuse2 on Linux https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-how-to-deploy (2024-12-13 11:03 PM) @cancelled
+                ✘ Deploy BlobFuse v1 on Linux https://learn.microsoft.com/en-us/azure/storage/blobs/storage-how-to-mount-container-linux (2024-06-24 10:06 PM) @cancelled
                 ☐ Health Monitor for BlobFuse2 https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-health-monitor (2024-05-03 11:20 AM)
                 ☐ Troubleshoot BlobFuse2 https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-troubleshooting (2024-05-03 11:20 AM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/network-file-system-protocol-support (2024-12-09 06:04 PM)
@@ -1239,11 +1239,11 @@ Azure Blob Storage documentation | Microsoft Learn:
             ☐ Security recommendations https://learn.microsoft.com/en-us/azure/storage/blobs/security-recommendations (2024-09-11 06:38 PM)
                     ☐ Manage encryption scopes https://learn.microsoft.com/en-us/azure/storage/blobs/encryption-scope-manage (2024-01-17 12:14 PM)
                 ☐ Check whether a blob is encrypted https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-encryption-status (2023-10-22 11:24 AM)
-                ☐ Customer-provided keys https://learn.microsoft.com/en-us/azure/storage/blobs/encryption-customer-provided-keys (2023-10-22 11:24 AM)
+                ✘ Customer-provided keys https://learn.microsoft.com/en-us/azure/storage/blobs/encryption-customer-provided-keys (2023-10-22 11:24 AM) @cancelled
                 ☐ Configure client-side encryption https://learn.microsoft.com/en-us/azure/storage/blobs/client-side-encryption (2024-10-03 10:03 PM)
                 ☐ Encrypt and decrypt blobs using Azure Key Vault https://learn.microsoft.com/en-us/azure/storage/blobs/storage-encrypt-decrypt-blobs-key-vault (2024-08-07 10:04 PM)
                 ☐ Use a custom domain https://learn.microsoft.com/en-us/azure/storage/blobs/storage-custom-domain-name (2024-06-27 05:04 PM)
-                        ☐ Portal https://learn.microsoft.com/en-us/azure/storage/blobs/authorize-data-operations-portal (2024-10-30 07:28 PM)
+                        ✘ Portal https://learn.microsoft.com/en-us/azure/storage/blobs/authorize-data-operations-portal (2024-10-30 07:28 PM) @cancelled
                         ☐ PowerShell https://learn.microsoft.com/en-us/azure/storage/blobs/authorize-data-operations-powershell (2023-11-06 05:42 AM)
                         ☐ Azure CLI https://learn.microsoft.com/en-us/azure/storage/blobs/authorize-data-operations-cli (2023-10-22 11:24 AM)
                         ☐ Authorize with Microsoft Entra ID and Azure RBAC https://learn.microsoft.com/en-us/azure/storage/blobs/authorize-access-azure-active-directory (2024-08-29 05:56 AM)
@@ -1285,7 +1285,7 @@ Azure Blob Storage documentation | Microsoft Learn:
                 ☐ Object replication https://learn.microsoft.com/en-us/azure/storage/blobs/object-replication-overview (2024-12-02 06:04 PM)
                 ☐ Configure object replication policies https://learn.microsoft.com/en-us/azure/storage/blobs/object-replication-configure (2023-11-02 10:02 PM)
                 ☐ Prevent object replication across tenants https://learn.microsoft.com/en-us/azure/storage/blobs/object-replication-prevent-cross-tenant-policies (2023-12-12 11:04 PM)
-                ☐ Map each REST operation to a price https://learn.microsoft.com/en-us/azure/storage/blobs/map-rest-apis-transaction-categories (2024-08-29 05:56 AM)
+                ✘ Map each REST operation to a price https://learn.microsoft.com/en-us/azure/storage/blobs/map-rest-apis-transaction-categories (2024-08-29 05:56 AM) @cancelled
                 ☐ Estimate the cost of Azure Blob Storage https://learn.microsoft.com/en-us/azure/storage/blobs/blob-storage-estimate-costs (2025-01-06 11:02 PM)
                 ☐ Estimate the cost of AzCopy transfers https://learn.microsoft.com/en-us/azure/storage/blobs/azcopy-cost-estimation (2025-01-06 11:02 PM)
                 ☐ Estimate the cost to archive data https://learn.microsoft.com/en-us/azure/storage/blobs/archive-cost-estimation (2024-10-11 10:04 PM)
@@ -1457,7 +1457,7 @@ Azure Blob Storage documentation | Microsoft Learn:
             ☐ Supported Azure services https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-supported-azure-services (2024-08-29 05:56 AM)
             ☐ Supported open source platforms https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-supported-open-source-platforms (2024-08-29 05:56 AM)
             ☐ Premium tier for Data Lake Storage https://learn.microsoft.com/en-us/azure/storage/blobs/premium-tier-for-data-lake-storage (2024-11-26 11:03 PM)
-            ☐ Known issues https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-known-issues (2024-11-26 11:03 PM)
+            ✘ Known issues https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-known-issues (2024-11-26 11:03 PM) @cancelled
             ☐ Access control model https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-access-control-model (2024-12-03 11:07 PM)
             ☐ Access control lists https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-access-control (2024-12-03 11:07 PM)
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-acl-azure-portal (2024-11-26 11:03 PM)
@@ -1516,16 +1516,42 @@ Azure Blob Storage documentation | Microsoft Learn:
 ---
 
             ☐ Storage accounts overview https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-31 12:25 PM)
-                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-31 12:39 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-31 12:04 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-31 12:06 PM)
-                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-31 12:04 PM)
-                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-31 12:06 PM)
-                ☐ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2025-01-23 12:08 PM)
-                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-31 12:39 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-31 12:04 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-31 12:06 PM)
-                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-31 12:04 PM)
-                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-31 12:06 PM)
-            ☐ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2025-01-23 12:08 PM)
+                    ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-31 12:39 PM) @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-31 12:04 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-31 12:06 PM) @cancelled
+                    ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-31 12:04 PM) @cancelled
+                    ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-31 12:06 PM) @cancelled
+                ✘ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2025-01-23 12:08 PM) @cancelled
+                ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-31 12:39 PM) @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-31 12:04 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-31 12:06 PM) @cancelled
+                ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-31 12:04 PM) @cancelled
+                ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-31 12:06 PM) @cancelled
+            ✘ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2025-01-23 12:08 PM) @cancelled
+
+
+---
+
+                ☐ Deploy BlobFuse2 on Linux https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-how-to-deploy (2025-02-05 06:02 PM)
+                ☐ Deploy BlobFuse v1 on Linux https://learn.microsoft.com/en-us/azure/storage/blobs/storage-how-to-mount-container-linux (2025-02-05 06:02 PM)
+                ☐ Customer-provided keys https://learn.microsoft.com/en-us/azure/storage/blobs/encryption-customer-provided-keys (2025-02-03 11:15 PM)
+                        ☐ Portal https://learn.microsoft.com/en-us/azure/storage/blobs/authorize-data-operations-portal (2025-02-06 11:03 PM)
+                ☐ How customer-managed planned failover (preview) works https://learn.microsoft.com/en-us/azure/storage/common/storage-failover-customer-managed-planned?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-06 05:37 AM)
+                ☐ Map each REST operation to a price https://learn.microsoft.com/en-us/azure/storage/blobs/map-rest-apis-transaction-categories (2025-02-03 11:15 PM)
+                            ☐ Overview https://learn.microsoft.com/dotnet/azure/sdk/authentication?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-07 08:15 AM)
+                            ☐ Auth from Azure-hosted apps https://learn.microsoft.com/dotnet/azure/sdk/authentication-azure-hosted-apps?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-07 08:15 AM)
+                        ☐ Configure logging https://learn.microsoft.com/dotnet/azure/sdk/logging?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-06 10:17 AM)
+                ☐ Use the Azure Storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-06 06:03 PM)
+                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-02-07 12:28 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-02-07 12:08 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-02-07 12:09 PM)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-02-07 12:08 PM)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-02-07 12:09 PM)
+                ☐ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme
+            ☐ Known issues https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-known-issues (2025-02-03 11:15 PM)
+                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-02-07 12:28 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-02-07 12:08 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-02-07 12:09 PM)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-02-07 12:08 PM)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-02-07 12:09 PM)
 

@@ -47,7 +47,7 @@ Azure Table storage documentation | Microsoft Learn:
         ☐ Recover a deleted storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-recover?toc=/azure/storage/tables/toc.json (2024-11-07 11:02 PM)
         ☐ Migrate a classic account to Azure Resource Manager https://learn.microsoft.com/en-us/azure/storage/common/classic-account-migrate?toc=/azure/storage/tables/toc.json (2024-08-22 07:16 PM)
         ☐ Get account configuration properties https://learn.microsoft.com/en-us/azure/storage/common/storage-account-get-info?toc=/azure/storage/tables/toc.json (2023-12-06 11:03 PM)
-        ☐ Use the storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/tables/toc.json (2024-06-27 05:04 PM)
+        ✘ Use the storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/tables/toc.json (2024-06-27 05:04 PM) @cancelled
         Authorize access to table data:
             ☐ Manage access rights with Azure RBAC https://learn.microsoft.com/en-us/azure/storage/tables/assign-azure-role-data-access (2024-08-28 07:22 PM)
             ☐ View and manage account keys https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?toc=/azure/storage/tables/toc.json (2024-11-19 06:02 PM)
@@ -322,9 +322,19 @@ Azure Table storage documentation | Microsoft Learn:
 ---
 
         ☐ Storage accounts https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=/azure/storage/tables/toc.json (2025-01-31 12:25 PM)
-            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-31 12:39 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-31 12:04 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-31 12:06 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-31 12:04 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-31 12:06 PM)
+            ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-31 12:39 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-31 12:04 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-31 12:06 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-31 12:04 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-31 12:06 PM) @cancelled
+
+
+---
+
+        ☐ Use the storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/tables/toc.json (2025-02-06 06:03 PM)
+            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-02-07 12:28 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-02-07 12:08 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-02-07 12:09 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-02-07 12:08 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-02-07 12:09 PM)
 

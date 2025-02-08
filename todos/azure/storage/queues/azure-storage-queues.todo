@@ -68,7 +68,7 @@ Azure Queue storage documentation | Microsoft Learn:
         Secure queue data:
             Authorize access to queue data:
                 Authorization options for users:
-                    ☐ Portal https://learn.microsoft.com/en-us/azure/storage/queues/authorize-data-operations-portal (2024-02-05 06:03 PM)
+                    ✘ Portal https://learn.microsoft.com/en-us/azure/storage/queues/authorize-data-operations-portal (2024-02-05 06:03 PM) @cancelled
                     ☐ PowerShell https://learn.microsoft.com/en-us/azure/storage/queues/authorize-data-operations-powershell (2024-06-27 05:04 PM)
                     ☐ Azure CLI https://learn.microsoft.com/en-us/azure/storage/queues/authorize-data-operations-cli (2023-11-06 05:42 AM)
                 ☐ Manage access rights with Azure RBAC https://learn.microsoft.com/en-us/azure/storage/queues/assign-azure-role-data-access (2024-08-28 07:22 PM)
@@ -106,7 +106,7 @@ Azure Queue storage documentation | Microsoft Learn:
             ✘ Initiate account failover https://learn.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?toc=/azure/storage/queues/toc.json (2024-08-05 10:12 PM) @cancelled
         Use a storage emulator:
             ☐ Use the Azurite open-source emulator https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?toc=/azure/storage/queues/toc.json (2024-02-20 06:05 PM)
-            ☐ Use the Azure Storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/queues/toc.json (2024-06-27 05:04 PM)
+            ✘ Use the Azure Storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/queues/toc.json (2024-06-27 05:04 PM) @cancelled
         Manage queues:
             ☐ PowerShell for Azure Queues https://learn.microsoft.com/en-us/azure/storage/queues/storage-powershell-how-to-use-queues (2024-06-27 05:04 PM)
             ☐ PowerShell for China, Government, and German clouds https://learn.microsoft.com/en-us/azure/storage/common/storage-powershell-independent-clouds?toc=/azure/storage/queues/toc.json (2024-06-27 05:04 PM)
@@ -384,9 +384,20 @@ Azure Queue storage documentation | Microsoft Learn:
 ---
 
         ☐ Storage accounts https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=/azure/storage/queues/toc.json (2025-01-31 12:25 PM)
-            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-31 12:39 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-31 12:04 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-31 12:06 PM)
-            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-31 12:04 PM)
-            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-31 12:06 PM)
+            ✘ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-01-31 12:39 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-01-31 12:04 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-01-31 12:06 PM) @cancelled
+            ✘ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-01-31 12:04 PM) @cancelled
+            ✘ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-01-31 12:06 PM) @cancelled
+
+
+---
+
+                    ☐ Portal https://learn.microsoft.com/en-us/azure/storage/queues/authorize-data-operations-portal (2025-02-06 11:03 PM)
+            ☐ Use the Azure Storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/queues/toc.json (2025-02-06 06:03 PM)
+            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-02-07 12:28 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-02-07 12:08 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-02-07 12:09 PM)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-02-07 12:08 PM)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-02-07 12:09 PM)
 

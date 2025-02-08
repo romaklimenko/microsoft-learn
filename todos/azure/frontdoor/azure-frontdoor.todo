@@ -109,7 +109,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 ✘ DDoS protection https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos (2024-11-19 06:02 PM) @cancelled
                 ✘ About TLS encryption https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls (2024-12-12 11:04 PM) @cancelled
                 ✘ Web Application Firewall https://learn.microsoft.com/en-us/azure/frontdoor/web-application-firewall (2024-11-19 06:02 PM) @cancelled
-                ☐ Geo-filtering https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-geo-filtering?toc=/azure/frontdoor/toc.json (2024-11-19 11:02 PM)
+                ✘ Geo-filtering https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-geo-filtering?toc=/azure/frontdoor/toc.json (2024-11-19 11:02 PM) @cancelled
                 ✘ Secure traffic to origins https://learn.microsoft.com/en-us/azure/frontdoor/origin-security (2024-11-19 06:02 PM) @cancelled
             Protocol:
                 ✘ HTTP/2 https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http2 (2024-11-19 06:02 PM) @cancelled
@@ -184,10 +184,10 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
                 ☐ Configure HTTP to HTTPS redirect https://learn.microsoft.com/en-us/azure/frontdoor/front-door-how-to-redirect-https (2024-11-19 06:02 PM)
                 ✘ Configure classic diagnostics https://learn.microsoft.com/en-us/azure/frontdoor/front-door-diagnostics (2024-12-11 06:03 PM) @cancelled
             Secure with Web Application Firewall:
-                ☐ Configure a security policy https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal?toc=/azure/frontdoor/toc.json (2024-08-02 11:27 AM)
-                ☐ Configure geo-filtering https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tutorial-geo-filtering?toc=/azure/frontdoor/toc.json (2024-08-02 11:27 AM)
-                ☐ Configure rate limits https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit-configure?toc=/azure/frontdoor/toc.json (2024-09-06 10:05 PM)
-                ☐ Configure IP restriction https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction?toc=/azure/frontdoor/toc.json (2024-09-06 10:05 PM)
+                ✘ Configure a security policy https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal?toc=/azure/frontdoor/toc.json (2024-08-02 11:27 AM) @cancelled
+                ✘ Configure geo-filtering https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tutorial-geo-filtering?toc=/azure/frontdoor/toc.json (2024-08-02 11:27 AM) @cancelled
+                ✘ Configure rate limits https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit-configure?toc=/azure/frontdoor/toc.json (2024-09-06 10:05 PM) @cancelled
+                ✘ Configure IP restriction https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction?toc=/azure/frontdoor/toc.json (2024-09-06 10:05 PM) @cancelled
             Troubleshoot:
                 ☐ Troubleshooting with RefString https://learn.microsoft.com/en-us/azure/frontdoor/refstring (2024-12-23 11:02 PM)
                 ☐ Troubleshooting Front Door issues https://learn.microsoft.com/en-us/azure/frontdoor/troubleshoot-issues (2024-12-20 11:04 PM)
@@ -512,7 +512,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
 ---
 
             ✘ Edgio retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2025-01-08 11:02 PM) @cancelled
-                    ☐ Azure OpenAI https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-azure-open-ai?toc=/azure/frontdoor/toc.json (2025-01-08 06:02 PM)
+                    ✘ Azure OpenAI https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-azure-open-ai?toc=/azure/frontdoor/toc.json (2025-01-08 06:02 PM) @cancelled
 
 
 ---
@@ -530,7 +530,7 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
 
 ---
 
-                    ☐ Connect to Azure Application Gateway https://learn.microsoft.com/en-us/azure/frontdoor/how-to-enable-private-link-application-gateway (2025-01-15 06:04 PM)
+                    ✘ Connect to Azure Application Gateway https://learn.microsoft.com/en-us/azure/frontdoor/how-to-enable-private-link-application-gateway (2025-01-15 06:04 PM) @cancelled
             ☐ Azure CLI https://learn.microsoft.com/cli/azure/cdn (2025-01-14 11:00 PM)
 
 
@@ -647,5 +647,17 @@ Azure Front Door and CDN Documentation | Microsoft Learn:
 
 ---
 
-                    ☐ Private Link https://learn.microsoft.com/en-us/azure/frontdoor/private-link (2025-01-31 12:25 PM)
+                    ✘ Private Link https://learn.microsoft.com/en-us/azure/frontdoor/private-link (2025-01-31 12:25 PM) @cancelled
+
+
+---
+
+                    ☐ Private Link https://learn.microsoft.com/en-us/azure/frontdoor/private-link (2025-02-06 11:03 PM)
+                ☐ Geo-filtering https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-geo-filtering?toc=/azure/frontdoor/toc.json (2025-02-03 11:15 PM)
+                    ☐ Connect to Azure Application Gateway https://learn.microsoft.com/en-us/azure/frontdoor/how-to-enable-private-link-application-gateway (2025-02-06 11:03 PM)
+                    ☐ Azure OpenAI https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-azure-open-ai?toc=/azure/frontdoor/toc.json (2025-02-03 06:09 PM)
+                ☐ Configure a security policy https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal?toc=/azure/frontdoor/toc.json (2025-02-03 11:15 PM)
+                ☐ Configure geo-filtering https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tutorial-geo-filtering?toc=/azure/frontdoor/toc.json (2025-02-03 11:15 PM)
+                ☐ Configure rate limits https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit-configure?toc=/azure/frontdoor/toc.json (2025-02-03 11:15 PM)
+                ☐ Configure IP restriction https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction?toc=/azure/frontdoor/toc.json (2025-02-03 11:15 PM)
 

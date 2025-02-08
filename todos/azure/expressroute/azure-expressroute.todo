@@ -10,7 +10,7 @@ ExpressRoute documentation | Microsoft Learn:
         ☐ Create an ExpressRoute circuit - Bicep https://learn.microsoft.com/en-us/azure/expressroute/quickstart-create-expressroute-vnet-bicep (2024-08-01 05:04 PM)
         ☐ Create an ExpressRoute circuit - ARM template https://learn.microsoft.com/en-us/azure/expressroute/quickstart-create-expressroute-vnet-template (2024-08-01 05:04 PM)
     Tutorials:
-        ☐ Establish a private connection to a virtual network https://learn.microsoft.com/en-us/azure/expressroute/configure-expressroute-private-peering (2024-08-01 05:04 PM)
+        ✘ Establish a private connection to a virtual network https://learn.microsoft.com/en-us/azure/expressroute/configure-expressroute-private-peering (2024-08-01 05:04 PM) @cancelled
     Concepts:
         Work remotely:
             ✘ Support for working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/expressroute/toc.json (2024-09-06 10:05 PM) @cancelled
@@ -75,7 +75,7 @@ ExpressRoute documentation | Microsoft Learn:
             ☐ Azure CLI https://learn.microsoft.com/en-us/azure/expressroute/how-to-routefilter-cli (2024-08-01 05:04 PM)
         Configuring ExpressRoute Direct:
             Configure ExpressRoute Direct:
-                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-expressroute-direct-portal (2024-08-01 05:04 PM)
+                ✘ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-expressroute-direct-portal (2024-08-01 05:04 PM) @cancelled
                 ✘ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-erdirect (2024-11-22 05:58 AM) @cancelled
                 ✘ Azure CLI https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-expressroute-direct-cli (2024-08-01 05:04 PM) @cancelled
             ✘ Configure MACsec for ExpressRoute Direct ports https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-macsec (2024-08-07 10:04 PM) @cancelled
@@ -89,7 +89,7 @@ ExpressRoute documentation | Microsoft Learn:
         Monitoring:
             ✘ Monitor ExpressRoute https://learn.microsoft.com/en-us/azure/expressroute/monitor-expressroute (2024-09-11 06:38 PM) @cancelled
             ☐ Network Insights https://learn.microsoft.com/en-us/azure/expressroute/expressroute-network-insights (2024-08-28 05:05 PM)
-            ☐ Configure Connection Monitoring for ExpressRoute https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-connection-monitor (2024-09-11 06:38 PM)
+            ✘ Configure Connection Monitoring for ExpressRoute https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-connection-monitor (2024-09-11 06:38 PM) @cancelled
             ☐ Configure ExpressRoute Traffic Collector https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-traffic-collector (2024-08-01 05:04 PM)
             ☐ View and configure maintenance alerts https://learn.microsoft.com/en-us/azure/expressroute/maintenance-alerts (2024-09-11 06:38 PM)
             ☐ Configure custom alerts to monitor advertised routes https://learn.microsoft.com/en-us/azure/expressroute/how-to-custom-route-alert (2024-08-01 05:04 PM)
@@ -111,7 +111,7 @@ ExpressRoute documentation | Microsoft Learn:
                 ✘ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-coexisting-gateway-portal (2024-11-04 11:02 PM) @cancelled
                 ✘ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager (2024-08-01 05:04 PM) @cancelled
             ☐ Create a zone-redundant VNet gateway in Azure Availability Zones https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway?toc=/azure/expressroute/toc.json (2024-12-13 06:02 PM)
-        ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/expressroute/plan-manage-cost (2024-08-01 05:04 PM)
+        ✘ Plan and manage costs https://learn.microsoft.com/en-us/azure/expressroute/plan-manage-cost (2024-08-01 05:04 PM) @cancelled
         ☐ Rate limit for ExpressRoute Direct circuit https://learn.microsoft.com/en-us/azure/expressroute/rate-limit (2024-09-09 05:05 PM)
         ✘ Migrate to a new circuit https://learn.microsoft.com/en-us/azure/expressroute/circuit-migration (2024-08-29 05:56 AM) @cancelled
         Migrate to an AZ gateway:
@@ -179,17 +179,17 @@ ExpressRoute documentation | Microsoft Learn:
             ✘ Providers by location https://learn.microsoft.com/en-us/azure/expressroute/expressroute-locations-providers (2024-12-30 11:05 PM) @cancelled
             ☐ Locations by provider https://learn.microsoft.com/en-us/azure/expressroute/expressroute-locations (2024-12-30 11:05 PM)
             ✘ About circuits and peering https://learn.microsoft.com/en-us/azure/expressroute/expressroute-circuit-peerings (2024-12-30 11:05 PM) @cancelled
-            ☐ About upgrading circuit bandwidth https://learn.microsoft.com/en-us/azure/expressroute/about-upgrade-circuit-bandwidth (2024-12-30 11:05 PM)
+            ✘ About upgrading circuit bandwidth https://learn.microsoft.com/en-us/azure/expressroute/about-upgrade-circuit-bandwidth (2024-12-30 11:05 PM) @cancelled
         ✘ About ExpressRoute gateways https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-virtual-network-gateways (2024-12-30 11:05 PM) @cancelled
         ☐ About Migrating to an AZ gateway https://learn.microsoft.com/en-us/azure/expressroute/gateway-migration (2024-12-30 11:05 PM)
         ✘ About ExpressRoute FastPath https://learn.microsoft.com/en-us/azure/expressroute/about-fastpath (2024-12-30 11:05 PM) @cancelled
         ✘ About ExpressRoute Direct https://learn.microsoft.com/en-us/azure/expressroute/expressroute-erdirect-about (2024-12-30 11:05 PM) @cancelled
         ✘ About ExpressRoute Global Reach https://learn.microsoft.com/en-us/azure/expressroute/expressroute-global-reach (2024-12-30 11:05 PM) @cancelled
         ☐ About ExpressRoute Metro https://learn.microsoft.com/en-us/azure/expressroute/metro (2024-12-30 11:05 PM)
-        ☐ About ExpressRoute encryption https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption (2024-12-30 11:05 PM)
+        ✘ About ExpressRoute encryption https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption (2024-12-30 11:05 PM) @cancelled
         ✘ Design architecture for ExpressRoute resiliency https://learn.microsoft.com/en-us/azure/expressroute/design-architecture-for-resiliency (2024-12-30 11:05 PM) @cancelled
         ✘ ExpressRoute Traffic Collector https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector (2024-12-30 11:05 PM) @cancelled
-        ☐ Connectivity between virtual networks https://learn.microsoft.com/en-us/azure/expressroute/virtual-network-connectivity-guidance (2024-12-30 11:05 PM)
+        ✘ Connectivity between virtual networks https://learn.microsoft.com/en-us/azure/expressroute/virtual-network-connectivity-guidance (2024-12-30 11:05 PM) @cancelled
         ☐ Planned maintenance guidance https://learn.microsoft.com/en-us/azure/expressroute/planned-maintenance (2024-12-30 11:05 PM)
         ✘ BGP communities https://learn.microsoft.com/en-us/azure/expressroute/bgp-communities (2024-12-30 11:05 PM) @cancelled
             ☐ Roles and permissions https://learn.microsoft.com/en-us/azure/expressroute/roles-permissions (2024-12-30 11:05 PM)
@@ -199,7 +199,7 @@ ExpressRoute documentation | Microsoft Learn:
             ☐ Monitor ExpressRoute https://learn.microsoft.com/en-us/azure/expressroute/monitor-expressroute (2024-12-30 11:05 PM)
         ✘ Migrate to a new circuit https://learn.microsoft.com/en-us/azure/expressroute/circuit-migration (2024-12-30 11:05 PM) @cancelled
             ☐ NAT for ExpressRoute https://learn.microsoft.com/en-us/azure/expressroute/expressroute-nat (2024-12-30 11:05 PM)
-            ☐ Configure a router https://learn.microsoft.com/en-us/azure/expressroute/expressroute-config-samples-routing (2024-12-30 11:05 PM)
+            ✘ Configure a router https://learn.microsoft.com/en-us/azure/expressroute/expressroute-config-samples-routing (2024-12-30 11:05 PM) @cancelled
             ☐ Router configuration samples for NAT https://learn.microsoft.com/en-us/azure/expressroute/expressroute-config-samples-nat (2024-12-30 11:05 PM)
 
 
@@ -267,7 +267,7 @@ ExpressRoute documentation | Microsoft Learn:
 ---
 
         ☐ Design architecture for ExpressRoute resiliency https://learn.microsoft.com/en-us/azure/expressroute/design-architecture-for-resiliency (2025-01-29 12:19 PM)
-        ☐ ExpressRoute Traffic Collector https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector (2025-01-28 12:10 PM)
+        ✘ ExpressRoute Traffic Collector https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector (2025-01-28 12:10 PM) @cancelled
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-expressroute-direct-cli (2025-01-29 06:06 PM)
 
 
@@ -299,4 +299,17 @@ ExpressRoute documentation | Microsoft Learn:
             ☐ Optimize routing https://learn.microsoft.com/en-us/azure/expressroute/expressroute-optimize-routing (2025-02-02 12:10 PM)
             ☐ Resolving network performance issues https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-network-performance (2025-02-02 12:10 PM)
             ☐ Getting ARP tables https://learn.microsoft.com/en-us/azure/expressroute/expressroute-troubleshooting-arp-resource-manager (2025-02-02 12:10 PM)
+
+
+---
+
+        ☐ Establish a private connection to a virtual network https://learn.microsoft.com/en-us/azure/expressroute/configure-expressroute-private-peering (2025-02-03 11:15 PM)
+            ☐ About upgrading circuit bandwidth https://learn.microsoft.com/en-us/azure/expressroute/about-upgrade-circuit-bandwidth (2025-02-03 11:15 PM)
+        ☐ About ExpressRoute encryption https://learn.microsoft.com/en-us/azure/expressroute/expressroute-about-encryption (2025-02-03 11:15 PM)
+        ☐ ExpressRoute Traffic Collector https://learn.microsoft.com/en-us/azure/expressroute/traffic-collector (2025-02-03 11:15 PM)
+        ☐ Connectivity between virtual networks https://learn.microsoft.com/en-us/azure/expressroute/virtual-network-connectivity-guidance (2025-02-03 11:15 PM)
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-expressroute-direct-portal (2025-02-03 11:15 PM)
+            ☐ Configure Connection Monitoring for ExpressRoute https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-connection-monitor (2025-02-03 11:15 PM)
+        ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/expressroute/plan-manage-cost (2025-02-03 11:15 PM)
+            ☐ Configure a router https://learn.microsoft.com/en-us/azure/expressroute/expressroute-config-samples-routing (2025-02-03 11:15 PM)
 

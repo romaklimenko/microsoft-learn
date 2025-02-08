@@ -2,7 +2,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
     ☐ Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/aks/ (2024-08-01 08:29 PM)
     Overview:
         ☐ What is AKS? https://learn.microsoft.com/en-us/azure/aks/what-is-aks (2024-12-13 11:02 PM)
-        ☐ What is AKS Automatic? https://learn.microsoft.com/en-us/azure/aks/intro-aks-automatic (2024-08-01 08:29 PM)
+        ✘ What is AKS Automatic? https://learn.microsoft.com/en-us/azure/aks/intro-aks-automatic (2024-08-01 08:29 PM) @cancelled
         ☐ Quotas and regional limits https://learn.microsoft.com/en-us/azure/aks/quotas-skus-regions (2024-10-31 05:34 AM)
         ☐ Track releases and region availability https://learn.microsoft.com/en-us/azure/aks/release-tracker (2024-08-01 08:29 PM)
         ✘ Supported Kubernetes versions https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions (2024-12-11 06:01 PM) @cancelled
@@ -92,7 +92,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             ☐ Node Problem Detector (NPD) https://learn.microsoft.com/en-us/azure/aks/node-problem-detector (2024-10-01 11:06 AM)
         ☐ Service meshes https://learn.microsoft.com/en-us/azure/aks/servicemesh-about (2024-11-29 05:32 AM)
         ☐ Sustainable software engineering https://learn.microsoft.com/en-us/azure/aks/concepts-sustainable-software-engineering (2024-08-01 08:29 PM)
-        ☐ Preview API life cycle https://learn.microsoft.com/en-us/azure/aks/concepts-preview-api-life-cycle (2024-10-31 05:34 AM)
+        ✘ Preview API life cycle https://learn.microsoft.com/en-us/azure/aks/concepts-preview-api-life-cycle (2024-10-31 05:34 AM) @cancelled
         ✘ Dapr extension https://learn.microsoft.com/en-us/azure/aks/dapr-overview (2024-09-24 05:00 PM) @cancelled
         ✘ GitOps https://learn.microsoft.com/azure/azure-arc/kubernetes/conceptual-gitops-flux2?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-22 05:55 AM) @cancelled
     Best practices:
@@ -218,7 +218,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Use the cluster autoscaler on AKS https://learn.microsoft.com/en-us/azure/aks/cluster-autoscaler (2024-10-31 05:34 AM)
             ☐ Node autoprovision https://learn.microsoft.com/en-us/azure/aks/node-autoprovision (2024-12-10 12:05 PM)
             Availability zones:
-                ☐ Availability zones overview https://learn.microsoft.com/en-us/azure/aks/availability-zones-overview (2024-10-31 05:34 AM)
+                ✘ Availability zones overview https://learn.microsoft.com/en-us/azure/aks/availability-zones-overview (2024-10-31 05:34 AM) @cancelled
                 ☐ Create a cluster with availability zones https://learn.microsoft.com/en-us/azure/aks/availability-zones (2024-10-31 05:34 AM)
             ☐ Zone resiliency https://learn.microsoft.com/en-us/azure/aks/aks-zone-resiliency (2024-08-01 08:29 PM)
             ☐ Propagate Kubernetes resources across multiple clusters https://learn.microsoft.com/azure/kubernetes-fleet/resource-propagation?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2024-11-19 06:01 PM)
@@ -282,7 +282,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                     ☐ Workload identity overview https://learn.microsoft.com/en-us/azure/aks/workload-identity-overview (2024-12-12 05:31 AM)
                     ☐ Deploy and configure workload identity for a cluster https://learn.microsoft.com/en-us/azure/aks/workload-identity-deploy-cluster (2024-12-12 05:31 AM)
                     ☐ Configure cross-tenant workload identity https://learn.microsoft.com/en-us/azure/aks/workload-identity-cross-tenant (2024-10-31 05:34 AM)
-                    ☐ Migrate your app from pod identity to workload identity https://learn.microsoft.com/en-us/azure/aks/workload-identity-migrate-from-pod-identity (2024-12-12 05:31 AM)
+                    ✘ Migrate your app from pod identity to workload identity https://learn.microsoft.com/en-us/azure/aks/workload-identity-migrate-from-pod-identity (2024-12-12 05:31 AM) @cancelled
                 ☐ Microsoft Entra pod identity https://learn.microsoft.com/en-us/azure/aks/use-azure-ad-pod-identity (2024-10-31 05:34 AM)
                 ✘ Pod Sandboxing https://learn.microsoft.com/en-us/azure/aks/use-pod-sandboxing (2024-12-12 06:01 PM) @cancelled
                 ☐ Secure pod traffic with network policies https://learn.microsoft.com/en-us/azure/aks/use-network-policies (2024-12-20 12:04 PM)
@@ -396,8 +396,8 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Deploy external or internal Istio Ingress https://learn.microsoft.com/en-us/azure/aks/istio-deploy-ingress (2024-11-05 10:59 PM)
                 ✘ Deploy secure Istio ingress gateway https://learn.microsoft.com/en-us/azure/aks/istio-secure-gateway (2024-08-01 08:29 PM) @cancelled
                 ✘ Plug-in CA certificates for Istio https://learn.microsoft.com/en-us/azure/aks/istio-plugin-ca (2024-08-01 08:29 PM) @cancelled
-                ☐ Upgrade Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-upgrade (2024-10-31 05:34 AM)
-                ☐ Istio service mesh add-on support policy https://learn.microsoft.com/en-us/azure/aks/istio-support-policy (2024-10-31 05:34 AM)
+                ✘ Upgrade Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-upgrade (2024-10-31 05:34 AM) @cancelled
+                ✘ Istio service mesh add-on support policy https://learn.microsoft.com/en-us/azure/aks/istio-support-policy (2024-10-31 05:34 AM) @cancelled
                 ☐ Istio service mesh add-on performance https://learn.microsoft.com/en-us/azure/aks/istio-scale (2024-10-31 05:34 AM)
                 ☐ Latency comparison for Istio https://learn.microsoft.com/en-us/azure/aks/istio-latency (2024-10-31 05:34 AM)
                 ☐ Telemetry API for Istio service mesh https://learn.microsoft.com/en-us/azure/aks/istio-telemetry (2024-10-31 05:34 AM)
@@ -440,7 +440,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
             Configure automatic upgrades:
                 ☐ Automatically upgrade an AKS cluster https://learn.microsoft.com/en-us/azure/aks/auto-upgrade-cluster (2024-09-24 05:00 PM)
                 ☐ Use Planned Maintenance to schedule and control upgrades https://learn.microsoft.com/en-us/azure/aks/planned-maintenance (2024-11-06 11:00 PM)
-                ☐ Automatically upgrade AKS cluster node OS images https://learn.microsoft.com/en-us/azure/aks/auto-upgrade-node-os-image (2024-12-04 11:02 PM)
+                ✘ Automatically upgrade AKS cluster node OS images https://learn.microsoft.com/en-us/azure/aks/auto-upgrade-node-os-image (2024-12-04 11:02 PM) @cancelled
                 ☐ Upgrade node OS images automatically with GitHub Actions https://learn.microsoft.com/en-us/azure/aks/node-upgrade-github-actions (2024-10-31 05:34 AM)
                 ☐ Stop cluster upgrades automatically on API breaking changes https://learn.microsoft.com/en-us/azure/aks/stop-cluster-upgrade-api-breaking-changes (2024-10-31 05:34 AM)
         Azure Linux container host for AKS:
@@ -745,7 +745,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
 
 ---
 
-        ☐ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-21 10:59 PM)
+        ✘ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-21 10:59 PM) @cancelled
             ✘ Node auto-repair https://learn.microsoft.com/en-us/azure/aks/node-auto-repair (2025-01-22 05:30 AM) @cancelled
             ☐ Node auto-drain https://learn.microsoft.com/en-us/azure/aks/node-auto-drain (2025-01-22 05:30 AM)
                 ☐ Configure outbound type for AKS https://learn.microsoft.com/en-us/azure/aks/egress-outboundtype (2025-01-22 05:30 AM)
@@ -809,7 +809,7 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
 ---
 
             ☐ Prerequisites https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup-concept?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-30 06:05 PM)
-            ☐ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-30 06:05 PM)
+            ✘ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-30 06:05 PM) @cancelled
             ☐ Restore https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-restore?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-01-30 06:05 PM)
             ☐ Build Java app with WebSphere Liberty or Open Liberty https://learn.microsoft.com/en-us/azure/aks/howto-deploy-java-liberty-app (2025-01-30 12:11 PM)
         ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-30 12:36 PM) @cancelled
@@ -826,12 +826,37 @@ Azure Kubernetes Service (AKS) documentation | Microsoft Learn:
                 ☐ Enable cost analysis on your cluster https://learn.microsoft.com/en-us/azure/aks/cost-analysis (2025-01-30 11:02 PM)
                 ☐ Monitor and optimize idle costs https://learn.microsoft.com/en-us/azure/aks/cost-analysis-idle-costs (2025-01-30 11:02 PM)
             ☐ CI/CD with Azure Pipelines https://learn.microsoft.com/en-us/azure/aks/devops-pipeline (2025-01-30 11:02 PM)
-        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-31 12:39 PM)
-        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-31 12:04 PM)
-        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-31 12:06 PM)
+        ✘ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-01-31 12:39 PM) @cancelled
+        ✘ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-01-31 12:04 PM) @cancelled
+        ✘ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-01-31 12:06 PM) @cancelled
 
 
 ---
 
             ☐ Upgrade options https://learn.microsoft.com/en-us/azure/aks/upgrade-cluster (2025-01-31 11:04 PM)
+
+
+---
+
+        ☐ AKS Standard versus AKS Automatic? https://learn.microsoft.com/en-us/azure/aks/intro-aks-automatic (2025-02-07 12:06 PM)
+        ☐ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-kubernetes-service?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-02-06 11:01 PM)
+        Create a Linux-based AKS Automatic Cluster:
+            ☐ With a managed virtual network https://learn.microsoft.com/en-us/azure/aks/automatic/quick-automatic-managed-network (2025-02-07 12:06 PM)
+            With a custom virtual network:
+                ☐ Public cluster https://learn.microsoft.com/en-us/azure/aks/automatic/quick-automatic-custom-network (2025-02-07 12:06 PM)
+                ☐ Private cluster https://learn.microsoft.com/en-us/azure/aks/automatic/quick-automatic-private-custom-network (2025-02-07 12:06 PM)
+        ☐ Availability zones https://learn.microsoft.com/en-us/azure/aks/availability-zones-overview (2025-02-03 11:01 PM)
+            ☐ Monitor control plane metrics https://learn.microsoft.com/en-us/azure/aks/control-plane-metrics-monitor (2025-02-06 12:05 PM)
+        ☐ Preview API life cycle https://learn.microsoft.com/en-us/azure/aks/concepts-preview-api-life-cycle (2025-02-04 06:14 PM)
+                ☐ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2025-02-05 05:31 AM)
+                    ☐ Migrate your app from pod identity to workload identity https://learn.microsoft.com/en-us/azure/aks/workload-identity-migrate-from-pod-identity (2025-02-05 05:31 AM)
+                    ☐ Advanced application routing add-on configurations (NGINX) https://learn.microsoft.com/en-us/azure/aks/app-routing-nginx-configuration (2025-02-03 11:01 PM)
+            ☐ Backup https://learn.microsoft.com/azure/backup/azure-kubernetes-service-cluster-backup?toc=/azure/aks/toc.json&bc=/azure/aks/breadcrumb/toc.json (2025-02-03 06:09 PM)
+                ☐ Upgrade Istio service mesh add-on https://learn.microsoft.com/en-us/azure/aks/istio-upgrade (2025-02-03 11:01 PM)
+                ☐ Istio service mesh add-on support policy https://learn.microsoft.com/en-us/azure/aks/istio-support-policy (2025-02-03 11:01 PM)
+                ☐ Automatically upgrade AKS cluster node OS images https://learn.microsoft.com/en-us/azure/aks/auto-upgrade-node-os-image (2025-02-03 06:05 PM)
+            ☐ Deploy an AI model with the AI toolchain operator https://learn.microsoft.com/en-us/azure/aks/ai-toolchain-operator (2025-02-05 05:31 AM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/container-service (2025-02-07 12:28 PM)
+        ☐ Python https://learn.microsoft.com/python/api/overview/azure/container-service (2025-02-07 12:08 PM)
+        ☐ Node.js https://learn.microsoft.com/javascript/api/overview/azure/container-service (2025-02-07 12:09 PM)
 

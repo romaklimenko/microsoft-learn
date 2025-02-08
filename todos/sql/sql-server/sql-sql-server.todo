@@ -3354,7 +3354,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
             Accelerated database recovery:
                 ☐ Overview https://learn.microsoft.com/en-us/sql/relational-databases/accelerated-database-recovery-concepts (2024-09-09 10:27 PM)
                 ☐ Management https://learn.microsoft.com/en-us/sql/relational-databases/accelerated-database-recovery-management (2024-09-09 10:27 PM)
-                ☐ Troubleshooting https://learn.microsoft.com/en-us/sql/relational-databases/accelerated-database-recovery-troubleshoot (2024-09-09 10:27 PM)
+                ✘ Troubleshooting https://learn.microsoft.com/en-us/sql/relational-databases/accelerated-database-recovery-troubleshoot (2024-09-09 10:27 PM) @cancelled
             ☐ Manage the Query Store https://learn.microsoft.com/en-us/sql/relational-databases/performance/manage-the-query-store (2024-09-09 10:27 PM)
             ☐ Central Management Servers https://learn.microsoft.com/en-us/sql/relational-databases/administer-multiple-servers-using-central-management-servers (2024-09-09 10:27 PM)
             ☐ Configuration Manager https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-configuration-manager (2024-09-09 10:27 PM)
@@ -5348,7 +5348,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
                 ☐ Overview https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-management-overview (2024-09-09 10:27 PM)
                 ☐ Manage SQL services https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-start-stop-restart-sql-server-services (2024-09-09 10:27 PM)
                 ☐ Use SSMS to manage https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-manage-ssms (2024-09-09 10:27 PM)
-                ☐ Use Azure Data Studio to manage https://learn.microsoft.com/azure-data-studio/quickstart-sql-server (2024-01-04 06:30 PM)
+                ✘ Use Azure Data Studio to manage https://learn.microsoft.com/azure-data-studio/quickstart-sql-server (2024-01-04 06:30 PM) @cancelled
                 ☐ Use Windows PowerShell https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-manage-powershell (2024-09-09 10:27 PM)
                 ☐ Use PowerShell Core https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-manage-powershell-core (2024-09-09 10:27 PM)
                 ☐ Use log shipping https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-use-log-shipping (2024-09-09 10:27 PM)
@@ -9554,7 +9554,7 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
 
 ---
 
-                ☐ Bring your own key > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-configure (2025-01-21 11:37 PM)
+                ✘ Bring your own key > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-configure (2025-01-21 11:37 PM) @cancelled
                 ☐ Remove TDE protector > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-remove-tde-protector (2025-01-21 11:37 PM)
                 ✘ Prerequisites https://learn.microsoft.com/en-us/sql/big-data-cluster/active-directory-prerequisites @cancelled
                 ✘ sys.dm_db_xtp_transactions https://learn.microsoft.com/en-us/sql/relational-databases/system-dynamic-management-views/sys-dm-db-xtp-transactions-transact-sql @cancelled
@@ -9612,5 +9612,14 @@ SQL Server technical documentation - SQL Server | Microsoft Learn:
 
 ---
 
-                        ☐ Refresh data https://learn.microsoft.com/en-us/sql/relational-databases/replication/monitor/refresh-data-in-replication-monitor
+                        ✘ Refresh data https://learn.microsoft.com/en-us/sql/relational-databases/replication/monitor/refresh-data-in-replication-monitor @cancelled
+
+
+---
+
+                        ☐ Refresh data https://learn.microsoft.com/en-us/sql/relational-databases/replication/monitor/refresh-data-in-replication-monitor (2024-09-09 10:27 PM)
+                ☐ Monitor and troubleshoot https://learn.microsoft.com/en-us/sql/relational-databases/accelerated-database-recovery-troubleshoot (2024-09-09 10:27 PM)
+                        ☐ App Control Managed Installer for In-Memory OLTP https://learn.microsoft.com/en-us/sql/relational-databases/in-memory-oltp/create-in-memory-oltp-app-control-managed-installer (2024-09-09 10:27 PM)
+                ☐ Bring your own key > https://learn.microsoft.com/azure/sql-database/transparent-data-encryption-byok-azure-sql-configure (2025-02-03 11:31 PM)
+                ☐ Use Azure Data Studio to manage https://learn.microsoft.com/azure-data-studio/quickstart-sql-server (2025-02-06 06:32 PM)
 

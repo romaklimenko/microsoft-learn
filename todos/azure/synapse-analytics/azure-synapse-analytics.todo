@@ -54,15 +54,15 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ✘ Synapse workspace Managed virtual network https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-managed-vnet (2024-08-01 05:35 AM) @cancelled
                     ☐ Synapse workspace Managed private endpoints https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-managed-private-endpoints (2024-11-20 11:04 PM)
                     ✘ Synapse workspace data exfiltration protection https://learn.microsoft.com/en-us/azure/synapse-analytics/security/workspace-data-exfiltration-protection (2024-08-01 05:35 AM) @cancelled
-                    ☐ Synapse workspace with private link hubs https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-private-link-hubs (2024-08-01 05:35 AM)
-                    ☐ Connect to a secured storage account https://learn.microsoft.com/en-us/azure/synapse-analytics/security/connect-to-a-secure-storage-account (2024-08-01 05:35 AM)
+                    ✘ Synapse workspace with private link hubs https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-private-link-hubs (2024-08-01 05:35 AM) @cancelled
+                    ✘ Connect to a secured storage account https://learn.microsoft.com/en-us/azure/synapse-analytics/security/connect-to-a-secure-storage-account (2024-08-01 05:35 AM) @cancelled
                 Authentication and pass-through:
                     ✘ Microsoft Entra ID https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/active-directory-authentication (2024-08-01 11:20 AM) @cancelled
                     ☐ Multifactor authentication https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/mfa-authentication (2024-12-17 06:04 PM)
                     ☐ SQL authorization https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/sql-authentication (2024-11-07 11:02 PM)
                     ☐ Conditional Access https://learn.microsoft.com/en-us/azure/synapse-analytics/security/workspace-conditional-access (2024-08-21 10:04 PM)
                 Access control:
-                    ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-access-control-overview (2024-08-01 05:35 AM)
+                    ✘ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-access-control-overview (2024-08-01 05:35 AM) @cancelled
                     ☐ Synapse RBAC https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-synapse-rbac (2024-08-01 05:35 AM)
                     ☐ Synapse RBAC roles https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-synapse-rbac-roles (2024-11-05 11:02 PM)
                     ☐ Understand Synapse RBAC roles https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-understand-what-role-you-need (2024-08-01 05:35 AM)
@@ -162,7 +162,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Performance tuning guidance https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/performance-tuning-ordered-cci (2024-11-01 05:04 PM)
                 Result set caching:
                     ☐ Performance tuning guidance https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/performance-tuning-result-set-caching (2024-08-01 05:35 AM)
-                    ☐ Set for a database https://learn.microsoft.com/sql/t-sql/statements/alter-database-transact-sql-set-options?context=/azure/synapse-analytics/context/context&view=azure-sqldw-latest&preserve-view=true (2024-12-04 06:33 PM)
+                    ✘ Set for a database https://learn.microsoft.com/sql/t-sql/statements/alter-database-transact-sql-set-options?context=/azure/synapse-analytics/context/context&view=azure-sqldw-latest&preserve-view=true (2024-12-04 06:33 PM) @cancelled
                     ☐ Set for a session https://learn.microsoft.com/sql/t-sql/statements/set-result-set-caching-transact-sql?context=/azure/synapse-analytics/context/context&view=azure-sqldw-latest&preserve-view=true (2023-01-13 11:32 PM)
                     ☐ Check cache size https://learn.microsoft.com/sql/t-sql/database-console-commands/dbcc-showresultcachespaceused-transact-sql?context=/azure/synapse-analytics/context/context&view=azure-sqldw-latest&preserve-view=true (2023-01-13 11:32 PM)
                     ☐ Clean up cache https://learn.microsoft.com/sql/t-sql/database-console-commands/dbcc-dropresultsetcache-transact-sql?context=/azure/synapse-analytics/context/context&view=azure-sqldw-latest&preserve-view=true (2023-01-13 11:32 PM)
@@ -328,7 +328,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Columns https://learn.microsoft.com/kusto/query/schema-entities/columns?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ Stored functions https://learn.microsoft.com/kusto/query/schema-entities/stored-functions?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ Views https://learn.microsoft.com/kusto/query/schema-entities/views?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ External tables https://learn.microsoft.com/kusto/query/schema-entities/external-tables?view=azure-data-explorer&preserve-view=true (2024-11-19 01:53 PM)
+                ✘ External tables https://learn.microsoft.com/kusto/query/schema-entities/external-tables?view=azure-data-explorer&preserve-view=true (2024-11-19 01:53 PM) @cancelled
                 ☐ Fact and dimension tables https://learn.microsoft.com/kusto/concepts/fact-and-dimension-tables?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
             Data types:
                 ✘ Scalar data types https://learn.microsoft.com/kusto/query/scalar-data-types/index?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
@@ -363,7 +363,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ levene_test_fl() https://learn.microsoft.com/kusto/functions-library/levene-test-fl?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ log_reduce_fl() https://learn.microsoft.com/kusto/functions-library/log-reduce-fl?view=microsoft-fabric (2024-11-13 12:11 PM)
                     ☐ log_reduce_full_fl() https://learn.microsoft.com/kusto/functions-library/log-reduce-full-fl?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ log_reduce_predict_fl() https://learn.microsoft.com/kusto/functions-library/log-reduce-predict-fl?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ log_reduce_predict_fl() https://learn.microsoft.com/kusto/functions-library/log-reduce-predict-fl?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ☐ log_reduce_predict_full_fl() https://learn.microsoft.com/kusto/functions-library/log-reduce-predict-full-fl?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ log_reduce_train_fl() https://learn.microsoft.com/kusto/functions-library/log-reduce-train-fl?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ mann-whitney-u-test-fl() https://learn.microsoft.com/kusto/functions-library/mann-whitney-u-test-fl?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -421,7 +421,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ✘ count operator https://learn.microsoft.com/kusto/query/count-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ✘ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ distinct operator https://learn.microsoft.com/kusto/query/distinct-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ evaluate operator https://learn.microsoft.com/kusto/query/evaluate-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ evaluate operator https://learn.microsoft.com/kusto/query/evaluate-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ extend operator https://learn.microsoft.com/kusto/query/extend-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ✘ externaldata operator https://learn.microsoft.com/kusto/query/externaldata-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ✘ facet operator https://learn.microsoft.com/kusto/query/facet-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
@@ -435,39 +435,39 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                         ✘ innerunique https://learn.microsoft.com/kusto/query/join-innerunique?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ✘ inner https://learn.microsoft.com/kusto/query/join-inner?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ✘ leftouter https://learn.microsoft.com/kusto/query/join-leftouter?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
-                        ☐ rightouter https://learn.microsoft.com/kusto/query/join-rightouter?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                        ✘ rightouter https://learn.microsoft.com/kusto/query/join-rightouter?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ✘ fullouter https://learn.microsoft.com/kusto/query/join-fullouter?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ✘ leftsemi https://learn.microsoft.com/kusto/query/join-leftsemi?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ✘ leftanti https://learn.microsoft.com/kusto/query/join-leftanti?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
-                        ☐ rightsemi https://learn.microsoft.com/kusto/query/join-rightsemi?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                        ✘ rightsemi https://learn.microsoft.com/kusto/query/join-rightsemi?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ✘ rightanti https://learn.microsoft.com/kusto/query/join-rightanti?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ✘ Cross-cluster join https://learn.microsoft.com/kusto/query/join-cross-cluster?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ☐ Broadcast join https://learn.microsoft.com/kusto/query/broadcast-join?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Time window join https://learn.microsoft.com/kusto/query/join-time-window?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ lookup operator https://learn.microsoft.com/kusto/query/lookup-operator?view=azure-data-explorer&preserve-view=true (2024-12-04 06:00 PM)
-                ☐ mv-apply operator https://learn.microsoft.com/kusto/query/mv-apply-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ mv-expand operator https://learn.microsoft.com/kusto/query/mv-expand-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ Time window join https://learn.microsoft.com/kusto/query/join-time-window?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ lookup operator https://learn.microsoft.com/kusto/query/lookup-operator?view=azure-data-explorer&preserve-view=true (2024-12-04 06:00 PM) @cancelled
+                ✘ mv-apply operator https://learn.microsoft.com/kusto/query/mv-apply-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ mv-expand operator https://learn.microsoft.com/kusto/query/mv-expand-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ project operator https://learn.microsoft.com/kusto/query/project-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ project-away operator https://learn.microsoft.com/kusto/query/project-away-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ project-keep operator https://learn.microsoft.com/kusto/query/project-keep-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ project-away operator https://learn.microsoft.com/kusto/query/project-away-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ project-keep operator https://learn.microsoft.com/kusto/query/project-keep-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ project-rename operator https://learn.microsoft.com/kusto/query/project-rename-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ project-reorder operator https://learn.microsoft.com/kusto/query/project-reorder-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ parse operator https://learn.microsoft.com/kusto/query/parse-operator?view=azure-data-explorer&preserve-view=true (2024-09-18 04:57 PM)
-                ☐ parse-where operator https://learn.microsoft.com/kusto/query/parse-where-operator?view=azure-data-explorer&preserve-view=true (2024-09-02 11:04 AM)
-                ☐ parse-kv operator https://learn.microsoft.com/kusto/query/parse-kv-operator?view=azure-data-explorer&preserve-view=true (2024-09-02 11:04 AM)
-                ☐ partition operator https://learn.microsoft.com/kusto/query/partition-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ print operator https://learn.microsoft.com/kusto/query/print-operator?view=azure-data-explorer&preserve-view=true (2024-11-21 06:02 PM)
+                ✘ parse operator https://learn.microsoft.com/kusto/query/parse-operator?view=azure-data-explorer&preserve-view=true (2024-09-18 04:57 PM) @cancelled
+                ✘ parse-where operator https://learn.microsoft.com/kusto/query/parse-where-operator?view=azure-data-explorer&preserve-view=true (2024-09-02 11:04 AM) @cancelled
+                ✘ parse-kv operator https://learn.microsoft.com/kusto/query/parse-kv-operator?view=azure-data-explorer&preserve-view=true (2024-09-02 11:04 AM) @cancelled
+                ✘ partition operator https://learn.microsoft.com/kusto/query/partition-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ print operator https://learn.microsoft.com/kusto/query/print-operator?view=azure-data-explorer&preserve-view=true (2024-11-21 06:02 PM) @cancelled
                 ✘ range operator https://learn.microsoft.com/kusto/query/range-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
-                ☐ reduce operator https://learn.microsoft.com/kusto/query/reduce-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ reduce operator https://learn.microsoft.com/kusto/query/reduce-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 render operator:
                     ✘ render operator https://learn.microsoft.com/kusto/query/render-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     visualizations:
                         ✘ anomalychart https://learn.microsoft.com/kusto/query/visualization-anomalychart?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ✘ areachart https://learn.microsoft.com/kusto/query/visualization-areachart?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ✘ barchart https://learn.microsoft.com/kusto/query/visualization-barchart?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
-                        ☐ card https://learn.microsoft.com/kusto/query/visualization-card?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                        ✘ card https://learn.microsoft.com/kusto/query/visualization-card?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ✘ columnchart https://learn.microsoft.com/kusto/query/visualization-columnchart?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
-                        ☐ ladderchart https://learn.microsoft.com/kusto/query/visualization-ladderchart?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                        ✘ ladderchart https://learn.microsoft.com/kusto/query/visualization-ladderchart?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ✘ linechart https://learn.microsoft.com/kusto/query/visualization-linechart?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                         ☐ piechart https://learn.microsoft.com/kusto/query/visualization-piechart?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ pivotchart https://learn.microsoft.com/kusto/query/visualization-pivotchart?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -478,15 +478,15 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                         ✘ timechart https://learn.microsoft.com/kusto/query/visualization-timechart?view=azure-data-explorer&preserve-view=true (2024-11-21 06:02 PM) @cancelled
                         ☐ timepivot https://learn.microsoft.com/kusto/query/visualization-timepivot?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ treemap https://learn.microsoft.com/kusto/query/visualization-treemap?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ sample operator https://learn.microsoft.com/kusto/query/sample-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ sample-distinct operator https://learn.microsoft.com/kusto/query/sample-distinct-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ scan operator https://learn.microsoft.com/kusto/query/scan-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ search operator https://learn.microsoft.com/kusto/query/search-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ serialize operator https://learn.microsoft.com/kusto/query/serialize-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ shuffle query https://learn.microsoft.com/kusto/query/shuffle-query?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ sort operator https://learn.microsoft.com/kusto/query/sort-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ sample operator https://learn.microsoft.com/kusto/query/sample-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ sample-distinct operator https://learn.microsoft.com/kusto/query/sample-distinct-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ scan operator https://learn.microsoft.com/kusto/query/scan-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ search operator https://learn.microsoft.com/kusto/query/search-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ serialize operator https://learn.microsoft.com/kusto/query/serialize-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ shuffle query https://learn.microsoft.com/kusto/query/shuffle-query?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ sort operator https://learn.microsoft.com/kusto/query/sort-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 summarize operator:
-                    ☐ summarize operator overview https://learn.microsoft.com/kusto/query/summarize-operator?view=azure-data-explorer&preserve-view=true (2024-10-06 11:07 AM)
+                    ✘ summarize operator overview https://learn.microsoft.com/kusto/query/summarize-operator?view=azure-data-explorer&preserve-view=true (2024-10-06 11:07 AM) @cancelled
                     ☐ Using hll() and tdigest() https://learn.microsoft.com/kusto/query/using-hll-tdigest?view=azure-data-explorer&preserve-view=true (2024-09-24 11:04 AM)
                 ☐ take operator https://learn.microsoft.com/kusto/query/take-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ top operator https://learn.microsoft.com/kusto/query/top-operator?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -571,8 +571,8 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ array_shift_left() https://learn.microsoft.com/kusto/query/array-shift-left-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ array_shift_right() https://learn.microsoft.com/kusto/query/array-shift-right-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ array_slice() https://learn.microsoft.com/kusto/query/array-slice-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ array_sort_asc() https://learn.microsoft.com/kusto/query/array-sort-asc-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ array_sort_desc() https://learn.microsoft.com/kusto/query/array-sort-desc-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ array_sort_asc() https://learn.microsoft.com/kusto/query/array-sort-asc-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ array_sort_desc() https://learn.microsoft.com/kusto/query/array-sort-desc-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ array_split() https://learn.microsoft.com/kusto/query/array-split-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ array_sum() https://learn.microsoft.com/kusto/query/array-sum-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ asin() https://learn.microsoft.com/kusto/query/asin-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -679,7 +679,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ hash_sha1() https://learn.microsoft.com/kusto/query/hash-sha1-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ hash_sha256() https://learn.microsoft.com/kusto/query/hash-sha256-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ hash_xxhash64() https://learn.microsoft.com/kusto/query/hash-xxhash64-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ hll_merge() https://learn.microsoft.com/kusto/query/hll-merge-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ hll_merge() https://learn.microsoft.com/kusto/query/hll-merge-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ hourofday() https://learn.microsoft.com/kusto/query/hour-of-day-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ iff() https://learn.microsoft.com/kusto/query/iff-function?view=azure-data-explorer&preserve-view=true (2024-12-09 12:04 PM)
                 ☐ indexof() https://learn.microsoft.com/kusto/query/indexof-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -808,36 +808,36 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ zlib_decompress_from_base64_string() https://learn.microsoft.com/kusto/query/zlib-base64-decompress-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
             Aggregation functions:
                 ☐ Aggregation function types https://learn.microsoft.com/kusto/query/aggregation-functions?view=azure-data-explorer&preserve-view=true (2024-09-24 11:04 AM)
-                ☐ arg_max() https://learn.microsoft.com/kusto/query/arg-max-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-12-09 12:04 PM)
+                ✘ arg_max() https://learn.microsoft.com/kusto/query/arg-max-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-12-09 12:04 PM) @cancelled
                 ✘ arg_min() https://learn.microsoft.com/kusto/query/arg-min-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-12-09 12:04 PM) @cancelled
-                ☐ avg() https://learn.microsoft.com/kusto/query/avg-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-18 04:57 PM)
-                ☐ avgif() https://learn.microsoft.com/kusto/query/avgif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ binary_all_and https://learn.microsoft.com/kusto/query/binary-all-and-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ binary_all_or https://learn.microsoft.com/kusto/query/binary-all-or-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ binary_all_xor https://learn.microsoft.com/kusto/query/binary-all-xor-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ buildschema() https://learn.microsoft.com/kusto/query/buildschema-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ avg() https://learn.microsoft.com/kusto/query/avg-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-18 04:57 PM) @cancelled
+                ✘ avgif() https://learn.microsoft.com/kusto/query/avgif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ binary_all_and https://learn.microsoft.com/kusto/query/binary-all-and-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ binary_all_or https://learn.microsoft.com/kusto/query/binary-all-or-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ binary_all_xor https://learn.microsoft.com/kusto/query/binary-all-xor-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ buildschema() https://learn.microsoft.com/kusto/query/buildschema-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ✘ count() https://learn.microsoft.com/kusto/query/count-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ✘ count_distinct() https://learn.microsoft.com/kusto/query/count-distinct-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-12-05 12:14 PM) @cancelled
-                ☐ count_distinctif() https://learn.microsoft.com/kusto/query/count-distinctif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-10-06 11:30 PM)
+                ✘ count_distinctif() https://learn.microsoft.com/kusto/query/count-distinctif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-10-06 11:30 PM) @cancelled
                 ✘ countif() https://learn.microsoft.com/kusto/query/countif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
-                ☐ dcount() https://learn.microsoft.com/kusto/query/dcount-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-24 11:04 AM)
-                ☐ dcountif() https://learn.microsoft.com/kusto/query/dcountif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ hll() https://learn.microsoft.com/kusto/query/hll-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-24 11:04 AM)
-                ☐ hll_if() https://learn.microsoft.com/kusto/query/hll-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-24 11:04 AM)
-                ☐ hll_merge() https://learn.microsoft.com/kusto/query/hll-merge-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-10-15 11:07 AM)
-                ☐ make_bag() https://learn.microsoft.com/kusto/query/make-bag-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ make_bag_if() https://learn.microsoft.com/kusto/query/make-bag-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ make_list() https://learn.microsoft.com/kusto/query/make-list-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ make_list_if() https://learn.microsoft.com/kusto/query/make-list-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ dcount() https://learn.microsoft.com/kusto/query/dcount-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-24 11:04 AM) @cancelled
+                ✘ dcountif() https://learn.microsoft.com/kusto/query/dcountif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ hll() https://learn.microsoft.com/kusto/query/hll-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-24 11:04 AM) @cancelled
+                ✘ hll_if() https://learn.microsoft.com/kusto/query/hll-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-24 11:04 AM) @cancelled
+                ✘ hll_merge() https://learn.microsoft.com/kusto/query/hll-merge-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-10-15 11:07 AM) @cancelled
+                ✘ make_bag() https://learn.microsoft.com/kusto/query/make-bag-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ make_bag_if() https://learn.microsoft.com/kusto/query/make-bag-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ make_list() https://learn.microsoft.com/kusto/query/make-list-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ make_list_if() https://learn.microsoft.com/kusto/query/make-list-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ make_list_with_nulls() https://learn.microsoft.com/kusto/query/make-list-with-nulls-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ make_set() https://learn.microsoft.com/kusto/query/make-set-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-24 11:04 AM)
-                ☐ make_set_if() https://learn.microsoft.com/kusto/query/make-set-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ max() https://learn.microsoft.com/kusto/query/max-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-12-09 12:04 PM)
-                ☐ maxif() https://learn.microsoft.com/kusto/query/maxif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ make_set() https://learn.microsoft.com/kusto/query/make-set-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-24 11:04 AM) @cancelled
+                ✘ make_set_if() https://learn.microsoft.com/kusto/query/make-set-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ max() https://learn.microsoft.com/kusto/query/max-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-12-09 12:04 PM) @cancelled
+                ✘ maxif() https://learn.microsoft.com/kusto/query/maxif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ min() https://learn.microsoft.com/kusto/query/min-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-12-09 12:04 PM)
-                ☐ minif() https://learn.microsoft.com/kusto/query/minif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                ☐ percentile(), percentiles() https://learn.microsoft.com/kusto/query/percentiles-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-18 04:57 PM)
-                ☐ percentilew(), percentilesw() https://learn.microsoft.com/kusto/query/percentilesw-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                ✘ minif() https://learn.microsoft.com/kusto/query/minif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
+                ✘ percentile(), percentiles() https://learn.microsoft.com/kusto/query/percentiles-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-09-18 04:57 PM) @cancelled
+                ✘ percentilew(), percentilesw() https://learn.microsoft.com/kusto/query/percentilesw-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 ☐ stdev() https://learn.microsoft.com/kusto/query/stdev-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ stdevif() https://learn.microsoft.com/kusto/query/stdevif-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 ☐ stdevp() https://learn.microsoft.com/kusto/query/stdevp-aggregation-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -966,7 +966,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ series_tan() https://learn.microsoft.com/kusto/query/series-tan-function?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
             Plugins:
                 General plugins:
-                    ☐ dcount_intersect plugin https://learn.microsoft.com/kusto/query/dcount-intersect-plugin?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ dcount_intersect plugin https://learn.microsoft.com/kusto/query/dcount-intersect-plugin?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ☐ infer_storage_schema plugin https://learn.microsoft.com/kusto/query/infer-storage-schema-plugin?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ infer_storage_schema_with_suggestions plugin https://learn.microsoft.com/kusto/query/infer-storage-schema-with-suggestions-plugin?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ ipv4_lookup plugin https://learn.microsoft.com/kusto/query/ipv4-lookup-plugin?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1110,7 +1110,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Materialized views policies https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-policies?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ✘ Materialized views use cases https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-use-cases?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     ☐ Materialized views data purge https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-purge?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Monitor materialized views https://learn.microsoft.com/kusto/management/materialized-views/materialized-views-monitoring?view=azure-data-explorer&preserve-view=true (2024-09-08 11:05 AM)
+                    ✘ Monitor materialized views https://learn.microsoft.com/kusto/management/materialized-views/materialized-views-monitoring?view=azure-data-explorer&preserve-view=true (2024-09-08 11:05 AM) @cancelled
                     ☐ .alter materialized-view https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-alter?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .alter materialized-view autoUpdateSchema https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-alter-autoUpdateSchema?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ .alter materialized-view docstring https://learn.microsoft.com/kusto/management/materialized-views/materialized-view-alter-docstring?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1414,7 +1414,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Query HTTP request https://learn.microsoft.com/kusto/api/rest/request?view=azure-data-explorer&preserve-view=true (2024-11-22 06:01 PM)
                     ☐ Query HTTP response https://learn.microsoft.com/kusto/api/rest/response?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ Query v2 HTTP response https://learn.microsoft.com/kusto/api/rest/response-v2?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Request properties https://learn.microsoft.com/kusto/api/rest/request-properties?view=azure-data-explorer&preserve-view=true (2024-11-04 06:01 PM)
+                    ✘ Request properties https://learn.microsoft.com/kusto/api/rest/request-properties?view=azure-data-explorer&preserve-view=true (2024-11-04 06:01 PM) @cancelled
                     ☐ UI (Deep Links) https://learn.microsoft.com/kusto/api/rest/deeplink?view=azure-data-explorer&preserve-view=true (2024-09-30 11:05 AM)
                     ☐ Streaming ingest https://learn.microsoft.com/kusto/api/rest/streaming-ingest?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     ☐ Query with T-SQL https://learn.microsoft.com/kusto/api/rest/t-sql?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
@@ -1422,7 +1422,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ How to authenticate with MSAL in apps https://learn.microsoft.com/kusto/api/rest/authenticate-with-msal?view=azure-data-explorer&preserve-view=true (2024-10-30 11:08 AM)
                 .NET SDK:
                     ☐ About the SDK https://learn.microsoft.com/kusto/api/netfx/about-the-sdk?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                    ☐ Controlling tracing https://learn.microsoft.com/kusto/api/netfx/controlling-tracing?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                    ✘ Controlling tracing https://learn.microsoft.com/kusto/api/netfx/controlling-tracing?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                     Kusto.Data:
                         ☐ Errors and exceptions https://learn.microsoft.com/kusto/api/netfx/kusto-data-client-errors?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                     Kusto.Ingest:
@@ -1433,7 +1433,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     Kusto.Language:
                         ☐ Kusto.Language overview https://learn.microsoft.com/kusto/api/netfx/about-kusto-language?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                         ☐ Parse queries and commands https://learn.microsoft.com/kusto/api/netfx/kusto-language-parse-queries?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
-                        ☐ Define schemas https://learn.microsoft.com/kusto/api/netfx/kusto-language-define-schemas?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
+                        ✘ Define schemas https://learn.microsoft.com/kusto/api/netfx/kusto-language-define-schemas?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM) @cancelled
                 Python SDK:
                     ☐ azure-kusto-python https://learn.microsoft.com/kusto/api/python/kusto-python-client-library?view=azure-data-explorer&preserve-view=true (2024-10-06 11:30 PM)
                 R SDK:
@@ -1445,7 +1445,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 Go SDK:
                     ☐ azure-kusto-go https://learn.microsoft.com/kusto/api/golang/kusto-golang-client-library?view=azure-data-explorer&preserve-view=true (2024-08-20 02:54 PM)
                 PowerShell:
-                    ☐ Use Kusto .NET client libraries from PowerShell https://learn.microsoft.com/kusto/api/powershell/powershell?view=azure-data-explorer&preserve-view=true (2024-10-15 11:07 AM)
+                    ✘ Use Kusto .NET client libraries from PowerShell https://learn.microsoft.com/kusto/api/powershell/powershell?view=azure-data-explorer&preserve-view=true (2024-10-15 11:07 AM) @cancelled
             Functions library:
                 ✘ List of functions https://learn.microsoft.com/azure/data-explorer/kusto/functions-library/functions-library?context=/azure/synapse-analytics/context/context (2024-12-17 06:02 PM) @cancelled
                 ☐ bartlett_test_fl() https://learn.microsoft.com/azure/data-explorer/kusto/functions-library/bartlett-test-fl?context=/azure/synapse-analytics/context/context (2024-08-20 02:54 PM)
@@ -1515,7 +1515,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
         Concepts:
             ☐ Apache Spark https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-concepts (2024-09-19 06:07 PM)
             ☐ Apache Spark pool configurations https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-pool-configurations (2024-12-12 06:02 PM)
-            ☐ GPU-accelerated Apache Spark pools (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-gpu-concept (2024-12-17 06:04 PM)
+            ✘ GPU-accelerated Apache Spark pools (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-gpu-concept (2024-12-17 06:04 PM) @cancelled
             ☐ Delta Lake https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-what-is-delta-lake (2024-11-20 11:04 PM)
             ☐ Optimize Apache Spark writes on Delta Lake https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/optimize-write-for-apache-spark (2024-12-17 06:04 PM)
             ☐ Low Shuffle Merge on Delta Lake https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/low-shuffle-merge-for-apache-spark (2024-08-01 05:35 AM)
@@ -1538,7 +1538,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             Manage packages:
                 ☐ Manage Workspace packages https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-manage-workspace-packages (2024-12-03 11:07 PM)
                 ☐ Manage Spark pool packages https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-manage-pool-packages (2024-08-01 05:35 AM)
-                ☐ Manage Notebook session packages https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-manage-session-packages (2024-08-01 05:35 AM)
+                ✘ Manage Notebook session packages https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-manage-session-packages (2024-08-01 05:35 AM) @cancelled
                 ✘ Troubleshoot Python package installation errors https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-troubleshoot-library-errors (2024-12-17 06:04 PM) @cancelled
                 ☐ Create a Conda private channel https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-custom-conda-channel (2024-08-01 05:35 AM)
                 ☐ Automate the library management process through Azure PowerShell cmdlets and REST APIs https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-manage-packages-outside-ui (2024-08-01 05:35 AM)
@@ -1902,7 +1902,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Azure AI services https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-configure-cognitive-services-synapse (2024-08-28 07:22 PM)
         Concepts:
             ✘ Train machine learning models https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-training (2024-08-28 07:22 PM) @cancelled
-            ☐ Deep learning (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/concept-deep-learning (2024-08-01 11:20 AM)
+            ✘ Deep learning (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/concept-deep-learning (2024-08-01 11:20 AM) @cancelled
             ☐ SynapseML library https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/synapse-machine-learning-library (2024-10-07 10:04 PM)
         Tutorials:
             Data access and preparation:
@@ -1914,9 +1914,9 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Code-free (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-automl (2024-08-28 07:22 PM)
                     ✘ In Python (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-azure-machine-learning-tutorial (2024-08-28 07:22 PM) @cancelled
                 With Horovod and Petastorm (deprecated):
-                    ☐ Train a model with Horovod and PyTorch (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-horovod-pytorch (2024-08-28 07:22 PM)
+                    ✘ Train a model with Horovod and PyTorch (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-horovod-pytorch (2024-08-28 07:22 PM) @cancelled
                     ☐ Train a model with Horovod and TensorFlow https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-horovod-tensorflow (2024-08-28 07:22 PM)
-                    ☐ Write and load data with Petastorm (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-load-data-petastorm (2024-08-01 11:20 AM)
+                    ✘ Write and load data with Petastorm (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-load-data-petastorm (2024-08-01 11:20 AM) @cancelled
             Score a model:
                 ☐ Use the scoring wizard for dedicated SQL pools https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-sql-pool-model-scoring-wizard (2024-08-01 11:20 AM)
                 ☐ PREDICT score in Synapse spark using model registered in AML or ADLS https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-score-model-predict-spark-pool (2024-11-20 11:04 PM)
@@ -1999,7 +1999,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             ☐ Network security https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-network-security (2024-08-02 05:38 AM)
             ☐ Threat protection https://learn.microsoft.com/en-us/azure/synapse-analytics/guidance/security-white-paper-threat-protection (2024-10-07 10:04 PM)
     Reference:
-        ☐ Azure CLI https://learn.microsoft.com/cli/azure/ (2024-09-20 09:59 PM)
+        ✘ Azure CLI https://learn.microsoft.com/cli/azure/ (2024-09-20 09:59 PM) @cancelled
         ☐ Database collation types https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/reference-collation-types?context=/azure/synapse-analytics/context/context (2024-12-12 12:24 PM)
         ☐ Go https://pkg.go.dev/github.com/Azure/azure-sdk-for-go/services/preview/synapse@v43.3.0+incompatible
         ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.synapse?preserve-view=true&view=azure-dotnet-preview (2020-03-31 10:48 PM)
@@ -2066,7 +2066,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
 
                     ☐ System and user-assigned managed identity https://learn.microsoft.com/en-us/azure/synapse-analytics/synapse-service-identity?context=/azure/synapse-analytics/context/context (2024-12-29 12:12 PM)
                 ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/design-elt-data-loading?context=/azure/synapse-analytics/context/context (2024-12-29 12:12 PM)
-                ☐ Data loading overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/load-data-overview (2024-12-29 12:12 PM)
+                ✘ Data loading overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/load-data-overview (2024-12-29 12:12 PM) @cancelled
                     ✘ Load external data using Entra ID https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-load-data-using-entra-id (2024-12-29 12:12 PM) @cancelled
                     ✘ Load external data using a Managed Identity https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-external-tables-using-managed-identity (2024-12-29 12:12 PM) @cancelled
                     ☐ Contoso public data https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-load-from-azure-blob-storage-with-polybase?context=/azure/synapse-analytics/context/context (2024-12-29 12:12 PM)
@@ -2120,7 +2120,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                     ☐ Load external data using a Managed Identity https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/tutorial-external-tables-using-managed-identity (2025-01-08 05:33 AM)
                 ☐ datetime https://learn.microsoft.com/kusto/query/scalar-data-types/datetime?view=azure-data-explorer&preserve-view=true (2025-01-09 12:05 PM)
                 ✘ datatable operator https://learn.microsoft.com/kusto/query/datatable-operator?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM) @cancelled
-                ☐ range operator https://learn.microsoft.com/kusto/query/range-operator?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
+                ✘ range operator https://learn.microsoft.com/kusto/query/range-operator?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM) @cancelled
                 ☐ Logical or binary operators https://learn.microsoft.com/kusto/query/logical-operators?view=azure-data-explorer&preserve-view=true (2025-01-09 12:05 PM)
                 ☐ column_ifexists() https://learn.microsoft.com/kusto/query/column-ifexists-function?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
                 ☐ replace_string() https://learn.microsoft.com/kusto/query/replace-string-function?view=azure-data-explorer&preserve-view=true (2025-01-08 12:11 PM)
@@ -2139,7 +2139,7 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                 ☐ Request rate limits enforcement policy https://learn.microsoft.com/kusto/management/request-rate-limits-enforcement-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
                 ☐ Request queuing policy https://learn.microsoft.com/kusto/management/request-queuing-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
                 ☐ Query consistency policy https://learn.microsoft.com/kusto/management/query-consistency-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
-                    ☐ Callout policy https://learn.microsoft.com/kusto/management/callout-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
+                    ✘ Callout policy https://learn.microsoft.com/kusto/management/callout-policy?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM) @cancelled
                     ☐ .alter cluster policy callout command https://learn.microsoft.com/kusto/management/alter-callout-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
                     ☐ .alter-merge cluster policy callout command https://learn.microsoft.com/kusto/management/alter-merge-callout-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
                     ☐ .delete cluster policy callout command https://learn.microsoft.com/kusto/management/delete-callout-policy-command?view=azure-data-explorer&preserve-view=true (2025-01-09 05:57 PM)
@@ -2323,11 +2323,11 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
             ☐ Capacity limits https://learn.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-service-capacity-limits?context=/azure/synapse-analytics/context/context (2025-01-28 06:07 PM)
                 ☐ Null values https://learn.microsoft.com/kusto/query/scalar-data-types/null-values?view=azure-data-explorer&preserve-view=true (2025-01-28 06:04 PM)
                 ☐ Alias statement https://learn.microsoft.com/kusto/query/alias-statement?view=azure-data-explorer&preserve-view=true (2025-01-28 12:06 PM)
-                ☐ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
-                ☐ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
-                ☐ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
+                ✘ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM) @cancelled
+                ✘ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM) @cancelled
+                ✘ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM) @cancelled
                 ☐ Restrict statement https://learn.microsoft.com/kusto/query/restrict-statement?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
-                ☐ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
+                ✘ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM) @cancelled
                 ☐ Tabular expression statements https://learn.microsoft.com/kusto/query/tabular-expression-statements?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
                 ☐ Batches https://learn.microsoft.com/kusto/query/batches?view=azure-data-explorer&preserve-view=true (2025-01-28 12:06 PM)
                 ☐ as operator https://learn.microsoft.com/kusto/query/as-operator?view=azure-data-explorer&preserve-view=true (2025-01-28 12:06 PM)
@@ -2346,15 +2346,15 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
                         ☐ rightanti https://learn.microsoft.com/kusto/query/join-rightanti?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
                     ☐ Cross-cluster join https://learn.microsoft.com/kusto/query/join-cross-cluster?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
                     ☐ render operator https://learn.microsoft.com/kusto/query/render-operator?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
-                        ☐ anomalychart https://learn.microsoft.com/kusto/query/visualization-anomalychart?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
-                        ☐ areachart https://learn.microsoft.com/kusto/query/visualization-areachart?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
-                        ☐ barchart https://learn.microsoft.com/kusto/query/visualization-barchart?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
-                        ☐ columnchart https://learn.microsoft.com/kusto/query/visualization-columnchart?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
-                        ☐ linechart https://learn.microsoft.com/kusto/query/visualization-linechart?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
+                        ✘ anomalychart https://learn.microsoft.com/kusto/query/visualization-anomalychart?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM) @cancelled
+                        ✘ areachart https://learn.microsoft.com/kusto/query/visualization-areachart?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM) @cancelled
+                        ✘ barchart https://learn.microsoft.com/kusto/query/visualization-barchart?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM) @cancelled
+                        ✘ columnchart https://learn.microsoft.com/kusto/query/visualization-columnchart?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM) @cancelled
+                        ✘ linechart https://learn.microsoft.com/kusto/query/visualization-linechart?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM) @cancelled
                         ☐ timechart https://learn.microsoft.com/kusto/query/visualization-timechart?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
-                ☐ count() https://learn.microsoft.com/kusto/query/count-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-01-28 06:04 PM)
-                ☐ count_distinct() https://learn.microsoft.com/kusto/query/count-distinct-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-01-28 06:04 PM)
-                ☐ countif() https://learn.microsoft.com/kusto/query/countif-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-01-28 06:04 PM)
+                ✘ count() https://learn.microsoft.com/kusto/query/count-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-01-28 06:04 PM) @cancelled
+                ✘ count_distinct() https://learn.microsoft.com/kusto/query/count-distinct-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-01-28 06:04 PM) @cancelled
+                ✘ countif() https://learn.microsoft.com/kusto/query/countif-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-01-28 06:04 PM) @cancelled
                 ☐ graph-match https://learn.microsoft.com/kusto/query/graph-match-operator?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
                 ☐ Request rate limit policy https://learn.microsoft.com/kusto/management/request-rate-limit-policy?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
                     ☐ Ingestion mappings overview https://learn.microsoft.com/kusto/management/mappings?view=azure-data-explorer&preserve-view=true (2025-01-29 12:18 PM)
@@ -2390,4 +2390,94 @@ Azure Synapse Analytics - Azure Synapse Analytics | Microsoft Learn:
 
                 ☐ Troubleshoot Synapse Studio connectivity issues https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio-powershell (2024-11-20 11:04 PM)
                 ☐ Troubleshoot connectivity between Synapse Studio and storage https://learn.microsoft.com/en-us/azure/synapse-analytics/troubleshoot/troubleshoot-synapse-studio-and-storage-connectivity (2024-08-01 05:35 AM)
+
+
+---
+
+                    ☐ Synapse workspace with private link hubs https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-private-link-hubs (2025-02-03 11:15 PM)
+                    ☐ Connect to a secured storage account https://learn.microsoft.com/en-us/azure/synapse-analytics/security/connect-to-a-secure-storage-account (2025-02-07 11:03 PM)
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/synapse-analytics/security/synapse-workspace-access-control-overview (2025-02-07 11:03 PM)
+                ☐ Data loading overview https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/load-data-overview (2025-02-07 11:03 PM)
+                    ☐ Set for a database https://learn.microsoft.com/sql/t-sql/statements/alter-database-transact-sql-set-options?context=/azure/synapse-analytics/context/context&view=azure-sqldw-latest&preserve-view=true (2025-02-05 06:33 PM)
+                ☐ External tables https://learn.microsoft.com/kusto/query/schema-entities/external-tables?view=azure-data-explorer&preserve-view=true
+                    ☐ log_reduce_predict_fl() https://learn.microsoft.com/kusto/functions-library/log-reduce-predict-fl?view=azure-data-explorer&preserve-view=true
+                ☐ Let statement https://learn.microsoft.com/kusto/query/let-statement?view=azure-data-explorer&preserve-view=true (2025-02-03 06:03 PM)
+                ☐ Pattern statement https://learn.microsoft.com/kusto/query/pattern-statement?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ Query parameters statement https://learn.microsoft.com/kusto/query/query-parameters-statement?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ Set statement https://learn.microsoft.com/kusto/query/set-statement?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ evaluate operator https://learn.microsoft.com/kusto/query/evaluate-operator?view=azure-data-explorer&preserve-view=true
+                        ☐ rightouter https://learn.microsoft.com/kusto/query/join-rightouter?view=azure-data-explorer&preserve-view=true (2025-02-03 06:03 PM)
+                        ☐ rightsemi https://learn.microsoft.com/kusto/query/join-rightsemi?view=azure-data-explorer&preserve-view=true (2025-02-03 06:03 PM)
+                    ☐ Time window join https://learn.microsoft.com/kusto/query/join-time-window?view=azure-data-explorer&preserve-view=true (2025-02-03 06:03 PM)
+                ☐ lookup operator https://learn.microsoft.com/kusto/query/lookup-operator?view=azure-data-explorer&preserve-view=true (2025-02-03 06:03 PM)
+                ☐ mv-apply operator https://learn.microsoft.com/kusto/query/mv-apply-operator?view=azure-data-explorer&preserve-view=true (2025-02-03 06:03 PM)
+                ☐ mv-expand operator https://learn.microsoft.com/kusto/query/mv-expand-operator?view=azure-data-explorer&preserve-view=true (2025-02-03 06:03 PM)
+                ☐ project-away operator https://learn.microsoft.com/kusto/query/project-away-operator?view=azure-data-explorer&preserve-view=true (2025-02-03 06:03 PM)
+                ☐ project-keep operator https://learn.microsoft.com/kusto/query/project-keep-operator?view=azure-data-explorer&preserve-view=true (2025-02-03 06:03 PM)
+                ☐ parse operator https://learn.microsoft.com/kusto/query/parse-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ parse-where operator https://learn.microsoft.com/kusto/query/parse-where-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ parse-kv operator https://learn.microsoft.com/kusto/query/parse-kv-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ partition operator https://learn.microsoft.com/kusto/query/partition-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ print operator https://learn.microsoft.com/kusto/query/print-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ range operator https://learn.microsoft.com/kusto/query/range-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ reduce operator https://learn.microsoft.com/kusto/query/reduce-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                        ☐ anomalychart https://learn.microsoft.com/kusto/query/visualization-anomalychart?view=azure-data-explorer&preserve-view=true (2025-02-06 06:01 PM)
+                        ☐ areachart https://learn.microsoft.com/kusto/query/visualization-areachart?view=azure-data-explorer&preserve-view=true (2025-02-06 06:01 PM)
+                        ☐ barchart https://learn.microsoft.com/kusto/query/visualization-barchart?view=azure-data-explorer&preserve-view=true (2025-02-06 06:01 PM)
+                        ☐ card https://learn.microsoft.com/kusto/query/visualization-card?view=azure-data-explorer&preserve-view=true (2025-02-06 06:01 PM)
+                        ☐ columnchart https://learn.microsoft.com/kusto/query/visualization-columnchart?view=azure-data-explorer&preserve-view=true (2025-02-06 06:01 PM)
+                        ☐ ladderchart https://learn.microsoft.com/kusto/query/visualization-ladderchart?view=azure-data-explorer&preserve-view=true (2025-02-06 06:01 PM)
+                        ☐ linechart https://learn.microsoft.com/kusto/query/visualization-linechart?view=azure-data-explorer&preserve-view=true (2025-02-06 06:01 PM)
+                ☐ sample operator https://learn.microsoft.com/kusto/query/sample-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ sample-distinct operator https://learn.microsoft.com/kusto/query/sample-distinct-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ scan operator https://learn.microsoft.com/kusto/query/scan-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ search operator https://learn.microsoft.com/kusto/query/search-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ serialize operator https://learn.microsoft.com/kusto/query/serialize-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ shuffle query https://learn.microsoft.com/kusto/query/shuffle-query?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                ☐ sort operator https://learn.microsoft.com/kusto/query/sort-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 06:01 PM)
+                    ☐ summarize operator overview https://learn.microsoft.com/kusto/query/summarize-operator?view=azure-data-explorer&preserve-view=true (2025-02-06 06:01 PM)
+                ☐ array_sort_asc() https://learn.microsoft.com/kusto/query/array-sort-asc-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ array_sort_desc() https://learn.microsoft.com/kusto/query/array-sort-desc-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ hll_merge() https://learn.microsoft.com/kusto/query/hll-merge-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ arg_max() https://learn.microsoft.com/kusto/query/arg-max-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ avg() https://learn.microsoft.com/kusto/query/avg-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ avgif() https://learn.microsoft.com/kusto/query/avgif-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ binary_all_and https://learn.microsoft.com/kusto/query/binary-all-and-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ binary_all_or https://learn.microsoft.com/kusto/query/binary-all-or-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ binary_all_xor https://learn.microsoft.com/kusto/query/binary-all-xor-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ buildschema() https://learn.microsoft.com/kusto/query/buildschema-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ count() https://learn.microsoft.com/kusto/query/count-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ count_distinct() https://learn.microsoft.com/kusto/query/count-distinct-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ count_distinctif() https://learn.microsoft.com/kusto/query/count-distinctif-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ countif() https://learn.microsoft.com/kusto/query/countif-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ dcount() https://learn.microsoft.com/kusto/query/dcount-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ dcountif() https://learn.microsoft.com/kusto/query/dcountif-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ hll() https://learn.microsoft.com/kusto/query/hll-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ hll_if() https://learn.microsoft.com/kusto/query/hll-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ hll_merge() https://learn.microsoft.com/kusto/query/hll-merge-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ make_bag() https://learn.microsoft.com/kusto/query/make-bag-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ make_bag_if() https://learn.microsoft.com/kusto/query/make-bag-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ make_list() https://learn.microsoft.com/kusto/query/make-list-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ make_list_if() https://learn.microsoft.com/kusto/query/make-list-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ make_set() https://learn.microsoft.com/kusto/query/make-set-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ make_set_if() https://learn.microsoft.com/kusto/query/make-set-if-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ max() https://learn.microsoft.com/kusto/query/max-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ maxif() https://learn.microsoft.com/kusto/query/maxif-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ minif() https://learn.microsoft.com/kusto/query/minif-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ percentile(), percentiles() https://learn.microsoft.com/kusto/query/percentiles-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                ☐ percentilew(), percentilesw() https://learn.microsoft.com/kusto/query/percentilesw-aggregation-function?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                    ☐ dcount_intersect plugin https://learn.microsoft.com/kusto/query/dcount-intersect-plugin?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                    ☐ Monitor materialized views https://learn.microsoft.com/kusto/management/materialized-views/materialized-views-monitoring?view=azure-data-explorer&preserve-view=true (2025-02-05 12:13 PM)
+                    ☐ Callout policy https://learn.microsoft.com/kusto/management/callout-policy?view=azure-data-explorer&preserve-view=true (2025-02-06 12:04 PM)
+                    ☐ Request properties https://learn.microsoft.com/kusto/api/rest/request-properties?view=azure-data-explorer&preserve-view=true (2025-02-06 06:01 PM)
+                    ☐ Controlling tracing https://learn.microsoft.com/kusto/api/netfx/controlling-tracing?view=azure-data-explorer&preserve-view=true (2025-02-03 06:03 PM)
+                        ☐ Define schemas https://learn.microsoft.com/kusto/api/netfx/kusto-language-define-schemas?view=azure-data-explorer&preserve-view=true (2025-02-04 12:04 PM)
+                    ☐ Use Kusto .NET client libraries from PowerShell https://learn.microsoft.com/kusto/api/powershell/powershell?view=azure-data-explorer&preserve-view=true (2025-02-03 06:03 PM)
+            ☐ GPU-accelerated Apache Spark pools (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-gpu-concept (2025-02-04 06:06 PM)
+                ☐ Manage Notebook session packages https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-manage-session-packages (2025-02-04 06:06 PM)
+            ☐ Train machine learning models https://learn.microsoft.com/en-us/azure/synapse-analytics/spark/apache-spark-machine-learning-training (2025-02-04 06:06 PM)
+            ☐ Deep learning (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/concept-deep-learning (2025-02-04 06:06 PM)
+                    ☐ Train a model with Horovod and PyTorch (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-horovod-pytorch (2025-02-04 06:06 PM)
+                    ☐ Write and load data with Petastorm (deprecated) https://learn.microsoft.com/en-us/azure/synapse-analytics/machine-learning/tutorial-load-data-petastorm (2025-02-04 06:06 PM)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/ (2025-02-03 11:02 PM)
 

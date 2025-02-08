@@ -7,7 +7,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
     Shared SQL DB & SQL MI docs:
         Billing options:
             ☐ Azure Hybrid Benefit https://learn.microsoft.com/en-us/azure/azure-sql/azure-hybrid-benefit (2024-07-31 05:33 PM)
-            ☐ Reservations https://learn.microsoft.com/en-us/azure/azure-sql/database/reservations-discount-overview (2024-12-19 11:35 PM)
+            ✘ Reservations https://learn.microsoft.com/en-us/azure/azure-sql/database/reservations-discount-overview (2024-12-19 11:35 PM) @cancelled
         Shared concepts:
             ✘ Feature comparison https://learn.microsoft.com/en-us/azure/azure-sql/database/features-comparison (2024-12-19 11:35 PM) @cancelled
             ☐ Multi-model features https://learn.microsoft.com/en-us/azure/azure-sql/multi-model-features (2024-11-22 07:03 PM)
@@ -40,18 +40,18 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ Cross-tenant CMK https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-cross-tenant (2024-07-31 05:33 PM)
             Business continuity:
                 Backup and recovery:
-                    ☐ Accelerated database recovery https://learn.microsoft.com/sql/relational-databases/accelerated-database-recovery-concepts (2024-12-04 06:33 PM)
+                    ✘ Accelerated database recovery https://learn.microsoft.com/sql/relational-databases/accelerated-database-recovery-concepts (2024-12-04 06:33 PM) @cancelled
                     ☐ Long-term backup retention https://learn.microsoft.com/en-us/azure/azure-sql/database/long-term-retention-overview (2024-08-12 10:33 PM)
             Monitor and tune:
                 ☐ Documentation https://learn.microsoft.com/en-us/azure/azure-sql/database/monitoring-tuning-index (2024-08-23 10:35 PM)
                 ✘ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/monitor-tune-overview (2024-10-09 01:28 AM) @cancelled
-                ☐ Intelligent Insights https://learn.microsoft.com/en-us/azure/azure-sql/database/intelligent-insights-overview (2024-08-23 10:35 PM)
+                ✘ Intelligent Insights https://learn.microsoft.com/en-us/azure/azure-sql/database/intelligent-insights-overview (2024-08-23 10:35 PM) @cancelled
                 Database watcher (preview):
                     ✘ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-overview (2024-11-12 06:04 PM) @cancelled
                     ✘ Quickstart https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-quickstart (2024-07-31 05:33 PM) @cancelled
                     ✘ Create and configure https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-manage (2024-12-18 07:02 PM) @cancelled
                     ☐ Data collection and datasets https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-data (2024-11-11 11:32 PM)
-                    ☐ Analyze monitoring data https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-analyze (2024-07-31 05:33 PM)
+                    ✘ Analyze monitoring data https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-analyze (2024-07-31 05:33 PM) @cancelled
                     ✘ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-faq (2024-11-11 11:32 PM) @cancelled
                 ☐ SQL Analytics https://learn.microsoft.com/azure/azure-monitor/insights/azure-sql?toc=/azure/azure-sql/toc.json (2023-03-08 11:13 PM)
                 SQL Insights (preview):
@@ -132,8 +132,8 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
         Overview:
             ☐ What is SQL Database? https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-database-paas-overview (2024-11-05 11:33 PM)
             ✘ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new (2024-11-22 07:03 PM) @cancelled
-            ☐ Try Azure SQL Database free https://learn.microsoft.com/en-us/azure/azure-sql/database/free-offer (2024-07-31 05:33 PM)
-            ☐ Try Azure SQL Database free FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/free-offer-faq (2024-08-12 10:33 PM)
+            ✘ Try Azure SQL Database free https://learn.microsoft.com/en-us/azure/azure-sql/database/free-offer (2024-07-31 05:33 PM) @cancelled
+            ✘ Try Azure SQL Database free FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/free-offer-faq (2024-08-12 10:33 PM) @cancelled
             ☐ Copilot in SQL Database https://learn.microsoft.com/en-us/azure/azure-sql/copilot/copilot-azure-sql-overview (2024-10-09 01:28 AM)
             ✘ Copilot in SQL Database FAQ https://learn.microsoft.com/en-us/azure/azure-sql/copilot/copilot-azure-sql-faq (2024-08-12 10:33 PM) @cancelled
             ☐ Natural language to SQL https://learn.microsoft.com/en-us/azure/azure-sql/copilot/query-editor-natural-language-to-sql-copilot (2024-09-09 10:19 PM)
@@ -158,9 +158,9 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ GitHub Actions https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-github-actions-sql-db (2024-10-30 05:31 PM)
         Tutorials:
             Design a database:
-                ☐ Design database using SSMS https://learn.microsoft.com/en-us/azure/azure-sql/database/design-first-database-tutorial (2024-07-31 05:33 PM)
-                ☐ Design database using ADS https://learn.microsoft.com/en-us/azure/azure-sql/database/design-first-database-azure-data-studio (2024-09-18 10:34 PM)
-                ☐ Design database using .NET https://learn.microsoft.com/en-us/azure/azure-sql/database/design-first-database-csharp-tutorial (2024-07-31 05:33 PM)
+                ✘ Design database using SSMS https://learn.microsoft.com/en-us/azure/azure-sql/database/design-first-database-tutorial (2024-07-31 05:33 PM) @cancelled
+                ✘ Design database using ADS https://learn.microsoft.com/en-us/azure/azure-sql/database/design-first-database-azure-data-studio (2024-09-18 10:34 PM) @cancelled
+                ✘ Design database using .NET https://learn.microsoft.com/en-us/azure/azure-sql/database/design-first-database-csharp-tutorial (2024-07-31 05:33 PM) @cancelled
             Business continuity:
                 ✘ Geo-distributed application https://learn.microsoft.com/en-us/azure/azure-sql/database/geo-distributed-application-configure-tutorial (2024-11-25 11:30 PM) @cancelled
                 ☐ Active geo-replication https://learn.microsoft.com/en-us/azure/azure-sql/database/active-geo-replication-configure-portal (2024-11-21 06:30 PM)
@@ -168,7 +168,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 Always Encrypted with secure enclaves https://learn.microsoft.com/en-us/azure/azure-sql/database/always-encrypted-enclaves-getting-started (2024-07-31 05:33 PM):
                     ☐ Always Encrypted with secure enclaves using SGX https://learn.microsoft.com/en-us/azure/azure-sql/database/always-encrypted-enclaves-getting-started-sgx (2024-07-31 05:33 PM)
                     ☐ Always Encrypted with secure enclaves using VBS https://learn.microsoft.com/en-us/azure/azure-sql/database/always-encrypted-enclaves-getting-started-vbs (2024-07-31 05:33 PM)
-                ☐ Configure security https://learn.microsoft.com/en-us/azure/azure-sql/database/secure-database-tutorial (2024-11-25 11:30 PM)
+                ✘ Configure security https://learn.microsoft.com/en-us/azure/azure-sql/database/secure-database-tutorial (2024-11-25 11:30 PM) @cancelled
                 ☐ Create users using service principals https://learn.microsoft.com/en-us/azure/azure-sql/database/authentication-aad-service-principal-tutorial (2024-11-25 11:30 PM)
             Move data:
                 ☐ Migrate using DMS https://learn.microsoft.com/azure/dms/tutorial-sql-server-to-azure-sql?toc=/azure/azure-sql/toc.json (2024-09-19 09:59 PM)
@@ -246,15 +246,15 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ✘ VNet endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview (2024-07-31 05:33 PM) @cancelled
                 ☐ Server roles https://learn.microsoft.com/en-us/azure/azure-sql/database/security-server-roles (2024-07-31 05:33 PM)
             Business continuity:
-                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview (2024-11-22 07:03 PM)
-                ☐ High availability https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla-local-zone-redundancy (2024-11-22 07:03 PM)
-                ☐ HA/DR checklist https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-disaster-recovery-checklist (2024-11-21 06:30 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview (2024-11-22 07:03 PM) @cancelled
+                ✘ High availability https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla-local-zone-redundancy (2024-11-22 07:03 PM) @cancelled
+                ✘ HA/DR checklist https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-disaster-recovery-checklist (2024-11-21 06:30 PM) @cancelled
                 ✘ Automated backups https://learn.microsoft.com/en-us/azure/azure-sql/database/automated-backups-overview (2024-11-22 07:03 PM) @cancelled
                 Disaster recovery:
                     ✘ Active geo-replication https://learn.microsoft.com/en-us/azure/azure-sql/database/active-geo-replication-overview (2024-10-02 10:31 PM) @cancelled
                     ✘ Failover groups https://learn.microsoft.com/en-us/azure/azure-sql/database/failover-group-sql-db (2024-11-21 06:30 PM) @cancelled
                     ☐ Outage recovery guidance https://learn.microsoft.com/en-us/azure/azure-sql/database/disaster-recovery-guidance (2024-07-31 05:33 PM)
-                    ☐ Recovery drills https://learn.microsoft.com/en-us/azure/azure-sql/database/disaster-recovery-drills (2024-07-31 05:33 PM)
+                    ✘ Recovery drills https://learn.microsoft.com/en-us/azure/azure-sql/database/disaster-recovery-drills (2024-07-31 05:33 PM) @cancelled
             SQL Data Sync:
                 ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-data-sync-data-sql-server-sql-database (2024-09-26 10:31 PM)
                 ✘ SQL Data Sync retirement https://learn.microsoft.com/en-us/azure/azure-sql/database/sql-data-sync-retirement-migration (2024-10-08 05:37 PM) @cancelled
@@ -300,8 +300,8 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/azure-sql/database/cost-management (2024-12-19 11:35 PM)
             Connect and query:
                 Connect and run ad hoc queries:
-                    ☐ Azure Data Studio https://learn.microsoft.com/azure-data-studio/quickstart-sql-database (2024-01-04 06:30 PM)
-                    ☐ Azure portal query editor https://learn.microsoft.com/en-us/azure/azure-sql/database/query-editor (2024-08-01 10:35 PM)
+                    ✘ Azure Data Studio https://learn.microsoft.com/azure-data-studio/quickstart-sql-database (2024-01-04 06:30 PM) @cancelled
+                    ✘ Azure portal query editor https://learn.microsoft.com/en-us/azure/azure-sql/database/query-editor (2024-08-01 10:35 PM) @cancelled
                     ✘ VS Code https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-vscode (2024-09-23 05:32 PM) @cancelled
                 Connect and query from apps:
                     ✘ .NET with Microsoft Entra MFA https://learn.microsoft.com/en-us/azure/azure-sql/database/active-directory-interactive-connect-azure-sql-db (2024-11-22 07:03 PM) @cancelled
@@ -380,7 +380,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             Performance:
                 ✘ Tune applications and databases for performance https://learn.microsoft.com/en-us/azure/azure-sql/database/performance-guidance (2024-12-06 06:32 PM) @cancelled
                 ☐ Use Query Performance Insights https://learn.microsoft.com/en-us/azure/azure-sql/database/query-performance-insight-use (2024-08-23 10:35 PM)
-                ☐ Enable automatic tuning https://learn.microsoft.com/en-us/azure/azure-sql/database/automatic-tuning-enable (2024-07-31 05:33 PM)
+                ✘ Enable automatic tuning https://learn.microsoft.com/en-us/azure/azure-sql/database/automatic-tuning-enable (2024-07-31 05:33 PM) @cancelled
                 ✘ Enable e-mail notifications for automatic tuning https://learn.microsoft.com/en-us/azure/azure-sql/database/automatic-tuning-email-notifications-configure (2024-07-31 05:33 PM) @cancelled
                 ☐ Apply performance recommendations https://learn.microsoft.com/en-us/azure/azure-sql/database/database-advisor-find-recommendations-portal (2024-07-31 05:33 PM)
                 ☐ Create alerts https://learn.microsoft.com/en-us/azure/azure-sql/database/alerts-create (2024-07-31 05:33 PM)
@@ -393,7 +393,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ✘ Optimized locking https://learn.microsoft.com/sql/relational-databases/performance/optimized-locking (2024-12-04 06:33 PM) @cancelled
             Migrate:
                 ☐ Migrate DTU to vCore https://learn.microsoft.com/en-us/azure/azure-sql/database/migrate-dtu-to-vcore (2024-07-31 05:33 PM)
-                ☐ Manage SQL Database after migration https://learn.microsoft.com/en-us/azure/azure-sql/database/manage-data-after-migrating-to-database (2024-09-19 10:31 PM)
+                ✘ Manage SQL Database after migration https://learn.microsoft.com/en-us/azure/azure-sql/database/manage-data-after-migrating-to-database (2024-09-19 10:31 PM) @cancelled
                 Migrate to passwordless:
                     ☐ Migrate a .NET application https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-passwordless-migration (2024-08-12 10:33 PM)
                     ✘ Migrate a Node.js application https://learn.microsoft.com/en-us/azure/azure-sql/database/azure-sql-passwordless-migration-nodejs (2024-08-05 05:37 PM) @cancelled
@@ -426,8 +426,8 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             Design data applications:
                 ✘ Authenticate app https://learn.microsoft.com/en-us/azure/azure-sql/database/application-authentication-get-client-id-keys (2024-11-22 07:03 PM) @cancelled
                 ☐ Design for disaster recovery https://learn.microsoft.com/en-us/azure/azure-sql/database/designing-cloud-solutions-for-disaster-recovery (2024-09-16 05:36 PM)
-                ☐ Design for elastic pools https://learn.microsoft.com/en-us/azure/azure-sql/database/disaster-recovery-strategies-for-applications-with-elastic-pool (2024-07-31 05:33 PM)
-                ☐ Design for app upgrades https://learn.microsoft.com/en-us/azure/azure-sql/database/manage-application-rolling-upgrade (2024-07-31 05:33 PM)
+                ✘ Design for elastic pools https://learn.microsoft.com/en-us/azure/azure-sql/database/disaster-recovery-strategies-for-applications-with-elastic-pool (2024-07-31 05:33 PM) @cancelled
+                ✘ Design for app upgrades https://learn.microsoft.com/en-us/azure/azure-sql/database/manage-application-rolling-upgrade (2024-07-31 05:33 PM) @cancelled
                 ☐ C and C ++ https://learn.microsoft.com/en-us/azure/azure-sql/database/develop-cplusplus-simple (2024-11-25 11:30 PM)
                 ☐ Excel https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-excel (2024-07-31 05:33 PM)
                 ✘ Develop a Kubernetes app with Azure SQL Database https://learn.microsoft.com/en-us/azure/azure-sql/database/develop-kubernetes-application (2024-08-15 05:31 PM) @cancelled
@@ -444,7 +444,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                             ☐ Provision tenants https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-standaloneapp-provision-and-catalog (2024-12-11 11:33 PM)
                         Database per tenant:
                             ☐ Tutorial intro https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-dbpertenant-wingtip-app-overview (2024-12-11 11:33 PM)
-                            ☐ Deploy example app https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-dbpertenant-get-started-deploy (2024-12-11 11:33 PM)
+                            ✘ Deploy example app https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-dbpertenant-get-started-deploy (2024-12-11 11:33 PM) @cancelled
                             ☐ Provision tenants https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-dbpertenant-provision-and-catalog (2024-12-11 11:33 PM)
                             ☐ Monitor database performance https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-dbpertenant-performance-monitoring (2024-12-11 11:33 PM)
                             ☐ Monitor with Azure Monitor logs https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-dbpertenant-log-analytics (2024-12-11 11:33 PM)
@@ -454,7 +454,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                             Tenant analytics:
                                 ☐ With SQL Database https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-tenant-analytics (2024-12-11 11:33 PM)
                                 ☐ With Azure Synapse Analytics https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-tenant-analytics-adf (2024-12-11 11:33 PM)
-                        ☐ Disaster recovery using geo-restore https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-dbpertenant-dr-geo-restore (2024-12-11 11:33 PM)
+                        ✘ Disaster recovery using geo-restore https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-dbpertenant-dr-geo-restore (2024-12-11 11:33 PM) @cancelled
                         ☐ Disaster recovery using database geo-replication https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-dbpertenant-dr-geo-replication (2024-12-11 11:33 PM)
                     Multi-tenant database:
                         ☐ Deploy example app https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-multitenantdb-get-started-deploy (2024-12-11 11:33 PM)
@@ -511,7 +511,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ Azure Resource Manager https://learn.microsoft.com/en-us/azure/azure-sql/database/arm-templates-content-guide (2024-07-31 05:33 PM)
             ☐ Code samples https://azure.microsoft.com/resources/samples/?service=sql-database (2024-11-01 08:16 PM)
             ☐ Azure Resource Graph queries https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-graph-samples (2024-08-12 10:33 PM)
-            ☐ Try Azure SQL Database free with Azure free account (old offer) https://learn.microsoft.com/en-us/azure/azure-sql/database/free-sql-db-free-account-how-to-deploy (2024-07-31 05:33 PM)
+            ✘ Try Azure SQL Database free with Azure free account (old offer) https://learn.microsoft.com/en-us/azure/azure-sql/database/free-sql-db-free-account-how-to-deploy (2024-07-31 05:33 PM) @cancelled
     Azure SQL Managed Instance (SQL MI):
         ☐ Documentation https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/ (2024-07-31 05:33 PM)
         Overview:
@@ -552,11 +552,11 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ✘ Assessment rules https://learn.microsoft.com/data-migration/sql-server/managed-instance/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
         Concepts:
             ✘ vCore purchasing model https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/service-tiers-managed-instance-vcore (2024-12-19 11:35 PM) @cancelled
-            ☐ Resource limits https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/resource-limits (2024-12-19 11:35 PM)
+            ✘ Resource limits https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/resource-limits (2024-12-19 11:35 PM) @cancelled
             ✘ Virtual cluster architecture https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/virtual-cluster-architecture (2024-11-22 07:03 PM) @cancelled
             ✘ Connectivity architecture https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/connectivity-architecture-overview (2024-11-25 06:32 PM) @cancelled
             ☐ T-SQL differences https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/transact-sql-tsql-differences-sql-server (2024-11-27 06:33 PM)
-            ☐ Managed Instance link https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/managed-instance-link-feature-overview (2024-12-12 11:36 PM)
+            ✘ Managed Instance link https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/managed-instance-link-feature-overview (2024-12-12 11:36 PM) @cancelled
             ☐ Log Replay Service (LRS) https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/log-replay-service-overview (2024-10-30 10:34 PM)
             ☐ Instance pools https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/instance-pools-overview (2024-12-19 11:35 PM)
             ☐ Data virtualization https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/data-virtualization-overview (2024-07-31 05:33 PM)
@@ -782,7 +782,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                     ☐ Backup and restore https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/backup-restore (2024-10-22 11:03 PM)
                     ☐ Azure Storage for backup https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/azure-storage-sql-server-backup-restore-use (2024-10-22 11:03 PM)
                     ☐ Availability group (AG) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/availability-group-overview (2024-11-21 06:30 PM)
-                    ☐ Failover cluster instance (FCI) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-overview (2024-10-22 11:03 PM)
+                    ✘ Failover cluster instance (FCI) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-overview (2024-10-22 11:03 PM) @cancelled
                     ☐ Windows Server Failover Cluster https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/hadr-windows-server-failover-cluster-overview (2024-10-22 11:03 PM)
                 Best practices:
                     ✘ Quick checklist https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/performance-guidelines-best-practices-checklist (2024-10-22 11:03 PM) @cancelled
@@ -923,7 +923,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ✘ Overview https://learn.microsoft.com/data-migration/sql-server/managed-instance/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-11-25 11:30 PM) @cancelled
             ✘ Assessment rules https://learn.microsoft.com/data-migration/sql-server/managed-instance/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
             ☐ Performance baseline https://learn.microsoft.com/data-migration/sql-server/managed-instance/performance-baseline?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
-            ☐ Custom roles https://learn.microsoft.com/data-migration/sql-server/managed-instance/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
+            ✘ Custom roles https://learn.microsoft.com/data-migration/sql-server/managed-instance/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
             ✘ Migration guide https://learn.microsoft.com/data-migration/sql-server/managed-instance/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
             ☐ Migration tutorial https://learn.microsoft.com/data-migration/sql-server/managed-instance/database-migration-service?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-12-17 11:31 PM)
         To SQL Server on Azure VMs:
@@ -942,7 +942,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
         To Azure SQL Database:
             ✘ Overview https://learn.microsoft.com/data-migration/sql-server/database/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-26 10:31 PM) @cancelled
             ✘ Assessment rules https://learn.microsoft.com/data-migration/sql-server/database/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
-            ☐ Custom roles https://learn.microsoft.com/data-migration/sql-server/database/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
+            ✘ Custom roles https://learn.microsoft.com/data-migration/sql-server/database/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
             ✘ Migration guide https://learn.microsoft.com/data-migration/sql-server/database/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
             ☐ Migration tutorial https://learn.microsoft.com/data-migration/sql-server/database/database-migration-service?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
     Reference:
@@ -958,7 +958,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
         ☐ SQL Server Management Studio (SSMS) https://learn.microsoft.com/sql/ssms/download-sql-server-management-studio-ssms (2024-11-12 07:14 PM)
         ☐ SQL Server Data Tools (SSDT) https://learn.microsoft.com/sql/ssdt/download-sql-server-data-tools-ssdt (2024-11-22 07:03 PM)
         ✘ BCP https://learn.microsoft.com/sql/tools/bcp-utility (2024-12-17 06:31 PM) @cancelled
-        ☐ SQLCMD https://learn.microsoft.com/sql/tools/sqlcmd-utility (2024-11-22 07:03 PM)
+        ✘ SQLCMD https://learn.microsoft.com/sql/tools/sqlcmd-utility (2024-11-22 07:03 PM) @cancelled
         ☐ SqlPackage https://learn.microsoft.com/sql/tools/sqlpackage/sqlpackage (2024-04-29 05:51 PM)
         ☐ SQL Database Management Library package https://www.nuget.org/packages/Microsoft.Azure.Management.Sql
         ☐ SQL connection  drivers https://learn.microsoft.com/sql/connect/sql-connection-libraries (2024-09-18 05:31 PM)
@@ -1057,7 +1057,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 ---
 
                     ✘ Create and configure https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-manage (2025-01-07 11:31 PM) @cancelled
-                    ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-faq (2025-01-07 11:31 PM)
+                    ✘ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-faq (2025-01-07 11:31 PM) @cancelled
                 ✘ Maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window (2025-01-07 11:31 PM) @cancelled
         ☐ BCP https://learn.microsoft.com/sql/tools/bcp-utility (2025-01-09 06:31 PM)
 
@@ -1068,7 +1068,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Elastic pools https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-elastic-pool-overview (2025-01-09 11:30 PM)
                 ✘ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-frequently-asked-questions-faq (2025-01-09 11:30 PM) @cancelled
                 ☐ Logical server limits https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-limits-logical-server (2025-01-09 11:30 PM)
-                    ☐ vCore resource limits https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-limits-vcore-single-databases (2025-01-09 11:30 PM)
+                    ✘ vCore resource limits https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-limits-vcore-single-databases (2025-01-09 11:30 PM) @cancelled
                     ☐ vCore resource limits https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-limits-vcore-elastic-pools (2025-01-09 11:30 PM)
                 ✘ Configure maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-configure (2025-01-06 11:40 PM) @cancelled
                 ✘ Maintenance window FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-faq (2024-07-31 05:33 PM) @cancelled
@@ -1108,9 +1108,9 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ✘ Outbound firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/outbound-firewall-rule-overview (2025-01-14 06:30 PM) @cancelled
                     ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-tde-overview (2025-01-14 06:30 PM)
                     ☐ Managed identities with CMK https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-identity (2025-01-14 06:30 PM)
-                ☐ Automated backups https://learn.microsoft.com/en-us/azure/azure-sql/database/automated-backups-overview (2025-01-13 11:31 PM)
+                ✘ Automated backups https://learn.microsoft.com/en-us/azure/azure-sql/database/automated-backups-overview (2025-01-13 11:31 PM) @cancelled
                     ☐ Active geo-replication https://learn.microsoft.com/en-us/azure/azure-sql/database/active-geo-replication-overview (2025-01-14 06:30 PM)
-                    ☐ Failover groups https://learn.microsoft.com/en-us/azure/azure-sql/database/failover-group-sql-db (2025-01-14 06:30 PM)
+                    ✘ Failover groups https://learn.microsoft.com/en-us/azure/azure-sql/database/failover-group-sql-db (2025-01-14 06:30 PM) @cancelled
                 ☐ Elastic transactions https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-transactions-overview (2025-01-14 06:30 PM)
                 ✘ Move sharded data https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-overview-split-and-merge (2025-01-14 06:30 PM) @cancelled
                 ☐ Maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window (2025-01-14 06:30 PM)
@@ -1167,7 +1167,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 
                 ☐ Connect and query https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-content-reference-guide (2025-01-15 06:31 PM)
                 ☐ .NET with Visual Studio https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-dotnet-visual-studio (2025-01-15 06:31 PM)
-                ☐ Elastic queries https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-query-overview (2025-01-15 06:31 PM)
+                ✘ Elastic queries https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-query-overview (2025-01-15 06:31 PM) @cancelled
                 ☐ Configure maintenance window https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-configure (2025-01-06 11:40 PM)
                 ☐ Maintenance window FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/maintenance-window-faq (2024-07-31 05:33 PM)
                         ☐ Wingtip Tickets sample https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-tenancy-welcome-wingtip-tickets-app (2025-01-15 06:31 PM)
@@ -1180,7 +1180,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 ---
 
         ☐ Migrate to Azure SQL https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/ (2025-01-15 11:30 PM)
-                ☐ Use the Azure portal query editor https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-portal (2025-01-16 06:32 PM)
+                ✘ Use the Azure portal query editor https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-portal (2025-01-16 06:32 PM) @cancelled
                 ✘ DNS aliases https://learn.microsoft.com/en-us/azure/azure-sql/database/dns-alias-overview (2025-01-16 11:32 PM) @cancelled
             ☐ From Access https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/access-to-sql-database-guide (2025-01-15 11:30 PM)
             ☐ From Db2 https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/database/db2-to-sql-database-guide (2025-01-15 11:30 PM)
@@ -1191,7 +1191,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                 ☐ Migrate https://learn.microsoft.com/data-migration/sql-server/database/guide?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
                 ☐ Assessment rules https://learn.microsoft.com/data-migration/sql-server/database/assessment-rules?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
                     ☐ VS Code https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-vscode (2025-01-16 11:32 PM)
-                ☐ Recover using backups https://learn.microsoft.com/en-us/azure/azure-sql/database/recovery-using-backups (2025-01-16 11:32 PM)
+                ✘ Recover using backups https://learn.microsoft.com/en-us/azure/azure-sql/database/recovery-using-backups (2025-01-16 11:32 PM) @cancelled
             ☐ From Db2 https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/managed-instance/db2-to-managed-instance-guide (2025-01-15 11:30 PM)
             ☐ From Oracle https://learn.microsoft.com/en-us/azure/azure-sql/migration-guides/managed-instance/oracle-to-managed-instance-guide (2025-01-15 11:30 PM)
                 ☐ Overview https://learn.microsoft.com/data-migration/sql-server/managed-instance/overview?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-01-15 11:30 PM)
@@ -1232,12 +1232,12 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 ---
 
                 ☐ Configure long-term backup retention https://learn.microsoft.com/en-us/azure/azure-sql/database/long-term-backup-retention-configure (2025-01-21 11:37 PM)
-                ☐ Configure TDE with BYOK https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-configure (2025-01-21 11:37 PM)
+                ✘ Configure TDE with BYOK https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-configure (2025-01-21 11:37 PM) @cancelled
                 ☐ Log diagnostic telemetry https://learn.microsoft.com/en-us/azure/azure-sql/database/metrics-diagnostic-telemetry-logging-streaming-export-configure (2025-01-21 11:37 PM)
                 ☐ Import a database from a BACPAC file https://learn.microsoft.com/en-us/azure/azure-sql/database/database-import (2025-01-21 11:37 PM)
                 ☐ Geo-distributed application https://learn.microsoft.com/en-us/azure/azure-sql/database/geo-distributed-application-configure-tutorial (2025-01-21 11:37 PM)
             ☐ Logical servers https://learn.microsoft.com/en-us/azure/azure-sql/database/logical-servers (2025-01-21 11:37 PM)
-                ☐ DNS aliases https://learn.microsoft.com/en-us/azure/azure-sql/database/dns-alias-overview (2025-01-21 11:37 PM)
+                ✘ DNS aliases https://learn.microsoft.com/en-us/azure/azure-sql/database/dns-alias-overview (2025-01-21 11:37 PM) @cancelled
                 ✘ Outbound firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/outbound-firewall-rule-overview (2025-01-21 11:37 PM) @cancelled
                 ✘ VNet endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview (2025-01-21 11:37 PM) @cancelled
                 ☐ Move sharded data https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-scale-overview-split-and-merge (2025-01-21 11:37 PM)
@@ -1278,7 +1278,7 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 
 ---
 
-                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/monitor-tune-overview (2025-01-24 11:32 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/monitor-tune-overview (2025-01-24 11:32 PM) @cancelled
             ✘ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new (2025-01-24 11:32 PM) @cancelled
             ✘ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/doc-changes-updates-release-notes-whats-new (2025-01-24 11:32 PM) @cancelled
             ✘ Enroll in November 2022 feature wave https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/november-2022-feature-wave-enroll (2025-01-24 11:32 PM) @cancelled
@@ -1304,10 +1304,10 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
                             ☐ Azure shared disks https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-azure-shared-disks-manually-configure (2025-01-24 11:32 PM)
                             ☐ Storage Spaces Direct (Win2016+) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-storage-spaces-direct-manually-configure (2025-01-24 11:32 PM)
                             ☐ Premium file share (Win2012+) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-premium-file-share-manually-configure (2025-01-24 11:32 PM)
-                            ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-azure-elastic-san-manually-configure (2025-01-24 11:32 PM)
+                            ✘ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-azure-elastic-san-manually-configure (2025-01-24 11:32 PM) @cancelled
                             ☐ Virtual network name (VNN) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-vnn-azure-load-balancer-configure (2025-01-24 11:32 PM)
                             ☐ Distributed network name (DNN) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-distributed-network-name-dnn-configure (2025-01-24 11:32 PM)
-        ☐ MSDN forum https://social.msdn.microsoft.com/Forums/home (2025-01-24 10:08 PM)
+        ✘ MSDN forum https://social.msdn.microsoft.com/Forums/home (2025-01-24 10:08 PM) @cancelled
 
 
 ---
@@ -1328,14 +1328,14 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
 ---
 
                     ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-overview (2025-01-28 06:38 PM)
-                    ☐ Quickstart https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-quickstart (2025-01-28 06:38 PM)
-                    ☐ Create and configure https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-manage (2025-01-28 06:38 PM)
+                    ✘ Quickstart https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-quickstart (2025-01-28 06:38 PM) @cancelled
+                    ✘ Create and configure https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-manage (2025-01-28 06:38 PM) @cancelled
                         ☐ Microsoft Entra nonunique display names https://learn.microsoft.com/en-us/azure/azure-sql/database/authentication-microsoft-entra-create-users-with-nonunique-names (2025-01-29 06:32 PM)
-            ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new (2025-01-28 11:38 PM)
+            ✘ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new (2025-01-28 11:38 PM) @cancelled
             ☐ Copilot in SQL Database FAQ https://learn.microsoft.com/en-us/azure/azure-sql/copilot/copilot-azure-sql-faq (2025-01-28 06:38 PM)
-                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale (2025-01-28 11:38 PM)
-                ☐ Hyperscale backups https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-automated-backups-overview (2025-01-29 06:32 PM)
-                ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-frequently-asked-questions-faq (2025-01-28 11:38 PM)
+                ✘ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale (2025-01-28 11:38 PM) @cancelled
+                ✘ Hyperscale backups https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-automated-backups-overview (2025-01-29 06:32 PM) @cancelled
+                ✘ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-frequently-asked-questions-faq (2025-01-28 11:38 PM) @cancelled
                 ☐ Manage file space https://learn.microsoft.com/en-us/azure/azure-sql/database/file-space-manage (2025-01-28 11:38 PM)
                 ☐ Hyperscale performance diagnostics https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-performance-diagnostics (2025-01-28 11:38 PM)
                 ☐ Hyperscale performance diagnostics https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-performance-diagnostics (2025-01-28 11:38 PM)
@@ -1343,37 +1343,93 @@ Azure SQL documentation - Azure SQL | Microsoft Learn:
             ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/doc-changes-updates-release-notes-whats-new (2025-01-29 06:32 PM)
             ☐ Enroll in November 2022 feature wave https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/november-2022-feature-wave-enroll (2025-01-29 06:32 PM)
                 ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/managed-instance-link-troubleshoot-how-to (2025-01-28 11:38 PM)
-        ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new (2025-01-29 06:32 PM)
+        ✘ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new (2025-01-29 06:32 PM) @cancelled
                 ☐ Modernization Advisor https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/modernization-advisor (2025-01-29 06:32 PM)
                     ☐ With the Azure portal https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/manage-sql-vm-portal (2025-01-29 06:32 PM)
-            ☐ Azure SQL Database https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new-archive (2025-01-28 11:38 PM)
+            ✘ Azure SQL Database https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new-archive (2025-01-28 11:38 PM) @cancelled
             ☐ Azure SQL Managed Instance https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/doc-changes-updates-release-notes-whats-new-archive (2025-01-28 11:38 PM)
-            ☐ SQL Server on Azure VMs https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new-archive (2025-01-28 11:38 PM)
+            ✘ SQL Server on Azure VMs https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new-archive (2025-01-28 11:38 PM) @cancelled
 
 
 ---
 
-                ☐ Replicas https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-replicas (2024-11-25 11:30 PM)
+                ✘ Replicas https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-replicas (2024-11-25 11:30 PM) @cancelled
                 ☐ Optimized locking https://learn.microsoft.com/sql/relational-databases/performance/optimized-locking (2025-01-30 06:37 PM)
                 ☐ Service-aided subnet configuration https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/subnet-service-aided-configuration-enable (2025-01-30 06:37 PM)
             ✘ Custom roles https://learn.microsoft.com/data-migration/sql-server/virtual-machines/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json @cancelled
-        ☐ Architecture center https://learn.microsoft.com/azure/architecture/ (2025-01-30 06:35 PM)
+        ✘ Architecture center https://learn.microsoft.com/azure/architecture/ (2025-01-30 06:35 PM) @cancelled
 
 
 ---
 
-            ☐ Custom roles https://learn.microsoft.com/data-migration/sql-server/virtual-machines/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM)
+            ✘ Custom roles https://learn.microsoft.com/data-migration/sql-server/virtual-machines/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2024-09-19 10:31 PM) @cancelled
 
 
 ---
 
                 ☐ Server-level IP firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/firewall-create-server-level-portal-quickstart (2025-01-31 11:34 PM)
                 ☐ Connectivity architecture https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-architecture (2025-01-31 11:34 PM)
-                ☐ Connectivity settings https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-settings (2025-01-31 11:34 PM)
+                ✘ Connectivity settings https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-settings (2025-01-31 11:34 PM) @cancelled
                 ☐ Network access controls https://learn.microsoft.com/en-us/azure/azure-sql/database/network-access-controls-overview (2025-01-31 11:34 PM)
                 ☐ Network Security Perimeter https://learn.microsoft.com/en-us/azure/azure-sql/database/network-security-perimeter (2025-01-31 11:34 PM)
                 ☐ Outbound firewall rules https://learn.microsoft.com/en-us/azure/azure-sql/database/outbound-firewall-rule-overview (2025-01-31 11:34 PM)
                 ☐ Private Link https://learn.microsoft.com/en-us/azure/azure-sql/database/private-endpoint-overview (2025-01-31 11:34 PM)
                 ☐ VNet endpoints https://learn.microsoft.com/en-us/azure/azure-sql/database/vnet-service-endpoint-rule-overview (2025-01-31 11:34 PM)
             ☐ Gateway IP address updates https://learn.microsoft.com/en-us/azure/azure-sql/database/gateway-migration (2025-01-31 11:34 PM)
+
+
+---
+
+            ☐ Reservations https://learn.microsoft.com/en-us/azure/azure-sql/database/reservations-discount-overview (2025-02-05 11:34 PM)
+                    ☐ Accelerated database recovery https://learn.microsoft.com/sql/relational-databases/accelerated-database-recovery-concepts (2025-02-06 06:41 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/monitor-tune-overview (2025-02-05 06:33 PM)
+                ☐ Intelligent Insights https://learn.microsoft.com/en-us/azure/azure-sql/database/intelligent-insights-overview (2025-02-05 11:34 PM)
+                    ☐ Quickstart https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-quickstart (2025-02-07 06:31 PM)
+                    ☐ Create and configure https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-manage (2025-02-07 06:31 PM)
+                    ☐ Analyze monitoring data https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-analyze (2025-02-07 06:31 PM)
+                    ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database-watcher-faq (2025-02-07 06:31 PM)
+                ☐ Configure TDE with BYOK https://learn.microsoft.com/en-us/azure/azure-sql/database/transparent-data-encryption-byok-configure (2025-02-03 11:31 PM)
+            ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new (2025-02-07 06:31 PM)
+            ☐ Azure SQL Database free offer https://learn.microsoft.com/en-us/azure/azure-sql/database/free-offer (2025-02-03 11:31 PM)
+            ☐ Azure SQL Database free offer FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/free-offer-faq (2025-02-03 06:31 PM)
+                ☐ Use the Azure portal query editor https://learn.microsoft.com/en-us/azure/azure-sql/database/connect-query-portal (2025-02-03 06:31 PM)
+                ☐ Design database using SSMS https://learn.microsoft.com/en-us/azure/azure-sql/database/design-first-database-tutorial (2025-02-03 06:31 PM)
+                ☐ Design database using ADS https://learn.microsoft.com/en-us/azure/azure-sql/database/design-first-database-azure-data-studio (2025-02-03 06:31 PM)
+                ☐ Design database using .NET https://learn.microsoft.com/en-us/azure/azure-sql/database/design-first-database-csharp-tutorial (2025-02-03 06:31 PM)
+                ☐ Configure security https://learn.microsoft.com/en-us/azure/azure-sql/database/secure-database-tutorial (2025-02-03 06:31 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale (2025-02-04 06:35 PM)
+                ☐ Hyperscale backups https://learn.microsoft.com/en-us/azure/azure-sql/database/hyperscale-automated-backups-overview (2025-02-04 06:35 PM)
+                ☐ FAQ https://learn.microsoft.com/en-us/azure/azure-sql/database/service-tier-hyperscale-frequently-asked-questions-faq (2025-02-04 06:35 PM)
+                ☐ Connectivity settings https://learn.microsoft.com/en-us/azure/azure-sql/database/connectivity-settings (2025-02-05 06:33 PM)
+                ☐ DNS aliases https://learn.microsoft.com/en-us/azure/azure-sql/database/dns-alias-overview (2025-02-04 06:35 PM)
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-sql/database/business-continuity-high-availability-disaster-recover-hadr-overview (2025-02-04 06:35 PM)
+                ☐ High availability https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-sla-local-zone-redundancy (2025-02-05 06:33 PM)
+                ☐ HA/DR checklist https://learn.microsoft.com/en-us/azure/azure-sql/database/high-availability-disaster-recovery-checklist (2025-02-04 06:35 PM)
+                ☐ Automated backups https://learn.microsoft.com/en-us/azure/azure-sql/database/automated-backups-overview (2025-02-04 06:35 PM)
+                    ☐ Failover groups https://learn.microsoft.com/en-us/azure/azure-sql/database/failover-group-sql-db (2025-02-04 06:35 PM)
+                    ☐ Recovery drills https://learn.microsoft.com/en-us/azure/azure-sql/database/disaster-recovery-drills (2025-02-04 06:35 PM)
+                ☐ Elastic queries https://learn.microsoft.com/en-us/azure/azure-sql/database/elastic-query-overview (2025-02-04 06:35 PM)
+                    ☐ vCore resource limits https://learn.microsoft.com/en-us/azure/azure-sql/database/resource-limits-vcore-single-databases (2025-02-03 06:31 PM)
+                    ☐ Azure Data Studio https://learn.microsoft.com/azure-data-studio/quickstart-sql-database (2025-02-06 06:32 PM)
+                    ☐ Azure portal query editor https://learn.microsoft.com/en-us/azure/azure-sql/database/query-editor (2025-02-03 06:31 PM)
+                ☐ Recover using backups https://learn.microsoft.com/en-us/azure/azure-sql/database/recovery-using-backups (2025-02-04 06:35 PM)
+                ☐ Enable automatic tuning https://learn.microsoft.com/en-us/azure/azure-sql/database/automatic-tuning-enable (2025-02-04 06:35 PM)
+                ☐ Manage SQL Database after migration https://learn.microsoft.com/en-us/azure/azure-sql/database/manage-data-after-migrating-to-database (2025-02-04 06:35 PM)
+                ☐ Design for elastic pools https://learn.microsoft.com/en-us/azure/azure-sql/database/disaster-recovery-strategies-for-applications-with-elastic-pool (2025-02-04 06:35 PM)
+                ☐ Design for app upgrades https://learn.microsoft.com/en-us/azure/azure-sql/database/manage-application-rolling-upgrade (2025-02-04 06:35 PM)
+                            ☐ Deploy example app https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-dbpertenant-get-started-deploy (2025-02-04 06:35 PM)
+                        ☐ Disaster recovery using geo-restore https://learn.microsoft.com/en-us/azure/azure-sql/database/saas-dbpertenant-dr-geo-restore (2025-02-04 06:35 PM)
+            ☐ Try Azure SQL Database free with Azure free account (old offer) https://learn.microsoft.com/en-us/azure/azure-sql/database/free-sql-db-free-account-how-to-deploy (2025-02-03 06:31 PM)
+            ☐ Resource limits https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/resource-limits (2025-02-05 06:33 PM)
+            ☐ Managed Instance link https://learn.microsoft.com/en-us/azure/azure-sql/managed-instance/managed-instance-link-feature-overview (2025-02-04 06:35 PM)
+        ☐ What's new? https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/doc-changes-updates-release-notes-whats-new (2025-02-03 11:31 PM)
+                    ☐ Failover cluster instance (FCI) https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-overview (2025-02-03 11:31 PM)
+                            ☐ Azure Elastic SAN https://learn.microsoft.com/en-us/azure/azure-sql/virtual-machines/windows/failover-cluster-instance-azure-elastic-san-manually-configure (2025-02-03 11:31 PM)
+            ☐ Custom roles https://learn.microsoft.com/data-migration/sql-server/managed-instance/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-02-03 06:31 PM)
+            ☐ Custom roles https://learn.microsoft.com/data-migration/sql-server/virtual-machines/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-02-03 06:31 PM)
+            ☐ Custom roles https://learn.microsoft.com/data-migration/sql-server/database/custom-roles?toc=/azure/azure-sql/toc.json&bc=/azure/bread/toc.json (2025-02-03 06:31 PM)
+        ☐ SQLCMD https://learn.microsoft.com/sql/tools/sqlcmd-utility (2025-02-07 12:06 AM)
+        ☐ MSDN forum https://social.msdn.microsoft.com/Forums/home (2025-02-06 04:37 PM)
+            ☐ Azure SQL Database https://learn.microsoft.com/en-us/azure/azure-sql/database/doc-changes-updates-release-notes-whats-new-archive (2025-02-03 06:31 PM)
+        ☐ Architecture center https://learn.microsoft.com/azure/architecture/ (2025-02-04 06:33 PM)
 

@@ -162,7 +162,7 @@ Azure Event Hubs documentation | Microsoft Learn:
             ☐ Allow access from specific IP addresses https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-ip-filtering (2024-02-02 11:08 PM)
             ☐ Allow access from specific virtual networks https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-service-endpoints (2023-12-04 11:04 PM)
             ☐ Allow access via private endpoints https://learn.microsoft.com/en-us/azure/event-hubs/private-link-service (2024-08-22 07:16 PM)
-            ☐ Encrypt data using customer-managed keys https://learn.microsoft.com/en-us/azure/event-hubs/configure-customer-managed-key (2024-09-11 06:38 PM)
+            ✘ Encrypt data using customer-managed keys https://learn.microsoft.com/en-us/azure/event-hubs/configure-customer-managed-key (2024-09-11 06:38 PM) @cancelled
             ☐ Configure minimum required TLS version https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-configure-minimum-version (2024-08-02 10:04 PM)
             ☐ Audit minimum required TLS version https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-audit-minimum-version (2024-10-29 05:03 PM)
             ☐ Configure TLS version for client https://learn.microsoft.com/en-us/azure/event-hubs/transport-layer-security-configure-client-version (2024-08-02 10:04 PM)
@@ -274,8 +274,8 @@ Azure Event Hubs documentation | Microsoft Learn:
 ---
 
         ☐ Schema Registry https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-overview (2025-01-08 05:33 AM)
-            ☐ Schema Registry concepts https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts (2025-01-08 05:33 AM)
-            ☐ Client-side schema enforcement https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement (2025-01-08 05:33 AM)
+            ✘ Schema Registry concepts https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts (2025-01-08 05:33 AM) @cancelled
+            ✘ Client-side schema enforcement https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement (2025-01-08 05:33 AM) @cancelled
             ✘ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-09 12:07 PM) @cancelled
 
 
@@ -351,12 +351,21 @@ Azure Event Hubs documentation | Microsoft Learn:
 ---
 
             ☐ Use the Azure portal to enable Event Hubs Capture https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-enable-through-portal (2025-01-30 12:22 PM)
-            ☐ Authentication modes for capture destination https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-managed-identity (2025-01-30 12:22 PM)
+            ✘ Authentication modes for capture destination https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-managed-identity (2025-01-30 12:22 PM) @cancelled
             ☐ Enable managed identity for a namespace https://learn.microsoft.com/en-us/azure/event-hubs/enable-managed-identity (2025-01-30 12:22 PM)
             ✘ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-30 12:08 PM) @cancelled
 
 
 ---
 
-            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-31 12:04 PM)
+            ✘ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-01-31 12:04 PM) @cancelled
+
+
+---
+
+            ☐ Authentication modes for capture destination https://learn.microsoft.com/en-us/azure/event-hubs/event-hubs-capture-managed-identity (2025-02-04 06:06 PM)
+            ☐ Schema Registry concepts https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-concepts (2025-02-04 06:06 PM)
+            ☐ Client-side schema enforcement https://learn.microsoft.com/en-us/azure/event-hubs/schema-registry-client-side-enforcement (2025-02-04 06:06 PM)
+            ☐ Encrypt data using customer-managed keys https://learn.microsoft.com/en-us/azure/event-hubs/configure-customer-managed-key (2025-02-05 05:33 AM)
+            ☐ Management library https://learn.microsoft.com/python/api/overview/azure/event-hub (2025-02-07 12:08 PM)
 

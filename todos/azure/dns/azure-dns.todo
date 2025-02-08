@@ -200,7 +200,7 @@ Azure DNS documentation | Microsoft Learn:
             ☐ Create alias records for zone records https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-rr (2024-12-11 06:03 PM)
             ☐ Create alias records for public IP addresses https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-pip (2024-08-02 05:06 PM)
             ☐ Create alias records for Traffic Manager https://learn.microsoft.com/en-us/azure/dns/tutorial-alias-tm (2024-09-19 10:05 PM)
-            ☐ DNS security policy https://learn.microsoft.com/en-us/azure/dns/dns-security-policy (2025-01-06 11:02 PM)
+            ✘ DNS security policy https://learn.microsoft.com/en-us/azure/dns/dns-security-policy (2025-01-06 11:02 PM) @cancelled
             ☐ Zones and records https://learn.microsoft.com/en-us/azure/dns/dns-zones-records (2024-11-05 05:32 AM)
             ☐ Alias records https://learn.microsoft.com/en-us/azure/dns/dns-alias (2024-09-24 10:04 PM)
             ☐ Delegation with Azure DNS https://learn.microsoft.com/en-us/azure/dns/dns-domain-delegation (2024-08-02 05:06 PM)
@@ -225,7 +225,7 @@ Azure DNS documentation | Microsoft Learn:
                 ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/dns/dns-operations-recordsets (2024-08-02 05:06 PM)
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/dns/dns-operations-recordsets-cli (2024-08-30 05:36 AM)
                 ☐ Host reverse lookup zones in Azure DNS https://learn.microsoft.com/en-us/azure/dns/dns-reverse-dns-hosting (2024-10-30 07:28 PM)
-                ☐ Azure portal https://learn.microsoft.com/en-us/azure/dns/dns-import-export-portal (2024-10-03 11:22 AM)
+                ✘ Azure portal https://learn.microsoft.com/en-us/azure/dns/dns-import-export-portal (2024-10-03 11:22 AM) @cancelled
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/dns/dns-import-export (2024-08-02 05:06 PM)
                 ☐ Azure portal https://learn.microsoft.com/en-us/azure/dns/delegate-subdomain (2024-08-02 05:06 PM)
                 ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/dns/delegate-subdomain-ps (2024-08-02 05:06 PM)
@@ -234,9 +234,9 @@ Azure DNS documentation | Microsoft Learn:
             ☐ Automate DNS operations with the .NET SDK https://learn.microsoft.com/en-us/azure/dns/dns-sdk (2024-12-11 06:03 PM)
             ☐ Custom domains for Azure resources https://learn.microsoft.com/en-us/azure/dns/dns-custom-domain (2024-08-02 05:06 PM)
             ☐ Protect private DNS zones and records https://learn.microsoft.com/en-us/azure/dns/dns-protect-private-zones-recordsets (2024-09-02 10:31 PM)
-                ☐ Azure portal https://learn.microsoft.com/en-us/azure/dns/private-dns-import-export-portal (2024-12-11 06:03 PM)
+                ✘ Azure portal https://learn.microsoft.com/en-us/azure/dns/private-dns-import-export-portal (2024-12-11 06:03 PM) @cancelled
                 ☐ Azure CLI https://learn.microsoft.com/en-us/azure/dns/private-dns-import-export (2024-08-02 05:06 PM)
-            ☐ Fallback to internet resolution https://learn.microsoft.com/en-us/azure/dns/private-dns-fallback (2024-11-24 12:10 PM)
+            ✘ Fallback to internet resolution https://learn.microsoft.com/en-us/azure/dns/private-dns-fallback (2024-11-24 12:10 PM) @cancelled
             ☐ Resolve Azure and on-premises domains https://learn.microsoft.com/en-us/azure/dns/private-resolver-hybrid-dns (2024-11-22 05:58 AM)
             ☐ Troubleshooting guide https://learn.microsoft.com/en-us/azure/dns/dns-troubleshoot (2024-08-06 08:05 PM)
         ☐ Private DNS zone migration guide https://learn.microsoft.com/en-us/azure/dns/private-dns-migration-guide (2024-08-02 05:06 PM)
@@ -277,4 +277,12 @@ Azure DNS documentation | Microsoft Learn:
             ☐ Monitor Azure DNS https://learn.microsoft.com/en-us/azure/dns/monitor-dns (2025-01-30 11:06 PM)
             ☐ Azure DNS Monitoring data reference https://learn.microsoft.com/en-us/azure/dns/monitor-dns-reference (2025-01-30 11:06 PM)
                 ☐ Sign a DNS zone https://learn.microsoft.com/en-us/azure/dns/dnssec-how-to (2025-01-31 11:06 PM)
+
+
+---
+
+            ☐ DNS security policy https://learn.microsoft.com/en-us/azure/dns/dns-security-policy (2025-02-05 05:33 AM)
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/dns/dns-import-export-portal (2025-02-05 11:02 PM)
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/dns/private-dns-import-export-portal (2025-02-05 11:02 PM)
+            ☐ Fallback to internet resolution https://learn.microsoft.com/en-us/azure/dns/private-dns-fallback (2025-02-04 11:08 PM)
 

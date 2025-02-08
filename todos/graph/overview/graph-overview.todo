@@ -178,7 +178,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
             ☐ Data Connect troubleshooting https://learn.microsoft.com/en-us/graph/data-connect-troubleshooting (2024-11-08 02:44 AM)
         Backup storage:
             ☐ Overview https://learn.microsoft.com/en-us/graph/backup-storage-concept-overview (2024-11-08 02:44 AM)
-            ☐ Error codes https://learn.microsoft.com/en-us/graph/backup-storage-error-codes (2024-11-09 02:27 AM)
+            ✘ Error codes https://learn.microsoft.com/en-us/graph/backup-storage-error-codes (2024-11-09 02:27 AM) @cancelled
         Calendar:
             ☐ Overview https://learn.microsoft.com/en-us/graph/outlook-calendar-concept-overview (2024-11-08 02:44 AM)
             ☐ Find meeting times https://learn.microsoft.com/en-us/graph/findmeetingtimes-example (2024-11-08 02:44 AM)
@@ -649,7 +649,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
 ---
 
         ✘ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-15 03:25 AM) @cancelled
-            ☐ Manage connections https://learn.microsoft.com/en-us/graph/connecting-external-content-manage-connections (2025-01-15 03:25 AM)
+            ✘ Manage connections https://learn.microsoft.com/en-us/graph/connecting-external-content-manage-connections (2025-01-15 03:25 AM) @cancelled
                 ☐ Configure Microsoft Entra Private Access https://learn.microsoft.com/en-us/graph/tutorial-entra-private-access (2025-01-15 03:25 AM)
                 ☐ Overview https://learn.microsoft.com/en-us/graph/throttling (2025-01-15 03:25 AM)
                 ☐ Service-specific limits https://learn.microsoft.com/en-us/graph/throttling-limits (2025-01-15 03:25 AM)
@@ -708,12 +708,12 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
         ☐ Deploy with Bicep https://learn.microsoft.com/graph/templates?toc=/graph/toc.json (2024-12-23 12:17 PM)
             ✘ Default user permissions https://learn.microsoft.com/entra/fundamentals/users-default-permissions?toc=/graph/toc.json (2025-01-12 12:08 PM) @cancelled
             ☐ Overview https://learn.microsoft.com/graph/api/resources/groups-overview?toc=/graph/toc.json (2024-12-27 11:44 PM)
-                ☐ App manifest https://learn.microsoft.com/entra/identity-platform/reference-microsoft-graph-app-manifest?toc=/graph/toc.json (2025-01-15 06:05 PM)
+                ✘ App manifest https://learn.microsoft.com/entra/identity-platform/reference-microsoft-graph-app-manifest?toc=/graph/toc.json (2025-01-15 06:05 PM) @cancelled
                 ☐ Validation differences for signInAudience https://learn.microsoft.com/entra/identity-platform/supported-accounts-validation?toc=/graph/toc.json (2025-01-07 06:01 PM)
                 ☐ Automate provisioning https://learn.microsoft.com/entra/identity/app-provisioning/application-provisioning-configuration-api?toc=/graph/toc.json (2024-08-08 11:16 AM)
-                ☐ Configure a custom claim provider token issuance event https://learn.microsoft.com/entra/identity-platform/custom-extension-tokenissuancestart-configuration?tabs=microsoft-graph?toc=/graph/toc.json&tabs=microsoft-graph (2024-12-18 06:05 PM)
+                ✘ Configure a custom claim provider token issuance event https://learn.microsoft.com/entra/identity-platform/custom-extension-tokenissuancestart-configuration?tabs=microsoft-graph?toc=/graph/toc.json&tabs=microsoft-graph (2024-12-18 06:05 PM) @cancelled
                 ✘ API operations reference https://learn.microsoft.com/en-us/graph/permissions-management-howto (2025-01-28 12:38 AM) @cancelled
-                ☐ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2025-01-28 12:38 AM)
+                ✘ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2025-01-28 12:38 AM) @cancelled
         ✘ Microsoft Entra service limits https://learn.microsoft.com/entra/identity/users/directory-service-limits-restrictions?toc=/graph/toc.json (2024-04-22 10:02 PM) @cancelled
             ☐ Checklist to migrate apps https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-planning-checklist (2025-01-28 12:38 AM)
                 ☐ Requests https://learn.microsoft.com/en-us/graph/migrate-azure-ad-graph-request-differences (2025-01-28 12:38 AM)
@@ -740,7 +740,7 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
 ---
 
     ☐ National cloud deployments https://learn.microsoft.com/en-us/graph/deployments (2025-01-31 12:31 AM)
-        ☐ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-31 12:31 AM)
+        ✘ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-01-31 12:31 AM) @cancelled
             ☐ Customize item insights privacy https://learn.microsoft.com/en-us/graph/insights-customize-item-insights-privacy (2025-01-31 12:31 AM)
             ☐ Item insights overview https://learn.microsoft.com/en-us/graph/item-insights-overview (2025-01-31 12:31 AM)
                 ☐ Working with Microsoft Teams messaging https://learn.microsoft.com/en-us/graph/teams-messaging-overview (2025-01-31 12:31 AM)
@@ -755,5 +755,17 @@ Microsoft Graph overview - Microsoft Graph | Microsoft Learn:
 
 ---
 
-                ☐ Microsoft Entra built-in roles https://learn.microsoft.com/entra/identity/role-based-access-control/permissions-reference?toc=/graph/toc.json (2025-02-02 12:06 PM)
+                ✘ Microsoft Entra built-in roles https://learn.microsoft.com/entra/identity/role-based-access-control/permissions-reference?toc=/graph/toc.json (2025-02-02 12:06 PM) @cancelled
+
+
+---
+
+        ☐ What's new https://learn.microsoft.com/en-us/graph/whats-new-overview (2025-02-07 10:59 PM)
+                ☐ App manifest https://learn.microsoft.com/entra/identity-platform/reference-microsoft-graph-app-manifest?toc=/graph/toc.json (2025-02-03 11:01 PM)
+            ☐ Error codes https://learn.microsoft.com/en-us/graph/backup-storage-error-codes (2025-02-07 10:59 PM)
+            ☐ Manage connections https://learn.microsoft.com/en-us/graph/connecting-external-content-manage-connections (2025-02-04 01:58 AM)
+                ☐ Configure a custom claim provider token issuance event https://learn.microsoft.com/entra/identity-platform/custom-extension-tokenissuancestart-configuration?tabs=microsoft-graph?toc=/graph/toc.json&tabs=microsoft-graph (2025-02-04 12:05 PM)
+                ☐ Subscribe to emergency call events https://learn.microsoft.com/en-us/graph/changenotifications-for-emergencycalls (2025-02-04 01:58 AM)
+                ☐ Permissions reference https://learn.microsoft.com/en-us/graph/permissions-reference (2025-02-04 01:58 AM)
+                ☐ Microsoft Entra built-in roles https://learn.microsoft.com/entra/identity/role-based-access-control/permissions-reference?toc=/graph/toc.json (2025-02-06 11:01 PM)
 

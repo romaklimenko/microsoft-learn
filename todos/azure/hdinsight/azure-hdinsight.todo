@@ -65,13 +65,13 @@ Azure HDInsight | Microsoft Learn:
                 ☐ Customize clusters using Bootstrap https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-customize-cluster-bootstrap (2024-12-02 06:04 PM)
                 ☐ Customize clusters using Script Action https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-customize-cluster-linux (2024-08-02 11:27 AM)
                 ☐ Develop script actions https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-script-actions-linux (2024-08-02 11:27 AM)
-                ☐ Open-source software support https://learn.microsoft.com/en-us/azure/hdinsight/open-source-software (2024-08-02 11:27 AM)
+                ✘ Open-source software support https://learn.microsoft.com/en-us/azure/hdinsight/open-source-software (2024-08-02 11:27 AM) @cancelled
                 ☐ Add Apache Hive libraries https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-add-hive-libraries (2024-08-02 11:27 AM)
                 ☐ Use Hue https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-hue-linux (2024-12-02 06:04 PM)
                 Build HDInsight applications:
                     ✘ Install custom apps https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-apps-install-custom-applications (2024-08-02 11:27 AM) @cancelled
                     ☐ Use REST to install apps https://learn.microsoft.com/rest/api/hdinsight/hdinsight-application (2024-08-06 10:08 PM)
-                    ☐ Publish HDInsight apps to Azure Marketplace https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-apps-publish-applications (2024-08-02 11:27 AM)
+                    ✘ Publish HDInsight apps to Azure Marketplace https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-apps-publish-applications (2024-08-02 11:27 AM) @cancelled
             Secure:
                 ☐ Use SSH with HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-linux-use-ssh-unix (2024-08-02 11:27 AM)
                 ✘ Use SSH tunneling https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-linux-ambari-ssh-tunnel (2024-08-02 11:27 AM) @cancelled
@@ -109,7 +109,7 @@ Azure HDInsight | Microsoft Learn:
                     ✘ Optimize clusters https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-changing-configs-via-ambari (2024-08-02 11:27 AM) @cancelled
                     ☐ Optimize Apache HBase https://learn.microsoft.com/en-us/azure/hdinsight/optimize-hbase-ambari (2024-10-17 11:18 AM)
                     ☐ Optimize Apache Hive https://learn.microsoft.com/en-us/azure/hdinsight/optimize-hive-ambari (2024-12-12 05:33 AM)
-                    ☐ Optimize Apache Pig https://learn.microsoft.com/en-us/azure/hdinsight/optimize-pig-ambari (2024-08-02 11:27 AM)
+                    ✘ Optimize Apache Pig https://learn.microsoft.com/en-us/azure/hdinsight/optimize-pig-ambari (2024-08-02 11:27 AM) @cancelled
                 ☐ Find host names of cluster nodes https://learn.microsoft.com/en-us/azure/hdinsight/find-host-name (2024-09-06 05:09 PM)
                 ☐ Reboot cluster nodes https://learn.microsoft.com/en-us/azure/hdinsight/cluster-reboot-vm (2024-08-02 11:27 AM)
                 ☐ Use Apache Ambari REST API https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-manage-ambari-rest-api (2024-08-02 11:27 AM)
@@ -134,8 +134,8 @@ Azure HDInsight | Microsoft Learn:
                 ✘ Operationalize a data analytics pipeline https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-operationalize-data-pipeline (2024-08-02 11:27 AM) @cancelled
                 ☐ Use Apache Oozie for workflows https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-use-oozie-linux-mac (2024-08-02 11:27 AM)
                 ☐ Cluster and service ports and URIs https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-port-settings-for-services (2024-09-06 05:09 PM)
-                ☐ Upgrade HDInsight cluster to newer version https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-upgrade-cluster (2024-08-21 05:12 PM)
-                ☐ OS patching for HDInsight cluster https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-os-patching (2024-08-02 11:27 AM)
+                ✘ Upgrade HDInsight cluster to newer version https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-upgrade-cluster (2024-08-21 05:12 PM) @cancelled
+                ✘ OS patching for HDInsight cluster https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-os-patching (2024-08-02 11:27 AM) @cancelled
             Use HDInsight tools:
                 ☐ Tools for Visual Studio https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-visual-studio-tools-get-started (2024-08-02 11:27 AM)
                 ☐ Spark and Hive Tools for VS Code https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-for-vscode (2024-08-02 11:27 AM)
@@ -157,7 +157,7 @@ Azure HDInsight | Microsoft Learn:
             Troubleshoot:
                 Known issues:
                     ☐ Known issues in HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-known-issues (2024-08-02 11:27 AM)
-                    ☐ Conda version regression in a recent HDInsight release https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-known-issues-conda-version-regression (2024-08-02 11:27 AM)
+                    ✘ Conda version regression in a recent HDInsight release https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-known-issues-conda-version-regression (2024-08-02 11:27 AM) @cancelled
                     ☐ Cluster Reliability Issues https://learn.microsoft.com/en-us/azure/hdinsight/cluster-reliability-issues (2024-08-02 11:27 AM)
                     ✘ Component version validation error in ARM templates https://learn.microsoft.com/en-us/azure/hdinsight/component-version-validation-error-arm-templates (2024-08-02 11:27 AM) @cancelled
                     ☐ Switch Users in Ambari UI https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-known-issues-ambari-users-cache (2024-08-02 11:27 AM)
@@ -165,7 +165,7 @@ Azure HDInsight | Microsoft Learn:
                 ☐ Troubleshoot Apache Ambari Metrics Collector https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-ambari-troubleshoot-metricservice-issues (2024-08-02 11:27 AM)
                 ☐ Troubleshoot script actions https://learn.microsoft.com/en-us/azure/hdinsight/troubleshoot-script-action (2024-08-02 11:27 AM)
                 ☐ Resource creation failures https://learn.microsoft.com/en-us/azure/hdinsight/troubleshoot-resource-creation-fails (2024-08-02 11:27 AM)
-                ☐ Troubleshoot Apache Oozie https://learn.microsoft.com/en-us/azure/hdinsight/troubleshoot-oozie (2024-08-02 11:27 AM)
+                ✘ Troubleshoot Apache Oozie https://learn.microsoft.com/en-us/azure/hdinsight/troubleshoot-oozie (2024-08-02 11:27 AM) @cancelled
                 ☐ Troubleshoot Apache Sqoop https://learn.microsoft.com/en-us/azure/hdinsight/troubleshoot-sqoop (2024-08-02 11:27 AM)
                 ✘ Understand and resolve WebHCat errors https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-hadoop-templeton-webhcat-debug-errors (2024-08-02 11:27 AM) @cancelled
         Reference:
@@ -179,7 +179,7 @@ Azure HDInsight | Microsoft Learn:
             ☐ REST API https://learn.microsoft.com/rest/api/hdinsight/ (2024-08-06 10:08 PM)
             ☐ REST API (Apache Spark) https://learn.microsoft.com/rest/api/hdinsightspark/ (2024-08-06 10:08 PM)
             ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.hdinsight/allversions (2024-12-03 10:14 PM)
-            ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/hdinsight/policy-reference (2024-08-02 11:27 AM)
+            ✘ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/hdinsight/policy-reference (2024-08-02 11:27 AM) @cancelled
         Resources:
             Releases:
                 ✘ Release notes https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes (2024-12-20 12:09 PM) @cancelled
@@ -239,13 +239,13 @@ Azure HDInsight | Microsoft Learn:
                     ✘ Use with Microsoft Cognitive Toolkit https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-microsoft-cognitive-toolkit (2024-08-02 11:27 AM) @cancelled
                     ☐ Create an Apache Spark machine learning pipeline https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-creating-ml-pipelines (2024-08-02 11:27 AM)
                 Analyze big data:
-                    ☐ Use Apache Spark to read and write Apache HBase data https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-using-spark-query-hbase (2024-08-02 11:27 AM)
+                    ✘ Use Apache Spark to read and write Apache HBase data https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-using-spark-query-hbase (2024-08-02 11:27 AM) @cancelled
                     ☐ Analyze Application Insights telemetry logs https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-analyze-application-insight-logs (2024-09-11 06:38 PM)
             Manage:
                 Manage dependencies:
                     ☐ Manage Spark application dependencies https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-manage-dependencies (2024-11-25 06:03 PM)
                     ☐ Safely manage jar dependencies https://learn.microsoft.com/en-us/azure/hdinsight/spark/safely-manage-jar-dependency (2024-08-02 11:27 AM)
-                    ☐ Safely manage Python environment https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-python-package-installation (2024-08-02 11:27 AM)
+                    ✘ Safely manage Python environment https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-python-package-installation (2024-08-02 11:27 AM) @cancelled
                 ☐ Manage cluster resources https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-resource-manager (2024-08-02 11:27 AM)
                 ☐ Manage Apache Spark applications using extended History Server https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-azure-spark-history-server (2024-09-06 05:09 PM)
                 ☐ Enable caching with IO Cache https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-improve-performance-iocache (2024-12-02 06:04 PM)
@@ -253,7 +253,7 @@ Azure HDInsight | Microsoft Learn:
                     ☐ Use a local Jupyter Notebook https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-jupyter-notebook-install-locally (2024-08-02 11:27 AM)
                     ☐ Jupyter Notebook kernels https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-jupyter-notebook-kernels (2024-08-02 11:27 AM)
                     ☐ Use external packages with Jupyter using cell magic https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-jupyter-notebook-use-external-packages (2024-08-02 11:27 AM)
-                    ☐ Use Apache Zeppelin notebooks https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-zeppelin-notebook (2024-08-02 11:27 AM)
+                    ✘ Use Apache Zeppelin notebooks https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-zeppelin-notebook (2024-08-02 11:27 AM) @cancelled
                 Use with other Azure services:
                     ☐ Connect to Azure SQL Database https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-connect-to-sql-database (2024-08-02 11:27 AM)
                     ☐ Run Azure Machine Learning workloads with AutoML https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-run-machine-learning-automl (2024-10-17 11:18 AM)
@@ -295,7 +295,7 @@ Azure HDInsight | Microsoft Learn:
                     ☐ Use Azure PowerShell https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-use-mapreduce-powershell (2024-08-02 11:27 AM)
                     ☐ Use SDK for .NET https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-use-mapreduce-dotnet-sdk (2024-08-02 11:27 AM)
                     ☐ Run the MapReduce samples https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-run-samples-linux (2024-09-06 05:09 PM)
-                    ☐ Run custom Apache Hadoop MapReduce programs https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-run-custom-programs (2024-08-02 11:27 AM)
+                    ✘ Run custom Apache Hadoop MapReduce programs https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-run-custom-programs (2024-08-02 11:27 AM) @cancelled
                     ☐ Develop C# streaming MapReduce programs https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-dotnet-csharp-mapreduce-streaming (2024-09-06 05:09 PM)
                     ☐ Develop Java MapReduce programs https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-develop-deploy-java-mapreduce-linux (2024-08-02 11:27 AM)
                 ☐ Use Apache Hive as an extract, transform, and load (ETL) tool https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-using-apache-hive-as-an-etl-tool (2024-08-02 11:27 AM)
@@ -306,7 +306,7 @@ Azure HDInsight | Microsoft Learn:
                     ☐ Connect Power BI to Interactive Query https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/apache-hadoop-connect-hive-power-bi-directquery (2024-10-17 11:18 AM)
                     ☐ Connect Power BI to Apache Hadoop https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-connect-hive-power-bi (2024-08-02 11:27 AM)
                     ☐ Connect Excel to Apache Hadoop https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-connect-excel-hive-odbc-driver (2024-12-12 05:33 AM)
-                    ☐ Connect using the Apache Hive JDBC driver https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-connect-hive-jdbc-driver (2024-08-02 11:27 AM)
+                    ✘ Connect using the Apache Hive JDBC driver https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-connect-hive-jdbc-driver (2024-08-02 11:27 AM) @cancelled
                     ☐ Analyze stored tweets https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-analyze-twitter-data-linux (2024-08-09 05:35 AM)
                     ☐ Generate recommendations with Apache Mahout https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-mahout-linux-mac (2024-11-25 06:03 PM)
                     ☐ Advanced analytics for HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-deep-dive-advanced-analytics (2024-10-28 06:09 PM)
@@ -395,9 +395,9 @@ Azure HDInsight | Microsoft Learn:
             Develop:
                 ☐ Use the Apache HBase SDK for .NET https://learn.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-rest-sdk (2024-08-02 11:27 AM)
                 ☐ Develop Java applications https://learn.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-build-java-maven-linux (2024-10-17 11:18 AM)
-                ☐ Apache Phoenix with Apache Zeppelin https://learn.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-phoenix-zeppelin (2024-08-02 11:27 AM)
+                ✘ Apache Phoenix with Apache Zeppelin https://learn.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-phoenix-zeppelin (2024-08-02 11:27 AM) @cancelled
                 ☐ Apache Phoenix in HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-phoenix-in-hdinsight (2024-08-02 11:27 AM)
-                ☐ Use the Apache Phoenix Query Server REST SDK https://learn.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-using-phoenix-query-server-rest-sdk (2024-08-02 11:27 AM)
+                ✘ Use the Apache Phoenix Query Server REST SDK https://learn.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-using-phoenix-query-server-rest-sdk (2024-08-02 11:27 AM) @cancelled
                 ☐ Bulk load data into Apache Phoenix using psql https://learn.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-phoenix-psql (2024-08-02 11:27 AM)
             Manage:
                 ☐ Accelerated Writes https://learn.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-accelerated-writes (2024-09-06 05:09 PM)
@@ -417,7 +417,7 @@ Azure HDInsight | Microsoft Learn:
                 ☐ Apache Phoenix connectivity issues https://learn.microsoft.com/en-us/azure/hdinsight/hbase/hbase-troubleshoot-phoenix-connectivity (2024-09-19 06:07 PM)
                 ☐ Apache HBase REST not responding https://learn.microsoft.com/en-us/azure/hdinsight/hbase/hbase-troubleshoot-rest-not-spending (2024-08-02 11:27 AM)
                 ✘ Pegged CPU on region server https://learn.microsoft.com/en-us/azure/hdinsight/hbase/hbase-troubleshoot-pegged-cpu-region-server (2024-08-02 11:27 AM) @cancelled
-                ☐ Timeouts with 'hbase hbck' command https://learn.microsoft.com/en-us/azure/hdinsight/hbase/hbase-troubleshoot-timeouts-hbase-hbck (2024-09-19 06:07 PM)
+                ✘ Timeouts with 'hbase hbck' command https://learn.microsoft.com/en-us/azure/hdinsight/hbase/hbase-troubleshoot-timeouts-hbase-hbck (2024-09-19 06:07 PM) @cancelled
                 ✘ REST API to query Apache HBase https://learn.microsoft.com/en-us/azure/hdinsight/hbase/troubleshoot-rest-api (2024-09-19 06:07 PM) @cancelled
                 ☐ Troubleshoot data retention issues https://learn.microsoft.com/en-us/azure/hdinsight/hbase/troubleshoot-data-retention-issues-expired-data (2024-09-19 06:07 PM)
     Interactive Query:
@@ -463,7 +463,7 @@ Azure HDInsight | Microsoft Learn:
                 ☐ Apache Tez application hangs https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/interactive-query-troubleshoot-tez-hangs (2024-09-19 06:07 PM)
                 ☐ Apache Hive LLAP sizing guidelines https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/hive-llap-sizing-guide (2024-12-02 06:04 PM)
                 ☐ Apache Hive LLAP query performance https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/interactive-query-troubleshoot-query-performance (2024-08-02 11:27 AM)
-                ☐ Slow reducer https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/interactive-query-troubleshoot-slow-reducer (2024-08-02 11:27 AM)
+                ✘ Slow reducer https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/interactive-query-troubleshoot-slow-reducer (2024-08-02 11:27 AM) @cancelled
                 ☐ Apache Hive gateway timeout https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/troubleshoot-gateway-timeout (2024-09-19 06:07 PM)
                 ☐ Apache Hive View time-out https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/interactive-query-troubleshoot-view-time-out (2024-08-02 11:27 AM)
                 ✘ Permission error creating table https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/interactive-query-troubleshoot-permission-error-create-table (2024-08-02 11:27 AM) @cancelled
@@ -495,7 +495,7 @@ Azure HDInsight | Microsoft Learn:
             ☐ Restrict public connectivity https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-restrict-public-connectivity (2024-11-08 12:15 PM)
             ☐ Enable private link on a HDInsight cluster https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-private-link (2024-08-01 05:35 AM)
             ☐ Enable private link on a HDInsight Kafka Rest Proxy cluster https://learn.microsoft.com/en-us/azure/hdinsight/enable-private-link-on-kafka-rest-proxy-hdi-cluster (2024-09-06 05:09 PM)
-            ☐ Transport layer security https://learn.microsoft.com/en-us/azure/hdinsight/transport-layer-security (2024-08-02 11:27 AM)
+            ✘ Transport layer security https://learn.microsoft.com/en-us/azure/hdinsight/transport-layer-security (2024-08-02 11:27 AM) @cancelled
             ☐ Plan VNETs for HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-plan-virtual-network-deployment (2024-11-08 12:15 PM)
             ☐ Control network traffic https://learn.microsoft.com/en-us/azure/hdinsight/control-network-traffic (2024-08-02 11:27 AM)
             ☐ Required IP Addresses for NSGs and UDRs https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-management-ip-addresses (2024-08-02 11:27 AM)
@@ -672,7 +672,31 @@ Azure HDInsight | Microsoft Learn:
 
                 ☐ Reliability in HDInsight https://learn.microsoft.com/en-us/azure/reliability/reliability-hdinsight?toc=/azure/hdinsight/toc.json&bc=/azure/hdinsight/breadcrumb/toc.json (2025-01-31 06:19 PM)
                 ☐ Use SSH tunneling https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-linux-ambari-ssh-tunnel (2025-01-31 06:19 PM)
-            ☐ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2025-01-31 12:39 PM)
-            ☐ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-31 12:04 PM)
+            ✘ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2025-01-31 12:39 PM) @cancelled
+            ✘ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-01-31 12:04 PM) @cancelled
                 ☐ Archived release notes for Azure HDInsight https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-release-notes-archive (2025-01-31 06:19 PM)
+
+
+---
+
+                ☐ Open-source software support https://learn.microsoft.com/en-us/azure/hdinsight/open-source-software (2025-02-03 06:09 PM)
+                    ☐ Publish HDInsight apps to Azure Marketplace https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-apps-publish-applications (2025-02-03 06:09 PM)
+                    ☐ Optimize Apache Pig https://learn.microsoft.com/en-us/azure/hdinsight/optimize-pig-ambari (2025-02-03 06:09 PM)
+                ☐ Upgrade HDInsight cluster to newer version https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-upgrade-cluster (2025-02-03 06:09 PM)
+                ☐ OS patching for HDInsight cluster https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-os-patching (2025-02-03 06:09 PM)
+                    ☐ Conda version regression in a recent HDInsight release https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-known-issues-conda-version-regression (2025-02-03 06:09 PM)
+                ☐ Troubleshoot Apache Oozie https://learn.microsoft.com/en-us/azure/hdinsight/troubleshoot-oozie (2025-02-03 06:09 PM)
+            ☐ SDK for .NET https://learn.microsoft.com/dotnet/api/overview/azure/hdinsight (2025-02-07 12:28 PM)
+            ☐ SDK for Python https://learn.microsoft.com/python/api/overview/azure/hdinsight (2025-02-07 12:08 PM)
+            ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/hdinsight/policy-reference (2025-02-03 06:09 PM)
+                    ☐ Use Apache Spark to read and write Apache HBase data https://learn.microsoft.com/en-us/azure/hdinsight/hdinsight-using-spark-query-hbase (2025-02-03 06:09 PM)
+                    ☐ Safely manage Python environment https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-python-package-installation (2025-02-03 06:09 PM)
+                    ☐ Use Apache Zeppelin notebooks https://learn.microsoft.com/en-us/azure/hdinsight/spark/apache-spark-zeppelin-notebook (2025-02-03 06:09 PM)
+                    ☐ Run custom Apache Hadoop MapReduce programs https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-run-custom-programs (2025-02-03 06:09 PM)
+                    ☐ Connect using the Apache Hive JDBC driver https://learn.microsoft.com/en-us/azure/hdinsight/hadoop/apache-hadoop-connect-hive-jdbc-driver (2025-02-03 06:09 PM)
+                ☐ Apache Phoenix with Apache Zeppelin https://learn.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-phoenix-zeppelin (2025-02-03 06:09 PM)
+                ☐ Use the Apache Phoenix Query Server REST SDK https://learn.microsoft.com/en-us/azure/hdinsight/hbase/apache-hbase-using-phoenix-query-server-rest-sdk (2025-02-03 06:09 PM)
+                ☐ Timeouts with 'hbase hbck' command https://learn.microsoft.com/en-us/azure/hdinsight/hbase/hbase-troubleshoot-timeouts-hbase-hbck (2025-02-03 06:09 PM)
+                ☐ Slow reducer https://learn.microsoft.com/en-us/azure/hdinsight/interactive-query/interactive-query-troubleshoot-slow-reducer (2025-02-03 06:09 PM)
+            ☐ Transport layer security https://learn.microsoft.com/en-us/azure/hdinsight/transport-layer-security (2025-02-03 06:09 PM)
 

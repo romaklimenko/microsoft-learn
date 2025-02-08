@@ -10,7 +10,7 @@ Virtual WAN documentation | Microsoft Learn:
             ☐ Deploy Virtual WAN with routing intent and routing policies https://github.com/Azure/azure-quickstart-templates/tree/master/quickstarts/microsoft.network/virtual-wan-routing-intent
     Tutorials:
         ☐ Create a site-to-site connection https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-site-to-site-portal (2024-12-13 06:02 PM)
-        ☐ Create User VPN (point-to-site) connections https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-portal (2024-12-13 06:02 PM)
+        ✘ Create User VPN (point-to-site) connections https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-portal (2024-12-13 06:02 PM) @cancelled
         ☐ Create an ExpressRoute connection https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-expressroute-portal (2024-12-13 06:02 PM)
     Concepts:
         ✘ What's new? https://learn.microsoft.com/en-us/azure/virtual-wan/whats-new (2024-12-16 11:03 PM) @cancelled
@@ -97,8 +97,8 @@ Virtual WAN documentation | Microsoft Learn:
             P2S server configuration:
                 Certificate or RADIUS authentication:
                     Configure a P2S VPN:
-                        ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-portal (2024-12-13 06:02 PM)
-                        ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-powershell (2024-08-02 11:27 AM)
+                        ✘ Azure portal https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-portal (2024-12-13 06:02 PM) @cancelled
+                        ✘ PowerShell https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-powershell (2024-08-02 11:27 AM) @cancelled
                     ☐ Generate self-signed certificates https://learn.microsoft.com/en-us/azure/virtual-wan/certificates-point-to-site (2024-08-02 11:27 AM)
                 Microsoft Entra ID authentication:
                     ✘ Configure a P2S VPN https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad (2024-09-24 10:04 PM) @cancelled
@@ -115,9 +115,9 @@ Virtual WAN documentation | Microsoft Learn:
                     ☐ Install client certificates https://learn.microsoft.com/en-us/azure/virtual-wan/install-client-certificates (2024-08-02 11:27 AM)
                 VPN client profiles:
                     ☐ Download global and hub profiles https://learn.microsoft.com/en-us/azure/virtual-wan/global-hub-profile (2024-08-02 11:27 AM)
-                    ☐ Extract and view profile information https://learn.microsoft.com/en-us/azure/virtual-wan/about-vpn-profile-download (2024-08-02 11:27 AM)
+                    ✘ Extract and view profile information https://learn.microsoft.com/en-us/azure/virtual-wan/about-vpn-profile-download (2024-08-02 11:27 AM) @cancelled
                     ☐ Intune- Deploy VPN client profile https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-profile-intune (2024-08-02 11:27 AM)
-                ☐ Azure VPN client optional settings https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations-windows (2024-08-02 11:27 AM)
+                ✘ Azure VPN client optional settings https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations-windows (2024-08-02 11:27 AM) @cancelled
                 ☐ OpenVPN client software configuration https://learn.microsoft.com/en-us/azure/virtual-wan/howto-openvpn-clients (2024-08-02 11:27 AM)
             Configure Always On tunnels:
                 ☐ User tunnel https://learn.microsoft.com/en-us/azure/virtual-wan/howto-always-on-user-tunnel (2024-08-02 11:27 AM)
@@ -267,11 +267,11 @@ Virtual WAN documentation | Microsoft Learn:
 
 ---
 
-                    ☐ Configure P2S - Microsoft-registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway (2025-01-16 11:03 PM)
-                    ☐ Configure P2S - manually registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad (2025-01-15 11:02 PM)
+                    ✘ Configure P2S - Microsoft-registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway (2025-01-16 11:03 PM) @cancelled
+                    ✘ Configure P2S - manually registered VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad (2025-01-15 11:02 PM) @cancelled
                     ☐ Create or modify custom audience app ID https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-register-custom-app (2025-01-15 11:02 PM)
-                    ☐ Multi-application Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app (2025-01-17 05:34 AM)
-        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network (2025-01-16 11:01 PM)
+                    ✘ Multi-application Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app (2025-01-17 05:34 AM) @cancelled
+        ✘ Azure CLI https://learn.microsoft.com/cli/azure/network (2025-01-16 11:01 PM) @cancelled
 
 
 ---
@@ -282,7 +282,7 @@ Virtual WAN documentation | Microsoft Learn:
 
 ---
 
-        ☐ Virtual WAN FAQ https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq (2025-01-24 05:34 AM)
+        ✘ Virtual WAN FAQ https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq (2025-01-24 05:34 AM) @cancelled
             ☐ Monitor Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/monitor-virtual-wan (2025-01-24 05:34 AM)
         ☐ Subscription and service limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/virtual-wan/toc.json&bc=/azure/virtual-wan/breadcrumb/toc.json (2025-01-24 05:34 AM)
 
@@ -295,11 +295,11 @@ Virtual WAN documentation | Microsoft Learn:
 ---
 
                     Windows clients:
-                        ☐ Native VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows (2025-01-28 11:09 PM)
-                        ☐ Azure VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows (2025-01-28 11:09 PM)
+                        ✘ Native VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows (2025-01-28 11:09 PM) @cancelled
+                        ✘ Azure VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows (2025-01-28 11:09 PM) @cancelled
                         OpenVPN client:
                             ☐ Version 2.x https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-2 (2025-01-30 12:22 PM)
-                            ☐ Version 3.x https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3 (2025-01-30 12:22 PM)
+                            ✘ Version 3.x https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3 (2025-01-30 12:22 PM) @cancelled
                     macOS and iOS clients:
                         ✘ Native VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac (2024-08-02 11:27 AM) @cancelled
                         ☐ OpenVPN client - macOS https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-mac (2025-01-30 11:06 PM)
@@ -308,8 +308,36 @@ Virtual WAN documentation | Microsoft Learn:
 
 ---
 
-            ☐ About Route-maps https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-about (2025-01-31 11:06 PM)
+            ✘ About Route-maps https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-about (2025-01-31 11:06 PM) @cancelled
             ☐ Virtual hub routing preference https://learn.microsoft.com/en-us/azure/virtual-wan/about-virtual-hub-routing-preference (2025-01-31 11:06 PM)
-                        ☐ Native VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac (2025-01-31 06:19 PM)
+                        ✘ Native VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac (2025-01-31 06:19 PM) @cancelled
                         ☐ OpenVPN client - iOS https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-ios (2025-01-31 06:19 PM)
+
+
+---
+
+        ☐ Virtual WAN FAQ https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-faq (2025-02-07 11:03 PM)
+            ☐ About Route-maps https://learn.microsoft.com/en-us/azure/virtual-wan/route-maps-about (2025-02-07 06:04 PM)
+            Certificate authentication:
+                P2S server configuration:
+                    ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-portal (2024-12-13 06:02 PM)
+                    ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-powershell (2024-08-02 11:27 AM)
+                VPN client configuration:
+                        ☐ Native VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-native (2025-02-07 11:03 PM)
+                        ☐ Azure VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/vpn-client-certificate-windows (2025-02-07 11:03 PM)
+                            ☐ Version 3.x https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3 (2025-02-05 05:33 AM)
+                    Linux clients:
+                        ☐ Azure VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-azure-vpn-client-certificate-linux (2025-02-06 11:03 PM)
+                        ☐ OpenVPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-certificate-openvpn-linux (2025-02-07 05:35 AM)
+                        ☐ Native VPN client https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-vpn-client-cert-mac (2025-02-04 11:08 PM)
+            Microsoft Entra ID authentication:
+                P2S server configuration:
+                    ☐ P2S - Microsoft-registered VPN client app https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway (2025-01-16 11:03 PM)
+                    ☐ P2S - manually registered VPN client app https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-point-to-site-azure-ad (2025-01-15 11:02 PM)
+                    ☐ Change VPN client app to Microsoft-registered https://learn.microsoft.com/en-us/azure/virtual-wan/point-to-site-entra-gateway-update (2025-02-07 11:03 PM)
+                    ☐ Configure a tenant for multiple application registration https://learn.microsoft.com/en-us/azure/virtual-wan/openvpn-azure-ad-tenant-multi-app (2025-01-17 05:34 AM)
+                VPN client configuration:
+                    ☐ Extract and view profile information https://learn.microsoft.com/en-us/azure/virtual-wan/about-vpn-profile-download (2025-02-05 05:33 AM)
+            ☐ Azure VPN client optional settings https://learn.microsoft.com/en-us/azure/virtual-wan/azure-vpn-client-optional-configurations-windows (2024-08-02 11:27 AM)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network (2025-02-04 11:05 PM)
 
