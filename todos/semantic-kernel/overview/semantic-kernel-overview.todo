@@ -1,3 +1,6 @@
+
+---
+
 Introduction to Semantic Kernel | Microsoft Learn:
     ☐ Overview https://learn.microsoft.com/en-us/semantic-kernel/overview/overview/ (2024-09-09 10:27 PM)
     Getting started:
@@ -20,6 +23,7 @@ Introduction to Semantic Kernel | Microsoft Learn:
             Embedding generation:
                 ☐ Overview https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/ai-services/embedding-generation/ (2024-09-09 10:27 PM)
             ☐ AI Integrations https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/ai-services/integrations (2024-09-09 10:27 PM)
+            ☐ Realtime https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/ai-services/realtime (2024-09-09 10:27 PM)
         Enterprise Components:
             ☐ Filters https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/enterprise-readiness/filters (2024-09-09 10:27 PM)
             Observability:
@@ -43,13 +47,16 @@ Introduction to Semantic Kernel | Microsoft Learn:
             Out-of-the-box connectors:
                 ☐ Overview https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/ (2024-09-09 10:27 PM)
                 ☐ Azure AI Search connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/azure-ai-search-connector (2024-09-09 10:27 PM)
-                ✘ Azure CosmosDB MongoDB connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/azure-cosmosdb-mongodb-connector (2024-09-09 10:27 PM) @cancelled
+                ☐ Azure CosmosDB MongoDB (vCore) connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/azure-cosmosdb-mongodb-connector (2024-09-09 10:27 PM)
                 ☐ Azure CosmosDB NoSQL connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/azure-cosmosdb-nosql-connector (2024-09-09 10:27 PM)
+                ☐ Chroma connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/chroma-connector (2024-09-09 10:27 PM)
+                ☐ Couchbase connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/couchbase-connector (2024-09-09 10:27 PM)
                 ☐ Elasticsearch connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/elasticsearch-connector (2024-09-09 10:27 PM)
                 ☐ In-memory connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/inmemory-connector (2024-09-09 10:27 PM)
                 ☐ JDBC connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/jdbc-connector (2024-09-09 10:27 PM)
                 ☐ MongoDB connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/mongodb-connector (2024-09-09 10:27 PM)
                 ☐ Pinecone connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/pinecone-connector (2024-09-09 10:27 PM)
+                ☐ Postgres connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/postgres-connector (2024-09-09 10:27 PM)
                 ☐ Qdrant connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/qdrant-connector (2024-09-09 10:27 PM)
                 ☐ Redis connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/redis-connector (2024-09-09 10:27 PM)
                 ☐ SQLite connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/sqlite-connector (2024-09-09 10:27 PM)
@@ -85,12 +92,14 @@ Introduction to Semantic Kernel | Microsoft Learn:
                 ☐ Google text search https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/text-search/out-of-the-box-textsearch/google-textsearch (2024-09-09 10:27 PM)
                 ☐ Vector store text search https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/text-search/out-of-the-box-textsearch/vectorstore-textsearch (2024-09-09 10:27 PM)
         ☐ Planning https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/planning (2024-09-09 10:27 PM)
+        ☐ Experimental Attribute https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/experimental-attribute (2024-09-09 10:27 PM)
     Frameworks:
         Agent Framework:
             ☐ Overview https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/agent/ (2024-09-09 10:27 PM)
             ☐ Architecture https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/agent/agent-architecture (2024-09-09 10:27 PM)
             ☐ Chat Completion Agent https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/agent/chat-completion-agent (2024-09-09 10:27 PM)
-            ☐ Open AI Assistant Agent https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/agent/assistant-agent (2024-09-09 10:27 PM)
+            ☐ OpenAI Assistant Agent https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/agent/assistant-agent (2024-09-09 10:27 PM)
+            ☐ Azure AI Agent https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/agent/azure-ai-agent (2024-09-09 10:27 PM)
             ☐ Agent Collaboration https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/agent/agent-chat (2024-09-09 10:27 PM)
             ☐ Create an Agent from a Template https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/agent/agent-templates (2024-09-09 10:27 PM)
             ☐ Configuring Agents with Plugins https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/agent/agent-functions (2024-09-09 10:27 PM)
@@ -105,6 +114,10 @@ Introduction to Semantic Kernel | Microsoft Learn:
             ☐ Core Components https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/process/process-core-components (2024-09-09 10:27 PM)
             ☐ Deployment https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/process/process-deployment (2024-09-09 10:27 PM)
             ☐ Best Practices https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/process/process-best-practices (2024-09-09 10:27 PM)
+            How-To with Processes:
+                ☐ How-To Create Your First Process https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/process/examples/example-first-process (2024-09-09 10:27 PM)
+                ☐ How-To Validation with Cycles https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/process/examples/example-cycles (2024-09-09 10:27 PM)
+                ☐ How-To Human-in-the-Loop https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/process/examples/example-human-in-loop (2024-09-09 10:27 PM)
     Getting Support:
         ☐ Overview https://learn.microsoft.com/en-us/semantic-kernel/overview/support/ (2024-09-09 10:27 PM)
         ☐ Contributing to Semantic Kernel https://learn.microsoft.com/en-us/semantic-kernel/overview/support/contributing (2024-09-09 10:27 PM)
@@ -117,23 +130,9 @@ Introduction to Semantic Kernel | Microsoft Learn:
             ☐ .NET Stepwise Planner Migration https://learn.microsoft.com/en-us/semantic-kernel/overview/support/migration/stepwise-planner-migration-guide (2024-09-09 10:27 PM)
             ☐ Memory Store to Vector Store Migration https://learn.microsoft.com/en-us/semantic-kernel/overview/support/migration/memory-store-migration (2024-09-09 10:27 PM)
             ☐ Kernel Events and Filters Migration https://learn.microsoft.com/en-us/semantic-kernel/overview/support/migration/kernel-events-and-filters-migration (2024-09-09 10:27 PM)
+            ☐ Agent Framework Release Candidate Migration Guide https://learn.microsoft.com/en-us/semantic-kernel/overview/support/migration/agent-framework-rc-migration-guide (2024-09-09 10:27 PM)
         ☐ Security https://learn.microsoft.com/en-us/semantic-kernel/overview/support/security (2024-09-09 10:27 PM)
     API Reference:
         ☐ C# API reference https://learn.microsoft.com/dotnet/api/microsoft.semantickernel (2023-08-02 05:44 PM)
-        ☐ Python API reference https://learn.microsoft.com/python/api/semantic-kernel/semantic_kernel.kernel.kernel (2024-10-07 05:46 PM)
-        ☐ Java API reference https://learn.microsoft.com/java/api/com.microsoft.semantickernel (2024-11-01 04:36 PM)
-
-
----
-
-                ☐ Postgres connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/postgres-connector (2024-09-09 10:27 PM)
-
-
----
-
-                ☐ Azure CosmosDB MongoDB (vCore) connector https://learn.microsoft.com/en-us/semantic-kernel/overview/concepts/vector-store-connectors/out-of-the-box-connectors/azure-cosmosdb-mongodb-connector (2024-09-09 10:27 PM)
-            How-To with Processes:
-                ☐ How-To Create Your First Process https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/process/examples/example-first-process (2024-09-09 10:27 PM)
-                ☐ How-To Validation with Cycles https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/process/examples/example-cycles (2024-09-09 10:27 PM)
-                ☐ How-To Human-in-the-Loop https://learn.microsoft.com/en-us/semantic-kernel/overview/frameworks/process/examples/example-human-in-loop (2024-09-09 10:27 PM)
+        ☐ Python API reference https://learn.microsoft.com/python/api/semantic-kernel/semantic_kernel.kernel.kernel (2025-02-28 10:55 PM)
 

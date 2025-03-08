@@ -1,3 +1,8 @@
+✔ Data sources supported in SSAS tabular 1400 and higher models https://learn.microsoft.com/en-us/analysis-services/tabular-models/data-sources-supported-ssas-tabular-1400 (2024-02-05 10:58 PM) @done(25-01-31 22:33)
+✔ Lineage tags for Power BI semantic models https://learn.microsoft.com/en-us/analysis-services/tom/lineage-tags-for-power-bi-semantic-models (2025-01-24 11:00 PM) @done(25-01-26 20:04)
+
+---
+
 Analysis Services core documentation | Microsoft Learn:
     ☐ Analysis Services documentation https://learn.microsoft.com/en-us/analysis-services/ (2024-02-05 10:58 PM)
     Overview:
@@ -124,7 +129,7 @@ Analysis Services core documentation | Microsoft Learn:
                 ☐ Table properties https://learn.microsoft.com/en-us/analysis-services/tabular-models/table-properties-ssas-tabular (2024-02-05 10:58 PM)
                 ☐ Column properties https://learn.microsoft.com/en-us/analysis-services/tabular-models/column-properties-ssas-tabular (2024-02-05 10:58 PM)
             Import data:
-                ✘ Data sources supported in SSAS tabular 1400 and higher models https://learn.microsoft.com/en-us/analysis-services/tabular-models/data-sources-supported-ssas-tabular-1400 (2024-02-05 10:58 PM) @cancelled
+                ☐ Data sources supported in SSAS tabular 1400 and higher models https://learn.microsoft.com/en-us/analysis-services/tabular-models/data-sources-supported-ssas-tabular-1400 (2024-02-05 10:58 PM)
                 ☐ Data sources supported in SSAS tabular 1200 models https://learn.microsoft.com/en-us/analysis-services/tabular-models/data-sources-supported-ssas-tabular (2024-02-05 10:58 PM)
                 ☐ Data types supported https://learn.microsoft.com/en-us/analysis-services/tabular-models/data-types-supported-ssas-tabular (2024-02-05 10:58 PM)
                 ☐ Impersonation https://learn.microsoft.com/en-us/analysis-services/tabular-models/impersonation-ssas-tabular (2024-02-05 10:58 PM)
@@ -598,7 +603,7 @@ Analysis Services core documentation | Microsoft Learn:
             ☐ Disconnect users and sessions https://learn.microsoft.com/en-us/analysis-services/instances/disconnect-users-and-sessions-on-analysis-services-server (2024-02-05 10:58 PM)
     Developer:
         ☐ Developer documentation overview https://learn.microsoft.com/en-us/analysis-services/analysis-services-developer-documentation (2024-02-05 10:58 PM)
-        ☐ Client libraries https://learn.microsoft.com/en-us/analysis-services/client-libraries (2025-01-07 11:00 PM)
+        ☐ Client libraries https://learn.microsoft.com/en-us/analysis-services/client-libraries (2025-03-05 11:02 PM)
         Tabular models:
             ☐ Tabular 1200 and higher https://learn.microsoft.com/en-us/analysis-services/tabular-models/tabular-model-programming-for-compatibility-level-1200 (2024-02-05 10:58 PM)
             ☐ Tabular 1103 and lower https://learn.microsoft.com/en-us/analysis-services/tabular-models/tabular-model-programming-for-compatibility-levels-1050-through-1103 (2024-02-05 10:58 PM)
@@ -745,7 +750,7 @@ Analysis Services core documentation | Microsoft Learn:
             ☐ Install, distribute, and reference AMO-TOM assemblies https://learn.microsoft.com/en-us/analysis-services/tom/install-distribute-and-reference-the-tabular-object-model (2024-02-05 10:58 PM)
             ☐ Programming Power BI semantic models (TOM) https://learn.microsoft.com/en-us/analysis-services/tom/tom-pbi-datasets (2024-02-05 10:58 PM)
             ☐ Use hot and cold table partitions to optimize very large Power BI data models https://learn.microsoft.com/en-us/analysis-services/tom/table-partitions (2024-04-10 10:02 PM)
-            ✘ Lineage tags for Power BI semantic models https://learn.microsoft.com/en-us/analysis-services/tom/lineage-tags-for-power-bi-semantic-models (2025-01-06 11:00 PM) @cancelled
+            ☐ Lineage tags for Power BI semantic models https://learn.microsoft.com/en-us/analysis-services/tom/lineage-tags-for-power-bi-semantic-models (2025-01-24 11:00 PM)
         Tabular Model Scripting Language (TMSL):
             ☐ Tabular Model Scripting Language overview https://learn.microsoft.com/en-us/analysis-services/tmsl/tabular-model-scripting-language-tmsl-reference (2024-02-05 10:58 PM)
             Commands:
@@ -1233,7 +1238,7 @@ Analysis Services core documentation | Microsoft Learn:
                 ☐ UnknownMemberTranslation Element (ASSL) https://learn.microsoft.com/en-us/analysis-services/assl/objects/unknownmembertranslation-element-assl (2024-02-05 10:58 PM)
                 ☐ ValueColumn Element (ASSL) https://learn.microsoft.com/en-us/analysis-services/assl/objects/valuecolumn-element-assl (2024-02-05 10:58 PM)
             Properties (ASSL) https://learn.microsoft.com/en-us/analysis-services/assl/properties/properties-assl (2024-02-05 10:58 PM):
-                ✘ Access Element (ASSL) https://learn.microsoft.com/en-us/analysis-services/assl/properties/access-element-assl (2024-02-05 10:58 PM) @cancelled
+                ☐ Access Element (ASSL) https://learn.microsoft.com/en-us/analysis-services/assl/properties/access-element-assl (2024-02-05 10:58 PM)
                 ☐ Account Element (ImpersonationInfo) (ASSL) https://learn.microsoft.com/en-us/analysis-services/assl/properties/account-element-impersonationinfo-assl (2024-02-05 10:58 PM)
                 ☐ AccountType Element (ASSL) https://learn.microsoft.com/en-us/analysis-services/assl/properties/accounttype-element-assl (2024-02-05 10:58 PM)
                 ☐ ActionID Element (ASSL) https://learn.microsoft.com/en-us/analysis-services/assl/properties/actionid-element-assl (2024-02-05 10:58 PM)
@@ -1488,29 +1493,4 @@ Analysis Services core documentation | Microsoft Learn:
         ☐ Conceptual Schema Definition Language (CSDLBI) https://learn.microsoft.com/en-us/analysis-services/csdlbi/csdlbi-overview (2024-02-05 10:58 PM)
     ☐ References https://learn.microsoft.com/en-us/analysis-services/analysis-services-references (2024-02-05 10:58 PM)
     ☐ Samples https://learn.microsoft.com/en-us/analysis-services/analysis-services-samples (2024-02-05 10:58 PM)
-
-
----
-
-            ✔ Lineage tags for Power BI semantic models https://learn.microsoft.com/en-us/analysis-services/tom/lineage-tags-for-power-bi-semantic-models (2025-01-24 11:00 PM) @done(25-01-26 20:04)
-
-
----
-
-                ✘ Access Element (ASSL) https://learn.microsoft.com/en-us/analysis-services/assl/properties/access-element-assl @cancelled
-
-
----
-
-                ☐ Access Element (ASSL) https://learn.microsoft.com/en-us/analysis-services/assl/properties/access-element-assl (2024-02-05 10:58 PM)
-
-
----
-
-                ✘ Data sources supported in SSAS tabular 1400 and higher models https://learn.microsoft.com/en-us/analysis-services/tabular-models/data-sources-supported-ssas-tabular-1400 @cancelled
-
-
----
-
-                ✔ Data sources supported in SSAS tabular 1400 and higher models https://learn.microsoft.com/en-us/analysis-services/tabular-models/data-sources-supported-ssas-tabular-1400 (2024-02-05 10:58 PM) @done(25-01-31 22:33)
 
