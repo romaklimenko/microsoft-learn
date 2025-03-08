@@ -42,6 +42,7 @@ def first_or_default(lst, default=None):
 
 
 def main():
+
     for doc_url in get_doc_urls():
         print(doc_url)
 
@@ -105,11 +106,14 @@ def main():
         os.makedirs(os.path.dirname(file_path), exist_ok=True)
 
         if os.path.exists(file_path):
+
+            prune_not_done_lines(file_path)
+
             # filter lines that are not already in the file
             with open(file_path, "r", encoding="utf-8") as file:
                 existing_lines = [
                     re.sub(
-                        r" (@done.*|@cancelled.*)",
+                        r" (@done.*)",
                         "",
                         line.replace("\n", "").replace(
                             "✔ ", "☐ ").replace("✔ ", "✘ "),
@@ -129,19 +133,19 @@ def main():
                     if re.search(r"(?P<url>https?://[^\s]+)", line)
                 ]
 
-                with open(file_path, "r+", encoding="utf-8") as file:
-                    file_lines = file.readlines()
+                # with open(file_path, "r+", encoding="utf-8") as file:
+                #     file_lines = file.readlines()
 
-                    file.seek(0)
+                #     file.seek(0)
 
-                    for line in file_lines:
-                        for new_line_url in new_lines_urls:
-                            if new_line_url in line and line.strip().startswith("☐"):
-                                line = f'{line.replace(
-                                    "☐", "✘").rstrip()} @cancelled\n'
-                                break
+                #     for line in file_lines:
+                #         for new_line_url in new_lines_urls:
+                #             if new_line_url in line and line.strip().startswith("☐"):
+                #                 line = f'{line.replace(
+                #                     "☐", "✘").rstrip()} @cancelled\n'
+                #                 break
 
-                        file.write(line)
+                #         file.write(line)
 
             with open(file_path, "a", encoding="utf-8") as file:
                 for line in lines:
@@ -153,6 +157,20 @@ def main():
 
         with open(DOCS_CACHE_PATH, "w", encoding="utf-8") as file:
             json.dump(cache, file, indent=2)
+
+
+def prune_not_done_lines(file_path):
+    # remove all not done lines from the file and save the file
+    with open(file_path, "r", encoding="utf-8") as f:
+        lines = []
+        for line in f:
+            line = line.strip()
+            if line.startswith("✔"):
+                lines.append(f'{line}\n')
+
+    with open(file_path, "w", encoding="utf-8") as f:
+        for line in lines:
+            f.write(line)
 
 
 def get_item_lines(base_url, item, level=0):
