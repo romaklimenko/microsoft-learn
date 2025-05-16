@@ -1,0 +1,145 @@
+Azure Virtual Network Documentation - Tutorials, quickstarts, API references | Microsoft Learn:
+    ☐ Virtual Network documentation https://learn.microsoft.com/en-us/azure/virtual-network/ (2025-03-12 11:14 AM)
+    Overview:
+        ☐ What is Azure Virtual Network? https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview (2025-04-03T22:05:00Z)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq (2025-04-29T05:40:00Z)
+        ☐ Accelerated Networking https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-overview (2025-04-11T22:03:00Z)
+        ☐ Application security groups https://learn.microsoft.com/en-us/azure/virtual-network/application-security-groups (2025-04-03T22:05:00Z)
+        ☐ Network security groups https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview (2025-04-03T17:04:00Z)
+        ☐ Service endpoints https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoints-overview (2025-04-07T17:07:00Z)
+        ☐ Service tags https://learn.microsoft.com/en-us/azure/virtual-network/service-tags-overview (2025-04-28T22:06:00Z)
+    Get started:
+        ☐ Add, change, or delete a subnet https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-subnet (2025-04-16T05:12:00Z)
+        ☐ Create a virtual network https://learn.microsoft.com/en-us/azure/virtual-network/quickstart-create-virtual-network (2025-04-23T22:04:00Z)
+        ☐ Monitoring https://learn.microsoft.com/en-us/azure/virtual-network/monitor-virtual-network (2024-12-31T12:14:00Z)
+        ☐ Plan virtual networks https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm (2025-04-17T22:04:00Z)
+        ☐ Traffic routing https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview (2025-01-24T05:34:00Z)
+    Architecture and concepts:
+        ☐ Azure services network isolation https://learn.microsoft.com/en-us/azure/virtual-network/vnet-integration-for-azure-services (2025-02-28T05:35:00Z)
+        ☐ Concepts and best practices https://learn.microsoft.com/en-us/azure/virtual-network/concepts-and-best-practices (2025-04-15T17:03:00Z)
+        ☐ Interoperability in Azure https://learn.microsoft.com/azure/networking/connectivity-interoperability-control-plane?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2024-09-06T22:05:00Z)
+        ☐ IP based access control list (ACL) https://learn.microsoft.com/en-us/azure/virtual-network/ip-based-access-control-list-overview (2024-08-08T05:34:00Z)
+        ☐ Subnet delegation https://learn.microsoft.com/en-us/azure/virtual-network/subnet-delegation-overview (2025-04-15T22:03:00Z)
+        ☐ Subnet extension https://learn.microsoft.com/en-us/azure/virtual-network/subnet-extension (2024-12-31T12:14:00Z)
+        ☐ Virtual network peering https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview (2025-04-03T22:05:00Z)
+        ☐ What is IP address 168.63.129.16? https://learn.microsoft.com/en-us/azure/virtual-network/what-is-ip-address-168-63-129-16 (2025-04-03T22:05:00Z)
+    Plan and design:
+        ☐ Implement a secure hybrid network https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-dmz?toc=%2Fazure%2Fvirtual-network%2Ftoc.json&tabs=portal (2025-04-17T17:31:00Z)
+        ☐ Name resolution for resources https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-for-vms-and-role-instances (2025-03-17T22:05:00Z)
+        ☐ Network virtual appliances https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-scenario-udr-gw-nva (2024-12-31T12:14:00Z)
+        ☐ Optimize network throughput for Azure virtual machines https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-optimize-network-bandwidth (2024-11-22T23:02:00Z)
+        ☐ Use dynamic DNS to register hostnames https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-name-resolution-ddns (2025-03-21T22:02:00Z)
+        ☐ View and modify hostnames https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-viewing-and-modifying-hostnames (2024-11-22T23:02:00Z)
+        ☐ Virtual networks and virtual machines in Azure https://learn.microsoft.com/en-us/azure/virtual-network/network-overview (2025-04-15T22:03:00Z)
+    Deploy virtual network:
+        ☐ Connect a virtual network to ExpressRoute circuits https://learn.microsoft.com/azure/expressroute/expressroute-howto-linkvnet-portal-resource-manager?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-03-31T22:05:00Z)
+        ☐ Connect an on-premises network to Azure by using ExpressRoute https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/expressroute-vpn-failover?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-04-21T17:30:00Z)
+        ☐ Connect virtual networks https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks (2024-11-20T23:04:00Z)
+        ☐ Create and associate service endpoint policies https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies (2025-02-26T23:03:00Z)
+        ☐ Filter network traffic https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic (2025-02-21T12:12:00Z)
+        ☐ Restrict network access to PaaS resources https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources (2025-02-26T23:03:00Z)
+        ☐ Route network traffic https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table (2025-02-21T12:12:00Z)
+    Manage connectivity:
+        Accelerated networking:
+            ☐ Create a VM with Accelerated Networking https://learn.microsoft.com/en-us/azure/virtual-network/create-virtual-machine-accelerated-networking (2025-02-05T05:33:00Z)
+            ☐ Manage accelerated networking https://learn.microsoft.com/en-us/azure/virtual-network/manage-accelerated-networking (2025-01-08T05:33:00Z)
+            ☐ Linux and FreeBSD VMs https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-how-it-works (2024-08-22T19:16:00Z)
+            ☐ DPDK https://learn.microsoft.com/en-us/azure/virtual-network/setup-dpdk (2024-10-03T11:22:00Z)
+        ☐ Add or remove a subnet delegation https://learn.microsoft.com/en-us/azure/virtual-network/manage-subnet-delegation (2025-04-21T17:04:00Z)
+        Containers:
+            ☐ Container networking https://learn.microsoft.com/en-us/azure/virtual-network/container-networking-overview (2024-12-31T12:14:00Z)
+            ☐ Deploy container networking https://learn.microsoft.com/en-us/azure/virtual-network/deploy-container-networking (2024-10-15T22:04:00Z)
+            ☐ Deploy container networking for a stand-alone host https://learn.microsoft.com/en-us/azure/virtual-network/deploy-container-networking-docker-linux (2024-08-08T05:34:00Z)
+        ☐ Create multiple prefixes for a subnet https://learn.microsoft.com/en-us/azure/virtual-network/how-to-multiple-prefixes-subnet (2025-02-25T18:02:00Z)
+        ☐ Manage a virtual network https://learn.microsoft.com/en-us/azure/virtual-network/manage-virtual-network (2025-04-21T17:04:00Z)
+        ☐ Integrate services with Private Link https://learn.microsoft.com/azure/private-link/private-link-overview?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-03-26T17:06:00Z)
+        Peering:
+            Create peering:
+                ☐ Different subscriptions and tenants https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions (2024-11-22T05:58:00Z)
+                ☐ Different subscriptions with SPNs https://learn.microsoft.com/en-us/azure/virtual-network/create-peering-different-subscriptions-service-principal (2024-12-16T23:03:00Z)
+            ☐ Manage a virtual network peering https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-manage-peering (2025-05-09T05:16:00Z)
+            ☐ Update the address space for a peered virtual network https://learn.microsoft.com/en-us/azure/virtual-network/update-virtual-network-peering-address-space (2024-08-08T05:34:00Z)
+            ☐ Configure subnet peering https://learn.microsoft.com/en-us/azure/virtual-network/how-to-configure-subnet-peering (2025-03-24T22:02:00Z)
+        Routing:
+            ☐ Manage route tables https://learn.microsoft.com/en-us/azure/virtual-network/manage-route-table (2025-04-21T17:04:00Z)
+            ☐ Ansible https://learn.microsoft.com/azure/developer/ansible/route-table-configure?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2021-08-30T17:12:00Z)
+        Hybrid connectivity:
+            ☐ Configure a VNet-to-VNet VPN gateway connection https://learn.microsoft.com/azure/vpn-gateway/vpn-gateway-vnet-vnet-rm-ps?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-03-26T17:06:00Z)
+            ☐ Connect virtual networks from different deployment models https://learn.microsoft.com/azure/vpn-gateway/vpn-gateway-connect-different-deployment-models-portal?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2024-08-02T11:27:00Z)
+            ☐ Create a site-to-site VPN connection https://learn.microsoft.com/azure/vpn-gateway/tutorial-site-to-site-portal?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-01-15T23:02:00Z)
+        Virtual machines:
+            ☐ Add or remove network interfaces https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface-vm (2025-04-22T05:11:00Z)
+            ☐ Configure MTU for virtual machines https://learn.microsoft.com/en-us/azure/virtual-network/how-to-virtual-machine-mtu (2024-08-08T05:34:00Z)
+            ☐ Linux VM with multiple NICs https://learn.microsoft.com/azure/virtual-machines/linux/multiple-nics?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-05-02T05:04:00Z)
+            ☐ Windows VM with multiple NICs https://learn.microsoft.com/azure/virtual-machines/windows/multiple-nics?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2024-08-22T17:37:00Z)
+            ☐ Manage a network interface https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-network-interface (2025-02-21T12:12:00Z)
+            Microsoft Azure Network Adapter (MANA):
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-overview (2025-03-14T22:03:00Z)
+                ☐ Linux VMs https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-linux (2025-03-14T22:03:00Z)
+                ☐ Windows VMs https://learn.microsoft.com/en-us/azure/virtual-network/accelerated-networking-mana-windows (2025-02-21T12:12:00Z)
+            ☐ Migrate a VM public IP address to a NAT gateway https://learn.microsoft.com/azure/nat-gateway/tutorial-migrate-ilip-nat?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2024-10-22T05:31:00Z)
+            ☐ Network bandwidth https://learn.microsoft.com/en-us/azure/virtual-network/virtual-machine-network-throughput (2025-04-15T17:03:00Z)
+            ☐ TCP/IP performance tuning https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-tcpip-performance-tuning (2025-04-22T05:11:00Z)
+    Reliability and availability:
+        ☐ Business continuity https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-disaster-recovery-guidance (2025-02-21T12:12:00Z)
+        ☐ Deploy a DHCP server on an Azure VM https://learn.microsoft.com/en-us/azure/virtual-network/how-to-dhcp-azure (2024-08-08T05:34:00Z)
+        Move across regions:
+            Manual relocation:
+                ☐ Network security groups (NSG) https://learn.microsoft.com/azure/operational-excellence/relocation-virtual-network-nsg?toc=%2Fazure%2Fvirtual-network%2Ftoc.json&tabs=azure-portal (2025-04-11T22:03:00Z)
+                ☐ Virtual networks https://learn.microsoft.com/azure/operational-excellence/relocation-virtual-network?toc=%2Fazure%2Fvirtual-network%2Ftoc.json&tabs=azure-portal (2025-04-11T22:03:00Z)
+            ☐ Network interfaces https://learn.microsoft.com/azure/resource-mover/tutorial-move-region-virtual-machines?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-05-08T17:04:00Z)
+            ☐ Network security groups (NSG) https://learn.microsoft.com/azure/resource-mover/tutorial-move-region-virtual-machines?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-05-08T17:04:00Z)
+            ☐ Virtual networks https://learn.microsoft.com/azure/resource-mover/tutorial-move-region-virtual-machines?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-05-08T17:04:00Z)
+    Troubleshoot:
+        ☐ Configure reverse lookup zones for an SMTP banner check https://learn.microsoft.com/en-us/azure/virtual-network/create-ptr-for-smtp-service (2024-08-08T05:34:00Z)
+        ☐ Diagnose a virtual machine network traffic filter problem https://learn.microsoft.com/en-us/azure/virtual-network/diagnose-network-traffic-filter-problem (2025-04-02T05:11:00Z)
+        ☐ Diagnose a virtual machine routing problem https://learn.microsoft.com/en-us/azure/virtual-network/diagnose-network-routing-problem (2025-04-03T22:05:00Z)
+        ☐ Network virtual appliance issues in Azure https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-nva (2025-04-03T22:05:00Z)
+        ☐ Resource logging for a network security group https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-nsg-manage-log (2024-11-22T23:02:00Z)
+        ☐ Test network latency between Azure VMs https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-test-latency (2024-11-11T18:07:00Z)
+        ☐ Test VM network throughput by using NTTTCP https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-bandwidth-testing (2025-04-16T22:02:00Z)
+        ☐ Troubleshoot Azure VM connectivity problems https://learn.microsoft.com/en-us/azure/virtual-network/troubleshoot-vm-connectivity (2025-04-17T22:04:00Z)
+        ☐ Troubleshoot outbound SMTP connectivity problems https://learn.microsoft.com/en-us/azure/virtual-network/troubleshoot-outbound-smtp-connectivity (2025-04-15T17:03:00Z)
+        ☐ Troubleshoot virtual network peering issues https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-peering-issues (2024-08-08T05:34:00Z)
+        ☐ Troubleshoot connectivity problems between Azure VMs https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-connectivity-problem-between-vms (2024-08-08T05:34:00Z)
+        ☐ Troubleshoot virtual network deletion failures https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-troubleshoot-cannot-delete-vnet (2025-04-17T22:04:00Z)
+    Security:
+        ☐ Azure Kubernetes network policies https://learn.microsoft.com/en-us/azure/virtual-network/kubernetes-network-policies (2024-12-31T12:14:00Z)
+        ☐ Azure Policy Regulatory Compliance controls https://learn.microsoft.com/en-us/azure/virtual-network/security-controls-policy (2024-08-08T05:34:00Z)
+        ☐ Azure security baseline for Virtual Network https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-network-security-baseline?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-02-27T14:58:00Z)
+        ☐ Azure Security blog https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog
+        DDoS protection:
+            ☐ Overview https://learn.microsoft.com/azure/ddos-protection/ddos-protection-overview?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-03-26T17:06:00Z)
+            ☐ Create and configure https://learn.microsoft.com/azure/ddos-protection/manage-ddos-protection?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-03-26T17:06:00Z)
+            ☐ Partnering with Azure DDoS Protection https://learn.microsoft.com/azure/ddos-protection/ddos-protection-partner-onboarding?toc=%2Fazure%2Fvirtual-network%2Ftoc.json (2025-03-26T17:06:00Z)
+        Encryption:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-encryption-overview (2025-05-08T22:03:00Z)
+            ☐ Create a virtual network with encryption https://learn.microsoft.com/en-us/azure/virtual-network/how-to-create-encryption (2024-10-24T17:04:00Z)
+            ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-encryption-faq (2025-02-28T19:03:00Z)
+        Network security groups:
+            ☐ How network security groups filter traffic https://learn.microsoft.com/en-us/azure/virtual-network/network-security-group-how-it-works (2025-04-22T22:03:00Z)
+            ☐ Manage network security groups https://learn.microsoft.com/en-us/azure/virtual-network/manage-network-security-group (2025-04-07T22:02:00Z)
+        ☐ Service endpoint policies for Azure Storage https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-service-endpoint-policies-overview (2024-12-31T12:14:00Z)
+        Virtual network TAP:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-tap-overview (2025-05-06T22:03:00Z)
+            ☐ Configure virtual network TAP - Azure portal https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-virtual-network-tap-portal (2025-04-29T05:40:00Z)
+            ☐ Configure virtual network TAP - Azure CLI https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-tap-virtual-network-cli (2025-04-29T05:40:00Z)
+    Reference:
+        ☐ Monitor data reference https://learn.microsoft.com/en-us/azure/virtual-network/monitor-virtual-network-reference (2024-08-08T05:34:00Z)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/azure-cli-reference-for-network (2025-03-25T06:59:00Z)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network (2025-05-06T17:01:00Z)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/virtual-network (2023-10-03T23:36:00Z)
+        ☐ Node.js https://learn.microsoft.com/javascript/azure#azure-sdk (2025-05-01T17:48:00Z)
+        ☐ Python https://azure.microsoft.com/develop/python/
+        ☐ REST https://learn.microsoft.com/rest/api/virtual-network (2024-08-12T18:27:00Z)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.network/allversions (2025-05-05T19:28:00Z)
+        ☐ Code samples https://azure.microsoft.com/resources/samples/?service=virtual-network (2024-11-01T20:16:00Z)
+        ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/virtual-network/policy-reference (2024-08-08T05:34:00Z)
+    Resources:
+        ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/ (2025-03-03T18:01:00Z)
+        ☐ Azure Networking blog https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog
+        ☐ Networking feedback https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789
+        ☐ Pricing https://azure.microsoft.com/pricing/details/virtual-network
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-virtual-network
+

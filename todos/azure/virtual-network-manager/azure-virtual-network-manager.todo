@@ -1,0 +1,78 @@
+Azure Virtual Network Manager documentation | Microsoft Learn:
+    ☐ Virtual Network Manager documentation https://learn.microsoft.com/en-us/azure/virtual-network-manager/ (2024-10-07 10:04 PM)
+    Get started:
+        ☐ What is Azure Virtual Network Manager? https://learn.microsoft.com/en-us/azure/virtual-network-manager/overview (2025-03-11T17:04:00Z)
+        ☐ Common use cases for Azure Virtual Network Manager https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-use-cases (2025-05-08T17:04:00Z)
+        ☐ Limitations https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-limitations (2025-03-21T22:02:00Z)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-network-manager/faq (2025-05-07T05:16:00Z)
+    Deploy:
+        ☐ Deployment overview https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-deployments (2025-05-07T05:16:00Z)
+        Quickstarts:
+            ☐ Create Virtual Network Manager - Portal https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-portal (2025-01-15T18:04:00Z)
+            ☐ Create Virtual Network Manager - PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-powershell (2025-01-30T23:06:00Z)
+            ☐ Create Virtual Network Manager - CLI https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-cli (2025-01-15T18:04:00Z)
+            ☐ Create Virtual Network Manager - Terraform https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-terraform (2025-02-05T18:02:00Z)
+            ☐ Create Virtual Network Manager - ARM https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-template (2024-12-12T05:33:00Z)
+            ☐ Create Virtual Network Manager - Bicep https://learn.microsoft.com/en-us/azure/virtual-network-manager/create-virtual-network-manager-bicep (2024-12-16T23:03:00Z)
+        ☐ Create a secured hub and spoke https://learn.microsoft.com/en-us/azure/virtual-network-manager/tutorial-create-secured-hub-and-spoke (2025-05-06T05:12:00Z)
+        ☐ Resource Manager Templates https://learn.microsoft.com/en-us/azure/virtual-network-manager/resource-manager-template-samples (2024-08-01T17:04:00Z)
+        Cross-tenant connection support:
+            ☐ Cross-tenant connection support https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-cross-tenant (2025-05-07T05:16:00Z)
+            ☐ Configure cross-tenant connection - Portal https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-portal (2024-12-12T05:33:00Z)
+            ☐ Configure cross-tenant connection - CLI https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-cross-tenant-cli (2024-10-15T22:04:00Z)
+        Create a network topology:
+            Hub-and-spoke:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke (2024-12-11T18:03:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke-powershell (2024-12-26T18:03:00Z)
+                ☐ Deploy hub and spoke topology with Azure Firewall https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-deploy-hub-spoke-topology-with-azure-firewall (2025-05-08T17:04:00Z)
+            Mesh:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network (2024-12-11T18:03:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-mesh-network-powershell (2024-12-26T18:03:00Z)
+    Configure:
+        ☐ Scope overview https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-manager-scope (2025-05-07T05:16:00Z)
+        Network groups:
+            ☐ Network groups overview https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-network-groups (2025-05-07T05:16:00Z)
+            ☐ Azure Policy integration with network groups https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-azure-policy-integration (2024-10-21T17:07:00Z)
+            ☐ Define dynamic network group membership with Azure Policy https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-define-network-group-membership-azure-policy (2024-12-11T18:03:00Z)
+        Configuration types:
+            ☐ Connectivity configuration overview https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-connectivity-configuration (2025-05-11T05:10:00Z)
+            Security admin rules:
+                ☐ Security admin rule overview https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admins (2025-02-05T18:02:00Z)
+                ☐ Security admin rule enforcement https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-enforcement (2025-05-07T05:16:00Z)
+                ☐ Network groups as source and destination https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-security-admin-rules-network-group (2024-12-31T12:14:00Z)
+            User-defined routes (UDRs) management:
+                ☐ User-defined routes (UDRs) management overview https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-user-defined-route (2025-04-09T05:10:00Z)
+                ☐ Create user-defined routes (UDRs) https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-user-defined-route (2025-01-31T23:06:00Z)
+                ☐ Manage User-defined Routes (UDRs) across multiple hub-and-spoke topologies https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-manage-user-defined-routes-multiple-hub-spoke-topologies (2025-01-31T23:06:00Z)
+            ☐ View applied configurations https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-view-applied-configurations (2025-05-08T17:04:00Z)
+        ☐ Remove or update network manager components https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-remove-components-checklist (2024-12-31T12:14:00Z)
+    Secure network traffic:
+        Secure network traffic with security admin rules:
+            ☐ Using network groups as source and destination https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-security-admin-rule-network-group (2024-12-12T05:33:00Z)
+            ☐ Block network traffic - Portal https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-block-network-traffic-portal (2024-12-12T05:33:00Z)
+            ☐ Block network traffic -PowerShell https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-block-network-traffic-powershell (2024-08-01T17:04:00Z)
+            ☐ Protect high-risk network ports with security admin rules and exceptions https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-block-high-risk-ports (2024-12-12T05:33:00Z)
+    Manage IP addresses (IPAM):
+        ☐ IP address management overview https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-ip-address-management (2025-02-05T18:02:00Z)
+        ☐ Automate IP address management https://learn.microsoft.com/en-us/azure/virtual-network-manager/automate-ip-address-management-ipam-sample (2025-03-19T22:09:00Z)
+        ☐ Prevent overlapping IP address spaces with Azure Policy and IPAM https://learn.microsoft.com/en-us/azure/virtual-network-manager/prevent-overlapping-ip-address-space-policy-ipam (2025-03-12T22:03:00Z)
+        ☐ Create IP address pools with IPAM https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-manage-ip-addresses-network-manager (2024-12-12T05:33:00Z)
+    Troubleshoot:
+        ☐ Common issues https://learn.microsoft.com/en-us/azure/virtual-network-manager/common-issues (2025-05-07T05:16:00Z)
+        ☐ Event Log Options for Azure Virtual Network Manager https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-event-logs (2025-05-07T05:16:00Z)
+        ☐ Configure Event Logs for Azure Virtual Network Manager https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-configure-event-logs (2024-12-12T05:33:00Z)
+        ☐ Monitoring security admin rules with Virtual Network Flow Logs https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-virtual-network-flow-logs (2025-01-01T18:02:00Z)
+        ☐ Query Azure Virtual Network Manager using Azure Resource Graph (ARG) https://learn.microsoft.com/en-us/azure/virtual-network-manager/query-azure-resource-graph (2025-02-05T18:02:00Z)
+        Virtual Network Verifier:
+            ☐ Virtual Network Verifier overview https://learn.microsoft.com/en-us/azure/virtual-network-manager/concept-virtual-network-verifier (2025-03-13T05:34:00Z)
+            ☐ Verify resource reachability with Virtual Network Verifier https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-verify-reachability-with-virtual-network-verifier (2025-03-13T05:34:00Z)
+    Reference:
+        ☐ Code samples https://azure.microsoft.com/resources/samples/?service=virtual-network-manager (2024-11-01T20:16:00Z)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network#networking (2025-05-06T17:01:00Z)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/manager (2025-03-25T06:59:00Z)
+        ☐ Terraform https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/network_manager
+        ☐ REST https://learn.microsoft.com/rest/api/networkmanager/ (2024-08-06T22:08:00Z)
+        ☐ .NET SDK https://learn.microsoft.com/dotnet/api/microsoft.azure.management.network (2018-06-16T00:36:00Z)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.network/networkmanagers (2025-04-28T19:58:00Z)
+    Resources
+

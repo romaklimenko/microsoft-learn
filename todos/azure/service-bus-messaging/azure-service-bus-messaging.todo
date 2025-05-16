@@ -1,0 +1,192 @@
+Azure Service Bus Messaging documentation | Microsoft Learn:
+    ☐ Service Bus Messaging Documentation https://learn.microsoft.com/en-us/azure/service-bus-messaging/ (2025-03-14 05:33 AM)
+    Overview:
+        ☐ What is Service Bus Messaging? https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-overview (2025-03-14T05:33:00Z)
+        ☐ Use Service Bus with Java Message Service (JMS) 2.0 https://learn.microsoft.com/en-us/azure/service-bus-messaging/how-to-use-java-message-service-20 (2025-03-13T22:03:00Z)
+        ☐ Compare messaging services https://learn.microsoft.com/en-us/azure/service-bus-messaging/compare-messaging-services (2025-04-29T22:02:00Z)
+    Quickstarts:
+        Service Bus queues:
+            Create a Service Bus queue:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-portal (2024-12-12T05:33:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-powershell (2024-03-21T17:07:00Z)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-cli (2024-03-21T17:07:00Z)
+                ☐ Bicep https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-queue-bicep (2024-06-27T17:04:00Z)
+                ☐ ARM template https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-queue (2024-06-27T17:04:00Z)
+            Send and receive messages:
+                ☐ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-get-started-with-queues (2025-01-17T05:34:00Z)
+                ☐ Go https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-go-how-to-use-queues (2024-02-04T12:25:00Z)
+                Java:
+                    ☐ Java https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-java-how-to-use-queues (2025-03-17T11:10:00Z)
+                ☐ JavaScript https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-nodejs-how-to-use-queues (2024-12-05T05:33:00Z)
+                ☐ Python https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-queues (2024-02-07T05:35:00Z)
+                ☐ TypeScript https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-typescript-how-to-use-queues (2024-12-05T05:33:00Z)
+        Services Bus topics and subscriptions:
+            Create topics and subscriptions:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-topics-subscriptions-portal (2024-12-12T05:33:00Z)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-tutorial-topics-subscriptions-cli (2024-03-21T17:07:00Z)
+                ☐ ARM template https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-topic (2024-06-17T22:05:00Z)
+            Publish and subscribe for messages:
+                ☐ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-how-to-use-topics-subscriptions (2025-01-17T05:34:00Z)
+                Java:
+                    ☐ Java https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-java-how-to-use-topics-subscriptions (2025-03-17T11:10:00Z)
+                ☐ JavaScript https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-nodejs-how-to-use-topics-subscriptions (2024-12-05T05:33:00Z)
+                ☐ Python https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-python-how-to-use-topics-subscriptions (2024-02-07T05:35:00Z)
+                ☐ TypeScript https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-typescript-how-to-use-topics-subscriptions (2024-12-05T05:33:00Z)
+    Tutorials:
+        ☐ Update inventory https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-tutorial-topics-subscriptions-portal (2023-06-07T11:14:00Z)
+        Handle Service Bus events via Event Grid:
+            ☐ Azure Logic Apps https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-to-event-grid-integration-example (2024-04-16T18:43:00Z)
+            ☐ Azure Functions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-to-event-grid-integration-function (2024-12-10T05:41:00Z)
+        ☐ Build message-driven business applications with NServiceBus https://learn.microsoft.com/en-us/azure/service-bus-messaging/build-message-driven-apps-nservicebus (2025-01-22T18:07:00Z)
+    Samples:
+        ☐ Service Bus samples https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-samples (2024-12-12T05:33:00Z)
+    Concepts:
+        ☐ Queues, topics, and subscriptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-queues-topics-subscriptions (2024-12-30T18:35:00Z)
+        ☐ Premium messaging https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-premium-messaging (2025-04-16T17:05:00Z)
+        ☐ Compare Azure Queues and Service Bus queues https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-azure-and-service-bus-queues-compared-contrasted (2025-03-21T22:02:00Z)
+        Local emulator:
+            ☐ Overview of Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/overview-emulator (2025-04-14T17:11:00Z)
+            ☐ What's new with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-emulator-whats-new (2025-03-11T17:04:00Z)
+        Advanced features:
+            ☐ Overview of advanced features https://learn.microsoft.com/en-us/azure/service-bus-messaging/advanced-features-overview (2024-07-25T22:38:00Z)
+            ☐ Message sessions https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-sessions (2025-03-21T22:02:00Z)
+            ☐ Duplicate message detection https://learn.microsoft.com/en-us/azure/service-bus-messaging/duplicate-detection (2025-04-10T17:03:00Z)
+            ☐ Topic filters and actions https://learn.microsoft.com/en-us/azure/service-bus-messaging/topic-filters (2025-03-21T22:02:00Z)
+            ☐ Message browsing https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-browsing (2024-07-26T05:35:00Z)
+            ☐ Message transfers, locks, and settlement https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-transfers-locks-settlement (2025-03-21T22:02:00Z)
+            ☐ Dead-letter queues https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dead-letter-queues (2025-02-07T23:03:00Z)
+            ☐ Message deferral https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-deferral (2024-07-26T05:35:00Z)
+            ☐ Prefetch messages https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-prefetch (2025-05-02T22:46:00Z)
+            ☐ Chain entities with auto-forwarding https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-auto-forwarding (2024-11-19T18:02:00Z)
+            ☐ Transaction processing https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-transactions (2024-12-19T23:02:00Z)
+            ☐ Optimize performance https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-performance-improvements (2025-04-29T22:02:00Z)
+            ☐ Geo-Disaster Recovery https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-geo-dr (2024-06-24T22:06:00Z)
+            ☐ Geo-Replication https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-geo-replication (2025-04-15T22:03:00Z)
+            ☐ Asynchronous messaging and high availability https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-async-messaging (2024-10-18T05:37:00Z)
+            ☐ Handling outages and disasters https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-outages-disasters (2024-11-22T05:58:00Z)
+            ☐ Throttling https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-throttling (2024-03-20T05:38:00Z)
+            ☐ Enforce minimum required TLS version https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-enforce-minimum-version (2025-03-18T11:11:00Z)
+            ☐ Delete messages in Service Bus https://learn.microsoft.com/en-us/azure/service-bus-messaging/batch-delete (2024-11-26T23:03:00Z)
+        Federation:
+            ☐ Message replication and cross-region federation https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-overview (2024-09-11T18:38:00Z)
+            ☐ Message replication tasks and applications https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-replicator-functions (2024-06-17T22:05:00Z)
+            ☐ Message replication task patterns https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-patterns (2024-05-24T11:18:00Z)
+            ☐ Configured replication tasks https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-federation-configuration (2024-06-17T22:05:00Z)
+            ☐ Replicate events between Service Bus entities https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/ServiceBusCopy
+            ☐ Replicate messages to Event Hubs https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/ServiceBusCopyToEventHub
+            ☐ Acquire messages from Event Hubs https://github.com/Azure-Samples/azure-messaging-replication-dotnet/tree/main/functions/config/EventHubCopyToServiceBus
+        Security:
+            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/service-bus-messaging-security-baseline?toc=/azure/service-bus-messaging/TOC.json (2025-02-27T14:58:00Z)
+            Authentication and authorization https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-authentication-and-authorization (2025-03-21T22:02:00Z):
+                ☐ Authentication with Shared Access Signatures https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-sas (2025-03-17T17:02:00Z)
+                Use Microsoft Entra ID:
+                    ☐ Authenticate with managed identities for Azure resources https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-managed-service-identity (2025-02-11T23:03:00Z)
+                    ☐ Authenticate from an application https://learn.microsoft.com/en-us/azure/service-bus-messaging/authenticate-application (2025-04-29T22:02:00Z)
+            ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/service-bus-messaging/security-controls-policy (2024-08-02T22:04:00Z)
+            ☐ Network security https://learn.microsoft.com/en-us/azure/service-bus-messaging/network-security (2025-04-16T17:05:00Z)
+        Integration with other services:
+            ☐ Azure Service Bus and Azure Event Grid integration https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-to-event-grid-integration-concept (2024-02-04T12:25:00Z)
+    How-to guides:
+        Develop:
+            ☐ Set subscription filters and actions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-filter-examples (2024-07-18T22:02:00Z)
+            Message handling:
+                ☐ Java message service (JMS) 2.0 entities https://learn.microsoft.com/en-us/azure/service-bus-messaging/java-message-service-20-entities (2023-06-07T11:14:00Z)
+                ☐ Java Message Service (JMS) Developer guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/jms-developer-guide (2025-04-02T17:07:00Z)
+                ☐ Messages, payloads, and serialization https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messages-payloads (2025-02-19T23:01:00Z)
+                ☐ Message sequencing and timestamps https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-sequencing (2025-02-04T23:08:00Z)
+                ☐ Message expiration (Time to Live) https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-expiration (2024-12-17T18:04:00Z)
+            ☐ Migrate from Standard to Premium namespaces https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-standard-premium (2024-12-30T18:35:00Z)
+            ☐ Partitioned queues and topics https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-partitioning (2024-12-19T23:02:00Z)
+            AMQP:
+                ☐ AMQP overview https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-overview (2024-12-02T23:02:00Z)
+                ☐ .NET https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-dotnet (2024-06-17T22:05:00Z)
+                ☐ Java Message Service (JMS) and AMQP https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-java-how-to-use-jms-api-amqp (2024-02-06T18:05:00Z)
+                ☐ AMQP protocol guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-protocol-guide (2024-11-19T18:02:00Z)
+                ☐ AMQP request-response-based operations https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-request-response (2024-03-05T06:00:00Z)
+                ☐ AMQP errors https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-troubleshoot (2024-05-07T05:35:00Z)
+            ☐ Build a multi-tier Service Bus application https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-dotnet-multi-tier-app-using-service-bus-queues (2024-12-17T18:04:00Z)
+            ☐ Test locally with Service Bus emulator https://learn.microsoft.com/en-us/azure/service-bus-messaging/test-locally-with-service-bus-emulator (2025-03-24T22:02:00Z)
+        Migrate:
+            ☐ Migrate from ActiveMQ to Azure Service Bus https://learn.microsoft.com/en-us/azure/service-bus-messaging/migrate-jms-activemq-to-servicebus (2024-08-02T22:04:00Z)
+            ☐ Migrate from Azure Service Manager (classic) APIs to Resource Manager APIs https://learn.microsoft.com/en-us/azure/service-bus-messaging/deprecate-service-bus-management (2025-01-17T05:34:00Z)
+            ☐ Migrate to Passwordless Connections https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-migrate-azure-credentials (2024-08-02T22:04:00Z)
+        Monitor:
+            ☐ End-to-end tracing and diagnostics https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-end-to-end-tracing (2025-05-08T17:04:00Z)
+            ☐ Monitor Azure Service Bus https://learn.microsoft.com/en-us/azure/service-bus-messaging/monitor-service-bus (2024-09-11T18:38:00Z)
+            ☐ Azure Monitor - Service Bus insights https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-insights (2024-09-19T18:07:00Z)
+        Integrate:
+            ☐ Integrate with RabbitMQ https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-integrate-with-rabbitmq (2024-10-10T11:23:00Z)
+        Manage:
+            ☐ Enable sessions for a queue or subscription https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-message-sessions (2024-06-17T22:05:00Z)
+            ☐ Enable duplicate detection for a queue or topic https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-duplicate-detection (2024-06-17T22:05:00Z)
+            ☐ Enable partitions (basic / standard) https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-partitions-basic-standard (2024-06-17T22:05:00Z)
+            ☐ Enable partitions for queues or topics in premium tier https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-partitions-premium (2024-04-30T05:46:00Z)
+            ☐ Enable auto forwarding for a queue or subscription https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-auto-forward (2024-06-17T22:05:00Z)
+            ☐ Enable dead lettering for a queue or subscription https://learn.microsoft.com/en-us/azure/service-bus-messaging/enable-dead-letter (2024-06-17T22:05:00Z)
+            ☐ Get message counters https://learn.microsoft.com/en-us/azure/service-bus-messaging/message-counters (2024-11-01T05:35:00Z)
+            ☐ Move across regions https://learn.microsoft.com/en-us/azure/service-bus-messaging/move-across-regions (2021-06-09T11:04:00Z)
+            ☐ Automatically update messaging units https://learn.microsoft.com/en-us/azure/service-bus-messaging/automate-update-messaging-units (2025-03-31T17:03:00Z)
+            ☐ Use Azure PowerShell to provision entities https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-manage-with-ps (2024-06-27T17:04:00Z)
+            ☐ Service Bus management libraries https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-management-libraries (2024-06-17T22:05:00Z)
+            ☐ Suspend and reactivate messaging entities https://learn.microsoft.com/en-us/azure/service-bus-messaging/entity-suspend (2023-10-16T22:16:00Z)
+            ☐ Use Service Bus Explorer https://learn.microsoft.com/en-us/azure/service-bus-messaging/explorer (2025-04-18T05:11:00Z)
+            ☐ Prepare for planned maintenance https://learn.microsoft.com/en-us/azure/service-bus-messaging/prepare-for-planned-maintenance (2023-07-11T11:17:00Z)
+            Use ARM templates https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-overview (2024-06-27T17:04:00Z):
+                ☐ Create a namespace https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace (2024-06-27T17:04:00Z)
+                ☐ Create an authorization rule for namespace and queue https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-auth-rule (2024-06-27T17:04:00Z)
+                ☐ Create a namespace with topic, subscription, and rule https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-namespace-topic-with-rule (2024-06-17T22:05:00Z)
+        Secure:
+            ☐ Allow access from specific IP addresses https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-ip-filtering (2025-02-10T23:04:00Z)
+            ☐ Allow access from specific virtual networks https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-service-endpoints (2024-10-28T18:09:00Z)
+            ☐ Allow access via private endpoints https://learn.microsoft.com/en-us/azure/service-bus-messaging/private-link-service (2024-12-20T12:09:00Z)
+            ☐ Encrypt data using customer-managed keys https://learn.microsoft.com/en-us/azure/service-bus-messaging/configure-customer-managed-key (2025-04-02T22:06:00Z)
+            ☐ Disable local or SAS authentication https://learn.microsoft.com/en-us/azure/service-bus-messaging/disable-local-authentication (2024-12-17T18:04:00Z)
+            ☐ Configure minimum required TLS version https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-configure-minimum-version (2025-03-18T11:11:00Z)
+            ☐ Audit minimum required TLS version https://learn.microsoft.com/en-us/azure/service-bus-messaging/transport-layer-security-audit-minimum-version (2025-03-18T11:11:00Z)
+        Troubleshoot:
+            ☐ Troubleshooting guide https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-troubleshooting-guide (2025-01-02T23:04:00Z)
+            ☐ SDK troubleshooting guide https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/servicebus/Azure.Messaging.ServiceBus/TROUBLESHOOTING.md
+            ☐ Resource Manager exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-resource-manager-exceptions (2025-04-29T22:02:00Z)
+            ☐ Service Bus exceptions https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions-latest (2025-01-21T18:09:00Z)
+            ☐ Service Bus exceptions (deprecated) https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-exceptions (2025-04-29T22:02:00Z)
+    Reference:
+        ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/service-bus-messaging/monitor-service-bus-reference (2024-12-26T18:03:00Z)
+        .NET:
+            ☐ Migrate from Microsoft.Azure.ServiceBus to Azure.Messaging.ServiceBus https://github.com/Azure/azure-sdk-for-net/blob/master/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide.md
+            ☐ Migrate from WindowsAzure.ServiceBus to Azure.Messaging.ServiceBus https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/servicebus/Azure.Messaging.ServiceBus/MigrationGuide_WindowsAzureServiceBus.md
+            ☐ Azure.Messaging.ServiceBus (.NET Standard - latest) https://learn.microsoft.com/dotnet/api/azure.messaging.servicebus (2020-04-13T07:32:00Z)
+            ☐ Microsoft.Azure.ServiceBus (.NET Standard - legacy) https://learn.microsoft.com/dotnet/api/microsoft.azure.servicebus (2018-06-16T00:36:00Z)
+            ☐ Microsoft.ServiceBus.Messaging (.NET Framework - legacy) https://learn.microsoft.com/dotnet/api/microsoft.servicebus.messaging (2018-06-16T00:36:00Z)
+        Java:
+            ☐ Migrate from azure-servicebus to azure-messaging-servicebus https://github.com/Azure/azure-sdk-for-java/blob/master/sdk/servicebus/azure-messaging-servicebus/migration-guide.md
+        Spring:
+        Python:
+            ☐ azure-servicebus version 7 https://learn.microsoft.com/python/api/overview/azure/servicebus (2025-05-14T11:08:00Z)
+            ☐ Migrate from azure-servicebus version 0.50 to version 7 https://github.com/Azure/azure-sdk-for-python/blob/master/sdk/servicebus/azure-servicebus/migration_guide.md
+        JavaScript:
+            ☐ azure/service-bus version 7 https://learn.microsoft.com/javascript/api/overview/azure/service-bus (2025-05-14T11:09:00Z)
+            ☐ Migrate from version 1 to version 7 https://github.com/Azure/azure-sdk-for-js/blob/master/sdk/servicebus/service-bus/migrationguide.md
+        ☐ Go https://github.com/Azure/azure-sdk-for-go/tree/main/sdk/messaging/azservicebus
+        ☐ PHP https://github.com/Azure/azure-sdk-for-php
+        ☐ Ruby https://github.com/Azure/azure-sdk-for-ruby
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/servicebus (2025-03-25T06:59:00Z)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.servicebus (2025-05-06T17:01:00Z)
+        ☐ REST https://learn.microsoft.com/rest/api/servicebus (2024-08-12T18:27:00Z)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.servicebus/allversions (2025-05-13T19:46:00Z)
+        ☐ Quotas https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quotas (2025-01-17T05:34:00Z)
+        ☐ Subscription Rule SQL filter syntax https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-sql-filter (2023-10-16T22:16:00Z)
+        ☐ Subscription Rule SQL action syntax https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-messaging-sql-rule-action (2024-12-17T18:04:00Z)
+        ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/service-bus-messaging/policy-reference (2024-08-02T22:04:00Z)
+    Resources:
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-faq (2025-01-24T05:34:00Z)
+        ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-service-bus (2025-03-03T18:01:00Z)
+        ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=enterprise-integration
+        ☐ Blog https://learn.microsoft.com/archive/blogs/servicebus/ (2024-09-25T03:21:00Z)
+        ☐ Microsoft Q&A question page https://learn.microsoft.com/answers/tags/73/azure-service-bus
+        ☐ Pricing https://azure.microsoft.com/pricing/details/service-bus/
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Service Bus Explorer https://github.com/paolosalvatori/ServiceBusExplorer
+        ☐ Service updates https://azure.microsoft.com/updates/?product=service-bus
+        ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azureservicebus
+        ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=service-bus
+

@@ -1,0 +1,315 @@
+Azure AI Foundry documentation | Microsoft Learn:
+    ☐ Azure AI Foundry documentation https://learn.microsoft.com/en-us/azure/ai-foundry/ (2025-04-04 10:01 PM)
+    ☐ What is Azure AI Foundry? https://learn.microsoft.com/en-us/azure/ai-foundry/what-is-azure-ai-foundry (2025-04-04T22:01:00Z)
+    ☐ What's new in Azure AI Foundry? https://learn.microsoft.com/en-us/azure/ai-foundry/whats-new-azure-ai-foundry (2025-05-04T05:14:00Z)
+    Get started:
+        Quickstarts:
+            ☐ Use the chat playground https://learn.microsoft.com/en-us/azure/ai-foundry/quickstarts/get-started-playground (2025-04-04T22:01:00Z)
+            ☐ Build basic app with Azure AI Foundry SDK https://learn.microsoft.com/en-us/azure/ai-foundry/quickstarts/get-started-code (2025-02-28T18:31:00Z)
+            ☐ Get started with Azure AI Foundry SDK https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/sdk-overview (2025-04-17T22:02:00Z)
+        In-depth tutorials:
+            Build custom app with Azure AI Foundry SDK:
+                ☐ Part 1: Set up project and install SDK https://learn.microsoft.com/en-us/azure/ai-foundry/tutorials/copilot-sdk-create-resources (2025-04-07T22:00:00Z)
+                ☐ Part 2: Build with data retrieval https://learn.microsoft.com/en-us/azure/ai-foundry/tutorials/copilot-sdk-build-rag (2025-02-28T18:31:00Z)
+                ☐ Part 3: Evaluate the chat app https://learn.microsoft.com/en-us/azure/ai-foundry/tutorials/copilot-sdk-evaluate (2025-02-28T18:31:00Z)
+            ☐ Get started with DeepSeek-R1 reasoning model https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/tutorials/get-started-deepseek-r1?context=/azure/ai-foundry/context/context (2025-04-11T05:16:00Z)
+            ☐ Deploy an enterprise chat web app https://learn.microsoft.com/en-us/azure/ai-foundry/tutorials/deploy-chat-web-app (2025-02-28T18:31:00Z)
+            ☐ Build a RAG solution using Azure AI Search https://learn.microsoft.com/azure/search/tutorial-rag-build-solution?context=/azure/ai-foundry/context/context (2025-04-15T05:17:00Z)
+    Explore AI model capabilities:
+        ☐ Use the model catalog https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/model-catalog-overview (2025-04-14T22:02:00Z)
+        ☐ Data, privacy, and security for Model Catalog https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/concept-data-privacy (2025-02-28T18:31:00Z)
+        ☐ Model lifecycle and retirement https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-lifecycle-retirement (2025-04-12T05:11:00Z)
+        Model leaderboards and benchmarking:
+            ☐ Model leaderboards https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-benchmarks (2025-04-24T17:03:00Z)
+            ☐ Compare models in leaderboards https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/benchmark-model-in-catalog (2025-04-24T17:03:00Z)
+        Model deployment in Azure AI Foundry:
+            ☐ Deploying models in Azure AI Foundry https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/deployments-overview (2025-03-25T05:36:00Z)
+            Azure OpenAI Service:
+                ☐ Azure OpenAI in Azure AI Foundry https://learn.microsoft.com/en-us/azure/ai-foundry/azure-openai-in-ai-foundry (2025-04-07T22:00:00Z)
+                ☐ Use Azure OpenAI Service in Azure AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-foundry/ai-services/how-to/connect-azure-openai (2025-04-04T22:01:00Z)
+                ☐ Deploy Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/deploy-models-openai (2025-04-04T22:01:00Z)
+                ☐ Azure OpenAI Service quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits?context=/azure/ai-foundry/context/context (2025-04-24T22:59:00Z)
+                ☐ Troubleshoot deployments and monitoring https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/troubleshoot-deploy-and-monitor (2025-04-07T22:00:00Z)
+            Azure AI model inference:
+                ☐ What is Azure AI model inference? https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/overview?context=/azure/ai-foundry/context/context (2025-04-22T22:02:00Z)
+                ☐ Deployment types for Azure AI model inference https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/deployment-types?context=/azure/ai-foundry/context/context (2025-03-21T17:00:00Z)
+                ☐ Add and configure models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/create-model-deployments?context=/azure/ai-foundry/context/context (2025-01-28T23:09:00Z)
+                ☐ Featured models supported in Azure AI model inference https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/concepts/models?context=/azure/ai-foundry/context/context (2025-04-30T22:01:00Z)
+                ☐ Supported programming languages and SDKs https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/supported-languages?context=/azure/ai-foundry/context/context (2025-04-07T17:03:00Z)
+                ☐ Use the Azure AI model inference endpoint https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/inference?context=/azure/ai-foundry/context/context (2025-04-11T05:16:00Z)
+                ☐ Azure AI model inference quotas and limits https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/quotas-limits?context=/azure/ai-foundry/context/context (2025-04-12T05:11:00Z)
+            Serverless API:
+                ☐ Deploy models as serverless API https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/deploy-models-serverless (2025-04-04T22:01:00Z)
+                ☐ Consume serverless API models from a different project or hub https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/deploy-models-serverless-connect (2025-04-04T22:01:00Z)
+                ☐ Model and region availability for Serverless API deployments https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/deploy-models-serverless-availability (2025-02-28T23:00:00Z)
+                ☐ Content safety for models deployed with serverless APIs https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-content-safety (2025-02-28T18:31:00Z)
+            Managed compute:
+                ☐ Deploy models via managed compute https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/deploy-models-managed (2025-04-04T22:01:00Z)
+        Work with models from the model catalog:
+            ☐ Featured models in the model catalog https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/models-featured (2025-05-14T17:03:00Z)
+            Other featured models:
+                Healthcare AI models:
+                    ☐ Foundational AI models for healthcare https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/healthcare-ai/healthcare-ai-models (2025-04-24T22:02:00Z)
+                    ☐ MedImageInsight model for embedding https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/healthcare-ai/deploy-medimageinsight (2025-04-24T22:02:00Z)
+                    ☐ CXRReportGen model for text generation https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/healthcare-ai/deploy-cxrreportgen (2025-04-24T22:02:00Z)
+                    ☐ MedImageParse models for prompted segmentation https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/healthcare-ai/deploy-medimageparse (2025-04-24T22:02:00Z)
+                ☐ Nvidia Inference Microservices (NIM) https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/deploy-nvidia-inference-microservice (2025-04-04T22:01:00Z)
+                ☐ Gretel Navigator model https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/deploy-models-gretel-navigator (2025-02-28T18:31:00Z)
+                ☐ Mistral-7B and Mixtral models https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/deploy-models-mistral-open (2025-02-28T18:31:00Z)
+            Work with embedding models:
+                ☐ Work with text embedding models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/use-embeddings?context=/azure/ai-foundry/context/context (2025-04-11T05:16:00Z)
+                ☐ Work with image embedding models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/use-image-embeddings?context=/azure/ai-foundry/context/context (2025-04-11T05:16:00Z)
+            Work with chat models:
+                ☐ Work with chat completion models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/use-chat-completions?context=/azure/ai-foundry/context/context (2025-04-11T05:16:00Z)
+                ☐ Work with reasoning models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/use-chat-reasoning?context=/azure/ai-foundry/context/context (2025-04-11T05:16:00Z)
+                ☐ Work with multimodal models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/use-chat-multi-modal?context=/azure/ai-foundry/context/context (2025-04-11T05:16:00Z)
+            ☐ Work with image models https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/use-image-models (2025-05-03T05:22:00Z)
+    Azure OpenAI and AI services:
+        ☐ Use Azure OpenAI Service in Azure AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-foundry/ai-services/how-to/connect-azure-openai (2025-04-04T22:01:00Z)
+        ☐ Use Azure AI services in Azure AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-services/connect-services-ai-foundry-portal?context=/azure/ai-foundry/context/context (2025-04-14T22:02:00Z)
+        ☐ What are Azure AI services? https://learn.microsoft.com/azure/ai-services/what-are-ai-services (2025-04-04T22:01:00Z)
+        Azure OpenAI:
+            Deploy Azure OpenAI models:
+                ☐ Azure OpenAI in Azure AI Foundry https://learn.microsoft.com/en-us/azure/ai-foundry/azure-openai-in-azure-ai-foundry (2025-04-07T22:00:00Z)
+                ☐ Model region availability https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models?context=/azure/ai-foundry/context/context (2025-05-07T17:02:00Z)
+                ☐ Deployment types https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/deployment-types?context=/azure/ai-foundry/context/context (2025-04-30T22:01:00Z)
+                ☐ Model deployment https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/deploy-models-openai (2025-04-04T22:01:00Z)
+            Generate text:
+                ☐ Batch https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/batch?context=/azure/ai-foundry/context/context (2025-04-11T22:02:00Z)
+                ☐ Reasoning models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/reasoning?context=/azure/ai-foundry/context/context (2025-04-25T22:01:00Z)
+                ☐ Responses API https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/responses?context=/azure/ai-foundry/context/context (2025-05-05T22:07:00Z)
+                ☐ Computer use https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/computer-use?context=/azure/ai-foundry/context/context (2025-03-28T17:11:00Z)
+                ☐ Function calling https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/function-calling?context=/azure/ai-foundry/context/context (2025-04-22T22:02:00Z)
+                ☐ Predicted outputs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/predicted-outputs?context=/azure/ai-foundry/context/context (2025-04-15T17:02:00Z)
+                ☐ Prompt caching https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/prompt-caching?context=/azure/ai-foundry/context/context (2025-04-15T17:02:00Z)
+                ☐ Structured outputs https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/structured-outputs?context=/azure/ai-foundry/context/context (2025-04-16T22:15:00Z)
+                ☐ Use vision-enabled chat https://learn.microsoft.com/en-us/azure/ai-services/openai/gpt-v-quickstart?context=/azure/ai-foundry/context/context (2025-02-21T18:01:00Z)
+            ☐ Generate images https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+            Audio:
+                ☐ Use GPT-4o in the real-time audio playground https://learn.microsoft.com/en-us/azure/ai-services/openai/realtime-audio-quickstart?context=/azure/ai-foundry/context/context (2025-04-28T22:50:00Z)
+                ☐ Audio generation https://learn.microsoft.com/en-us/azure/ai-services/openai/audio-completions-quickstart?context=/azure/ai-foundry/context/context (2025-04-17T17:03:00Z)
+            ☐ Distillation (stored completions) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/stored-completions?context=/azure/ai-foundry/context/context (2025-04-11T22:02:00Z)
+            ☐ Embeddings https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/embeddings?context=/azure/ai-foundry/context/context (2025-03-27T05:32:00Z)
+            ☐ Evaluation https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/evaluations?context=/azure/ai-foundry/context/context (2025-04-30T22:01:00Z)
+            Fine-tuning:
+                ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-foundry/context/context (2025-04-10T17:00:00Z)
+                ☐ When to use Azure OpenAI fine-tuning https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/fine-tuning-considerations?context=/azure/ai-foundry/context/context (2025-03-27T05:32:00Z)
+                ☐ Deploy your Azure OpenAI fine-tuned model https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-deploy?context=/azure/ai-foundry/context/context (2025-05-12T22:00:00Z)
+                ☐ Vision fine-tuning https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-vision?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+                ☐ Preference fine-tuning https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-direct-preference-optimization?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+                ☐ Safety evaluation https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-safety-evaluation?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+                ☐ Tool calling https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-functions?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+                ☐ Weights & Biases integration (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/weights-and-biases-integration?context=/azure/ai-foundry/context/context (2025-03-27T05:32:00Z)
+                ☐ Troubleshooting guidance https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-troubleshoot?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+        Content Safety:
+            ☐ What is Azure AI Content Safety service? https://learn.microsoft.com/en-us/azure/ai-services/content-safety/overview?context=/azure/ai-foundry/context/context (2025-04-09T17:03:00Z)
+            ☐ Prompt Shields quickstart https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-jailbreak?context=/azure/ai-foundry/context/context (2025-05-02T22:14:00Z)
+            ☐ Groundedness detection (preview) quickstart https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-groundedness?context=/azure/ai-foundry/context/context (2025-05-02T22:14:00Z)
+            ☐ Protected material detection for text quickstart https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-protected-material?context=/azure/ai-foundry/context/context (2025-04-11T22:02:00Z)
+            ☐ Custom categories (preview) quickstart https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-custom-categories?context=/azure/ai-foundry/context/context (2025-04-11T22:02:00Z)
+            ☐ Text moderation quickstart https://learn.microsoft.com/en-us/azure/ai-services/content-safety/quickstart-text?context=/azure/ai-foundry/context/context (2025-04-11T22:02:00Z)
+        Content Understanding:
+            ☐ What is Azure AI Content Understanding (preview)? https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview?context=/azure/ai-foundry/context/context (2025-04-27T05:14:00Z)
+            ☐ Use Content Understanding in Azure AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/quickstart/use-ai-foundry?context=/azure/ai-foundry/context/context (2025-04-30T17:05:00Z)
+        Document Intelligence:
+            ☐ What is Azure AI Document Intelligence? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/overview?context=/azure/ai-foundry/context/context (2025-02-06T23:01:00Z)
+        Language:
+            ☐ What is Azure AI Language? https://learn.microsoft.com/en-us/azure/ai-services/language-service/overview?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+            ☐ Conversation Language Understanding https://learn.microsoft.com/en-us/azure/ai-services/language-service/conversational-language-understanding/quickstart?context=/azure/ai-foundry/context/context&pivots=rest-api (2025-04-30T11:10:00Z)
+            ☐ Key Phrase Extraction https://learn.microsoft.com/en-us/azure/ai-services/language-service/key-phrase-extraction/quickstart?context=/azure/ai-foundry/context/context (2025-04-30T17:05:00Z)
+            ☐ Language Detection https://learn.microsoft.com/en-us/azure/ai-services/language-service/language-detection/quickstart?context=/azure/ai-foundry/context/context (2025-04-30T17:05:00Z)
+            ☐ Named Entity Recognition https://learn.microsoft.com/en-us/azure/ai-services/language-service/named-entity-recognition/quickstart?context=/azure/ai-foundry/context/context (2025-04-30T17:05:00Z)
+            ☐ Custom Named Entity Recognition https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-named-entity-recognition/quickstart?context=/azure/ai-foundry/context/context&pivots=rest-api (2025-03-24T05:37:00Z)
+            ☐ Native Document Support https://learn.microsoft.com/en-us/azure/ai-services/language-service/native-document-support/use-native-documents?context=/azure/ai-foundry/context/context (2025-03-06T05:31:00Z)
+            ☐ Orchestration Workflow https://learn.microsoft.com/en-us/azure/ai-services/language-service/orchestration-workflow/quickstart?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+            ☐ Personally Identifiable Information detection https://learn.microsoft.com/en-us/azure/ai-services/language-service/personally-identifiable-information/quickstart?context=/azure/ai-foundry/context/context (2025-04-30T17:05:00Z)
+            ☐ Sentiment Analysis https://learn.microsoft.com/en-us/azure/ai-services/language-service/sentiment-opinion-mining/quickstart?context=/azure/ai-foundry/context/context (2025-04-30T17:05:00Z)
+            ☐ Summarization https://learn.microsoft.com/en-us/azure/ai-services/language-service/summarization/quickstart?context=/azure/ai-foundry/context/context (2025-04-30T17:05:00Z)
+            ☐ Text Analytics for Health https://learn.microsoft.com/en-us/azure/ai-services/language-service/text-analytics-for-health/quickstart?context=/azure/ai-foundry/context/context (2025-04-30T17:05:00Z)
+            ☐ Text Classification https://learn.microsoft.com/en-us/azure/ai-services/language-service/custom-text-classification/quickstart?context=/azure/ai-foundry/context/context (2025-04-30T11:10:00Z)
+        Speech:
+            ☐ What is the Speech service? https://learn.microsoft.com/en-us/azure/ai-services/speech-service/overview?context=/azure/ai-foundry/context/context (2025-03-09T11:08:00Z)
+            ☐ Real-time speech to text https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text?context=/azure/ai-foundry/context/context (2025-03-12T22:01:00Z)
+            ☐ Fast transcription https://learn.microsoft.com/en-us/azure/ai-services/speech-service/fast-transcription-create?context=/azure/ai-foundry/context/context (2025-05-04T05:14:00Z)
+            ☐ Pronunciation assessment https://learn.microsoft.com/en-us/azure/ai-services/speech-service/pronunciation-assessment-tool?context=/azure/ai-foundry/context/context (2025-03-09T11:08:00Z)
+            ☐ Speech translation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-translation?context=/azure/ai-foundry/context/context (2025-03-09T11:08:00Z)
+            ☐ Hear and speak with chat in the playground https://learn.microsoft.com/en-us/azure/ai-foundry/quickstarts/hear-speak-playground (2025-02-28T18:31:00Z)
+            ☐ Custom speech fine-tuning https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-create-project?context=/azure/ai-foundry/context/context (2025-04-14T22:02:00Z)
+        Translator:
+            ☐ What is Azure AI Translator? https://learn.microsoft.com/en-us/azure/ai-services/translator/overview?context=/azure/ai-foundry/context/context (2025-04-15T11:05:00Z)
+            ☐ Azure AI Translator language support https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support?context=/azure/ai-foundry/context/context (2025-04-15T11:05:00Z)
+            ☐ Text translation https://learn.microsoft.com/en-us/azure/ai-services/translator/text-translation/overview?context=/azure/ai-foundry/context/context (2025-04-15T11:05:00Z)
+            ☐ Document translation https://learn.microsoft.com/en-us/azure/ai-services/translator/document-translation/overview?context=/azure/ai-foundry/context/context (2025-04-15T11:05:00Z)
+            ☐ Custom Translator https://learn.microsoft.com/en-us/azure/ai-services/translator/custom-translator/overview?context=/azure/ai-foundry/context/context (2025-04-15T11:05:00Z)
+            ☐ Prebuilt solutions https://learn.microsoft.com/en-us/azure/ai-services/translator/solutions/overview?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+        Vision:
+            Azure Image Analysis:
+                ☐ What is Image Analysis? https://learn.microsoft.com/azure/ai-services/computer-vision/overview-image-analysis?context=/azure/ai-foundry/context/context (2025-05-02T11:11:00Z)
+                ☐ Quickstart https://learn.microsoft.com/azure/ai-services/computer-vision/quickstarts-sdk/image-analysis-client-library-40?context=/azure/ai-foundry/context/context (2025-05-02T11:11:00Z)
+                ☐ Optical Character Recognition concepts https://learn.microsoft.com/azure/ai-services/computer-vision/concept-ocr?context=/azure/ai-foundry/context/context (2025-05-02T11:11:00Z)
+                ☐ Image captioning concepts https://learn.microsoft.com/azure/ai-services/computer-vision/concept-describe-images-40?context=/azure/ai-foundry/context/context (2025-05-02T11:11:00Z)
+            Azure AI Face:
+                ☐ What is Azure AI Face service? https://learn.microsoft.com/azure/ai-services/computer-vision/overview-identity?context=/azure/ai-foundry/context/context (2025-02-25T12:05:00Z)
+                ☐ Quickstart https://learn.microsoft.com/azure/ai-services/computer-vision/quickstarts-sdk/identity-client-library?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+                ☐ Face detection concepts https://learn.microsoft.com/azure/ai-services/computer-vision/concept-face-detection?context=/azure/ai-foundry/context/context (2025-03-26T22:02:00Z)
+                ☐ Face recognition concepts https://learn.microsoft.com/azure/ai-services/computer-vision/concept-face-recognition?context=/azure/ai-foundry/context/context (2025-05-02T22:14:00Z)
+                ☐ Liveness detection tutorial https://learn.microsoft.com/azure/ai-services/computer-vision/tutorials/liveness?context=/azure/ai-foundry/context/context (2025-04-08T22:02:00Z)
+    Solutions:
+        Agents:
+            ☐ What is Azure AI Agent Service https://learn.microsoft.com/en-us/azure/ai-services/agents/overview?context=/azure/ai-foundry/context/context (2025-04-30T17:05:00Z)
+            ☐ Quickstart: Create a new agent https://learn.microsoft.com/en-us/azure/ai-services/agents/quickstart?context=/azure/ai-foundry/context/context (2025-02-24T23:00:00Z)
+        Azure AI Search for RAG:
+            ☐ Retrieval Augmented Generation (RAG) overview https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/retrieval-augmented-generation (2025-04-03T22:03:00Z)
+            ☐ Use Azure AI Search https://learn.microsoft.com/azure/search/search-what-is-azure-search?context=/azure/ai-foundry/context/context (2025-04-15T22:02:00Z)
+            ☐ Build and consume vector indexes (Portal) https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/index-add (2025-02-28T18:31:00Z)
+            ☐ Build a RAG solution using Azure AI Search https://learn.microsoft.com/azure/search/tutorial-rag-build-solution?context=/azure/ai-foundry/context/context (2025-04-15T05:17:00Z)
+        Develop with code:
+            ☐ Work in VS Code (Preview) https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/get-started-projects-vs-code (2025-05-07T22:02:00Z)
+            ☐ Use the Azure AI Agent service in VS Code (Preview) https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/vs-code-agents (2025-05-07T22:02:00Z)
+            ☐ Work with projects in VS Code containers https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/vscode (2025-03-20T17:01:00Z)
+            ☐ Start with an AI template https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/ai-template-get-started (2025-04-28T22:07:00Z)
+            ☐ Develop with LangChain https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/langchain (2025-03-12T05:31:00Z)
+            ☐ Develop with LlamaIndex https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/llama-index (2025-03-12T05:31:00Z)
+            ☐ Develop with Semantic Kernel https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/semantic-kernel (2025-02-28T18:31:00Z)
+    Optimizations:
+        Prompt engineering:
+            ☐ Prompt engineering techniques https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering?context=/azure/ai-foundry/context/context (2025-04-17T17:03:00Z)
+            ☐ Image prompt engineering https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/gpt-4-v-prompt-engineering?context=/azure/ai-foundry/context/context (2025-04-04T17:21:00Z)
+            ☐ Synthetic Data Generation https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/concept-synthetic-data (2025-04-04T22:01:00Z)
+        Fine-tuning:
+            ☐ Fine-tuning in Azure AI Foundry https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/fine-tuning-overview (2025-02-28T18:31:00Z)
+            Fine-tune Azure AI Foundry models:
+                ☐ Fine-tune models deployed via serverless API https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/fine-tune-serverless (2025-04-15T22:02:00Z)
+                ☐ Fine-tune models deployed via managed compute https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/fine-tune-managed-compute (2025-04-26T05:17:00Z)
+            Fine-tune Azure OpenAI models:
+                ☐ Fine-tune Azure OpenAI models https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning?context=/azure/ai-foundry/context/context (2025-04-10T17:00:00Z)
+                ☐ When to use Azure OpenAI fine-tuning https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/fine-tuning-considerations?context=/azure/ai-foundry/context/context (2025-03-27T05:32:00Z)
+                ☐ Deploy your Azure OpenAI fine-tuned model https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-deploy?context=/azure/ai-foundry/context/context (2025-05-12T22:00:00Z)
+                ☐ Vision fine-tuning https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-vision?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+                ☐ Preference fine-tuning https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-direct-preference-optimization?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+                ☐ Safety evaluation https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-safety-evaluation?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+                ☐ Tool calling https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-functions?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+                ☐ Weights & Biases integration (preview) https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/weights-and-biases-integration?context=/azure/ai-foundry/context/context (2025-03-27T05:32:00Z)
+                ☐ Troubleshooting guidance https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/fine-tuning-troubleshoot?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+            ☐ Distillation https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/concept-model-distillation (2025-04-04T22:01:00Z)
+        Tracing:
+            ☐ Tracing in Azure AI Foundry https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/trace (2025-04-07T11:18:00Z)
+            ☐ Trace your application with Azure AI Inference SDK https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/trace-local-sdk (2025-04-07T11:18:00Z)
+            ☐ Visualize your traces https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/visualize-traces (2025-04-17T22:02:00Z)
+        Evaluating generative AI apps:
+            Evaluations concepts:
+                ☐ Evaluation of generative AI models and AI applications https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/evaluation-approach-gen-ai (2025-04-04T11:14:00Z)
+                ☐ Evaluation and monitoring metrics for generative AI https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/evaluation-metrics-built-in (2025-04-04T22:01:00Z)
+            ☐ Manually evaluate prompts in the playground https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/evaluate-prompts-playground (2025-02-28T18:31:00Z)
+            ☐ Generate synthetic and simulated data for evaluation https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/simulator-interaction-data (2025-04-09T22:01:00Z)
+            ☐ Evaluate agents locally with Azure AI Evaluation SDK https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/agent-evaluate-sdk (2025-04-30T22:01:00Z)
+            ☐ Evaluate apps locally with Azure AI Evaluation SDK https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/evaluate-sdk (2025-04-30T22:01:00Z)
+            ☐ Evaluate apps in the cloud with Azure AI Projects SDK https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/cloud-evaluation (2025-04-30T22:01:00Z)
+            AI red teaming:
+                ☐ AI red teaming overview https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/ai-red-teaming-agent (2025-04-04T11:14:00Z)
+                ☐ Run automated scans with AI Red Teaming Agent https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/run-scans-ai-red-teaming-agent (2025-04-17T22:02:00Z)
+            ☐ Run evaluations from the portal https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/evaluate-generative-ai-app (2025-02-28T18:31:00Z)
+            ☐ View evaluation results in the portal https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/evaluate-results (2025-04-01T11:11:00Z)
+            ☐ Run evaluations online https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/online-evaluation (2025-02-28T18:31:00Z)
+            ☐ Run an evaluation in GitHub Action https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/evaluation-github-action (2025-05-09T11:10:00Z)
+            ☐ A/B experimentation https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/a-b-experimentation (2025-02-28T18:31:00Z)
+        Build apps with prompt flow:
+            ☐ Prompt flow overview https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/prompt-flow (2025-05-02T11:11:00Z)
+            Develop flows:
+                ☐ Create and manage compute session https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/create-manage-compute-session (2025-02-28T18:31:00Z)
+                ☐ Create a flow https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/flow-develop (2025-05-02T11:11:00Z)
+                ☐ Tune prompts using variants https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/flow-tune-prompts-using-variants (2025-05-02T11:11:00Z)
+                ☐ Process images in a flow https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/flow-process-image (2025-05-02T11:11:00Z)
+                Evaluate flows in the portal:
+                    ☐ Submit batch run and evaluate a flow https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/flow-bulk-test-evaluation (2025-05-02T11:11:00Z)
+                    ☐ Develop an evaluation flow in Prompt flow https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/flow-develop-evaluation (2025-05-02T11:11:00Z)
+                Use prompt flow tools:
+                    ☐ Prompt flow tools overview https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/prompt-flow-tools/prompt-flow-tools-overview (2025-05-02T11:11:00Z)
+                    ☐ LLM tool https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/prompt-flow-tools/llm-tool (2025-05-02T11:11:00Z)
+                    ☐ Prompt tool https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/prompt-flow-tools/prompt-tool (2025-05-02T11:11:00Z)
+                    ☐ Python tool https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/prompt-flow-tools/python-tool (2025-05-02T11:11:00Z)
+                    ☐ Azure OpenAI GPT-4 Turbo with Vision tool https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/prompt-flow-tools/azure-open-ai-gpt-4v-tool (2025-05-02T11:11:00Z)
+                    ☐ Index Lookup tool https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/prompt-flow-tools/index-lookup-tool (2025-05-02T11:11:00Z)
+                    ☐ Rerank tool https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/prompt-flow-tools/rerank-tool (2025-05-02T11:11:00Z)
+                    ☐ Content Safety tool https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/prompt-flow-tools/content-safety-tool (2025-05-02T11:11:00Z)
+                    ☐ Embedding tool https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/prompt-flow-tools/embedding-tool (2025-05-02T11:11:00Z)
+                    ☐ Serp API tool https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/prompt-flow-tools/serp-api-tool (2025-05-02T11:11:00Z)
+            Deploy and monitor generative AI apps:
+                ☐ Continuously monitor your applications https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/monitor-applications (2025-02-28T18:31:00Z)
+                Deploy and monitor flows:
+                    ☐ Deploy a flow for real-time inference https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/flow-deploy (2025-05-02T11:11:00Z)
+                    ☐ Enable tracing and collect feedback for a flow deployment https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/trace-production-sdk (2025-04-04T22:01:00Z)
+                    ☐ Monitor prompt flow deployments https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/monitor-quality-safety (2025-04-24T17:03:00Z)
+                    ☐ Troubleshoot prompt flow https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/prompt-flow-troubleshoot (2025-05-02T11:11:00Z)
+    Management center:
+        ☐ Management center overview https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/management-center (2025-04-04T22:01:00Z)
+        Manage projects and hubs:
+            ☐ Create a project https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/create-projects (2025-04-04T22:01:00Z)
+            ☐ Hubs and projects overview https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/ai-resources (2025-04-04T22:01:00Z)
+            ☐ Create your first hub https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/create-azure-ai-resource (2025-04-04T22:01:00Z)
+            ☐ Create a hub using the Azure Machine Learning SDK and CLI https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/create-hub-project-sdk (2025-02-28T18:31:00Z)
+            Create a hub with custom security:
+                ☐ Create a hub in the Azure portal https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/create-secure-ai-hub (2025-04-04T22:01:00Z)
+                ☐ Create a hub from template https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/create-azure-ai-hub-template (2025-04-04T22:01:00Z)
+                ☐ Create a hub using Terraform https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/create-hub-terraform (2025-03-07T23:04:00Z)
+        ☐ Create and manage compute https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/create-manage-compute (2025-02-28T18:31:00Z)
+        Connections:
+            ☐ Connections overview https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/connections (2025-04-04T22:01:00Z)
+            ☐ Create a connection https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/connections-add (2025-04-04T22:01:00Z)
+            ☐ Create a connection using the Azure Machine Learning SDK https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/develop/connections-add-sdk (2025-04-14T22:02:00Z)
+        ☐ Add and manage data in Azure AI Foundry https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/data-add (2025-03-21T22:00:00Z)
+        Costs and quotas:
+            ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/costs-plan-manage (2025-04-25T22:01:00Z)
+            ☐ Manage quotas https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/quota (2025-02-28T18:31:00Z)
+            ☐ Increase rate limit https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/autoscale (2025-03-27T17:06:00Z)
+    Security & Governance:
+        Identity & access management:
+            ☐ Role-based access control in Azure AI Foundry portal https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/rbac-azure-ai-foundry (2025-04-04T22:01:00Z)
+        Network security:
+            ☐ Configure managed network https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/configure-managed-network (2025-03-07T23:04:00Z)
+            ☐ Configure private link https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/configure-private-link (2025-05-06T22:00:00Z)
+            ☐ Secure playground chat https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/secure-data-playground (2025-02-28T18:31:00Z)
+            ☐ Securely access on-premises resources https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/access-on-premises-resources (2025-02-28T18:31:00Z)
+            ☐ Troubleshoot secure project connectivity https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/troubleshoot-secure-connection-project (2025-04-30T17:05:00Z)
+        Data protection & encryption:
+            ☐ Configure customer-managed keys https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/encryption-keys-portal (2025-03-20T22:04:00Z)
+            ☐ Rotate keys https://learn.microsoft.com/en-us/azure/ai-services/rotate-keys?context=/azure/ai-foundry/context/context (2025-03-24T05:37:00Z)
+            ☐ Disable shared key access to storage https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/disable-local-auth (2025-02-28T18:31:00Z)
+        Azure policies:
+            ☐ Audit and manage using Azure Policy https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/azure-policy (2025-04-07T17:03:00Z)
+            ☐ Built-in policy to allow specific models https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/built-in-policy-model-deployment (2025-02-28T18:31:00Z)
+            ☐ Custom policy to allow specific models https://learn.microsoft.com/en-us/azure/ai-foundry/model-inference/how-to/configure-deployment-policies (2025-04-17T22:02:00Z)
+        ☐ Vulnerability management https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/vulnerability-management (2025-02-28T18:31:00Z)
+        ☐ Disaster recovery https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/disaster-recovery (2025-03-27T17:06:00Z)
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-ai-studio-security-baseline (2025-05-01T20:34:00Z)
+    Responsible AI:
+        ☐ Responsible AI overview https://learn.microsoft.com/en-us/azure/ai-foundry/responsible-use-of-ai-overview (2025-05-02T22:14:00Z)
+        ☐ Azure AI Content Safety in AI Foundry portal overview https://learn.microsoft.com/en-us/azure/ai-foundry/ai-services/content-safety-overview (2025-05-02T22:14:00Z)
+        ☐ Content safety for models deployed with serverless APIs https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/model-catalog-content-safety (2025-02-28T18:31:00Z)
+        ☐ Content filtering https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/content-filtering (2025-05-02T22:14:00Z)
+        ☐ Use blocklists https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/use-blocklists (2025-05-02T22:14:00Z)
+        ☐ Transparency notes for Azure AI Services https://learn.microsoft.com/en-us/azure/ai-services/responsible-use-of-ai-overview?context=/azure/ai-foundry/context/context (2025-05-02T22:14:00Z)
+        ☐ Limited Access features https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-limited-access?context=/azure/ai-foundry/context/context (2025-03-26T22:02:00Z)
+        ☐ System message templates https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/system-message?context=/azure/ai-foundry/context/context (2025-03-27T05:32:00Z)
+        ☐ Transparency Note for safety evaluations https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/safety-evaluations-transparency-note (2025-02-28T18:31:00Z)
+    SDK + API Reference:
+        ☐ Azure AI Projects SDK https://learn.microsoft.com/python/api/overview/azure/ai-projects-readme (2025-04-24T11:07:00Z)
+        ☐ Azure AI Evaluation SDK https://learn.microsoft.com/python/api/overview/azure/ai-evaluation-readme (2025-05-07T11:08:00Z)
+        ☐ Azure Machine Learning Python SDK https://learn.microsoft.com/python/api/overview/azure/ai-ml-readme (2025-05-14T11:08:00Z)
+        ☐ Azure Machine Learning REST API https://learn.microsoft.com/rest/api/azureml (2024-08-06T22:08:00Z)
+        ☐ Azure AI services SDKs https://learn.microsoft.com/en-us/azure/ai-services/reference/sdk-package-resources?context=/azure/ai-foundry/context/context (2024-08-28T16:59:00Z)
+        ☐ Azure AI services REST APIs https://learn.microsoft.com/en-us/azure/ai-services/reference/rest-api-resources?context=/azure/ai-foundry/context/context (2025-02-09T12:10:00Z)
+        ☐ Azure AI Model Inference API https://learn.microsoft.com/rest/api/aifoundry/modelinference (2025-05-02T05:15:00Z)
+    Other resources:
+        ☐ Azure AI FAQ https://learn.microsoft.com/en-us/azure/ai-foundry/faq (2025-04-04T22:01:00Z)
+        ☐ Azure AI Foundry architecture https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/architecture (2025-04-04T22:01:00Z)
+        ☐ Support & help options https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-support-options?context=/azure/ai-foundry/context/context (2025-05-02T22:14:00Z)
+        ☐ Use Azure AI Foundry with a screen reader https://learn.microsoft.com/en-us/azure/ai-foundry/tutorials/screen-reader (2025-04-04T22:01:00Z)
+        ☐ Region support https://azure.microsoft.com/global-infrastructure/services/?products=cognitive-services
+        ☐ Azure updates https://azure.microsoft.com/updates/?query=cognitive%20services
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Compliance https://azure.microsoft.com/support/legal/cognitive-services-compliance-and-privacy/
+        ☐ Service Level Agreement (SLA) https://azure.microsoft.com/support/legal/sla/cognitive-services/v1_1/
+        ☐ Azure Government https://learn.microsoft.com/azure/azure-government/compare-azure-government-global-azure (2025-04-23T05:33:00Z)
+        ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/ai-services/policy-reference?context=/azure/ai-foundry/context/context (2025-02-02T12:05:00Z)
+

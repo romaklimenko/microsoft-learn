@@ -1,0 +1,191 @@
+Azure Application Gateway documentation | Microsoft Learn:
+    ☐ Application Gateway documentation https://learn.microsoft.com/en-us/azure/application-gateway/ (2025-01-09 11:01 PM)
+    Get started:
+        ☐ Application Gateway overview https://learn.microsoft.com/en-us/azure/application-gateway/overview (2024-12-10T23:02:00Z)
+        ☐ Application Gateway v2 https://learn.microsoft.com/en-us/azure/application-gateway/overview-v2 (2024-12-23T18:06:00Z)
+        ☐ Application Gateway for Containers https://learn.microsoft.com/en-us/azure/application-gateway/for-containers/overview (2025-03-20T05:35:00Z)
+        ☐ Create Application Gateway - Portal https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-portal (2024-09-04T11:18:00Z)
+        ☐ Create Application Gateway - PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-powershell (2024-08-02T22:04:00Z)
+        ☐ Create Application Gateway - Azure CLI https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-cli (2024-08-22T19:16:00Z)
+        ☐ Create Application Gateway - Bicep https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-bicep (2024-08-02T22:04:00Z)
+        ☐ Create Application Gateway - ARM template https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-template (2024-08-02T22:04:00Z)
+        ☐ Create Application Gateway - Terraform https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-terraform (2024-08-02T22:04:00Z)
+    Design:
+        ☐ Architecture best practices for Azure Application Gateway v2 https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-application-gateway?toc=/azure/application-gateway/toc.json&bc=/azure/application-gateway/breadcrumb/toc.json (2025-05-12T22:00:00Z)
+        Basics:
+            ☐ Application Gateway features https://learn.microsoft.com/en-us/azure/application-gateway/features (2025-04-15T17:03:00Z)
+            ☐ How Application Gateway works https://learn.microsoft.com/en-us/azure/application-gateway/how-application-gateway-works (2024-12-29T12:12:00Z)
+            ☐ Application Gateway components https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-components (2025-02-11T05:34:00Z)
+        Configuration:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/application-gateway/configuration-overview (2024-08-02T22:04:00Z)
+            ☐ Infrastructure https://learn.microsoft.com/en-us/azure/application-gateway/configuration-infrastructure (2025-03-07T12:14:00Z)
+            ☐ Frontend IP address https://learn.microsoft.com/en-us/azure/application-gateway/configuration-frontend-ip (2024-12-29T12:12:00Z)
+            ☐ Listeners https://learn.microsoft.com/en-us/azure/application-gateway/configuration-listeners (2025-01-09T23:01:00Z)
+            ☐ Request routing rules https://learn.microsoft.com/en-us/azure/application-gateway/configuration-request-routing-rules (2024-12-29T12:12:00Z)
+            ☐ Backend settings https://learn.microsoft.com/en-us/azure/application-gateway/configuration-http-settings (2025-05-12T17:04:00Z)
+        Routing:
+            ☐ Multi-site hosting https://learn.microsoft.com/en-us/azure/application-gateway/multiple-site-overview (2025-03-05T12:08:00Z)
+            ☐ URL routing https://learn.microsoft.com/en-us/azure/application-gateway/url-route-overview (2024-08-02T22:04:00Z)
+            ☐ Redirection https://learn.microsoft.com/en-us/azure/application-gateway/redirect-overview (2024-08-02T22:04:00Z)
+            ☐ Rewrite HTTP headers and URL https://learn.microsoft.com/en-us/azure/application-gateway/rewrite-http-headers-url (2025-02-10T23:04:00Z)
+        ☐ TCP/TLS proxy https://learn.microsoft.com/en-us/azure/application-gateway/tcp-tls-proxy-overview (2024-09-06T11:18:00Z)
+        ☐ Support for working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/application-gateway/toc.json (2024-12-30T23:05:00Z)
+        ☐ High traffic support https://learn.microsoft.com/en-us/azure/application-gateway/high-traffic-support (2025-05-09T22:02:00Z)
+        ☐ Autoscaling v2 SKU https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-autoscaling-zone-redundant (2025-04-25T17:04:00Z)
+        ☐ WebSocket support https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-websocket (2024-12-29T12:12:00Z)
+        ☐ Ingress for AKS https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-overview (2025-03-31T23:30:00Z)
+        ☐ Understanding pricing https://learn.microsoft.com/en-us/azure/application-gateway/understanding-pricing (2024-12-29T12:12:00Z)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-faq (2025-04-30T22:04:00Z)
+    Security:
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/application-gateway-security-baseline?toc=/azure/application-gateway/toc.json (2025-02-27T14:58:00Z)
+        ☐ Private Deployment https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-private-deployment (2025-04-15T22:03:00Z)
+        ☐ Private Link https://learn.microsoft.com/en-us/azure/application-gateway/private-link (2025-05-06T22:03:00Z)
+        ☐ Secure with SSL https://learn.microsoft.com/en-us/azure/application-gateway/create-ssl-portal (2024-12-29T12:12:00Z)
+        ☐ SSL termination and end to end SSL https://learn.microsoft.com/en-us/azure/application-gateway/ssl-overview (2025-01-24T05:34:00Z)
+        ☐ SSL policy overview https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-ssl-policy-overview (2025-03-04T12:13:00Z)
+        ☐ Mutual authentication https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-overview (2024-12-29T12:12:00Z)
+        ☐ Using Key Vault https://learn.microsoft.com/en-us/azure/application-gateway/key-vault-certs (2024-12-29T12:12:00Z)
+        ☐ SSL certificate management https://learn.microsoft.com/en-us/azure/application-gateway/ssl-certificate-management (2024-12-29T12:12:00Z)
+        ☐ TLS 1.0 and 1.1 retirement https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-tls-version-retirement (2025-04-08T17:07:00Z)
+        ☐ Network security blog https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog
+    Deploy:
+        ☐ Host multiple sites https://learn.microsoft.com/en-us/azure/application-gateway/create-multiple-sites-portal (2024-12-29T12:12:00Z)
+        ☐ Route by URL https://learn.microsoft.com/en-us/azure/application-gateway/create-url-route-portal (2025-02-05T23:02:00Z)
+        ☐ Redirect web traffic https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-url-redirect-cli (2024-08-22T19:16:00Z)
+        ☐ Autoscaling and zone redundant https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-autoscale-ps (2025-01-09T23:01:00Z)
+        ☐ Deploy Application Gateway with DDoS protection https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-protect-application-gateway (2024-12-29T12:12:00Z)
+        Configure TCP/TLS proxy:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/how-to-tcp-tls-proxy (2025-05-12T22:03:00Z)
+        Host single site:
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-manage-web-traffic-powershell (2024-08-22T19:16:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-manage-web-traffic-cli (2024-08-22T19:16:00Z)
+        Configure internal load balancer:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/configure-application-gateway-with-private-frontend-ip (2024-12-30T18:35:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-ilb-arm (2024-12-24T23:07:00Z)
+        Configure SSL:
+            SSL termination:
+                ☐ SSL termination - PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ssl-powershell (2024-08-22T19:16:00Z)
+                ☐ SSL termination - Azure CLI https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ssl-cli (2024-08-22T19:16:00Z)
+                ☐ Configure Key Vault - PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/configure-keyvault-ps (2024-08-07T22:04:00Z)
+                ☐ Configure Key Vault - Portal https://learn.microsoft.com/en-us/azure/application-gateway/configure-key-vault-portal (2024-08-07T22:04:00Z)
+            End-to-end SSL:
+                ☐ End-to-end SSL - Portal https://learn.microsoft.com/en-us/azure/application-gateway/end-to-end-ssl-portal (2024-08-02T22:04:00Z)
+                ☐ End-to-end SSL - PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-end-to-end-ssl-powershell (2024-08-06T22:05:00Z)
+            Mutual authentication:
+                ☐ Mutual authentication - Portal https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-portal (2024-08-02T22:04:00Z)
+                ☐ Mutual authentication - PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-powershell (2024-08-02T22:04:00Z)
+            Manage certificates:
+                ☐ Certificates for the backend https://learn.microsoft.com/en-us/azure/application-gateway/certificates-for-backend-authentication (2024-08-02T22:04:00Z)
+                ☐ Renew certificates https://learn.microsoft.com/en-us/azure/application-gateway/renew-certificates (2025-03-31T22:05:00Z)
+                ☐ Generate self-signed certificates for backend https://learn.microsoft.com/en-us/azure/application-gateway/self-signed-certificates (2024-08-02T22:04:00Z)
+                ☐ Trusted client certificates https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-certificate-management (2024-08-02T22:04:00Z)
+            SSL policy:
+                ☐ Configure SSL policy https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-configure-ssl-policy-powershell (2024-08-02T22:04:00Z)
+                ☐ Listener specific SSL policy https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-configure-listener-specific-ssl-policy (2024-08-02T22:04:00Z)
+        Ingress for AKS:
+            ☐ Ingress for AKS via Helm (Greenfield) https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-install-new (2025-04-05T05:11:00Z)
+            ☐ Ingress Controller add-on for AKS (Greenfield) https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-new (2025-04-18T17:02:00Z)
+            ☐ Ingress for AKS via Helm (Brownfield) https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-install-existing (2025-04-05T05:11:00Z)
+            ☐ Ingress Controller add-on for AKS (Brownfield) https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-ingress-controller-add-on-existing (2025-04-21T22:06:00Z)
+            ☐ Migrate from Helm deployment to AKS add-on https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-migration (2025-02-28T18:05:00Z)
+            ☐ Disable and re-enable AKS Ingress Controller add-on https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-disable-addon (2025-02-28T18:05:00Z)
+            ☐ Enable cookie affinity https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-cookie-affinity (2025-02-28T18:05:00Z)
+            ☐ Enable multiple namespace support https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-multiple-namespace-support (2025-02-28T18:05:00Z)
+            ☐ Use private IP for internal routing https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-private-ip (2024-12-29T12:12:00Z)
+            ☐ Add health probes to AKS pods https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-add-health-probes (2025-02-28T18:05:00Z)
+            ☐ Use Application Gateway to expose AKS service over HTTP/HTTPS https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-expose-service-over-http-https (2024-12-29T12:12:00Z)
+            ☐ Upgrade ingress controller using Helm https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-update-ingress-controller (2025-04-05T05:11:00Z)
+            ☐ Use LetsEncrypt.org with Application Gateway https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-letsencrypt-certificate-application-gateway (2025-02-28T18:05:00Z)
+            ☐ Expose WebSocket to Application Gateway https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-expose-websocket-server (2025-02-28T18:05:00Z)
+            ☐ Autoscale AKS pods with Application Gateway metrics https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-autoscale-pods (2024-12-29T12:12:00Z)
+        Route by URL:
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-url-route-powershell (2024-08-22T19:16:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-url-route-cli (2024-08-02T22:04:00Z)
+        Host multiple sites:
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-multiple-sites-powershell (2024-08-02T22:04:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-multiple-sites-cli (2024-08-02T22:04:00Z)
+        IPv6 frontend:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/ipv6-application-gateway-portal (2024-08-02T22:04:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/ipv6-application-gateway-powershell (2024-08-22T19:16:00Z)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/application-gateway/ipv6-application-gateway-arm-template (2024-08-02T22:04:00Z)
+        Redirect traffic:
+            External traffic:
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/redirect-external-site-powershell (2024-08-02T22:04:00Z)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/application-gateway/redirect-external-site-cli (2025-01-09T23:01:00Z)
+            HTTP to HTTPS:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/redirect-http-to-https-portal (2024-08-22T19:16:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/redirect-http-to-https-powershell (2024-08-22T19:16:00Z)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/application-gateway/redirect-http-to-https-cli (2024-08-22T19:16:00Z)
+            Redirect internal traffic:
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/redirect-internal-site-powershell (2024-08-02T22:04:00Z)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/application-gateway/redirect-internal-site-cli (2024-12-03T05:33:00Z)
+            ☐ Redirect web traffic using Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-url-redirect-powershell (2024-08-22T19:16:00Z)
+        Rewrite HTTP headers and URL:
+            Header rewrite:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/rewrite-http-headers-portal (2024-10-28T22:05:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/add-http-header-rewrite-rule-powershell (2024-08-02T22:04:00Z)
+                ☐ Create and rewrite HTTP headers https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-http-header-rewrite-powershell (2024-08-02T22:04:00Z)
+                ☐ Add secure flag for cookies https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-secure-flag-session-affinity (2024-10-25T11:18:00Z)
+            URL rewrite:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/rewrite-url-portal (2024-10-28T22:05:00Z)
+            Parameter based path selection:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/parameter-based-path-selection-portal (2024-10-28T22:05:00Z)
+            HSTS Policy:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/application-gateway/hsts-http-headers-portal (2024-11-06T23:02:00Z)
+        Configure custom probes:
+            ☐ Portal https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-create-probe-portal (2024-08-02T22:04:00Z)
+            ☐ Classic PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-create-probe-classic-ps (2024-08-02T22:04:00Z)
+            ☐ Resource Manager PowerShell https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-create-probe-ps (2024-08-02T22:04:00Z)
+        ☐ Deploy Application Gateway Basic https://learn.microsoft.com/en-us/azure/application-gateway/deploy-basic-portal (2024-12-03T05:33:00Z)
+        ☐ Configure App Service https://learn.microsoft.com/en-us/azure/application-gateway/configure-web-app (2024-08-07T22:04:00Z)
+        ☐ Schedule autoscaling https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-externally-managed-scheduled-autoscaling (2024-08-02T22:04:00Z)
+        Relocate:
+            ☐ Relocate to another region https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-app-gateway?toc=/azure/application-gateway/toc.json (2025-04-11T22:03:00Z)
+            ☐ Migrate to availability zone support https://learn.microsoft.com/en-us/azure/reliability/migrate-app-gateway-v2?toc=/azure/application-gateway/toc.json (2025-03-21T05:38:00Z)
+        ☐ Proxy buffer configuration https://learn.microsoft.com/en-us/azure/application-gateway/proxy-buffers (2024-09-25T22:03:00Z)
+        ☐ Custom error pages https://learn.microsoft.com/en-us/azure/application-gateway/custom-error (2025-02-17T05:31:00Z)
+        Migrate to v2 SKU:
+            ☐ About v1 retirement https://learn.microsoft.com/en-us/azure/application-gateway/v1-retirement (2024-08-04T11:36:00Z)
+            ☐ Migrate from v1 to v2 https://learn.microsoft.com/en-us/azure/application-gateway/migrate-v1-v2 (2025-01-24T05:34:00Z)
+            ☐ Migration FAQ https://learn.microsoft.com/en-us/azure/application-gateway/retirement-faq (2024-12-19T18:04:00Z)
+        ☐ Configure alerts https://learn.microsoft.com/en-us/azure/application-gateway/configure-alerts-with-templates (2024-09-11T18:38:00Z)
+        ☐ Classic to Resource Manager https://learn.microsoft.com/en-us/azure/application-gateway/classic-to-resource-manager (2025-05-02T22:46:00Z)
+        ☐ Configure Private Link https://learn.microsoft.com/en-us/azure/application-gateway/private-link-configure (2024-11-19T18:02:00Z)
+    Health monitoring:
+        ☐ Monitor Application Gateway https://learn.microsoft.com/en-us/azure/application-gateway/monitor-application-gateway (2024-12-29T12:12:00Z)
+        ☐ Health probe https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-probe-overview (2025-04-09T11:11:00Z)
+        ☐ Backend health https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-backend-health (2024-12-29T12:12:00Z)
+        ☐ Diagnostic logs https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-diagnostics (2025-05-07T22:03:00Z)
+        ☐ Metrics https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-metrics (2024-09-25T17:04:00Z)
+    Troubleshoot:
+        ☐ ILB with an App Service Environment https://learn.microsoft.com/en-us/azure/application-gateway/create-gateway-internal-load-balancer-app-service-environment (2024-08-02T11:27:00Z)
+        ☐ App service issues https://learn.microsoft.com/en-us/azure/application-gateway/troubleshoot-app-service-redirection-app-service-url (2024-08-02T22:04:00Z)
+        ☐ Session affinity issues https://learn.microsoft.com/en-us/azure/application-gateway/how-to-troubleshoot-application-gateway-session-affinity-issues (2024-08-02T22:04:00Z)
+        ☐ Bad Gateway (502) errors https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-troubleshooting-502 (2025-04-30T05:13:00Z)
+        ☐ HTTP response codes https://learn.microsoft.com/en-us/azure/application-gateway/http-response-codes (2025-04-01T17:03:00Z)
+        ☐ Mutual authentication https://learn.microsoft.com/en-us/azure/application-gateway/mutual-authentication-troubleshooting (2024-08-02T22:04:00Z)
+        ☐ Ingress for AKS https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-troubleshoot (2025-02-28T18:05:00Z)
+        ☐ Resource Health https://learn.microsoft.com/en-us/azure/application-gateway/resource-health-overview (2024-12-03T05:33:00Z)
+        ☐ Use Log Analytics https://learn.microsoft.com/en-us/azure/application-gateway/log-analytics (2024-09-16T11:13:00Z)
+        ☐ Backend health issues https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-backend-health-troubleshooting (2024-12-29T12:12:00Z)
+        ☐ Key Vault errors https://learn.microsoft.com/en-us/azure/application-gateway/application-gateway-key-vault-common-errors (2024-08-07T22:04:00Z)
+        ☐ Disabled listeners https://learn.microsoft.com/en-us/azure/application-gateway/disabled-listeners (2024-08-02T22:04:00Z)
+    Reference:
+        ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/application-gateway/monitor-application-gateway-reference (2025-05-12T17:04:00Z)
+        ☐ Ingress for AKS annotations https://learn.microsoft.com/en-us/azure/application-gateway/ingress-controller-annotations (2025-02-28T18:05:00Z)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/application-gateway (2025-03-25T06:59:00Z)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/azure/ (2025-05-06 10:44 PM)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/ (2025-01-29T08:15:00Z)
+        ☐ Node.js https://azure.microsoft.com/develop/nodejs/#azure-sdk
+        ☐ Python https://azure.microsoft.com/develop/python/
+        ☐ REST https://learn.microsoft.com/rest/api/application-gateway/application-gateways (2024-12-03T23:02:00Z)
+        ☐ Azure Resource Manager https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview (2025-03-31T22:05:00Z)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.network/applicationgateways (2025-04-28T19:58:00Z)
+    Resources:
+        ☐ Networking blog https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog
+        ☐ Author templates https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax (2025-05-12T17:04:00Z)
+        ☐ Community templates https://azure.microsoft.com/resources/templates/ (2024-11-01T20:16:00Z)
+        ☐ Pricing https://azure.microsoft.com/pricing/details/application-gateway/
+        ☐ Regional availability https://azure.microsoft.com/global-infrastructure/services/
+        ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-application-gateway
+

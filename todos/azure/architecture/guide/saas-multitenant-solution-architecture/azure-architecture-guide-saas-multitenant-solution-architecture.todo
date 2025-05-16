@@ -1,0 +1,77 @@
+SaaS and multitenant solution architecture - Azure Architecture Center | Microsoft Learn:
+    Architecture for SaaS and multitenancy https://learn.microsoft.com/en-us/azure/architecture/guide/saas-multitenant-solution-architecture/ (2025-04-29T17:30:00Z):
+        SaaS:
+            ☐ Plan your journey to SaaS https://learn.microsoft.com/en-us/azure/architecture/guide/saas/plan-journey-saas (2025-04-17T17:31:00Z)
+            Case studies:
+                ☐ Dynamics 365 https://learn.microsoft.com/en-us/azure/architecture/guide/saas/case-studies/dynamics-365-journey-saas (2025-05-12T17:32:00Z)
+                ☐ Microsoft SaaS stories https://learn.microsoft.com/en-us/azure/architecture/guide/saas/case-studies/saas-stories (2025-04-17T17:31:00Z)
+            Resources:
+                ☐ SaaS starter web app reference architecture https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/saas-starter-web-app (2025-04-17T17:31:00Z)
+                ☐ Multitenant SaaS reference architecture https://learn.microsoft.com/en-us/azure/architecture/example-scenario/multi-saas/multitenant-saas (2025-04-17T17:31:00Z)
+        Startups:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/guide/startups/startup-architecture (2025-05-12T17:32:00Z)
+            ☐ Core startup stack architecture https://learn.microsoft.com/en-us/azure/architecture/example-scenario/startups/core-startup-stack (2025-04-17T17:31:00Z)
+        Multitenant applications:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/overview (2025-05-16T05:07:00Z)
+            Considerations:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/overview (2025-05-12T17:32:00Z)
+                ☐ Tenancy models https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenancy-models (2025-05-12T17:32:00Z)
+                ☐ Tenant lifecycle https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/tenant-lifecycle (2025-05-12T17:32:00Z)
+                ☐ Pricing models https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/pricing-models (2025-04-17T17:31:00Z)
+                ☐ Control planes https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/control-planes (2025-05-12T17:32:00Z)
+                ☐ Measure consumption https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/measure-consumption (2025-04-17T17:31:00Z)
+                ☐ Deploy updates https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/updates (2025-05-12T17:32:00Z)
+                ☐ Map requests to tenants https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/map-requests (2025-04-17T17:31:00Z)
+                ☐ Identity https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/identity (2025-04-17T17:31:00Z)
+                ☐ Domain names https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/domain-names (2025-05-12T17:32:00Z)
+            Approaches:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/overview (2025-05-12T17:32:00Z)
+                ☐ Resource organization https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/resource-organization (2025-05-12T17:32:00Z)
+                ☐ Governance and compliance https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/governance-compliance (2025-05-12T17:32:00Z)
+                ☐ Cost management and allocation https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/cost-management-allocation (2025-05-12T17:32:00Z)
+                ☐ Deployment and configuration https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/deployment-configuration (2025-05-12T17:32:00Z)
+                ☐ Compute https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/compute (2025-05-15T05:07:00Z)
+                ☐ Control planes https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/control-planes (2025-04-17T17:31:00Z)
+                ☐ Networking https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/networking (2025-05-12T17:32:00Z)
+                ☐ Storage and data https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/storage-data (2025-05-12T17:32:00Z)
+                ☐ Messaging https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/messaging (2025-04-17T17:31:00Z)
+                ☐ Identity https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/identity (2025-05-12T17:32:00Z)
+                ☐ Integration https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/integration (2025-05-12T17:32:00Z)
+                ☐ IoT https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/iot (2025-04-17T17:31:00Z)
+                ☐ AI and ML https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/approaches/ai-ml (2025-04-17T17:31:00Z)
+            Service-specific guidance:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/overview (2025-05-12T17:32:00Z)
+                Deployment and configuration:
+                    ☐ Azure App Configuration https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/app-configuration (2025-05-12T17:32:00Z)
+                    ☐ Azure Resource Manager https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/resource-manager (2025-05-12T17:32:00Z)
+                Compute:
+                    ☐ App Service and Functions https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/app-service (2025-05-12T17:32:00Z)
+                    ☐ Azure Container Apps https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/container-apps (2025-05-15T05:07:00Z)
+                    ☐ Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/aks (2025-04-17T17:31:00Z)
+                Networking:
+                    ☐ Azure Front Door https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/front-door (2025-05-16T05:07:00Z)
+                    ☐ Azure NAT Gateway https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/nat-gateway (2025-05-12T17:32:00Z)
+                    ☐ Azure Private Link https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/private-link (2025-05-12T17:32:00Z)
+                Storage and data:
+                    ☐ Azure Cache for Redis https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/cache-redis (2025-04-17T17:31:00Z)
+                    ☐ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/cosmos-db (2025-04-17T17:31:00Z)
+                    ☐ Azure Database for PostgreSQL https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/postgresql (2025-04-17T17:31:00Z)
+                    ☐ Azure SQL Database https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/sql-database (2025-05-12T17:32:00Z)
+                    ☐ Azure Storage https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/storage (2025-05-12T17:32:00Z)
+                Messaging:
+                    ☐ Azure Event Hubs https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/event-hubs (2025-04-17T17:31:00Z)
+                    ☐ Azure Service Bus https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/service-bus (2025-05-15T05:07:00Z)
+                Monitoring:
+                    ☐ Application Insights https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/application-insights (2025-04-17T17:31:00Z)
+                Security:
+                    ☐ Azure Key Vault https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/key-vault (2025-05-12T17:32:00Z)
+                Identity:
+                    ☐ Azure Active Directory B2C https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/azure-ad-b2c (2025-04-17T17:31:00Z)
+                Integration:
+                    ☐ Azure API Management https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/api-management (2025-05-12T17:32:00Z)
+                AI and ML:
+                    ☐ Azure AI Search https://learn.microsoft.com/azure/search/search-modeling-multitenant-saas-applications (2024-12-10T18:00:00Z)
+                    ☐ Azure OpenAI https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/service/openai (2025-05-13T17:33:00Z)
+            ☐ Multitenancy checklist https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/checklist (2025-05-16T05:07:00Z)
+            ☐ Related resources https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/related-resources (2025-05-12T17:32:00Z)
+

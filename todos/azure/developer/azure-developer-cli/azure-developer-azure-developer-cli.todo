@@ -1,0 +1,65 @@
+Azure Developer CLI (azd) | Microsoft Learn:
+    Azure Developer CLI:
+        ☐ Azure Developer CLI overview https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ (2024-08-29 04:55 PM)
+        ☐ What is the Azure Developer CLI? https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/overview (2024-10-10T17:00:00Z)
+        Get started:
+            ☐ Install or update azd https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd (2024-11-27T18:00:00Z)
+            Quickstarts:
+                ☐ Quickstart - Deploy an azd template https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/get-started (2024-12-22T18:01:00Z)
+                ☐ Quickstart - Explore and customize a template https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/quickstart-explore-templates (2025-04-16T17:03:00Z)
+            ☐ Explore the template galleries https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azd-template-galleries (2025-04-14T17:05:00Z)
+            ☐ Supported languages and environments https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/supported-languages-environments (2024-09-17T17:01:00Z)
+        Core concepts:
+            ☐ Azure Developer CLI vs Azure CLI https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azure-developer-cli-vs-azure-cli (2025-04-14T17:05:00Z)
+            ☐ Explore the azd up workflow https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azd-up-workflow (2025-04-29T17:01:00Z)
+            ☐ Commands overview https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azd-commands (2025-01-21T18:08:00Z)
+            ☐ Templates overview https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azd-templates (2025-04-16T17:03:00Z)
+            ☐ Feature versioning and release strategy https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/feature-versioning (2024-09-17T17:01:00Z)
+        Development workflows:
+            ☐ Get started with template development https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/make-azd-compatible (2024-09-17T17:01:00Z)
+            Use the compose feature:
+                ☐ Compose feature overview https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azd-compose (2025-05-13T17:01:00Z)
+                ☐ Create a minimal template https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/compose-quickstart (2025-04-25T17:03:00Z)
+                ☐ Generate Bicep files https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/compose-generate (2025-04-25T17:03:00Z)
+            Build a template:
+                ☐ Start with an existing template https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/start-with-existing-template (2024-09-17T17:01:00Z)
+                ☐ Start with your app code https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/start-with-app-code (2024-09-17T17:01:00Z)
+                ☐ Training - build and deploy azd templates https://learn.microsoft.com/training/paths/azure-developer-cli (2023-11-16 08:02 PM)
+        Deployment and operations:
+            CI/CD:
+                ☐ Configure deployment pipeline https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/configure-devops-pipeline (2025-01-14T18:00:00Z)
+            Monitoring and logging:
+                ☐ Monitor your project https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/monitor-your-app (2024-09-17T17:01:00Z)
+            Deployment configuration:
+                ☐ Resource Group Scoped Deployments https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/resource-group-scoped-deployments (2024-09-17T17:01:00Z)
+                ☐ Use third-party container registries https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/use-external-registry (2024-09-17T17:01:00Z)
+                ☐ Azure deployment stacks integration https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azure-deployment-stacks-integration (2024-10-29T17:01:00Z)
+                ☐ Deploy to Azure AI/ML online endpoints https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azure-ai-ml-endpoints (2025-01-08T17:59:00Z)
+                ☐ Configure service packaging ignore files https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/service-packaging-ignore-files (2024-09-25T16:59:00Z)
+                ☐ Use Helm and Kustomize https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/helm-kustomize-support (2024-12-03T18:01:00Z)
+                ☐ Remote Environment Support https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/remote-environments-support (2024-09-17T17:01:00Z)
+                ☐ Azure Deployment Environments integration https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ade-integration (2024-12-03T18:01:00Z)
+            Work with environments:
+                ☐ Manage environment variables https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/manage-environment-variables (2024-09-17T17:01:00Z)
+                ☐ Environment variables FAQ https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/environment-variables-faq (2024-09-17T17:01:00Z)
+            ☐ Use Terraform for infrastructure as code https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/use-terraform-for-azd (2024-09-17T17:01:00Z)
+            .NET Aspire support:
+                ☐ .NET Aspire integration and deployment https://learn.microsoft.com/dotnet/aspire/deployment/azure/aca-deployment-azd-in-depth?toc=/azure/developer/azure-developer-cli/toc.json&bc=/azure/developer/azure-developer-cli/breadcrumb/toc.json (2025-04-01T10:04:00Z)
+                ☐ Deploy .NET Aspire apps using pipelines https://learn.microsoft.com/dotnet/aspire/deployment/azure/aca-deployment-github-actions?toc=/azure/developer/azure-developer-cli/toc.json&bc=/azure/developer/azure-developer-cli/breadcrumb/toc.json (2025-01-26T09:56:00Z)
+        Configuration:
+            ☐ Manage config settings https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azd-config (2024-12-20T18:02:00Z)
+            ☐ Customize workflows using command and event hooks https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azd-extensibility (2025-01-30T18:02:00Z)
+            ☐ Enable demo mode https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/demo-mode (2025-04-08T17:04:00Z)
+            ☐ Configure template sources https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/configure-template-sources (2024-12-06T18:01:00Z)
+            ☐ Use azd in sovereign clouds https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/sovereign-clouds (2025-01-29T18:03:00Z)
+        Troubleshoot:
+            ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/troubleshoot (2025-02-26T18:06:00Z)
+            ☐ Troubleshoot PowerShell errors https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/powershell-guidance (2025-02-26T18:06:00Z)
+        Reference and resources:
+            ☐ Frequently asked questions (FAQ) https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/faq (2025-02-27T18:03:00Z)
+            ☐ azure.yaml schema https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/azd-schema (2025-01-31T18:08:00Z)
+            ☐ Commands reference https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/reference (2025-04-15T17:02:00Z)
+            Blog posts and news:
+                ☐ Release blog posts https://devblogs.microsoft.com/azure-sdk/tag/azure-developer-cli/
+                ☐ CDN changes https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/content-delivery-network-changes (2025-01-09T18:00:00Z)
+

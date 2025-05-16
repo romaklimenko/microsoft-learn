@@ -1,0 +1,1067 @@
+Virtual machines in Azure - Azure Virtual Machines | Microsoft Learn:
+    ☐ Virtual Machines Documentation https://learn.microsoft.com/en-us/azure/virtual-machines/ (2024-12-05 11:00 PM)
+    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/overview (2025-05-07T05:04:00Z)
+    ☐ Compare compute products https://learn.microsoft.com/en-us/azure/virtual-machines/compare-compute-products (2025-05-07T17:02:00Z)
+    Quickstarts:
+        Create a Linux VM:
+            ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-cli (2024-09-19T22:00:00Z)
+            ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal (2024-08-22T17:37:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-powershell (2024-08-22T17:37:00Z)
+            Terraform:
+                ☐ Terraform VM https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-terraform (2024-08-22T17:37:00Z)
+                ☐ Terraform VM cluster https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-cluster-create-terraform (2024-08-22T17:37:00Z)
+            ☐ Bicep https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-bicep (2024-08-22T17:37:00Z)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-template (2024-08-22T17:37:00Z)
+        Create a Windows VM:
+            ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-cli (2024-08-22T17:37:00Z)
+            ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-portal (2025-01-22T18:02:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-powershell (2024-08-22T17:37:00Z)
+            Terraform:
+                ☐ Terraform VM https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-terraform (2024-08-28T17:10:00Z)
+                ☐ Terraform VM cluster https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-cluster-create-terraform (2024-08-27T16:59:00Z)
+            ☐ Bicep https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-bicep (2024-08-22T17:37:00Z)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/virtual-machines/windows/quick-create-template (2024-08-22T17:37:00Z)
+        Create a Virtual Machine Scale Set:
+            ☐ Portal https://learn.microsoft.com/azure/virtual-machine-scale-sets/flexible-virtual-machine-scale-sets-portal?toc=/azure/virtual-machines/toc.json (2025-04-28T22:04:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/azure/virtual-machine-scale-sets/flexible-virtual-machine-scale-sets-cli?toc=/azure/virtual-machines/toc.json (2024-09-19T22:00:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-machine-scale-sets/flexible-virtual-machine-scale-sets-powershell?toc=/azure/virtual-machines/toc.json (2024-08-22T17:37:00Z)
+            ☐ Bicep https://learn.microsoft.com/azure/virtual-machine-scale-sets/quick-create-bicep-windows?toc=/azure/virtual-machines/toc.json (2024-08-22T17:37:00Z)
+            ☐ ARM template https://learn.microsoft.com/azure/virtual-machine-scale-sets/flexible-virtual-machine-scale-sets-rest-api?toc=/azure/virtual-machines/toc.json (2024-08-22T17:37:00Z)
+    Tutorials:
+        Linux:
+            ☐ Create / manage VMs https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-vm (2025-05-01T22:33:00Z)
+            ☐ Create / manage disks https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-manage-disks (2024-12-08T12:07:00Z)
+            ☐ Create VM images https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-custom-images (2024-11-25T23:00:00Z)
+            ☐ Create & deploy VM Application https://learn.microsoft.com/en-us/azure/virtual-machines/vm-applications-how-to?tabs=cli,cli1,cli2,cli3 (2025-05-11T05:03:00Z)
+            ☐ Automate configuration https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-automate-vm-deployment (2025-05-02T05:04:00Z)
+            ☐ Manage networking https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-virtual-network (2024-08-22T17:37:00Z)
+            ☐ Load Balance VMs https://learn.microsoft.com/azure/load-balancer/quickstart-load-balancer-standard-public-cli?toc=/azure/virtual-machines/toc.json (2024-09-30T17:05:00Z)
+            ☐ Create and manage a scale set https://learn.microsoft.com/azure/virtual-machine-scale-sets/tutorial-create-and-manage-cli?toc=/azure/virtual-machines/toc.json (2024-08-22T17:37:00Z)
+        Windows:
+            ☐ Create / manage a VM https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-manage-vm (2024-10-29T05:31:00Z)
+            ☐ Create / manage disks https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-manage-data-disk (2024-12-08T12:07:00Z)
+            ☐ Create VM images https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-custom-images (2024-08-22T17:37:00Z)
+            ☐ Create & deploy VM Application https://learn.microsoft.com/en-us/azure/virtual-machines/vm-applications-how-to?tabs=powershell,powershell1,powershell2,powershell3 (2025-05-11T05:03:00Z)
+            ☐ Automate configuration https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-automate-vm-deployment (2024-08-22T17:37:00Z)
+            ☐ Manage networking https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-virtual-network (2024-08-22T17:37:00Z)
+            ☐ Load Balance VMs https://learn.microsoft.com/azure/load-balancer/quickstart-load-balancer-standard-public-powershell?toc=/azure/virtual-machines/toc.json (2024-08-01T17:04:00Z)
+            ☐ Create and manage a scale set https://learn.microsoft.com/azure/virtual-machine-scale-sets/tutorial-create-and-manage-powershell?toc=/azure/virtual-machines/toc.json (2024-08-22T17:37:00Z)
+    Develop:
+        ☐ REST API https://learn.microsoft.com/rest/api/compute/virtual-machines?toc=/azure/virtual-machines/toc.json (2025-04-08T22:05:00Z)
+        Python:
+            ☐ Python SDK https://github.com/Azure/azure-sdk-for-python
+            ☐ Samples https://github.com/Azure-Samples/virtual-machines-python-manage
+        .NET:
+            ☐ .NET SDK https://github.com/Azure/azure-sdk-for-net
+            ☐ Reference https://learn.microsoft.com/dotnet/api/overview/azure/virtualmachines (2025-05-14T11:43:00Z)
+        Java:
+            ☐ Create and manage VMs using Java https://learn.microsoft.com/en-us/azure/virtual-machines/windows/java (2024-08-22T17:37:00Z)
+            ☐ Java SDK https://github.com/Azure/azure-sdk-for-java
+        Go:
+            ☐ Go SDK https://github.com/Azure/azure-sdk-for-go
+            ☐ Reference https://learn.microsoft.com/azure/developer/go/azure-sdk-qs-vm (2024-09-09 05:03 PM)
+        ☐ Azure CLI samples repo https://github.com/Azure-Samples/azure-cli-samples/tree/master/virtual-machine
+        ☐ PowerShell samples repo https://github.com/Azure/azure-docs-powershell-samples/tree/master/virtual-machine
+        ☐ Azure Resource Graph queries https://learn.microsoft.com/en-us/azure/virtual-machines/resource-graph-samples (2024-08-22T17:37:00Z)
+    Workloads:
+        ☐ Red Hat https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/redhat/overview (2025-04-14T17:06:00Z)
+        ☐ Ubuntu https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/canonical/ubuntu-pro-in-place-upgrade (2025-03-17T22:00:00Z)
+        OpenShift:
+            ☐ OpenShift Container Platform 4.x https://learn.microsoft.com/en-us/azure/virtual-machines/linux/openshift-container-platform-4x (2024-08-22T17:37:00Z)
+            ☐ Azure Stack https://learn.microsoft.com/en-us/azure/virtual-machines/linux/openshift-azure-stack (2025-05-01T22:33:00Z)
+        ☐ SAP on Azure https://learn.microsoft.com/azure/sap/ (2025-05-07T22:03:00Z)
+        ☐ Oracle on Azure https://learn.microsoft.com/azure/oracle/ (2025-02-03 11:15 PM)
+        ☐ Azure for Gaming https://learn.microsoft.com/gaming/azure/ (2025-02-05 10:24 PM)
+        ☐ Elasticsearch https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-elasticsearch (2025-05-02T05:04:00Z)
+        ☐ Mainframe rehosting https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/mainframe-rehosting/overview (2024-10-14T21:59:00Z)
+        ☐ Azure Confidential Compute https://learn.microsoft.com/azure/confidential-computing/overview (2025-05-07T17:04:00Z)
+        ☐ SQL on Virtual Machines https://learn.microsoft.com/azure/azure-sql/virtual-machines/index (2024-10-22 11:03 PM)
+        High Performance Computing (HPC):
+            ☐ HPC on Azure https://learn.microsoft.com/azure/architecture/topics/high-performance-computing/ (2025-04-17T17:31:00Z)
+            ☐ HPC for H-series and N-series VMs https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/hpc/overview (2024-08-22T17:37:00Z)
+            ☐ How to set up HPC/AI VMs https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/hpc/set-up-hpc-vms (2024-08-22T17:37:00Z)
+            Configuration:
+                ☐ Configure and optimize VMs https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/hpc/configure (2024-10-13T11:09:00Z)
+                ☐ Enable InfiniBand https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/hpc/enable-infiniband (2024-10-13T11:09:00Z)
+                ☐ Set up MPI https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/hpc/setup-mpi (2024-10-13T11:09:00Z)
+            ☐ Scaling applications https://learn.microsoft.com/en-us/azure/virtual-machines/workloads/hpc/compiling-scaling-applications (2024-10-13T11:09:00Z)
+    Instances:
+        Sizes:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview (2025-05-01T18:06:00Z)
+            ☐ Cobalt VMs https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/cobalt-overview (2025-05-01T18:06:00Z)
+            ☐ Change the size of a VM https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/resize-vm (2025-04-14T17:06:00Z)
+            General purpose:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#general-purpose (2025-05-01T18:06:00Z)
+                A family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/a-family (2025-05-01T18:06:00Z)
+                    ☐ Av2-series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/av2-series (2025-05-01T18:06:00Z)
+                B family (burstable):
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/b-family (2025-05-01T18:06:00Z)
+                    ☐ B-series CPU Credit Model https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/b-series-cpu-credit-model (2024-10-31T05:31:00Z)
+                    ☐ Bsv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/bsv2-series (2025-05-01T18:06:00Z)
+                    ☐ Basv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/basv2-series (2025-05-01T18:06:00Z)
+                    ☐ Bpsv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/bpsv2-series (2025-05-01T18:06:00Z)
+                D family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/d-family (2025-05-01T18:06:00Z)
+                    ☐ Dsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Ddsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/ddsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Dlsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dlsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Dldsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dldsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Dasv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dasv6-series (2025-05-01T18:06:00Z)
+                    ☐ Dadsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dadsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Dalsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dalsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Daldsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/daldsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Dpsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Dpdsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpdsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Dplsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dplsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Dpldsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpldsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Dv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dv5-series (2025-05-01T18:06:00Z)
+                    ☐ Dsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Ddv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/ddv5-series (2025-05-01T18:06:00Z)
+                    ☐ Ddsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/ddsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Dasv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dasv5-series (2025-05-01T18:06:00Z)
+                    ☐ Dadsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dadsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Dpsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Dpdsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpdsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Dplsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dplsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Dpldsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dpldsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Dlsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dlsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Dldsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dldsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Dv4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dv4-series (2025-05-01T18:06:00Z)
+                    ☐ Dsv4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dsv4-series (2025-05-01T18:06:00Z)
+                    ☐ Dav4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dav4-series (2025-05-01T18:06:00Z)
+                    ☐ Dasv4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dasv4-series (2025-05-01T18:06:00Z)
+                    ☐ Ddv4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/ddv4-series (2025-05-01T18:06:00Z)
+                    ☐ Ddsv4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/ddsv4-series (2025-05-01T18:06:00Z)
+                DC family (confidential):
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dc-family (2025-05-01T18:06:00Z)
+                    ☐ DCasv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dcasv5-series (2025-05-01T18:06:00Z)
+                    ☐ DCadsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dcadsv5-series (2025-05-01T18:06:00Z)
+                    ☐ DCesv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dcesv6-series (2025-05-01T18:06:00Z)
+                    ☐ DCas_cc_v5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dcasccv5-series (2025-05-01T18:06:00Z)
+                    ☐ DCads_cc_v5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dcadsccv5-series (2025-05-01T18:06:00Z)
+                    ☐ DCsv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dcsv3-series (2025-05-01T18:06:00Z)
+                    ☐ DCdsv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dcdsv3-series (2025-05-01T18:06:00Z)
+                    ☐ DCsv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dcsv2-series (2025-05-01T18:06:00Z)
+            Compute optimized:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#compute-optimized (2025-05-01T18:06:00Z)
+                F family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/compute-optimized/f-family (2025-05-01T18:06:00Z)
+                    ☐ Fasv6-series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/compute-optimized/fasv6-series (2025-05-01T18:06:00Z)
+                    ☐ Falsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/compute-optimized/falsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Famsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/compute-optimized/famsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Fsv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/compute-optimized/fsv2-series (2025-05-01T18:06:00Z)
+                FX family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/compute-optimized/fx-family (2025-05-01T18:06:00Z)
+                    ☐ FXmsv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/compute-optimized/fxmsv2-series (2025-05-09T05:04:00Z)
+                    ☐ FXmdsv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/compute-optimized/fxmdsv2-series (2025-05-09T05:04:00Z)
+                    ☐ FX series https://learn.microsoft.com/en-us/azure/virtual-machines/fx-series (2025-05-01T18:06:00Z)
+            Memory optimized:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#memory-optimized (2025-05-01T18:06:00Z)
+                E family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/e-family (2025-05-01T18:06:00Z)
+                    ☐ Esv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/esv6-series (2025-05-01T18:06:00Z)
+                    ☐ Edsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/edsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Epsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/epsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Epdsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/epdsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Easv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/easv6-series (2025-05-01T18:06:00Z)
+                    ☐ Eadsv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/eadsv6-series (2025-05-01T18:06:00Z)
+                    ☐ Ev5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/ev5-series (2025-05-01T18:06:00Z)
+                    ☐ Esv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/esv5-series (2025-05-01T18:06:00Z)
+                    ☐ Edv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/edv5-series (2025-05-01T18:06:00Z)
+                    ☐ Edsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/edsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Easv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/easv5-series (2025-05-01T18:06:00Z)
+                    ☐ Eadsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/eadsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Epsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/epsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Epdsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/epdsv5-series (2025-05-01T18:06:00Z)
+                    ☐ Edv4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/edv4-series (2025-05-01T18:06:00Z)
+                    ☐ Edsv4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/edsv4-series (2025-05-01T18:06:00Z)
+                    ☐ Eav4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/eav4-series (2025-05-01T18:06:00Z)
+                    ☐ Easv4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/easv4-series (2025-05-01T18:06:00Z)
+                    ☐ Ev4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/ev4-series (2025-05-01T18:06:00Z)
+                    ☐ Esv4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/esv4-series (2025-05-01T18:06:00Z)
+                Eb family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/eb-family (2025-05-01T18:06:00Z)
+                    ☐ Ebdsv5 and Ebsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/ebdsv5-ebsv5-series (2025-05-01T22:33:00Z)
+                EC family (confidential):
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/ec-family (2025-05-01T18:06:00Z)
+                    ☐ ECasv5 and ECadsv5 series https://learn.microsoft.com/en-us/azure/virtual-machines/ecasv5-ecadsv5-series (2025-05-01T22:33:00Z)
+                    ☐ ECesv6 series https://learn.microsoft.com/en-us/azure/virtual-machines/ecesv5-ecedsv5-series (2025-05-01T22:33:00Z)
+                    ☐ ECas_cc_v5 and ECads_cc_v5 series https://learn.microsoft.com/en-us/azure/virtual-machines/ecasccv5-ecadsccv5-series (2025-05-01T22:33:00Z)
+                M family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/m-family (2025-05-01T18:06:00Z)
+                    ☐ Mbsv3 and Mbdsv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mbsv3-mbdsv3-series (2025-05-01T18:06:00Z)
+                    ☐ Msv3 and Mdsv3 Medium Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/msv3-mdsv3-medium-series (2024-11-12T18:04:00Z)
+                    ☐ Msv3 and Mdsv3 High Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/msv3-mdsv3-high-memory-series (2025-05-01T18:06:00Z)
+                    ☐ Mdsv3 Very High Memory Series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/memory-optimized/mdsv3-very-high-memory-series (2025-05-06T17:00:00Z)
+                    ☐ Msv2 and Mdsv2 Medium Memory series https://learn.microsoft.com/en-us/azure/virtual-machines/msv2-mdsv2-series (2025-05-01T22:33:00Z)
+                    ☐ Msv2 and Mdsv2 migration guide https://learn.microsoft.com/en-us/azure/virtual-machines/msv2-mdsv2-isolated-retirement (2025-05-01T22:33:00Z)
+                    ☐ Mv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/mv2-series (2025-05-01T22:33:00Z)
+                    ☐ M series https://learn.microsoft.com/en-us/azure/virtual-machines/m-series (2025-05-01T22:33:00Z)
+            Storage optimized:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#storage-optimized (2025-05-01T18:06:00Z)
+                L family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/storage-optimized/l-family (2025-05-01T18:06:00Z)
+                    ☐ Lsv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/storage-optimized/lsv3-series (2025-05-01T18:06:00Z)
+                    ☐ Lasv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/storage-optimized/lasv3-series (2025-05-01T18:06:00Z)
+                Optimize storage performance:
+                    ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/storage-performance (2025-05-01T22:33:00Z)
+                    ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/storage-performance (2024-08-22T17:37:00Z)
+            GPU - accelerated compute:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#gpu-accelerated (2025-05-01T18:06:00Z)
+                NC family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nc-family (2025-05-01T18:06:00Z)
+                    ☐ NC series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nc-series (2025-05-01T18:06:00Z)
+                    ☐ NC series retirement https://learn.microsoft.com/en-us/azure/virtual-machines/nc-series-retirement (2025-05-01T18:06:00Z)
+                    ☐ NCads_H100_v5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/ncadsh100v5-series (2025-05-01T18:06:00Z)
+                    ☐ NCCads_H100_v5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nccadsh100v5-series (2025-05-01T18:06:00Z)
+                    ☐ NCv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/ncv2-series (2025-05-01T18:06:00Z)
+                    ☐ NCv2 series retirement https://learn.microsoft.com/en-us/azure/virtual-machines/ncv2-series-retirement (2025-05-01T18:06:00Z)
+                    ☐ NCv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/ncv3-series (2025-05-01T18:06:00Z)
+                    ☐ Ncv3 Nc24rs retirement https://learn.microsoft.com/en-us/azure/virtual-machines/ncv3-nc24rs-retirement (2025-05-01T22:33:00Z)
+                    ☐ Ncv3 NC6s NC12s NC24s retirement https://learn.microsoft.com/en-us/azure/virtual-machines/ncv3-nc6s-nc12s-nc24s-retirement (2025-05-01T22:33:00Z)
+                    ☐ NCasT4_v3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/ncast4v3-series (2025-05-01T18:06:00Z)
+                    ☐ NC_A100_v4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nca100v4-series (2025-05-01T18:06:00Z)
+                ND family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nd-family (2025-05-01T18:06:00Z)
+                    ☐ NDasrA100_v4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/ndasra100v4-series (2025-05-01T18:06:00Z)
+                    ☐ NDm_A100_v4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/ndma100v4-series (2025-05-01T18:06:00Z)
+                    ☐ ND series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nd-series (2025-05-01T18:06:00Z)
+                    ☐ ND series retirement https://learn.microsoft.com/en-us/azure/virtual-machines/nd-series-retirement (2025-05-01T18:06:00Z)
+                    ☐ NDv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/ndv2-series (2025-05-01T18:06:00Z)
+                    ☐ ND-GB200-v6 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nd-gb200-v6-series (2025-05-01T18:06:00Z)
+                    ☐ ND-H100-v5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/ndh100v5-series (2025-05-01T18:06:00Z)
+                    ☐ ND-H200-v5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nd-h200-v5-series (2025-05-01T18:06:00Z)
+                    ☐ ND-MI300X-v5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/ndmi300xv5-series (2025-05-01T18:06:00Z)
+                NG family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/ng-family (2025-05-01T18:06:00Z)
+                    ☐ NGads V620 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/ngadsv620-series (2025-05-01T18:06:00Z)
+                NV family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nv-family (2025-05-01T18:06:00Z)
+                    ☐ NV series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nv-series (2025-05-01T18:06:00Z)
+                    ☐ NV series retirement https://learn.microsoft.com/en-us/azure/virtual-machines/nv-series-retirement (2025-05-01T18:06:00Z)
+                    ☐ NV series migration guide https://learn.microsoft.com/en-us/azure/virtual-machines/nv-series-migration-guide (2025-05-01T22:33:00Z)
+                    ☐ NVv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nvv3-series (2025-05-01T18:06:00Z)
+                    ☐ NVv4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nvv4-series (2025-05-01T18:06:00Z)
+                    ☐ NVadsA10_v5 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nvadsa10v5-series (2025-05-01T18:06:00Z)
+                    ☐ Nvads V710 v5-series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/gpu-accelerated/nvadsv710-v5-series (2025-05-01T18:06:00Z)
+                Setup NVIDIA GPU drivers:
+                    ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/n-series-driver-setup (2025-03-28T22:03:00Z)
+                    ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/n-series-driver-setup (2024-08-23T16:58:00Z)
+                Setup AMD GPU drivers:
+                    ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-n-series-amd-gpu-driver-linux-installation-guide (2025-05-02T17:44:00Z)
+                    ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/n-series-amd-driver-setup (2025-05-01T05:04:00Z)
+                ☐ GPU compute migration guide https://learn.microsoft.com/en-us/azure/virtual-machines/migration/sizes/n-series-migration (2025-05-01T22:33:00Z)
+            FPGA - accelerated compute:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#fpga-accelerated (2025-05-01T18:06:00Z)
+                NM family https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/fpga-accelerated/nm-ads-ma35d-series (2025-05-01T18:06:00Z):
+                    NMads MA35D series
+                NP family:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/fpga-accelerated/np-family (2025-05-01T18:06:00Z)
+                    ☐ NP series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/fpga-accelerated/np-series (2025-05-01T18:06:00Z)
+                ☐ FPGA Attestation Service https://learn.microsoft.com/en-us/azure/virtual-machines/field-programmable-gate-arrays-attestation (2025-05-01T22:33:00Z)
+            High performance compute:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/overview#high-performance-compute (2025-05-01T18:06:00Z)
+                HB family:
+                    HB series:
+                        ☐ HB series retirement https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/migration-guides/hb-series-retirement (2025-05-01T18:06:00Z)
+                    HBv2 series:
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/hbv2-series-overview (2024-10-13T11:09:00Z)
+                        ☐ HBv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/high-performance-compute/hbv2-series (2025-05-01T18:06:00Z)
+                        ☐ Performance https://learn.microsoft.com/en-us/azure/virtual-machines/hbv2-performance (2024-10-21T22:02:00Z)
+                    HBv3 series:
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/hbv3-series-overview (2024-10-13T11:09:00Z)
+                        ☐ HBv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/high-performance-compute/hbv3-series (2025-05-01T18:06:00Z)
+                        ☐ Performance https://learn.microsoft.com/en-us/azure/virtual-machines/hbv3-performance (2024-10-21T22:02:00Z)
+                    HBv4 series:
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/hbv4-series-overview (2025-05-08T22:00:00Z)
+                        ☐ HBv4 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/high-performance-compute/hbv4-series (2025-05-01T18:06:00Z)
+                        ☐ Performance https://learn.microsoft.com/en-us/azure/virtual-machines/hbv4-performance (2024-10-13T11:09:00Z)
+                HC family:
+                    HC series:
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/hc-series-overview (2024-10-13T11:09:00Z)
+                        ☐ HC series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/high-performance-compute/hc-series (2025-05-01T18:06:00Z)
+                        ☐ Performance https://learn.microsoft.com/en-us/azure/virtual-machines/hc-series-performance (2024-10-21T22:02:00Z)
+                HX family:
+                    HX series:
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/hx-series-overview (2025-05-08T22:00:00Z)
+                        ☐ HX series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/high-performance-compute/hx-series (2025-05-01T18:06:00Z)
+                        ☐ Performance https://learn.microsoft.com/en-us/azure/virtual-machines/hx-performance (2024-10-13T11:09:00Z)
+                ☐ Set up Azure HPC or AI VMs https://learn.microsoft.com/en-us/azure/virtual-machines/set-up-hpc-vms (2024-08-22T17:37:00Z)
+                ☐ Set up InfiniBand https://learn.microsoft.com/en-us/azure/virtual-machines/setup-infiniband (2024-11-22T05:55:00Z)
+                ☐ Configure and optimize VMs https://learn.microsoft.com/en-us/azure/virtual-machines/configure (2024-10-13T11:09:00Z)
+                ☐ Azure HPC VM images https://learn.microsoft.com/en-us/azure/virtual-machines/azure-hpc-vm-images (2024-10-13T11:09:00Z)
+                ☐ HPC for HB-series and N-series VMs https://learn.microsoft.com/en-us/azure/virtual-machines/overview-hb-hc (2024-08-22T17:37:00Z)
+                ☐ Known issues with HB-series and N-series VMs https://learn.microsoft.com/en-us/azure/virtual-machines/hb-hc-known-issues (2024-10-13T11:09:00Z)
+                ☐ Set up MPI for HPC https://learn.microsoft.com/en-us/azure/virtual-machines/setup-mpi (2024-10-13T11:09:00Z)
+                ☐ Scaling HPC applications https://learn.microsoft.com/en-us/azure/virtual-machines/compiling-scaling-applications (2024-10-13T11:09:00Z)
+            Enable NVMe:
+                ☐ NVMe Overview https://learn.microsoft.com/en-us/azure/virtual-machines/nvme-overview (2024-10-13T11:09:00Z)
+                ☐ Temp NVMe Disks FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/enable-nvme-temp-faqs (2025-05-09T22:00:00Z)
+                ☐ Remote NVMe Disks FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/enable-nvme-remote-faqs (2025-02-04T23:06:00Z)
+                ☐ OS Images Supported https://learn.microsoft.com/en-us/azure/virtual-machines/enable-nvme-interface (2025-01-15T05:30:00Z)
+                ☐ SCSI to NVMe for Linux VMs https://learn.microsoft.com/en-us/azure/virtual-machines/nvme-linux (2025-04-15T22:02:00Z)
+            Previous generation and retired sizes:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/retirement-overview (2025-03-17T22:00:00Z)
+                ☐ Previous-gen sizes list https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/previous-gen-sizes-list (2025-05-01T18:06:00Z)
+                Previous-gen size pages:
+                    A-family:
+                        ☐ Av1-series retirement https://learn.microsoft.com/en-us/azure/virtual-machines/av1-series-retirement (2025-03-17T22:00:00Z)
+                    B-family:
+                        ☐ B series V1 https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/bv1-series (2025-05-01T18:06:00Z)
+                    D-family:
+                        ☐ Dv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dv3-series (2025-05-01T18:06:00Z)
+                        ☐ Dsv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dsv3-series (2025-05-01T18:06:00Z)
+                        ☐ Dv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dv2-series (2025-05-01T18:06:00Z)
+                        ☐ Dsv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/general-purpose/dsv2-series (2025-05-01T18:06:00Z)
+                        ☐ Dv2 and DSv2 series (11-15) https://learn.microsoft.com/en-us/azure/virtual-machines/dv2-dsv2-series-memory (2025-05-01T18:06:00Z)
+                    E-family:
+                        ☐ Ev3 and Esv3 series https://learn.microsoft.com/en-us/azure/virtual-machines/ev3-esv3-series (2025-05-01T22:33:00Z)
+                    L-family:
+                        ☐ Lsv2 series https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/storage-optimized/lsv2-series (2025-05-01T18:06:00Z)
+                ☐ Retired sizes https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/retired-sizes-list (2025-05-01T18:06:00Z)
+            ☐ Generation 2 VMs https://learn.microsoft.com/en-us/azure/virtual-machines/generation-2 (2025-05-14T22:02:00Z)
+            ☐ Isolated sizes https://learn.microsoft.com/en-us/azure/virtual-machines/isolation (2025-05-01T22:33:00Z)
+            Benchmark scores:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/compute-benchmark-scores (2025-05-01T22:33:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/compute-benchmark-scores (2025-05-01T22:33:00Z)
+            ☐ Virtual machines selector tool https://aka.ms/vm-selector
+            ☐ States and billing https://learn.microsoft.com/en-us/azure/virtual-machines/states-billing (2025-05-01T22:33:00Z)
+            ☐ vCPU quotas https://learn.microsoft.com/en-us/azure/virtual-machines/quotas (2024-08-22T17:37:00Z)
+            ☐ Constrained vCPUs https://learn.microsoft.com/en-us/azure/virtual-machines/constrained-vcpu (2025-05-01T22:33:00Z)
+            ☐ Azure VMs with no temp disk https://learn.microsoft.com/en-us/azure/virtual-machines/azure-vms-no-temp-disk (2024-08-22T17:37:00Z)
+            ☐ Azure VM sizes naming conventions https://learn.microsoft.com/en-us/azure/virtual-machines/vm-naming-conventions (2025-05-01T22:33:00Z)
+        Azure Compute Gallery:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/azure-compute-gallery (2025-04-14T17:06:00Z)
+            ☐ What's new https://learn.microsoft.com/en-us/azure/virtual-machines/compute-gallery-whats-new (2024-08-22T17:37:00Z)
+            ☐ Create a gallery https://learn.microsoft.com/en-us/azure/virtual-machines/create-gallery (2024-08-22T17:37:00Z)
+            Share a gallery:
+                ☐ RBAC https://learn.microsoft.com/en-us/azure/virtual-machines/share-gallery (2024-10-25T22:03:00Z)
+                ☐ App registration https://learn.microsoft.com/en-us/azure/virtual-machines/share-using-app-registration (2024-08-22T17:37:00Z)
+                ☐ Direct share https://learn.microsoft.com/en-us/azure/virtual-machines/share-gallery-direct (2025-02-20T23:00:00Z)
+                ☐ Community gallery https://learn.microsoft.com/en-us/azure/virtual-machines/share-gallery-community (2024-09-03T22:05:00Z)
+            Images:
+                ☐ Images in a gallery https://learn.microsoft.com/en-us/azure/virtual-machines/shared-image-galleries (2025-05-01T22:33:00Z)
+                ☐ Capture a VM in the portal https://learn.microsoft.com/en-us/azure/virtual-machines/capture-image-portal (2024-08-22T17:37:00Z)
+                ☐ Create an image https://learn.microsoft.com/en-us/azure/virtual-machines/image-version (2024-12-12T18:03:00Z)
+                Create a VM:
+                    ☐ Generalized https://learn.microsoft.com/en-us/azure/virtual-machines/vm-generalized-image-version (2024-08-22T17:37:00Z)
+                    ☐ Specialized https://learn.microsoft.com/en-us/azure/virtual-machines/vm-specialized-image-version (2024-08-22T17:37:00Z)
+                ☐ Update image resources https://learn.microsoft.com/en-us/azure/virtual-machines/update-image-resources (2024-08-22T17:37:00Z)
+                Resource Manager Templates:
+                    ☐ Create an Azure Compute Gallery https://azure.microsoft.com/resources/templates/sig-create/ (2022-07-11T13:45:00Z)
+                    ☐ Create an Image Definition in an Azure Compute Gallery https://azure.microsoft.com/resources/templates/sig-image-definition-create/ (2022-07-11T13:45:00Z)
+                    ☐ Create an Image Version in an Azure Compute Gallery https://azure.microsoft.com/resources/templates/sig-image-version-create/ (2022-07-11T13:45:00Z)
+                ☐ Troubleshoot shared images https://learn.microsoft.com/en-us/azure/virtual-machines/troubleshooting-shared-images (2024-08-22T17:37:00Z)
+                ☐ Using customer-managed keys https://learn.microsoft.com/en-us/azure/virtual-machines/image-version-encryption (2025-04-22T22:02:00Z)
+                ☐ Export an image to a managed disk https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disk-from-image-version (2024-08-22T17:37:00Z)
+                ☐ Migrate Managed image to Compute gallery https://learn.microsoft.com/en-us/azure/virtual-machines/migration-managed-image-to-compute-gallery (2025-03-17T22:00:00Z)
+                ☐ Purchase plan information https://learn.microsoft.com/en-us/azure/virtual-machines/marketplace-images (2024-08-22T17:37:00Z)
+                ☐ Deprecated images FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/deprecated-images (2025-04-28T22:04:00Z)
+            VM Applications:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/vm-applications (2025-05-01T22:33:00Z)
+                ☐ Create & Deploy VM Applications https://learn.microsoft.com/en-us/azure/virtual-machines/vm-applications-how-to (2025-05-11T05:03:00Z)
+        Images:
+            Find Azure Marketplace images:
+                ☐ Use CLI to find images https://learn.microsoft.com/en-us/azure/virtual-machines/linux/cli-ps-findimage (2024-11-22T05:55:00Z)
+                ☐ Use PowerShell to find images https://learn.microsoft.com/en-us/azure/virtual-machines/windows/cli-ps-findimage (2024-08-22T17:37:00Z)
+                ☐ Windows client images https://learn.microsoft.com/en-us/azure/virtual-machines/windows/client-images (2025-05-01T22:33:00Z)
+                ☐ Windows 11 images https://learn.microsoft.com/en-us/azure/virtual-machines/windows/windows-desktop-multitenant-hosting-deployment (2024-08-22T17:37:00Z)
+            ☐ Generalizing a VM https://learn.microsoft.com/en-us/azure/virtual-machines/generalize (2024-10-21T22:02:00Z)
+            Linux custom images:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/linux/imaging (2024-08-22T17:37:00Z)
+                ☐ Linux provisioning https://learn.microsoft.com/en-us/azure/virtual-machines/linux/provisioning (2024-08-22T17:37:00Z)
+                ☐ Endorsed distributions https://learn.microsoft.com/en-us/azure/virtual-machines/linux/endorsed-distros (2025-05-14T17:01:00Z)
+                Distribution specific requirements:
+                    ☐ Generic steps https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-generic (2024-12-11T05:31:00Z)
+                    ☐ CentOS https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-centos (2024-12-11T05:31:00Z)
+                    ☐ Debian https://learn.microsoft.com/en-us/azure/virtual-machines/linux/debian-create-upload-vhd (2024-12-11T05:31:00Z)
+                    ☐ Flatcar Container Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/flatcar-create-upload-vhd (2024-08-22T17:37:00Z)
+                    ☐ FreeBSD https://learn.microsoft.com/en-us/azure/virtual-machines/linux/freebsd-intro-on-azure (2024-08-22T17:37:00Z)
+                    ☐ Oracle Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/oracle-create-upload-vhd (2025-02-12T23:00:00Z)
+                    ☐ OpenBSD https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-openbsd (2024-11-19T18:02:00Z)
+                    ☐ Red Hat https://learn.microsoft.com/en-us/azure/virtual-machines/linux/redhat-create-upload-vhd (2024-11-25T23:00:00Z)
+                    ☐ SUSE https://learn.microsoft.com/en-us/azure/virtual-machines/linux/suse-create-upload-vhd (2025-02-12T23:00:00Z)
+                    ☐ Ubuntu https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-upload-ubuntu (2025-01-06T05:30:00Z)
+                Use cloud-init:
+                    ☐ Cloud-init overview https://learn.microsoft.com/en-us/azure/virtual-machines/linux/using-cloud-init (2025-03-20T22:02:00Z)
+                    ☐ Deep dive https://learn.microsoft.com/en-us/azure/virtual-machines/linux/cloud-init-deep-dive (2025-05-01T22:33:00Z)
+                    ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/virtual-machines/linux/cloud-init-troubleshooting (2025-05-13T21:59:00Z)
+                    ☐ Configure VM hostname https://learn.microsoft.com/en-us/azure/virtual-machines/linux/cloudinit-update-vm-hostname (2024-08-22T17:37:00Z)
+                    ☐ Update packages in a VM https://learn.microsoft.com/en-us/azure/virtual-machines/linux/cloudinit-update-vm (2024-08-22T17:37:00Z)
+                    ☐ Add a user on a VM https://learn.microsoft.com/en-us/azure/virtual-machines/linux/cloudinit-add-user (2024-08-22T17:37:00Z)
+                    ☐ Configure swapfile https://learn.microsoft.com/en-us/azure/virtual-machines/linux/cloudinit-configure-swapfile (2024-08-22T17:37:00Z)
+                    ☐ Run existing bash script https://learn.microsoft.com/en-us/azure/virtual-machines/linux/cloudinit-bash-script (2024-08-22T17:37:00Z)
+                ☐ Create Linux images without a provisioning agent https://learn.microsoft.com/en-us/azure/virtual-machines/linux/no-agent (2024-08-22T17:37:00Z)
+                ☐ Disable Linux Agent provisioning https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disable-provisioning (2024-08-22T17:37:00Z)
+            Windows custom images:
+                ☐ Prepare a VHD to Upload https://learn.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image (2025-02-18T12:14:00Z)
+                ☐ Visual Studio https://learn.microsoft.com/visualstudio/install/using-visual-studio-vm (2025-04-14T01:03:00Z)
+            VM Image Builder:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/image-builder-overview (2025-05-05T22:07:00Z)
+                CLI:
+                    ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder (2024-08-22T17:37:00Z)
+                    ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/image-builder (2025-05-12T22:01:00Z)
+                PowerShell:
+                    ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/image-builder-powershell (2025-04-23T22:03:00Z)
+                    ☐ Azure Virtual Desktop https://learn.microsoft.com/en-us/azure/virtual-machines/windows/image-builder-virtual-desktop (2025-04-23T22:03:00Z)
+                Security:
+                    ☐ Isolated image builds https://learn.microsoft.com/en-us/azure/virtual-machines/security-isolated-image-builds-image-builder (2025-05-12T22:01:00Z)
+                    ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/virtual-machines/security-controls-policy-image-builder (2024-08-22T17:37:00Z)
+                Use a virtual network:
+                    ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-vnet (2025-02-25T23:00:00Z)
+                    ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/image-builder-vnet (2024-08-22T17:37:00Z)
+                ☐ Networking options https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-networking (2024-10-13T11:09:00Z)
+                Configure permissions:
+                    ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-permissions-cli (2024-10-13T11:09:00Z)
+                    ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-permissions-powershell (2024-10-13T11:09:00Z)
+                ☐ DevOps task https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-devops-task (2024-10-13T11:09:00Z)
+                ☐ VM Image Builder template reference https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-json (2025-05-12T22:01:00Z)
+                Build for image galleries:
+                    ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-gallery (2024-08-22T17:37:00Z)
+                    ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/image-builder-gallery (2025-05-12T22:01:00Z)
+                Update an existing image:
+                    ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-gallery-update-image-version (2024-08-22T17:37:00Z)
+                    ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/image-builder-gallery-update-image-version (2024-08-22T17:37:00Z)
+                ☐ How to enable automatic image creation https://learn.microsoft.com/en-us/azure/virtual-machines/image-builder-triggers-how-to (2024-10-03T20:43:00Z)
+                ☐ Store scripts https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-user-assigned-identity (2024-08-22T17:37:00Z)
+                ☐ What's new in Azure VM Image Builder https://learn.microsoft.com/en-us/azure/virtual-machines/image-builder-api-update-release-notes (2025-05-12T22:01:00Z)
+                ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-troubleshoot (2025-05-12T22:01:00Z)
+                ☐ Best practices https://learn.microsoft.com/en-us/azure/virtual-machines/image-builder-best-practices (2025-05-12T22:01:00Z)
+                ☐ Connecting to Build VM https://learn.microsoft.com/en-us/azure/virtual-machines/linux/image-builder-connect-to-build-vm (2024-08-22T17:37:00Z)
+                ☐ Image Builder Reliability https://learn.microsoft.com/azure/reliability/reliability-image-builder?toc=/azure/virtual-machines/toc.json&bc=/azure/virtual-machines/breadcrumb/toc.json (2025-03-27T22:02:00Z)
+                ☐ Image Optimization https://learn.microsoft.com/en-us/azure/virtual-machines/vm-boot-optimization (2024-08-22T17:37:00Z)
+            Build image with Packer:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/build-image-with-packer (2025-05-06T22:01:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/build-image-with-packer (2024-10-28T22:03:00Z)
+            ☐ Capture a legacy managed image https://learn.microsoft.com/en-us/azure/virtual-machines/capture-image-resource (2024-11-21T05:32:00Z)
+        Dedicated hosts:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/dedicated-hosts (2025-05-01T22:33:00Z)
+            ☐ How-to https://learn.microsoft.com/en-us/azure/virtual-machines/dedicated-hosts-how-to (2024-08-22T17:37:00Z)
+            ☐ General Purpose SKUs https://learn.microsoft.com/en-us/azure/virtual-machines/dedicated-host-general-purpose-skus (2025-05-01T22:33:00Z)
+            ☐ Compute Optimized SKUs https://learn.microsoft.com/en-us/azure/virtual-machines/dedicated-host-compute-optimized-skus (2025-05-01T22:33:00Z)
+            ☐ Memory Optimized SKUs https://learn.microsoft.com/en-us/azure/virtual-machines/dedicated-host-memory-optimized-skus (2025-05-01T22:33:00Z)
+            ☐ Storage Optimized SKUs https://learn.microsoft.com/en-us/azure/virtual-machines/dedicated-host-storage-optimized-skus (2025-05-01T22:33:00Z)
+            ☐ GPU Optimized SKUs https://learn.microsoft.com/en-us/azure/virtual-machines/dedicated-host-gpu-optimized-skus (2025-05-01T22:33:00Z)
+            ☐ Dedicated Host SKU Retirement https://learn.microsoft.com/en-us/azure/virtual-machines/dedicated-host-retirement (2025-05-01T18:06:00Z)
+            ☐ Dedicated Host SKU Migration https://learn.microsoft.com/en-us/azure/virtual-machines/sizes/migration-guides/dedicated-host-migration-guide (2025-03-17T22:00:00Z)
+        Azure Spot Virtual Machines:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/spot-vms (2025-03-14T22:07:00Z)
+            ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/spot-cli (2024-08-22T17:37:00Z)
+            ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/spot-portal (2024-08-22T17:37:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/spot-powershell (2024-08-22T17:37:00Z)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/virtual-machines/linux/spot-template (2024-08-22T17:37:00Z)
+            ☐ Spot Priority Mix https://learn.microsoft.com/azure/virtual-machine-scale-sets/spot-priority-mix?toc=/azure/virtual-machines/toc.json (2025-05-01T05:04:00Z)
+            ☐ Spot Placement Score (Preview) https://learn.microsoft.com/azure/virtual-machine-scale-sets/spot-placement-score?toc=/azure/virtual-machines/toc.json (2025-01-28T23:09:00Z)
+            ☐ VM size recommendation https://learn.microsoft.com/azure/virtual-machine-scale-sets/spot-vm-size-recommendation?toc=/azure/virtual-machines/toc.json (2024-08-22T17:37:00Z)
+            ☐ Error codes https://learn.microsoft.com/en-us/azure/virtual-machines/error-codes-spot (2024-08-22T17:37:00Z)
+            ☐ Handle Spot Evictions https://learn.microsoft.com/azure/architecture/guide/spot/spot-eviction (2025-05-12T17:32:00Z)
+        ☐ Azure Boost https://learn.microsoft.com/azure/azure-boost/overview?toc=/azure/virtual-machines/toc.json&bc=/azure/virtual-machines/breadcrumb/toc.json (2025-03-25T22:04:00Z)
+        Azure Hybrid Benefit:
+            ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-hybrid-benefit-linux (2025-05-01T22:33:00Z)
+            ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hybrid-use-benefit-licensing (2025-01-02T18:01:00Z)
+        Reserved instances:
+            ☐ What are Azure reservations? https://learn.microsoft.com/azure/cost-management-billing/reservations/save-compute-costs-reservations?toc=/azure/virtual-machines/toc.json (2025-04-22T17:03:00Z)
+            ☐ Prepay for VMs https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-reserved-vm-instances (2025-05-01T22:33:00Z)
+            ☐ Prepay for Dedicated Hosts https://learn.microsoft.com/en-us/azure/virtual-machines/prepay-dedicated-hosts-reserved-instances (2025-05-01T22:33:00Z)
+            ☐ VM instance size flexibility https://learn.microsoft.com/en-us/azure/virtual-machines/reserved-vm-instance-size-flexibility (2025-05-01T22:33:00Z)
+        Capacity reservation:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/capacity-reservation-overview (2025-04-30T22:01:00Z)
+            ☐ Create a capacity reservation https://learn.microsoft.com/en-us/azure/virtual-machines/capacity-reservation-create (2024-10-02T11:13:00Z)
+            ☐ Overallocating capacity reservation https://learn.microsoft.com/en-us/azure/virtual-machines/capacity-reservation-overallocate (2024-09-09T22:10:00Z)
+            ☐ Modify a capacity reservation https://learn.microsoft.com/en-us/azure/virtual-machines/capacity-reservation-modify (2024-09-09T22:10:00Z)
+            ☐ Associate a VM https://learn.microsoft.com/en-us/azure/virtual-machines/capacity-reservation-associate-vm (2024-10-02T11:13:00Z)
+            ☐ Remove a VM https://learn.microsoft.com/en-us/azure/virtual-machines/capacity-reservation-remove-vm (2024-09-09T22:10:00Z)
+            ☐ Associate a scale set - Flexible https://learn.microsoft.com/en-us/azure/virtual-machines/capacity-reservation-associate-virtual-machine-scale-set-flex (2024-09-09T22:10:00Z)
+            ☐ Associate a scale set - Uniform https://learn.microsoft.com/en-us/azure/virtual-machines/capacity-reservation-associate-virtual-machine-scale-set (2024-10-02T11:13:00Z)
+            ☐ Remove a scale set https://learn.microsoft.com/en-us/azure/virtual-machines/capacity-reservation-remove-virtual-machine-scale-set (2024-09-09T22:10:00Z)
+        Create Virtual Machines:
+            Linux:
+                ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-cli-complete (2024-08-22T17:37:00Z)
+                ☐ ARM template https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-secured-vm-from-template (2024-08-22T17:37:00Z)
+                ☐ REST with SSH https://learn.microsoft.com/rest/api/compute/virtual-machines/create-or-update?tabs=HTTP#create-a-vm-with-ssh-authentication (2025-04-29T22:11:00Z)
+                ☐ LAMP stack https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-lamp-stack (2025-05-02T05:04:00Z)
+                ☐ LEMP stack https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-lemp-stack (2024-11-21T05:32:00Z)
+                Continuous delivery:
+                    ☐ Configure Rolling deployment strategy https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-devops-azure-pipelines-classic (2024-08-22T17:37:00Z)
+                ☐ Secure web server with TLS\SSL https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-secure-web-server (2024-08-22T17:37:00Z)
+            Windows:
+                ☐ ARM template https://learn.microsoft.com/en-us/azure/virtual-machines/windows/ps-template (2024-08-22T17:37:00Z)
+                ☐ Secure web server with TLS\SSL https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-secure-web-server (2024-11-19T18:02:00Z)
+            ☐ Create from an existing OS disk or VHD https://learn.microsoft.com/en-us/azure/virtual-machines/attach-os-disk (2024-12-13T05:32:00Z)
+        Power states:
+            ☐ Understand VM reboots https://learn.microsoft.com/en-us/azure/virtual-machines/understand-vm-reboots (2025-05-01T22:33:00Z)
+            ☐ Auto-shutdown a VM https://learn.microsoft.com/en-us/azure/virtual-machines/auto-shutdown-vm (2025-03-11T22:04:00Z)
+            Hibernate a VM:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/hibernate-resume (2025-03-18T22:01:00Z)
+                ☐ Hibernate Linux VMs https://learn.microsoft.com/en-us/azure/virtual-machines/linux/hibernate-resume-linux (2025-01-28T18:03:00Z)
+                ☐ Hibernate Windows VMs https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hibernate-resume-windows (2025-03-18T22:01:00Z)
+                Troubleshoot VM hibernation:
+                    ☐ General hibernation troubleshooting https://learn.microsoft.com/en-us/azure/virtual-machines/hibernate-resume-troubleshooting (2025-04-30T17:05:00Z)
+                    ☐ Linux VM hibernation troubleshooting https://learn.microsoft.com/en-us/azure/virtual-machines/linux/hibernate-resume-troubleshooting-linux (2024-08-22T17:37:00Z)
+                    ☐ Windows VM hibernation troubleshooting https://learn.microsoft.com/en-us/azure/virtual-machines/windows/hibernate-resume-troubleshooting-windows (2024-08-22T17:37:00Z)
+        ☐ Delete a VM and its resources https://learn.microsoft.com/en-us/azure/virtual-machines/delete (2024-08-22T17:37:00Z)
+        Connect to Virtual Machines:
+            Linux:
+                ☐ Connect to a Linux VM https://learn.microsoft.com/en-us/azure/virtual-machines/linux-vm-connect (2024-10-16T22:01:00Z)
+                ☐ Create and manage SSH keys locally https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-ssh-keys-detailed (2024-10-17T05:31:00Z)
+                ☐ Create and manage SSH keys in the portal https://learn.microsoft.com/en-us/azure/virtual-machines/ssh-keys-portal (2024-10-16T22:01:00Z)
+                ☐ Create and manage SSH keys with the Azure CLI https://learn.microsoft.com/en-us/azure/virtual-machines/ssh-keys-azure-cli (2025-01-23T23:02:00Z)
+                ☐ SSH on Linux or macOS https://learn.microsoft.com/en-us/azure/virtual-machines/linux/mac-create-ssh-keys (2024-10-16T22:01:00Z)
+                ☐ SSH on Windows https://learn.microsoft.com/en-us/azure/virtual-machines/linux/ssh-from-windows (2024-10-16T22:01:00Z)
+                ☐ Remote Desktop for Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/use-remote-desktop (2024-08-26T21:59:00Z)
+            Windows:
+                ☐ Remote Desktop https://learn.microsoft.com/en-us/azure/virtual-machines/windows/connect-rdp (2024-08-22T17:37:00Z)
+                ☐ SSH https://learn.microsoft.com/en-us/azure/virtual-machines/windows/connect-ssh (2024-08-23T16:58:00Z)
+                ☐ WinRM https://learn.microsoft.com/en-us/azure/virtual-machines/windows/connect-winrm (2024-08-22T17:37:00Z)
+        Time sync:
+            ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/time-sync (2024-12-09T18:01:00Z)
+            ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/time-sync (2025-05-01T22:33:00Z)
+            ☐ Time mechanism for Active Directory Windows Virtual Machines in Azure https://learn.microsoft.com/en-us/azure/virtual-machines/windows/external-ntpsource-configuration (2025-05-01T22:33:00Z)
+        Run Command:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/run-command-overview (2024-08-22T17:37:00Z)
+            ☐ Action Run Commands for Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/run-command (2024-12-02T23:01:00Z)
+            ☐ Action Run Commands for Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/run-command (2025-03-11T17:03:00Z)
+            ☐ Managed Run Commands for Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/run-command-managed (2025-05-14T17:01:00Z)
+            ☐ Managed Run Commands for Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/run-command-managed (2025-05-14T17:01:00Z)
+        Extensions:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/overview (2024-08-22T17:37:00Z)
+            Linux:
+                ☐ Linux features https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/features-linux (2024-10-13T11:09:00Z)
+                ☐ Linux VM Agent https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-linux (2025-04-15T17:03:00Z)
+            Windows:
+                ☐ Windows features https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/features-windows (2024-10-13T11:09:00Z)
+                ☐ Windows VM Agent https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-windows (2025-05-06T22:01:00Z)
+                ☐ Azure Diagnostics Extension https://learn.microsoft.com/en-us/azure/virtual-machines/windows/extensions-diagnostics (2024-08-22T17:37:00Z)
+            Azure Backup for SQL Server:
+                ☐ Azure Backup for SQL Server https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/backup-azure-sql-server-running-azure-vm (2025-04-15T17:03:00Z)
+            Azure Disk Encryption:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/azure-disk-enc-linux (2024-10-13T11:09:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/azure-disk-enc-windows (2024-10-13T11:09:00Z)
+            Azure Key Vault:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/key-vault-linux (2025-04-29T22:02:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/key-vault-windows (2025-04-29T22:02:00Z)
+            ☐ Azure Policy guest configuration https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/guest-configuration (2024-10-13T11:09:00Z)
+            ☐ Application Health Extension https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/health-extension (2025-04-30T05:04:00Z)
+            Custom Script:
+                ☐ Linux - version 2 https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-linux (2025-04-11T05:31:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/custom-script-windows (2025-04-11T05:31:00Z)
+            ☐ IaaS antimalware for Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/iaas-antimalware-windows (2024-12-04T05:31:00Z)
+            VM snapshot:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/vmsnapshot-linux (2024-10-13T11:09:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/vmsnapshot-windows (2024-10-13T11:09:00Z)
+            Network Watcher Extension:
+                ☐ Linux https://learn.microsoft.com/azure/network-watcher/network-watcher-agent-linux?toc=/azure/virtual-machines/toc.json (2025-03-25T22:04:00Z)
+                ☐ Windows https://learn.microsoft.com/azure/network-watcher/network-watcher-agent-windows?toc=/azure/virtual-machines/toc.json (2025-03-19T17:20:00Z)
+                ☐ Update to latest version https://learn.microsoft.com/azure/network-watcher/network-watcher-agent-update?toc=/azure/virtual-machines/toc.json (2025-04-08T22:02:00Z)
+            InfiniBand Drivers:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpc-compute-infiniband-linux (2024-10-13T11:09:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpc-compute-infiniband-windows (2024-10-13T11:09:00Z)
+                ☐ Enable Infiniband https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/enable-infiniband (2024-10-13T11:09:00Z)
+            NVIDIA GPU Drivers:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpccompute-gpu-linux (2025-04-24T17:03:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpccompute-gpu-windows (2024-12-11T05:31:00Z)
+            AMD GPU Drivers:
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpccompute-amd-gpu-windows (2025-05-01T05:04:00Z)
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/hpccompute-amd-gpu-linux (2025-05-02T17:44:00Z)
+            Azure Monitor:
+                ☐ Azure Monitor agent https://learn.microsoft.com/azure/azure-monitor/agents/azure-monitor-agent-manage?toc=/azure/virtual-machines/toc.json (2025-03-03T23:05:00Z)
+                ☐ Diagnostics extension https://learn.microsoft.com/azure/azure-monitor/agents/diagnostics-extension-overview?toc=/azure/virtual-machines/toc.json (2024-11-14T23:04:00Z)
+                VM insights:
+                    ☐ Linux Dependency agent https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-dependency-linux (2025-01-14T23:01:00Z)
+                    ☐ Windows Dependency agent https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/agent-dependency-windows (2025-04-04T17:24:00Z)
+                Legacy extensions:
+                    Log Analytics:
+                        ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/oms-linux (2024-10-13T11:09:00Z)
+                        ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/oms-windows (2024-10-13T11:09:00Z)
+            PowerShell DSC https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/dsc-overview (2025-03-26T22:02:00Z):
+                ☐ DSC and Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/dsc-windows (2025-03-26T22:02:00Z)
+                ☐ Handle credentials https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/dsc-credentials (2025-03-26T22:02:00Z)
+                ☐ Use templates https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/dsc-template (2025-04-10T17:01:00Z)
+            ☐ VMAccess for Linux https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/vmaccess-linux (2025-05-01T22:33:00Z)
+            ☐ VMAccess for Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/vmaccess-windows (2025-05-01T22:33:00Z)
+            Third-party extensions:
+                ☐ Chef https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/chef (2024-10-13T11:09:00Z)
+                ☐ Salt Minion https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/salt-minion (2024-10-13T11:09:00Z)
+                ☐ Stackify Retrace https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/stackify-retrace-linux (2024-10-13T11:09:00Z)
+                ☐ Tenable https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/tenable (2024-10-13T11:09:00Z)
+            Restrict extension installation:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/extensions-rmpolicy-howto-cli (2024-10-13T11:09:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/extensions-rmpolicy-howto-ps (2024-10-13T11:09:00Z)
+            ☐ Update Linux agent https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/update-linux-agent (2024-10-13T11:09:00Z)
+            ☐ Export extensions https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/export-templates (2024-10-13T11:09:00Z)
+            ☐ General troubleshooting steps https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/troubleshoot (2024-08-23T16:58:00Z)
+            ☐ Issues with Python 3-enabled Linux systems https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/issues-using-vm-extensions-python-3 (2024-08-22T17:37:00Z)
+        ☐ Nested virtualization https://learn.microsoft.com/virtualization/hyper-v-on-windows/user-guide/nested-virtualization (2024-10-17T09:35:00Z)
+        Migrate to Azure Resource Manager:
+            ☐ Retirement starting September 6, 2023 https://learn.microsoft.com/en-us/azure/virtual-machines/classic-vm-deprecation (2025-05-01T22:33:00Z)
+            ☐ Migration Overview https://learn.microsoft.com/en-us/azure/virtual-machines/migration/migration-classic-resource-manager-overview (2025-05-01T22:33:00Z)
+            ☐ Deep dive on migration https://learn.microsoft.com/en-us/azure/virtual-machines/migration/migration-classic-resource-manager-deep-dive (2025-05-01T22:33:00Z)
+            ☐ Plan for migration https://learn.microsoft.com/en-us/azure/virtual-machines/migration/migration-classic-resource-manager-plan (2025-05-01T22:33:00Z)
+            ☐ Migrate using the CLI https://learn.microsoft.com/en-us/azure/virtual-machines/migration/migration-classic-resource-manager-cli (2025-03-17T22:00:00Z)
+            ☐ Migrate using PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/migration/migration-classic-resource-manager-ps (2025-03-17T22:00:00Z)
+            ☐ Common migration errors https://learn.microsoft.com/en-us/azure/virtual-machines/migration/migration-classic-resource-manager-errors (2025-03-17T22:00:00Z)
+            ☐ Community tools for migration https://learn.microsoft.com/en-us/azure/virtual-machines/migration/migration-classic-resource-manager-community-tools (2025-05-01T22:33:00Z)
+            ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/migration/migration-classic-resource-manager-faq (2025-03-17T22:00:00Z)
+        ☐ Estimated VM cost card in Portal (Preview) https://learn.microsoft.com/en-us/azure/virtual-machines/estimated-vm-create-cost-card (2024-10-13T11:09:00Z)
+    Availability and scale:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/availability (2025-05-01T22:33:00Z)
+        Availability zones:
+            ☐ Overview https://learn.microsoft.com/azure/reliability/availability-zones-overview?toc=/azure/virtual-machines/toc.json (2025-04-28T17:02:00Z)
+            ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/create-cli-availability-zone (2024-11-21T05:32:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/create-powershell-availability-zone (2024-11-21T05:32:00Z)
+            ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/create-portal-availability-zone (2024-11-21T05:32:00Z)
+            ☐ Migrate to Availability Zones https://learn.microsoft.com/azure/availability-zones/migrate-vm?toc=/azure/virtual-machines/toc.json&bc=/azure/virtual-machines/breadcrumb/toc.json (2025-05-04T05:11:00Z)
+            Regional to zonal move guides:
+                ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/move-virtual-machines-regional-zonal-portal (2024-11-21T05:32:00Z)
+                ☐ PowerShell and CLI https://learn.microsoft.com/en-us/azure/virtual-machines/move-virtual-machines-regional-zonal-powershell (2025-05-04T05:05:00Z)
+                ☐ FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/move-virtual-machines-regional-zonal-faq (2024-11-21T05:32:00Z)
+        Virtual Machine Scale Sets:
+            ☐ Overview https://learn.microsoft.com/azure/virtual-machine-scale-sets/flexible-virtual-machine-scale-sets (2025-03-21T22:00:00Z)
+            ☐ Scaling profiles https://learn.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-scaling-profile (2025-05-01T05:04:00Z)
+            ☐ Attach VMs to a scale set https://learn.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-attach-detach-vm (2025-04-28T22:04:00Z)
+            ☐ Standby pools https://learn.microsoft.com/azure/virtual-machine-scale-sets/standby-pools-overview (2025-05-12T17:01:00Z)
+        Proximity Placement Groups:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/co-location (2025-05-01T22:33:00Z)
+            ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/proximity-placement-groups (2024-08-22T17:37:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/proximity-placement-groups (2024-08-22T17:37:00Z)
+            ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/windows/proximity-placement-groups-portal (2024-12-04T23:03:00Z)
+        ☐ Compute throttling limits https://learn.microsoft.com/en-us/azure/virtual-machines/compute-throttling-limits (2025-05-01T22:33:00Z)
+        ☐ Azure Regions https://learn.microsoft.com/en-us/azure/virtual-machines/regions (2025-05-01T22:33:00Z)
+        Availability sets:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/availability-set-overview (2025-05-01T22:33:00Z)
+            ☐ Change an availability set https://learn.microsoft.com/en-us/azure/virtual-machines/windows/change-availability-set (2024-11-06T23:00:00Z)
+    Disks:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview (2025-05-06T22:01:00Z)
+        ☐ Disk types https://learn.microsoft.com/en-us/azure/virtual-machines/disks-types (2025-05-06T22:01:00Z)
+        ☐ Understand Disk Storage billing https://learn.microsoft.com/en-us/azure/virtual-machines/disks-understand-billing (2025-05-01T22:33:00Z)
+        ☐ Disk redundancy options https://learn.microsoft.com/en-us/azure/virtual-machines/disks-redundancy (2024-11-21T05:32:00Z)
+        ☐ What's new in Azure Disk Storage https://learn.microsoft.com/en-us/azure/virtual-machines/disks-whats-new (2025-05-13T21:59:00Z)
+        ☐ Deploy an ultra disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-ultra-ssd (2024-10-24T22:02:00Z)
+        ☐ Deploy a premium SSD v2 https://learn.microsoft.com/en-us/azure/virtual-machines/disks-deploy-premium-v2 (2025-05-02T22:12:00Z)
+        ☐ Deploy a ZRS disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-deploy-zrs (2024-10-17T05:31:00Z)
+        ☐ Best practices for achieving high availability https://learn.microsoft.com/en-us/azure/virtual-machines/disks-high-availability (2025-05-01T22:33:00Z)
+        Share a disk between VMs:
+            ☐ About shared disks https://learn.microsoft.com/en-us/azure/virtual-machines/disks-shared (2025-05-01T22:33:00Z)
+            ☐ Enable shared disks https://learn.microsoft.com/en-us/azure/virtual-machines/disks-shared-enable (2024-08-23T16:58:00Z)
+        Encryption:
+            ☐ Disk encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption-overview (2025-05-06T22:01:00Z)
+            Server-side encryption:
+                ☐ Server-side encryption overview https://learn.microsoft.com/en-us/azure/virtual-machines/disk-encryption (2025-05-07T22:02:00Z)
+                Enable customer-managed keys:
+                    ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-customer-managed-keys-portal (2024-08-23T16:58:00Z)
+                    ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disks-enable-customer-managed-keys-powershell (2025-04-22T22:02:00Z)
+                    ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disks-enable-customer-managed-keys-cli (2024-08-23T16:58:00Z)
+                ☐ Use customer-managed keys across Microsoft Entra tenants https://learn.microsoft.com/en-us/azure/virtual-machines/disks-cross-tenant-customer-managed-keys (2024-08-22T17:37:00Z)
+                Enable encryption at host:
+                    ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-host-based-encryption-portal (2024-11-22T18:02:00Z)
+                    ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disks-enable-host-based-encryption-powershell (2025-02-26T05:32:00Z)
+                    ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disks-enable-host-based-encryption-cli (2025-02-26T05:32:00Z)
+                ☐ Enable double encryption at rest https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-double-encryption-at-rest-portal (2024-09-27T17:00:00Z)
+            Azure Disk Encryption:
+                Linux:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview (2025-05-01T22:33:00Z)
+                    Quickstarts:
+                        ☐ Azure CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-cli-quickstart (2025-05-14T22:02:00Z)
+                        ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-powershell-quickstart (2024-08-22T17:37:00Z)
+                        ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-portal-quickstart (2024-10-21T17:00:00Z)
+                    ☐ Disk encryption scenarios for Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-linux (2025-05-01T22:33:00Z)
+                    ☐ Key vault for Azure Disk Encryption https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-key-vault (2025-05-01T22:33:00Z)
+                    ☐ Disk encryption sample scripts https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-sample-scripts (2024-10-21T17:00:00Z)
+                    ☐ Disk encryption on an isolated network https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-isolated-network (2025-05-01T22:33:00Z)
+                    ☐ How to verify encryption status https://learn.microsoft.com/en-us/azure/virtual-machines/linux/how-to-verify-encryption-status (2024-11-19T18:02:00Z)
+                    ☐ How to configure LVM RAID on crypt https://learn.microsoft.com/en-us/azure/virtual-machines/linux/how-to-configure-lvm-raid-on-crypt (2024-08-22T17:37:00Z)
+                    ☐ How to resize encrypted LVM volumes https://learn.microsoft.com/en-us/azure/virtual-machines/linux/how-to-resize-encrypted-lvm (2024-11-21T22:59:00Z)
+                    ☐ Disk encryption troubleshooting https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-troubleshooting (2024-10-21T17:00:00Z)
+                    ☐ Disk encryption FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-faq (2024-08-22T17:37:00Z)
+                    ☐ Upgrade from previous to current version https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-upgrade (2025-04-29T22:02:00Z)
+                    Disk encryption - previous version:
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-overview-aad (2025-05-01T22:33:00Z)
+                        ☐ Key vault for Azure Disk Encryption https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-key-vault-aad (2025-05-14T22:02:00Z)
+                        ☐ Disk encryption scenarios for Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disk-encryption-linux-aad (2025-05-01T22:33:00Z)
+                Windows:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-overview (2025-05-01T22:33:00Z)
+                    Quickstarts:
+                        ☐ Azure CLI https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-cli-quickstart (2025-05-14T22:02:00Z)
+                        ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-powershell-quickstart (2025-05-14T22:02:00Z)
+                        ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-portal-quickstart (2025-05-14T22:02:00Z)
+                    ☐ Disk encryption scenarios for Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-windows (2025-03-04T05:30:00Z)
+                    ☐ Key vault for Azure Disk Encryption https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-key-vault (2024-08-22T17:37:00Z)
+                    ☐ Disk encryption sample scripts https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-sample-scripts (2025-05-14T22:02:00Z)
+                    ☐ Disk encryption troubleshooting https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-troubleshooting (2025-05-14T22:02:00Z)
+                    ☐ Disk encryption FAQ https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-faq (2024-08-22T17:37:00Z)
+                    Disk encryption - previous version:
+                        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-overview-aad (2025-05-14T22:02:00Z)
+                        ☐ Key vault for Azure Disk Encryption https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-key-vault-aad (2025-05-14T22:02:00Z)
+                        ☐ Disk encryption scenarios for Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disk-encryption-windows-aad (2025-05-14T22:02:00Z)
+        Performance and cost optimization:
+            ☐ Performance options for managed disks https://learn.microsoft.com/en-us/azure/virtual-machines/disks-performance-options (2025-05-01T22:33:00Z)
+            ☐ Increase performance of premium SSD and standard SSD/HDDs https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-performance (2025-04-14T22:02:00Z)
+            ☐ Virtual machine and disk performance https://learn.microsoft.com/en-us/azure/virtual-machines/disks-performance (2025-05-01T22:33:00Z)
+            ☐ Disk Storage reservations https://learn.microsoft.com/azure/cost-management-billing/reservations/understand-disk-reservations?toc=/azure/virtual-machines/toc.json (2025-04-22T05:11:00Z)
+            ☐ Reserve Disk Storage https://learn.microsoft.com/en-us/azure/virtual-machines/disks-reserved-capacity (2024-08-22T17:37:00Z)
+            ☐ Design for high performance https://learn.microsoft.com/en-us/azure/virtual-machines/premium-storage-performance (2025-05-01T22:33:00Z)
+            ☐ Disk related metrics https://learn.microsoft.com/en-us/azure/virtual-machines/disks-metrics (2025-05-01T22:33:00Z)
+            ☐ Disk bursting models https://learn.microsoft.com/en-us/azure/virtual-machines/disk-bursting (2025-05-06T22:01:00Z)
+            ☐ Enable on-demand bursting https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-bursting (2025-02-25T23:00:00Z)
+            ☐ Disk performance tiers https://learn.microsoft.com/en-us/azure/virtual-machines/disks-change-performance (2025-05-06T22:01:00Z)
+            ☐ Change disk performance tier https://learn.microsoft.com/en-us/azure/virtual-machines/disks-performance-tiers (2025-01-16T05:32:00Z)
+            ☐ Enable write accelerator https://learn.microsoft.com/en-us/azure/virtual-machines/how-to-enable-write-accelerator (2025-01-14T23:01:00Z)
+            ☐ Benchmark a disk https://learn.microsoft.com/en-us/azure/virtual-machines/disks-benchmarks (2025-05-06T22:01:00Z)
+        ☐ Scalability targets for disks https://learn.microsoft.com/en-us/azure/virtual-machines/disks-scalability-targets (2025-05-01T22:33:00Z)
+        Backup and data protection:
+            ☐ Create incremental snapshots https://learn.microsoft.com/en-us/azure/virtual-machines/disks-incremental-snapshots (2024-12-09T23:00:00Z)
+            ☐ Copy incremental snapshots across regions https://learn.microsoft.com/en-us/azure/virtual-machines/disks-copy-incremental-snapshot-across-regions (2024-08-22T17:37:00Z)
+            Azure Disk Backup:
+                ☐ Overview https://learn.microsoft.com/azure/backup/disk-backup-overview?toc=/azure/virtual-machines/toc.json (2025-05-06T11:12:00Z)
+                ☐ Configure Azure Disk Backup https://learn.microsoft.com/azure/backup/backup-managed-disks?toc=/azure/virtual-machines/toc.json (2025-05-06T11:12:00Z)
+                ☐ Restore disks with Azure Disk Backup https://learn.microsoft.com/azure/backup/restore-managed-disks?toc=/azure/virtual-machines/toc.json (2025-04-23T17:03:00Z)
+            ☐ Backup and disaster recovery for managed disks https://learn.microsoft.com/en-us/azure/virtual-machines/backup-and-disaster-recovery-for-azure-iaas-disks (2025-05-01T22:33:00Z)
+            ☐ Snapshot a disk https://learn.microsoft.com/en-us/azure/virtual-machines/snapshot-copy-managed-disk (2025-04-01T22:01:00Z)
+            ☐ Backup unmanaged disks https://learn.microsoft.com/en-us/azure/virtual-machines/unmanaged-disks-incremental-snapshots (2024-09-25T21:59:00Z)
+            ☐ Backup and disaster recovery for unmanaged disks https://learn.microsoft.com/en-us/azure/virtual-machines/page-blobs-backup-and-disaster-recovery (2025-05-01T22:33:00Z)
+        Ephemeral OS disks:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/ephemeral-os-disks (2024-10-18T17:01:00Z)
+            ☐ Create a VM using ephemeral OS disks https://learn.microsoft.com/en-us/azure/virtual-machines/ephemeral-os-disks-deploy (2024-08-22T17:37:00Z)
+            ☐ FAQ on ephemeral OS disks https://learn.microsoft.com/en-us/azure/virtual-machines/ephemeral-os-disks-faq (2024-10-18T17:01:00Z)
+        Securely import/export a disk:
+            ☐ Options for restricting access https://learn.microsoft.com/en-us/azure/virtual-machines/disks-restrict-import-export-overview (2024-09-25T21:59:00Z)
+            ☐ Configure private links for disks - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disks-export-import-private-links-cli (2024-08-23T16:58:00Z)
+            ☐ Configure private links for disks - Portal https://learn.microsoft.com/en-us/azure/virtual-machines/disks-enable-private-links-for-import-export-portal (2025-05-01T18:06:00Z)
+            ☐ Upload a vhd to a disk - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/disks-upload-vhd-to-managed-disk-powershell (2025-02-14T12:07:00Z)
+            ☐ Upload a vhd to a disk - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/disks-upload-vhd-to-managed-disk-cli (2024-08-22T17:37:00Z)
+            Export to a storage account:
+                ☐ Export a snapshot as a VHD to a storage account - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/copy-snapshot-to-storage-account (2024-08-22T17:37:00Z)
+                ☐ Export a managed disk as a VHD to a storage account - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/copy-managed-disks-vhd-to-storage-account (2024-08-22T17:37:00Z)
+                ☐ Export a snapshot as a VHD to a storage account - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-copy-snapshot-to-storage-account (2025-01-23T18:03:00Z)
+                ☐ Export a managed disk as a VHD to a storage account - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-copy-managed-disks-vhd (2025-01-23T18:03:00Z)
+            Download a VHD:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/download-vhd (2024-08-23T16:58:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/download-vhd (2025-02-13T05:31:00Z)
+        Migration and conversion:
+            ☐ Change disk types https://learn.microsoft.com/en-us/azure/virtual-machines/disks-convert-types (2025-05-16T05:04:00Z)
+            ☐ Migrate from LRS to ZRS https://learn.microsoft.com/en-us/azure/virtual-machines/disks-migrate-lrs-zrs (2025-05-01T22:33:00Z)
+            Migrate to the same or different subscription:
+                ☐ Copy a managed disk to the same or different subscription - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/copy-managed-disks-to-same-or-different-subscription (2024-08-22T17:37:00Z)
+                ☐ Copy a snapshot to the same or different subscription - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/copy-snapshot-to-same-or-different-subscription (2024-08-22T17:37:00Z)
+                ☐ Copy a snapshot to the same or different subscription - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-copy-snapshot-to-same-or-different-subscription (2024-08-23T16:58:00Z)
+            ☐ Migrate AWS and on-premises disk to Azure https://learn.microsoft.com/en-us/azure/virtual-machines/windows/on-prem-to-azure (2025-05-01T22:33:00Z)
+            Migrate to premium SSDs with Azure Site Recovery:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/migrate-to-premium-storage-using-azure-site-recovery (2024-08-22T17:37:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/migrate-to-premium-storage-using-azure-site-recovery (2025-01-17T12:05:00Z)
+            ☐ Migrate to Managed Disks https://learn.microsoft.com/en-us/azure/virtual-machines/windows/migrate-to-managed-disks (2025-01-17T12:05:00Z)
+            ☐ Unmanaged Disks retirement https://learn.microsoft.com/en-us/azure/virtual-machines/unmanaged-disks-deprecation (2025-05-01T22:33:00Z)
+            Unmanaged VM to Managed Disks:
+                ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/convert-unmanaged-to-managed-disks (2024-08-23T16:58:00Z)
+                ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/convert-unmanaged-to-managed-disks (2024-10-29T05:31:00Z)
+        Create resources:
+            ☐ Create a disk from a VHD - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/create-managed-disk-from-vhd (2024-08-22T17:37:00Z)
+            ☐ Create a disk from a snapshot - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/create-managed-disk-from-snapshot (2024-08-22T17:37:00Z)
+            ☐ Create a disk from a VHD - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-create-managed-disk-from-vhd (2024-12-19T18:03:00Z)
+            ☐ Create a disk from a snapshot - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-create-managed-disk-from-snapshot (2024-08-22T17:37:00Z)
+            ☐ Create a snapshot from a VHD - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/virtual-machines-powershell-sample-create-snapshot-from-vhd (2024-08-22T17:37:00Z)
+            ☐ Create virtual machine from snapshot - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/create-vm-from-snapshot (2024-08-22T17:37:00Z)
+            ☐ Create virtual machine from existing OS disk - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/scripts/create-vm-from-managed-os-disks (2024-08-22T17:37:00Z)
+        Add a data disk:
+            Linux:
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/add-disk (2024-12-09T23:00:00Z)
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-machines/linux/attach-disk-portal (2025-05-09T05:04:00Z)
+            Windows:
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/attach-disk-ps (2024-12-09T23:00:00Z)
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/virtual-machines/windows/attach-managed-disk-portal (2025-01-07T18:04:00Z)
+                ☐ Change temp disk drive letter https://learn.microsoft.com/en-us/azure/virtual-machines/windows/change-drive-letter (2024-08-22T17:37:00Z)
+        Detach a disk:
+            ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/detach-disk (2024-12-09T23:00:00Z)
+            ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/detach-disk (2024-12-09T23:00:00Z)
+        Expand a disk:
+            ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/expand-disks (2025-01-22T18:02:00Z)
+            ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/expand-disks (2024-12-12T23:03:00Z)
+            ☐ Unmanaged disks https://learn.microsoft.com/en-us/azure/virtual-machines/expand-unmanaged-disks (2024-10-13T11:09:00Z)
+        Architecture:
+            ☐ Azure Well-Architected Framework Disk Storage considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-disk-storage?toc=/azure/virtual-machines/toc.json (2025-02-24T18:00:00Z)
+        Manage storage:
+            ☐ Deploy disks with ARM template https://learn.microsoft.com/en-us/azure/virtual-machines/using-managed-disks-template-deployments (2024-08-22T17:37:00Z)
+            ☐ Use Storage Explorer to manage disks https://learn.microsoft.com/en-us/azure/virtual-machines/disks-use-storage-explorer-managed-disks (2024-08-22T17:37:00Z)
+            ☐ Swap the OS disk - CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/os-disk-swap (2024-08-22T17:37:00Z)
+            ☐ Swap the OS disk - PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/os-disk-swap (2024-08-22T17:37:00Z)
+            ☐ Map managed disk to guest disk - Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-to-guest-disk-mapping (2024-08-22T17:37:00Z)
+            ☐ Map managed disk to guest disk - Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/azure-to-guest-disk-mapping (2024-08-22T17:37:00Z)
+            File storage:
+                ☐ Copy files to a VM https://learn.microsoft.com/en-us/azure/virtual-machines/copy-files-to-vm-using-scp (2024-08-22T17:37:00Z)
+            Find unattached disks:
+                ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/find-unattached-disks (2024-08-22T17:37:00Z)
+                ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/find-unattached-disks (2024-08-22T17:37:00Z)
+                ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/disks-find-unattached-portal (2024-08-22T17:37:00Z)
+            ☐ Disks FAQs https://learn.microsoft.com/en-us/azure/virtual-machines/faq-for-disks (2025-04-14T22:02:00Z)
+    Networking:
+        ☐ Overview https://learn.microsoft.com/azure/virtual-network/network-overview?toc=/azure/virtual-machines/toc.json (2025-04-15T22:03:00Z)
+        ☐ Optimize network throughput https://learn.microsoft.com/azure/virtual-network/virtual-network-optimize-network-bandwidth?toc=/azure/virtual-machines/toc.json (2024-11-22T23:02:00Z)
+        ☐ Best practices https://learn.microsoft.com/azure/virtual-network/concepts-and-best-practices (2025-04-15T17:03:00Z)
+        ☐ Create virtual network https://learn.microsoft.com/azure/virtual-network/quick-create-cli?toc=/azure/virtual-machines/toc.json (2025-04-23T22:04:00Z)
+        Filter network traffic:
+            ☐ Azure portal https://learn.microsoft.com/azure/virtual-network/tutorial-filter-network-traffic?toc=/azure/virtual-machines/toc.json (2025-02-21T12:12:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/tutorial-filter-network-traffic-powershell?toc=/azure/virtual-machines/toc.json (2025-02-21T12:12:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/azure/virtual-network/tutorial-filter-network-traffic-cli?toc=/azure/virtual-machines/toc.json (2025-02-21T12:12:00Z)
+        ☐ Network security group test https://learn.microsoft.com/en-us/azure/virtual-machines/network-security-group-test (2024-09-22T11:15:00Z)
+        Create VM - static public IP:
+            ☐ Azure portal https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-portal?toc=/azure/virtual-machines/toc.json (2024-11-26T05:33:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-ps?toc=/azure/virtual-machines/toc.json (2024-11-26T05:33:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-11-26T05:33:00Z)
+            ☐ Add public IP address to existing VM https://learn.microsoft.com/azure/virtual-network/ip-services/associate-public-ip-address-vm?toc=/azure/virtual-machines/toc.json (2025-01-22T18:07:00Z)
+            ☐ Dissociate public IP address from a VM https://learn.microsoft.com/azure/virtual-network/ip-services/remove-public-ip-address-vm?toc=/azure/virtual-machines/toc.json (2024-12-12T23:04:00Z)
+        Create VM - static private IP:
+            ☐ Azure portal https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-pportal?toc=/azure/virtual-machines/toc.json (2025-02-06T18:03:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-ps?toc=/azure/virtual-machines/toc.json (2025-02-06T18:03:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-networks-static-private-ip-arm-cli?toc=/azure/virtual-machines/toc.json (2025-02-06T18:03:00Z)
+        Create VM - multiple IPs:
+            ☐ Azure portal https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-multiple-ip-addresses-portal?toc=/azure/virtual-machines/toc.json (2025-02-10T23:04:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-multiple-ip-addresses-powershell?toc=/azure/virtual-machines/toc.json (2024-08-22T19:16:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-multiple-ip-addresses-cli?toc=/azure/virtual-machines/toc.json (2024-08-22T19:16:00Z)
+            ☐ Add or remove network interfaces https://learn.microsoft.com/azure/virtual-network/virtual-network-network-interface-vm?toc=/azure/virtual-machines/toc.json (2025-04-22T05:11:00Z)
+            Create VM - multiple NICs:
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/multiple-nics (2024-08-22T17:37:00Z)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/multiple-nics (2025-05-02T05:04:00Z)
+        Create VM - accelerated networking:
+            ☐ Azure PowerShell https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-powershell?toc=/azure/virtual-machines/toc.json (2025-02-05T05:33:00Z)
+            Azure CLI https://learn.microsoft.com/azure/virtual-network/create-vm-accelerated-networking-cli?toc=/azure/virtual-machines/toc.json (2025-02-05T05:33:00Z):
+                ☐ Set up DPDK https://learn.microsoft.com/azure/virtual-network/setup-dpdk?toc=/azure/virtual-machines/toc.json (2024-10-03T11:22:00Z)
+        ☐ TCP/IP performance tuning for Azure VMs https://learn.microsoft.com/azure/virtual-network/virtual-network-tcpip-performance-tuning?toc=/azure/virtual-machines/toc.json (2025-04-22T05:11:00Z)
+        ☐ Virtual machine network throughput https://learn.microsoft.com/azure/virtual-network/virtual-machine-network-throughput?toc=/azure/virtual-machines/toc.json (2025-04-15T17:03:00Z)
+        Create a DDOS protection plan:
+            ☐ Portal https://learn.microsoft.com/azure/ddos-protection/manage-ddos-protection?toc=/azure/virtual-machines/toc.json (2025-03-26T17:06:00Z)
+            ☐ PowerShell https://learn.microsoft.com/azure/ddos-protection/manage-ddos-protection-powershell?toc=/azure/virtual-machines/toc.json (2025-03-26T17:06:00Z)
+            ☐ CLI https://learn.microsoft.com/azure/ddos-protection/manage-ddos-protection-cli?toc=/azure/virtual-machines/toc.json (2025-03-26T17:06:00Z)
+            ☐ ARM template https://learn.microsoft.com/azure/ddos-protection/manage-ddos-protection-template?toc=/azure/virtual-machines/toc.json (2025-03-26T17:06:00Z)
+        ☐ Migrate a virtual machine public IP address https://learn.microsoft.com/azure/virtual-network/nat-gateway/tutorial-migrate-ilip-nat?toc=/azure/virtual-machines/toc.json (2024-10-22T05:31:00Z)
+        ☐ Assign public IP address https://learn.microsoft.com/azure/virtual-network/ip-services/virtual-network-deploy-static-pip-arm-cli?toc=/azure/virtual-machines/toc.json (2024-11-26T05:33:00Z)
+        ☐ Use a custom domain name https://learn.microsoft.com/en-us/azure/virtual-machines/custom-domain (2024-08-22T17:37:00Z)
+        Use multiple NICs:
+            ☐ Linux using CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/multiple-nics (2025-05-02T05:04:00Z)
+            ☐ Windows using PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/multiple-nics (2024-08-22T17:37:00Z)
+        ☐ Assign public DNS name https://learn.microsoft.com/en-us/azure/virtual-machines/create-fqdn (2024-08-22T17:37:00Z)
+        ☐ DNS resolution for Linux Azure VMs https://learn.microsoft.com/en-us/azure/virtual-machines/linux/azure-dns (2025-05-01T22:33:00Z)
+        ☐ Use internal DNS https://learn.microsoft.com/en-us/azure/virtual-machines/linux/static-dns-name-resolution-for-linux-on-azure (2024-08-22T17:37:00Z)
+    Security:
+        ☐ Overview https://learn.microsoft.com/azure/security/fundamentals/virtual-machines-overview?toc=/azure/virtual-machines/toc.json (2025-04-24T05:12:00Z)
+        ☐ Zero trust principles https://learn.microsoft.com/security/zero-trust/azure-infrastructure-virtual-machines (2024-10-22T22:01:00Z)
+        ☐ Microsoft Defender for Cloud https://learn.microsoft.com/azure/security-center/security-center-introduction (2025-05-13T17:04:00Z)
+        Security baselines:
+            ☐ Linux https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-machines-linux-security-baseline?toc=/azure/virtual-machines/toc.json (2025-04-25T19:44:00Z)
+            ☐ Windows https://learn.microsoft.com/security/benchmark/azure/baselines/virtual-machines-windows-security-baseline?toc=/azure/virtual-machines/toc.json (2025-04-25T19:44:00Z)
+        Trusted launch:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/trusted-launch (2025-05-14T17:01:00Z)
+            ☐ Deploy Trusted Launch VM https://learn.microsoft.com/en-us/azure/virtual-machines/trusted-launch-portal (2024-12-04T05:31:00Z)
+            Enable Trusted launch on existing Compute:
+                Enable Trusted launch on existing VM:
+                    ☐ Generation 2 VM https://learn.microsoft.com/en-us/azure/virtual-machines/trusted-launch-existing-vm (2025-02-05T12:13:00Z)
+                    ☐ Generation 1 VM https://learn.microsoft.com/en-us/azure/virtual-machines/trusted-launch-existing-vm-gen-1 (2025-03-20T17:01:00Z)
+                ☐ Enable Trusted launch on existing Virtual Machine Scale Sets https://learn.microsoft.com/en-us/azure/virtual-machines/trusted-launch-existing-vmss (2025-04-30T11:11:00Z)
+            ☐ Boot integrity monitoring https://learn.microsoft.com/en-us/azure/virtual-machines/boot-integrity-monitoring-overview (2025-05-01T22:33:00Z)
+            ☐ Trusted Launch FAQs https://learn.microsoft.com/en-us/azure/virtual-machines/trusted-launch-faq (2025-05-14T17:01:00Z)
+            ☐ Secure Boot UEFI Keys https://learn.microsoft.com/en-us/azure/virtual-machines/trusted-launch-secure-boot-custom-uefi (2025-05-01T22:33:00Z)
+        ☐ Just-in-time access https://learn.microsoft.com/azure/security-center/security-center-just-in-time (2025-02-19T12:18:00Z)
+        Policy:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/security-policy (2025-05-01T22:33:00Z)
+            ☐ Controls by policy https://learn.microsoft.com/en-us/azure/virtual-machines/security-controls-policy (2024-08-22T17:37:00Z)
+            ☐ Policy reference https://learn.microsoft.com/en-us/azure/virtual-machines/policy-reference (2024-08-22T17:37:00Z)
+            Assign policies:
+                ☐ Portal https://learn.microsoft.com/azure/governance/policy/assign-policy-portal?toc=/azure/virtual-machines/toc.json (2025-03-12T05:33:00Z)
+                ☐ Azure CLI https://learn.microsoft.com/azure/governance/policy/assign-policy-azurecli?toc=/azure/virtual-machines/toc.json (2025-03-04T05:37:00Z)
+                ☐ Terraform https://learn.microsoft.com/azure/governance/policy/assign-policy-terraform?toc=/azure/virtual-machines/toc.json (2025-04-04T22:04:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/azure/governance/policy/assign-policy-powershell?toc=/azure/virtual-machines/toc.json (2025-03-04T05:37:00Z)
+                ☐ .NET https://learn.microsoft.com/azure/governance/policy/assign-policy-dotnet?toc=/azure/virtual-machines/toc.json (2025-03-04T05:37:00Z)
+                ☐ JavaScript https://learn.microsoft.com/azure/governance/policy/assign-policy-javascript?toc=/azure/virtual-machines/toc.json (2025-03-04T05:37:00Z)
+                ☐ Python https://learn.microsoft.com/azure/governance/policy/assign-policy-python?toc=/azure/virtual-machines/toc.json (2025-03-04T05:37:00Z)
+                ☐ REST https://learn.microsoft.com/azure/governance/policy/assign-policy-rest-api?toc=/azure/virtual-machines/toc.json (2025-03-04T05:37:00Z)
+                ☐ ARM template https://learn.microsoft.com/azure/governance/policy/assign-policy-template?toc=/azure/virtual-machines/toc.json (2025-03-04T05:37:00Z)
+                ☐ Bicep https://learn.microsoft.com/azure/governance/policy/assign-policy-bicep?toc=/azure/virtual-machines/toc.json (2025-03-04T05:37:00Z)
+        Bastion:
+            ☐ Overview https://learn.microsoft.com/azure/bastion/bastion-overview (2025-03-14T22:03:00Z)
+            Create a Bastion host:
+                ☐ Portal https://learn.microsoft.com/azure/bastion/tutorial-create-host-portal (2025-03-12T22:03:00Z)
+                ☐ PowerShell https://learn.microsoft.com/azure/bastion/bastion-create-host-powershell (2025-03-03T23:06:00Z)
+                ☐ CLI https://learn.microsoft.com/azure/bastion/create-host-cli (2025-03-03T23:06:00Z)
+                ☐ Bastion SSH connection https://learn.microsoft.com/azure/bastion/bastion-connect-vm-ssh-linux (2025-03-31T22:05:00Z)
+                ☐ Bastion RDP connection https://learn.microsoft.com/azure/bastion/bastion-connect-vm-rdp-windows (2025-03-31T22:05:00Z)
+            ☐ Use access controls https://learn.microsoft.com/azure/role-based-access-control/overview (2025-03-23T11:20:00Z)
+            Create a Key Vault:
+                ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/linux/key-vault-setup (2024-08-22T17:37:00Z)
+                ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/windows/key-vault-setup (2024-08-22T17:37:00Z)
+        ☐ Mitigating speculative execution https://learn.microsoft.com/en-us/azure/virtual-machines/mitigate-se (2025-05-01T22:33:00Z)
+        Join a Linux VM to Microsoft Entra ID:
+            ☐ Red Hat Enterprise Linux https://learn.microsoft.com/azure/active-directory-domain-services/join-rhel-linux-vm (2025-04-29T17:01:00Z)
+            ☐ CentOS https://learn.microsoft.com/azure/active-directory-domain-services/join-centos-linux-vm (2025-03-10T17:02:00Z)
+            ☐ Ubuntu https://learn.microsoft.com/azure/active-directory-domain-services/join-ubuntu-linux-vm (2025-03-10T17:02:00Z)
+        Configure managed identities:
+            ☐ Portal https://learn.microsoft.com/entra/identity/managed-identities-azure-resources/qs-configure-portal-windows-vm?toc=/azure/virtual-machines/toc.json (2025-02-28T12:09:00Z)
+            ☐ CLI https://learn.microsoft.com/entra/identity/managed-identities-azure-resources/qs-configure-cli-windows-vm?toc=/azure/virtual-machines/toc.json (2025-02-28T12:09:00Z)
+            ☐ PowerShell https://learn.microsoft.com/entra/identity/managed-identities-azure-resources/qs-configure-powershell-windows-vm?toc=/azure/virtual-machines/toc.json (2025-02-28T12:09:00Z)
+            ☐ Azure Resource Manager Template https://learn.microsoft.com/entra/identity/managed-identities-azure-resources/qs-configure-template-windows-vm?toc=/azure/virtual-machines/toc.json (2025-02-28T12:09:00Z)
+            ☐ REST https://learn.microsoft.com/entra/identity/managed-identities-azure-resources/qs-configure-rest-vm?toc=/azure/virtual-machines/toc.json (2025-02-28T12:09:00Z)
+            ☐ Azure SDKs https://learn.microsoft.com/entra/identity/managed-identities-azure-resources/qs-configure-sdk-windows-vm?toc=/azure/virtual-machines/toc.json (2025-02-28T12:09:00Z)
+        ☐ Linux VMs SSH with Microsoft Entra ID https://learn.microsoft.com/entra/identity/devices/howto-vm-sign-in-azure-ad-linux?toc=/azure/virtual-machines/toc.json (2025-04-29T17:01:00Z)
+        ☐ Windows VMs and Microsoft Entra ID https://learn.microsoft.com/entra/identity/devices/howto-vm-sign-in-azure-ad-windows?toc=/azure/virtual-machines/toc.json (2025-04-25T22:01:00Z)
+    Updates and maintenance:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/updates-maintenance-overview (2024-09-27T05:34:00Z)
+        ☐ Automatic OS image upgrade https://learn.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-automatic-upgrade?toc=/azure/virtual-machines/toc.json (2025-05-01T05:04:00Z)
+        ☐ Windows Server in-place upgrade https://learn.microsoft.com/en-us/azure/virtual-machines/windows-in-place-upgrade (2025-03-12T22:01:00Z)
+        Automatic VM guest patching:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/automatic-vm-guest-patching (2025-03-21T17:01:00Z)
+            ☐ Hotpatch https://learn.microsoft.com/azure/automanage/automanage-hotpatch?toc=/azure/virtual-machines/toc.json (2025-04-28T22:34:00Z)
+        ☐ Automatic extension upgrade https://learn.microsoft.com/en-us/azure/virtual-machines/automatic-extension-upgrade (2025-02-16T12:12:00Z)
+        ☐ Update Management in Azure Automation https://learn.microsoft.com/azure/automation/update-management/overview?toc=/azure/virtual-machines/toc.json (2025-04-21T22:06:00Z)
+        ☐ Update Manager https://learn.microsoft.com/azure/update-center/ (2025-04-24 11:21 AM)
+        Maintenance:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/maintenance-and-updates (2025-05-01T22:33:00Z)
+            Maintenance notifications:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/maintenance-notifications (2025-05-01T22:33:00Z)
+                ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/maintenance-notifications-cli (2024-08-23T16:58:00Z)
+                ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/maintenance-notifications-portal (2024-08-22T17:37:00Z)
+                ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/maintenance-notifications-powershell (2024-08-23T16:58:00Z)
+            Maintenance configurations:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/maintenance-configurations (2025-04-02T17:03:00Z)
+                ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/maintenance-configurations-cli (2025-04-15T22:02:00Z)
+                ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/maintenance-configurations-powershell (2025-04-15T22:02:00Z)
+                ☐ Bicep https://learn.microsoft.com/en-us/azure/virtual-machines/maintenance-configurations-bicep (2025-04-15T22:02:00Z)
+                ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/maintenance-configurations-portal (2024-08-22T17:37:00Z)
+                ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/virtual-machines/troubleshoot-maintenance-configurations (2025-05-01T22:33:00Z)
+                Maintenance control for OS image upgrade:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machine-scale-sets-maintenance-control (2024-10-22T22:00:00Z)
+                    ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machine-scale-sets-maintenance-control-powershell (2024-08-22T17:37:00Z)
+                    ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machine-scale-sets-maintenance-control-cli (2024-08-22T17:37:00Z)
+                    ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machine-scale-sets-maintenance-control-portal (2024-08-22T17:37:00Z)
+                    ☐ ARM Template https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machine-scale-sets-maintenance-control-template (2024-08-22T17:37:00Z)
+            Scheduled events:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/scheduled-events (2024-11-07T05:31:00Z)
+                Windows:
+                    ☐ Scheduled events https://learn.microsoft.com/en-us/azure/virtual-machines/windows/scheduled-events (2025-02-25T23:00:00Z)
+                    ☐ Monitor scheduled events https://learn.microsoft.com/en-us/azure/virtual-machines/windows/scheduled-event-service (2024-12-19T22:58:00Z)
+    Monitoring:
+        ☐ Monitor Virtual Machines https://learn.microsoft.com/en-us/azure/virtual-machines/monitor-vm?toc=/azure/virtual-machines/toc.json (2025-05-01T22:33:00Z)
+        ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/virtual-machines/monitor-vm-reference?toc=/azure/virtual-machines/toc.json (2025-01-24T18:01:00Z)
+        ☐ Monitoring VMs with Prometheus https://learn.microsoft.com/azure/azure-monitor/essentials/prometheus-remote-write-virtual-machines?toc=/azure/virtual-machines/toc.json (2025-04-17T22:44:00Z)
+        ☐ Availability with Resource Graph https://learn.microsoft.com/en-us/azure/virtual-machines/resource-graph-availability (2025-05-01T22:33:00Z)
+        VM watch:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/azure-vm-watch (2025-05-01T22:33:00Z)
+            ☐ Install VM watch https://learn.microsoft.com/en-us/azure/virtual-machines/install-vm-watch (2025-01-13T23:00:00Z)
+            ☐ VM watch Collectors Suite https://learn.microsoft.com/en-us/azure/virtual-machines/vm-watch-collector-suite (2025-05-01T22:33:00Z)
+            ☐ Configure VM watch https://learn.microsoft.com/en-us/azure/virtual-machines/configure-vm-watch (2025-03-03T23:05:00Z)
+            ☐ Configure Event Hub https://learn.microsoft.com/en-us/azure/virtual-machines/configure-eventhub-vm-watch (2025-03-03T23:05:00Z)
+        Monitor availability:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/flash-overview (2025-05-01T22:33:00Z)
+            ☐ Use Azure Resource Graph https://learn.microsoft.com/en-us/azure/virtual-machines/flash-azure-resource-graph (2025-05-01T22:33:00Z)
+            ☐ Use Azure Event Grid https://learn.microsoft.com/en-us/azure/virtual-machines/flash-event-grid-system-topic (2025-05-01T22:33:00Z)
+            ☐ Use Azure Monitor https://learn.microsoft.com/en-us/azure/virtual-machines/flash-azure-monitor (2025-05-01T22:33:00Z)
+            ☐ Use Azure Resource Health https://learn.microsoft.com/en-us/azure/virtual-machines/flash-azure-resource-health (2025-05-01T22:33:00Z)
+        ☐ Analyze availability https://learn.microsoft.com/en-us/azure/virtual-machines/resource-graph-availability (2025-05-01T22:33:00Z)
+        ☐ VM usage https://learn.microsoft.com/en-us/azure/virtual-machines/vm-usage (2025-04-15T22:02:00Z)
+        ☐ Tag a VM https://learn.microsoft.com/azure/azure-resource-manager/management/tag-resources (2025-03-26T22:03:00Z)
+        ☐ Monitor metadata https://learn.microsoft.com/en-us/azure/virtual-machines/instance-metadata-service (2025-04-11T05:31:00Z)
+        Metadata Security Protocol:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/metadata-security-protocol/overview (2025-04-23T22:03:00Z)
+            ☐ MSP Configuration https://learn.microsoft.com/en-us/azure/virtual-machines/metadata-security-protocol/configuration (2025-04-23T22:03:00Z)
+            ☐ Deploy a Virtual Machine or Virtual Machine Scale Sets With MSP https://learn.microsoft.com/en-us/azure/virtual-machines/metadata-security-protocol/greenfield (2025-04-23T22:03:00Z)
+            ☐ Enable MSP on Existing Virtual Machine or Virtual Machine Scale Sets https://learn.microsoft.com/en-us/azure/virtual-machines/metadata-security-protocol/brownfield (2025-04-23T22:03:00Z)
+            Other Examples:
+                ☐ MSP via Portal https://learn.microsoft.com/en-us/azure/virtual-machines/metadata-security-protocol/other-examples/portal (2025-04-15T22:02:00Z)
+                ☐ Disable MSP https://learn.microsoft.com/en-us/azure/virtual-machines/metadata-security-protocol/other-examples/disable (2025-04-11T22:02:00Z)
+                ☐ Reset Latched Key https://learn.microsoft.com/en-us/azure/virtual-machines/metadata-security-protocol/other-examples/key-reset (2025-04-11T22:02:00Z)
+                ☐ Create Rules From Audit Logs https://learn.microsoft.com/en-us/azure/virtual-machines/metadata-security-protocol/other-examples/audit-logs-to-rules (2025-04-11T22:02:00Z)
+            ☐ Advanced Configuration https://learn.microsoft.com/en-us/azure/virtual-machines/metadata-security-protocol/advanced-configuration (2025-04-11T22:02:00Z)
+            ☐ Troubleshooting Guide https://learn.microsoft.com/en-us/azure/virtual-machines/metadata-security-protocol/troubleshoot-guide (2025-04-23T22:03:00Z)
+            ☐ MSP FAQs https://learn.microsoft.com/en-us/azure/virtual-machines/metadata-security-protocol/faq (2025-04-11T22:02:00Z)
+        ☐ Get usage metrics with REST https://learn.microsoft.com/en-us/azure/virtual-machines/linux/metrics-vm-usage-rest (2024-08-22T17:37:00Z)
+        ☐ Boot diagnostics https://learn.microsoft.com/en-us/azure/virtual-machines/boot-diagnostics (2025-05-01T22:33:00Z)
+    Backup and recovery:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/backup-recovery (2024-10-11T22:00:00Z)
+    Reliability in Virtual Machines:
+        ☐ Reliability in Virtual Machines https://learn.microsoft.com/azure/reliability/reliability-virtual-machines?toc=/azure/virtual-machines/toc.json&bc=/azure/virtual-machines/breadcrumb/toc.json (2025-03-27T22:02:00Z)
+        ☐ Service disruptions https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machines-disaster-recovery-guidance (2025-05-07T05:04:00Z)
+        Back up VMs:
+            ☐ Overview https://learn.microsoft.com/azure/backup/backup-azure-vms-introduction?toc=/azure/virtual-machines/toc.json (2025-01-21T12:07:00Z)
+            Quickstarts:
+                ☐ CLI https://learn.microsoft.com/azure/backup/quick-backup-vm-cli?toc=/azure/virtual-machines/toc.json (2025-01-30T18:05:00Z)
+                ☐ PowerShell https://learn.microsoft.com/azure/backup/quick-backup-vm-powershell?toc=/azure/virtual-machines/toc.json (2025-01-30T18:05:00Z)
+                ☐ Portal https://learn.microsoft.com/azure/backup/quick-backup-vm-portal?toc=/azure/virtual-machines/toc.json (2025-03-04T05:37:00Z)
+                ☐ Template https://learn.microsoft.com/azure/backup/quick-backup-vm-template?toc=/azure/virtual-machines/toc.json (2025-01-30T18:05:00Z)
+            ☐ Back up multiple VMs https://learn.microsoft.com/azure/backup/tutorial-backup-vm-at-scale?toc=/azure/virtual-machines/toc.json (2025-04-30T11:13:00Z)
+            ☐ Restore options https://learn.microsoft.com/azure/backup/backup-azure-arm-restore-vms?toc=/azure/virtual-machines/toc.json (2025-04-14T11:11:00Z)
+            ☐ Support matrix https://learn.microsoft.com/azure/backup/backup-support-matrix-iaas?toc=/azure/virtual-machines/toc.json (2025-05-12T17:04:00Z)
+            ☐ Pricing https://learn.microsoft.com/azure/backup/azure-backup-pricing?toc=/azure/virtual-machines/toc.json (2025-01-21T12:07:00Z)
+            ☐ FAQ https://learn.microsoft.com/azure/backup/backup-azure-vm-backup-faq?toc=/azure/virtual-machines/toc.json (2025-05-12T17:04:00Z)
+        Disaster recovery:
+            ☐ Overview https://learn.microsoft.com/azure/site-recovery/site-recovery-overview?toc=/azure/virtual-machines/toc.json (2025-04-25T11:15:00Z)
+            Enable disaster recovery:
+                ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-disaster-recovery (2024-08-22T17:37:00Z)
+                ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/tutorial-disaster-recovery (2024-08-22T17:37:00Z)
+            ☐ Fail over a VM to another region https://learn.microsoft.com/azure/site-recovery/azure-to-azure-tutorial-failover-failback?toc=/azure/virtual-machines/toc.json (2024-08-02T11:27:00Z)
+            ☐ Fail back a VM to the primary region https://learn.microsoft.com/azure/site-recovery/azure-to-azure-tutorial-failback?toc=/azure/virtual-machines/toc.json (2025-02-11T12:11:00Z)
+        VM restore points:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machines-create-restore-points (2025-05-01T22:33:00Z)
+            Quickstarts:
+                ☐ Create VM restore points https://learn.microsoft.com/en-us/azure/virtual-machines/create-restore-points (2024-08-22T17:37:00Z)
+                ☐ VMSnapshot extension https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machines-restore-points-vm-snapshot-extension (2024-08-22T17:37:00Z)
+                ☐ Cross-region copy https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machines-restore-points-copy (2025-05-01T22:33:00Z)
+            ☐ Manage VM restore points https://learn.microsoft.com/en-us/azure/virtual-machines/manage-restore-points (2024-08-22T17:37:00Z)
+            Tutorials:
+                ☐ CLI https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machines-create-restore-points-cli (2024-08-22T17:37:00Z)
+                ☐ PowerShell https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machines-create-restore-points-powershell (2024-08-22T17:37:00Z)
+                ☐ Portal https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machines-create-restore-points-portal (2024-08-22T17:37:00Z)
+                ☐ How to copy VM restore points to another region https://learn.microsoft.com/en-us/azure/virtual-machines/virtual-machines-copy-restore-points-how-to (2024-08-22T17:37:00Z)
+            ☐ Support matrix https://learn.microsoft.com/en-us/azure/virtual-machines/concepts-restore-points (2025-05-01T22:33:00Z)
+            ☐ Troubleshooting https://learn.microsoft.com/en-us/azure/virtual-machines/restore-point-troubleshooting (2024-08-22T17:37:00Z)
+    Move and migrate VMs:
+        ☐ Change subscription or resource group https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription (2025-02-12T05:33:00Z)
+        ☐ Change subscription for Marketplace VMs https://learn.microsoft.com/en-us/azure/virtual-machines/azure-cli-change-subscription-marketplace (2024-08-22T17:37:00Z)
+        ☐ Move VMs to another region https://learn.microsoft.com/azure/site-recovery/azure-to-azure-tutorial-migrate?toc=/azure/virtual-machines/toc.json (2024-08-02T11:27:00Z)
+        ☐ Move to an availability zone https://learn.microsoft.com/azure/site-recovery/move-azure-vms-avset-azone?toc=/azure/virtual-machines/toc.json (2024-12-26T18:03:00Z)
+        ☐ Move Maintenance Control configurations to another region https://learn.microsoft.com/en-us/azure/virtual-machines/move-region-maintenance-configuration (2024-08-22T17:37:00Z)
+        ☐ Move Maintenance Control configuration resources to another region https://learn.microsoft.com/en-us/azure/virtual-machines/move-region-maintenance-configuration-resources (2024-08-22T17:37:00Z)
+        ☐ Migrate AWS VMs to Azure https://learn.microsoft.com/azure/migrate/tutorial-migrate-aws-virtual-machines (2025-04-23T05:33:00Z)
+        Retirement migration:
+            VM size series retirement migration guides:
+                General-purpose sizes:
+                    ☐ D-series migration guide https://learn.microsoft.com/en-us/azure/virtual-machines/migration/sizes/d-ds-dv2-dsv2-ls-series-migration-guide (2025-05-01T22:33:00Z)
+                    ☐ Ds-series migration guide https://learn.microsoft.com/en-us/azure/virtual-machines/migration/sizes/d-ds-dv2-dsv2-ls-series-migration-guide (2025-05-01T22:33:00Z)
+                    ☐ Dsv2-series migration guide https://learn.microsoft.com/en-us/azure/virtual-machines/migration/sizes/d-ds-dv2-dsv2-ls-series-migration-guide (2025-05-01T22:33:00Z)
+                Storage-optimized sizes:
+                    ☐ Ls-series migration guide https://learn.microsoft.com/en-us/azure/virtual-machines/migration/sizes/d-ds-dv2-dsv2-ls-series-migration-guide (2025-05-01T22:33:00Z)
+                GPU-accelerated sizes:
+                    ☐ N-series migration guide https://learn.microsoft.com/en-us/azure/virtual-machines/migration/sizes/n-series-migration (2025-05-01T22:33:00Z)
+                    ☐ NV-series migration guide https://learn.microsoft.com/en-us/azure/virtual-machines/migration/sizes/nv-series-migration-guide (2025-05-01T22:33:00Z)
+            ☐ Dedicated Host migration guide https://learn.microsoft.com/en-us/azure/virtual-machines/migration/dedicated-host-migration-guide (2025-03-17T22:00:00Z)
+    Infrastructure automation:
+        ☐ Overview https://learn.microsoft.com/en-us/azure/virtual-machines/infrastructure-automation (2025-05-01T22:33:00Z)
+        ☐ User data https://learn.microsoft.com/en-us/azure/virtual-machines/user-data (2024-08-22T17:37:00Z)
+        ☐ Custom data https://learn.microsoft.com/en-us/azure/virtual-machines/custom-data (2024-09-09T17:02:00Z)
+        ☐ Ansible https://learn.microsoft.com/azure/developer/ansible/ (2025-03-18 05:01 PM)
+        ☐ Terraform https://learn.microsoft.com/azure/developer/terraform/ (2025-05-15 05:03 PM)
+        ☐ Jenkins https://learn.microsoft.com/azure/developer/jenkins/ (2022-10-21 07:03 PM)
+        ☐ Azure DevOps https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-azure-devops-blue-green-strategy (2023-03-20T22:15:00Z)
+    Cost optimization:
+        ☐ Plan to manage costs https://learn.microsoft.com/en-us/azure/virtual-machines/cost-optimization-plan-to-manage-costs (2025-05-01T22:33:00Z)
+        ☐ Monitor costs https://learn.microsoft.com/en-us/azure/virtual-machines/cost-optimization-monitor-costs (2025-05-01T22:33:00Z)
+        ☐ Best practices https://learn.microsoft.com/en-us/azure/virtual-machines/cost-optimization-best-practices (2025-05-01T22:33:00Z)
+    Resources:
+        ☐ Cloud adoption framework https://learn.microsoft.com/azure/cloud-adoption-framework/get-started/ (2025-05-15T17:01:00Z)
+        ☐ Architecture center https://learn.microsoft.com/azure/architecture/ (2025-05-12T17:32:00Z)
+        ☐ Migration tools https://learn.microsoft.com/azure/cloud-adoption-framework/migrate/azure-migration-guide/?tabs=MigrationTools (2025-04-09T17:02:00Z)
+        ☐ Microsoft Q&A https://learn.microsoft.com/answers/topics/azure-virtual-machines.html
+        ☐ Azure Quickstart Templates https://azure.microsoft.com/resources/templates/?resourceType=Microsoft.Compute&pageNumber=1&sort=Popular (2024-11-01T20:16:00Z)
+        ☐ Pricing https://azure.microsoft.com/pricing/details/#Linux
+        ☐ Regional availability https://azure.microsoft.com/regions/services/
+        ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-virtual-machines (2025-03-03T18:01:00Z)
+        ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=compute
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Common CLI commands https://learn.microsoft.com/en-us/azure/virtual-machines/linux/cli-manage (2024-08-22T17:37:00Z)
+        ☐ Common PowerShell commands https://learn.microsoft.com/en-us/azure/virtual-machines/windows/ps-common-ref (2024-08-22T17:37:00Z)
+        ☐ Common networking PowerShell commands https://learn.microsoft.com/en-us/azure/virtual-machines/windows/ps-common-network-ref (2024-08-22T17:37:00Z)
+        ☐ VM template description https://learn.microsoft.com/en-us/azure/virtual-machines/windows/template-description (2024-08-22T17:37:00Z)
+        Classic deployments:
+            ☐ Linux VMs using classic deployment https://learn.microsoft.com/previous-versions/azure/virtual-machines/linux/classic/ (2020-03-19T20:37:00Z)
+            ☐ Windows VMs using classic deployment https://learn.microsoft.com/previous-versions/azure/virtual-machines/windows/classic/ (2020-03-19T20:37:00Z)
+        FAQ:
+            ☐ Linux https://learn.microsoft.com/en-us/azure/virtual-machines/linux/faq (2024-12-04T23:03:00Z)
+            ☐ Windows https://learn.microsoft.com/en-us/azure/virtual-machines/windows/faq (2024-08-22T17:37:00Z)
+    ☐ Support and troubleshooting https://learn.microsoft.com/en-us/azure/virtual-machines/vm-support-help (2024-08-22T17:37:00Z)
+

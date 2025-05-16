@@ -1,0 +1,66 @@
+Azure DDoS Protection documentation | Microsoft Learn:
+    ☐ Azure DDoS Protection documentation https://learn.microsoft.com/en-us/azure/ddos-protection/ (2025-03-26 05:06 PM)
+    Get started:
+        ☐ What is Azure DDoS Protection? https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview (2025-03-26T17:06:00Z)
+        ☐ Azure DDoS Protection features https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-features (2025-03-26T17:06:00Z)
+        ☐ Tier comparison https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-sku-comparison (2025-03-26T17:06:00Z)
+        ☐ Price comparison https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-pricing-guide (2025-03-26T17:06:00Z)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-faq (2025-03-26T17:06:00Z)
+    Configure:
+        DDoS Network Protection:
+            ☐ Portal https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection (2025-03-26T17:06:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-powershell (2025-03-26T17:06:00Z)
+            ☐ CLI https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-cli (2025-03-26T17:06:00Z)
+            ☐ Bicep https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-bicep (2025-03-26T17:06:00Z)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-template (2025-03-26T17:06:00Z)
+            ☐ Terraform https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-terraform (2025-03-26T17:06:00Z)
+        DDoS IP Protection:
+            ☐ Portal https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-ip-protection-portal (2025-03-26T17:06:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection-powershell-ip (2025-03-26T17:06:00Z)
+            ☐ CLI https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-ip-protection-cli (2025-03-26T17:06:00Z)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-ip-protection-template (2025-03-26T17:06:00Z)
+        ☐ Switch tiers https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-switch-ddos-protection-tier (2025-03-26T17:06:00Z)
+    Deploy:
+        ☐ Deploy Route Server with DDoS Protection https://learn.microsoft.com/en-us/azure/route-server/tutorial-protect-route-server-ddos?toc=/azure/ddos-protection/TOC.json (2025-03-10T17:07:00Z)
+        ☐ Deploy Firewall with DDoS Protection https://learn.microsoft.com/en-us/azure/firewall/tutorial-protect-firewall-ddos?toc=/azure/ddos-protection/TOC.json (2024-08-01T17:04:00Z)
+        ☐ Deploy Application Gateway with DDoS Protection https://learn.microsoft.com/en-us/azure/application-gateway/tutorial-protect-application-gateway-ddos?toc=/azure/ddos-protection/TOC.json (2024-12-29T12:12:00Z)
+        ☐ Deploy Load Balancer with DDoS Protection https://learn.microsoft.com/en-us/azure/load-balancer/tutorial-protect-load-balancer-ddos?toc=/azure/ddos-protection/TOC.json (2024-11-22T05:58:00Z)
+    Resiliency:
+        ☐ Components of a DDoS response strategy https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-response-strategy (2025-03-26T17:06:00Z)
+        ☐ Fundamental best practices https://learn.microsoft.com/en-us/azure/ddos-protection/fundamental-best-practices (2025-03-26T17:06:00Z)
+        ☐ Reliability https://learn.microsoft.com/en-us/azure/reliability/reliability-ddos?toc=/azure/ddos-protection/TOC.json (2025-02-27T23:02:00Z)
+        ☐ Reference architectures https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-reference-architectures (2025-03-26T17:06:00Z)
+        ☐ Types of attacks https://learn.microsoft.com/en-us/azure/ddos-protection/types-of-attacks (2025-03-26T17:06:00Z)
+    Operational excellence:
+        Configure Monitoring and Logging:
+            ☐ Configure metric alerts through portal https://learn.microsoft.com/en-us/azure/ddos-protection/alerts (2025-03-26T17:06:00Z)
+            ☐ Configure diagnostic logging alerts https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-diagnostic-alert-templates (2025-03-26T17:06:00Z)
+        View Monitoring and Logging:
+            ☐ View alerts in Microsoft Defender for Cloud https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-view-alerts-defender-for-cloud (2025-03-26T17:06:00Z)
+            ☐ View diagnostic logs in Log Analytics workspace https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-view-diagnostic-logs (2025-03-26T17:06:00Z)
+        ☐ Monitor Azure DDoS Protection https://learn.microsoft.com/en-us/azure/ddos-protection/monitor-ddos-protection (2025-05-03T05:16:00Z)
+        ☐ Test with simulation partners https://learn.microsoft.com/en-us/azure/ddos-protection/test-through-simulations (2025-03-26T17:06:00Z)
+        ☐ Engage DDoS Rapid Response (DRR) https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-rapid-response (2025-03-26T17:06:00Z)
+    Security:
+        ☐ DDoS Protection on Front Door https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos?toc=/azure/ddos-protection/TOC.json (2025-03-12T05:33:00Z)
+        ☐ Defend against API Management DDoS attacks https://learn.microsoft.com/en-us/azure/api-management/protect-with-ddos-protection?toc=/azure/ddos-protection/TOC.json (2025-05-08T05:10:00Z)
+        ☐ Inline L7 DDoS protection with Gateway Load Balancer and partner NVAs https://learn.microsoft.com/en-us/azure/ddos-protection/inline-protection-glb (2025-03-26T17:06:00Z)
+        ☐ Manage permissions and restrictions https://learn.microsoft.com/en-us/azure/ddos-protection/manage-permissions (2025-03-26T17:06:00Z)
+        ☐ Onboard partners https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-partner-onboarding (2025-03-26T17:06:00Z)
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-ddos-protection-security-baseline?toc=%2fazure%2fddos-protection%2ftoc.json?toc=/azure/ddos-protection/TOC.json (2025-02-27T14:58:00Z)
+        ☐ Azure Security blog https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog
+    Reference:
+        ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/ddos-protection/policy-reference (2025-03-26T17:06:00Z)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/ddos-protection (2025-03-25T06:59:00Z)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/Az.Network/New-AzDdosProtectionPlan (2025-05-06T17:01:00Z)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/ (2025-01-29T08:15:00Z)
+        ☐ Node.js https://azure.microsoft.com/develop/nodejs/#azure-sdk
+        ☐ Python https://azure.microsoft.com/develop/python/
+        ☐ REST https://learn.microsoft.com/rest/api/virtualnetwork/ddosprotectionplans (2024-12-03T23:02:00Z)
+        ☐ Azure Resource Manager https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview (2025-03-31T22:05:00Z)
+        ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/ddos-protection/monitor-ddos-protection-reference (2025-03-26T17:06:00Z)
+        ☐ Azure Networking blog https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog
+    Resources:
+        ☐ Pricing https://azure.microsoft.com/pricing/details/ddos-protection/
+        ☐ Regional availability https://azure.microsoft.com/global-infrastructure/services/?products=ddos-protection
+

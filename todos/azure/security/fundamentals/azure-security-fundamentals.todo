@@ -1,0 +1,115 @@
+Azure security fundamentals documentation | Microsoft Learn:
+    ☐ Fundamentals Documentation https://learn.microsoft.com/en-us/azure/security/fundamentals/ (2025-02-05 05:33 AM)
+    Overview:
+        ☐ Introduction to Azure security https://learn.microsoft.com/en-us/azure/security/fundamentals/overview (2025-02-25T05:34:00Z)
+        ☐ End-to-end security https://learn.microsoft.com/en-us/azure/security/fundamentals/end-to-end (2025-04-24T05:12:00Z)
+    Shared responsibility:
+        ☐ Shared responsibility in the cloud https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility (2024-09-30T17:05:00Z)
+        ☐ AI shared responsibility model https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai (2024-09-30T17:05:00Z)
+    Security posture management:
+        ☐ Zero Trust https://learn.microsoft.com/en-us/azure/security/fundamentals/zero-trust (2025-04-24T05:12:00Z)
+    Detect and mitigate threats:
+        Protect against ransomware and extortion:
+            ☐ Ransomware protection in Azure https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-protection (2025-05-01T22:41:00Z)
+            ☐ Prepare for an attack https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-prepare (2025-04-24T05:12:00Z)
+            ☐ Detect and respond to an attack https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-detect-respond (2025-04-17T05:15:00Z)
+            ☐ Azure features & resources that help you protect, detect, and respond https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-features-resources (2025-04-20T05:18:00Z)
+            ☐ Backup and restore plan for ransomware https://learn.microsoft.com/en-us/azure/security/fundamentals/backup-plan-to-protect-against-ransomware (2025-04-20T05:18:00Z)
+            ☐ Ransomware protection with Azure Firewall Premium https://learn.microsoft.com/en-us/azure/security/fundamentals/ransomware-protection-with-azure-firewall (2024-09-30T17:05:00Z)
+            ☐ Recovering from systemic identity compromise https://learn.microsoft.com/en-us/azure/security/fundamentals/recover-from-identity-compromise (2024-08-07T22:04:00Z)
+        ☐ Threat protection https://learn.microsoft.com/en-us/azure/security/fundamentals/threat-detection (2025-04-24T05:12:00Z)
+    Securing workloads in Azure:
+        ☐ Security technical capabilities https://learn.microsoft.com/en-us/azure/security/fundamentals/technical-capabilities (2025-04-24T05:12:00Z)
+    Azure platform and infrastructure:
+        Infrastructure security https://learn.microsoft.com/en-us/azure/security/fundamentals/infrastructure (2025-05-01T22:41:00Z):
+            ☐ Physical security https://learn.microsoft.com/en-us/azure/security/fundamentals/physical-security (2025-04-17T05:15:00Z)
+            ☐ Availability https://learn.microsoft.com/en-us/azure/security/fundamentals/infrastructure-availability (2025-04-24T05:12:00Z)
+            ☐ Components and boundaries https://learn.microsoft.com/en-us/azure/security/fundamentals/infrastructure-components (2025-04-24T05:12:00Z)
+            ☐ Network architecture https://learn.microsoft.com/en-us/azure/security/fundamentals/infrastructure-network (2025-05-01T22:41:00Z)
+            ☐ Production network https://learn.microsoft.com/en-us/azure/security/fundamentals/production-network (2025-02-27T18:04:00Z)
+            ☐ SQL Database https://learn.microsoft.com/en-us/azure/security/fundamentals/infrastructure-sql (2024-09-30T11:14:00Z)
+            ☐ Operations https://learn.microsoft.com/en-us/azure/security/fundamentals/infrastructure-operations (2024-09-30T11:14:00Z)
+            ☐ Monitoring https://learn.microsoft.com/en-us/azure/security/fundamentals/infrastructure-monitoring (2024-09-30T11:14:00Z)
+            ☐ Integrity https://learn.microsoft.com/en-us/azure/security/fundamentals/infrastructure-integrity (2024-09-30T11:14:00Z)
+            ☐ Data protection https://learn.microsoft.com/en-us/azure/security/fundamentals/protection-customer-data (2024-09-30T17:05:00Z)
+        Platform integrity and security https://learn.microsoft.com/en-us/azure/security/fundamentals/platform (2024-09-30T17:05:00Z):
+            ☐ Firmware security https://learn.microsoft.com/en-us/azure/security/fundamentals/firmware (2024-09-30T11:14:00Z)
+            ☐ Code integrity https://learn.microsoft.com/en-us/azure/security/fundamentals/code-integrity (2024-10-28T18:09:00Z)
+            ☐ Secure Boot https://learn.microsoft.com/en-us/azure/security/fundamentals/secure-boot (2024-09-30T17:05:00Z)
+            ☐ Measured boot & host attestation https://learn.microsoft.com/en-us/azure/security/fundamentals/measured-boot-host-attestation (2024-09-30T11:14:00Z)
+            ☐ Project Cerberus https://learn.microsoft.com/en-us/azure/security/fundamentals/project-cerberus (2024-09-30T17:05:00Z)
+            ☐ Encryption at rest https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest (2025-04-17T05:15:00Z)
+            ☐ Hypervisor security https://learn.microsoft.com/en-us/azure/security/fundamentals/hypervisor (2024-09-30T11:14:00Z)
+        ☐ Isolation in the Azure cloud https://learn.microsoft.com/en-us/azure/security/fundamentals/isolation-choices (2025-05-02T17:17:00Z)
+    Identity management:
+        ☐ Security overview https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-overview (2024-09-30T11:14:00Z)
+        ☐ Best practices https://learn.microsoft.com/en-us/azure/security/fundamentals/identity-management-best-practices (2024-09-30T11:14:00Z)
+        ☐ Security checklist https://learn.microsoft.com/en-us/azure/security/fundamentals/steps-secure-identity (2024-12-20T12:09:00Z)
+        ☐ Choose passwordless https://learn.microsoft.com/entra/identity/authentication/concept-authentication-passwordless?toc=/azure/security/fundamentals/toc.json&bc=/azure/security/breadcrumb/toc.json (2025-04-15T22:03:00Z)
+        ☐ Authentication https://learn.microsoft.com/azure/architecture/framework/security/design-identity-authentication?toc=/azure/security/fundamentals/toc.json&bc=/azure/security/breadcrumb/toc.json (2024-11-27T17:59:00Z)
+    Network security:
+        ☐ Security overview https://learn.microsoft.com/en-us/azure/security/fundamentals/network-overview (2025-02-26T18:03:00Z)
+        ☐ Best practices https://learn.microsoft.com/en-us/azure/security/fundamentals/network-best-practices (2025-05-02T17:17:00Z)
+        ☐ DDoS Protection best practices https://learn.microsoft.com/en-us/azure/ddos-protection/fundamental-best-practices (2025-03-26T17:06:00Z)
+        ☐ DDoS Protection security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/ddos-protection-security-baseline?toc=/azure/security/fundamentals/TOC.json (2025-02-27T14:58:00Z)
+        ☐ Dangling DNS and subdomain takeover https://learn.microsoft.com/en-us/azure/security/fundamentals/subdomain-takeover (2025-04-17T05:15:00Z)
+        ☐ Secure hybrid network architecture https://learn.microsoft.com/azure/architecture/reference-architectures/dmz/secure-vnet-hybrid?toc=/azure/security/fundamentals/toc.json&bc=/azure/security/breadcrumb/toc.json (2025-04-17T17:31:00Z)
+    IaaS security:
+        ☐ Microsoft Antimalware https://learn.microsoft.com/en-us/azure/security/fundamentals/antimalware (2025-05-02T17:17:00Z)
+        ☐ Microsoft Antimalware code samples https://learn.microsoft.com/en-us/azure/security/fundamentals/antimalware-code-samples (2025-05-02T17:17:00Z)
+        ☐ Virtual machine security overview https://learn.microsoft.com/en-us/azure/security/fundamentals/virtual-machines-overview (2025-04-24T05:12:00Z)
+        ☐ Automatic VM guest patching https://learn.microsoft.com/azure/virtual-machines/automatic-vm-guest-patching?bc=%2fazure%2fsecurity%2fbreadcrumb%2ftoc.json&toc=%2fazure%2fsecurity%2ffundamentals%2ftoc.json (2025-03-21T17:01:00Z)
+        ☐ Best practices - IaaS workloads https://learn.microsoft.com/en-us/azure/security/fundamentals/iaas (2025-03-12T17:04:00Z)
+        ☐ Azure Marketplace images https://learn.microsoft.com/en-us/azure/security/fundamentals/azure-marketplace-images (2024-09-30T11:14:00Z)
+    Data security, encryption, and storage:
+        ☐ Best practices for protecting secrets https://learn.microsoft.com/en-us/azure/security/fundamentals/secrets-best-practices (2024-08-27T22:05:00Z)
+        ☐ Data security and encryption https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-overview (2025-04-24T05:12:00Z)
+        ☐ Key management in Azure https://learn.microsoft.com/en-us/azure/security/fundamentals/key-management (2025-04-17T05:15:00Z)
+        ☐ Choosing a key management solution https://learn.microsoft.com/en-us/azure/security/fundamentals/key-management-choose (2025-04-08T22:02:00Z)
+        ☐ Services supporting CMKs https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-customer-managed-keys-support (2025-04-14T22:03:00Z)
+        ☐ Double encryption https://learn.microsoft.com/en-us/azure/security/fundamentals/double-encryption (2025-04-24T05:12:00Z)
+        Azure Certificate Authorities:
+            ☐ Azure Certificate Authority details https://learn.microsoft.com/en-us/azure/security/fundamentals/azure-ca-details (2025-03-31T22:05:00Z)
+            ☐ Certificate Pinning https://learn.microsoft.com/en-us/azure/security/fundamentals/certificate-pinning (2025-03-23T11:20:00Z)
+            ☐ Sunset for SHA-1 OCSP signing https://learn.microsoft.com/en-us/azure/security/fundamentals/ocsp-sha-1-sunset (2025-03-31T22:05:00Z)
+            ☐ TLS certificate changes https://learn.microsoft.com/en-us/azure/security/fundamentals/tls-certificate-changes (2025-03-31T22:05:00Z)
+        Disk encryption:
+            ☐ Best practices https://learn.microsoft.com/en-us/azure/security/fundamentals/data-encryption-best-practices (2024-09-30T11:14:00Z)
+            ☐ Data encryption at rest https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-atrest (2025-04-17T05:15:00Z)
+            ☐ Data encryption models https://learn.microsoft.com/en-us/azure/security/fundamentals/encryption-models (2025-04-24T05:12:00Z)
+            ☐ Managed disk encryption https://learn.microsoft.com/azure/virtual-machines/disk-encryption-overview (2025-05-06T22:01:00Z)
+        Database security:
+            ☐ Overview https://learn.microsoft.com/azure/azure-sql/database/security-overview (2025-02-27T23:30:00Z)
+            ☐ Best practices https://learn.microsoft.com/azure/azure-sql/database/security-best-practice (2025-04-18T22:29:00Z)
+            ☐ Security checklist https://learn.microsoft.com/en-us/azure/security/fundamentals/database-security-checklist (2024-09-30T11:14:00Z)
+        ☐ Storage security guide https://learn.microsoft.com/en-us/azure/storage/blobs/security-recommendations?toc=/azure/security/fundamentals/toc.json&bc=/azure/security/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+        Customer Lockbox:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/security/fundamentals/customer-lockbox-overview (2025-04-17T05:15:00Z)
+            ☐ Alternate email notifications https://learn.microsoft.com/en-us/azure/security/fundamentals/customer-lockbox-alternative-email (2025-04-17T05:15:00Z)
+            ☐ FAQ https://learn.microsoft.com/en-us/azure/security/fundamentals/customer-lockbox-faq (2024-09-03T22:09:00Z)
+            ☐ Security baseline for Customer Lockbox https://learn.microsoft.com/security/benchmark/azure/baselines/lockbox-security-baseline?toc=/azure/security/fundamentals/TOC.json (2025-02-27T14:58:00Z)
+        ☐ Trusted Hardware Identity Management https://learn.microsoft.com/en-us/azure/security/fundamentals/trusted-hardware-identity-management (2025-04-17T05:15:00Z)
+    Application:
+        PaaS https://learn.microsoft.com/en-us/azure/security/fundamentals/paas-deployments (2025-04-24T05:12:00Z):
+            ☐ Azure App Service for PaaS https://learn.microsoft.com/en-us/azure/security/fundamentals/paas-applications-using-app-services (2024-09-30T17:05:00Z)
+            ☐ Azure Storage for PaaS https://learn.microsoft.com/en-us/azure/security/fundamentals/paas-applications-using-storage (2024-09-30T17:05:00Z)
+            ☐ DB best practices for PaaS https://learn.microsoft.com/en-us/azure/security/fundamentals/paas-applications-using-sql (2025-04-17T05:15:00Z)
+        ☐ Azure Service Fabric security https://learn.microsoft.com/en-us/azure/security/fundamentals/service-fabric-best-practices (2024-09-30T17:05:00Z)
+    Monitoring, auditing, and operations:
+        ☐ Azure logging and auditing https://learn.microsoft.com/en-us/azure/security/fundamentals/log-audit (2024-10-02T11:12:00Z)
+        ☐ Security management and monitoring https://learn.microsoft.com/en-us/azure/security/fundamentals/management-monitoring-overview (2025-04-24T05:12:00Z)
+        ☐ Enhance remote management https://learn.microsoft.com/en-us/azure/security/fundamentals/management (2024-09-30T11:14:00Z)
+        Operational security:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/security/fundamentals/operational-overview (2024-09-30T11:14:00Z)
+            ☐ Best practices https://learn.microsoft.com/en-us/azure/security/fundamentals/operational-best-practices (2025-04-24T05:12:00Z)
+            ☐ Security checklist https://learn.microsoft.com/en-us/azure/security/fundamentals/operational-checklist (2025-04-24T05:12:00Z)
+    Resources:
+        ☐ Azure security services https://learn.microsoft.com/en-us/azure/security/fundamentals/services-technologies (2025-04-24T05:12:00Z)
+        ☐ Feature availability for US Government clouds https://learn.microsoft.com/en-us/azure/security/fundamentals/feature-availability (2025-04-30T17:06:00Z)
+        ☐ Security white papers https://azure.microsoft.com/resources/whitepapers/search/?term=security&type=WhitePaperResource
+        ☐ Best practices https://learn.microsoft.com/en-us/azure/security/fundamentals/best-practices-and-patterns (2024-09-30T11:14:00Z)
+        ☐ Cybersecurity consulting https://learn.microsoft.com/en-us/azure/security/fundamentals/cyber-services (2025-04-24T05:12:00Z)
+        ☐ Log a security event support ticket https://learn.microsoft.com/en-us/azure/security/fundamentals/event-support-ticket (2024-10-21T17:07:00Z)
+        ☐ Pen testing https://learn.microsoft.com/en-us/azure/security/fundamentals/pen-testing (2025-04-24T05:12:00Z)
+        ☐ Azure domains https://learn.microsoft.com/en-us/azure/security/fundamentals/azure-domains (2025-04-11T22:03:00Z)
+

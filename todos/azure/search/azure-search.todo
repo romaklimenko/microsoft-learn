@@ -1,0 +1,366 @@
+Azure AI Search documentation | Microsoft Learn:
+    ☐ Azure AI Search Documentation https://learn.microsoft.com/en-us/azure/search/ (2025-03-13 05:31 AM)
+    Overview:
+        ☐ What's Azure AI Search? https://learn.microsoft.com/en-us/azure/search/search-what-is-azure-search (2025-04-15T22:02:00Z)
+        ☐ New in AI Search https://learn.microsoft.com/en-us/azure/search/whats-new (2025-04-17T22:02:00Z)
+        ☐ Features https://learn.microsoft.com/en-us/azure/search/search-features-list (2025-04-15T22:02:00Z)
+        ☐ Try AI Search for free https://learn.microsoft.com/en-us/azure/search/search-try-for-free (2025-03-16T11:05:00Z)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/search/search-faq-frequently-asked-questions (2025-04-09T17:03:00Z)
+    Quickstarts:
+        ☐ Vector search https://learn.microsoft.com/en-us/azure/search/search-get-started-vector (2025-03-04T18:09:00Z)
+        ☐ Generative search (RAG) https://learn.microsoft.com/en-us/azure/search/search-get-started-rag (2025-03-13T05:31:00Z)
+        ☐ Full text search https://learn.microsoft.com/en-us/azure/search/search-get-started-text (2025-03-04T18:09:00Z)
+        ☐ Semantic ranking https://learn.microsoft.com/en-us/azure/search/search-get-started-semantic (2025-03-04T18:09:00Z)
+        ☐ Chat with your data https://learn.microsoft.com/azure/ai-services/openai/use-your-data-quickstart?context=/azure/search/context/context (2025-04-29T22:02:00Z)
+        ☐ Connect without keys https://learn.microsoft.com/en-us/azure/search/search-get-started-rbac (2025-04-07T22:00:00Z)
+        Azure portal:
+            ☐ Keyword search wizard https://learn.microsoft.com/en-us/azure/search/search-get-started-portal (2025-03-04T18:09:00Z)
+            ☐ Vector search wizard https://learn.microsoft.com/en-us/azure/search/search-get-started-portal-import-vectors (2025-04-18T22:03:00Z)
+            ☐ Image search wizard https://learn.microsoft.com/en-us/azure/search/search-get-started-portal-image-search (2025-03-16T11:05:00Z)
+            ☐ Create a demo app https://learn.microsoft.com/en-us/azure/search/search-create-app-portal (2025-03-04T18:09:00Z)
+            ☐ Create a skillset https://learn.microsoft.com/en-us/azure/search/search-get-started-skillset (2025-04-07T22:00:00Z)
+            ☐ Create a knowledge store https://learn.microsoft.com/en-us/azure/search/knowledge-store-create-portal (2025-04-07T22:00:00Z)
+            ☐ Query with Search Explorer https://learn.microsoft.com/en-us/azure/search/search-explorer (2025-03-04T18:09:00Z)
+        ☐ REST https://learn.microsoft.com/en-us/azure/search/search-get-started-rest (2025-03-04T18:09:00Z)
+        ☐ PowerShell https://learn.microsoft.com/en-us/azure/search/search-get-started-powershell (2025-03-04T18:09:00Z)
+        Deployment:
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/search/search-get-started-arm (2025-03-04T18:09:00Z)
+            ☐ Bicep https://learn.microsoft.com/en-us/azure/search/search-get-started-bicep (2025-03-04T18:09:00Z)
+            ☐ Terraform https://learn.microsoft.com/en-us/azure/search/search-get-started-terraform (2024-12-10T18:00:00Z)
+    Tutorials:
+        Dev tutorials:
+            ☐ Add search to ASP.NET Core (MVC) https://learn.microsoft.com/en-us/azure/search/tutorial-csharp-create-mvc-app (2025-01-19T12:15:00Z)
+            Add search to static web apps:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/search/tutorial-csharp-overview (2025-01-17T18:00:00Z)
+                ☐ Create a search index https://learn.microsoft.com/en-us/azure/search/tutorial-csharp-create-load-index (2025-01-17T18:00:00Z)
+                ☐ Deploy static web app https://learn.microsoft.com/en-us/azure/search/tutorial-csharp-deploy-static-web-app (2025-01-17T18:00:00Z)
+                ☐ Explore the code https://learn.microsoft.com/en-us/azure/search/tutorial-csharp-search-query-integration (2025-04-20T05:30:00Z)
+            ☐ Query from Power Apps https://learn.microsoft.com/en-us/azure/search/search-howto-powerapps (2025-04-17T22:02:00Z)
+        Indexing tutorials:
+            ☐ Index any data https://learn.microsoft.com/en-us/azure/search/tutorial-optimize-indexing-push-api (2025-04-09T17:03:00Z)
+            ☐ Index at scale (Apache Spark) https://learn.microsoft.com/en-us/azure/search/search-synapseml-cognitive-services (2025-04-09T17:03:00Z)
+            ☐ Index Azure SQL Database https://learn.microsoft.com/en-us/azure/search/search-indexer-tutorial (2025-04-09T17:03:00Z)
+            ☐ Index JSON in Azure blobs https://learn.microsoft.com/en-us/azure/search/search-semi-structured-data (2025-04-09T17:03:00Z)
+            ☐ Index Markdown in Azure blobs https://learn.microsoft.com/en-us/azure/search/search-markdown-data-tutorial (2025-04-09T17:03:00Z)
+            ☐ Index multiple Azure data sources https://learn.microsoft.com/en-us/azure/search/tutorial-multiple-data-sources (2025-04-09T17:03:00Z)
+            ☐ Index encrypted blobs https://learn.microsoft.com/en-us/azure/search/search-howto-index-encrypted-blobs (2025-04-09T17:03:00Z)
+            ☐ Create a custom analyzer https://learn.microsoft.com/en-us/azure/search/tutorial-create-custom-analyzer (2025-04-09T17:03:00Z)
+        RAG tutorials:
+            ☐ Build a RAG solution https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution (2025-04-15T05:17:00Z)
+            ☐ Choose models https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-models (2025-03-16T11:05:00Z)
+            ☐ Design an index https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-index-schema (2025-01-09T22:59:00Z)
+            ☐ Build an indexing pipeline https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-pipeline (2025-04-09T17:03:00Z)
+            ☐ Search and generate answers https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-query (2025-03-27T22:01:00Z)
+            ☐ Maximize relevance https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-maximize-relevance (2025-03-12T05:31:00Z)
+            ☐ Minimize storage and costs https://learn.microsoft.com/en-us/azure/search/tutorial-rag-build-solution-minimize-storage (2025-02-06T05:35:00Z)
+        Skills tutorials:
+            ☐ C# https://learn.microsoft.com/en-us/azure/search/cognitive-search-tutorial-blob-dotnet (2025-04-09T17:03:00Z)
+            ☐ REST https://learn.microsoft.com/en-us/azure/search/cognitive-search-tutorial-blob (2025-04-09T17:03:00Z)
+            ☐ Debug a skillset https://learn.microsoft.com/en-us/azure/search/cognitive-search-tutorial-debug-sessions (2025-04-09T17:03:00Z)
+    Samples:
+        ☐ C# samples https://learn.microsoft.com/en-us/azure/search/samples-dotnet (2025-03-18T22:01:00Z)
+        ☐ Java samples https://learn.microsoft.com/en-us/azure/search/samples-java (2025-03-18T22:01:00Z)
+        ☐ JavaScript samples https://learn.microsoft.com/en-us/azure/search/samples-javascript (2025-03-18T22:01:00Z)
+        ☐ Python samples https://learn.microsoft.com/en-us/azure/search/samples-python (2025-03-18T22:01:00Z)
+        ☐ REST samples https://learn.microsoft.com/en-us/azure/search/samples-rest (2025-03-18T22:01:00Z)
+        ☐ Vector samples https://github.com/Azure/azure-search-vector-samples
+    Concepts:
+        Data:
+            ☐ Search index https://learn.microsoft.com/en-us/azure/search/search-what-is-an-index (2025-04-15T05:17:00Z)
+            ☐ Vector store https://learn.microsoft.com/en-us/azure/search/vector-store (2025-04-09T17:03:00Z)
+            ☐ Knowledge store https://learn.microsoft.com/en-us/azure/search/knowledge-store-concept-intro (2024-12-10T18:00:00Z)
+            ☐ Data import strategies https://learn.microsoft.com/en-us/azure/search/search-what-is-data-import (2025-03-12T05:31:00Z)
+            ☐ Indexers https://learn.microsoft.com/en-us/azure/search/search-indexer-overview (2025-05-02T17:45:00Z)
+        Applied AI:
+            ☐ Built-in vectorization https://learn.microsoft.com/en-us/azure/search/vector-search-integrated-vectorization (2025-03-16T11:05:00Z)
+            ☐ AI enrichment during indexing https://learn.microsoft.com/en-us/azure/search/cognitive-search-concept-intro (2025-03-16T11:05:00Z)
+            ☐ Enrichment cache https://learn.microsoft.com/en-us/azure/search/cognitive-search-incremental-indexing-conceptual (2025-01-19T12:15:00Z)
+            ☐ Skillsets https://learn.microsoft.com/en-us/azure/search/cognitive-search-working-with-skillsets (2025-01-16T05:32:00Z)
+        Retrieval:
+            ☐ Full-text search https://learn.microsoft.com/en-us/azure/search/search-lucene-query-architecture (2025-03-18T22:01:00Z)
+            ☐ Vector search https://learn.microsoft.com/en-us/azure/search/vector-search-overview (2025-04-09T17:03:00Z)
+            ☐ Hybrid search https://learn.microsoft.com/en-us/azure/search/hybrid-search-overview (2024-12-06T18:01:00Z)
+            ☐ Retrieval Augmented Generation (RAG) https://learn.microsoft.com/en-us/azure/search/retrieval-augmented-generation-overview (2025-04-15T22:02:00Z)
+            ☐ Other query types https://learn.microsoft.com/en-us/azure/search/search-query-overview (2024-12-17T23:02:00Z)
+        Relevance:
+            ☐ Semantic ranking https://learn.microsoft.com/en-us/azure/search/semantic-search-overview (2025-04-13T05:04:00Z)
+            ☐ BM25 ranking https://learn.microsoft.com/en-us/azure/search/index-similarity-and-scoring (2025-01-17T18:00:00Z)
+            ☐ Vector ranking https://learn.microsoft.com/en-us/azure/search/vector-search-ranking (2024-12-05T23:03:00Z)
+            ☐ Hybrid ranking (RRF) https://learn.microsoft.com/en-us/azure/search/hybrid-search-ranking (2025-03-12T05:31:00Z)
+        Security:
+            ☐ Security overview https://learn.microsoft.com/en-us/azure/search/search-security-overview (2025-04-09T17:03:00Z)
+            ☐ Secure access to external data https://learn.microsoft.com/en-us/azure/search/search-indexer-securing-resources (2025-05-12T22:00:00Z)
+            ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/search/security-controls-policy (2024-12-10T18:00:00Z)
+            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/cognitive-search-security-baseline?toc=/azure/search/TOC.json (2025-02-27T14:58:00Z)
+    How-to guides:
+        Service management:
+            ☐ Create a search service https://learn.microsoft.com/en-us/azure/search/search-create-service-portal (2025-04-29T17:03:00Z)
+            ☐ Configure a search service https://learn.microsoft.com/en-us/azure/search/search-manage (2025-03-16T11:05:00Z)
+            ☐ Choose a region https://learn.microsoft.com/en-us/azure/search/search-region-support (2025-05-07T05:20:00Z)
+            ☐ Choose a tier https://learn.microsoft.com/en-us/azure/search/search-sku-tier (2025-04-09T17:03:00Z)
+            ☐ Upgrade a service https://learn.microsoft.com/en-us/azure/search/search-how-to-upgrade (2025-04-29T17:03:00Z)
+            ☐ Service limits https://learn.microsoft.com/en-us/azure/search/search-limits-quotas-capacity (2025-05-01T05:16:00Z)
+            ☐ Plan and manage capacity https://learn.microsoft.com/en-us/azure/search/search-capacity-planning (2025-04-22T22:02:00Z)
+            ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/search/search-sku-manage-costs (2025-04-09T17:03:00Z)
+            ☐ Reliability and recovery https://learn.microsoft.com/en-us/azure/search/search-reliability (2025-04-15T05:17:00Z)
+            ☐ Availability zone migration guidance https://learn.microsoft.com/azure/reliability/migrate-search-service (2025-02-27T23:02:00Z)
+            ☐ Multi-tenancy https://learn.microsoft.com/en-us/azure/search/search-modeling-multitenant-saas-applications (2024-12-10T18:00:00Z)
+            Manage:
+                ☐ Manage using PowerShell https://learn.microsoft.com/en-us/azure/search/search-manage-powershell (2025-04-09T17:03:00Z)
+                ☐ Manage using Azure CLI https://learn.microsoft.com/en-us/azure/search/search-manage-azure-cli (2025-04-09T17:03:00Z)
+                ☐ Manage using REST https://learn.microsoft.com/en-us/azure/search/search-manage-rest (2025-04-09T17:03:00Z)
+                ☐ Move service across regions https://learn.microsoft.com/en-us/azure/search/search-howto-move-across-regions (2024-12-10T18:00:00Z)
+        Index management:
+            ☐ Create an index https://learn.microsoft.com/en-us/azure/search/search-how-to-create-search-index (2025-04-15T05:17:00Z)
+            ☐ Load an index https://learn.microsoft.com/en-us/azure/search/search-how-to-load-search-index (2025-04-22T22:02:00Z)
+            ☐ Index via import data wizards https://learn.microsoft.com/en-us/azure/search/search-import-data-portal (2025-03-16T11:05:00Z)
+            ☐ Update or rebuild an index https://learn.microsoft.com/en-us/azure/search/search-howto-reindex (2025-04-29T17:03:00Z)
+            ☐ Alias an index https://learn.microsoft.com/en-us/azure/search/search-how-to-alias (2024-12-10T18:00:00Z)
+            ☐ Import large data sets https://learn.microsoft.com/en-us/azure/search/search-how-to-large-index (2025-04-09T17:03:00Z)
+            Indexers:
+                ☐ Create an indexer https://learn.microsoft.com/en-us/azure/search/search-howto-create-indexers (2024-12-19T22:58:00Z)
+                ☐ Run or reset indexers https://learn.microsoft.com/en-us/azure/search/search-howto-run-reset-indexers (2025-04-09T17:03:00Z)
+                ☐ Schedule an indexer https://learn.microsoft.com/en-us/azure/search/search-howto-schedule-indexers (2025-04-07T22:00:00Z)
+                ☐ Define field mappings https://learn.microsoft.com/en-us/azure/search/search-indexer-field-mappings (2025-03-11T22:03:00Z)
+                Indexing whole files:
+                    ☐ Content metadata properties https://learn.microsoft.com/en-us/azure/search/search-blob-metadata-properties (2025-04-15T05:17:00Z)
+                    ☐ Index one-to-many https://learn.microsoft.com/en-us/azure/search/search-howto-index-one-to-many-blobs (2025-01-19T12:15:00Z)
+                    ☐ Index plain text https://learn.microsoft.com/en-us/azure/search/search-howto-index-plaintext-blobs (2025-02-25T05:30:00Z)
+                    ☐ Index CSV https://learn.microsoft.com/en-us/azure/search/search-how-to-index-csv-blobs (2025-03-12T05:31:00Z)
+                    ☐ Index JSON https://learn.microsoft.com/en-us/azure/search/search-howto-index-json-blobs (2025-01-17T05:33:00Z)
+                    ☐ Index Markdown https://learn.microsoft.com/en-us/azure/search/search-how-to-index-markdown-blobs (2024-11-20T12:12:00Z)
+                ☐ Troubleshooting guidance https://learn.microsoft.com/en-us/azure/search/search-indexer-troubleshooting (2025-03-16T11:05:00Z)
+                ☐ Troubleshoot indexer errors and warnings https://learn.microsoft.com/en-us/azure/search/cognitive-search-common-errors-warnings (2025-02-21T05:38:00Z)
+            Data sources (indexers):
+                ☐ Data sources gallery https://learn.microsoft.com/en-us/azure/search/search-data-sources-gallery (2025-04-14T22:02:00Z)
+                Azure Storage:
+                    ☐ Search over blobs https://learn.microsoft.com/en-us/azure/search/search-blob-storage-integration (2025-01-16T05:32:00Z)
+                    ☐ ADLS Gen2 https://learn.microsoft.com/en-us/azure/search/search-howto-index-azure-data-lake-storage (2025-04-07T22:00:00Z)
+                    ☐ Blobs https://learn.microsoft.com/en-us/azure/search/search-howto-indexing-azure-blob-storage (2025-04-07T22:00:00Z)
+                    ☐ Files https://learn.microsoft.com/en-us/azure/search/search-file-storage-integration (2025-04-07T22:00:00Z)
+                    ☐ Tables https://learn.microsoft.com/en-us/azure/search/search-howto-indexing-azure-tables (2025-04-07T22:00:00Z)
+                    ☐ Index changed and deleted content https://learn.microsoft.com/en-us/azure/search/search-howto-index-changed-deleted-blobs (2025-02-25T05:30:00Z)
+                Azure Cosmos DB:
+                    ☐ Azure Cosmos DB for NoSQL https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb (2025-04-07T22:00:00Z)
+                    ☐ Azure Cosmos DB for MongoDB https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb-mongodb (2025-04-07T22:00:00Z)
+                    ☐ Azure Cosmos DB for Apache Gremlin https://learn.microsoft.com/en-us/azure/search/search-howto-index-cosmosdb-gremlin (2025-04-07T22:00:00Z)
+                ☐ Azure DB for MySQL https://learn.microsoft.com/en-us/azure/search/search-howto-index-mysql (2025-03-11T22:03:00Z)
+                Azure SQL:
+                    ☐ Azure SQL Databases https://learn.microsoft.com/en-us/azure/search/search-how-to-index-sql-database (2025-04-09T17:03:00Z)
+                    ☐ Azure SQL Managed Instances https://learn.microsoft.com/en-us/azure/search/search-how-to-index-sql-managed-instance (2025-01-28T23:09:00Z)
+                    ☐ Azure SQL Server VMs https://learn.microsoft.com/en-us/azure/search/search-how-to-index-sql-server (2024-12-10T18:00:00Z)
+                ☐ OneLake files https://learn.microsoft.com/en-us/azure/search/search-how-to-index-onelake-files (2025-02-13T05:35:00Z)
+                ☐ SharePoint Online https://learn.microsoft.com/en-us/azure/search/search-howto-index-sharepoint-online (2025-02-25T05:30:00Z)
+            Skillsets:
+                ☐ Create a skillset https://learn.microsoft.com/en-us/azure/search/cognitive-search-defining-skillset (2025-04-18T22:03:00Z)
+                ☐ Attach an Azure AI resource https://learn.microsoft.com/en-us/azure/search/cognitive-search-attach-cognitive-services (2025-04-09T17:03:00Z)
+                ☐ Define an index projection https://learn.microsoft.com/en-us/azure/search/search-how-to-define-index-projections (2025-04-15T05:17:00Z)
+                ☐ Debug sessions overview https://learn.microsoft.com/en-us/azure/search/cognitive-search-debug-session (2025-04-10T22:05:00Z)
+                ☐ Debug a skillset https://learn.microsoft.com/en-us/azure/search/cognitive-search-how-to-debug-skillset (2025-03-28T17:11:00Z)
+                ☐ Reference a skill output https://learn.microsoft.com/en-us/azure/search/cognitive-search-concept-annotations-syntax (2024-12-10T18:00:00Z)
+                ☐ Map to index fields https://learn.microsoft.com/en-us/azure/search/cognitive-search-output-field-mapping (2025-04-15T05:17:00Z)
+                ☐ Process image files https://learn.microsoft.com/en-us/azure/search/cognitive-search-concept-image-scenarios (2025-04-29T05:10:00Z)
+                ☐ Cache (incremental) enrichment https://learn.microsoft.com/en-us/azure/search/search-howto-incremental-index (2025-02-25T23:00:00Z)
+                ☐ Design tips https://learn.microsoft.com/en-us/azure/search/cognitive-search-concept-troubleshooting (2024-12-10T18:00:00Z)
+                Custom skills:
+                    ☐ Integrate custom skills https://learn.microsoft.com/en-us/azure/search/cognitive-search-custom-skill-interface (2025-01-16T05:32:00Z)
+                    ☐ Scale out custom skills https://learn.microsoft.com/en-us/azure/search/cognitive-search-custom-skill-scale (2025-01-19T12:15:00Z)
+                    ☐ Example - Bing Entity Search https://learn.microsoft.com/en-us/azure/search/cognitive-search-create-custom-skill-example (2025-01-19T12:15:00Z)
+        Vector search:
+            ☐ Create a vector index https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-create-index (2025-04-18T05:20:00Z)
+            ☐ Chunk documents https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-chunk-documents (2025-04-09T17:03:00Z)
+            ☐ Chunk and vectorize by document layout https://learn.microsoft.com/en-us/azure/search/search-how-to-semantic-chunking (2025-04-17T22:02:00Z)
+            ☐ Generate embeddings https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-generate-embeddings (2025-04-22T17:02:00Z)
+            ☐ Use integrated vectorization https://learn.microsoft.com/en-us/azure/search/search-how-to-integrated-vectorization (2025-05-02T17:45:00Z)
+            ☐ Use embedding models from Azure AI Foundry https://learn.microsoft.com/en-us/azure/search/vector-search-integrated-vectorization-ai-studio (2025-03-13T05:31:00Z)
+            Reduce vector size:
+                ☐ Understand vector quotas and limits https://learn.microsoft.com/en-us/azure/search/vector-search-index-size (2025-04-09T17:03:00Z)
+                ☐ Choose an optimization strategy https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-configure-compression-storage (2024-11-21T18:03:00Z)
+                ☐ Compress using binary or scalar quantization https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-quantization (2025-04-18T05:20:00Z)
+                ☐ Index binary data for vector search https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-index-binary-data (2024-11-25T18:00:00Z)
+                ☐ Assign narrow data types https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-assign-narrow-data-types (2024-11-21T18:03:00Z)
+                ☐ Eliminate redundant storage https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-storage-options (2025-04-09T17:03:00Z)
+                ☐ Truncate dimensions https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-truncate-dimensions (2024-11-25T18:00:00Z)
+            ☐ Query vectors https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-query (2025-05-01T05:16:00Z)
+            ☐ Add a vectorizer for text-to-vector queries https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-configure-vectorizer (2025-03-16T11:05:00Z)
+            ☐ Filter on vector queries https://learn.microsoft.com/en-us/azure/search/vector-search-filters (2025-02-25T05:30:00Z)
+        Keyword search:
+            ☐ Full text query https://learn.microsoft.com/en-us/azure/search/search-query-create (2025-04-15T05:17:00Z)
+            ☐ Typeahead query https://learn.microsoft.com/en-us/azure/search/search-add-autocomplete-suggestions (2025-04-15T05:17:00Z)
+            ☐ Query examples (simple syntax) https://learn.microsoft.com/en-us/azure/search/search-query-simple-examples (2025-04-15T05:17:00Z)
+            ☐ Add spell check https://learn.microsoft.com/en-us/azure/search/speller-how-to-add (2024-12-10T18:00:00Z)
+            ☐ Add synonyms https://learn.microsoft.com/en-us/azure/search/search-synonyms (2025-04-15T05:17:00Z)
+            ☐ Add a suggester for typeahead https://learn.microsoft.com/en-us/azure/search/index-add-suggesters (2025-04-15T05:17:00Z)
+            ☐ Design a multilingual index https://learn.microsoft.com/en-us/azure/search/search-language-support (2024-12-18T22:58:00Z)
+            ☐ Model complex data types https://learn.microsoft.com/en-us/azure/search/search-howto-complex-data-types (2025-04-15T05:17:00Z)
+            ☐ Model relational data https://learn.microsoft.com/en-us/azure/search/index-sql-relational-data (2025-01-19T12:15:00Z)
+            Analyzers:
+                ☐ Analyzers overview https://learn.microsoft.com/en-us/azure/search/search-analyzers (2025-01-17T05:33:00Z)
+                ☐ Add a language analyzer https://learn.microsoft.com/en-us/azure/search/index-add-language-analyzers (2025-01-17T05:33:00Z)
+                ☐ Add a custom analyzer https://learn.microsoft.com/en-us/azure/search/index-add-custom-analyzers (2025-01-17T05:33:00Z)
+            Filters and facets:
+                ☐ Filters in text queries https://learn.microsoft.com/en-us/azure/search/search-filters (2025-03-12T05:31:00Z)
+                ☐ Understand collection filters https://learn.microsoft.com/en-us/azure/search/search-query-understand-collection-filters (2024-12-10T18:00:00Z)
+                ☐ Troubleshoot collection filters https://learn.microsoft.com/en-us/azure/search/search-query-troubleshoot-collection-filters (2024-12-10T18:00:00Z)
+                ☐ Normalize text for filters https://learn.microsoft.com/en-us/azure/search/search-normalizers (2024-12-10T18:00:00Z)
+                ☐ Add faceted navigation https://learn.microsoft.com/en-us/azure/search/search-faceted-navigation (2025-04-09T17:03:00Z)
+                ☐ Faceted navigation examples https://learn.microsoft.com/en-us/azure/search/search-faceted-navigation-examples (2025-04-09T17:03:00Z)
+            Search results:
+                ☐ Page, sort, and shape results https://learn.microsoft.com/en-us/azure/search/search-pagination-page-layout (2025-01-17T18:00:00Z)
+                ☐ Return a semantic answer https://learn.microsoft.com/en-us/azure/search/semantic-answers (2025-02-18T18:00:00Z)
+            Advanced queries:
+                ☐ Use full Lucene (examples) https://learn.microsoft.com/en-us/azure/search/search-query-lucene-examples (2025-04-15T05:17:00Z)
+                ☐ Partial terms and special characters https://learn.microsoft.com/en-us/azure/search/search-query-partial-matching (2025-04-15T05:17:00Z)
+                ☐ Fuzzy search https://learn.microsoft.com/en-us/azure/search/search-query-fuzzy (2025-04-15T05:17:00Z)
+        ☐ Hybrid search https://learn.microsoft.com/en-us/azure/search/hybrid-search-how-to-query (2025-03-12T05:31:00Z)
+        Ranking and relevance:
+            ☐ Add a scoring profile https://learn.microsoft.com/en-us/azure/search/index-add-scoring-profiles (2025-02-25T23:00:00Z)
+            ☐ Configure BM25 ranking https://learn.microsoft.com/en-us/azure/search/index-ranking-similarity (2025-02-25T05:30:00Z)
+            ☐ Enable or disable semantic ranker https://learn.microsoft.com/en-us/azure/search/semantic-how-to-enable-disable (2025-04-09T17:03:00Z)
+            ☐ Configure semantic ranker https://learn.microsoft.com/en-us/azure/search/semantic-how-to-configure (2025-04-09T17:03:00Z)
+            ☐ Add semantic ranking to queries https://learn.microsoft.com/en-us/azure/search/semantic-how-to-query-request (2025-04-09T17:03:00Z)
+            ☐ Rewrite queries with semantic ranker https://learn.microsoft.com/en-us/azure/search/semantic-how-to-query-rewrite (2025-04-09T17:03:00Z)
+            ☐ Migrate semantic ranking code https://learn.microsoft.com/en-us/azure/search/semantic-code-migration (2024-12-11T23:00:00Z)
+        Security:
+            ☐ Configure network access https://learn.microsoft.com/en-us/azure/search/service-configure-firewall (2025-04-15T05:17:00Z)
+            ☐ Enable role-based access https://learn.microsoft.com/en-us/azure/search/search-security-enable-roles (2025-04-07T22:00:00Z)
+            ☐ Assign roles (users) https://learn.microsoft.com/en-us/azure/search/search-security-rbac (2025-04-07T22:00:00Z)
+            ☐ Assign roles (apps) https://learn.microsoft.com/en-us/azure/search/keyless-connections (2025-03-05T23:02:00Z)
+            ☐ Authenticate with keys https://learn.microsoft.com/en-us/azure/search/search-security-api-keys (2025-04-07T22:00:00Z)
+            Outbound connections:
+                ☐ Configure a managed identity https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-data-sources (2025-04-09T17:03:00Z)
+                Connect using a managed identity:
+                    ☐ Azure Storage https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-storage (2025-02-19T05:34:00Z)
+                    ☐ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-cosmos-db (2025-03-27T22:01:00Z)
+                    ☐ SQL Database https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-sql (2024-12-10T18:00:00Z)
+                    ☐ SQL Managed Instance https://learn.microsoft.com/en-us/azure/search/search-index-azure-sql-managed-instance-with-managed-identity (2024-12-10T18:00:00Z)
+                    ☐ Connect to an Azure function https://learn.microsoft.com/en-us/azure/search/search-howto-managed-identities-azure-functions (2025-01-23T23:02:00Z)
+                ☐ Connect through a firewall https://learn.microsoft.com/en-us/azure/search/search-indexer-howto-access-ip-restricted (2025-04-07T22:00:00Z)
+                ☐ Connect using Network Security Perimeter https://learn.microsoft.com/en-us/azure/search/search-security-network-security-perimeter (2025-04-09T17:03:00Z)
+                ☐ Connect as a trusted service https://learn.microsoft.com/en-us/azure/search/search-indexer-howto-access-trusted-service-exception (2025-04-07T22:00:00Z)
+                ☐ Connect through a shared private link https://learn.microsoft.com/en-us/azure/search/search-indexer-howto-access-private (2025-04-09T17:03:00Z)
+                ☐ Connect to a SQL managed instance private endpoint https://learn.microsoft.com/en-us/azure/search/search-indexer-how-to-access-private-sql (2025-04-09T17:03:00Z)
+            ☐ Document-level security https://learn.microsoft.com/en-us/azure/search/search-security-trimming-for-azure-search (2025-05-05T22:07:00Z)
+            Advanced options:
+                ☐ Create a private endpoint https://learn.microsoft.com/en-us/azure/search/service-create-private-endpoint (2025-04-15T05:17:00Z)
+                ☐ Troubleshoot private connections https://learn.microsoft.com/en-us/azure/search/troubleshoot-shared-private-link-resources (2024-12-10T18:00:00Z)
+                Data encryption:
+                    ☐ Customer-managed keys https://learn.microsoft.com/en-us/azure/search/search-security-manage-encryption-keys (2025-04-09T17:03:00Z)
+                    ☐ Find encrypted objects https://learn.microsoft.com/en-us/azure/search/search-security-get-encryption-keys (2025-04-15T05:17:00Z)
+        Development:
+            ☐ API versions https://learn.microsoft.com/en-us/azure/search/search-api-versions (2025-02-18T18:00:00Z)
+            ☐ Preview features https://learn.microsoft.com/en-us/azure/search/search-api-preview (2025-04-09T17:03:00Z)
+            ☐ Upgrade the REST API https://learn.microsoft.com/en-us/azure/search/search-api-migration (2025-04-09T17:03:00Z)
+            ☐ Upgrade .NET libraries https://learn.microsoft.com/en-us/azure/search/search-dotnet-sdk-migration-version-11 (2024-12-10T18:00:00Z)
+            ☐ Develop in .NET https://learn.microsoft.com/en-us/azure/search/search-how-to-dotnet-sdk (2025-04-15T05:17:00Z)
+            ☐ Manage with Azure SDKs https://learn.microsoft.com/en-us/azure/search/search-dotnet-mgmt-sdk-migration (2025-02-25T05:30:00Z)
+            ☐ Handle concurrent updates https://learn.microsoft.com/en-us/azure/search/search-howto-concurrency (2025-01-17T05:33:00Z)
+        Monitoring and performance:
+            ☐ Monitor https://learn.microsoft.com/en-us/azure/search/monitor-azure-cognitive-search (2025-02-25T23:00:00Z)
+            ☐ Enable diagnostic logging https://learn.microsoft.com/en-us/azure/search/search-monitor-enable-logging (2025-02-15T00:27:00Z)
+            ☐ Monitor queries https://learn.microsoft.com/en-us/azure/search/search-monitor-queries (2025-01-27T18:02:00Z)
+            ☐ Monitor indexer-based indexing https://learn.microsoft.com/en-us/azure/search/search-howto-monitor-indexers (2025-01-19T12:15:00Z)
+            ☐ Visualize resource logs https://learn.microsoft.com/en-us/azure/search/search-monitor-logs-powerbi (2024-12-10T18:00:00Z)
+            ☐ Performance analysis https://learn.microsoft.com/en-us/azure/search/search-performance-analysis (2025-02-25T23:00:00Z)
+            ☐ Tips for better performance https://learn.microsoft.com/en-us/azure/search/search-performance-tips (2025-04-09T17:03:00Z)
+        Knowledge store:
+            ☐ Knowledge store overview https://learn.microsoft.com/en-us/azure/search/knowledge-store-concept-intro (2024-12-10T18:00:00Z)
+            ☐ Knowledge store projections overview https://learn.microsoft.com/en-us/azure/search/knowledge-store-projection-overview (2024-12-10T18:00:00Z)
+            ☐ Create using REST https://learn.microsoft.com/en-us/azure/search/knowledge-store-create-rest (2025-03-16T11:05:00Z)
+            ☐ Shape data https://learn.microsoft.com/en-us/azure/search/knowledge-store-projection-shape (2024-12-10T18:00:00Z)
+            ☐ Define projections https://learn.microsoft.com/en-us/azure/search/knowledge-store-projections-examples (2024-12-10T18:00:00Z)
+            ☐ Projection example https://learn.microsoft.com/en-us/azure/search/knowledge-store-projection-example-long (2024-12-10T18:00:00Z)
+            ☐ Connect with Power BI https://learn.microsoft.com/en-us/azure/search/knowledge-store-connect-power-bi (2025-04-07T22:00:00Z)
+    Responsible AI:
+        ☐ Transparency note https://learn.microsoft.com/legal/search/transparency-note?context=/azure/search/context/context (2025-02-19T23:34:00Z)
+    Reference:
+        REST API reference:
+            ☐ Search REST API https://learn.microsoft.com/rest/api/searchservice (2025-04-08T22:05:00Z)
+            ☐ Management REST API https://learn.microsoft.com/rest/api/searchmanagement (2025-04-08T22:05:00Z)
+        Azure SDK reference:
+            .NET:
+                ☐ Azure.Search.Documents https://learn.microsoft.com/dotnet/api/overview/azure/search.documents-readme (2025-02-26T12:42:00Z)
+                ☐ Azure.ResourceManager.Search https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.search-readme (2024-05-08T11:40:00Z)
+            Java:
+            JavaScript:
+                ☐ azure/search-documents https://learn.microsoft.com/javascript/api/overview/azure/search-documents-readme (2025-02-26T12:05:00Z)
+                ☐ azure/arm-search https://learn.microsoft.com/javascript/api/@azure/arm-search/ (2023-10-25T11:07:00Z)
+            Python:
+                ☐ azure-search-documents https://learn.microsoft.com/python/api/overview/azure/search-documents-readme (2025-02-26T12:06:00Z)
+                ☐ azure-mgmt-search https://learn.microsoft.com/python/api/azure-mgmt-search/ (2024-04-30T00:19:00Z)
+        Data reference:
+            ☐ Data types https://learn.microsoft.com/rest/api/searchservice/supported-data-types (2024-10-11T17:36:00Z)
+            ☐ Data types for indexer data sources https://learn.microsoft.com/rest/api/searchservice/data-type-map-for-indexers-in-azure-search (2024-10-11T17:36:00Z)
+            ☐ Stopwords reference https://learn.microsoft.com/en-us/azure/search/reference-stopwords (2025-02-28T18:05:00Z)
+        Query reference:
+            ☐ Simple query syntax https://learn.microsoft.com/en-us/azure/search/query-simple-syntax (2024-12-17T23:02:00Z)
+            ☐ Full Lucene query syntax https://learn.microsoft.com/en-us/azure/search/query-lucene-syntax (2025-01-08T05:31:00Z)
+            ☐ moreLikeThis https://learn.microsoft.com/en-us/azure/search/search-more-like-this (2025-02-21T05:38:00Z)
+            OData language reference:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/search/query-odata-filter-orderby-syntax (2024-12-10T18:00:00Z)
+                ☐ $filter https://learn.microsoft.com/en-us/azure/search/search-query-odata-filter (2024-10-11T08:18:00Z)
+                ☐ $orderby https://learn.microsoft.com/en-us/azure/search/search-query-odata-orderby (2024-10-11T08:18:00Z)
+                ☐ $select https://learn.microsoft.com/en-us/azure/search/search-query-odata-select (2024-11-01T17:02:00Z)
+                ☐ any, all https://learn.microsoft.com/en-us/azure/search/search-query-odata-collection-operators (2024-10-11T08:18:00Z)
+                ☐ eq, ne, gt, lt, ge, le https://learn.microsoft.com/en-us/azure/search/search-query-odata-comparison-operators (2024-10-11T08:18:00Z)
+                ☐ search.ismatch, search.ismatchscoring https://learn.microsoft.com/en-us/azure/search/search-query-odata-full-text-search-functions (2024-10-11T08:18:00Z)
+                ☐ geo.distance, geo.intersects https://learn.microsoft.com/en-us/azure/search/search-query-odata-geo-spatial-functions (2024-10-11T08:18:00Z)
+                ☐ and, or, not https://learn.microsoft.com/en-us/azure/search/search-query-odata-logical-operators (2024-10-11T08:18:00Z)
+                ☐ search.in https://learn.microsoft.com/en-us/azure/search/search-query-odata-search-in-function (2024-10-11T08:18:00Z)
+                ☐ search.score https://learn.microsoft.com/en-us/azure/search/search-query-odata-search-score-function (2024-10-11T08:18:00Z)
+                ☐ OData Language Grammar https://learn.microsoft.com/en-us/azure/search/search-query-odata-syntax-reference (2024-10-11T08:18:00Z)
+        Resource management:
+            ☐ Azure CLI https://learn.microsoft.com/cli/azure/search (2025-03-25T06:59:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.search (2025-05-06T17:01:00Z)
+            ☐ Azure Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.search/searchservices (2025-05-13T19:46:00Z)
+            ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/search/policy-reference (2024-12-10T18:00:00Z)
+            ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/search/monitor-azure-cognitive-search-data-reference (2025-01-27T18:02:00Z)
+        Skills reference:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/search/cognitive-search-predefined-skills (2025-03-12T05:31:00Z)
+            ☐ Annotation reference language https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-annotation-language (2025-04-16T05:11:00Z)
+            Azure AI resource skills:
+                ☐ Document Layout skill https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-document-intelligence-layout (2025-05-01T11:03:00Z)
+                ☐ Entity Linking (v3) https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-entity-linking-v3 (2024-10-11T08:18:00Z)
+                ☐ Entity Recognition (v3) https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-entity-recognition-v3 (2024-10-11T08:18:00Z)
+                ☐ Image Analysis https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-image-analysis (2024-11-19T18:01:00Z)
+                ☐ Key Phrase Extraction https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-keyphrases (2024-10-11T08:18:00Z)
+                ☐ Language Detection https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-language-detection (2024-10-11T08:18:00Z)
+                ☐ OCR https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-ocr (2024-11-19T18:01:00Z)
+                ☐ PII Detection https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-pii-detection (2024-10-17T22:00:00Z)
+                ☐ Sentiment (v3) https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-sentiment-v3 (2024-10-17T22:00:00Z)
+                ☐ Text Translation https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-text-translation (2025-01-08T05:31:00Z)
+                ☐ AI Vision multimodal embeddings https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-vision-vectorize (2025-04-18T22:03:00Z)
+            Azure AI Search utility skills (nonbillable):
+                ☐ Conditional https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-conditional (2024-10-11T08:18:00Z)
+                ☐ Document Extraction https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-document-extraction (2024-10-17T22:00:00Z)
+                ☐ Shaper https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-shaper (2025-03-11T22:03:00Z)
+                ☐ Text Merger https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-textmerger (2024-10-11T08:18:00Z)
+                ☐ Text Split https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-textsplit (2024-12-04T05:31:00Z)
+            Azure OpenAI skills:
+                ☐ Azure OpenAI Embedding https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-azure-openai-embedding (2025-01-09T22:59:00Z)
+            Custom skills:
+                ☐ Azure Machine Learning (AML) https://learn.microsoft.com/en-us/azure/search/cognitive-search-aml-skill (2025-04-18T22:03:00Z)
+                ☐ Custom Entity Lookup https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-custom-entity-lookup (2024-10-11T08:18:00Z)
+                ☐ Custom Web API https://learn.microsoft.com/en-us/azure/search/cognitive-search-custom-skill-web-api (2025-04-15T05:17:00Z)
+            Deprecated skills https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-deprecated (2024-10-11T08:18:00Z):
+                ☐ Named Entity Recognition (v2) https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-named-entity-recognition (2024-10-11T08:18:00Z)
+                ☐ Entity Recognition (v2) https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-entity-recognition (2024-10-11T08:18:00Z)
+                ☐ Sentiment (v2) https://learn.microsoft.com/en-us/azure/search/cognitive-search-skill-sentiment (2024-10-11T08:18:00Z)
+        Vectorizers reference:
+            ☐ Azure OpenAI https://learn.microsoft.com/en-us/azure/search/vector-search-vectorizer-azure-open-ai (2024-12-23T23:00:00Z)
+            ☐ Azure AI Vision https://learn.microsoft.com/en-us/azure/search/vector-search-vectorizer-ai-services-vision (2025-01-09T22:59:00Z)
+            ☐ Azure AI Foundry model catalog https://learn.microsoft.com/en-us/azure/search/vector-search-vectorizer-azure-machine-learning-ai-studio-catalog (2025-03-13T05:31:00Z)
+            ☐ Custom Web API https://learn.microsoft.com/en-us/azure/search/vector-search-vectorizer-custom-web-api (2024-10-17T22:00:00Z)
+    Resources:
+        ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-cognitive-search
+        ☐ Azure pricing calculator https://azure.microsoft.com/pricing/details/search/
+        ☐ Azure products by region https://azure.microsoft.com/explore/global-infrastructure/products-by-region/?products=search
+        ☐ Compliance and certification https://learn.microsoft.com/azure/compliance/ (2025-05-12T17:04:00Z)
+        Demos, tools, and training:
+            ☐ Demo sites https://learn.microsoft.com/en-us/azure/search/resource-demo-sites (2025-02-28T18:05:00Z)
+            ☐ Tools and accelerators https://learn.microsoft.com/en-us/azure/search/resource-tools (2025-02-28T18:05:00Z)
+            ☐ Training https://learn.microsoft.com/en-us/azure/search/resource-training (2025-04-09T17:03:00Z)
+        Partner solutions:
+            ☐ Partner spotlight https://learn.microsoft.com/en-us/azure/search/resource-partners-knowledge-mining (2025-02-28T18:05:00Z)
+            ☐ Partner data sources (Terms of Use) https://learn.microsoft.com/en-us/azure/search/search-data-sources-terms-of-use (2025-02-21T05:38:00Z)
+

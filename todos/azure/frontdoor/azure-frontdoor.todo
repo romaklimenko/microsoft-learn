@@ -1,0 +1,266 @@
+Azure Front Door and CDN Documentation | Microsoft Learn:
+    ☐ Front Door and CDN documentation https://learn.microsoft.com/en-us/azure/frontdoor/ (2025-03-12 05:33 AM)
+    Get started:
+        ☐ What is Azure Front Door? https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview (2025-03-12T05:33:00Z)
+        ☐ Front Door and CDN comparison https://learn.microsoft.com/en-us/azure/frontdoor/front-door-cdn-comparison (2025-05-08T22:03:00Z)
+        ☐ Well-Architected review of Front Door https://learn.microsoft.com/azure/well-architected/service-guides/azure-front-door?toc=/azure/frontdoor/TOC.json (2025-03-10T17:02:00Z)
+        ☐ Front Door best practices https://learn.microsoft.com/en-us/azure/frontdoor/best-practices (2025-03-12T05:33:00Z)
+        ☐ Choosing the right load balancer https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/frontdoor/TOC.json (2025-04-17T17:31:00Z)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/frontdoor/front-door-faq (2025-04-14T11:11:00Z)
+    Design & plan:
+        ☐ Routing architecture https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-architecture?pivots=front-door-standard-premium (2025-03-12T05:33:00Z)
+        ☐ Route matching https://learn.microsoft.com/en-us/azure/frontdoor/front-door-route-matching?pivots=front-door-standard-premium (2025-03-12T05:33:00Z)
+        ☐ Routing limits https://learn.microsoft.com/en-us/azure/frontdoor/front-door-routing-limits (2025-05-13T05:03:00Z)
+        Scenarios:
+            ☐ Accelerate and secure your web application https://learn.microsoft.com/en-us/azure/frontdoor/scenarios (2025-03-12T05:33:00Z)
+            ☐ Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-storage-blobs (2025-03-12T05:33:00Z)
+            ☐ Upload to Azure Storage blobs https://learn.microsoft.com/en-us/azure/frontdoor/scenario-upload-storage-blobs (2025-03-12T05:33:00Z)
+    Configure:
+        Front Door profile:
+            ☐ Create a Front Door - Portal https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-portal (2025-05-12T22:03:00Z)
+            ☐ Create a Front Door - PowerShell https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-powershell (2025-05-12T22:03:00Z)
+            ☐ Create a Front Door - CLI https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-cli (2025-05-12T22:03:00Z)
+            ☐ Create a Front Door - Bicep https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-bicep (2025-03-12T05:33:00Z)
+            ☐ Create a Front Door - ARM template https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-template (2025-05-12T22:03:00Z)
+            ☐ Create a Front Door - Terraform https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-terraform (2025-05-12T22:03:00Z)
+        Endpoints:
+            ☐ Endpoints in Azure Front Door https://learn.microsoft.com/en-us/azure/frontdoor/endpoint (2025-05-12T22:03:00Z)
+            ☐ Front Door manager https://learn.microsoft.com/en-us/azure/frontdoor/manager (2025-05-12T22:03:00Z)
+            ☐ Create a new endpoint https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-endpoints (2025-05-12T22:03:00Z)
+            Domains:
+                ☐ Domains in Azure Front Door https://learn.microsoft.com/en-us/azure/frontdoor/domain (2025-05-12T22:03:00Z)
+                ☐ Add a custom domain https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-add-custom-domain (2025-05-12T22:03:00Z)
+                ☐ Configure HTTPS on a custom domain https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-https-custom-domain (2025-03-27T06:08:00Z)
+                ☐ Apex domains https://learn.microsoft.com/en-us/azure/frontdoor/apex-domain (2025-05-12T22:03:00Z)
+                ☐ Add a root or apex domain https://learn.microsoft.com/en-us/azure/frontdoor/front-door-how-to-onboard-apex-domain?pivots=front-door-standard-premium (2025-05-01T05:13:00Z)
+                ☐ Wildcard domains https://learn.microsoft.com/en-us/azure/frontdoor/front-door-wildcard-domain?pivots=front-door-standard-premium (2025-03-12T05:33:00Z)
+        Rules engine:
+            ☐ What is a rule set? https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine?pivots=front-door-standard-premium (2025-04-09T17:06:00Z)
+            ☐ Match conditions https://learn.microsoft.com/en-us/azure/frontdoor/rules-match-conditions?pivots=front-door-standard-premium (2025-03-12T05:33:00Z)
+            ☐ Actions https://learn.microsoft.com/en-us/azure/frontdoor/front-door-rules-engine-actions?pivots=front-door-standard-premium (2025-05-09T11:15:00Z)
+            ☐ Configure a rule set https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-configure-rule-set (2025-05-13T05:03:00Z)
+            ☐ Configure security headers https://learn.microsoft.com/en-us/azure/frontdoor/front-door-security-headers?pivots=front-door-standard-premium (2025-05-13T05:03:00Z)
+            ☐ Server variables https://learn.microsoft.com/en-us/azure/frontdoor/rule-set-server-variables (2025-05-13T05:03:00Z)
+            ☐ URL rewrite https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-rewrite?pivots=front-door-standard-premium (2025-03-12T05:33:00Z)
+            ☐ URL redirect https://learn.microsoft.com/en-us/azure/frontdoor/front-door-url-redirect?pivots=front-door-standard-premium (2025-03-12T05:33:00Z)
+        Origins:
+            ☐ Origins and origin groups https://learn.microsoft.com/en-us/azure/frontdoor/origin (2025-03-12T05:33:00Z)
+            ☐ Traffic acceleration https://learn.microsoft.com/en-us/azure/frontdoor/front-door-traffic-acceleration?pivots=front-door-standard-premium (2025-03-12T05:33:00Z)
+            ☐ Origin selection https://learn.microsoft.com/en-us/azure/frontdoor/routing-methods (2025-05-13T05:03:00Z)
+            ☐ Health probes https://learn.microsoft.com/en-us/azure/frontdoor/health-probes (2025-03-12T05:33:00Z)
+            ☐ Add origins to origin group https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-origin (2025-05-12T22:03:00Z)
+            ☐ Add origin authentication https://learn.microsoft.com/en-us/azure/frontdoor/origin-authentication-with-managed-identities (2025-05-13T05:03:00Z)
+        Private Link:
+            ☐ Secure your origin with Private Link https://learn.microsoft.com/en-us/azure/frontdoor/private-link (2025-05-13T05:03:00Z)
+            Enable Private Link to secure origins:
+                ☐ Connect to an internal load balancer https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-internal-load-balancer (2025-05-13T05:03:00Z)
+                Connect to Azure Storage Account:
+                    ☐ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-storage-account (2025-05-13T05:03:00Z)
+                    ☐ Azure CLI https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-storage-account-cli (2025-05-13T05:03:00Z)
+                ☐ Connect to Azure Storage static website https://learn.microsoft.com/en-us/azure/frontdoor/how-to-enable-private-link-storage-static-website (2025-05-13T05:03:00Z)
+                Connect to Azure App Service:
+                    ☐ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-web-app (2025-05-13T05:03:00Z)
+                    ☐ Azure CLI https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-web-app-cli (2025-05-13T05:03:00Z)
+                ☐ Connect to Azure Application Gateway https://learn.microsoft.com/en-us/azure/frontdoor/how-to-enable-private-link-application-gateway (2025-05-13T05:03:00Z)
+                ☐ Connect to Azure API Management https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-enable-private-link-apim (2025-05-13T05:03:00Z)
+        Caching:
+            ☐ Caching with Azure Front Door https://learn.microsoft.com/en-us/azure/frontdoor/front-door-caching?pivots=front-door-standard-premium (2025-03-12T05:33:00Z)
+            ☐ Configure caching https://learn.microsoft.com/en-us/azure/frontdoor/how-to-configure-caching (2025-05-12T22:03:00Z)
+            Purge Front Door cache:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-cache-purge (2025-05-12T22:03:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-cache-purge-powershell (2025-05-12T22:03:00Z)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-cache-purge-cli (2025-05-12T22:03:00Z)
+        Integrations:
+            ☐ Azure Storage Account https://learn.microsoft.com/en-us/azure/frontdoor/integrate-storage-account (2025-05-12T22:03:00Z)
+            ☐ Azure API Management https://learn.microsoft.com/en-us/azure/api-management/front-door-api-management?toc=/azure/frontdoor/toc.json (2024-12-19T18:04:00Z)
+            ☐ Azure OpenAI https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-azure-open-ai?toc=/azure/frontdoor/toc.json (2025-03-23T23:14:00Z)
+            ☐ Azure Static Web Apps https://learn.microsoft.com/en-us/azure/static-web-apps/front-door-manual?toc=/azure/frontdoor/toc.json (2025-05-09T17:03:00Z)
+    Migration and upgrades:
+        Migrate to Standard or Premium tier:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/frontdoor/tier-migration (2025-05-13T05:03:00Z)
+            ☐ Classic to Standard/Premium mapping https://learn.microsoft.com/en-us/azure/frontdoor/tier-mapping (2025-05-13T05:03:00Z)
+            ☐ Migrate from Front Door (classic) https://learn.microsoft.com/en-us/azure/frontdoor/migrate-tier (2025-05-13T05:03:00Z)
+        ☐ Microsoft CDN (classic) retirement FAQ https://learn.microsoft.com/en-us/azure/cdn/classic-cdn-retirement-faq (2025-03-31T22:56:00Z)
+        ☐ Edgio retirement FAQ https://learn.microsoft.com/previous-versions/azure/cdn/edgio-retirement-faq?toc=/azure/frontdoor/TOC.json (2025-03-24T22:32:00Z)
+        CDN (classic) to Azure Front Door:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/cdn/tier-migration?toc=/azure/frontdoor/TOC.json (2025-05-13T05:03:00Z)
+            ☐ Migrate from Azure CDN (classic) to Azure Front Door https://learn.microsoft.com/en-us/azure/cdn/migrate-tier?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+        ☐ Migrate CDN provider https://learn.microsoft.com/en-us/azure/cdn/cdn-change-provider?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+        Migrate any CDN to Azure Front Door:
+            ☐ Custom domain https://learn.microsoft.com/en-us/azure/frontdoor/migrate-cdn-to-front-door (2025-03-12T05:33:00Z)
+        Upgrade to Premium tier:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade (2025-05-13T05:03:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/frontdoor/tier-upgrade-powershell (2025-05-13T05:03:00Z)
+    Security:
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-front-door-security-baseline?toc=/azure/frontdoor/TOC.json (2025-02-27T14:58:00Z)
+        ☐ DDoS protection https://learn.microsoft.com/en-us/azure/frontdoor/front-door-ddos (2025-03-12T05:33:00Z)
+        ☐ End-to-end TLS encryption https://learn.microsoft.com/en-us/azure/frontdoor/end-to-end-tls (2025-04-09T17:06:00Z)
+        TLS policy:
+            ☐ Front Door TLS policy https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/tls-policy (2025-05-13T05:03:00Z)
+            ☐ Configure TLS policy https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/tls-policy-configure (2025-05-13T05:03:00Z)
+        ☐ Set up managed identity https://learn.microsoft.com/en-us/azure/frontdoor/managed-identity (2025-05-13T05:03:00Z)
+        Sensitive data protection:
+            ☐ Front Door sensitive data protection https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/sensitive-data-protection (2025-05-13T05:03:00Z)
+            ☐ Enable log scrubbing https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-protect-sensitive-data (2025-05-13T05:03:00Z)
+        ☐ Secure traffic to origins https://learn.microsoft.com/en-us/azure/frontdoor/origin-security (2025-03-12T05:33:00Z)
+        Web Application Firewall:
+            ☐ Web Application Firewall (WAF) on Front Door https://learn.microsoft.com/en-us/azure/frontdoor/web-application-firewall (2025-03-12T05:33:00Z)
+            ☐ Configure a security policy https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal?toc=/azure/frontdoor/toc.json (2025-03-27T06:08:00Z)
+            ☐ Geo-filtering https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-geo-filtering?toc=/azure/frontdoor/toc.json (2025-02-03T23:15:00Z)
+            ☐ Configure geo-filtering https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tutorial-geo-filtering?toc=/azure/frontdoor/toc.json (2025-02-03T23:15:00Z)
+            ☐ Rate limiting https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit?toc=/azure/frontdoor/toc.json (2025-03-03T18:05:00Z)
+            ☐ Configure rate limits https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit-configure?toc=/azure/frontdoor/toc.json (2025-03-23T23:14:00Z)
+            ☐ Custom rules https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules?toc=/azure/frontdoor/toc.json (2025-02-03T23:15:00Z)
+            ☐ Configure IP restriction https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction?toc=/azure/frontdoor/toc.json (2025-02-03T23:15:00Z)
+        ☐ Network security blog https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog
+    Operational excellence:
+        ☐ WebSocket https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/websocket (2025-05-13T05:03:00Z)
+        ☐ HTTP/2 https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http2 (2025-03-12T05:33:00Z)
+        ☐ Compression https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-compression (2025-05-13T05:03:00Z)
+        ☐ Blue/Green deployment with Front Door https://learn.microsoft.com/en-us/azure/frontdoor/blue-green-deployment (2025-05-13T05:03:00Z)
+        Monitor and reports:
+            ☐ Monitor Front Door https://learn.microsoft.com/en-us/azure/frontdoor/monitor-front-door (2025-03-12T05:33:00Z)
+            ☐ Front Door monitoring data reference https://learn.microsoft.com/en-us/azure/frontdoor/monitor-front-door-reference (2025-03-12T05:33:00Z)
+            ☐ Configure diagnostic logs https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-logs (2025-05-13T05:03:00Z)
+            ☐ View Front Door reports https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-reports (2025-05-13T05:03:00Z)
+    Cost operations:
+        ☐ Understanding billing https://learn.microsoft.com/en-us/azure/frontdoor/billing (2025-05-13T05:03:00Z)
+        ☐ Price comparison between tiers https://learn.microsoft.com/en-us/azure/frontdoor/understanding-pricing (2025-05-13T05:03:00Z)
+        ☐ CDN and Front Door price comparison https://learn.microsoft.com/en-us/azure/frontdoor/compare-cdn-front-door-price (2025-05-13T05:03:00Z)
+    Troubleshoot:
+        Front Door:
+            ☐ Troubleshooting with RefString https://learn.microsoft.com/en-us/azure/frontdoor/refstring (2025-03-12T05:33:00Z)
+            ☐ Troubleshooting Front Door issues https://learn.microsoft.com/en-us/azure/frontdoor/troubleshoot-issues (2025-03-12T05:33:00Z)
+            ☐ Troubleshooting Front Door performance issues https://learn.microsoft.com/en-us/azure/frontdoor/troubleshoot-performance-issues (2025-03-12T05:33:00Z)
+            ☐ Allowed certificate authorities https://ccadb-public.secure.force.com/microsoft/IncludedCACertificateReportForMSFT
+            ☐ File compression https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/troubleshoot-compression (2025-05-13T05:03:00Z)
+            ☐ Subscription offers and bandwidth throttling https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/subscription-offers (2025-05-13T05:03:00Z)
+            ☐ Questions & answers https://learn.microsoft.com/answers/tags/96/azure-front-door
+    Legacy CDN:
+        Get started:
+            ☐ What is Azure Front Door (classic)? https://learn.microsoft.com/en-us/azure/frontdoor/classic-overview (2025-05-13T05:03:00Z)
+            ☐ Front Door (classic) retirement FAQ https://learn.microsoft.com/en-us/azure/frontdoor/classic-retirement-faq (2025-05-13T05:03:00Z)
+            ☐ What is Azure Content Delivery Network (Azure CDN)? https://learn.microsoft.com/en-us/azure/cdn/cdn-overview?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+        Quickstarts:
+            Front Door (classic):
+                ☐ Create a Front Door - Portal https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door (2025-05-13T05:03:00Z)
+                ☐ Create a Front Door - PowerShell https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-powershell (2025-05-13T05:03:00Z)
+                ☐ Create a Front Door - CLI https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-cli (2025-05-13T05:03:00Z)
+                ☐ Create a Front Door - Bicep https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-bicep (2025-05-13T05:03:00Z)
+                ☐ Create a Front Door - ARM Template https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-template (2025-05-13T05:03:00Z)
+                ☐ Create a Front Door - Terraform https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door-terraform (2025-05-13T05:03:00Z)
+            CDN from Microsoft (classic):
+                ☐ Integrate a storage account https://learn.microsoft.com/en-us/azure/cdn/cdn-create-a-storage-account-with-cdn?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                ☐ Create a profile and endpoint - Portal https://learn.microsoft.com/en-us/azure/cdn/cdn-create-new-endpoint?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                ☐ Create a profile and endpoint - Azure CLI https://learn.microsoft.com/en-us/azure/cdn/scripts/cli/cdn-azure-cli-create-endpoint?toc=/azure/frontdoor/TOC.json (2025-04-21T11:17:00Z)
+                ☐ Create profile and endpoint - Bicep https://learn.microsoft.com/en-us/azure/cdn/create-profile-endpoint-bicep?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                ☐ Create profile and endpoint - ARM Template https://learn.microsoft.com/en-us/azure/cdn/create-profile-endpoint-template?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                ☐ Create profile and endpoint - Terraform https://learn.microsoft.com/en-us/azure/cdn/create-profile-endpoint-terraform?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+        Configure:
+            Front Door (classic):
+                Add a custom domain:
+                    ☐ Azure portal https://learn.microsoft.com/en-us/azure/frontdoor/front-door-custom-domain (2025-05-13T05:03:00Z)
+                    ☐ Azure CLI https://learn.microsoft.com/en-us/azure/frontdoor/scripts/custom-domain (2025-05-13T05:03:00Z)
+                ☐ Configure HTTPS on a custom domain https://learn.microsoft.com/en-us/azure/frontdoor/front-door-custom-domain-https (2025-05-13T05:03:00Z)
+                ☐ Add a root or apex domain https://learn.microsoft.com/en-us/azure/frontdoor/standard-premium/how-to-add-security-headers (2025-05-13T05:03:00Z)
+                ☐ Set up a Rules Engine (classic) https://learn.microsoft.com/en-us/azure/frontdoor/front-door-tutorial-rules-engine (2025-05-13T05:03:00Z)
+            CDN (classic) from Microsoft:
+                Optimized content https://learn.microsoft.com/en-us/azure/cdn/cdn-optimization-overview?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z):
+                    ☐ Large-file optimization https://learn.microsoft.com/en-us/azure/cdn/cdn-large-file-optimization?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Media streaming optimization https://learn.microsoft.com/en-us/azure/cdn/cdn-media-streaming-optimization?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                Manage:
+                    ☐ Create an endpoint https://learn.microsoft.com/en-us/azure/cdn/cdn-create-endpoint-how-to?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Manage by using Azure PowerShell https://learn.microsoft.com/en-us/azure/cdn/cdn-manage-powershell?toc=/azure/frontdoor/TOC.json (2025-04-02T17:07:00Z)
+                    ☐ Add a custom domain https://learn.microsoft.com/en-us/azure/cdn/cdn-map-content-to-custom-domain?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Configure HTTPS on a custom domain https://learn.microsoft.com/en-us/azure/cdn/cdn-custom-ssl?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Onboard a root or apex domain https://learn.microsoft.com/en-us/azure/cdn/onboard-apex-domain?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Access blobs by using a custom domain over HTTPS https://learn.microsoft.com/en-us/azure/cdn/cdn-storage-custom-domain-https?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Set up managed identity https://learn.microsoft.com/en-us/azure/cdn/managed-identity?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Improve performance by compressing files https://learn.microsoft.com/en-us/azure/cdn/cdn-improve-performance?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Endpoint multi-origin https://learn.microsoft.com/en-us/azure/cdn/endpoint-multiorigin?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Enforce HTTPS by using the Standard rules engine https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    Control caching behavior:
+                        ☐ How caching works https://learn.microsoft.com/en-us/azure/cdn/cdn-how-caching-works?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                        ☐ Purge cached assets https://learn.microsoft.com/en-us/azure/cdn/cdn-purge-endpoint?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                        ☐ Set caching rules https://learn.microsoft.com/en-us/azure/cdn/cdn-caching-rules-tutorial?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Add Azure CDN to a web app https://learn.microsoft.com/en-us/azure/cdn/cdn-add-to-web-app?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Shared access signature storage support https://learn.microsoft.com/en-us/azure/cdn/cdn-sas-storage-support?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Cross-origin resource sharing https://learn.microsoft.com/en-us/azure/cdn/cdn-cors?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Monitor resources https://learn.microsoft.com/en-us/azure/cdn/cdn-resource-health?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Use Traffic Manager https://learn.microsoft.com/en-us/azure/cdn/cdn-traffic-manager?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                Analyze https://learn.microsoft.com/en-us/azure/cdn/cdn-log-analysis?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z):
+                    ☐ Monitoring, metrics, and access Logs https://learn.microsoft.com/en-us/azure/cdn/monitoring-and-access-log?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Azure diagnostics logs https://learn.microsoft.com/en-us/azure/cdn/cdn-azure-diagnostic-logs?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                Develop:
+                    ☐ .NET https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-net?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                    ☐ Node.js https://learn.microsoft.com/en-us/azure/cdn/cdn-app-dev-node?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+        Security:
+            Front Door (classic):
+                ☐ Configure HTTP to HTTPS redirect https://learn.microsoft.com/en-us/azure/frontdoor/front-door-how-to-redirect-https (2025-03-12T05:33:00Z)
+                ☐ Add security headers with Rules engine https://learn.microsoft.com/en-us/azure/frontdoor/front-door-security-headers (2025-05-13T05:03:00Z)
+                ☐ Web Application Firewall and Front Door https://learn.microsoft.com/en-us/azure/frontdoor/front-door-waf (2025-05-13T05:03:00Z)
+            CDN (classic) from Microsoft:
+                ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/content-delivery-network-security-baseline?toc=/azure/frontdoor/TOC.json (2025-04-25T19:44:00Z)
+                ☐ DDoS protection https://learn.microsoft.com/en-us/azure/cdn/cdn-ddos?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+        Operation excellence:
+            CDN (classic) from Microsoft:
+                ☐ HTTP/2 support https://learn.microsoft.com/en-us/azure/cdn/cdn-http2?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                ☐ Retrieve POP IP's https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-list-api?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                ☐ China content delivery https://learn.microsoft.com/en-us/azure/cdn/cdn-china-delivery?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+        Troubleshoot:
+            CDN:
+                ☐ 404 status https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-endpoint?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                ☐ File compression https://learn.microsoft.com/en-us/azure/cdn/cdn-troubleshoot-compression?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                ☐ Allowed certificate authorities https://ccadb-public.secure.force.com/microsoft/IncludedCACertificateReportForMSFT
+                ☐ Subscription offers and bandwidth throttling https://learn.microsoft.com/en-us/azure/cdn/subscription-offerings?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                ☐ Questions & answers https://learn.microsoft.com/answers/tags/155/azure-cdn
+    Reference:
+        Front Door:
+            ☐ HTTP headers protocol support https://learn.microsoft.com/en-us/azure/frontdoor/front-door-http-headers-protocol (2025-05-01T05:13:00Z)
+            Azure Front Door POP locations:
+                ☐ POP locations by region https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-region (2025-05-13T05:03:00Z)
+                ☐ POP locations by abbreviation https://learn.microsoft.com/en-us/azure/frontdoor/edge-locations-by-abbreviation (2025-05-13T05:03:00Z)
+            Standard/Premium:
+                ☐ Azure CLI https://learn.microsoft.com/cli/azure/afd (2025-03-25T06:59:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn (2025-05-06T17:01:00Z)
+                ☐ Bicep and Resource Manager Templates https://learn.microsoft.com/en-us/azure/frontdoor/front-door-quickstart-template-samples?pivots=front-door-standard-premium (2025-03-12T05:33:00Z)
+                ☐ Terraform https://learn.microsoft.com/en-us/azure/frontdoor/terraform-samples?pivots=front-door-standard-premium (2025-03-12T05:33:00Z)
+                ☐ REST API https://learn.microsoft.com/rest/api/frontdoor (2024-08-06T22:08:00Z)
+                ☐ Python SDK https://learn.microsoft.com/python/api/azure-mgmt-cdn (2024-04-30T00:19:00Z)
+                ☐ Go SDK https://pkg.go.dev/github.com/Azure/azure-sdk-for-go@v62.3.0+incompatible/services/cdn/mgmt/2021-06-01/cdn
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/cdn (2024-09-27T11:07:00Z)
+            Classic:
+                ☐ Azure CLI https://learn.microsoft.com/cli/azure/afd/ (2025-03-25T06:59:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.frontdoor (2025-05-06T17:01:00Z)
+                ☐ Bicep and Resource Manager Templates https://learn.microsoft.com/en-us/azure/frontdoor/front-door-quickstart-template-samples?pivots=front-door-classic (2025-03-12T05:33:00Z)
+                ☐ Terraform https://learn.microsoft.com/en-us/azure/frontdoor/terraform-samples?pivots=front-door-classic (2025-03-12T05:33:00Z)
+                ☐ REST API https://learn.microsoft.com/rest/api/frontdoor/#front-door-classic (2024-08-06T22:08:00Z)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/arm-frontdoor-readme (2025-02-26T12:05:00Z)
+        CDN:
+            Azure CDN POP locations:
+                ☐ POP locations by region https://learn.microsoft.com/en-us/azure/cdn/cdn-pop-locations?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                POP locations by abbreviation:
+                    ☐ Microsoft (classic) https://learn.microsoft.com/en-us/azure/cdn/microsoft-pop-abbreviations?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+            Standard rules engine https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-reference?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z):
+                ☐ Standard rules engine match conditions https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-match-conditions?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+                ☐ Standard rules engine actions https://learn.microsoft.com/en-us/azure/cdn/cdn-standard-rules-engine-actions?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+            ☐ Microsoft-specific HTTP headers https://learn.microsoft.com/en-us/azure/cdn/cdn-msft-http-debug-headers?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/cli/azure/cdn (2025-03-25T06:59:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.cdn/ (2025-05-06T17:01:00Z)
+            ☐ .NET https://learn.microsoft.com/dotnet/api/microsoft.azure.management.cdn (2018-06-16T00:36:00Z)
+            ☐ REST https://learn.microsoft.com/rest/api/cdn/ (2023-10-31T21:45:00Z)
+    Resources:
+        Front Door:
+            ☐ Pricing https://azure.microsoft.com/pricing/details/frontdoor/
+            ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+            ☐ Service updates https://azure.microsoft.com/updates/?product=frontdoor
+        CDN:
+            ☐ Azure Content Delivery Network billing https://learn.microsoft.com/en-us/azure/cdn/cdn-billing?toc=/azure/frontdoor/TOC.json (2025-03-31T22:56:00Z)
+            ☐ Microsoft Q&A question page https://learn.microsoft.com/answers/tags/155/azure-cdn.html
+            ☐ Pricing https://azure.microsoft.com/pricing/details/cdn/
+            ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+            ☐ Service updates https://azure.microsoft.com/updates/?product=cdn
+            ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-cdn
+            ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=cdn
+        ☐ Networking blog https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog
+

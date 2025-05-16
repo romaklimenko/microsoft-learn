@@ -1,0 +1,757 @@
+Azure Blob Storage documentation | Microsoft Learn:
+    ☐ Azure Blob Storage documentation https://learn.microsoft.com/en-us/azure/storage/blobs/ (2025-03-19 05:20 PM)
+    Overview:
+        ☐ What is Azure Blob Storage? https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview (2024-08-29T05:56:00Z)
+        ☐ Compare core storage services https://learn.microsoft.com/en-us/azure/storage/common/storage-introduction?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+        ☐ Blob Storage feature support https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts (2025-05-03T05:16:00Z)
+    Blob Storage:
+        Overview:
+            ☐ Introduction to Blob Storage https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction (2023-10-10T22:05:00Z)
+        Architecture:
+            ☐ Well-architected considerations https://learn.microsoft.com/azure/well-architected/service-guides/azure-blob-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-24T18:00:00Z)
+        Quickstarts:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-portal (2023-09-29T22:13:00Z)
+            ☐ Storage Explorer https://learn.microsoft.com/en-us/azure/storage/blobs/quickstart-storage-explorer (2024-08-29T05:56:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-powershell (2024-10-03T22:03:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-cli (2024-03-21T17:07:00Z)
+            ☐ .NET https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-dotnet (2024-09-13T17:05:00Z)
+            Java:
+                ☐ Java SE https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-java (2025-03-19T17:20:00Z)
+                ☐ Quarkus https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-java-quarkus (2025-03-19T17:20:00Z)
+            ☐ Python https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-python (2024-09-13T17:05:00Z)
+            JavaScript:
+                ☐ JavaScript for Node.js https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-nodejs (2024-12-05T12:18:00Z)
+                ☐ JavaScript for browser https://learn.microsoft.com/en-us/azure/storage/blobs/quickstart-blobs-javascript-browser (2024-12-05T12:18:00Z)
+            ☐ C++ https://learn.microsoft.com/en-us/azure/storage/blobs/quickstart-blobs-c-plus-plus (2025-03-17T17:02:00Z)
+            ☐ Go https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-go (2024-12-23T18:06:00Z)
+            ☐ Terraform https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-static-website-terraform (2024-12-16T23:03:00Z)
+            TypeScript:
+                ☐ TypeScript for Node.js https://learn.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-nodejs-typescript (2024-12-05T12:18:00Z)
+        Storage accounts:
+            ☐ Storage accounts overview https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            ☐ Premium block blob storage https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-block-blob-premium (2025-05-03T05:16:00Z)
+            Account management:
+                ☐ Create a storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-11T05:10:00Z)
+                ☐ Upgrade a storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-upgrade?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-06-27T17:04:00Z)
+                ☐ Recover a deleted storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-recover?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Lock a storage account https://learn.microsoft.com/en-us/azure/storage/common/lock-account-resource?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-10-12T11:16:00Z)
+                ☐ Get account configuration properties https://learn.microsoft.com/en-us/azure/storage/common/storage-account-get-info?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-12-06T23:03:00Z)
+                ☐ Relocate a storage account to another region https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-storage-account?toc=/azure/storage/blobs/toc.json (2025-04-11T22:03:00Z)
+            Classic storage account retirement https://learn.microsoft.com/en-us/azure/storage/common/classic-account-migration-overview?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z):
+                ☐ Understand the migration process for classic accounts https://learn.microsoft.com/en-us/azure/storage/common/classic-account-migration-process?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Migrate a classic storage account to Resource Manager https://learn.microsoft.com/en-us/azure/storage/common/classic-account-migrate?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-19T18:02:00Z)
+            Data Lake Storage:
+                ☐ Plan to upgrade an account https://learn.microsoft.com/en-us/azure/storage/blobs/upgrade-to-data-lake-storage-gen2 (2025-05-03T05:16:00Z)
+                ☐ Upgrade an account https://learn.microsoft.com/en-us/azure/storage/blobs/upgrade-to-data-lake-storage-gen2-how-to (2025-05-03T05:16:00Z)
+        Data transfer and migration:
+            ☐ Storage migration overview https://learn.microsoft.com/en-us/azure/storage/common/storage-migration-overview?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            ☐ Tape migration overview https://learn.microsoft.com/en-us/azure/storage/common/tape-migration-guide?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            Compare data transfer solutions https://learn.microsoft.com/en-us/azure/storage/common/storage-choose-data-transfer-solution?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z):
+                ☐ Large dataset, low network bandwidth https://learn.microsoft.com/en-us/azure/storage/common/storage-solution-large-dataset-low-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Large dataset, moderate to high network bandwidth https://learn.microsoft.com/en-us/azure/storage/common/storage-solution-large-dataset-moderate-high-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Small dataset, low to moderate network bandwidth https://learn.microsoft.com/en-us/azure/storage/common/storage-solution-small-dataset-low-moderate-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Periodic data transfer https://learn.microsoft.com/en-us/azure/storage/common/storage-solution-periodic-data-transfer?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            AzCopy:
+                ☐ Get started https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-22T05:11:00Z)
+                ☐ Authorize with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-authorize-azure-active-directory?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-27T05:33:00Z)
+                ☐ Optimize performance https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-optimize?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-13T17:09:00Z)
+                ☐ Use logs to find errors and resume jobs https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-configure?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-07-12T11:14:00Z)
+                ☐ Examples: Upload https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs-upload?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-27T23:07:00Z)
+                ☐ Examples: Download https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs-download?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-27T23:07:00Z)
+                ☐ Examples: Copy between accounts https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs-copy?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-27T23:07:00Z)
+                ☐ Examples: Synchronize https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs-synchronize?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-10-13T22:42:00Z)
+                ☐ Examples: Properties and metadata https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs-properties-metadata?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-27T23:07:00Z)
+                ☐ Examples: Amazon S3 buckets https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-s3?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-09T17:06:00Z)
+                ☐ Examples: Google Cloud Storage buckets https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-google-cloud?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-10-12T11:16:00Z)
+                ☐ Tutorial: Migrate data to the cloud https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-migrate-on-premises-data?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-07-23T17:05:00Z)
+                ☐ Troubleshoot AzCopy issues https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-use-azcopy-troubleshoot?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-05-14T01:01:00Z)
+                ☐ Map of AzCopy commands to REST operations https://learn.microsoft.com/en-us/azure/storage/common/storage-reference-azcopy-map-commands-to-rest-operations?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-27T23:07:00Z)
+            Azure Data Factory https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-blob-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-09-26T22:04:00Z):
+                ☐ Azure Data Factory (Data Lake Storage) https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-data-lake-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-06T12:14:00Z)
+            BlobFuse:
+                ☐ What is BlobFuse2? https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-what-is (2024-11-19T18:02:00Z)
+                ☐ Deploy BlobFuse2 on Linux https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-how-to-deploy (2025-02-05T18:02:00Z)
+                ☐ Deploy BlobFuse v1 on Linux https://learn.microsoft.com/en-us/azure/storage/blobs/storage-how-to-mount-container-linux (2025-02-05T18:02:00Z)
+                ☐ Health Monitor for BlobFuse2 https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-health-monitor (2024-05-03T11:20:00Z)
+                ☐ Troubleshoot BlobFuse2 https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-troubleshooting (2024-05-03T11:20:00Z)
+            NFS 3.0:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/network-file-system-protocol-support (2025-05-03T05:16:00Z)
+                ☐ Performance considerations https://learn.microsoft.com/en-us/azure/storage/blobs/network-file-system-protocol-support-performance (2025-05-03T05:16:00Z)
+                ☐ Performance benchmark https://learn.microsoft.com/en-us/azure/storage/blobs/network-file-system-protocol-performance-benchmark (2025-05-03T05:16:00Z)
+                ☐ Mount storage by using NFS https://learn.microsoft.com/en-us/azure/storage/blobs/network-file-system-protocol-support-how-to (2025-05-03T05:16:00Z)
+                ☐ Limitations and known issues https://learn.microsoft.com/en-us/azure/storage/blobs/network-file-system-protocol-known-issues (2025-05-03T05:16:00Z)
+            SFTP:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support (2025-05-03T05:16:00Z)
+                ☐ Enable or disable SFTP https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-how-to (2024-10-11T22:04:00Z)
+                ☐ Authorize access https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-authorize-access (2025-05-12T17:04:00Z)
+                ☐ Connect from an SFTP client https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-support-connect (2025-05-03T05:16:00Z)
+                ☐ Performance considerations https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-performance (2025-05-03T05:16:00Z)
+                ☐ Limitations and known issues https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-known-issues (2025-05-03T05:16:00Z)
+        Data management:
+            Containers and blobs:
+                ☐ Block blobs, append blobs, and page blobs https://learn.microsoft.com/rest/api/storageservices/understanding-block-blobs--append-blobs--and-page-blobs?toc=/azure/storage/blobs/toc.json (2023-06-27T21:44:00Z)
+                ☐ Manage containers (Azure portal) https://learn.microsoft.com/en-us/azure/storage/blobs/blob-containers-portal (2023-10-12T11:16:00Z)
+                ☐ Manage containers (PowerShell) https://learn.microsoft.com/en-us/azure/storage/blobs/blob-containers-powershell (2023-11-15T18:06:00Z)
+                ☐ Manage containers (CLI) https://learn.microsoft.com/en-us/azure/storage/blobs/blob-containers-cli (2024-03-21T17:07:00Z)
+                ☐ Page blob features https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-pageblob-overview (2024-08-22T19:16:00Z)
+                ☐ Manage blobs (PowerShell) https://learn.microsoft.com/en-us/azure/storage/blobs/blob-powershell (2023-10-12T11:16:00Z)
+                ☐ Manage blobs (CLI) https://learn.microsoft.com/en-us/azure/storage/blobs/blob-cli (2024-06-12T17:07:00Z)
+                ☐ Convert append and page blobs to block blobs https://learn.microsoft.com/en-us/azure/storage/blobs/convert-append-and-page-blobs-to-block-blobs (2024-01-17T12:14:00Z)
+            Blob inventory https://learn.microsoft.com/en-us/azure/storage/blobs/blob-inventory (2025-05-03T05:16:00Z):
+                ☐ Enable blob inventory reports https://learn.microsoft.com/en-us/azure/storage/blobs/blob-inventory-how-to (2025-01-09T05:32:00Z)
+                ☐ Calculate blob count and total size https://learn.microsoft.com/en-us/azure/storage/blobs/calculate-blob-count-size (2024-04-22T22:06:00Z)
+                ☐ Tutorial: Analyze blob inventory reports https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-inventory-report-analytics (2024-07-12T22:08:00Z)
+                ☐ Tutorial: Calculate container statistics https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-calculate-container-statistics-databricks (2025-01-13T23:06:00Z)
+            Blob index tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-manage-find-blobs (2025-05-03T05:16:00Z):
+                ☐ Use blob index tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-index-how-to (2024-05-01T22:11:00Z)
+            Lifecycle management policies https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-overview (2025-05-03T05:16:00Z):
+                ☐ Configure lifecycle management policies https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-policy-configure (2025-05-03T05:16:00Z)
+                ☐ Lifecycle management performance characteristics https://learn.microsoft.com/en-us/azure/storage/blobs/lifecycle-management-performance-characteristics (2025-02-12T05:33:00Z)
+            ☐ Full text search https://learn.microsoft.com/azure/search/search-blob-storage-integration?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-16T05:32:00Z)
+            Static websites:
+                ☐ Static websites https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website (2025-04-14T22:03:00Z)
+                ☐ Host a static website https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-how-to (2025-05-03T05:16:00Z)
+                ☐ Integrate with Azure CDN https://learn.microsoft.com/en-us/azure/storage/blobs/static-website-content-delivery-network (2025-03-31T22:56:00Z)
+                ☐ Use GitHub Actions to deploy a static site to Azure Storage https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-static-site-github-actions (2025-02-19T23:01:00Z)
+                ☐ Tutorial: Host a static website https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-host (2024-01-02T23:05:00Z)
+            ☐ Create a Managed Application to Store Blob Digests https://learn.microsoft.com/azure/confidential-ledger/create-blob-managed-app?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-30T17:05:00Z)
+        Security and networking:
+            ☐ Security recommendations https://learn.microsoft.com/en-us/azure/storage/blobs/security-recommendations (2025-05-03T05:16:00Z)
+            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/storage-security-baseline?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-27T14:58:00Z)
+            Encryption:
+                ☐ Encryption at rest https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                Encryption scopes https://learn.microsoft.com/en-us/azure/storage/blobs/encryption-scope-overview (2025-05-03T05:16:00Z):
+                    ☐ Enable infrastructure encryption for the account https://learn.microsoft.com/en-us/azure/storage/common/infrastructure-encryption-enable?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                    ☐ Manage encryption scopes https://learn.microsoft.com/en-us/azure/storage/blobs/encryption-scope-manage (2025-05-03T05:16:00Z)
+                ☐ Check the encryption key model for the account https://learn.microsoft.com/en-us/azure/storage/common/storage-encryption-key-model-get?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-10-22T11:24:00Z)
+                ☐ Check whether a blob is encrypted https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-encryption-status (2023-10-22T11:24:00Z)
+                Customer-managed keys:
+                    ☐ Encryption with customer-managed keys https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-overview?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                    Configure customer-managed keys in Azure Key Vault:
+                        Configure keys and storage account in the same tenant:
+                            ☐ Configure keys for a new account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-new-account?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-11T17:04:00Z)
+                            ☐ Configure keys for an existing account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-existing-account?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-07T22:04:00Z)
+                        Configure keys and storage account in different tenants:
+                            ☐ Configure customer-managed keys for a new account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-cross-tenant-new-account?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-07T22:04:00Z)
+                            ☐ Configure customer-managed keys for an existing account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-cross-tenant-existing-account?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-07T22:04:00Z)
+                    ☐ Configure customer-managed keys in a managed HSM https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-key-vault-hsm?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-07T22:04:00Z)
+                ☐ Customer-provided keys https://learn.microsoft.com/en-us/azure/storage/blobs/encryption-customer-provided-keys (2025-05-03T05:16:00Z)
+                ☐ Configure client-side encryption https://learn.microsoft.com/en-us/azure/storage/blobs/client-side-encryption (2024-10-03T22:03:00Z)
+                ☐ Encrypt and decrypt blobs using Azure Key Vault https://learn.microsoft.com/en-us/azure/storage/blobs/storage-encrypt-decrypt-blobs-key-vault (2024-08-07T22:04:00Z)
+            Networking:
+                ☐ Require secure transfer https://learn.microsoft.com/en-us/azure/storage/common/storage-require-secure-transfer?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-12T22:03:00Z)
+                ☐ Configure firewalls and virtual networks https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-07T05:16:00Z)
+                ☐ Use Azure Private Endpoints https://learn.microsoft.com/en-us/azure/storage/common/storage-private-endpoints?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Restrict scope of copy operations https://learn.microsoft.com/en-us/azure/storage/common/security-restrict-copy-operations?toc=/azure/storage/blobs/toc.json (2024-12-02T23:02:00Z)
+                Manage Transport Layer Security (TLS):
+                    ☐ Enforce minimum TLS version for incoming requests https://learn.microsoft.com/en-us/azure/storage/common/transport-layer-security-configure-minimum-version?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-09-11T18:38:00Z)
+                    ☐ Configure TLS version for a client application https://learn.microsoft.com/en-us/azure/storage/common/transport-layer-security-configure-client-version?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-10-22T11:24:00Z)
+                    ☐ Migrate to TLS 1.2 https://learn.microsoft.com/en-us/azure/storage/common/transport-layer-security-configure-migrate-to-tls2?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-10-03T11:22:00Z)
+                Network routing preference https://learn.microsoft.com/en-us/azure/storage/common/network-routing-preference?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z):
+                    ☐ Configure network routing preference https://learn.microsoft.com/en-us/azure/storage/common/configure-network-routing-preference?toc=/azure/storage/blobs/toc.json (2024-07-24T05:09:00Z)
+                ☐ Use a custom domain https://learn.microsoft.com/en-us/azure/storage/blobs/storage-custom-domain-name (2024-06-27T17:04:00Z)
+            Authorization:
+                Authorize data operations:
+                    ☐ Authorize data operations https://learn.microsoft.com/en-us/azure/storage/common/authorize-data-access?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                    Authorization options for users:
+                        ☐ Portal https://learn.microsoft.com/en-us/azure/storage/blobs/authorize-data-operations-portal (2025-02-06T23:03:00Z)
+                        ☐ PowerShell https://learn.microsoft.com/en-us/azure/storage/blobs/authorize-data-operations-powershell (2023-11-06T05:42:00Z)
+                        ☐ Azure CLI https://learn.microsoft.com/en-us/azure/storage/blobs/authorize-data-operations-cli (2023-10-22T11:24:00Z)
+                    Authorize with Microsoft Entra ID:
+                        ☐ Authorize with Microsoft Entra ID and Azure RBAC https://learn.microsoft.com/en-us/azure/storage/blobs/authorize-access-azure-active-directory (2025-05-03T05:16:00Z)
+                        ☐ Manage access rights with Azure RBAC https://learn.microsoft.com/en-us/azure/storage/blobs/assign-azure-role-data-access (2024-10-25T22:04:00Z)
+                        Configure role assignment conditions with Azure ABAC https://learn.microsoft.com/en-us/azure/storage/blobs/storage-auth-abac (2025-05-03T05:16:00Z):
+                            ☐ Actions and attributes for conditions https://learn.microsoft.com/en-us/azure/storage/blobs/storage-auth-abac-attributes (2025-05-03T05:16:00Z)
+                            ☐ Security for conditions https://learn.microsoft.com/en-us/azure/storage/blobs/storage-auth-abac-security (2025-05-03T05:16:00Z)
+                            ☐ Example conditions https://learn.microsoft.com/en-us/azure/storage/blobs/storage-auth-abac-examples (2025-05-03T05:16:00Z)
+                            ☐ Add role assignment conditions (Azure portal) https://learn.microsoft.com/en-us/azure/storage/blobs/storage-auth-abac-portal (2023-11-15T23:20:00Z)
+                            ☐ Add role assignment conditions (PowerShell) https://learn.microsoft.com/en-us/azure/storage/blobs/storage-auth-abac-powershell (2024-02-27T18:07:00Z)
+                            ☐ Add role assignment conditions (Azure CLI) https://learn.microsoft.com/en-us/azure/storage/blobs/storage-auth-abac-cli (2023-11-15T23:20:00Z)
+                    Authorize with Shared Key https://learn.microsoft.com/rest/api/storageservices/authorize-with-shared-key?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-18T20:31:00Z):
+                        ☐ View and manage account keys https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-19T18:02:00Z)
+                        ☐ Configure connection strings https://learn.microsoft.com/en-us/azure/storage/common/storage-configure-connection-string?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-07T22:04:00Z)
+                        ☐ Use the Azure Storage REST API https://learn.microsoft.com/en-us/azure/storage/common/storage-rest-api-auth?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-11-15T18:06:00Z)
+                        ☐ Prevent authorization with Shared Key https://learn.microsoft.com/en-us/azure/storage/common/shared-key-authorization-prevent?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-09-11T18:38:00Z)
+                    Authorize with shared access signatures (SAS) https://learn.microsoft.com/en-us/azure/storage/common/storage-sas-overview?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z):
+                        Create a user delegation SAS:
+                            ☐ PowerShell https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-user-delegation-sas-create-powershell (2023-10-22T11:24:00Z)
+                            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-user-delegation-sas-create-cli (2023-10-22T11:24:00Z)
+                            ☐ .NET https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-user-delegation-sas-create-dotnet (2024-09-06T22:05:00Z)
+                        ☐ Create a service SAS https://learn.microsoft.com/en-us/azure/storage/blobs/sas-service-create-dotnet (2024-09-06T22:05:00Z)
+                        ☐ Create an account SAS (.NET) https://learn.microsoft.com/en-us/azure/storage/common/storage-account-sas-create-dotnet?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05T22:12:00Z)
+                        ☐ Create a stored access policy https://learn.microsoft.com/en-us/azure/storage/common/storage-stored-access-policy-define-dotnet?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-10-12T11:16:00Z)
+                        ☐ Configure a SAS expiration policy https://learn.microsoft.com/en-us/azure/storage/common/sas-expiration-policy?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-09-11T18:38:00Z)
+                ☐ Authorize management operations https://learn.microsoft.com/en-us/azure/storage/common/authorization-resource-provider?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Migrate to passwordless connections https://learn.microsoft.com/en-us/azure/storage/common/migrate-azure-credentials (2024-07-18T22:02:00Z)
+                ☐ Passwordless connections between multiple services https://learn.microsoft.com/en-us/azure/storage/common/multiple-identity-scenarios (2024-11-26T18:03:00Z)
+                Manage anonymous read access to blob data:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/anonymous-read-access-overview (2025-03-17T22:05:00Z)
+                    ☐ Remediate anonymous access https://learn.microsoft.com/en-us/azure/storage/blobs/anonymous-read-access-prevent (2025-03-17T22:05:00Z)
+                    ☐ Configure anonymous access https://learn.microsoft.com/en-us/azure/storage/blobs/anonymous-read-access-configure (2025-03-17T22:05:00Z)
+            ☐ Microsoft Defender for Storage https://learn.microsoft.com/azure/defender-for-cloud/defender-for-storage-introduction?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-13T17:04:00Z)
+        Data protection:
+            ☐ Data protection https://learn.microsoft.com/en-us/azure/storage/blobs/data-protection-overview (2024-10-11T22:04:00Z)
+            Soft delete:
+                ☐ Soft delete for containers https://learn.microsoft.com/en-us/azure/storage/blobs/soft-delete-container-overview (2025-05-03T05:16:00Z)
+                ☐ Enable soft delete for containers https://learn.microsoft.com/en-us/azure/storage/blobs/soft-delete-container-enable (2024-08-15T05:40:00Z)
+                ☐ Soft delete for blobs https://learn.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-overview (2025-05-03T05:16:00Z)
+                ☐ Enable blob soft delete https://learn.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-enable (2024-06-11T17:45:00Z)
+                ☐ Manage and restore soft-deleted blobs https://learn.microsoft.com/en-us/azure/storage/blobs/soft-delete-blob-manage (2024-04-22T22:06:00Z)
+            Versioning https://learn.microsoft.com/en-us/azure/storage/blobs/versioning-overview (2025-05-03T05:16:00Z):
+                ☐ Enable blob versioning https://learn.microsoft.com/en-us/azure/storage/blobs/versioning-enable (2024-11-22T05:58:00Z)
+            Point-in-time-restore https://learn.microsoft.com/en-us/azure/storage/blobs/point-in-time-restore-overview (2025-05-03T05:16:00Z):
+                ☐ Enable point-in-time restore https://learn.microsoft.com/en-us/azure/storage/blobs/point-in-time-restore-manage (2024-07-16T22:05:00Z)
+            ☐ Snapshots https://learn.microsoft.com/en-us/azure/storage/blobs/snapshots-overview (2025-05-12T22:03:00Z)
+            Immutable storage https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-storage-overview (2025-04-22T17:03:00Z):
+                ☐ Container-level policies https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-container-level-worm-policies (2025-05-03T05:16:00Z)
+                ☐ Version-level policies https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-version-level-worm-policies (2025-05-03T05:16:00Z)
+                ☐ Configure container-level policies https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-policy-configure-container-scope (2024-08-29T05:56:00Z)
+                ☐ Configure version-level policies https://learn.microsoft.com/en-us/azure/storage/blobs/immutable-policy-configure-version-scope (2024-08-29T05:56:00Z)
+        Availability and disaster recovery:
+            ☐ Design highly available applications https://learn.microsoft.com/en-us/azure/storage/common/geo-redundant-design?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            Tutorial: Design applications for high availability:
+                ☐ 1 - Make your application highly available https://learn.microsoft.com/en-us/azure/storage/blobs/storage-create-geo-redundant-storage (2024-08-14T17:05:00Z)
+                ☐ 2 - Simulate a failure in reading data from the primary region https://learn.microsoft.com/en-us/azure/storage/blobs/simulate-primary-region-failure (2024-03-19T22:06:00Z)
+            Data redundancy https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z):
+                ☐ Change redundancy configuration https://learn.microsoft.com/en-us/azure/storage/common/redundancy-migration?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-09T22:02:00Z)
+            Disaster recovery:
+                ☐ Disaster recovery planning and failover https://learn.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ How customer-managed planned failover (preview) works https://learn.microsoft.com/en-us/azure/storage/common/storage-failover-customer-managed-planned?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ How customer-managed (unplanned) failover works https://learn.microsoft.com/en-us/azure/storage/common/storage-failover-customer-managed-unplanned?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Initiate account failover https://learn.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-15T23:02:00Z)
+                ☐ Check the Last Sync Time property https://learn.microsoft.com/en-us/azure/storage/common/last-sync-time-get?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05T22:12:00Z)
+                ☐ Failover considerations for storage accounts with private endpoints https://learn.microsoft.com/en-us/azure/storage/common/storage-failover-private-endpoints?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+        Performance and scale:
+            ☐ Performance and scalability checklist https://learn.microsoft.com/en-us/azure/storage/blobs/storage-performance-checklist (2025-05-03T05:16:00Z)
+            ☐ Latency in Blob storage https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-latency (2024-11-25T23:02:00Z)
+            Scalability and performance targets:
+                ☐ Blob storage https://learn.microsoft.com/en-us/azure/storage/blobs/scalability-targets (2025-05-03T05:16:00Z)
+                ☐ Standard storage accounts https://learn.microsoft.com/en-us/azure/storage/common/scalability-targets-standard-account?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Premium block blob storage accounts https://learn.microsoft.com/en-us/azure/storage/blobs/scalability-targets-premium-block-blobs (2025-05-03T05:16:00Z)
+                ☐ Premium page blob storage accounts https://learn.microsoft.com/en-us/azure/storage/blobs/scalability-targets-premium-page-blobs (2025-05-03T05:16:00Z)
+                ☐ Storage resource provider https://learn.microsoft.com/en-us/azure/storage/common/scalability-targets-resource-provider?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            Object replication:
+                ☐ Object replication https://learn.microsoft.com/en-us/azure/storage/blobs/object-replication-overview (2025-05-03T05:16:00Z)
+                ☐ Configure object replication policies https://learn.microsoft.com/en-us/azure/storage/blobs/object-replication-configure (2025-03-02T12:20:00Z)
+                ☐ Prevent object replication across tenants https://learn.microsoft.com/en-us/azure/storage/blobs/object-replication-prevent-cross-tenant-policies (2025-04-11T22:03:00Z)
+        Cost management:
+            ☐ Plan and manage costs https://learn.microsoft.com/en-us/azure/storage/common/storage-plan-manage-costs?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            Find prices:
+                ☐ Azure Blob Storage prices https://azure.microsoft.com/pricing/details/storage/blobs/
+                ☐ Azure Data Lake Storage prices https://azure.microsoft.com/pricing/details/storage/data-lake/
+                ☐ Map each REST operation to a price https://learn.microsoft.com/en-us/azure/storage/blobs/map-rest-apis-transaction-categories (2025-05-03T05:16:00Z)
+            Estimate costs:
+                ☐ Estimate the cost of Azure Blob Storage https://learn.microsoft.com/en-us/azure/storage/blobs/blob-storage-estimate-costs (2025-05-03T05:16:00Z)
+                ☐ Estimate the cost of AzCopy transfers https://learn.microsoft.com/en-us/azure/storage/blobs/azcopy-cost-estimation (2025-05-03T05:16:00Z)
+                ☐ Estimate the cost to archive data https://learn.microsoft.com/en-us/azure/storage/blobs/archive-cost-estimation (2024-10-11T22:04:00Z)
+            Optimize costs:
+                Access tiers https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-overview (2025-05-03T05:16:00Z):
+                    ☐ Best practices https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-best-practices (2025-05-03T05:16:00Z)
+                    ☐ Change a blob's access tier https://learn.microsoft.com/en-us/azure/storage/blobs/access-tiers-online-manage (2024-10-24T17:04:00Z)
+                    Archive and rehydrate:
+                        ☐ Blob rehydration overview https://learn.microsoft.com/en-us/azure/storage/blobs/archive-rehydrate-overview (2025-05-03T05:16:00Z)
+                        ☐ Archive blobs https://learn.microsoft.com/en-us/azure/storage/blobs/archive-blob (2024-01-17T12:14:00Z)
+                        ☐ Rehydrate blobs https://learn.microsoft.com/en-us/azure/storage/blobs/archive-rehydrate-to-online-tier (2024-02-21T23:03:00Z)
+                        ☐ Handle an event on blob rehydration https://learn.microsoft.com/en-us/azure/storage/blobs/archive-rehydrate-handle-event (2024-08-07T22:04:00Z)
+                ☐ Azure Storage reserved capacity https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-reserved-capacity (2025-05-03T05:16:00Z)
+        Monitoring metrics and logs:
+            ☐ Monitor Blob Storage https://learn.microsoft.com/en-us/azure/storage/blobs/monitor-blob-storage (2025-05-03T05:16:00Z)
+            ☐ Best practices for monitoring https://learn.microsoft.com/en-us/azure/storage/blobs/blob-storage-monitoring-scenarios (2025-05-03T05:16:00Z)
+            ☐ Use Storage insights https://learn.microsoft.com/en-us/azure/storage/common/storage-insights-overview?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            ☐ Transition from classic metrics https://learn.microsoft.com/en-us/azure/storage/common/storage-metrics-migration?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            Monitoring (classic):
+                ☐ Storage Analytics https://learn.microsoft.com/en-us/azure/storage/common/storage-analytics?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Logs https://learn.microsoft.com/en-us/azure/storage/common/storage-analytics-logging?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Enable and manage logs https://learn.microsoft.com/en-us/azure/storage/common/manage-storage-analytics-logs?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+        Application development:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/storage/common/storage-srp-overview?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-19T23:02:00Z)
+            Resource management developer guide:
+                .NET:
+                    ☐ Get started https://learn.microsoft.com/en-us/azure/storage/common/storage-srp-dotnet-get-started?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-20T23:03:00Z)
+                    ☐ Manage a storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-srp-manage-account-dotnet?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-19T23:02:00Z)
+            Data access developer guide:
+                Blob Storage object model:
+                    ☐ Understand how apps interact with Blob Storage data resources https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-object-model (2025-04-04T05:11:00Z)
+                    ☐ Create and manage client objects https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-client-management (2025-01-27T18:03:00Z)
+                    ☐ Query for a Blob Storage endpoint https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-query-endpoint-srp (2024-08-05T22:12:00Z)
+                .NET:
+                    ☐ Get started https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-dotnet-get-started (2025-02-20T23:03:00Z)
+                    Authorize access from your application:
+                        Microsoft Entra ID:
+                            ☐ Overview https://learn.microsoft.com/dotnet/azure/sdk/authentication?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-20T15:21:00Z)
+                            ☐ Auth using developer service principals https://learn.microsoft.com/dotnet/azure/sdk/authentication-local-development-service-principal?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-14T08:18:00Z)
+                            ☐ Auth using developer accounts https://learn.microsoft.com/dotnet/azure/sdk/authentication-local-development-dev-accounts?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-20T08:28:00Z)
+                            ☐ Auth from Azure-hosted apps https://learn.microsoft.com/dotnet/azure/sdk/authentication-azure-hosted-apps?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-04T10:30:00Z)
+                            ☐ Auth from on-premises apps https://learn.microsoft.com/dotnet/azure/sdk/authentication-on-premises-apps?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-14T08:18:00Z)
+                        Shared access signature (SAS):
+                            ☐ Authorize using a user delegation SAS https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-user-delegation-sas-create-dotnet (2024-09-06T22:05:00Z)
+                            ☐ Authorize using a service SAS https://learn.microsoft.com/en-us/azure/storage/blobs/sas-service-create-dotnet (2024-09-06T22:05:00Z)
+                            ☐ Authorize using an account SAS https://learn.microsoft.com/en-us/azure/storage/common/storage-account-sas-create-dotnet?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05T22:12:00Z)
+                    Container actions:
+                        ☐ Create a container https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-create (2024-10-30T22:05:00Z)
+                        ☐ Delete and restore containers https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-delete (2024-08-22T17:04:00Z)
+                        ☐ List containers https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-containers-list (2024-08-22T17:04:00Z)
+                        ☐ Manage container leases https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-lease (2024-08-22T17:04:00Z)
+                        ☐ Manage properties and metadata https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-properties-metadata (2024-08-22T17:04:00Z)
+                    Blob actions:
+                        ☐ Upload blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-upload (2025-03-27T17:09:00Z)
+                        ☐ Download blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-download (2024-08-22T17:04:00Z)
+                        Copy blobs:
+                            ☐ Overview of copy operations https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy (2024-08-05T17:09:00Z)
+                            ☐ Copy from a source object URL https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-url-dotnet (2024-08-22T17:04:00Z)
+                            ☐ Copy with asynchronous scheduling https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-async-dotnet (2025-03-11T22:03:00Z)
+                        ☐ List blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-list (2024-08-29T05:56:00Z)
+                        ☐ Delete and restore blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-delete (2024-08-22T17:04:00Z)
+                        ☐ Find blobs using tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-tags (2024-08-22T17:04:00Z)
+                        ☐ Manage blob properties and metadata https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-properties-metadata (2024-08-22T17:04:00Z)
+                        ☐ Manage blob leases https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-lease (2024-08-22T17:04:00Z)
+                        ☐ Create and manage snapshots https://learn.microsoft.com/en-us/azure/storage/blobs/snapshots-manage-dotnet (2024-08-05T17:09:00Z)
+                        ☐ Create and list blob versions https://learn.microsoft.com/en-us/azure/storage/blobs/versions-manage-dotnet (2024-08-05T22:12:00Z)
+                        ☐ Set or change a blob's access tier https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-use-access-tier-dotnet (2024-08-22T17:04:00Z)
+                    Append blob actions:
+                        ☐ Append data to an append blob https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-append (2024-08-05T17:09:00Z)
+                    Client library configuration options:
+                        ☐ Performance tuning for uploads and downloads https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-tune-upload-download (2024-08-22T17:04:00Z)
+                        ☐ Implement a retry policy https://learn.microsoft.com/en-us/azure/storage/blobs/storage-retry-policy (2024-11-19T23:02:00Z)
+                        ☐ Configure logging https://learn.microsoft.com/dotnet/azure/sdk/logging?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-01T09:06:00Z)
+                        ☐ Manage concurrency https://learn.microsoft.com/en-us/azure/storage/blobs/concurrency-manage (2025-05-03T05:16:00Z)
+                        ☐ Provide an encryption key on a write request https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-customer-provided-key (2023-10-12T11:16:00Z)
+                    ☐ Tutorial: Upload and process image files https://learn.microsoft.com/en-us/azure/storage/blobs/blob-upload-function-trigger (2024-08-28T19:22:00Z)
+                Java:
+                    ☐ Get started https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-java-get-started (2024-11-05T18:07:00Z)
+                    Authorize access from your application:
+                        Microsoft Entra ID:
+                        Shared access signature (SAS):
+                            ☐ Authorize using a user delegation SAS https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-user-delegation-sas-create-java (2024-09-06T22:05:00Z)
+                            ☐ Authorize using a service SAS https://learn.microsoft.com/en-us/azure/storage/blobs/sas-service-create-java (2024-09-06T22:05:00Z)
+                            ☐ Authorize using an account SAS https://learn.microsoft.com/en-us/azure/storage/common/storage-account-sas-create-java?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05T22:12:00Z)
+                    Container actions:
+                        ☐ Create a container https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-create-java (2024-08-26T22:08:00Z)
+                        ☐ Delete and restore containers https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-delete-java (2024-08-26T22:08:00Z)
+                        ☐ List containers https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-containers-list-java (2024-08-26T22:08:00Z)
+                        ☐ Manage container leases https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-lease-java (2024-08-26T22:08:00Z)
+                        ☐ Manage properties and metadata https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-properties-metadata-java (2024-08-26T22:08:00Z)
+                    Blob actions:
+                        ☐ Upload blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-upload-java (2025-03-27T17:09:00Z)
+                        ☐ Download blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-download-java (2024-08-26T22:08:00Z)
+                        Copy blobs:
+                            ☐ Overview of copy operations https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-java (2024-08-05T17:09:00Z)
+                            ☐ Copy from a source object URL https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-url-java (2024-08-26T22:08:00Z)
+                            ☐ Copy with asynchronous scheduling https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-async-java (2024-08-26T22:08:00Z)
+                        ☐ List blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-list-java (2024-08-29T05:56:00Z)
+                        ☐ Delete and restore blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-delete-java (2024-08-26T22:08:00Z)
+                        ☐ Find blobs using tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-tags-java (2024-08-26T22:08:00Z)
+                        ☐ Manage blob leases https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-lease-java (2024-08-26T22:08:00Z)
+                        ☐ Manage blob properties and metadata https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-properties-metadata-java (2024-08-26T22:08:00Z)
+                        ☐ Set or change a blob's access tier https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-use-access-tier-java (2024-08-26T22:08:00Z)
+                    Client library configuration options:
+                        ☐ Performance tuning for uploads and downloads https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-tune-upload-download-java (2024-08-22T22:04:00Z)
+                        ☐ Implement a retry policy https://learn.microsoft.com/en-us/azure/storage/blobs/storage-retry-policy-java (2024-08-22T22:04:00Z)
+                JavaScript:
+                    ☐ Get started https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-javascript-get-started (2024-11-05T18:07:00Z)
+                    Authorize access from your application:
+                        Microsoft Entra ID:
+                            ☐ Overview https://learn.microsoft.com/azure/developer/javascript/sdk/authentication/overview?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-12-06T18:01:00Z)
+                            ☐ Auth using developer service principals https://learn.microsoft.com/azure/developer/javascript/sdk/authentication/local-development-environment-service-principal?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-27T18:03:00Z)
+                            ☐ Auth using developer accounts https://learn.microsoft.com/azure/developer/javascript/sdk/authentication/local-development-environment-developer-account?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-27T18:03:00Z)
+                            ☐ Auth from Azure-hosted apps https://learn.microsoft.com/azure/developer/javascript/sdk/authentication/azure-hosted-apps?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-30T18:02:00Z)
+                            ☐ Auth from on-premises apps https://learn.microsoft.com/azure/developer/javascript/sdk/authentication/on-premises-apps?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-10-23T16:58:00Z)
+                        Work with SAS tokens:
+                            ☐ User delegation SAS https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-create-user-delegation-sas-javascript (2024-10-30T22:05:00Z)
+                            ☐ Service SAS https://learn.microsoft.com/en-us/azure/storage/blobs/sas-service-create-javascript (2024-08-05T17:09:00Z)
+                            ☐ Account SAS https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-account-delegation-sas-create-javascript (2024-08-05T17:09:00Z)
+                    Container actions:
+                        ☐ Create a container https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-create-javascript (2024-10-30T22:05:00Z)
+                        ☐ Get container URL https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-get-url-javascript (2024-10-30T22:05:00Z)
+                        ☐ Delete and restore containers https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-delete-javascript (2024-10-30T22:05:00Z)
+                        ☐ List containers https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-containers-list-javascript (2024-11-28T05:37:00Z)
+                        ☐ Manage container leases https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-lease-javascript (2024-10-30T22:05:00Z)
+                        ☐ Manage properties and metadata https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-properties-metadata-javascript (2024-10-30T22:05:00Z)
+                    Blob actions:
+                        ☐ Upload blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-upload-javascript (2025-03-27T17:09:00Z)
+                        ☐ Download blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-download-javascript (2024-11-28T05:37:00Z)
+                        Copy blobs:
+                            ☐ Overview of copy operations https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-javascript (2024-10-30T22:05:00Z)
+                            ☐ Copy from a source object URL https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-url-javascript (2024-10-30T22:05:00Z)
+                            ☐ Copy with asynchronous scheduling https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-async-javascript (2024-10-30T22:05:00Z)
+                        ☐ List blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-list-javascript (2024-10-30T22:05:00Z)
+                        ☐ Delete and restore blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-delete-javascript (2024-11-28T05:37:00Z)
+                        ☐ Find blobs using tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-tags-javascript (2024-10-30T22:05:00Z)
+                        ☐ Manage blob leases https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-lease-javascript (2024-10-30T22:05:00Z)
+                        ☐ Manage blob properties and metadata https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-properties-metadata-javascript (2024-10-30T22:05:00Z)
+                        ☐ Get blob URL https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-get-url-javascript (2024-10-30T22:05:00Z)
+                        ☐ Set or change a blob's access tier https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-use-access-tier-javascript (2024-11-28T05:37:00Z)
+                    Client library configuration options:
+                        ☐ Performance tuning for uploads and downloads https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-tune-upload-download-javascript (2024-10-30T22:05:00Z)
+                        ☐ Implement a retry policy https://learn.microsoft.com/en-us/azure/storage/blobs/storage-retry-policy-javascript (2024-10-30T22:05:00Z)
+                    ☐ Tutorial: Upload and process image files https://learn.microsoft.com/en-us/azure/storage/blobs/blob-upload-function-trigger-javascript (2024-12-26T18:03:00Z)
+                Python:
+                    ☐ Get started https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-python-get-started (2024-11-05T18:07:00Z)
+                    Authorize access from your application:
+                        Microsoft Entra ID:
+                            ☐ Overview https://learn.microsoft.com/azure/developer/python/sdk/authentication-overview?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-09-20T17:02:00Z)
+                            ☐ Auth using developer service principals https://learn.microsoft.com/azure/developer/python/sdk/authentication-local-development-service-principal?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-10T17:00:00Z)
+                            ☐ Auth using developer accounts https://learn.microsoft.com/azure/developer/python/sdk/authentication-local-development-dev-accounts?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-10T17:00:00Z)
+                            ☐ Auth from Azure-hosted apps https://learn.microsoft.com/azure/developer/python/sdk/authentication-azure-hosted-apps?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-10T17:00:00Z)
+                            ☐ Auth from on-premises apps https://learn.microsoft.com/azure/developer/python/sdk/authentication-on-premises-apps?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-10T17:00:00Z)
+                        Shared access signature (SAS):
+                            ☐ Authorize using a user delegation SAS https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-user-delegation-sas-create-python (2024-09-06T22:05:00Z)
+                            ☐ Authorize using a service SAS https://learn.microsoft.com/en-us/azure/storage/blobs/sas-service-create-python (2024-09-06T22:05:00Z)
+                            ☐ Authorize using an account SAS https://learn.microsoft.com/en-us/azure/storage/common/storage-account-sas-create-python?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-05T22:12:00Z)
+                    Container actions:
+                        ☐ Create a container https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-create-python (2024-08-21T22:04:00Z)
+                        ☐ Delete and restore containers https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-delete-python (2024-08-21T22:04:00Z)
+                        ☐ List containers https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-containers-list-python (2024-08-21T22:04:00Z)
+                        ☐ Manage container leases https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-lease-python (2024-08-21T22:04:00Z)
+                        ☐ Manage properties and metadata https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-properties-metadata-python (2024-08-21T22:04:00Z)
+                    Blob actions:
+                        ☐ Upload blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-upload-python (2025-03-27T17:09:00Z)
+                        ☐ Download blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-download-python (2024-08-21T22:04:00Z)
+                        Copy blobs:
+                            ☐ Overview of copy operations https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-python (2024-08-21T22:04:00Z)
+                            ☐ Copy from a source object URL https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-url-python (2024-08-21T22:04:00Z)
+                            ☐ Copy with asynchronous scheduling https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-async-python (2024-08-21T22:04:00Z)
+                        ☐ List blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-list-python (2024-08-29T05:56:00Z)
+                        ☐ Delete and restore blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-delete-python (2024-08-21T22:04:00Z)
+                        ☐ Find blobs using tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-tags-python (2024-08-21T22:04:00Z)
+                        ☐ Manage blob leases https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-lease-python (2024-08-21T22:04:00Z)
+                        ☐ Manage blob properties and metadata https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-properties-metadata-python (2024-08-21T22:04:00Z)
+                        ☐ Set or change a blob's access tier https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-use-access-tier-python (2024-08-20T22:03:00Z)
+                    Client library configuration options:
+                        ☐ Performance tuning for uploads and downloads https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-tune-upload-download-python (2024-08-21T22:04:00Z)
+                        ☐ Implement a retry policy https://learn.microsoft.com/en-us/azure/storage/blobs/storage-retry-policy-python (2024-08-21T22:04:00Z)
+                        ☐ Configure logging https://learn.microsoft.com/azure/developer/python/sdk/azure-sdk-logging?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-13T18:02:00Z)
+                Go:
+                    ☐ Get started https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-go-get-started (2024-11-05T18:07:00Z)
+                    Authorize access from your application:
+                        Microsoft Entra ID:
+                            ☐ Authentication in development environments https://learn.microsoft.com/azure/developer/go/azure-sdk-authentication?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-12-03T18:01:00Z)
+                            ☐ Authentication in Azure-hosted apps https://learn.microsoft.com/azure/developer/go/azure-sdk-authentication-managed-identity?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-12-03T18:01:00Z)
+                            ☐ Authentication with a service principal https://learn.microsoft.com/azure/developer/go/azure-sdk-authentication-service-principal?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-27T18:03:00Z)
+                    Container actions:
+                        ☐ Create a container https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-create-go (2024-08-22T17:04:00Z)
+                        ☐ Delete and restore containers https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-delete-go (2024-08-22T17:04:00Z)
+                        ☐ List containers https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-containers-list-go (2024-09-09T17:05:00Z)
+                        ☐ Manage properties and metadata https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-container-properties-metadata-go (2024-08-22T17:04:00Z)
+                    Blob actions:
+                        ☐ Upload blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-upload-go (2025-03-27T17:09:00Z)
+                        ☐ Download blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-download-go (2024-09-30T17:05:00Z)
+                        Copy blobs:
+                            ☐ Overview of copy operations https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-go (2024-08-05T17:09:00Z)
+                            ☐ Copy from a source object URL https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-url-go (2024-08-22T17:04:00Z)
+                            ☐ Copy with asynchronous scheduling https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-copy-async-go (2024-08-22T17:04:00Z)
+                        ☐ List blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-list-go (2024-10-24T22:04:00Z)
+                        ☐ Delete and restore blobs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-delete-go (2024-08-22T17:04:00Z)
+                        ☐ Find blobs using tags https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-tags-go (2024-08-22T17:04:00Z)
+                        ☐ Manage blob properties and metadata https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-properties-metadata-go (2024-08-22T17:04:00Z)
+                    Client library configuration options:
+                        ☐ Performance tuning for uploads and downloads https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-tune-upload-download-go (2025-05-03T05:16:00Z)
+                        ☐ Implement a retry policy https://learn.microsoft.com/en-us/azure/storage/blobs/storage-retry-policy-go (2024-08-05T22:12:00Z)
+            Test with a storage emulator:
+                ☐ Use the Azurite open-source emulator https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azurite?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-06T12:09:00Z)
+                ☐ Use Azurite to run automated tests https://learn.microsoft.com/en-us/azure/storage/blobs/use-azurite-to-run-automated-tests (2023-09-12T11:19:00Z)
+                ☐ Use the Azure Storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-06T18:03:00Z)
+            Change feed and events:
+                ☐ Change feed https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-change-feed (2024-10-09T17:07:00Z)
+                ☐ Process change feed logs https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-change-feed-how-to (2024-06-07T17:04:00Z)
+                ☐ Event handling https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-overview (2025-05-03T05:16:00Z)
+                ☐ Route events to a custom endpoint https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-quickstart (2024-06-27T17:04:00Z)
+            ☐ Data Movement library (.NET) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-data-movement-library?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-11T23:03:00Z)
+        ☐ Troubleshooting https://learn.microsoft.com/troubleshoot/azure/azure-storage/welcome-azure-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-30T10:04:00Z)
+        Samples:
+            ☐ .NET https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-dotnet?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-26T23:03:00Z)
+            ☐ Java https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-java?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-26T23:03:00Z)
+            ☐ Spring https://github.com/Azure-Samples/azure-spring-boot-samples/tree/spring-cloud-azure_v4.3.0/storage/spring-cloud-azure-starter-storage-blob/storage-blob-sample
+            ☐ Python https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-python?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-14T18:47:00Z)
+            ☐ JavaScript https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-javascript?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-27T05:33:00Z)
+            ☐ C++ https://learn.microsoft.com/en-us/azure/storage/common/storage-samples-c-plus-plus?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-29T05:56:00Z)
+            ☐ Other languages https://learn.microsoft.com/en-us/azure/storage/common/storage-samples?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-07-06T22:41:00Z)
+            Azure PowerShell:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/storage-samples-blobs-powershell (2023-09-12T11:19:00Z)
+            Azure CLI:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/storage/blobs/storage-samples-blobs-cli (2023-09-12T11:19:00Z)
+                ☐ Retrieve/rotate the access keys https://learn.microsoft.com/en-us/azure/storage/scripts/storage-common-rotate-account-keys-cli (2024-06-27T17:04:00Z)
+                ☐ Calculate size of Blob Storage container https://learn.microsoft.com/en-us/azure/storage/scripts/storage-blobs-container-calculate-size-cli (2024-06-27T17:04:00Z)
+                ☐ Delete containers with a specific prefix https://learn.microsoft.com/en-us/azure/storage/scripts/storage-blobs-container-delete-by-prefix-cli (2024-06-27T17:04:00Z)
+                ☐ Azure Resource Graph queries https://learn.microsoft.com/en-us/azure/storage/common/resource-graph-samples (2024-06-12T05:46:00Z)
+        Reference:
+            Blob Storage APIs:
+                APIs for data access:
+                    ☐ REST API https://learn.microsoft.com/rest/api/storageservices/blob-service-rest-api (2023-11-07T22:33:00Z)
+                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-05-14T11:43:00Z)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-05-14T11:08:00Z)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-05-14T11:09:00Z)
+                APIs for resource management:
+                    ☐ REST API https://learn.microsoft.com/rest/api/storagerp/ (2025-03-11T22:09:00Z)
+                    ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.storage-readme (2025-05-01T11:35:00Z)
+                    ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-05-14T11:08:00Z)
+                    ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-05-14T11:09:00Z)
+            Data Lake Storage Gen2 APIs:
+                ☐ REST https://learn.microsoft.com/rest/api/storageservices/data-lake-storage-gen2 (2023-11-07T22:33:00Z)
+                ☐ .NET https://learn.microsoft.com/dotnet/api/azure.storage.files.datalake (2019-11-26T23:24:00Z)
+                ☐ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2025-03-28T11:06:00Z)
+                ☐ JavaScript https://learn.microsoft.com/javascript/api/overview/azure/storage-file-datalake-readme (2025-03-19T11:09:00Z)
+                ☐ C++ https://github.com/Azure/azure-sdk-for-cpp/tree/master/sdk/storage/azure-storage-files-datalake
+            ☐ Query acceleration reference https://learn.microsoft.com/en-us/azure/storage/blobs/query-acceleration-sql-reference (2025-05-03T05:16:00Z)
+            AzCopy v10:
+                ☐ Command reference https://github.com/Azure/azure-storage-azcopy/wiki/azcopy
+                ☐ Configuration settings https://learn.microsoft.com/en-us/azure/storage/common/storage-ref-azcopy-configuration-settings?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-12-11T23:03:00Z)
+                ☐ Error codes https://learn.microsoft.com/en-us/azure/storage/common/storage-ref-azcopy-error-codes?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-08T22:02:00Z)
+            BlobFuse2:
+                ☐ Configure settings https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-configuration?toc=/azure/storage/blobs/toc.json (2024-12-13T23:03:00Z)
+                Commands:
+                    ☐ The BlobFuse2 command set https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    BlobFuse2 mount https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-mount?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z):
+                        ☐ BlobFuse2 mount all https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-mount-all?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                        ☐ BlobFuse2 mount list https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-mount-list?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    ☐ BlobFuse2 mountv1 https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-mountv1?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    BlobFuse2 unmount https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-unmount?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z):
+                        ☐ BlobFuse2 unmount all https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-unmount-all?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    BlobFuse2 completion https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-completion?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z):
+                        ☐ BlobFuse2 completion bash https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-completion-bash?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                        ☐ BlobFuse2 completion fish https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-completion-fish?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                        ☐ BlobFuse2 completion PowerShell https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-completion-powershell?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                        ☐ BlobFuse2 completion zsh https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-completion-zsh?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    BlobFuse2 secure https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-secure?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z):
+                        ☐ BlobFuse2 secure encrypt https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-secure-encrypt?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                        ☐ BlobFuse2 secure decrypt https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-secure-decrypt?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                        ☐ BlobFuse2 secure get https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-secure-get?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                        ☐ BlobFuse2 secure set https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-secure-set?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    ☐ BlobFuse2 version https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-version?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    ☐ BlobFuse2 help https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-help?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+            ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.storage/allversions (2025-02-11T15:21:00Z)
+            ☐ Monitoring Blob Storage data reference https://learn.microsoft.com/en-us/azure/storage/blobs/monitor-blob-storage-reference (2025-03-02T12:20:00Z)
+            ☐ Host keys (SFTP) support https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-host-keys (2025-01-27T18:03:00Z)
+            ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/storage/common/policy-reference?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-02-06T18:05:00Z)
+        Resources:
+            ☐ FAQ https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-faq (2024-11-27T05:32:00Z)
+            ☐ Azure updates https://azure.microsoft.com/updates/?product=storage
+            Azure Storage Explorer:
+                ☐ Download Storage Explorer https://azure.microsoft.com/features/storage-explorer/
+                ☐ Get started with Storage Explorer https://learn.microsoft.com/en-us/azure/storage/storage-explorer/vs-azure-tools-storage-manage-with-storage-explorer?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-14T22:03:00Z)
+                ☐ Sign in to Storage Explorer https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-sign-in?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-26T23:03:00Z)
+                ☐ Storage Explorer networking https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-12T23:02:00Z)
+                ☐ Storage Explorer release notes https://github.com/microsoft/AzureStorageExplorer/releases
+                ☐ Troubleshoot Storage Explorer https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-explorer-troubleshooting?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-21T09:00:00Z)
+                ☐ Connect an emulator to Storage Explorer https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-emulators?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-12-16T23:03:00Z)
+                ☐ Storage Explorer command line options https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-command-line-options?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-09-12T11:19:00Z)
+                ☐ Storage Explorer direct link https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-direct-link?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-09-12T11:19:00Z)
+                ☐ Storage Explorer security https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-security?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-29T05:56:00Z)
+                ☐ Storage Explorer soft delete https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-soft-delete?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Storage Explorer blob versioning https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-blob-versioning?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Storage Explorer manage Azure Blob storage https://learn.microsoft.com/en-us/azure/storage/storage-explorer/vs-azure-tools-storage-explorer-blobs?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-31T22:05:00Z)
+                ☐ Storage Explorer create file shares https://learn.microsoft.com/en-us/azure/storage/storage-explorer/vs-azure-tools-storage-explorer-files?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Storage Explorer support policy and lifecycle https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-support-policy-lifecycle?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-21T17:04:00Z)
+                ☐ Storage Explorer accessibility https://learn.microsoft.com/en-us/azure/storage/storage-explorer/vs-azure-tools-storage-explorer-accessibility?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-31T22:05:00Z)
+            ☐ Blob storage on Microsoft Q&A https://learn.microsoft.com/answers/topics/azure-blob-storage.html
+            ☐ Blob storage on Stack Overflow https://stackoverflow.com/questions/tagged/azure-blob-storage
+            ☐ Pricing for block blobs https://azure.microsoft.com/pricing/details/storage/blobs/
+            ☐ Pricing for data lake storage https://azure.microsoft.com/pricing/details/storage/data-lake/
+            ☐ Pricing for page blobs https://azure.microsoft.com/pricing/details/storage/page-blobs/
+            ☐ Azure pricing calculator https://azure.microsoft.com/pricing/calculator/
+            ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=storage
+            ☐ Compare access with NFS to Azure Blob Storage, Azure Files, and Azure NetApp Files https://learn.microsoft.com/en-us/azure/storage/common/nfs-comparison?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            NuGet packages (.NET):
+                ☐ Microsoft.Azure.Storage.Common (version 11.x) https://www.nuget.org/packages/Microsoft.Azure.Storage.Common/
+                ☐ Azure.Storage.Common (version 12.x) https://www.nuget.org/packages/Azure.Storage.Common/
+                ☐ Microsoft.Azure.Storage.Blob (version 11.x) https://www.nuget.org/packages/Microsoft.Azure.Storage.Blob/
+                ☐ Azure.Storage.Blob (version 12.x) https://www.nuget.org/packages/Azure.Storage.Blobs/
+                ☐ Azure Configuration Manager https://www.nuget.org/packages/Microsoft.Azure.ConfigurationManager/
+                ☐ Azure Storage Data Movement library https://www.nuget.org/packages/Microsoft.Azure.Storage.DataMovement/
+                ☐ Storage Resource Provider library https://www.nuget.org/packages/Microsoft.Azure.Management.Storage/
+            Source code:
+                .NET:
+                    Azure Storage client library:
+                        ☐ Version 12.x https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/storage
+                        ☐ Version 11.x and earlier https://github.com/Azure/azure-storage-net
+                    ☐ Data Movement library https://github.com/Azure/azure-storage-net-data-movement
+                    ☐ Storage Resource Provider library https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/storage/Azure.ResourceManager.Storage
+                Java:
+                    ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-java/tree/master/sdk/storage
+                    ☐ Azure Storage client library version 8.x and earlier https://github.com/Azure/azure-storage-java
+                Node.js:
+                    ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-js/tree/master/sdk/storage
+                    ☐ Azure Storage client library version 10.x https://github.com/Azure/azure-storage-node
+                Python:
+                    ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-python/tree/master/sdk/storage
+                    ☐ Azure Storage client library version 2.1 https://github.com/Azure/azure-storage-python
+            Code samples using deprecated SDKs:
+                .NET
+            ☐ Compliance offerings https://learn.microsoft.com/en-us/azure/storage/common/storage-compliance-offerings?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+    Data Lake Storage:
+        Overview:
+            ☐ Introduction to Data Lake Storage https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction (2024-11-26T23:03:00Z)
+            ☐ Blob Storage feature support https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts (2025-05-03T05:16:00Z)
+        Getting started:
+            ☐ Best practices https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-best-practices (2025-05-03T05:16:00Z)
+            ☐ Enable Data Lake Storage (New storage accounts) https://learn.microsoft.com/en-us/azure/storage/blobs/create-data-lake-storage-account (2024-11-26T23:03:00Z)
+            Enable Data Lake Storage (Existing storage account):
+                ☐ Plan to upgrade an account https://learn.microsoft.com/en-us/azure/storage/blobs/upgrade-to-data-lake-storage-gen2 (2025-05-03T05:16:00Z)
+                ☐ Upgrade an account https://learn.microsoft.com/en-us/azure/storage/blobs/upgrade-to-data-lake-storage-gen2-how-to (2025-05-03T05:16:00Z)
+        Architecture:
+            ☐ Azure Blob File System driver for Hadoop https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-abfs-driver (2025-05-03T05:16:00Z)
+            ☐ Azure Blob File System URI https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction-abfs-uri (2025-05-03T05:16:00Z)
+            ☐ About hierarchical namespaces https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-namespace (2025-05-03T05:16:00Z)
+        Compatibility:
+            ☐ Multi-protocol access https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-multi-protocol-access (2025-05-03T05:16:00Z)
+            ☐ Supported Blob Storage features https://learn.microsoft.com/en-us/azure/storage/blobs/storage-feature-support-in-storage-accounts (2025-05-03T05:16:00Z)
+            ☐ Supported Azure services https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-supported-azure-services (2025-05-03T05:16:00Z)
+            ☐ Supported open source platforms https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-supported-open-source-platforms (2025-05-03T05:16:00Z)
+            ☐ Premium tier for Data Lake Storage https://learn.microsoft.com/en-us/azure/storage/blobs/premium-tier-for-data-lake-storage (2025-05-03T05:16:00Z)
+            ☐ Known issues https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-known-issues (2025-05-03T05:16:00Z)
+        Access control:
+            ☐ Access control model https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-access-control-model (2025-05-03T05:16:00Z)
+            ☐ Access control lists https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-access-control (2025-05-03T05:16:00Z)
+            Manage access control:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-acl-azure-portal (2024-11-26T23:03:00Z)
+                ☐ Storage Explorer https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-explorer-acl (2024-11-26T23:03:00Z)
+                ☐ PowerShell https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-acl-powershell (2024-11-26T23:03:00Z)
+                ☐ CLI https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-acl-cli (2024-11-26T23:03:00Z)
+                ☐ .NET https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-acl-dotnet (2024-09-10T17:10:00Z)
+                ☐ Java https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-acl-java (2025-03-17T17:02:00Z)
+                ☐ Python https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-acl-python (2024-09-10T17:10:00Z)
+                ☐ JavaScript https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-acl-javascript (2024-09-10T17:10:00Z)
+        Migration:
+            ☐ Migrate an HDFS store offline https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-migrate-on-premises-hdfs-cluster (2025-04-22T11:11:00Z)
+            ☐ Migrate an HDFS store online https://learn.microsoft.com/en-us/azure/storage/blobs/migrate-gen2-wandisco-live-data-platform (2024-08-29T05:56:00Z)
+        Data transfer:
+            Compare data transfer solutions https://learn.microsoft.com/en-us/azure/storage/common/storage-choose-data-transfer-solution?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z):
+                ☐ Large dataset, low network bandwidth https://learn.microsoft.com/en-us/azure/storage/common/storage-solution-large-dataset-low-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Large dataset, moderate to high network bandwidth https://learn.microsoft.com/en-us/azure/storage/common/storage-solution-large-dataset-moderate-high-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Small dataset, low to moderate network bandwidth https://learn.microsoft.com/en-us/azure/storage/common/storage-solution-small-dataset-low-moderate-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+                ☐ Periodic data transfer https://learn.microsoft.com/en-us/azure/storage/common/storage-solution-periodic-data-transfer?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            AzCopy:
+                ☐ Get started https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-v10?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-22T05:11:00Z)
+                ☐ Authorize with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-authorize-azure-active-directory?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-27T05:33:00Z)
+                ☐ Optimize performance https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-optimize?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-13T17:09:00Z)
+                ☐ Use logs to find errors and resume jobs https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-configure?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-07-12T11:14:00Z)
+                ☐ Examples: Upload https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs-upload?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-27T23:07:00Z)
+                ☐ Examples: Download https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs-download?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-27T23:07:00Z)
+                ☐ Examples: Copy between accounts https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs-copy?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-27T23:07:00Z)
+                ☐ Examples: Synchronize https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs-synchronize?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-10-13T22:42:00Z)
+                ☐ Examples: Properties and metadata https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-blobs-properties-metadata?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-01-27T23:07:00Z)
+                ☐ Examples: Amazon S3 buckets https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-s3?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-09T17:06:00Z)
+                ☐ Examples: Google Cloud Storage buckets https://learn.microsoft.com/en-us/azure/storage/common/storage-use-azcopy-google-cloud?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-10-12T11:16:00Z)
+            ☐ Azure Data Factory https://learn.microsoft.com/en-us/azure/data-factory/connector-azure-data-lake-storage?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-06T12:14:00Z)
+            ☐ Transfer data with the DistCp tool https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-distcp (2024-11-26T23:03:00Z)
+        Directory & file operations:
+            ☐ Storage Explorer https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-explorer (2024-11-26T23:03:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-directory-file-acl-powershell (2024-11-26T23:03:00Z)
+            ☐ CLI https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-directory-file-acl-cli (2024-11-26T23:03:00Z)
+            ☐ .NET https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-directory-file-acl-dotnet (2024-11-21T18:04:00Z)
+            ☐ Java https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-directory-file-acl-java (2024-08-29T05:56:00Z)
+            ☐ Python https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-directory-file-acl-python (2024-08-29T05:56:00Z)
+            ☐ JavaScript https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-directory-file-acl-javascript (2024-08-29T05:56:00Z)
+            ☐ Hadoop File System CLI https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-hdfs-data-lake-storage (2024-11-26T23:03:00Z)
+        Query acceleration:
+            ☐ About query acceleration https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-query-acceleration (2025-05-03T05:16:00Z)
+            ☐ Use queries to retrieve data https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-query-acceleration-how-to (2025-02-26T18:03:00Z)
+        Azure service integration:
+            ☐ Use with Synapse SQL https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-sql (2024-11-26T23:03:00Z)
+            ☐ Use with Databricks and Spark https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-use-databricks-spark (2025-03-17T11:10:00Z)
+            ☐ Use with Apache Hive and HDInsight https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-tutorial-extract-transform-load-hive (2024-11-26T23:03:00Z)
+            ☐ Use with Databricks Delta and Event Grid https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-events (2024-11-26T23:03:00Z)
+            ☐ Use with other Azure services https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-integrate-with-services-tutorials (2025-05-03T05:16:00Z)
+    Reference:
+        Blob Storage APIs:
+            APIs for data access:
+                ☐ REST API https://learn.microsoft.com/rest/api/storageservices/blob-service-rest-api (2023-11-07T22:33:00Z)
+                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-05-14T11:43:00Z)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-05-14T11:08:00Z)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-05-14T11:09:00Z)
+            APIs for resource management:
+                ☐ REST API https://learn.microsoft.com/rest/api/storagerp/ (2025-03-11T22:09:00Z)
+                ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.storage-readme (2025-05-01T11:35:00Z)
+                ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-05-14T11:08:00Z)
+                ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-05-14T11:09:00Z)
+        Data Lake Storage Gen2 APIs:
+            ☐ REST https://learn.microsoft.com/rest/api/storageservices/data-lake-storage-gen2 (2023-11-07T22:33:00Z)
+            ☐ .NET https://learn.microsoft.com/dotnet/api/azure.storage.files.datalake (2019-11-26T23:24:00Z)
+            ☐ Python https://learn.microsoft.com/python/api/overview/azure/storage-file-datalake-readme (2025-03-28T11:06:00Z)
+            ☐ JavaScript https://learn.microsoft.com/javascript/api/overview/azure/storage-file-datalake-readme (2025-03-19T11:09:00Z)
+            ☐ C++ https://github.com/Azure/azure-sdk-for-cpp/tree/master/sdk/storage/azure-storage-files-datalake
+        ☐ Query acceleration reference https://learn.microsoft.com/en-us/azure/storage/blobs/query-acceleration-sql-reference (2025-05-03T05:16:00Z)
+        AzCopy v10:
+            ☐ Command reference https://github.com/Azure/azure-storage-azcopy/wiki/azcopy
+            ☐ Configuration settings https://learn.microsoft.com/en-us/azure/storage/common/storage-ref-azcopy-configuration-settings?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-12-11T23:03:00Z)
+            ☐ Error codes https://learn.microsoft.com/en-us/azure/storage/common/storage-ref-azcopy-error-codes?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-08T22:02:00Z)
+        BlobFuse2:
+            ☐ Configure settings https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-configuration?toc=/azure/storage/blobs/toc.json (2024-12-13T23:03:00Z)
+            Commands:
+                ☐ The BlobFuse2 command set https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                BlobFuse2 mount https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-mount?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z):
+                    ☐ BlobFuse2 mount all https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-mount-all?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    ☐ BlobFuse2 mount list https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-mount-list?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                ☐ BlobFuse2 mountv1 https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-mountv1?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                BlobFuse2 unmount https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-unmount?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z):
+                    ☐ BlobFuse2 unmount all https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-unmount-all?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                BlobFuse2 completion https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-completion?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z):
+                    ☐ BlobFuse2 completion bash https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-completion-bash?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    ☐ BlobFuse2 completion fish https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-completion-fish?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    ☐ BlobFuse2 completion PowerShell https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-completion-powershell?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    ☐ BlobFuse2 completion zsh https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-completion-zsh?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                BlobFuse2 secure https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-secure?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z):
+                    ☐ BlobFuse2 secure encrypt https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-secure-encrypt?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    ☐ BlobFuse2 secure decrypt https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-secure-decrypt?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    ☐ BlobFuse2 secure get https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-secure-get?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                    ☐ BlobFuse2 secure set https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-secure-set?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                ☐ BlobFuse2 version https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-version?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+                ☐ BlobFuse2 help https://learn.microsoft.com/en-us/azure/storage/blobs/blobfuse2-commands-help?toc=/azure/storage/blobs/toc.json (2024-05-03T11:20:00Z)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.storage/allversions (2025-02-11T15:21:00Z)
+        ☐ Monitoring data https://learn.microsoft.com/en-us/azure/storage/blobs/monitor-blob-storage-reference (2025-03-02T12:20:00Z)
+        ☐ Host keys (SFTP) support https://learn.microsoft.com/en-us/azure/storage/blobs/secure-file-transfer-protocol-host-keys (2025-01-27T18:03:00Z)
+        ☐ Azure Policy built-ins https://learn.microsoft.com/en-us/azure/storage/common/policy-reference?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-02-06T18:05:00Z)
+    Resources:
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blob-faq (2024-11-27T05:32:00Z)
+        ☐ Azure updates https://azure.microsoft.com/updates/?product=storage
+        Azure Storage Explorer:
+            ☐ Download Storage Explorer https://azure.microsoft.com/features/storage-explorer/
+            ☐ Get started with Storage Explorer https://learn.microsoft.com/en-us/azure/storage/storage-explorer/vs-azure-tools-storage-manage-with-storage-explorer?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-14T22:03:00Z)
+            ☐ Sign in to Storage Explorer https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-sign-in?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-11-26T23:03:00Z)
+            ☐ Storage Explorer networking https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-network?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-02-12T23:02:00Z)
+            ☐ Storage Explorer release notes https://github.com/microsoft/AzureStorageExplorer/releases
+            ☐ Troubleshoot Storage Explorer https://learn.microsoft.com/troubleshoot/azure/azure-storage/storage-explorer-troubleshooting?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-21T09:00:00Z)
+            ☐ Connect an emulator to Storage Explorer https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-emulators?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-12-16T23:03:00Z)
+            ☐ Storage Explorer command line options https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-command-line-options?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-09-12T11:19:00Z)
+            ☐ Storage Explorer direct link https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-direct-link?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2023-09-12T11:19:00Z)
+            ☐ Storage Explorer security https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-security?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2024-08-29T05:56:00Z)
+            ☐ Storage Explorer soft delete https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-soft-delete?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            ☐ Storage Explorer blob versioning https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-blob-versioning?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            ☐ Storage Explorer manage Azure Blob Storage https://learn.microsoft.com/en-us/azure/storage/storage-explorer/vs-azure-tools-storage-explorer-blobs?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-31T22:05:00Z)
+            ☐ Storage Explorer create file shares https://learn.microsoft.com/en-us/azure/storage/storage-explorer/vs-azure-tools-storage-explorer-files?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+            ☐ Storage Explorer support policy and lifecycle https://learn.microsoft.com/en-us/azure/storage/common/storage-explorer-support-policy-lifecycle?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-04-21T17:04:00Z)
+            ☐ Storage Explorer accessibility https://learn.microsoft.com/en-us/azure/storage/storage-explorer/vs-azure-tools-storage-explorer-accessibility?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-03-31T22:05:00Z)
+        ☐ Blob Storage on Microsoft Q&A https://learn.microsoft.com/answers/topics/azure-blob-storage.html
+        ☐ Blob Storage on Stack Overflow https://stackoverflow.com/questions/tagged/azure-blob-storage
+        ☐ Pricing for block blobs https://azure.microsoft.com/pricing/details/storage/blobs/
+        ☐ Pricing for data lake storage https://azure.microsoft.com/pricing/details/storage/data-lake/
+        ☐ Pricing for page blobs https://azure.microsoft.com/pricing/details/storage/page-blobs/
+        ☐ Azure pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Videos https://azure.microsoft.com/documentation/videos/index/?services=storage
+        ☐ Compare access with NFS to Azure Blob Storage, Azure Files, and Azure NetApp Files https://learn.microsoft.com/en-us/azure/storage/common/nfs-comparison?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+        NuGet packages (.NET):
+            ☐ Microsoft.Azure.Storage.Common (version 11.x) https://www.nuget.org/packages/Microsoft.Azure.Storage.Common/
+            ☐ Azure.Storage.Common (version 12.x) https://www.nuget.org/packages/Azure.Storage.Common/
+            ☐ Microsoft.Azure.Storage.Blob (version 11.x) https://www.nuget.org/packages/Microsoft.Azure.Storage.Blob/
+            ☐ Azure.Storage.Blob (version 12.x) https://www.nuget.org/packages/Azure.Storage.Blobs/
+            ☐ Azure Configuration Manager https://www.nuget.org/packages/Microsoft.Azure.ConfigurationManager/
+            ☐ Azure Storage Data Movement library https://www.nuget.org/packages/Microsoft.Azure.Storage.DataMovement/
+            ☐ Storage Resource Provider library https://www.nuget.org/packages/Microsoft.Azure.Management.Storage/
+        Source code:
+            .NET:
+                Azure Storage client library:
+                    ☐ Version 12.x https://github.com/Azure/azure-sdk-for-net/tree/master/sdk/storage
+                    ☐ Version 11.x and earlier https://github.com/Azure/azure-storage-net
+                ☐ Data Movement library https://github.com/Azure/azure-storage-net-data-movement
+                ☐ Storage Resource Provider library https://github.com/Azure/azure-sdk-for-net/tree/main/sdk/storage/Azure.ResourceManager.Storage
+            Java:
+                ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-java/tree/master/sdk/storage
+                ☐ Azure Storage client library version 8.x and earlier https://github.com/Azure/azure-storage-java
+            Node.js:
+                ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-js/tree/master/sdk/storage
+                ☐ Azure Storage client library version 10.x https://github.com/Azure/azure-storage-node
+            Python:
+                ☐ Azure Storage client library version 12.x https://github.com/Azure/azure-sdk-for-python/tree/master/sdk/storage
+                ☐ Azure Storage client library version 2.1 https://github.com/Azure/azure-storage-python
+        ☐ Compliance offerings https://learn.microsoft.com/en-us/azure/storage/common/storage-compliance-offerings?toc=/azure/storage/blobs/toc.json&bc=/azure/storage/blobs/breadcrumb/toc.json (2025-05-03T05:16:00Z)
+

@@ -1,0 +1,39 @@
+Web architecture design - Azure Architecture Center | Microsoft Learn:
+    Web applications https://learn.microsoft.com/en-us/azure/architecture/web-apps/ (2025-05-12T17:32:00Z):
+        Explore ideas about:
+            ☐ Hosting an e-commerce web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/idea/scalable-ecommerce-web-app (2025-04-17T17:31:00Z)
+            ☐ Deploying a highly available SharePoint farm https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/highly-available-sharepoint-farm (2025-04-21T17:30:00Z)
+        Design architectures:
+            Host web apps with App Service:
+                ☐ Basic web application https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/basic-web-app (2025-05-12T17:32:00Z)
+                ☐ Baseline web application with zone redundancy https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service/architectures/baseline-zone-redundant (2025-05-12T17:32:00Z)
+            Host web apps with App Service Environment:
+                ☐ Standard deployment https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service-environment/architectures/ase-standard-deployment (2025-04-21T17:30:00Z)
+                ☐ High availability deployment https://learn.microsoft.com/en-us/azure/architecture/web-apps/app-service-environment/architectures/ase-high-availability-deployment (2025-04-17T17:31:00Z)
+                ☐ Securely managed web apps https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/fully-managed-secure-apps (2025-04-17T17:31:00Z)
+            Manage your APIs with Azure API Management (APIM):
+                ☐ Protect APIs with Application Gateway and APIM https://learn.microsoft.com/en-us/azure/architecture/web-apps/api-management/architectures/protect-apis (2025-05-12T17:32:00Z)
+                ☐ Design API with API Management and GitHub https://learn.microsoft.com/en-us/azure/architecture/example-scenario/web/design-api-developer-experiences-management-github (2025-04-17T17:31:00Z)
+                ☐ Migrate a web app with APIM https://learn.microsoft.com/en-us/azure/architecture/example-scenario/apps/apim-api-scenario (2025-04-17T17:31:00Z)
+            Host serverless web apps with Azure Functions:
+                ☐ Serverless web app https://learn.microsoft.com/en-us/azure/architecture/web-apps/serverless/architectures/web-app (2025-04-17T17:31:00Z)
+                ☐ Serverless code walkthrough https://learn.microsoft.com/en-us/azure/architecture/web-apps/serverless/architectures/code (2025-04-17T17:31:00Z)
+        Apply guidance:
+            Networking guidance for web apps:
+                ☐ Securing access to multitenant web apps from on prem https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/networking/access-multitenant-web-app-from-on-premises (2025-04-17T17:31:00Z)
+            Security guidance for web apps:
+                ☐ Single-page application authorization https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/security/secure-single-page-application-authorization (2025-04-17T17:31:00Z)
+            Application development guidance for web apps:
+                Enterprise web app patterns:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/overview (2025-05-12T17:32:00Z)
+                    Reliable Web App pattern:
+                        ☐ .NET https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance (2025-04-17T17:31:00Z)
+                    Modern Web App pattern:
+                        ☐ .NET https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/modern-web-app/dotnet/guidance (2025-04-17T17:31:00Z)
+            Disaster recovery for web apps:
+                ☐ Multi-region App Service apps for disaster recovery https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/multi-region-app-service/multi-region-app-service (2025-05-12T17:32:00Z)
+        Hosting WordPress on Azure:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/architecture/guide/infrastructure/wordpress-overview (2025-04-17T17:31:00Z)
+            ☐ Container hosting (AKS) https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-container (2025-04-17T17:31:00Z)
+            ☐ App Service hosting https://learn.microsoft.com/en-us/azure/architecture/example-scenario/infrastructure/wordpress-app-service (2025-04-17T17:31:00Z)
+

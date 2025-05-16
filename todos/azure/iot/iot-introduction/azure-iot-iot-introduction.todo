@@ -1,0 +1,67 @@
+Introduction to the Azure Internet of Things (IoT) - Azure IoT | Microsoft Learn:
+    ☐ Azure Internet of Things documentation https://learn.microsoft.com/en-us/azure/iot/ (2025-05-06T17:02:00Z)
+    Overview:
+        ☐ Introduction https://learn.microsoft.com/en-us/azure/iot/iot-introduction (2025-03-28T22:03:00Z)
+        IoT solution components:
+            ☐ Asset and device development https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-development (2025-04-02T11:16:00Z)
+            ☐ Asset and device connectivity https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-connectivity (2025-04-02T11:16:00Z)
+            ☐ Asset and device management and control https://learn.microsoft.com/en-us/azure/iot/iot-overview-device-management (2025-04-02T11:16:00Z)
+            ☐ Process and route messages https://learn.microsoft.com/en-us/azure/iot/iot-overview-message-processing (2025-04-02T11:16:00Z)
+            ☐ Extend your solution https://learn.microsoft.com/en-us/azure/iot/iot-overview-solution-extensibility (2025-04-02T11:16:00Z)
+            ☐ Analyze and visualize your IoT data https://learn.microsoft.com/en-us/azure/iot/iot-overview-analyze-visualize (2025-04-02T11:16:00Z)
+            ☐ Manage your solution https://learn.microsoft.com/en-us/azure/iot/iot-overview-solution-management (2025-04-02T11:16:00Z)
+            ☐ Secure your solution https://learn.microsoft.com/en-us/azure/iot/iot-overview-security (2025-04-02T11:16:00Z)
+            ☐ Scalability, high availability https://learn.microsoft.com/en-us/azure/iot/iot-overview-scalability-high-availability (2025-04-02T11:16:00Z)
+        ☐ Choose an Azure IoT service https://learn.microsoft.com/en-us/azure/iot/iot-services-and-technologies (2025-04-02T11:16:00Z)
+    How-to guides:
+        ☐ Use smartphone device app https://learn.microsoft.com/en-us/azure/iot/iot-phone-app-how-to (2025-02-14T18:03:00Z)
+        ☐ Use IoT Explorer https://learn.microsoft.com/en-us/azure/iot/howto-use-iot-explorer (2025-03-20T17:02:00Z)
+        ☐ Connect an on-premises SAP system to Azure https://learn.microsoft.com/en-us/azure/iot/howto-connect-on-premises-sap-to-azure (2024-12-16T18:03:00Z)
+        ☐ Enable an industrial dataspace in Azure https://learn.microsoft.com/en-us/azure/iot/howto-iot-industrial-dataspaces (2025-02-12T12:12:00Z)
+    Tutorials:
+        ☐ Send telemetry to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-send-telemetry-iot-hub (2025-03-20T17:02:00Z)
+        Embedded device development:
+            ☐ Connect an MXCHIP AZ3166 to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-mxchip-az3166-iot-hub (2025-01-16T18:03:00Z)
+            ☐ Connect an STMicroelectronics B-L475E to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-stm-b-l475e-iot-hub (2025-01-16T18:03:00Z)
+            ☐ Connect an ESPRESSIF ESP32 Kit to IoT Hub https://learn.microsoft.com/en-us/azure/iot/tutorial-devkit-espressif-esp32-freertos-iot-hub (2025-01-16T18:03:00Z)
+            ☐ Troubleshoot embedded device tutorials https://learn.microsoft.com/en-us/azure/iot/troubleshoot-embedded-device-tutorials (2025-01-16T18:03:00Z)
+        ☐ Use MQTT to connect a device https://learn.microsoft.com/en-us/azure/iot/tutorial-use-mqtt (2025-03-20T17:02:00Z)
+        ☐ Implement the Industrial IoT reference solution https://learn.microsoft.com/en-us/azure/iot/tutorial-iot-industrial-solution-architecture (2025-02-05T18:02:00Z)
+    Concepts:
+        IoT device development:
+            ☐ What is IoT device development https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-development (2025-04-14T17:11:00Z)
+            ☐ IoT device types https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-types (2025-03-20T17:02:00Z)
+            ☐ C SDK and Embedded C SDK usage scenarios https://learn.microsoft.com/en-us/azure/iot/concepts-using-c-sdk-and-embedded-c-sdk (2025-03-20T17:02:00Z)
+            ☐ Manage device reconnections https://learn.microsoft.com/en-us/azure/iot/concepts-manage-device-reconnections (2025-01-16T18:03:00Z)
+            ☐ IoT device selection https://learn.microsoft.com/en-us/azure/iot/concepts-iot-device-selection (2025-03-26T17:06:00Z)
+        IoT Plug and Play:
+            ☐ What is IoT Plug and Play? https://learn.microsoft.com/en-us/azure/iot/overview-iot-plug-and-play (2025-03-20T17:02:00Z)
+            ☐ Architecture https://learn.microsoft.com/en-us/azure/iot/concepts-architecture (2025-03-20T17:02:00Z)
+            ☐ IoT Plug and Play conventions https://learn.microsoft.com/en-us/azure/iot/concepts-convention (2025-03-20T17:02:00Z)
+            ☐ IoT Plug and Play message payloads https://learn.microsoft.com/en-us/azure/iot/concepts-message-payloads (2025-03-20T17:02:00Z)
+            ☐ Device developer guide https://learn.microsoft.com/en-us/azure/iot/concepts-developer-guide-device (2025-03-20T17:02:00Z)
+            ☐ Service developer guide https://learn.microsoft.com/en-us/azure/iot/concepts-developer-guide-service (2025-04-14T17:11:00Z)
+            ☐ Digital twins https://learn.microsoft.com/en-us/azure/iot/concepts-digital-twin (2025-03-20T17:02:00Z)
+            Device models:
+                ☐ Modeling guide https://learn.microsoft.com/en-us/azure/iot/concepts-modeling-guide (2025-03-20T17:02:00Z)
+                ☐ Use models in a solution https://learn.microsoft.com/en-us/azure/iot/concepts-model-discovery (2025-03-20T17:02:00Z)
+        MQTT support:
+            ☐ Use MQTT with IoT Hub https://learn.microsoft.com/en-us/azure/iot/iot-mqtt-connect-to-iot-hub (2025-03-25T17:02:00Z)
+            ☐ Use MQTT with DPS https://learn.microsoft.com/en-us/azure/iot/iot-mqtt-connect-to-iot-dps (2025-03-20T17:02:00Z)
+    Resources:
+        ☐ Support and help options https://learn.microsoft.com/en-us/azure/iot/iot-support-help (2025-03-20T17:02:00Z)
+        ☐ IoT glossary https://learn.microsoft.com/en-us/azure/iot/iot-glossary (2025-03-20T17:02:00Z)
+        Azure IoT services:
+            ☐ Azure IoT Operations https://learn.microsoft.com/en-us/azure/iot-operations/ (2025-02-06 06:03 PM)
+            ☐ IoT Hub https://learn.microsoft.com/en-us/azure/iot-hub/ (2025-03-04 11:03 PM)
+            ☐ IoT Hub Device Provisioning Service https://learn.microsoft.com/en-us/azure/iot-dps/ (2025-03-04 11:03 PM)
+            ☐ IoT Central https://learn.microsoft.com/en-us/azure/iot-central/ (2025-04-22 05:03 PM)
+            ☐ IoT Edge https://learn.microsoft.com/en-us/azure/iot-edge/ (2025-03-31 10:05 PM)
+            ☐ Azure Maps https://learn.microsoft.com/en-us/azure/azure-maps/ (2025-02-04 11:08 PM)
+            ☐ Time Series Insights https://learn.microsoft.com/en-us/azure/time-series-insights/ (2025-01-28 11:09 PM)
+        Azure IoT SDKs:
+            ☐ Device and Service SDKs https://learn.microsoft.com/en-us/azure/iot/iot-sdks (2025-03-28T22:03:00Z)
+            ☐ Azure IoT Operations SDKs https://github.com/Azure/iot-operations-sdks
+        ☐ Azure IoT Tools for VS Code https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit
+        ☐ Azure IoT Explorer tool https://github.com/Azure/azure-iot-explorer
+

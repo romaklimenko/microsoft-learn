@@ -1,0 +1,117 @@
+Azure Table storage documentation | Microsoft Learn:
+    ☐ Azure Table storage documentation https://learn.microsoft.com/en-us/azure/storage/tables/ (2024-08-14 06:47 PM)
+    Overview:
+        ☐ Azure Table storage overview https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-overview (2024-08-14T18:47:00Z)
+        ☐ Choose Table storage or Azure Cosmos DB for Table https://learn.microsoft.com/azure/cosmos-db/table-support (2024-08-23T16:59:00Z)
+    Quickstarts:
+        ☐ Create a table in the Azure portal https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-quickstart-portal (2024-06-27T17:04:00Z)
+    Samples:
+        ☐ .NET https://learn.microsoft.com/azure/cosmos-db/tutorial-develop-table-dotnet (2025-04-08T22:01:00Z)
+        ☐ F# https://learn.microsoft.com/dotnet/articles/fsharp/using-fsharp-on-azure/table-storage (2024-09-18T09:57:00Z)
+        ☐ Java https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-java (2025-04-08T22:01:00Z)
+        ☐ Node.js https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-nodejs (2025-04-08T22:01:00Z)
+        ☐ C++ https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-c-plus (2024-08-23T16:59:00Z)
+        ☐ PHP https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-php (2024-10-02T21:56:00Z)
+        ☐ Python https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-python (2025-04-08T22:01:00Z)
+        ☐ Go https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-go (2025-04-08T22:01:00Z)
+        ☐ Ruby https://learn.microsoft.com/azure/cosmos-db/table-storage-how-to-use-ruby (2024-10-02T21:56:00Z)
+        ☐ PowerShell https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-how-to-use-powershell (2024-08-14T18:47:00Z)
+        ☐ Azure Resource Graph queries https://learn.microsoft.com/en-us/azure/storage/common/resource-graph-samples (2024-06-12T05:46:00Z)
+    Concepts:
+        ☐ Storage accounts https://learn.microsoft.com/en-us/azure/storage/common/storage-account-overview?toc=/azure/storage/tables/toc.json (2025-05-03T05:16:00Z)
+        Authorization https://learn.microsoft.com/en-us/azure/storage/common/authorize-data-access?toc=/azure/storage/tables/toc.json (2025-05-03T05:16:00Z):
+            ☐ Authenticate and authorize with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/storage/tables/authorize-access-azure-active-directory (2025-05-03T05:16:00Z)
+            Authorize with Shared Key:
+                ☐ View and manage account keys https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?toc=/azure/storage/tables/toc.json (2024-11-19T18:02:00Z)
+                ☐ Configure connection strings https://learn.microsoft.com/en-us/azure/storage/common/storage-configure-connection-string?toc=/azure/storage/tables/toc.json (2024-08-07T22:04:00Z)
+                ☐ Use the Azure Storage REST API https://learn.microsoft.com/en-us/azure/storage/common/storage-rest-api-auth?toc=/azure/storage/tables/toc.json (2023-11-15T18:06:00Z)
+            ☐ Authorize with SAS https://learn.microsoft.com/en-us/azure/storage/common/storage-sas-overview?toc=/azure/storage/tables/toc.json (2025-05-03T05:16:00Z)
+        Security:
+            ☐ Azure Storage encryption at rest https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption?toc=/azure/storage/tables/toc.json (2025-05-03T05:16:00Z)
+            ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/storage/common/security-controls-policy?toc=/azure/storage/tables/toc.json (2024-02-07T05:35:00Z)
+            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/storage-security-baseline?toc=/azure/storage/tables/toc.json?toc=/azure/storage/tables/TOC.json (2025-02-27T14:58:00Z)
+        ☐ Data redundancy https://learn.microsoft.com/en-us/azure/storage/common/storage-redundancy?toc=/azure/storage/tables/toc.json (2025-05-03T05:16:00Z)
+        ☐ Disaster recovery and failover https://learn.microsoft.com/en-us/azure/storage/common/storage-disaster-recovery-guidance?toc=/azure/storage/tables/toc.json (2025-05-03T05:16:00Z)
+        Performance, scaling, and cost optimization:
+            ☐ Performance and scalability checklist https://learn.microsoft.com/en-us/azure/storage/tables/storage-performance-checklist (2023-10-26T22:02:00Z)
+            ☐ Design scalable and performant tables https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-design (2024-08-14T18:47:00Z)
+        ☐ Guidelines for table design https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-design-guidelines (2023-08-25T21:58:00Z)
+        ☐ Design for querying https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-design-for-query (2023-08-25T21:58:00Z)
+        ☐ Design for data modification https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-design-for-modification (2023-08-25T21:58:00Z)
+        ☐ Modeling relationships https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-design-modeling (2024-05-29T22:05:00Z)
+        ☐ Table design patterns https://learn.microsoft.com/en-us/azure/storage/tables/table-storage-design-patterns (2024-02-05T18:03:00Z)
+        ☐ Monitor Table Storage https://learn.microsoft.com/en-us/azure/storage/tables/monitor-table-storage (2025-05-03T05:16:00Z)
+    How-to:
+        ☐ Create a storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-create?toc=/azure/storage/tables/toc.json (2025-04-11T05:10:00Z)
+        ☐ Upgrade a storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-upgrade?toc=/azure/storage/tables/toc.json (2024-06-27T17:04:00Z)
+        ☐ Recover a deleted storage account https://learn.microsoft.com/en-us/azure/storage/common/storage-account-recover?toc=/azure/storage/tables/toc.json (2025-05-03T05:16:00Z)
+        ☐ Migrate a classic account to Azure Resource Manager https://learn.microsoft.com/en-us/azure/storage/common/classic-account-migrate?toc=/azure/storage/tables/toc.json (2025-02-19T18:02:00Z)
+        ☐ Get account configuration properties https://learn.microsoft.com/en-us/azure/storage/common/storage-account-get-info?toc=/azure/storage/tables/toc.json (2023-12-06T23:03:00Z)
+        ☐ Use the storage emulator (deprecated) https://learn.microsoft.com/en-us/azure/storage/common/storage-use-emulator?toc=/azure/storage/tables/toc.json (2025-02-06T18:03:00Z)
+        Authorize access to table data:
+            ☐ Manage access rights with Azure RBAC https://learn.microsoft.com/en-us/azure/storage/tables/assign-azure-role-data-access (2024-08-28T19:22:00Z)
+            ☐ View and manage account keys https://learn.microsoft.com/en-us/azure/storage/common/storage-account-keys-manage?toc=/azure/storage/tables/toc.json (2024-11-19T18:02:00Z)
+            ☐ Configure connection strings https://learn.microsoft.com/en-us/azure/storage/common/storage-configure-connection-string?toc=/azure/storage/tables/toc.json (2024-08-07T22:04:00Z)
+        Secure table data:
+            Manage Azure Storage encryption:
+                ☐ Create an account that supports customer-managed keys https://learn.microsoft.com/en-us/azure/storage/common/account-encryption-key-create?toc=/azure/storage/tables/toc.json (2023-08-25T21:58:00Z)
+                ☐ Check the encryption key model for the account https://learn.microsoft.com/en-us/azure/storage/common/storage-encryption-key-model-get?toc=/azure/storage/tables/toc.json (2023-10-22T11:24:00Z)
+                Configure customer-managed keys in Azure Key Vault:
+                    Configure customer-managed keys in the same tenant:
+                        ☐ Configure customer-managed keys for a new account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-new-account?toc=/azure/storage/tables/toc.json (2025-03-11T17:04:00Z)
+                        ☐ Configure customer-managed keys for an existing account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-existing-account?toc=/azure/storage/tables/toc.json (2024-08-07T22:04:00Z)
+                    Configure customer-managed keys in a different tenant:
+                        ☐ Configure customer-managed keys for a new account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-cross-tenant-new-account?toc=/azure/storage/tables/toc.json (2024-08-07T22:04:00Z)
+                        ☐ Configure customer-managed keys for an existing account https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-cross-tenant-existing-account?toc=/azure/storage/tables/toc.json (2024-08-07T22:04:00Z)
+                    ☐ Configure customer-managed keys in a managed HSM https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-configure-key-vault-hsm?toc=/azure/storage/tables/toc.json (2024-08-07T22:04:00Z)
+                ☐ Enable infrastructure encryption for the account https://learn.microsoft.com/en-us/azure/storage/common/infrastructure-encryption-enable?toc=/azure/storage/tables/toc.json (2025-05-03T05:16:00Z)
+            Configure client-side encryption:
+                ☐ .NET https://learn.microsoft.com/azure/storage/blobs/client-side-encryption?toc=%2Fazure%2Fstorage%2Ftables%2Ftoc.json&tabs=dotnet (2024-10-03T22:03:00Z)
+                ☐ Java https://learn.microsoft.com/azure/storage/blobs/client-side-encryption?toc=%2Fazure%2Fstorage%2Ftables%2Ftoc.json&tabs=java (2024-10-03T22:03:00Z)
+                ☐ Python https://learn.microsoft.com/azure/storage/blobs/client-side-encryption?toc=%2Fazure%2Fstorage%2Ftables%2Ftoc.json&tabs=python (2024-10-03T22:03:00Z)
+            Configure network security:
+                ☐ Configure firewalls and virtual networks https://learn.microsoft.com/en-us/azure/storage/common/storage-network-security?toc=/azure/storage/tables/toc.json (2025-05-07T05:16:00Z)
+                ☐ Require secure transfer https://learn.microsoft.com/en-us/azure/storage/common/storage-require-secure-transfer?toc=/azure/storage/tables/toc.json (2025-05-12T22:03:00Z)
+                Manage Transport Layer Security (TLS):
+                    ☐ Enforce minimum TLS version for incoming requests https://learn.microsoft.com/en-us/azure/storage/common/transport-layer-security-configure-minimum-version?toc=/azure/storage/tables/toc.json (2024-09-11T18:38:00Z)
+                    ☐ Configure TLS version for a client application https://learn.microsoft.com/en-us/azure/storage/common/transport-layer-security-configure-client-version?toc=/azure/storage/tables/toc.json (2023-10-22T11:24:00Z)
+            ☐ Enable threat protection with Microsoft Defender for Storage https://learn.microsoft.com/en-us/azure/storage/common/azure-defender-storage-configure?toc=/azure/storage/tables/toc.json (2025-05-13T17:04:00Z)
+        Manage data redundancy:
+            ☐ Change how data is replicated https://learn.microsoft.com/en-us/azure/storage/common/redundancy-migration?toc=/azure/storage/tables/toc.json (2025-05-09T22:02:00Z)
+            Design highly available applications:
+                ☐ .NET (v12 SDK) https://learn.microsoft.com/en-us/azure/storage/common/geo-redundant-design?toc=/azure/storage/tables/toc.json (2025-05-03T05:16:00Z)
+        Manage disaster recovery:
+            ☐ Check the Last Sync Time property https://learn.microsoft.com/en-us/azure/storage/common/last-sync-time-get?toc=/azure/storage/tables/toc.json (2024-08-05T22:12:00Z)
+            ☐ Initiate account failover https://learn.microsoft.com/en-us/azure/storage/common/storage-initiate-account-failover?toc=/azure/storage/tables/toc.json (2025-01-15T23:02:00Z)
+        Transfer data:
+            ☐ AzCopy on Windows (v8) https://learn.microsoft.com/previous-versions/azure/storage/storage-use-azcopy (2024-04-23T22:34:00Z)
+            ☐ AzCopy on Linux (v8) https://learn.microsoft.com/previous-versions/azure/storage/storage-use-azcopy-linux (2025-04-10T22:33:00Z)
+        Troubleshoot:
+            ☐ Performance https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-storage-performance (2024-04-09T09:02:00Z)
+            ☐ Availability https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-storage-availability (2024-07-30T09:02:00Z)
+            ☐ Client errors https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-storage-client-application-errors (2024-04-09T09:02:00Z)
+            ☐ Latency issues https://learn.microsoft.com/troubleshoot/azure/azure-storage/troubleshoot-latency-storage-analytics-logs (2024-04-09T09:02:00Z)
+    Resources:
+        ☐ Azure updates https://azure.microsoft.com/updates/?product=storage
+        ☐ Table storage on Microsoft Q&A https://learn.microsoft.com/answers/topics/azure-table-storage.html
+        ☐ Table storage on Stack Overflow https://stackoverflow.com/questions/tagged/azure-table-storage
+        ☐ Pricing for Table storage https://azure.microsoft.com/pricing/details/storage/tables/
+        ☐ Azure pricing calculator https://azure.microsoft.com/pricing/calculator/
+    Reference:
+        APIs for data access:
+            ☐ REST API https://learn.microsoft.com/rest/api/storageservices/table-service-rest-api (2023-06-27T21:44:00Z)
+            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/storage (2025-05-14T11:43:00Z)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage (2025-05-14T11:08:00Z)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage (2025-05-14T11:09:00Z)
+        APIs for resource management:
+            ☐ REST API https://learn.microsoft.com/rest/api/storagerp/ (2025-03-11T22:09:00Z)
+            ☐ .NET SDK https://learn.microsoft.com/dotnet/api/overview/azure/resourcemanager.storage-readme (2025-05-01T11:35:00Z)
+            ☐ Python SDK https://learn.microsoft.com/python/api/overview/azure/storage#management (2025-05-14T11:08:00Z)
+            ☐ JavaScript SDK https://learn.microsoft.com/javascript/api/overview/azure/storage#management (2025-05-14T11:09:00Z)
+        ☐ Monitoring Table Storage data reference https://learn.microsoft.com/en-us/azure/storage/tables/monitor-table-storage-reference (2024-08-20T05:41:00Z)
+        Scalability and performance targets:
+            ☐ Table storage https://learn.microsoft.com/en-us/azure/storage/tables/scalability-targets (2025-05-03T05:16:00Z)
+            ☐ Standard storage accounts https://learn.microsoft.com/en-us/azure/storage/common/scalability-targets-standard-account?toc=/azure/storage/tables/toc.json (2025-05-03T05:16:00Z)
+            ☐ Storage resource provider https://learn.microsoft.com/en-us/azure/storage/common/scalability-targets-resource-provider?toc=/azure/storage/tables/toc.json (2025-05-03T05:16:00Z)
+        ☐ Table storage REST APIs https://learn.microsoft.com/rest/api/storageservices/table-service-rest-api (2023-06-27T21:44:00Z)
+

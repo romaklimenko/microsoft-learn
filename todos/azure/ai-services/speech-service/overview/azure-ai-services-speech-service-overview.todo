@@ -1,0 +1,265 @@
+What is the Speech service? - Azure AI services | Microsoft Learn:
+    ☐ Speech service documentation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/ (2025-03-09T11:08:00Z)
+    Overview:
+        ☐ Speech service overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/overview (2025-03-09T11:08:00Z)
+        ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/speech-service/releasenotes (2025-05-07T05:20:00Z)
+        ☐ Language and voice support https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support (2025-05-04T05:14:00Z)
+        ☐ Region support https://learn.microsoft.com/en-us/azure/ai-services/speech-service/regions (2025-04-17T11:07:00Z)
+        ☐ Pricing https://azure.microsoft.com/pricing/details/cognitive-services/speech-services/
+        ☐ Quotas and limits https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-services-quotas-and-limits (2025-04-16T22:15:00Z)
+        ☐ Speech Studio https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-studio-overview (2025-03-09T11:08:00Z)
+    Speech to text:
+        ☐ Speech to text documentation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/index-speech-to-text (2025-03-09 11:08 AM)
+        ☐ Speech to text overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-to-text (2025-03-09T11:08:00Z)
+        ☐ Speech to text quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-to-text (2025-03-12T22:01:00Z)
+        Real-time speech to text:
+            ☐ How to recognize speech https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-recognize-speech (2025-01-16T05:32:00Z)
+            ☐ Get speech recognition results https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-speech-recognition-results (2025-03-09T11:08:00Z)
+            ☐ Real-time diarization quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-stt-diarization (2025-03-09T11:08:00Z)
+        ☐ Fast transcription API https://learn.microsoft.com/en-us/azure/ai-services/speech-service/fast-transcription-create (2025-05-04T05:14:00Z)
+        Batch transcription API:
+            ☐ Batch transcription overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription (2025-03-09T11:08:00Z)
+            ☐ Part 1: Locate audio files in storage https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription-audio-data (2025-04-14T19:46:00Z)
+            ☐ Part 2: Create a batch transcription https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription-create (2025-04-10T17:00:00Z)
+            ☐ Part 3: Get batch transcription results https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-transcription-get (2025-03-09T11:08:00Z)
+            ☐ Power automate batch transcription https://learn.microsoft.com/en-us/azure/ai-services/speech-service/power-automate-batch-transcription (2025-03-09T11:08:00Z)
+        Custom speech:
+            ☐ Custom speech overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-speech-overview (2025-02-26T23:00:00Z)
+            Fine-tune for custom speech:
+                ☐ Part 1: Create a project https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-create-project (2025-04-14T22:02:00Z)
+                ☐ Part 2: Upload training and testing datasets https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-upload-data (2025-02-26T23:00:00Z)
+                ☐ Part 3: Train a model https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-train-model (2025-02-26T23:00:00Z)
+                ☐ Part 4: Test recognition quality https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-inspect-data (2025-02-26T23:00:00Z)
+                ☐ Part 5: Test model quantitatively https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-evaluate-data (2025-02-26T23:00:00Z)
+                ☐ Part 6: Deploy a model https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-deploy-model (2025-02-26T23:00:00Z)
+            Custom speech datasets:
+                ☐ Training and testing datasets https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-test-and-train (2025-02-26T23:00:00Z)
+                ☐ Human-labeled transcripts with audio https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-human-labeled-transcriptions (2025-02-26T23:00:00Z)
+                ☐ Structured text phonetic pronunciation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/customize-pronunciation (2025-03-09T11:08:00Z)
+                ☐ Online transcription editor https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-transcription-editor (2025-02-26T23:00:00Z)
+                ☐ Display text format training data https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-display-text-format (2025-02-26T23:00:00Z)
+            ☐ Custom speech model lifecycle https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-speech-model-and-endpoint-lifecycle (2025-02-26T23:00:00Z)
+        ☐ How to use Pronunciation Assessment https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-pronunciation-assessment (2025-04-08T17:05:00Z)
+        ☐ Improve recognition with phrase list https://learn.microsoft.com/en-us/azure/ai-services/speech-service/improve-accuracy-phrase-list (2025-03-09T11:08:00Z)
+        ☐ Display text formatting https://learn.microsoft.com/en-us/azure/ai-services/speech-service/display-text-format (2025-03-09T11:08:00Z)
+        ☐ Whisper model from OpenAI https://learn.microsoft.com/en-us/azure/ai-services/speech-service/whisper-overview (2025-02-28T05:33:00Z)
+        ☐ Speech to text FAQ https://learn.microsoft.com/en-us/azure/ai-services/speech-service/faq-stt (2025-03-09T11:08:00Z)
+    Text to speech:
+        ☐ Text to speech documentation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/index-text-to-speech (2025-03-09 11:08 AM)
+        ☐ Text to speech overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech (2025-03-09T11:08:00Z)
+        ☐ Text to speech quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-text-to-speech (2025-03-09T11:08:00Z)
+        ☐ How to synthesize speech https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-speech-synthesis (2025-03-09T11:08:00Z)
+        Batch synthesis:
+            ☐ Use batch synthesis for text to speech https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-synthesis (2025-03-09T11:08:00Z)
+            ☐ Batch synthesis properties https://learn.microsoft.com/en-us/azure/ai-services/speech-service/batch-synthesis-properties (2025-03-09T11:08:00Z)
+        Improve synthesis with SSML:
+            ☐ SSML overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-synthesis-markup (2025-03-09T11:08:00Z)
+            ☐ SSML document structure and events https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-synthesis-markup-structure (2025-03-09T11:08:00Z)
+            ☐ Voice and sound with SSML https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-synthesis-markup-voice (2025-04-09T22:01:00Z)
+            ☐ Pronunciation with SSML https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-synthesis-markup-pronunciation (2025-03-11T17:05:00Z)
+            ☐ SSML phonetic sets https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-ssml-phonetic-sets (2025-03-09T11:08:00Z)
+        ☐ Lower speech synthesis latency https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-lower-speech-synthesis-latency (2025-04-16T11:12:00Z)
+        ☐ Get facial position with viseme https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-speech-synthesis-viseme (2025-03-09T11:08:00Z)
+        ☐ Use high definition (HD) voices https://learn.microsoft.com/en-us/azure/ai-services/speech-service/high-definition-voices (2025-04-17T11:07:00Z)
+        Custom neural voice:
+            ☐ Custom neural voice overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-neural-voice (2025-03-09T11:08:00Z)
+            Create a professional voice:
+                Prerequisites for professional voice:
+                    ☐ Prepare training data https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-custom-voice-training-data (2025-03-09T11:08:00Z)
+                    ☐ Record voice samples https://learn.microsoft.com/en-us/azure/ai-services/speech-service/record-custom-voice-samples (2025-03-09T11:08:00Z)
+                ☐ Part 1: Create a professional voice project https://learn.microsoft.com/en-us/azure/ai-services/speech-service/professional-voice-create-project (2025-03-09T11:08:00Z)
+                ☐ Part 2: Add voice talent consent to your project https://learn.microsoft.com/en-us/azure/ai-services/speech-service/professional-voice-create-consent (2025-03-09T11:08:00Z)
+                ☐ Part 3: Add training datasets https://learn.microsoft.com/en-us/azure/ai-services/speech-service/professional-voice-create-training-set (2025-03-09T11:08:00Z)
+                ☐ Part 4: Train your voice model https://learn.microsoft.com/en-us/azure/ai-services/speech-service/professional-voice-train-voice (2025-03-09T11:08:00Z)
+                ☐ Part 5: Deploy and use your voice model https://learn.microsoft.com/en-us/azure/ai-services/speech-service/professional-voice-deploy-endpoint (2025-03-09T11:08:00Z)
+            ☐ Custom neural voice lite https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-neural-voice-lite (2025-05-12T17:02:00Z)
+            Personal voice:
+                ☐ Personal voice overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/personal-voice-overview (2025-03-09T11:08:00Z)
+                ☐ Part 1: Create a personal voice project https://learn.microsoft.com/en-us/azure/ai-services/speech-service/personal-voice-create-project (2025-03-09T11:08:00Z)
+                ☐ Part 2: Add user consent to your project https://learn.microsoft.com/en-us/azure/ai-services/speech-service/personal-voice-create-consent (2025-03-09T11:08:00Z)
+                ☐ Part 3: Get a speaker profile ID https://learn.microsoft.com/en-us/azure/ai-services/speech-service/personal-voice-create-voice (2025-03-09T11:08:00Z)
+                ☐ Part 4: Use personal voice in your application https://learn.microsoft.com/en-us/azure/ai-services/speech-service/personal-voice-how-to-use (2025-03-09T11:08:00Z)
+        Text to speech avatar:
+            ☐ Text to speech avatar overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-text-to-speech-avatar (2025-01-14T05:31:00Z)
+            ☐ Content credentials https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/content-credentials (2025-01-14T05:31:00Z)
+            How to synthesize text to speech avatar:
+                ☐ Real-time synthesis https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/real-time-synthesis-avatar (2025-04-14T17:06:00Z)
+                Batch synthesis:
+                    ☐ Use batch synthesis for avatar https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/batch-synthesis-avatar (2025-01-14T05:31:00Z)
+                    ☐ Batch synthesis properties https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/batch-synthesis-avatar-properties (2025-01-14T05:31:00Z)
+                ☐ Customize avatar gestures with SSML https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/avatar-gestures-with-ssml (2025-01-14T05:31:00Z)
+            Custom text to speech avatar:
+                ☐ Custom text to speech avatar overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/what-is-custom-text-to-speech-avatar (2025-01-14T05:31:00Z)
+                ☐ Create a custom text to speech avatar https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/custom-avatar-create (2025-02-20T05:31:00Z)
+                ☐ How to record video samples https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/custom-avatar-record-video-samples (2025-01-14T05:31:00Z)
+                ☐ Deploy your custom text to speech avatar model as an endpoint https://learn.microsoft.com/en-us/azure/ai-services/speech-service/text-to-speech-avatar/custom-avatar-endpoint (2025-01-14T05:31:00Z)
+        ☐ Audio content creation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-audio-content-creation (2025-04-07T22:00:00Z)
+        ☐ OpenAI text to speech voices https://learn.microsoft.com/en-us/azure/ai-services/speech-service/openai-voices (2025-04-15T22:15:00Z)
+        ☐ Text to speech FAQ https://learn.microsoft.com/en-us/azure/ai-services/speech-service/faq-tts (2025-03-09T11:08:00Z)
+    Speech translation:
+        Real-time speech translation:
+            ☐ Speech translation overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-translation (2025-03-09T11:08:00Z)
+            ☐ Speech translation quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-speech-translation (2025-03-09T11:08:00Z)
+            ☐ How to recognize and translate speech https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-translate-speech (2025-03-09T11:08:00Z)
+        Video translation (preview):
+            ☐ Video translation overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/video-translation-overview (2025-04-16T05:11:00Z)
+            ☐ How to use video translation https://learn.microsoft.com/en-us/azure/ai-services/speech-service/video-translation-get-started (2025-04-16T05:11:00Z)
+    Intent recognition:
+        ☐ Intent recognition overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/intent-recognition (2025-03-09T11:08:00Z)
+        ☐ Pattern matching concepts https://learn.microsoft.com/en-us/azure/ai-services/speech-service/pattern-matching-overview (2025-03-09T11:08:00Z)
+        ☐ Intent recognition with simple pattern matching quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-use-simple-language-pattern-matching (2025-03-09T11:08:00Z)
+        ☐ Intent recognition with custom entity pattern matching https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-use-custom-entity-pattern-matching (2025-03-09T11:08:00Z)
+        ☐ Intent recognition with CLU quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-intent-recognition-clu (2025-03-09T11:08:00Z)
+        ☐ Recognize speech intents with LUIS (deprecated) https://learn.microsoft.com/en-us/azure/ai-services/speech-service/get-started-intent-recognition (2025-03-09T11:08:00Z)
+    Keyword recognition:
+        ☐ Keyword recognition overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/keyword-recognition-overview (2025-03-09T11:08:00Z)
+        ☐ Custom keyword quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-keyword-basics (2025-03-09T11:08:00Z)
+        ☐ Recommendations and guidelines https://learn.microsoft.com/en-us/azure/ai-services/speech-service/keyword-recognition-guidelines (2025-03-09T11:08:00Z)
+    Scenario guides:
+        Captioning:
+            ☐ Captioning with speech to text https://learn.microsoft.com/en-us/azure/ai-services/speech-service/captioning-concepts (2025-03-09T11:08:00Z)
+            ☐ Captioning quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/captioning-quickstart (2025-03-09T11:08:00Z)
+        Call Center:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/call-center-overview (2025-03-09T11:08:00Z)
+            ☐ Post-call transcription and analytics quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/call-center-quickstart (2025-03-09T11:08:00Z)
+            ☐ Ingestion Client https://learn.microsoft.com/en-us/azure/ai-services/speech-service/ingestion-client (2025-03-09T11:08:00Z)
+            ☐ Telephony Integration https://learn.microsoft.com/en-us/azure/ai-services/speech-service/call-center-telephony-integration (2025-03-09T11:08:00Z)
+            ☐ Connect Azure Communication Services with Azure AI services https://learn.microsoft.com/azure/communication-services/concepts/call-automation/azure-communication-services-azure-cognitive-services-integration?context=/azure/ai-services/speech-service/context/context (2024-12-30T23:05:00Z)
+        ☐ Gaming integration https://learn.microsoft.com/en-us/azure/ai-services/speech-service/gaming-concepts (2025-03-09T11:08:00Z)
+        ☐ Language identification https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-identification (2025-03-21T05:33:00Z)
+        Language learning:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-learning-overview (2025-03-09T11:08:00Z)
+            Pronunciation Assessment with speech to text:
+                ☐ Reading and speaking assessment in Azure AI Foundry https://learn.microsoft.com/en-us/azure/ai-services/speech-service/pronunciation-assessment-tool (2025-03-09T11:08:00Z)
+                ☐ Interactive language learning with pronunciation assessment https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-learning-with-pronunciation-assessment (2025-03-09T11:08:00Z)
+        ☐ Azure OpenAI speech to speech chat https://learn.microsoft.com/en-us/azure/ai-services/speech-service/openai-speech (2025-03-09T11:08:00Z)
+        Multi-device conversation:
+            ☐ Multi-device conversation overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/multi-device-conversation (2025-04-03T17:02:00Z)
+            ☐ Multi-device conversation quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/quickstarts/multi-device-conversation (2025-01-15T23:02:00Z)
+        Voice assistants:
+            ☐ Voice assistants overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/voice-assistants (2025-03-09T11:08:00Z)
+            ☐ Custom commands https://learn.microsoft.com/en-us/azure/ai-services/speech-service/custom-commands (2025-03-09T11:08:00Z)
+        ☐ Speaker recognition https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speaker-recognition-overview (2025-03-09T11:08:00Z)
+    Infrastructure & security:
+        Access control and authentication:
+            ☐ Role-based access with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/ai-services/speech-service/role-based-access-control (2025-04-15T22:02:00Z)
+            ☐ Use Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-configure-azure-ad-auth (2025-03-21T05:33:00Z)
+        Audio configuration:
+            ☐ Audio concepts https://learn.microsoft.com/en-us/azure/ai-services/speech-service/concepts/audio-concepts (2025-04-28T05:10:00Z)
+            ☐ How to use the audio input stream https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-use-audio-input-streams (2025-03-09T11:08:00Z)
+            ☐ How to use compressed input audio https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-use-codec-compressed-audio-input-streams (2025-03-09T11:08:00Z)
+            ☐ Select a specific microphone input device https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-select-audio-input-devices (2025-03-10T17:03:00Z)
+        Containers:
+            ☐ Speech containers overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-overview (2025-04-28T05:10:00Z)
+            Get started with speech containers:
+                ☐ Install and run speech containers https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-howto (2025-03-09T11:08:00Z)
+                ☐ Speech to text containers https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-stt (2025-04-28T05:10:00Z)
+                ☐ Custom speech to text containers https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-cstt (2025-04-28T05:10:00Z)
+                ☐ Text to speech containers https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-ntts (2025-04-28T05:10:00Z)
+                ☐ Language identification containers https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-lid (2025-04-28T05:10:00Z)
+            ☐ Configure speech containers https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-configuration (2025-03-09T11:08:00Z)
+            ☐ Batch processing with speech containers https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-batch-processing (2025-04-30T17:05:00Z)
+            ☐ Speech containers with Kubernetes and Helm https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-howto-on-premises (2025-04-17T22:02:00Z)
+            ☐ Speech containers on Azure container instances https://learn.microsoft.com/en-us/azure/ai-services/containers/azure-container-instance-recipe?context=/azure/ai-services/speech-service/context/context (2025-03-24T05:37:00Z)
+            ☐ Containers FAQ https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-container-faq (2025-04-17T11:07:00Z)
+        Devices:
+            ☐ Devices overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-devices (2025-03-09T11:08:00Z)
+            ☐ Audio processing https://learn.microsoft.com/en-us/azure/ai-services/speech-service/audio-processing-overview (2025-03-09T11:08:00Z)
+            ☐ Use the Microsoft Audio Stack (MAS) https://learn.microsoft.com/en-us/azure/ai-services/speech-service/audio-processing-speech-sdk (2025-03-21T05:33:00Z)
+            ☐ Microphone array recommendations https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-sdk-microphone (2025-03-09T11:08:00Z)
+        Embedded speech:
+            ☐ Embedded speech overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/embedded-speech (2025-03-21T05:33:00Z)
+            ☐ Evaluate performance of embedded speech https://learn.microsoft.com/en-us/azure/ai-services/speech-service/embedded-speech-performance-evaluations (2025-03-09T11:08:00Z)
+        Endpoint connections:
+            ☐ Enable private endpoint https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-services-private-link (2025-04-03T17:02:00Z)
+            ☐ Enable VNet service endpoint https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-service-vnet-service-endpoint (2025-03-09T11:08:00Z)
+            ☐ Control and monitor connection status https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-control-connections (2025-03-09T11:08:00Z)
+            ☐ Configure OpenSSL for Linux https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-configure-openssl-linux (2025-03-09T11:08:00Z)
+            ☐ Set up Virtual Networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/speech-service/context/context (2025-03-24T05:37:00Z)
+        ☐ Sovereign Clouds https://learn.microsoft.com/en-us/azure/ai-services/speech-service/sovereign-clouds (2025-03-21T05:33:00Z)
+        Storage and backup:
+            Bring your own storage (BYOS):
+                ☐ Set up BYOS Speech resource https://learn.microsoft.com/en-us/azure/ai-services/speech-service/bring-your-own-storage-speech-resource (2025-03-09T11:08:00Z)
+                ☐ Use BYOS Speech resource for Speech to text https://learn.microsoft.com/en-us/azure/ai-services/speech-service/bring-your-own-storage-speech-resource-speech-to-text (2025-03-09T11:08:00Z)
+            ☐ Use customer-managed keys https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-encryption-of-data-at-rest (2025-03-09T11:08:00Z)
+            ☐ How to back up and recover speech customization resources https://learn.microsoft.com/en-us/azure/ai-services/speech-service/resiliency-and-recovery-plan (2025-03-09T11:08:00Z)
+        Migration:
+            Neural voice migration:
+                ☐ Migration overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migration-overview-neural-voice (2025-03-09T11:08:00Z)
+                ☐ Migrate to custom neural voice https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-migrate-to-custom-neural-voice (2025-03-09T11:08:00Z)
+                ☐ Migrate to prebuilt neural voice https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-migrate-to-prebuilt-neural-voice (2025-03-09T11:08:00Z)
+                ☐ Migrate to custom voice API https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migrate-to-custom-voice-api (2025-03-09T11:08:00Z)
+            Speech to text REST API migration:
+                ☐ From Speech to text v3.2 to 2024-11-15 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migrate-2024-11-15 (2025-05-11T05:12:00Z)
+                ☐ From Speech to text v3.1 to v3.2 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migrate-v3-1-to-v3-2 (2025-05-11T05:12:00Z)
+                ☐ From Speech to text v3.0 to v3.1 https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migrate-v3-0-to-v3-1 (2025-05-11T05:12:00Z)
+            ☐ From Long Audio API to Batch synthesis API https://learn.microsoft.com/en-us/azure/ai-services/speech-service/migrate-to-batch-synthesis (2025-03-09T11:08:00Z)
+    Speech CLI:
+        ☐ Speech CLI overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/spx-overview (2025-03-09T11:08:00Z)
+        ☐ Speech CLI quickstart https://learn.microsoft.com/en-us/azure/ai-services/speech-service/spx-basics (2025-03-09T11:08:00Z)
+        ☐ Configure the datastore https://learn.microsoft.com/en-us/azure/ai-services/speech-service/spx-data-store-configuration (2025-03-09T11:08:00Z)
+        ☐ Configure output options https://learn.microsoft.com/en-us/azure/ai-services/speech-service/spx-output-options (2025-03-09T11:08:00Z)
+        ☐ Run batch operations https://learn.microsoft.com/en-us/azure/ai-services/speech-service/spx-batch-operations (2025-03-09T11:08:00Z)
+    Speech SDK:
+        ☐ Speech SDK overview https://learn.microsoft.com/en-us/azure/ai-services/speech-service/speech-sdk (2025-03-13T05:31:00Z)
+        ☐ Install the Speech SDK https://learn.microsoft.com/en-us/azure/ai-services/speech-service/quickstarts/setup-platform (2025-03-13T05:31:00Z)
+        Logs and diagnostics:
+            ☐ Enable logs in SDK https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-use-logging (2025-03-21T05:33:00Z)
+            ☐ Log audio and transcriptions https://learn.microsoft.com/en-us/azure/ai-services/speech-service/logging-audio-transcription (2025-03-09T11:08:00Z)
+            ☐ Troubleshoot the Speech SDK https://learn.microsoft.com/en-us/azure/ai-services/speech-service/troubleshooting (2025-03-09T11:08:00Z)
+            ☐ Get Speech to text Session ID https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-get-speech-session-id (2025-03-26T11:11:00Z)
+            ☐ Track memory usage https://learn.microsoft.com/en-us/azure/ai-services/speech-service/how-to-track-speech-sdk-memory-usage (2025-03-09T11:08:00Z)
+        ☐ Generate a REST API client library https://learn.microsoft.com/en-us/azure/ai-services/speech-service/swagger-documentation (2025-03-09T11:08:00Z)
+    Reference:
+        SDK reference:
+            ☐ C++ https://learn.microsoft.com/cpp/cognitive-services/speech/ (2024-06-13T23:16:00Z)
+            ☐ C# https://learn.microsoft.com/dotnet/api/microsoft.cognitiveservices.speech (2018-05-07T13:24:00Z)
+            ☐ Go https://pkg.go.dev/github.com/Microsoft/cognitive-services-speech-sdk-go
+            ☐ JavaScript https://learn.microsoft.com/javascript/api/microsoft-cognitiveservices-speech-sdk/ (2025-03-27T11:08:00Z)
+            ☐ Objective-C https://learn.microsoft.com/objectivec/cognitive-services/speech/ (2025-03-22T02:59:00Z)
+            ☐ Python https://learn.microsoft.com/python/api/azure-cognitiveservices-speech/ (2025-03-27T11:06:00Z)
+        REST API reference:
+            ☐ Speech to text REST API https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-speech-to-text (2025-05-11T05:12:00Z)
+            ☐ Speech to text REST API for short audio https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-speech-to-text-short (2025-03-10T17:03:00Z)
+            ☐ Text to speech REST API https://learn.microsoft.com/en-us/azure/ai-services/speech-service/rest-text-to-speech (2025-03-09T11:08:00Z)
+            ☐ Custom voice REST API https://learn.microsoft.com/rest/api/aiservices/speechapi/operation-groups (2024-07-30T22:00:00Z)
+            ☐ Batch synthesis REST API https://learn.microsoft.com/rest/api/batchtexttospeech/operation-groups (2024-07-30T22:00:00Z)
+            ☐ Batch avatar REST API https://learn.microsoft.com/rest/api/batchavatar/operation-groups (2024-08-12T18:27:00Z)
+    Responsible AI:
+        Speech to text:
+            ☐ Transparency note https://learn.microsoft.com/legal/cognitive-services/speech-service/speech-to-text/transparency-note?context=/azure/ai-services/speech-service/context/context (2024-12-18T19:02:00Z)
+            ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/speech-service/speech-to-text/data-privacy-security?context=/azure/ai-services/speech-service/context/context (2024-07-17T17:30:00Z)
+        Text to speech:
+            ☐ Transparency note https://learn.microsoft.com/legal/cognitive-services/speech-service/text-to-speech/transparency-note?context=/azure/ai-services/speech-service/context/context (2025-03-24T17:36:00Z)
+            ☐ Code of conduct https://learn.microsoft.com/legal/ai-code-of-conduct?context=/azure/ai-services/speech-service/context/context (2025-04-01T17:31:00Z)
+            ☐ Limited access https://learn.microsoft.com/legal/cognitive-services/speech-service/custom-neural-voice/limited-access-custom-neural-voice?context=/azure/ai-services/speech-service/context/context (2025-03-24T17:36:00Z)
+            ☐ Disclosure for voice and avatar talent https://learn.microsoft.com/legal/cognitive-services/speech-service/disclosure-voice-talent?context=/azure/ai-services/speech-service/context/context (2025-01-14T23:32:00Z)
+            Disclosure design guidelines:
+                ☐ Custom neural voice https://learn.microsoft.com/legal/cognitive-services/speech-service/custom-neural-voice/concepts-disclosure-guidelines?context=/azure/ai-services/speech-service/context/context (2024-07-17T17:30:00Z)
+                ☐ Text to speech avatar https://learn.microsoft.com/legal/cognitive-services/speech-service/custom-neural-voice/concepts-disclosure-guidelines-avatar?context=/azure/ai-services/speech-service/context/context (2024-07-17T17:30:00Z)
+            Disclosure design patterns:
+                ☐ Custom neural voice https://learn.microsoft.com/legal/cognitive-services/speech-service/custom-neural-voice/concepts-disclosure-patterns?context=/azure/ai-services/speech-service/context/context (2024-07-17T17:30:00Z)
+                ☐ Text to speech avatar https://learn.microsoft.com/legal/cognitive-services/speech-service/custom-neural-voice/concepts-disclosure-patterns-avatar?context=/azure/ai-services/speech-service/context/context (2024-07-17T17:30:00Z)
+            ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/speech-service/custom-neural-voice/data-privacy-security-custom-neural-voice?context=/azure/ai-services/speech-service/context/context (2025-01-13T18:33:00Z)
+        Pronunciation Assessment:
+            Transparency Note:
+                ☐ Use cases for Pronunciation Assessment https://learn.microsoft.com/legal/cognitive-services/speech-service/pronunciation-assessment/transparency-note-pronunciation-assessment?context=/azure/ai-services/speech-service/context/context (2025-03-10T17:31:00Z)
+                ☐ Characteristics and limitations https://learn.microsoft.com/legal/cognitive-services/speech-service/pronunciation-assessment/characteristics-and-limitations-pronunciation-assessment?context=/azure/ai-services/speech-service/context/context (2024-07-17T17:30:00Z)
+        ☐ Embedded speech https://learn.microsoft.com/legal/cognitive-services/speech-service/embedded-speech/limited-access-embedded-speech?context=/azure/ai-services/speech-service/context/context (2024-07-17T17:30:00Z)
+        Speaker Recognition:
+            Transparency note:
+                ☐ Use cases for Speaker Recognition https://learn.microsoft.com/legal/cognitive-services/speech-service/speaker-recognition/transparency-note-speaker-recognition?context=/azure/ai-services/speech-service/context/context (2024-12-18T19:02:00Z)
+                ☐ Characteristics and limitations https://learn.microsoft.com/legal/cognitive-services/speech-service/speaker-recognition/characteristics-and-limitations-speaker-recognition?context=/azure/ai-services/speech-service/context/context (2024-07-17T17:30:00Z)
+            Integration and responsible use:
+                ☐ Limited access https://learn.microsoft.com/legal/cognitive-services/speech-service/speaker-recognition/limited-access-speaker-recognition?context=/azure/ai-services/speech-service/context/context (2024-07-17T17:30:00Z)
+                ☐ General guidelines https://learn.microsoft.com/legal/cognitive-services/speech-service/speaker-recognition/guidance-integration-responsible-use-speaker-recognition?context=/azure/ai-services/speech-service/context/context (2024-07-17T17:30:00Z)
+            ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/speech-service/speaker-recognition/data-privacy-speaker-recognition?context=/azure/ai-services/speech-service/context/context (2024-07-17T17:30:00Z)
+    Resources:
+        ☐ Support and help options https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-support-options?context=/azure/ai-services/speech-service/context/context (2025-05-02T22:14:00Z)
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/#cognitive-services
+        ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-cognitive-services&terms=speech (2025-03-03T18:01:00Z)
+        ☐ Azure roadmap https://azure.microsoft.com/roadmap/?category=ai-machine-learning
+        ☐ Azure products by region https://azure.microsoft.com/global-infrastructure/services/?products=cognitive-services
+        ☐ Compliance and certification https://azure.microsoft.com/support/legal/cognitive-services-compliance-and-privacy/
+        ☐ Privacy and cookies https://privacy.microsoft.com/privacystatement
+

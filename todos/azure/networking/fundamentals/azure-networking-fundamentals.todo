@@ -1,0 +1,92 @@
+Azure Networking Fundamentals Documentation | Microsoft Learn:
+    ☐ Networking Fundamentals documentation https://learn.microsoft.com/en-us/azure/networking/fundamentals/ (2025-04-10 05:09 AM)
+    Overview:
+        ☐ About Azure Networking https://learn.microsoft.com/en-us/azure/networking/fundamentals/networking-overview (2025-05-09T22:02:00Z)
+    Quickstarts:
+        ☐ Create a virtual network https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-portal?toc=/azure/networking/fundamentals/toc.json (2025-04-23T22:04:00Z)
+        ☐ Create a public load balancer https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?toc=/azure/networking/fundamentals/toc.json (2024-11-22T05:58:00Z)
+        ☐ Create a front door https://learn.microsoft.com/en-us/azure/frontdoor/create-front-door-portal?toc=/azure/networking/fundamentals/toc.json (2025-05-12T22:03:00Z)
+    Tutorials:
+        ☐ Deploy and manage a VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal?toc=/azure/networking/fundamentals/toc.json (2025-03-12T22:03:00Z)
+        ☐ Restrict network access https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources?toc=/azure/networking/fundamentals/toc.json (2025-02-26T23:03:00Z)
+        ☐ Deploy and configure Azure Firewall using the Azure portal https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal-policy?toc=/azure/networking/fundamentals/toc.json (2025-02-25T05:34:00Z)
+    Concepts:
+        ☐ Architecture https://learn.microsoft.com/en-us/azure/networking/fundamentals/architecture-guides (2024-12-30T23:05:00Z)
+        Plan and design:
+            ☐ Azure for network engineers https://learn.microsoft.com/en-us/azure/networking/azure-for-network-engineers?toc=/azure/networking/fundamentals/toc.json (2024-08-08T05:34:00Z)
+            ☐ Working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/networking/fundamentals/toc.json (2024-12-30T23:05:00Z)
+            ☐ Virtual networks https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-vnet-plan-design-arm?toc=/azure/networking/fundamentals/toc.json (2025-04-17T22:04:00Z)
+            ☐ Hub-spoke network topology in Azure https://learn.microsoft.com/azure/architecture/reference-architectures/hybrid-networking/hub-spoke?toc=/azure/networking/fundamentals/toc.json (2025-04-17T17:31:00Z)
+            Cross-premises connectivity - VPN:
+                ☐ VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/design?toc=/azure/networking/fundamentals/toc.json (2025-01-24T05:34:00Z)
+                ☐ Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about?toc=/azure/networking/fundamentals/toc.json (2025-03-26T17:06:00Z)
+            ☐ Cross-premises connectivity - dedicated private https://learn.microsoft.com/en-us/azure/expressroute/expressroute-workflows?toc=/azure/networking/fundamentals/toc.json (2025-02-02T12:10:00Z)
+        Microsoft global network:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/networking/microsoft-global-network?toc=/azure/networking/fundamentals/toc.json (2024-09-06T22:05:00Z)
+            ☐ Azure network latency https://learn.microsoft.com/en-us/azure/networking/azure-network-latency?toc=/azure/networking/fundamentals/toc.json (2025-05-05T22:16:00Z)
+            ☐ Internet routing preference in Azure https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/routing-preference-overview?toc=/azure/networking/fundamentals/toc.json (2024-12-31T12:14:00Z)
+        Cloud network connectivity:
+            ☐ Virtual network https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview?toc=/azure/networking/fundamentals/toc.json (2025-04-03T22:05:00Z)
+            ☐ Public IP address https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/public-ip-addresses?toc=/azure/networking/fundamentals/toc.json (2025-04-29T05:40:00Z)
+            ☐ DNS https://learn.microsoft.com/en-us/azure/dns/dns-overview?toc=/azure/networking/fundamentals/toc.json (2024-09-17T22:04:00Z)
+            ☐ Route network traffic https://learn.microsoft.com/en-us/azure/virtual-network/virtual-networks-udr-overview?toc=/azure/networking/fundamentals/toc.json (2025-01-24T05:34:00Z)
+            Connect virtual networks:
+                ☐ Virtual network peering https://learn.microsoft.com/en-us/azure/virtual-network/virtual-network-peering-overview?toc=/azure/networking/fundamentals/toc.json (2025-04-03T22:05:00Z)
+                ☐ Virtual network manager https://learn.microsoft.com/en-us/azure/virtual-network-manager/overview?toc=/azure/networking/fundamentals/toc.json (2025-03-11T17:04:00Z)
+            ☐ Private access to resources https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/fundamentals/toc.json (2025-04-03T17:04:00Z)
+            Connect on-premises to Azure - VPN encryption:
+                ☐ VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways?toc=/azure/networking/fundamentals/toc.json (2025-03-31T22:05:00Z)
+                ☐ Virtual WAN https://learn.microsoft.com/en-us/azure/virtual-wan/virtual-wan-about?toc=/azure/networking/fundamentals/toc.json (2025-03-26T17:06:00Z)
+            ☐ Extend on-premises to Azure - private connection https://learn.microsoft.com/en-us/azure/expressroute/expressroute-connect-azure-to-public-cloud?toc=/azure/networking/fundamentals/toc.json (2024-09-06T05:33:00Z)
+            ☐ Outbound-only internet connectivity https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/nat-overview?toc=/azure/networking/fundamentals/toc.json (2025-04-07T22:02:00Z)
+        Network security:
+            ☐ Network security groups https://learn.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview?toc=/azure/networking/fundamentals/toc.json (2025-04-03T17:04:00Z)
+            ☐ Private Endpoint https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview?toc=/azure/networking/fundamentals/toc.json (2025-04-03T17:04:00Z)
+            ☐ Azure Firewall https://learn.microsoft.com/en-us/azure/firewall/overview?toc=/azure/networking/fundamentals/toc.json (2025-03-26T05:33:00Z)
+            ☐ Azure Firewall Manager https://learn.microsoft.com/en-us/azure/firewall-manager/overview?toc=/azure/networking/fundamentals/toc.json (2025-02-24T23:03:00Z)
+            ☐ DDoS protection https://learn.microsoft.com/en-us/azure/ddos-protection/ddos-protection-overview?toc=/azure/networking/fundamentals/toc.json (2025-03-26T17:06:00Z)
+            ☐ Web Application Firewall https://learn.microsoft.com/en-us/azure/web-application-firewall/overview?toc=/azure/networking/fundamentals/toc.json (2025-02-03T18:09:00Z)
+            ☐ Azure Bastion https://learn.microsoft.com/en-us/azure/bastion/bastion-overview?toc=/azure/networking/fundamentals/toc.json (2025-03-14T22:03:00Z)
+            ☐ Security controls by Azure Policy https://learn.microsoft.com/en-us/azure/networking/security-controls-policy (2024-08-08T05:34:00Z)
+        Scalable application delivery:
+            ☐ Load balancing options in Azure https://learn.microsoft.com/azure/architecture/guide/technology-choices/load-balancing-overview?toc=/azure/networking/fundamentals/toc.json (2025-04-17T17:31:00Z)
+            ☐ Network load balancer https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-overview?toc=/azure/networking/fundamentals/toc.json (2025-03-20T22:03:00Z)
+            ☐ Secure cloud CDN and global load balancer https://learn.microsoft.com/en-us/azure/frontdoor/front-door-overview?toc=/azure/networking/fundamentals/toc.json (2025-03-12T05:33:00Z)
+            ☐ Web application load balancer https://learn.microsoft.com/en-us/azure/application-gateway/overview?toc=/azure/networking/fundamentals/toc.json (2024-12-10T23:02:00Z)
+            ☐ Dns-based load balancer https://learn.microsoft.com/en-us/azure/traffic-manager/traffic-manager-overview?toc=/azure/networking/fundamentals/toc.json (2024-11-21T23:02:00Z)
+        Network monitoring:
+            ☐ Network Watcher https://learn.microsoft.com/en-us/azure/network-watcher/network-watcher-overview?toc=/azure/networking/fundamentals/toc.json (2025-04-18T22:07:00Z)
+            ☐ Network insights https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-overview?toc=/azure/networking/fundamentals/toc.json (2025-03-11T22:03:00Z)
+    How-to guides:
+        Create and connect to cloud networks:
+            ☐ Create a virtual network https://learn.microsoft.com/en-us/azure/virtual-network/quick-create-portal?toc=/azure/networking/fundamentals/toc.json (2025-04-23T22:04:00Z)
+            ☐ Create a public IP address https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/create-public-ip-portal?toc=/azure/networking/fundamentals/toc.json (2025-01-08T18:02:00Z)
+            ☐ Optimize routing costs https://learn.microsoft.com/en-us/azure/virtual-network/ip-services/routing-preference-portal?toc=/azure/networking/fundamentals/toc.json (2024-12-12T23:04:00Z)
+            ☐ Create a NAT gateway for outbound connection https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/quickstart-create-nat-gateway-portal?toc=/azure/networking/fundamentals/toc.json (2025-05-01T18:07:00Z)
+            ☐ Create an Azure DNS zone and record https://learn.microsoft.com/en-us/azure/dns/dns-getstarted-portal?toc=/azure/networking/fundamentals/toc.json (2024-08-02T17:06:00Z)
+            ☐ Route traffic using route tables https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-create-route-table-portal?toc=/azure/networking/fundamentals/toc.json (2025-02-21T12:12:00Z)
+            Connect virtual networks:
+                ☐ Connect virtual networks with peering https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-connect-virtual-networks-portal?toc=/azure/networking/fundamentals/toc.json (2024-11-20T23:04:00Z)
+                ☐ Create a hub and spoke topology with Virtual Network Manager https://learn.microsoft.com/en-us/azure/virtual-network-manager/how-to-create-hub-and-spoke?toc=/azure/networking/fundamentals/toc.json (2024-12-11T18:03:00Z)
+            ☐ Private access to resources https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal?toc=/azure/networking/fundamentals/toc.json (2025-03-26T17:06:00Z)
+            ☐ Connect on-premises network to a virtual network - VPN encryption https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal?toc=/azure/networking/fundamentals/toc.json (2025-01-15T23:02:00Z)
+            ☐ Cross-premises connectivity - dedicated https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-circuit-portal-resource-manager?toc=/azure/networking/fundamentals/toc.json (2025-02-25T23:02:00Z)
+        Secure your network:
+            ☐ Restrict network access https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-restrict-network-access-to-resources?toc=/azure/networking/fundamentals/toc.json (2025-02-26T23:03:00Z)
+            ☐ Filter network traffic https://learn.microsoft.com/en-us/azure/virtual-network/tutorial-filter-network-traffic?toc=/azure/networking/fundamentals/toc.json (2025-02-21T12:12:00Z)
+            ☐ Deploy a network firewall https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal?toc=/azure/networking/fundamentals/toc.json (2025-02-25T05:34:00Z)
+            ☐ Protect your network against DDoS attacks https://learn.microsoft.com/en-us/azure/ddos-protection/manage-ddos-protection?toc=/azure/networking/fundamentals/toc.json (2025-03-26T17:06:00Z)
+        Scale your application delivery:
+            ☐ Create a network load balancer https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-portal?toc=/azure/networking/fundamentals/toc.json (2024-11-22T05:58:00Z)
+            ☐ Deploy a secure cloud CDN and global load balancer https://learn.microsoft.com/en-us/azure/frontdoor/quickstart-create-front-door?toc=/azure/networking/fundamentals/toc.json (2025-05-13T05:03:00Z)
+            ☐ Create a web application load balancer https://learn.microsoft.com/en-us/azure/application-gateway/quick-create-portal?toc=/azure/networking/fundamentals/toc.json (2024-09-04T11:18:00Z)
+            ☐ Create a dns-based load balancer https://learn.microsoft.com/en-us/azure/traffic-manager/quickstart-create-traffic-manager-profile?toc=/azure/networking/fundamentals/toc.json (2024-08-04T11:36:00Z)
+        Monitor your network:
+            ☐ Monitor communication between Azure resources https://learn.microsoft.com/en-us/azure/network-watcher/connection-monitor-create-using-portal?toc=/azure/networking/fundamentals/toc.json (2025-01-24T23:02:00Z)
+            ☐ View topology https://learn.microsoft.com/en-us/azure/network-watcher/network-insights-topology?toc=/azure/networking/fundamentals/toc.json (2025-01-15T23:02:00Z)
+            ☐ Azure Resource Graph queries https://learn.microsoft.com/en-us/azure/networking/fundamentals/resource-graph-samples (2024-08-08T05:34:00Z)
+        Troubleshooting:
+            ☐ Troubleshoot Microsoft.Network Failed provisioning state https://learn.microsoft.com/en-us/azure/networking/troubleshoot-failed-state?toc=/azure/networking/fundamentals/toc.json (2024-08-08T05:34:00Z)
+    Resources:
+        ☐ Lumenisity UoS Patents https://learn.microsoft.com/en-us/azure/networking/fundamentals/lumenisity-patent-list (2024-12-30T23:05:00Z)
+

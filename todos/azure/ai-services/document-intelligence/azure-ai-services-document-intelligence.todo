@@ -1,0 +1,149 @@
+Document Intelligence documentation - Quickstarts, Tutorials, API Reference - Azure AI services | Microsoft Learn:
+    ☐ Azure AI Document Intelligence Documentation https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/ (2024-12-11 06:01 PM)
+    Overview:
+        ☐ What is Azure AI Document Intelligence? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/overview (2025-02-06T23:01:00Z)
+        ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/whats-new (2025-04-03T22:03:00Z)
+        ☐ Which model should I choose? https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/choose-model-feature (2025-01-12T12:11:00Z)
+        ☐ Create a Document Intelligence resource https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/create-document-intelligence-resource (2025-04-07T22:00:00Z)
+        ☐ Document Intelligence Studio https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/studio-overview (2025-04-14T22:02:00Z)
+        Language support:
+            ☐ Document analysis models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/ocr?view=doc-intel-4.0.0&preserve-view=true (2024-12-11T18:01:00Z)
+            ☐ Prebuilt models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/prebuilt (2025-01-09T18:00:00Z)
+            ☐ Custom models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/language-support/custom (2024-12-11T18:01:00Z)
+        ☐ Pricing https://azure.microsoft.com/pricing/details/form-recognizer/
+        ☐ Service limits and billing https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/service-limits (2025-04-04T22:01:00Z)
+        Document Intelligence client libraries:
+            ☐ SDK targets: REST API v4.0 2024-11-30 latest (GA) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/sdk-overview-v4-0 (2025-02-11T18:00:00Z)
+            ☐ SDK targets: REST API 2023-7-31 (GA) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/sdk-overview-v3-1 (2025-03-19T20:43:00Z)
+            ☐ SDK targets: REST API 2022-08-31 (GA) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/sdk-overview-v3-0 (2025-03-19T20:43:00Z)
+            ☐ SDK targets: REST API v2.1 (GA) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/sdk-overview-v2-1 (2025-03-19T20:43:00Z)
+        ☐ Changelog and migration guide https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/changelog-release-history (2025-01-30T23:02:00Z)
+        ☐ Frequently asked questions (FAQ) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/faq (2025-04-27T05:14:00Z)
+    Prebuilt models:
+        ☐ Model overview https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/model-overview (2025-03-19T20:43:00Z)
+        ☐ Bank check (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/bank-check (2024-12-11T18:01:00Z)
+        ☐ Bank statement (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/bank-statement (2024-12-11T18:01:00Z)
+        ☐ Business card https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/business-card?view<=doc-intel-3.1.0&preserve-view=true (2024-12-12T05:31:00Z)
+        ☐ Contract https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/contract (2024-12-11T18:01:00Z)
+        ☐ Credit card https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/credit-card (2024-12-11T18:01:00Z)
+        ☐ General document https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/general-document?view<=doc-intel-3.1.0&preserve-view=true (2025-02-28T05:33:00Z)
+        ☐ Health insurance card (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/health-insurance-card (2024-12-11T18:01:00Z)
+        ☐ ID document https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/id-document (2025-02-11T05:32:00Z)
+        ☐ Invoice https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/invoice (2024-12-11T18:01:00Z)
+        ☐ Layout https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/layout (2025-05-05T22:07:00Z)
+        ☐ Marriage certificate (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/marriage-certificate (2024-12-11T18:01:00Z)
+        ☐ Mortgage documents (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/mortgage-documents (2024-12-11T18:01:00Z)
+        ☐ Pay stub https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/pay-stub (2024-12-11T18:01:00Z)
+        ☐ Read https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/read (2025-02-20T23:02:00Z)
+        ☐ Receipt https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/receipt (2025-02-20T23:02:00Z)
+        ☐ Tax documents (US) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/prebuilt/tax-document (2025-01-13T23:00:00Z)
+    Custom models:
+        ☐ Custom model overview https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-model (2025-03-05T23:02:00Z)
+        ☐ Composed models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/composed-models (2025-02-28T05:33:00Z)
+        ☐ Incremental classifier https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/incremental-classifier (2025-02-28T05:33:00Z)
+        ☐ Custom template model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-template (2024-12-12T05:31:00Z)
+        ☐ Custom neural model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-neural (2025-01-15T23:02:00Z)
+        ☐ Custom classification model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-classifier (2025-02-28T05:33:00Z)
+        ☐ Custom labels https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-labels (2025-02-03T23:01:00Z)
+        ☐ Custom labeling tips https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-label-tips (2025-01-12T12:11:00Z)
+        ☐ Custom model lifecycle https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/train/custom-lifecycle (2024-12-11T18:01:00Z)
+    Add-on features:
+        ☐ Enhanced capabilities https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-add-on-capabilities (2025-02-28T05:33:00Z)
+        ☐ Query field extraction https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-query-fields (2025-02-13T23:02:00Z)
+    Concepts:
+        ☐ Accuracy and confidence scores https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/accuracy-confidence (2025-03-03T23:05:00Z)
+        ☐ Analyze document API response https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/analyze-document-response (2025-04-27T05:14:00Z)
+        ☐ Layout API markdown output elements https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/markdown-elements (2025-05-05T22:07:00Z)
+        ☐ Retrieval-Augmented Generation (RAG) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/retrieval-augmented-generation (2025-02-28T05:33:00Z)
+        ☐ Batch documents analysis https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept-batch-analysis (2025-02-26T05:36:00Z)
+        ☐ Troubleshoot latency issues https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/concept/troubleshoot-latency (2025-02-06T05:35:00Z)
+    Quickstarts:
+        ☐ Document Intelligence Studio custom projects https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/quickstarts/studio-custom-project (2025-03-19T20:43:00Z)
+        ☐ Get started with Document Intelligence Studio https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/quickstarts/get-started-studio (2025-04-07T22:00:00Z)
+        ☐ Get started with Document Intelligence client libraries https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/quickstarts/get-started-sdks-rest-api (2025-04-30T17:05:00Z)
+        ☐ Sample Labeling tool https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/try-sample-label-tool (2025-04-07T22:00:00Z)
+    How-to guides:
+        ☐ Use Document Intelligence models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/use-sdk-rest-api (2025-04-30T17:05:00Z)
+        ☐ Check my usage and estimate the cost https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/estimate-cost (2025-04-07T22:00:00Z)
+        ☐ Create SAS tokens for storage containers https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/authentication/create-sas-tokens (2024-12-11T18:01:00Z)
+        SDK Migration guides:
+            ☐ .NET/C# SDK https://github.com/Azure/azure-sdk-for-net/blob/main/sdk/documentintelligence/Azure.AI.DocumentIntelligence/MigrationGuide.md
+            ☐ Java SDK https://github.com/Azure/azure-sdk-for-java/blob/main/sdk/documentintelligence/azure-ai-documentintelligence/MIGRATION_GUIDE.md
+            ☐ JavaScript SDK https://github.com/Azure/azure-sdk-for-js/blob/main/sdk/documentintelligence/ai-document-intelligence-rest/MIGRATION-FR_v4-DI_v1.md
+            ☐ Python SDK https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/documentintelligence/azure-ai-documentintelligence/MIGRATION_GUIDE.md
+        ☐ Migration guide: 2023—07—31 latest (GA) https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v3-1-migration-guide (2025-02-09T12:10:00Z)
+        Custom models:
+            ☐ Build a custom extraction model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/build-a-custom-model (2025-01-12T12:11:00Z)
+            ☐ Build a custom classification model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/build-a-custom-classifier (2024-12-11T18:01:00Z)
+            ☐ Project sharing with custom models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/project-share-custom-models (2024-12-11T18:01:00Z)
+            ☐ Compose custom extraction models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/compose-custom-models (2025-04-21T22:07:00Z)
+            ☐ Deploy the sample-labeling tool https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/deploy-label-tool (2025-01-08T05:31:00Z)
+            ☐ Train a custom model with the sample-labeling tool https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/label-tool (2025-04-07T22:00:00Z)
+            ☐ Use table tags to train your custom model https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/v21/supervised-table-tags (2024-12-11T18:01:00Z)
+        ☐ Back up and recover models https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/disaster-recovery (2025-02-28T05:33:00Z)
+        Configure secure communications:
+            ☐ Set up Virtual Networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/document-intelligence/context/context (2025-03-24T05:37:00Z)
+            ☐ Create and use managed identities https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/authentication/managed-identities (2024-12-11T18:01:00Z)
+            ☐ Configure managed identities with private endpoints https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/authentication/managed-identities-secured-access (2025-04-07T22:00:00Z)
+            ☐ Use customer-managed keys https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/authentication/encrypt-data-at-rest (2025-03-19T22:03:00Z)
+            ☐ Use Microsoft Entra authentication https://learn.microsoft.com/en-us/azure/ai-services/authentication?context=/azure/ai-services/document-intelligence/context/context (2025-03-09T11:08:00Z)
+    Containers:
+        ☐ Install and run containers https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/install-run (2025-04-07T22:00:00Z)
+        ☐ Configure containers https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/configuration (2025-04-03T22:03:00Z)
+        ☐ Container image tags https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/image-tags (2025-04-03T22:03:00Z)
+        ☐ Disconnected containers https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/containers/disconnected (2025-04-03T22:03:00Z)
+    Code samples:
+        ☐ C#/.NET https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/.NET(v4.0)/README.md
+        ☐ Java https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/Java(v4.0)/README.md
+        ☐ Python https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/Python(v4.0)/Layout_model/README.md
+        ☐ JavaScript https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/JavaScript(v4.0)/README.md
+    Responsible AI:
+        ☐ Transparency note https://learn.microsoft.com/legal/cognitive-services/document-intelligence/transparency-note?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2024-12-18T19:02:00Z)
+        ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/document-intelligence/data-privacy-security?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2024-07-17T17:30:00Z)
+    Tutorials:
+        ☐ Create workflows using Azure Logic Apps https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/tutorial-logic-apps (2024-12-11T18:01:00Z)
+        Create Document Intelligence workflows with AI Builder:
+            ☐ Custom https://learn.microsoft.com/ai-builder/create-form-processing-model?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2025-05-07T07:42:00Z)
+            ☐ Invoice https://learn.microsoft.com/ai-builder/flow-invoice-processing?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2025-05-07T07:42:00Z)
+            ☐ Receipt https://learn.microsoft.com/ai-builder/flow-receipt-processing?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2025-05-07T07:42:00Z)
+            ☐ ID document https://learn.microsoft.com/ai-builder/id-reader?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/applied-ai-services/breadcrumb/toc.json (2025-05-07T07:42:00Z)
+            ☐ Business card https://learn.microsoft.com/ai-builder/flow-business-card-reader?toc=/azure/ai-services/document-intelligence/toc.json&bc=/azure/ai-services/document-intelligence/breadcrumb/toc.json (2025-05-07T07:42:00Z)
+        ☐ Use Azure AI Document Intelligence with Azure AI Search https://learn.microsoft.com/azure/search/cognitive-search-custom-skill-form (2025-03-10T22:30:00Z)
+        ☐ Use Azure AI Document Intelligence with Azure Functions https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/tutorial-azure-function (2025-03-19T22:03:00Z)
+    Reference:
+        REST APIs:
+            ☐ 2024-11-30 GA(v4.0) https://learn.microsoft.com/rest/api/aiservices/operation-groups?view=rest-aiservices-v4.0%20(2024-11-30)&preserve-view=true (2024-12-10T22:46:00Z)
+            ☐ 2023-07-31 GA (v3.1) https://learn.microsoft.com/rest/api/aiservices/document-models/analyze-document?view=rest-aiservices-2023-07-31&preserve-view=true&tabs=HTTP (2025-03-18T22:11:00Z)
+            ☐ 2022-08-31 GA (v3.0) https://learn.microsoft.com/rest/api/aiservices/document-models/analyze-document?view=rest-aiservices-v3.0%20(2022-08-31)&preserve-view=true&tabs=HTTP (2025-03-18T22:11:00Z)
+            ☐ Error codes v4.0, v3.1, and v3.0 https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/how-to-guides/resolve-errors (2024-12-11T18:01:00Z)
+            ☐ v2.1 https://learn.microsoft.com/rest/api/aiservices/analyzer?view=rest-aiservices-v2.1&preserve-view=true (2024-05-14T22:24:00Z)
+        Client libraries (2024-11-30 GA):
+            ☐ C# / .NET https://learn.microsoft.com/dotnet/api/overview/azure/ai.documentintelligence-readme?view=azure-dotnet-preview&preserve-view=true (2025-02-26T12:42:00Z)
+            ☐ JavaScript https://learn.microsoft.com/javascript/api/overview/azure/ai-document-intelligence-rest-readme?view=azure-node-preview&preserve-view=true (2024-08-21T11:10:00Z)
+            ☐ Python https://learn.microsoft.com/python/api/overview/azure/ai-documentintelligence-readme?view=azure-python-preview&preserve-view=true (2024-09-06T11:09:00Z)
+        Schema 2024-11-30 (GA):
+            ☐ Bank check (US) https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/bank-check.md
+            ☐ Bank statement (US) https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/bank-statement.md
+            ☐ Business card (2023-07-31 GA) https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2023-07-31-ga/business-card.md
+            ☐ Contract https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/contract.md
+            ☐ Credit card https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/credit-card.md
+            ☐ Health insurance card (US) https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/health-insurance-card.md
+            ☐ ID document https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/id-document.md
+            ☐ Invoice https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/invoice.md
+            ☐ Marriage certificate https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/marriage-certificate.md
+            ☐ Pay stub https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/pay-stub.md
+            ☐ Receipt https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/receipt.md
+            ☐ US tax W-2 form https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/us-tax/w2.md
+            ☐ US tax W-4 form https://github.com/Azure-Samples/document-intelligence-code-samples/blob/main/schema/2024-11-30-ga/us-tax/w4.md
+            ☐ US tax 1040 forms and schedules https://github.com/Azure-Samples/document-intelligence-code-samples/tree/main/schema/2024-11-30-ga/us-tax/1040
+            ☐ US tax 1095 forms and schedules https://github.com/Azure-Samples/document-intelligence-code-samples/tree/main/schema/2024-11-30-ga/us-tax/1095
+            ☐ US tax 1098 forms and schedules https://github.com/Azure-Samples/document-intelligence-code-samples/tree/main/schema/2024-11-30-ga/us-tax/1098
+            ☐ US tax 1099 forms and schedules https://github.com/Azure-Samples/document-intelligence-code-samples/tree/main/schema/2024-11-30-ga/us-tax/1099
+    Resources:
+        Enterprise readiness:
+            ☐ Region support https://go.microsoft.com/fwlink/?linkid=2087185
+            ☐ Compliance and certification https://azure.microsoft.com/support/legal/cognitive-services-compliance-and-privacy/
+        ☐ Support and help options https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-support-options?context=/azure/ai-services/document-intelligence/context/context (2025-05-02T22:14:00Z)
+        ☐ Privacy and cookies https://privacy.microsoft.com/en-US/privacystatement
+        ☐ Azure AI Document Intelligence release history https://learn.microsoft.com/en-us/azure/ai-services/document-intelligence/reference/release-history (2025-03-10T22:01:00Z)
+

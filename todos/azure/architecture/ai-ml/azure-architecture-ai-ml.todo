@@ -1,0 +1,77 @@
+AI Architecture Design - Azure Architecture Center | Microsoft Learn:
+    AI + Machine Learning https://learn.microsoft.com/en-us/azure/architecture/ai-ml/ (2025-05-12T17:32:00Z):
+        Explore ideas about:
+            Image processing:
+                ☐ Image classification https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/intelligent-apps-image-processing (2025-04-17T17:31:00Z)
+            Predictive analytics:
+                ☐ Customer order forecasting https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/next-order-forecasting (2025-04-17T17:31:00Z)
+            Document enrichment:
+                ☐ Use AI enrichment with Azure AI Search https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/ai-search-skillsets (2025-04-17T17:31:00Z)
+            MLOps:
+                ☐ Use Azure Databricks to orchestrate MLOps https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/orchestrate-machine-learning-azure-databricks (2025-04-17T17:31:00Z)
+                ☐ Many models with Machine Learning https://learn.microsoft.com/en-us/azure/architecture/ai-ml/idea/many-models-machine-learning-azure-machine-learning (2025-03-13T17:30:00Z)
+            Document processing:
+                ☐ Extract text using Power Automate https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/extract-object-text (2025-04-17T17:31:00Z)
+        Design architectures:
+            Chat bots:
+                ☐ Azure OpenAI chat basic architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-openai-e2e-chat (2025-05-12T17:32:00Z)
+                ☐ Azure OpenAI chat baseline architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat (2025-05-12T17:32:00Z)
+                ☐ Azure OpenAI chat baseline in an Azure landing zone https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/azure-openai-baseline-landing-zone (2025-05-12T17:32:00Z)
+            Document processing:
+                ☐ Automate document classification https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-document-classification-durable-functions (2025-05-08T17:31:00Z)
+                ☐ Automate document processing https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-document-processing-azure-ai-document-intelligence (2025-04-17T17:31:00Z)
+                ☐ Automate PDF form processing https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/automate-pdf-forms-processing (2025-04-17T17:31:00Z)
+                ☐ Build custom document processing models https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/build-deploy-custom-models (2025-03-07T18:30:00Z)
+                ☐ Multiple indexers with Azure AI Search https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/search-blob-metadata (2025-04-17T17:31:00Z)
+            Video and image classification:
+                ☐ Automate video analysis https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/analyze-video-computer-vision-machine-learning (2025-04-17T17:31:00Z)
+            Audio processing:
+                ☐ Extract and analyze call center data https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics (2025-04-17T17:31:00Z)
+            Batch scoring:
+                ☐ Batch scoring with Spark on Databricks https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/batch-scoring-databricks (2025-04-21T17:30:00Z)
+            Regulatory:
+                ☐ Secure research for regulated data https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/secure-compute-for-research (2025-04-17T17:31:00Z)
+        Apply guidance:
+            ☐ Machine learning options https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/data-science-and-machine-learning (2025-05-12T17:32:00Z)
+            Developing and evaluating RAG solutions:
+                ☐ Getting started https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide (2025-05-12T17:32:00Z)
+                ☐ Preparation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-preparation-phase (2025-05-12T17:32:00Z)
+                ☐ Chunking phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-chunking-phase (2025-05-12T17:32:00Z)
+                ☐ Chunk enrichment phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase (2025-05-12T17:32:00Z)
+                ☐ Embedding phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings (2025-05-12T17:32:00Z)
+                ☐ Information-retrieval phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-information-retrieval (2025-05-12T17:32:00Z)
+                ☐ LLM end-to-end evaluation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-llm-evaluation-phase (2025-05-12T17:32:00Z)
+            ☐ Design a secure multitenant RAG inferencing solution https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/secure-multitenant-rag (2025-05-12T17:32:00Z)
+            MLOps:
+                ☐ Machine learning operations (MLOps) v2 https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/machine-learning-operations-v2 (2025-04-22T19:38:00Z)
+                ☐ Generative AI operations with MLOps https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/genaiops-for-mlops (2025-05-12T17:32:00Z)
+                ☐ MLOps maturity model https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/mlops-maturity-model (2025-04-17T17:31:00Z)
+            Proxy Azure OpenAI usage:
+                ☐ Use a gateway in front of Azure OpenAI https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-guide (2025-05-12T17:32:00Z)
+                ☐ A gateway for multiple Azure OpenAI backends https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend (2025-05-12T17:32:00Z)
+                ☐ Provide custom authentication to Azure OpenAI through a gateway https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-custom-authentication (2025-05-12T17:32:00Z)
+                ☐ Implement advanced monitoring for Azure OpenAI through a gateway https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-monitoring (2025-05-02T17:59:00Z)
+            ☐ Design to support foundation model lifecycles https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/manage-foundation-models-lifecycle (2025-05-14T05:05:00Z)
+        OpenAI:
+            Design architectures:
+                ☐ Azure OpenAI chat basic architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/basic-openai-e2e-chat (2025-05-12T17:32:00Z)
+                ☐ Azure OpenAI chat baseline architecture https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/baseline-openai-e2e-chat (2025-05-12T17:32:00Z)
+                ☐ Azure OpenAI chat baseline in an Azure landing zone https://learn.microsoft.com/en-us/azure/architecture/ai-ml/architecture/azure-openai-baseline-landing-zone (2025-05-12T17:32:00Z)
+                ☐ Extract and analyze call center data https://learn.microsoft.com/en-us/azure/architecture/ai-ml/openai/architecture/call-center-openai-analytics (2025-04-17T17:31:00Z)
+            Apply guidance:
+                Developing and evaluating RAG solutions:
+                    ☐ Getting started https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-solution-design-and-evaluation-guide (2025-05-12T17:32:00Z)
+                    ☐ Preparation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-preparation-phase (2025-05-12T17:32:00Z)
+                    ☐ Chunking phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-chunking-phase (2025-05-12T17:32:00Z)
+                    ☐ Chunk enrichment phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-enrichment-phase (2025-05-12T17:32:00Z)
+                    ☐ Embedding phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-generate-embeddings (2025-05-12T17:32:00Z)
+                    ☐ Information-retrieval phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-information-retrieval (2025-05-12T17:32:00Z)
+                    ☐ LLM end-to-end evaluation phase https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/rag/rag-llm-evaluation-phase (2025-05-12T17:32:00Z)
+                ☐ Design a secure multitenant RAG inferencing solution https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/secure-multitenant-rag (2025-05-12T17:32:00Z)
+                Proxy Azure OpenAI usage:
+                    ☐ Use a gateway in front of Azure OpenAI https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-guide (2025-05-12T17:32:00Z)
+                    ☐ A gateway for multiple Azure OpenAI backends https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-multi-backend (2025-05-12T17:32:00Z)
+                    ☐ Custom authentication for a gateway in front of Azure OpenAI https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-custom-authentication (2025-05-12T17:32:00Z)
+                    ☐ Implement advanced monitoring for Azure OpenAI through a gateway https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/azure-openai-gateway-monitoring (2025-05-02T17:59:00Z)
+                ☐ Design to support foundation model lifecycles https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/manage-foundation-models-lifecycle (2025-05-14T05:05:00Z)
+

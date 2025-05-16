@@ -1,0 +1,56 @@
+Custom Vision documentation - Quickstarts, Tutorials, API Reference - Azure AI services | Microsoft Learn:
+    ☐ Custom Vision Documentation https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/ (2025-03-30 11:14 AM)
+    Overview:
+        ☐ What is Custom Vision? https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/overview (2025-03-30T11:14:00Z)
+        ☐ Pricing and limits https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/limits-and-quotas (2025-03-31T22:05:00Z)
+        ☐ What's new https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/whats-new (2025-03-24T05:37:00Z)
+        ☐ Custom Vision FAQ https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/faq (2025-02-04T23:06:00Z)
+    Quickstarts:
+        Build a classifier:
+            ☐ Using the web portal https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/getting-started-build-a-classifier (2025-03-26T22:02:00Z)
+            ☐ Using the Custom Vision SDK or REST API https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/quickstarts/image-classification (2024-11-19T18:01:00Z)
+        Build an object detector:
+            ☐ Using the web portal https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/get-started-build-detector (2025-03-26T22:02:00Z)
+            ☐ Using the Custom Vision SDK https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/quickstarts/object-detection (2025-01-23T12:06:00Z)
+    Responsible use of AI:
+        Transparency notes:
+            ☐ Custom Vision use cases https://learn.microsoft.com/legal/cognitive-services/custom-vision/custom-vision-cvs-transparency-note?context=/azure/ai-services/custom-vision-service/context/context (2024-12-18T19:02:00Z)
+            ☐ Characteristics and limitations https://learn.microsoft.com/legal/cognitive-services/custom-vision/custom-vision-cvs-characteristics-and-limitations?context=/azure/ai-services/custom-vision-service/context/context (2024-07-17T17:30:00Z)
+        ☐ Integration and responsible use https://learn.microsoft.com/legal/cognitive-services/custom-vision/custom-vision-cvs-guidance-integration-responsible-use?context=/azure/ai-services/custom-vision-service/context/context (2024-07-17T17:30:00Z)
+        ☐ Data, privacy, and security https://learn.microsoft.com/legal/cognitive-services/custom-vision/custom-vision-cvs-data-privacy-security?context=/azure/ai-services/custom-vision-service/context/context (2024-07-17T17:30:00Z)
+    How-to guides:
+        ☐ Test your model https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/test-your-model (2025-03-24T05:37:00Z)
+        ☐ Improve your model https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/getting-started-improving-your-classifier (2025-03-24T05:37:00Z)
+        ☐ Select a domain https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/select-domain (2025-03-24T05:37:00Z)
+        ☐ Use the prediction API https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/use-prediction-api (2024-11-20T18:02:00Z)
+        ☐ Use Smart Labeler https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/suggested-tags (2025-03-24T05:37:00Z)
+        ☐ Azure role-based access control https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/role-based-access-control (2025-04-07T22:00:00Z)
+        Export models:
+            ☐ Export your model to mobile https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/export-your-model (2025-03-30T11:14:00Z)
+            ☐ Export a model programmatically https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/export-programmatically (2025-03-30T11:14:00Z)
+            ☐ Use ONNX model with Windows ML https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/custom-vision-onnx-windows-ml (2025-03-30T11:14:00Z)
+            ☐ Run TensorFlow model in Python https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/export-model-python (2025-03-30T11:14:00Z)
+        ☐ Integrate storage notifications https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/storage-integration (2025-01-30T12:11:00Z)
+        ☐ Copy and back up projects https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/copy-move-projects (2025-01-23T12:06:00Z)
+        ☐ View or delete account data https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/export-delete-data (2025-03-24T05:37:00Z)
+        Enterprise readiness:
+            ☐ Set up Virtual Networks https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-virtual-networks?context=/azure/ai-services/custom-vision-service/context/context (2025-03-24T05:37:00Z)
+            ☐ Use customer-managed keys https://learn.microsoft.com/en-us/azure/ai-services/custom-vision-service/encrypt-data-at-rest (2025-01-30T12:11:00Z)
+    Reference:
+        ☐ Custom Vision Training API https://learn.microsoft.com/rest/api/customvision/operation-groups (2024-07-30T22:00:00Z)
+        ☐ Custom Vision Prediction API https://learn.microsoft.com/rest/api/customvision/operation-groups (2024-07-30T22:00:00Z)
+        SDKs:
+            ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/custom-vision (2023-10-03T23:36:00Z)
+            ☐ Node.js - Training https://learn.microsoft.com/javascript/api/@azure/cognitiveservices-customvision-training/ (2023-03-14T22:11:00Z)
+            ☐ Node.js - Prediction https://learn.microsoft.com/javascript/api/@azure/cognitiveservices-customvision-prediction/ (2023-03-14T22:11:00Z)
+            ☐ Python https://learn.microsoft.com/python/api/azure-cognitiveservices-vision-customvision (2024-11-16T06:57:00Z)
+            ☐ Go - Training https://godoc.org/github.com/Azure/azure-sdk-for-go/services/cognitiveservices/v2.1/customvision/training
+            ☐ Go - Prediction https://godoc.org/github.com/Azure/azure-sdk-for-go/services/cognitiveservices/v1.1/customvision/prediction
+    Resources:
+        Enterprise readiness:
+            ☐ Region support https://azure.microsoft.com/global-infrastructure/services/?products=cognitive-services
+            ☐ Compliance and certification https://azure.microsoft.com/support/legal/cognitive-services-compliance-and-privacy/
+        ☐ Support and help options https://learn.microsoft.com/en-us/azure/ai-services/cognitive-services-support-options?context=/azure/ai-services/custom-vision-service/context/context (2025-05-02T22:14:00Z)
+        ☐ Samples https://learn.microsoft.com/samples/browse/?products=azure&term=vision (2024-11-01T20:16:00Z)
+        ☐ Azure roadmap https://azure.microsoft.com/updates/?product=cognitive-services
+

@@ -1,0 +1,221 @@
+VPN Gateway documentation | Microsoft Learn:
+    ☐ VPN Gateway documentation https://learn.microsoft.com/en-us/azure/vpn-gateway/ (2025-03-31 10:05 PM)
+    Get started:
+        ☐ What is VPN Gateway? https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpngateways (2025-03-31T22:05:00Z)
+        ☐ What's new? https://learn.microsoft.com/en-us/azure/vpn-gateway/whats-new (2025-05-10T05:11:00Z)
+        ☐ VPN Gateway FAQ https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vpn-faq (2025-05-10T05:11:00Z)
+        Quickstarts & Tutorials:
+            ☐ Create and manage a VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2025-03-12T22:03:00Z)
+            Configure a site-to-site connection:
+                ☐ Preshared key https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2025-01-15T23:02:00Z)
+                ☐ Certificate authentication https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-certificate-authentication-gateway-portal (2025-01-02T23:04:00Z)
+            Configure a point-to-site connection:
+                ☐ Certificate authentication https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-gateway (2025-03-12T22:03:00Z)
+                ☐ Microsoft Entra ID authentication https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway (2025-02-25T23:02:00Z)
+    Design & architecture:
+        ☐ Design & topology https://learn.microsoft.com/en-us/azure/vpn-gateway/design (2025-01-24T05:34:00Z)
+        ☐ Design highly available gateway connections https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-highlyavailable (2025-03-31T22:05:00Z)
+        Backend connectivity interoperability:
+            ☐ Preface and test setup https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-preface?toc=/azure/vpn-gateway/toc.json (2024-09-06T22:05:00Z)
+            ☐ Control plane analysis https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-control-plane?toc=/azure/vpn-gateway/toc.json (2024-09-06T22:05:00Z)
+            ☐ Data plane analysis https://learn.microsoft.com/en-us/azure/networking/connectivity-interoperability-data-plane?toc=/azure/vpn-gateway/toc.json (2024-09-06T22:05:00Z)
+        Work remotely:
+            ☐ Support for working remotely https://learn.microsoft.com/en-us/azure/networking/working-remotely-support?toc=/azure/vpn-gateway/toc.json (2024-12-30T23:05:00Z)
+            ☐ Leveraging Azure VPN connections https://learn.microsoft.com/en-us/azure/vpn-gateway/work-remotely-support (2025-03-31T22:05:00Z)
+            ☐ NVA configurations and remote work https://learn.microsoft.com/en-us/azure/vpn-gateway/nva-work-remotely-support (2025-05-04T05:11:00Z)
+    Configuration settings, SKUs & gateways:
+        Gateway SKUs:
+            ☐ About gateway SKUs https://learn.microsoft.com/en-us/azure/vpn-gateway/about-gateway-skus (2025-03-31T22:05:00Z)
+            Gateway SKU consolidation & migration:
+                ☐ About SKU consolidation & migration https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-consolidation (2025-03-31T22:56:00Z)
+            ☐ Resize a gateway SKU https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-resize (2025-03-31T22:05:00Z)
+            ☐ Change a gateway SKU https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-change (2025-03-31T22:05:00Z)
+            ☐ Manage legacy gateway SKUs https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy (2025-05-12T22:03:00Z)
+        Public IP addresses:
+            ☐ About Basic SKU public IP address migration https://learn.microsoft.com/en-us/azure/vpn-gateway/basic-public-ip-migrate-about (2025-04-29T22:02:00Z)
+            ☐ How to migrate a Basic SKU public IP address to Standard https://learn.microsoft.com/en-us/azure/vpn-gateway/basic-public-ip-migrate-howto (2025-04-29T22:02:00Z)
+        ☐ About active-active mode gateways https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways (2024-11-01T17:04:00Z)
+        ☐ About zone-redundant gateways https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways (2025-04-02T22:06:00Z)
+        ☐ VPN Gateway configuration settings https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-gateway-settings (2025-03-31T22:05:00Z)
+        ☐ IPv6 configuration settings https://learn.microsoft.com/en-us/azure/vpn-gateway/ipv6-configuration (2025-05-10T05:11:00Z)
+    Create & manage a VPN gateway:
+        Create a VPN gateway:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-create-gateway-portal (2025-03-12T22:03:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-powershell (2024-11-20T23:04:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/vpn-gateway/create-routebased-vpn-gateway-cli (2024-11-20T23:04:00Z)
+            ☐ Create a Basic SKU VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/create-gateway-basic-sku-powershell (2025-03-31T22:05:00Z)
+        Manage gateway SKUs:
+            ☐ About gateway SKUs https://learn.microsoft.com/en-us/azure/vpn-gateway/about-gateway-skus (2025-03-31T22:05:00Z)
+            ☐ Gateway SKU consolidation https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-consolidation (2025-03-31T22:56:00Z)
+            ☐ Resize a gateway SKU https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-resize (2025-03-31T22:05:00Z)
+            ☐ Change a gateway SKU https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-sku-change (2025-03-31T22:05:00Z)
+            ☐ Manage legacy gateway SKUs https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-skus-legacy (2025-05-12T22:03:00Z)
+        ☐ Migrate classic gateways to Resource Manager https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-classic-resource-manager-migration (2025-01-02T23:04:00Z)
+        Active-active mode gateways:
+            ☐ About active-active mode gateways https://learn.microsoft.com/en-us/azure/vpn-gateway/about-active-active-gateways (2024-11-01T17:04:00Z)
+            ☐ Change a gateway to active-active or active-standby https://learn.microsoft.com/en-us/azure/vpn-gateway/gateway-change-active-active (2024-12-06T18:02:00Z)
+        Zone-redundant gateways:
+            ☐ About zone-redundant gateways https://learn.microsoft.com/en-us/azure/vpn-gateway/about-zone-redundant-vnet-gateways (2025-04-02T22:06:00Z)
+            ☐ Configure a zone redundant gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/create-zone-redundant-vnet-gateway (2025-03-31T22:05:00Z)
+        Delete a VPN gateway:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-portal (2024-08-07T16:42:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-delete-vnet-gateway-powershell (2024-08-02T11:27:00Z)
+        ☐ Verify a gateway connection https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-verify-connection-resource-manager (2025-03-31T22:05:00Z)
+        ☐ Reset a gateway or gateway connection https://learn.microsoft.com/en-us/azure/vpn-gateway/reset-gateway (2025-02-28T23:02:00Z)
+        ☐ Configure gateway maintenance https://learn.microsoft.com/en-us/azure/vpn-gateway/customer-controlled-gateway-maintenance (2025-04-17T17:05:00Z)
+    Site-to-site (S2S) VPN:
+        Configure site-to-site connections - preshared key:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/tutorial-site-to-site-portal (2025-01-15T23:02:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-create-site-to-site-rm-powershell (2025-03-26T17:06:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-site-to-site-resource-manager-cli (2024-12-02T23:02:00Z)
+        ☐ Configure site-to-site connections - certificate https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-certificate-authentication-gateway-portal (2025-01-02T23:04:00Z)
+        ☐ Connect AWS and Azure using a BGP-enabled VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-aws-bgp (2025-04-09T17:06:00Z)
+        Site-to-site with ExpressRoute connections:
+            Coexisting connections:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/expressroute/how-to-configure-coexisting-gateway-portal?toc=/azure/vpn-gateway/toc.json (2025-02-12T23:02:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/expressroute/expressroute-howto-coexist-resource-manager?toc=/azure/vpn-gateway/toc.json (2025-03-28T22:03:00Z)
+            ☐ VPN over private peering https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-vpn-private-peering (2024-08-23T17:14:00Z)
+        ☐ Add or remove a site-to-site connection https://learn.microsoft.com/en-us/azure/vpn-gateway/add-remove-site-to-site-connections (2024-08-02T11:27:00Z)
+        ☐ Forced tunneling https://learn.microsoft.com/en-us/azure/vpn-gateway/about-site-to-site-tunneling (2025-03-31T22:05:00Z)
+        Configure custom IPsec/IKE connection policies:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/ipsec-ike-policy-howto (2024-12-03T05:33:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-ipsecikepolicy-rm-powershell (2025-03-31T22:05:00Z)
+        Modify a local network gateway:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway-portal (2024-12-13T23:03:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway (2024-08-02T11:27:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-modify-local-network-gateway-cli (2024-08-02T11:27:00Z)
+        VPN devices:
+            ☐ About VPN devices and parameters https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-vpn-devices (2025-04-17T11:12:00Z)
+            ☐ Download VPN device configuration scripts https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-download-vpndevicescript (2025-03-31T22:05:00Z)
+            ☐ Overview of parter VPN device configurations https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-3rdparty-device-config-overview (2025-03-31T22:05:00Z)
+            ☐ Sample: Cisco ASA device (IKEv2/no BGP) https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-3rdparty-device-config-cisco-asa (2025-03-31T22:05:00Z)
+            ☐ Connect to multiple policy-based VPN devices https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-multiple-policybased-rm-ps (2024-10-15T22:04:00Z)
+    Point-to-site (P2S) VPN:
+        ☐ About point-to-site VPN https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-about (2025-02-27T23:02:00Z)
+        ☐ About point-to-site VPN routing https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-point-to-site-routing (2025-03-31T22:05:00Z)
+        Configure P2S - certificate authentication:
+            P2S gateway configuration:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-gateway (2025-03-12T22:03:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-point-to-site-rm-ps (2024-11-04T23:02:00Z)
+            VPN client configuration:
+                Windows clients:
+                    ☐ Native VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-native (2024-11-04T23:02:00Z)
+                    ☐ Azure VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-azure-vpn-client (2025-03-20T22:03:00Z)
+                    OpenVPN client:
+                        ☐ Version 2.x https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-openvpn-client (2025-01-30T12:22:00Z)
+                        ☐ Version 3.x https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-windows-openvpn-client-version-3 (2025-01-30T12:22:00Z)
+                Linux clients:
+                    ☐ Azure VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificate-client-linux-azure-vpn-client (2025-02-26T18:03:00Z)
+                    ☐ OpenVPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-linux (2024-11-04T23:02:00Z)
+                    ☐ IKEv2 - strongSwan https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-ike-linux (2025-02-13T18:07:00Z)
+                macOS and iOS clients:
+                    ☐ Native VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-cert-mac (2025-02-04T23:08:00Z)
+                    ☐ OpenVPN client - macOS https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-mac (2024-11-04T23:02:00Z)
+                    ☐ OpenVPN client - iOS https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-certificate-openvpn-ios (2025-01-31T18:19:00Z)
+            Generate self-signed certificates:
+                .cer and .pfx files:
+                    ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site (2025-02-13T23:04:00Z)
+                    ☐ MakeCert https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-makecert (2025-02-13T23:04:00Z)
+                .pem files:
+                    ☐ Linux - OpenSSL https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-certificates-linux-openssl (2025-03-20T22:03:00Z)
+                    ☐ Linux - strongSwan https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-certificates-point-to-site-linux (2025-02-26T18:03:00Z)
+            ☐ Install VPN client certificates https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-vpn-client-install-azure-cert (2025-02-13T23:04:00Z)
+        Configure P2S - Microsoft Entra ID authentication:
+            P2S gateway configuration:
+                ☐ Configure P2S - Microsoft-registered https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway (2025-02-25T23:02:00Z)
+                ☐ Configure P2S - manually registered https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-tenant (2025-02-25T23:02:00Z)
+                ☐ Change from manually registered to Microsoft-registered VPN client https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-gateway-update (2025-02-11T12:11:00Z)
+                ☐ Create or modify custom audience app ID https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-register-custom-app (2025-02-27T23:02:00Z)
+                ☐ Configure access based on users and groups https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-users-access (2025-03-31T22:05:00Z)
+                ☐ Configure multifactor authentication (MFA) https://learn.microsoft.com/en-us/azure/vpn-gateway/openvpn-azure-ad-mfa (2025-01-22T23:02:00Z)
+            VPN client configuration:
+                ☐ Azure VPN Client - Windows https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-windows (2025-03-20T22:03:00Z)
+                ☐ Azure VPN Client - Linux https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-linux (2025-02-11T05:34:00Z)
+                ☐ Azure VPN Client - macOS https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-entra-vpn-client-mac (2025-02-12T05:33:00Z)
+                ☐ Generate VPN client profile configuration files https://learn.microsoft.com/en-us/azure/vpn-gateway/about-vpn-profile-download (2025-03-31T22:05:00Z)
+        Configure P2S - RADIUS authentication:
+            P2S gateway configuration:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-radius-gateway (2024-12-06T23:03:00Z)
+                ☐ Azure Powershell https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-how-to-radius-ps (2024-12-06T23:03:00Z)
+                ☐ Multifactor authentication - P2S RADIUS and NPS server https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-radius-mfa-nsp (2024-11-19T18:02:00Z)
+                VPN client configuration:
+                    ☐ Certificate authentication clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-radius-certificate (2024-08-02T11:27:00Z)
+                    ☐ Password authentication clients https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-radius-password (2025-02-26T18:03:00Z)
+                    ☐ Other authentication protocols https://learn.microsoft.com/en-us/azure/vpn-gateway/point-to-site-vpn-client-configuration-radius-other (2024-08-02T11:27:00Z)
+        Configure Always On tunnels:
+            ☐ Device tunnel https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-device-tunnel (2025-03-31T22:05:00Z)
+            ☐ User tunnel https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-always-on-user-tunnel (2025-03-31T22:05:00Z)
+        ☐ Move to OpenVPN or IKEv2 from SSTP https://learn.microsoft.com/en-us/azure/vpn-gateway/ikev2-openvpn-from-sstp (2025-01-24T05:34:00Z)
+        ☐ P2S session management https://learn.microsoft.com/en-us/azure/vpn-gateway/p2s-session-management (2025-02-28T23:02:00Z)
+        ☐ Advertise custom routes to P2S clients https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-p2s-advertise-custom-routes (2025-02-28T23:02:00Z)
+        ☐ Create custom IPsec policies for P2S https://learn.microsoft.com/en-us/azure/vpn-gateway/create-custom-policies-p2s-ps (2024-11-04T23:02:00Z)
+        Azure VPN Client versions, checks & settings:
+            ☐ Azure VPN Client - optional settings https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-optional-configurations (2025-03-07T23:05:00Z)
+            ☐ Run Prerequisites Test https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-prerequisites-check (2025-03-17T17:02:00Z)
+            ☐ Azure VPN Client versions https://learn.microsoft.com/en-us/azure/vpn-gateway/azure-vpn-client-versions (2025-03-17T17:02:00Z)
+        ☐ Intune - Deploy VPN client profile https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-profile-intune (2025-03-31T22:05:00Z)
+    VNet-to-VNet VPN:
+        Configure VNet-to-VNet VPN connections:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-resource-manager-portal (2025-02-28T23:02:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-vnet-vnet-rm-ps (2025-03-26T17:06:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-vnet-vnet-cli (2024-08-02T11:27:00Z)
+        Configure a VNet-to-VNet connection between deployment models:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-different-deployment-models-portal (2024-08-02T11:27:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-connect-different-deployment-models-powershell (2024-08-02T11:27:00Z)
+        Configure custom IPsec/IKE connection policies:
+            ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/ipsec-ike-policy-howto (2024-12-03T05:33:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-ipsecikepolicy-rm-powershell (2025-03-31T22:05:00Z)
+    Security:
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/vpn-gateway-security-baseline?toc=/azure/vpn-gateway/TOC.json (2025-02-27T14:58:00Z)
+        ☐ About cryptographic requirements https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-compliance-crypto (2024-09-06T22:05:00Z)
+        ☐ Roles and permissions https://learn.microsoft.com/en-us/azure/vpn-gateway/roles-permissions (2025-04-29T22:02:00Z)
+        ☐ Azure Security blog https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog
+    Routing:
+        ☐ Forced tunneling https://learn.microsoft.com/en-us/azure/vpn-gateway/site-to-site-tunneling (2025-03-31T22:05:00Z)
+        ☐ Gateway transit for VNet peering https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-peering-gateway-transit (2024-08-02T11:27:00Z)
+        BGP:
+            ☐ About BGP and VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-bgp-overview (2025-03-31T22:05:00Z)
+            Configure BGP for a VPN gateway:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/vpn-gateway/bgp-howto (2024-10-16T22:05:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-bgp-resource-manager-ps (2024-08-02T11:27:00Z)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/vpn-gateway/bgp-how-to-cli (2024-12-17T05:33:00Z)
+            ☐ Connect AWS and Azure using a BGP-enabled VPN gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-howto-aws-bgp (2025-04-09T17:06:00Z)
+        NAT:
+            ☐ About NAT and VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-overview (2024-12-31T12:14:00Z)
+            ☐ Configure NAT for VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/nat-howto (2024-12-26T18:03:00Z)
+        Point-to-site routing:
+            ☐ Advertise custom routes to P2S clients https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-p2s-advertise-custom-routes (2025-02-28T23:02:00Z)
+            ☐ About point-to-site VPN routing https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-about-point-to-site-routing (2025-03-31T22:05:00Z)
+    Monitoring:
+        ☐ Monitor VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/monitor-vpn-gateway (2025-05-04T05:11:00Z)
+        ☐ Configure packet captures https://learn.microsoft.com/en-us/azure/vpn-gateway/packet-capture (2025-03-31T22:05:00Z)
+        ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/vpn-gateway/monitor-vpn-gateway-reference (2024-08-14T17:05:00Z)
+    Troubleshooting:
+        ☐ Troubleshoot VPN Gateway https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot (2024-08-02T11:27:00Z)
+        ☐ Troubleshoot using diagnostic logs https://learn.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-vpn-with-azure-diagnostics (2024-12-20T18:07:00Z)
+        Troubleshoot point-to-site connection issues:
+            ☐ Point-to-site connection problems https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-vpn-point-to-site-connection-problems (2025-04-03T22:05:00Z)
+            ☐ macOS - native VPN client connection problems https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-point-to-site-osx-ikev2 (2024-09-04T22:09:00Z)
+            ☐ Troubleshoot the Azure VPN Client https://learn.microsoft.com/en-us/azure/vpn-gateway/troubleshoot-azure-vpn-client (2024-09-06T05:33:00Z)
+            ☐ Report Azure VPN Client problems - Feedback Hub https://learn.microsoft.com/en-us/azure/vpn-gateway/feedback-hub-azure-vpn-client (2024-09-17T17:04:00Z)
+        Troubleshoot site-to-site connection issues:
+            ☐ Site-to-site connection problems https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-cannot-connect (2025-03-31T22:05:00Z)
+            ☐ Site-to-site error codes and solutions https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-error-codes (2025-03-31T22:05:00Z)
+            ☐ Site-to-site connection disconnects intermittently https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-troubleshoot-site-to-site-disconnected-intermittently (2025-03-31T22:05:00Z)
+        ☐ Validate VPN throughput to a VNet https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-validate-throughput-to-vnet (2025-03-31T22:05:00Z)
+        ☐ Community-suggested VPN or firewall device settings https://learn.microsoft.com/en-us/azure/vpn-gateway/vpn-gateway-third-party-settings (2024-08-02T11:27:00Z)
+    Reference:
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network#vpn (2025-05-06T17:01:00Z)
+        ☐ REST https://learn.microsoft.com/rest/api/network/virtualnetworkgateways (2024-12-03T23:02:00Z)
+        ☐ REST (classic) https://learn.microsoft.com/previous-versions/azure/reference/jj154113(v=azure.100) (2021-10-21T07:54:00Z)
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/vnet-gateway (2025-03-25T06:59:00Z)
+    Resources:
+        ☐ Azure Networking blog https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog
+        ☐ Microsoft Q&A question page https://learn.microsoft.com/answers/tags/102/azure-vpn-gateway
+        ☐ Networking feedback https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789
+        ☐ Subscription and service limits https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits?toc=/azure/vpn-gateway/toc.json (2025-04-05T05:11:00Z)
+        ☐ Pricing https://azure.microsoft.com/pricing/details/vpn-gateway
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ SLA https://azure.microsoft.com/support/legal/sla
+        ☐ Preview SLA https://azure.microsoft.com/support/legal/preview-supplemental-terms
+

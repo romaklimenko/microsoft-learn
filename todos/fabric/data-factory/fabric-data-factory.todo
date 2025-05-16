@@ -1,0 +1,538 @@
+Data Factory  in Microsoft Fabric documentation - Microsoft Fabric | Microsoft Learn:
+    ☐ Data factory documentation https://learn.microsoft.com/en-us/fabric/data-factory/ (2025-02-07 11:02 PM)
+    Overview:
+        ☐ What is Data Factory? https://learn.microsoft.com/en-us/fabric/data-factory/data-factory-overview (2025-03-31T18:03:00Z)
+        ☐ Data Factory training https://learn.microsoft.com/training/paths/get-started-fabric (2025-02-26 06:00 PM)
+        ☐ What's new in Data Factory https://learn.microsoft.com/en-us/fabric/fundamentals/whats-new?toc=/fabric/data-factory/toc.json#data-factory-in-microsoft-fabric (2025-05-07T22:02:00Z)
+        Pricing in Data Factory:
+            ☐ Pricing overview https://learn.microsoft.com/en-us/fabric/data-factory/pricing-overview (2025-03-17T22:02:00Z)
+            ☐ Pricing data pipelines https://learn.microsoft.com/en-us/fabric/data-factory/pricing-pipelines (2025-03-17T22:02:00Z)
+            ☐ Pricing Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/pricing-dataflows-gen2 (2025-03-17T22:02:00Z)
+            ☐ Pricing Apache Airflow job https://learn.microsoft.com/en-us/fabric/data-factory/pricing-apache-airflow-job (2025-03-17T22:02:00Z)
+            ☐ Cost estimation from Azure Data Factory to Fabric https://learn.microsoft.com/en-us/fabric/data-factory/cost-estimation-from-azure-data-factory-to-fabric-pipeline (2024-11-08T22:59:00Z)
+            Pricing examples:
+                Data pipelines:
+                    ☐ Load 1 TB of Parquet data to a data Warehouse https://learn.microsoft.com/en-us/fabric/data-factory/pricing-scenario-load-1-tb-parquet-to-data-warehouse (2025-03-17T22:02:00Z)
+                    ☐ Load 1 TB of Parquet data to a data warehouse with staging https://learn.microsoft.com/en-us/fabric/data-factory/pricing-scenario-load-1-tb-parquet-to-data-warehouse-stage (2025-03-17T22:02:00Z)
+                    ☐ Load 1 TB of CSV data to Lakehouse tables https://learn.microsoft.com/en-us/fabric/data-factory/pricing-scenario-load-1-tb-csv-to-lakehouse-table (2025-03-17T22:02:00Z)
+                    ☐ Load 1 TB of CSV data to Lakehouse files https://learn.microsoft.com/en-us/fabric/data-factory/pricing-scenario-load-1-tb-csv-to-lakehouse-files (2025-03-17T22:02:00Z)
+                    ☐ Load 1 TB of Parquet data to a Lakehouse table https://learn.microsoft.com/en-us/fabric/data-factory/pricing-scenario-load-1-tb-parquet-to-lakehouse-table (2025-03-17T22:02:00Z)
+                Dataflow Gen2:
+                    ☐ Load 2 GB of on-premises CSV data to a Lakehouse table https://learn.microsoft.com/en-us/fabric/data-factory/pricing-scenario-dataflows-gen2-load-2-gb-csv-to-lakehouse-table (2025-03-17T22:02:00Z)
+                    ☐ Load 2 GB of Parquet data to a Lakehouse table https://learn.microsoft.com/en-us/fabric/data-factory/pricing-scenario-dataflows-gen2-load-2-gb-parquet-to-lakehouse-table (2025-03-17T22:02:00Z)
+                    ☐ Load 6 GB of CSV data to a Lakehouse table with Fast Copy enabled https://learn.microsoft.com/en-us/fabric/data-factory/pricing-scenario-dataflows-gen2-load-6-gb-csv-to-lakehouse-table-fastcopy (2024-07-05T11:06:00Z)
+                    ☐ Load 2 GB of Parquet data to a Lakehouse table through Virtual Network Data Gateway https://learn.microsoft.com/en-us/fabric/data-factory/pricing-scenario-dataflows-gen2-load-2-gb-parquet-to-lakehouse-vnet-gateway (2025-03-17T22:02:00Z)
+        ☐ Keyboard shortcuts https://learn.microsoft.com/en-us/fabric/data-factory/keyboard-shortcuts (2025-03-17T22:02:00Z)
+    Get started:
+        ☐ Create a dataflow https://learn.microsoft.com/en-us/fabric/data-factory/create-first-dataflow-gen2 (2025-02-07T23:02:00Z)
+        ☐ Create a data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/create-first-pipeline-with-sample-data (2025-03-31T18:03:00Z)
+        ☐ Create a Copy job https://learn.microsoft.com/en-us/fabric/data-factory/quickstart-copy-job (2025-04-30T17:06:00Z)
+        ☐ Create an Apache Airflow Job https://learn.microsoft.com/en-us/fabric/data-factory/create-apache-airflow-jobs (2025-02-07T23:02:00Z)
+        ☐ Operationalize Data Factory https://learn.microsoft.com/en-us/fabric/data-factory/transform-data (2025-04-04T17:20:00Z)
+        ☐ Decide - Copy activity, dataflow, or Spark? https://learn.microsoft.com/en-us/fabric/fundamentals/decision-guide-pipeline-dataflow-spark (2025-04-04T17:20:00Z)
+        ☐ How to access on-premises Data https://learn.microsoft.com/en-us/fabric/data-factory/how-to-access-on-premises-data (2025-05-08T22:04:00Z)
+        ☐ Monitoring activity in Data Factory https://learn.microsoft.com/en-us/fabric/data-factory/monitor-data-factory (2025-04-18T11:05:00Z)
+        ☐ Bring Azure Data Factory to Fabric https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-bring-azure-data-factory-to-fabric (2025-03-31T18:03:00Z)
+    Migrate to Fabric:
+        Pipelines:
+            ☐ Migrate from Azure Data Factory to Data Factory in Microsoft Fabric https://learn.microsoft.com/en-us/fabric/data-factory/migrate-from-azure-data-factory (2025-05-08T11:14:00Z)
+            ☐ Planning your migration from Azure Data Factory to Fabric https://learn.microsoft.com/en-us/fabric/data-factory/migrate-planning-azure-data-factory (2025-01-31T18:08:00Z)
+            ☐ Activity Continuity https://learn.microsoft.com/en-us/fabric/data-factory/activity-parity (2025-02-07T23:02:00Z)
+            ☐ Connector Continuity https://learn.microsoft.com/en-us/fabric/data-factory/connector-parity (2025-02-07T23:02:00Z)
+            ☐ Fabric Dataflows for Mapping Data Flow users https://learn.microsoft.com/en-us/fabric/data-factory/guide-to-dataflows-for-mapping-data-flow-users (2025-02-07T23:02:00Z)
+            ☐ How to ingest data from Azure Data Factory to Fabric https://learn.microsoft.com/en-us/fabric/data-factory/how-to-ingest-data-into-fabric-from-azure-data-factory (2025-01-26T12:09:00Z)
+        Dataflows:
+            ☐ Migrate from Dataflow Gen1 to Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1 (2025-03-19T11:12:00Z)
+            ☐ Migrate to Dataflow Gen2 scenarios https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-migrate-from-dataflow-gen1-scenarios (2024-12-09T18:13:00Z)
+            ☐ Move queries from Dataflow Gen1 to Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/move-dataflow-gen1-to-dataflow-gen2 (2025-03-31T14:43:00Z)
+            ☐ Migrate to Dataflow Gen2 using Save As https://learn.microsoft.com/en-us/fabric/data-factory/migrate-to-dataflow-gen2-using-save-as (2025-04-23T22:07:00Z)
+    Tutorials:
+        End-to-end Data Factory tutorial:
+            ☐ Introduction https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-introduction (2025-03-31T18:03:00Z)
+            ☐ Module 1 - Create a pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-pipeline (2025-05-02T22:09:00Z)
+            ☐ Module 2 - Transform data with a dataflow https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-dataflow (2025-03-31T18:03:00Z)
+            ☐ Module 3 - Automate and send notification https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-end-to-end-integration (2025-03-31T18:03:00Z)
+        ☐ SAP CDC to Fabric OneLake using ADF https://learn.microsoft.com/en-us/fabric/data-factory/change-data-capture-from-sap-to-onelake-with-azure-data-factory (2024-12-18T22:58:00Z)
+        ☐ How to ingest data from ADF to Fabric https://learn.microsoft.com/en-us/fabric/data-factory/how-to-ingest-data-into-fabric-from-azure-data-factory (2025-01-26T12:09:00Z)
+    Connectors:
+        ☐ Connector overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-overview (2025-02-07T23:02:00Z)
+        ☐ Dataflow Gen2 connectors https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-support (2025-02-07T23:02:00Z)
+        ☐ Data pipeline connectors https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-support (2025-05-09T11:10:00Z)
+        ☐ Copy job connectors https://learn.microsoft.com/en-us/fabric/data-factory/copy-job-support (2025-04-18T11:05:00Z)
+        ☐ Service principal support https://learn.microsoft.com/en-us/fabric/data-factory/service-principals (2024-11-19T18:02:00Z)
+        Access database:
+            ☐ Access database - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-access-database-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-access-database (2025-02-07T23:02:00Z)
+        Amazon RDS for SQL Server:
+            ☐ Amazon RDS for SQL Server - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-amazon-rds-for-sql-server-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-amazon-rds-for-sql-server-copy-activity (2025-02-07T23:02:00Z)
+        Amazon Redshift:
+            ☐ Amazon Redshift - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-amazon-redshift-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-amazon-redshift (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-amazon-redshift-copy-activity (2025-02-07T23:02:00Z)
+        Amazon S3:
+            ☐ Amazon S3 - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-amazon-s3-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-amazon-s3 (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-amazon-s3-copy-activity (2025-02-07T23:02:00Z)
+        Amazon S3 Compatible:
+            ☐ Amazon S3 Compatible - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-amazon-s3-compatible-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-amazon-s3-compatible-copy-activity (2025-02-07T23:02:00Z)
+        Azure Analysis Services:
+            ☐ Azure Analysis Services - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-analysis-services-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-analysis-services (2025-02-07T23:02:00Z)
+        Azure Blob Storage:
+            ☐ Azure Blob Storage - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-blob-storage-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-blob-storage (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-blob-storage-copy-activity (2025-02-07T23:02:00Z)
+        Azure AI Search:
+            ☐ Azure AI Search - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-search-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-search-copy-activity (2025-02-07T23:02:00Z)
+        Azure Cosmos DB for NoSQL:
+            ☐ Azure Cosmos DB for NoSQL - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-cosmosdb-for-nosql-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-cosmosdb-for-nosql (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-cosmosdb-for-nosql-copy-activity (2025-02-07T23:02:00Z)
+        Azure Cosmos DB for MongoDB:
+            ☐ Azure Cosmos DB for MongoDB - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-cosmos-db-for-mongodb-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-cosmos-db-for-mongodb-copy-activity (2025-02-07T23:02:00Z)
+        Azure Data Explorer (Kusto):
+            ☐ Azure Data Explorer (Kusto) - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-data-explorer-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-data-explorer (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-data-explorer-copy-activity (2025-02-07T23:02:00Z)
+        Azure Data Lake Storage Gen2:
+            ☐ Azure Data Lake Storage Gen2 - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-data-lake-storage-gen2-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-data-lake-storage-gen2 (2025-02-07T23:02:00Z)
+            ☐ Configure in data pipeline copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-data-lake-storage-gen2-copy-activity (2024-10-08T11:06:00Z)
+        Azure Database for MySQL:
+            ☐ Azure Database for MySQL - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-database-for-mysql-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-database-for-mysql-copy-activity (2025-02-07T23:02:00Z)
+        Azure Database for PostgreSQL:
+            ☐ Azure Database for PostgreSQL - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-database-for-postgresql-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-database-for-postgresql-copy-activity (2025-02-07T23:02:00Z)
+        Azure Databricks:
+            ☐ Azure Databricks - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-databricks-overview (2025-05-09T11:10:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-databricks (2025-05-09T11:10:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-databricks-copy-activity (2025-05-09T11:10:00Z)
+        Azure Files:
+            ☐ Azure Files - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-files-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-files-copy-activity (2025-02-07T23:02:00Z)
+        Azure HDInsight on AKS Trino:
+            ☐ Azure HDInsight on AKS Trino - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-hdinsight-on-aks-trino-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-hdinsight-on-aks-trino (2025-02-07T23:02:00Z)
+        Azure SQL database:
+            ☐ Azure SQL database - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-sql-database-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-sql-database (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-sql-database-copy-activity (2025-02-07T23:02:00Z)
+        Azure SQL Managed Instance:
+            ☐ Azure SQL Managed Instance - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-sql-managed-instance-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-sql-managed-instance-copy-activity (2025-02-07T23:02:00Z)
+        Azure Synapse Analytics:
+            ☐ Azure Synapse Analytics - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-synapse-analytics-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-synapse-analytics (2025-02-07T23:02:00Z)
+            ☐ Configure in  data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-synapse-analytics-copy-activity (2025-02-07T23:02:00Z)
+        Azure Table Storage:
+            ☐ Azure Table Storage - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-table-storage-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-table-storage (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-azure-table-storage-copy-activity (2025-02-07T23:02:00Z)
+        CloudBluePSA:
+            ☐ CloudBluePSA - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-cloudbluepsa-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-cloudbluepsa (2025-02-07T23:02:00Z)
+        Common Data Service (Legacy):
+            ☐ Common Data Service (Legacy) - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-common-data-service-legacy-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-common-data-service-legacy (2025-02-07T23:02:00Z)
+        Databricks:
+            ☐ Databricks - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-databricks-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-databricks (2025-02-07T23:02:00Z)
+        Dataflows (Power Platform):
+            ☐ Dataflows (Power Platform) - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-dataflows-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-dataflows (2025-02-07T23:02:00Z)
+        Dataverse:
+            ☐ Dataverse - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-dataverse-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-dataverse (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-dataverse-copy-activity (2025-02-07T23:02:00Z)
+        Data Warehouse:
+            ☐ Data Warehouse - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-data-warehouse-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-data-warehouse (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-data-warehouse-copy-activity (2025-02-07T23:02:00Z)
+        Dynamics AX:
+            ☐ Dynamics AX - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-dynamics-ax-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-dynamics-ax-copy-activity (2025-02-07T23:02:00Z)
+        Dynamics CRM:
+            ☐ Dynamics CRM - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-dynamics-crm-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-dynamics-crm-copy-activity (2025-02-07T23:02:00Z)
+        FHIR:
+            ☐ FHIR - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-fhir-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-fhir (2025-02-07T23:02:00Z)
+        Folder:
+            ☐ Folder - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-folder-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-folder (2025-02-07T23:02:00Z)
+        Format:
+            Avro:
+                ☐ Configure in Data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/format-avro (2025-02-07T23:02:00Z)
+            Binary:
+                ☐ Configure in Data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/format-binary (2025-02-07T23:02:00Z)
+                ☐ Configure in Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/connector-binary-dataflows (2025-02-07T23:02:00Z)
+            Delimited text:
+                ☐ Configure in Data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/format-delimited-text (2025-02-07T23:02:00Z)
+            Excel:
+                ☐ Configure in Data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/format-excel (2025-02-07T23:02:00Z)
+                ☐ Configure in Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/connector-excel-dataflows (2025-02-07T23:02:00Z)
+            Iceberg:
+                ☐ Configure in Data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/format-iceberg (2025-02-07T23:02:00Z)
+            JSON:
+                ☐ Configure in Data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/format-json (2025-02-07T23:02:00Z)
+            ORC:
+                ☐ Configure in Data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/format-orc (2025-02-07T23:02:00Z)
+            Parquet:
+                ☐ Configure in Data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/format-parquet (2025-02-07T23:02:00Z)
+                ☐ Configure in Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/connector-parquet-dataflows (2025-02-07T23:02:00Z)
+            XML:
+                ☐ Configure in Data pipeline https://learn.microsoft.com/en-us/fabric/data-factory/format-xml (2025-02-07T23:02:00Z)
+        FTP:
+            ☐ FTP - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-ftp-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-ftp-copy-activity (2025-02-07T23:02:00Z)
+        Google Analytics:
+            ☐ Google Analytics - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-google-analytics-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-google-analytics (2025-02-07T23:02:00Z)
+        Google BigQuery:
+            ☐ Google BigQuery - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-google-bigquery-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-google-bigquery (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-google-bigquery-copy-activity (2025-02-07T23:02:00Z)
+        Google Cloud Storage:
+            ☐ Google Cloud Storage - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-google-cloud-storage-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-google-cloud-storage (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-google-cloud-storage-copy-activity (2025-02-07T23:02:00Z)
+        Hive LLAP:
+            ☐ Hive LLAP - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-hive-llap-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-hive-llap (2025-02-07T23:02:00Z)
+        HTTP:
+            ☐ HTTP - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-http-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-http (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-http-copy-activity (2025-02-07T23:02:00Z)
+        IBM DB2 database:
+            ☐ IBM DB2 database - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-ibm-db2-database-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-ibm-db2-database (2025-02-07T23:02:00Z)
+        Impala:
+            ☐ Impala - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-impala-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-impala (2025-02-07T23:02:00Z)
+        KQL database:
+            ☐ KQL database - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-kql-database-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-kql-database (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-kql-database-copy-activity (2025-02-07T23:02:00Z)
+        Lakehouse:
+            ☐ Lakehouse - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-lakehouse-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-lakehouse (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-lakehouse-copy-activity (2025-03-21T11:29:00Z)
+        MariaDB:
+            ☐ MariaDB - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-mariadb-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-mariadb-copy-activity (2025-02-07T23:02:00Z)
+        Microsoft 365:
+            ☐ Microsoft 365 - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-microsoft-365-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-microsoft-365 (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-microsoft-365-copy-activity (2025-02-24T18:01:00Z)
+        Microsoft Exchange Online:
+            ☐ Microsoft Exchange Online - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-microsoft-exchange-online-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-microsoft-exchange-online (2025-02-07T23:02:00Z)
+        MongoDB:
+            ☐ MongoDB - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-mongodb-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-mongodb-copy-activity (2025-02-07T23:02:00Z)
+        MongoDB Atlas:
+            ☐ MongoDB Atlas - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-mongodb-atlas-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-mongodb-atlas-copy-activity (2025-02-07T23:02:00Z)
+        MongoDB Atlas SQL (Beta):
+            ☐ MongoDB Atlas SQL (Beta) - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-mongodb-atlas-sql-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-mongodb-atlas-sql (2025-02-07T23:02:00Z)
+        MySQL database:
+            ☐ MySQL database - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-mysql-database-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-mysql-database (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-mysql-database-copy-activity (2025-02-07T23:02:00Z)
+        OData:
+            ☐ OData - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-odata-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-odata (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-odata-copy-activity (2025-02-07T23:02:00Z)
+        Odbc:
+            ☐ Odbc - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-odbc-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-odbc (2025-02-07T23:02:00Z)
+        Oracle database:
+            ☐ Oracle database - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-oracle-database-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-oracle-database (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-oracle-database-copy-activity (2025-02-07T23:02:00Z)
+        Oracle Cloud Storage:
+            ☐ Oracle Cloud Storage - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-oracle-cloud-storage-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-oracle-cloud-storage-copy-activity (2025-02-07T23:02:00Z)
+        Palantir Foundry:
+            ☐ Palantir Foundry - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-palantir-foundry-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-palantir-foundry (2025-02-07T23:02:00Z)
+        PostgreSQL database:
+            ☐ PostgreSQL database - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-postgresql-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-postgresql (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-postgresql-copy-activity (2025-02-07T23:02:00Z)
+        REST:
+            ☐ REST - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-rest-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-rest (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-rest-copy-activity (2025-02-07T23:02:00Z)
+        Salesforce objects:
+            ☐ Salesforce objects - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-salesforce-objects-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-salesforce-objects (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-salesforce-copy-activity (2025-02-07T23:02:00Z)
+        Salesforce reports:
+            ☐ Salesforce reports - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-salesforce-reports-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-salesforce-reports (2025-02-07T23:02:00Z)
+        Salesforce Service Cloud:
+            ☐ Salesforce Service Cloud - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-salesforce-service-cloud-overview (2025-03-31T18:03:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-salesforce-service-cloud-copy-activity (2025-02-20T18:01:00Z)
+        SAP BW Application Server:
+            ☐ SAP BW Application Server - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-sap-bw-application-server-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-sap-bw-application-server (2025-02-07T23:02:00Z)
+        SAP BW Message Server:
+            ☐ SAP BW Message Server - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-sap-bw-message-server-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-sap-bw-message-server (2025-02-07T23:02:00Z)
+        SAP HANA database:
+            ☐ SAP HANA database - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-sap-hana-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-sap-hana (2025-02-07T23:02:00Z)
+        ServiceNow:
+            ☐ ServiceNow - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-servicenow-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-servicenow-copy-activity (2025-02-07T23:02:00Z)
+        SFTP:
+            ☐ SFTP - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-sftp-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-sftp-copy-activity (2025-02-07T23:02:00Z)
+        SharePoint folder:
+            ☐ SharePoint folder - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-sharepoint-folder-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-sharepoint-folder (2025-02-07T23:02:00Z)
+        SharePoint list:
+            ☐ SharePoint list - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-sharepoint-list-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-sharepoint-list (2025-02-07T23:02:00Z)
+        SharePoint online list:
+            ☐ SharePoint online list - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-sharepoint-online-list-overview (2025-04-11T11:04:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-sharepoint-online-list (2025-04-11T11:04:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-sharepoint-online-list-copy-activity (2025-02-07T23:02:00Z)
+        Snowflake:
+            ☐ Snowflake - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-snowflake-overview (2025-03-14T11:07:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-snowflake (2025-03-14T11:07:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-snowflake-copy-activity (2025-02-07T23:02:00Z)
+        SQL database:
+            ☐ SQL database - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-sql-database-overview (2025-03-25T11:07:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-sql-database (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-sql-database-copy-activity (2025-02-07T23:02:00Z)
+        SQL Server database:
+            ☐ SQL Server database - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-sql-server-database-overview (2025-05-12T11:08:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-sql-server-database (2025-05-12T11:08:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-sql-server-copy-activity (2025-02-07T23:02:00Z)
+        Teradata database:
+            ☐ Teradata database - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-teradata-database-overview (2025-04-18T11:05:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-teradata-database (2025-04-18T11:05:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-teradata-copy-activity (2025-04-18T11:05:00Z)
+        Vertica:
+            ☐ Vertica - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-vertica-overview (2025-02-07T23:02:00Z)
+            ☐ Configure in a data pipeline Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/connector-vertica-copy-activity (2025-02-07T23:02:00Z)
+        Web API/Web page:
+            ☐ Web API/Web page - Overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-web-overview (2025-02-07T23:02:00Z)
+            ☐ Set up your connection https://learn.microsoft.com/en-us/fabric/data-factory/connector-web (2025-02-07T23:02:00Z)
+    Data pipelines:
+        Activities:
+            ☐ Activity overview https://learn.microsoft.com/en-us/fabric/data-factory/activity-overview (2025-03-17T22:02:00Z)
+            ☐ Append Variable activity https://learn.microsoft.com/en-us/fabric/data-factory/append-variable-activity (2025-03-17T22:02:00Z)
+            ☐ Azure Batch activity https://learn.microsoft.com/en-us/fabric/data-factory/azure-batch-activity (2025-02-07T23:02:00Z)
+            ☐ Azure Databricks activity https://learn.microsoft.com/en-us/fabric/data-factory/azure-databricks-activity (2025-05-06T22:00:00Z)
+            ☐ Azure HDInsight activity https://learn.microsoft.com/en-us/fabric/data-factory/azure-hdinsight-activity (2025-03-17T22:02:00Z)
+            ☐ Azure Machine Learning activity https://learn.microsoft.com/en-us/fabric/data-factory/azure-machine-learning-activity (2025-02-07T23:02:00Z)
+            ☐ Copy activity https://learn.microsoft.com/en-us/fabric/data-factory/copy-data-activity (2025-02-07T23:02:00Z)
+            ☐ Dataflow activity https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-activity (2025-04-22T22:06:00Z)
+            ☐ Deactivate an activity https://learn.microsoft.com/en-us/fabric/data-factory/deactivate-activity (2025-02-07T23:02:00Z)
+            ☐ Delete data activity https://learn.microsoft.com/en-us/fabric/data-factory/delete-data-activity (2025-03-31T18:03:00Z)
+            ☐ Fail activity https://learn.microsoft.com/en-us/fabric/data-factory/fail-activity (2025-03-17T22:02:00Z)
+            ☐ Filter activity https://learn.microsoft.com/en-us/fabric/data-factory/filter-activity (2025-03-17T22:02:00Z)
+            ☐ For-each activity https://learn.microsoft.com/en-us/fabric/data-factory/foreach-activity (2025-03-17T22:02:00Z)
+            ☐ Functions activity https://learn.microsoft.com/en-us/fabric/data-factory/functions-activity (2025-03-31T14:43:00Z)
+            ☐ Get Metadata activity https://learn.microsoft.com/en-us/fabric/data-factory/get-metadata-activity (2025-03-17T22:02:00Z)
+            ☐ If Condition activity https://learn.microsoft.com/en-us/fabric/data-factory/if-condition-activity (2025-03-17T22:02:00Z)
+            ☐ Invoke Pipeline activity https://learn.microsoft.com/en-us/fabric/data-factory/invoke-pipeline-activity (2025-04-01T22:02:00Z)
+            ☐ KQL activity https://learn.microsoft.com/en-us/fabric/data-factory/kql-activity (2025-03-17T22:02:00Z)
+            ☐ Lookup activity https://learn.microsoft.com/en-us/fabric/data-factory/lookup-activity (2025-03-17T22:02:00Z)
+            ☐ Notebook activity https://learn.microsoft.com/en-us/fabric/data-factory/notebook-activity (2025-03-17T22:02:00Z)
+            ☐ Office 365 Outlook activity https://learn.microsoft.com/en-us/fabric/data-factory/outlook-activity (2025-03-17T22:02:00Z)
+            ☐ Script activity https://learn.microsoft.com/en-us/fabric/data-factory/script-activity (2025-03-17T22:02:00Z)
+            ☐ Semantic model refresh activity https://learn.microsoft.com/en-us/fabric/data-factory/semantic-model-refresh-activity (2025-03-31T18:03:00Z)
+            ☐ Set Variable activity https://learn.microsoft.com/en-us/fabric/data-factory/set-variable-activity (2025-03-17T22:02:00Z)
+            ☐ Spark Job Definition activity https://learn.microsoft.com/en-us/fabric/data-factory/spark-job-definition-activity (2025-03-31T14:43:00Z)
+            ☐ Stored Procedure activity https://learn.microsoft.com/en-us/fabric/data-factory/stored-procedure-activity (2025-03-17T22:02:00Z)
+            ☐ Switch activity https://learn.microsoft.com/en-us/fabric/data-factory/switch-activity (2025-03-17T22:02:00Z)
+            ☐ Teams activity https://learn.microsoft.com/en-us/fabric/data-factory/teams-activity (2025-03-17T22:02:00Z)
+            ☐ Until activity https://learn.microsoft.com/en-us/fabric/data-factory/until-activity (2025-03-17T22:02:00Z)
+            ☐ Wait activity https://learn.microsoft.com/en-us/fabric/data-factory/wait-activity (2025-03-17T22:02:00Z)
+            ☐ Web activity https://learn.microsoft.com/en-us/fabric/data-factory/web-activity (2025-03-17T22:02:00Z)
+            ☐ WebHook activity https://learn.microsoft.com/en-us/fabric/data-factory/webhook-activity (2025-03-17T22:02:00Z)
+        Concepts:
+            ☐ REST API capabilities https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-rest-api-capabilities (2025-04-14T22:02:00Z)
+            ☐ CI/CD for data pipelines https://learn.microsoft.com/en-us/fabric/data-factory/cicd-pipelines (2025-01-26T12:09:00Z)
+            ☐ Monitor data pipeline runs https://learn.microsoft.com/en-us/fabric/data-factory/monitor-pipeline-runs (2025-03-17T22:02:00Z)
+            Parameterization:
+                ☐ Parameter usage https://learn.microsoft.com/en-us/fabric/data-factory/parameters (2025-03-17T22:02:00Z)
+                ☐ Expression language https://learn.microsoft.com/en-us/fabric/data-factory/expression-language (2025-03-17T22:02:00Z)
+            ☐ Data pipeline runs https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-runs (2025-03-17T22:02:00Z)
+            ☐ Storage event triggers https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-storage-event-triggers (2025-03-31T14:43:00Z)
+            ☐ Variable library integration (Preview) https://learn.microsoft.com/en-us/fabric/data-factory/variable-library-integration-with-data-pipelines (2025-04-23T11:11:00Z)
+        How-to:
+            ☐ Use the pipeline landing page https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-landing-page (2025-03-17T22:02:00Z)
+            ☐ How to use pipeline sample templates https://learn.microsoft.com/en-us/fabric/data-factory/templates (2025-03-17T22:02:00Z)
+            ☐ Monitor data pipeline runs https://learn.microsoft.com/en-us/fabric/data-factory/monitor-pipeline-runs (2025-03-17T22:02:00Z)
+            ☐ Browse pipeline runs in the Monitoring Hub https://learn.microsoft.com/en-us/fabric/data-factory/monitoring-hub-pipeline-runs (2025-03-17T22:02:00Z)
+            ☐ Run a Script activity and send output by email https://learn.microsoft.com/en-us/fabric/data-factory/script-activity-email-output (2025-03-17T22:02:00Z)
+            ☐ Copy activity performance and scalability guide https://learn.microsoft.com/en-us/fabric/data-factory/copy-activity-performance-and-scalability-guide (2025-02-07T23:02:00Z)
+            ☐ Use the modern get data experience for pipelines https://learn.microsoft.com/en-us/fabric/data-factory/modern-get-data-experience-pipeline (2025-03-17T22:02:00Z)
+            ☐ Data type mapping https://learn.microsoft.com/en-us/fabric/data-factory/data-type-mapping (2025-02-07T23:02:00Z)
+            ☐ Use AI to turn sketches into pipelines https://learn.microsoft.com/en-us/fabric/data-factory/image-to-pipeline-with-ai (2025-01-17T18:02:00Z)
+        Tutorials:
+            ☐ Copy from Azure Blob Storage to Lakehouse https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-pipeline-copy-from-azure-blob-storage-to-lakehouse (2025-03-17T22:02:00Z)
+            ☐ Copy sample data into Lakehouse and transform with a dataflow https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-load-data-lakehouse-transform (2025-03-24T11:07:00Z)
+            ☐ Execute Azure SQL DW stored procedure and copy data to Lakehouse https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-preprocess-data-with-stored-procedure-load-into-lakehouse (2025-03-17T22:02:00Z)
+            ☐ Move data from Azure SQL DB into Lakehouse via copy assistant https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-move-data-lakehouse-copy-assistant (2025-03-17T22:02:00Z)
+            ☐ Move data from Azure SQL DB to Lakehouse via pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-move-data-lakehouse-pipeline (2025-03-17T22:02:00Z)
+            ☐ Load sample data to Data Warehouse https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-load-sample-data-to-data-warehouse (2025-03-24T11:07:00Z)
+            ☐ Incrementally load data from Data Warehouse to Lakehouse https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-incremental-copy-data-warehouse-lakehouse (2025-03-17T22:02:00Z)
+            ☐ Incrementally copy files by the last modified date https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-incremental-copy-files-last-modified-date (2025-03-17T22:02:00Z)
+            ☐ Load data to Lakehouse using partition https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-lakehouse-partition (2025-03-17T22:02:00Z)
+            ☐ Move data from Oracle to Fabric Lakehouse via pipeline and on-premises data gateway https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-move-data-from-oracle-to-lakehouse-pipeline (2025-03-17T22:02:00Z)
+    Dataflows:
+        Concepts:
+            ☐ Data source management https://learn.microsoft.com/en-us/fabric/data-factory/data-source-management (2025-04-18T11:05:00Z)
+            ☐ Dataflow Gen2 destinations and managed settings https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-data-destinations-and-managed-settings (2024-11-20T23:00:00Z)
+            ☐ Dataflow Gen2 default destination https://learn.microsoft.com/en-us/fabric/data-factory/default-destination (2025-02-27T12:05:00Z)
+            ☐ Fast copy at scale https://learn.microsoft.com/en-us/fabric/data-factory/dataflows-gen2-fast-copy (2025-04-22T11:09:00Z)
+            ☐ Monitoring your Dataflows in Fabric https://learn.microsoft.com/en-us/fabric/data-factory/dataflows-gen2-monitor (2025-02-07T23:02:00Z)
+            ☐ Dataflow Gen2 refresh https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-refresh (2024-12-18T22:58:00Z)
+            ☐ Public parameters in Dataflow Gen2 (Preview) https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-parameters (2025-05-12T17:01:00Z)
+            ☐ Data in Dataflow Gen2 staging https://learn.microsoft.com/en-us/fabric/data-factory/data-in-staging-artifacts (2024-08-06T17:06:00Z)
+            ☐ Dataflow Gen2 incremental refresh https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-incremental-refresh (2025-04-18T17:00:00Z)
+            ☐ Dataflow Gen2 with CICD and Git integration https://learn.microsoft.com/en-us/fabric/data-factory/dataflow-gen2-cicd-and-git-integration (2025-03-31T18:03:00Z)
+        How-to:
+            ☐ Saving a draft of your dataflow https://learn.microsoft.com/en-us/fabric/data-factory/dataflows-gen2-save-draft (2025-02-07T23:02:00Z)
+            ☐ How to obfuscate data https://learn.microsoft.com/en-us/fabric/data-factory/data-obfuscation-with-delphix (2025-04-29T11:05:00Z)
+            ☐ How to handle schema drift https://learn.microsoft.com/en-us/fabric/data-factory/how-to-handle-schema-drift (2024-09-20T17:02:00Z)
+        Tutorials:
+            ☐ Use a dataflow in a pipeline https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-dataflows-gen2-pipeline-activity (2025-02-07T23:02:00Z)
+            ☐ Pattern to incrementally amass data with Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/tutorial-setup-incremental-refresh-with-dataflows-gen2 (2025-03-17T22:02:00Z)
+            ☐ Slowly changing dimension type 1 https://learn.microsoft.com/en-us/fabric/data-factory/slowly-changing-dimension-type-one (2024-09-20T17:02:00Z)
+            ☐ Slowly changing dimension type 2 https://learn.microsoft.com/en-us/fabric/data-factory/slowly-changing-dimension-type-two (2025-03-17T22:02:00Z)
+    Copy job:
+        ☐ What is the Copy job in Data Factory? https://learn.microsoft.com/en-us/fabric/data-factory/what-is-copy-job (2025-05-06T11:13:00Z)
+        ☐ How to create a Copy job https://learn.microsoft.com/en-us/fabric/data-factory/create-copy-job (2025-04-02T11:13:00Z)
+        ☐ How to monitor a Copy job https://learn.microsoft.com/en-us/fabric/data-factory/monitor-copy-job (2025-04-02T11:13:00Z)
+        ☐ CI/CD for Copy job https://learn.microsoft.com/en-us/fabric/data-factory/cicd-copy-job (2025-03-31T14:43:00Z)
+    Data gateway:
+        On-premises data gateways docs:
+            ☐ What is an on-premises data gateway? https://learn.microsoft.com/data-integration/gateway/service-gateway-onprem?toc=/fabric/data-factory/toc.json (2025-04-02T22:01:00Z)
+            Concepts:
+                ☐ On-premises data gateway architecture https://learn.microsoft.com/data-integration/gateway/service-gateway-onprem-indepth?toc=/fabric/data-factory/toc.json (2024-07-29T22:03:00Z)
+                ☐ On-premises data gateway FAQ https://learn.microsoft.com/data-integration/gateway/service-gateway-onprem-faq?toc=/fabric/data-factory/toc.json (2025-05-02T22:06:00Z)
+            How to:
+                ☐ Install gateways https://learn.microsoft.com/data-integration/gateway/service-gateway-install?toc=/fabric/data-factory/toc.json (2025-04-23T22:08:00Z)
+                Configure gateways:
+                    ☐ Use the on-premises data gateway app https://learn.microsoft.com/data-integration/gateway/service-gateway-app?toc=/fabric/data-factory/toc.json (2024-06-27T22:02:00Z)
+                    ☐ Configure proxy settings https://learn.microsoft.com/data-integration/gateway/service-gateway-proxy?toc=/fabric/data-factory/toc.json (2024-05-17T16:01:00Z)
+                    ☐ Step by step guide on configuring your proxy settings https://learn.microsoft.com/data-integration/gateway/service-gateway-proxy-setup-guide?toc=/fabric/data-factory/toc.json (2025-01-07T23:01:00Z)
+                    ☐ Change the gateway service account https://learn.microsoft.com/data-integration/gateway/service-gateway-service-account?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                    ☐ Set the data center region https://learn.microsoft.com/data-integration/gateway/service-gateway-data-region?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                    ☐ Set the Azure Relay https://learn.microsoft.com/data-integration/gateway/service-gateway-azure-relay?toc=/fabric/data-factory/toc.json (2025-04-01T18:10:00Z)
+                    ☐ Adjust communication settings https://learn.microsoft.com/data-integration/gateway/service-gateway-communication?toc=/fabric/data-factory/toc.json (2025-03-17T16:01:00Z)
+                    ☐ Configure the gateway log file https://learn.microsoft.com/data-integration/gateway/service-gateway-log-files?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                    ☐ Adjust performance based on CPU https://learn.microsoft.com/data-integration/gateway/service-gateway-performance-cpu?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                    ☐ Configure gateway disk space https://learn.microsoft.com/data-integration/gateway/service-gateway-configure-disk-space?toc=/fabric/data-factory/toc.json (2024-09-30T22:01:00Z)
+                    ☐ Configure tenant registration settings https://learn.microsoft.com/data-integration/gateway/service-gateway-tenant-registration?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                Manage gateways:
+                    ☐ Manage in a service https://learn.microsoft.com/data-integration/gateway/service-gateway-manage?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                    ☐ Manage security roles https://learn.microsoft.com/data-integration/gateway/manage-security-roles?toc=/fabric/data-factory/toc.json (2024-09-30T22:01:00Z)
+                    ☐ Manage high availability clusters and load balancing https://learn.microsoft.com/data-integration/gateway/service-gateway-high-availability-clusters?toc=/fabric/data-factory/toc.json (2024-07-01T22:02:00Z)
+                    ☐ Update an on-premises data gateway https://learn.microsoft.com/data-integration/gateway/service-gateway-update?toc=/fabric/data-factory/toc.json (2024-06-26T22:02:00Z)
+                    ☐ Migrate, restore, or take over a gateway https://learn.microsoft.com/data-integration/gateway/service-gateway-migrate?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                    ☐ Restart a gateway https://learn.microsoft.com/data-integration/gateway/service-gateway-restart?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                    ☐ Change a recovery key https://learn.microsoft.com/data-integration/gateway/service-gateway-recovery-key?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                ☐ Plan, scale, and maintain business-critical gateway clusters https://learn.microsoft.com/data-integration/gateway/plan-scale-maintain?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                ☐ Troubleshoot the on-premises data gateway https://learn.microsoft.com/data-integration/gateway/service-gateway-tshoot?toc=/fabric/data-factory/toc.json (2025-04-01T18:10:00Z)
+                ☐ Monitor and optimize gateway performance https://learn.microsoft.com/data-integration/gateway/service-gateway-performance?toc=/fabric/data-factory/toc.json (2024-10-30T16:02:00Z)
+            Reference:
+                ☐ PowerShell support for gateway clusters https://learn.microsoft.com/data-integration/gateway/service-gateway-powershell-support?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+            Resources:
+                ☐ Supported monthly updates https://learn.microsoft.com/data-integration/gateway/service-gateway-monthly-updates?toc=/fabric/data-factory/toc.json (2025-04-23T16:03:00Z)
+        Virtual network data gateways docs:
+            ☐ What is a virtual network data gateway? https://learn.microsoft.com/data-integration/vnet/overview?toc=/fabric/data-factory/toc.json (2025-05-07T16:04:00Z)
+            Concepts:
+                ☐ What is a virtual network? https://learn.microsoft.com/data-integration/vnet/what-is?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                ☐ Virtual network data gateway architecture https://learn.microsoft.com/data-integration/vnet/data-gateway-architecture?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                ☐ Virtual network data gateways business model https://learn.microsoft.com/data-integration/vnet/data-gateway-business-model?toc=/fabric/data-factory/toc.json (2025-01-20T17:01:00Z)
+            How to:
+                ☐ Create virtual network data gateways https://learn.microsoft.com/data-integration/vnet/create-data-gateways?toc=/fabric/data-factory/toc.json (2025-05-12T16:01:00Z)
+                ☐ Manage virtual network data gateways https://learn.microsoft.com/data-integration/vnet/manage-data-gateways?toc=/fabric/data-factory/toc.json (2024-10-25T16:01:00Z)
+                ☐ Use virtual network data gateway in Fabric with Dataflows Gen 2 https://learn.microsoft.com/data-integration/vnet/use-data-gateways-dfgen2-fabric?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                ☐ Use virtual network data gateway in Power BI https://learn.microsoft.com/data-integration/vnet/use-data-gateways-sources-power-bi?toc=/fabric/data-factory/toc.json (2024-10-30T16:02:00Z)
+                ☐ Use virtual network data gateway in Power Platform dataflows https://learn.microsoft.com/data-integration/vnet/data-gateway-power-platform-dataflows?toc=/fabric/data-factory/toc.json (2024-05-06T22:02:00Z)
+                ☐ Manage virtual network data gateway high availability and load balancing https://learn.microsoft.com/data-integration/vnet/high-availability-load-balancing?toc=/fabric/data-factory/toc.json (2025-03-24T16:01:00Z)
+                ☐ Manage virtual network security roles https://learn.microsoft.com/data-integration/vnet/manage-vnet-security-roles?toc=/fabric/data-factory/toc.json (2024-09-30T22:01:00Z)
+                ☐ Troubleshoot a virtual network data gateway network https://learn.microsoft.com/data-integration/vnet/troubleshoot-data-gateway?toc=/fabric/data-factory/toc.json (2024-09-30T22:01:00Z)
+                ☐ Virtual network data gateway best practices https://learn.microsoft.com/data-integration/vnet/vnet-best-practices?toc=/fabric/data-factory/toc.json (2024-05-10T16:01:00Z)
+                ☐ Virtual network data gateway FAQs https://learn.microsoft.com/data-integration/vnet/data-gateway-faqs?toc=/fabric/data-factory/toc.json (2025-03-12T16:01:00Z)
+                ☐ Download diagnostics logs https://learn.microsoft.com/data-integration/vnet/data-gateway-download-diagnostics?toc=/fabric/data-factory/toc.json (2024-12-13T17:01:00Z)
+    Apache Airflow Job:
+        ☐ Concepts https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-concepts (2025-04-16T11:14:00Z)
+        How-to:
+            ☐ Synchronize your code from an existing Git repo https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-sync-git-repo (2025-04-18T11:05:00Z)
+            ☐ Apache Airflow Job workspace settings https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-workspace-settings (2024-11-19T18:02:00Z)
+            ☐ Install a private package https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-install-private-package (2025-02-07T23:02:00Z)
+            ☐ Enable Azure Key Vault as Secret Backend https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-enable-azure-key-vault (2025-02-07T23:02:00Z)
+            ☐ Set up SMTP Server https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-set-smtp-server (2025-02-07T23:02:00Z)
+            ☐ Add a Kubernetes secret https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-access-private-container-registry (2025-02-07T23:02:00Z)
+            ☐ Apache Airflow configurations https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-supported-apache-airflow-configurations (2025-02-07T23:02:00Z)
+            ☐ Migrate from Azure Workflow Orchestration Manager https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-migrate-azure-workflow-orchestration-manager (2025-01-30T23:02:00Z)
+            ☐ Access logs https://learn.microsoft.com/en-us/fabric/data-factory/access-apache-airflow-job-logs (2025-04-18T11:05:00Z)
+        Tutorials:
+            ☐ Hello World https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-hello-world (2025-04-18T11:05:00Z)
+            ☐ Run Fabric data pipelines and notebooks https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-run-fabric-item-job (2025-04-16T11:14:00Z)
+            ☐ Use AI to build DAGs from an image https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-job-build-dags-using-azure-openai (2025-04-18T11:05:00Z)
+            ☐ Run ADF pipeline https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-run-azure-data-factory-pipeline (2025-04-18T11:05:00Z)
+            ☐ Run Azure Databricks job https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-run-databricks-job (2025-04-18T11:05:00Z)
+            ☐ Refresh Power BI Semantic Model https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-power-bi-semantic-model-refresh (2025-04-18T11:05:00Z)
+            ☐ Transform data using dbt https://learn.microsoft.com/en-us/fabric/data-factory/apache-airflow-jobs-dbt-fabric (2025-04-18T11:05:00Z)
+    Azure Key Vault Reference (Preview):
+        ☐ Overview https://learn.microsoft.com/en-us/fabric/data-factory/azure-key-vault-reference-overview (2025-04-29T22:01:00Z)
+        How to:
+            ☐ Configure AKV references https://learn.microsoft.com/en-us/fabric/data-factory/azure-key-vault-reference-configure (2025-04-29T22:01:00Z)
+    Best practices:
+        ☐ Copy performance for SQL databases https://learn.microsoft.com/en-us/fabric/data-factory/copy-performance-sql-databases (2025-03-21T22:00:00Z)
+    Extensibility:
+        Connector certification:
+            ☐ Data Factory connector certification https://learn.microsoft.com/en-us/fabric/data-factory/connector-certification (2024-12-13T23:02:00Z)
+            ☐ Provide connector documentation https://learn.microsoft.com/en-us/fabric/data-factory/providing-user-documentation (2024-09-17T11:05:00Z)
+    FAQ and Troubleshooting:
+        ☐ Frequently asked questions https://learn.microsoft.com/en-us/fabric/data-factory/frequently-asked-questions (2025-02-07T23:02:00Z)
+        ☐ Gateway considerations for data destinations in Dataflow Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/gateway-considerations-output-destinations (2025-04-30T17:06:00Z)
+        ☐ Getting from Azure Data Factory to Data Factory in Fabric https://learn.microsoft.com/en-us/fabric/data-factory/compare-fabric-data-factory-and-azure-data-factory (2025-05-09T22:01:00Z)
+        ☐ Getting from Dataflow Gen1 to Gen2 https://learn.microsoft.com/en-us/fabric/data-factory/dataflows-gen2-overview (2025-04-23T22:07:00Z)
+        ☐ Pipeline activities troubleshooting guide https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-troubleshoot-guide (2025-05-08T22:04:00Z)
+        Connectors:
+            ☐ Connector troubleshooting overview https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-overview (2024-11-27T17:59:00Z)
+            ☐ Azure Blob Storage https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-azure-blob-storage (2025-03-17T22:02:00Z)
+            ☐ Azure Cosmos DB https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-azure-cosmos-db (2025-03-17T22:02:00Z)
+            ☐ DB2 https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-db2 (2025-03-17T22:02:00Z)
+            ☐ Azure Data Explorer https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-azure-data-explorer (2025-03-17T22:02:00Z)
+            ☐ Azure Data Lake Storage https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-azure-data-lake-storage (2025-03-17T22:02:00Z)
+            ☐ Azure Database for PostgreSQL https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-azure-database-for-postgresql (2025-03-17T22:02:00Z)
+            ☐ Azure Files https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-azure-files (2025-03-17T22:02:00Z)
+            ☐ Azure Synapse Analytics, Azure SQL Database, SQL Server, Azure SQL Managed Instance, and Amazon RDS for SQL Server https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-synapse-sql (2025-03-17T22:02:00Z)
+            ☐ Azure Table Storage https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-azure-table-storage (2025-03-17T22:02:00Z)
+            ☐ Dynamics 365, Dataverse (Common Data Service), and Dynamics CRM https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-dynamics-dataverse (2025-03-17T22:02:00Z)
+            ☐ MongoDB https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-mongodb (2025-02-09T12:11:00Z)
+            ☐ Oracle https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-oracle (2025-02-09T12:11:00Z)
+            ☐ Snowflake https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-snowflake (2025-02-09T12:11:00Z)
+            ☐ FTP-SFTP-HTTP https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-ftp-sftp-http (2025-02-09T12:11:00Z)
+            ☐ REST https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-rest (2025-03-17T22:02:00Z)
+            ☐ Sharepoint Online list https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-sharepoint-online-list (2025-03-17T22:02:00Z)
+            Format:
+                ☐ Delimited text https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-delimited-text (2025-03-17T22:02:00Z)
+                ☐ ORC https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-orc-format (2025-03-17T22:02:00Z)
+                ☐ Parquet https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-parquet-format (2025-03-17T22:02:00Z)
+                ☐ XML https://learn.microsoft.com/en-us/fabric/data-factory/connector-troubleshoot-xml (2025-03-17T22:02:00Z)
+        ☐ Data Factory limitations https://learn.microsoft.com/en-us/fabric/data-factory/data-factory-limitations (2025-03-31T14:43:00Z)
+        ☐ Fabric known issues https://learn.microsoft.com/en-us/fabric/get-started/fabric-known-issues?toc=/fabric/data-factory/toc.json (2025-05-09T22:01:00Z)
+    Reference:
+        ☐ CI/CD for data pipelines https://learn.microsoft.com/en-us/fabric/data-factory/git-integration-deployment-pipelines (2025-03-31T14:43:00Z)
+        ☐ Data pipelines REST API https://learn.microsoft.com/en-us/fabric/data-factory/pipeline-rest-api (2025-03-31T14:43:00Z)
+

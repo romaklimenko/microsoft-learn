@@ -1,0 +1,129 @@
+Web Application Firewall documentation | Microsoft Learn:
+    ☐ Azure Web Application Firewall documentation https://learn.microsoft.com/en-us/azure/web-application-firewall/ (2025-02-03 06:09 PM)
+    Get started:
+        ☐ What is Azure Web Application Firewall? https://learn.microsoft.com/en-us/azure/web-application-firewall/overview (2025-02-03T18:09:00Z)
+        Application Gateway:
+            ☐ Web Application Firewall on Application Gateway https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/ag-overview (2025-03-10T22:02:00Z)
+            ☐ FAQ https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-faq (2025-02-03T23:15:00Z)
+        Front Door:
+            ☐ Web Application Firewall on Azure Front Door https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/afds-overview (2025-02-03T23:15:00Z)
+            ☐ FAQ https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-faq (2025-02-03T23:15:00Z)
+        Azure CDN:
+            ☐ Web Application Firewall on Azure CDN https://learn.microsoft.com/en-us/azure/web-application-firewall/cdn/cdn-overview (2025-02-03T23:15:00Z)
+    Deploy:
+        Application Gateway:
+            Create Web Application Firewall:
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-web-application-firewall-portal (2025-03-23T23:14:00Z)
+                ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/tutorial-restrict-web-traffic-powershell (2025-02-03T23:15:00Z)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/tutorial-restrict-web-traffic-cli (2025-02-03T23:15:00Z)
+            ☐ Create Web Application Firewall v2 - ARM template https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/quick-create-template (2025-03-23T11:20:00Z)
+            ☐ Create Web Application Firewall v2 - Bicep https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/quick-create-bicep (2025-03-23T11:20:00Z)
+            ☐ Create Web Application Firewall v2 – Terraform https://learn.microsoft.com/en-us/azure/web-application-firewall/quickstart-web-application-firewall-terraform (2025-04-09T22:03:00Z)
+        Front Door:
+            ☐ Create WAF policy - portal https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-create-portal (2025-03-27T06:08:00Z)
+    Configure:
+        Application Gateway:
+            WAF policy:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/policy-overview (2025-02-03T23:15:00Z)
+                ☐ Create WAF policy https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/create-waf-policy-ag (2025-03-23T23:14:00Z)
+                ☐ Per-site policies https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/per-site-policies (2025-02-03T23:15:00Z)
+                ☐ Associate a policy with an existing Application Gateway https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/associate-waf-policy-existing-gateway (2025-02-03T23:15:00Z)
+                Upgrade WAF:
+                    ☐ Upgrade to WAF policy https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/upgrade-ag-waf-policy (2025-04-30T22:04:00Z)
+                    ☐ Upgrade using PowerShell https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/migrate-policy (2025-02-03T23:15:00Z)
+            Managed rules:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-crs-rulegroups-rules (2025-04-20T05:18:00Z)
+                ☐ Exclusion lists https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-configuration (2025-02-03T23:15:00Z)
+                Customize managed rules:
+                    ☐ Azure portal https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-portal (2025-02-03T23:15:00Z)
+                    ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-powershell (2025-02-03T23:15:00Z)
+                    ☐ Azure CLI https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-customize-waf-rules-cli (2025-02-03T23:15:00Z)
+            Bot protection:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/bot-protection-overview (2025-05-12T22:03:00Z)
+                ☐ Configure bot protection https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/bot-protection (2025-03-23T23:14:00Z)
+            Custom rules:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/custom-waf-rules-overview (2025-03-30T23:13:00Z)
+                ☐ Geomatch custom rules https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/geomatch-custom-rules (2025-05-12T22:03:00Z)
+                ☐ Rate limiting https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/rate-limiting-overview (2025-03-30T23:13:00Z)
+                ☐ Configure WAF v2 custom rule - PowerShell https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/configure-waf-custom-rules (2025-02-03T23:15:00Z)
+                ☐ Custom rule examples https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/create-custom-waf-rules (2025-05-01T05:13:00Z)
+                ☐ Create rate limiting rules https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/rate-limiting-configure (2025-02-03T23:15:00Z)
+                ☐ Use geomatch custom rules to enhance network security https://learn.microsoft.com/en-us/azure/web-application-firewall/geomatch-custom-rules-examples (2025-02-03T18:09:00Z)
+            ☐ Request size limits https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-request-size-limits (2025-02-03T23:15:00Z)
+            ☐ WAF engine https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-engine (2025-03-06T18:03:00Z)
+        Front Door:
+            WAF Policy:
+                ☐ Policy settings https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-policy-settings (2025-02-03T23:15:00Z)
+                ☐ Configure WAF policy - PowerShell https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules-powershell (2025-02-03T23:15:00Z)
+            Managed rules:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-drs (2025-04-29T05:40:00Z)
+                ☐ Exclusion lists https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-exclusion (2025-02-03T23:15:00Z)
+                ☐ Configure exclusion lists https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-exclusion-configure (2025-03-23T23:14:00Z)
+            ☐ Configure bot protection https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-policy-configure-bot-protection (2025-02-03T23:15:00Z)
+            Custom rules:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-custom-rules (2025-02-03T23:15:00Z)
+                ☐ Rate limiting https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit (2025-03-03T18:05:00Z)
+                ☐ Geo-filtering https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-geo-filtering (2025-02-03T23:15:00Z)
+                ☐ Configure rate limit https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-rate-limit-configure (2025-03-23T23:14:00Z)
+                ☐ Configure a geo-filtering WAF policy https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tutorial-geo-filtering (2025-02-03T23:15:00Z)
+                ☐ Configure IP restrictions https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-ip-restriction (2025-02-03T23:15:00Z)
+                ☐ Use geomatch custom rules to enhance network security https://learn.microsoft.com/en-us/azure/web-application-firewall/geomatch-custom-rules-examples (2025-02-03T18:09:00Z)
+            ☐ Tuning https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-tuning (2025-03-23T23:14:00Z)
+            ☐ Configure custom response code https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-configure-custom-response-code (2025-05-08T22:03:00Z)
+        ☐ Use Azure Policy https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/waf-azure-policy (2025-03-23T23:14:00Z)
+        ☐ Configure policies using Firewall Manager https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/manage-policies (2025-02-03T23:15:00Z)
+        ☐ Protect APIs hosted in APIM https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-api-hosted-apim-by-waf (2025-03-23T23:14:00Z)
+        ☐ Protect Azure OpenAI https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/protect-azure-open-ai (2025-03-23T23:14:00Z)
+    Security:
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/web-application-firewall-security-baseline?toc=/azure/web-application-firewall/toc.json (2025-02-27T14:58:00Z)
+        ☐ Azure Network Security Blog https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog
+        Sensitive Data Protection:
+            Application Gateway:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-sensitive-data-protection (2025-02-03T23:15:00Z)
+                ☐ Mask sensitive data https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/waf-sensitive-data-protection-configure (2025-02-03T18:09:00Z)
+            Front Door:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-sensitive-data-protection-frontdoor (2025-05-01T05:13:00Z)
+                ☐ Mask sensitive data https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-sensitive-data-protection-configure-frontdoor (2025-05-01T05:13:00Z)
+        Microsoft Sentinel:
+            ☐ Using Microsoft Sentinel with Web Application Firewall https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-sentinel (2025-03-23T23:14:00Z)
+            ☐ Detect new threats using Microsoft Sentinel https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-new-threat-detection (2025-03-23T23:14:00Z)
+            ☐ Automated detection and response https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/automated-detection-response-with-sentinel (2025-03-23T23:14:00Z)
+        ☐ Application DDoS protection https://learn.microsoft.com/en-us/azure/web-application-firewall/shared/application-ddos-protection (2025-03-30T23:13:00Z)
+        ☐ Microsoft Copilot for Security https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-copilot (2025-03-21T17:02:00Z)
+        ☐ JavaScript challenge https://learn.microsoft.com/en-us/azure/web-application-firewall/waf-javascript-challenge (2025-02-03T18:09:00Z)
+        ☐ CAPTCHA challenge https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/captcha-challenge (2025-04-29T11:16:00Z)
+    Operational excellence:
+        Application Gateway:
+            ☐ Best practices https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/best-practices (2025-05-01T05:13:00Z)
+            ☐ Monitoring and logging https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/application-gateway-waf-metrics (2025-03-23T23:14:00Z)
+            ☐ Resource logs https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/web-application-firewall-logs (2025-02-03T23:15:00Z)
+            ☐ Log Analytics https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/log-analytics (2025-02-03T23:15:00Z)
+            ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/web-application-firewall/ag/web-application-firewall-troubleshoot (2025-05-09T22:02:00Z)
+        Front Door:
+            ☐ Best practices https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-best-practices (2025-02-03T23:15:00Z)
+            ☐ Monitoring and logging https://learn.microsoft.com/en-us/azure/web-application-firewall/afds/waf-front-door-monitor (2025-03-23T23:14:00Z)
+    Reference:
+        Azure PowerShell:
+            ☐ Front Door https://learn.microsoft.com/powershell/module/az.frontdoor/ (2025-05-06T17:01:00Z)
+            ☐ Application Gateway https://learn.microsoft.com/powershell/module/az.network/#application_gateway (2025-05-06T17:01:00Z)
+            ☐ CDN https://www.powershellgallery.com/packages/Az.Cdn/1.5.0-preview
+        Azure CLI:
+            ☐ Front Door https://learn.microsoft.com/cli/azure/network/front-door/waf-policy (2025-05-02T22:02:00Z)
+            ☐ Application Gateway https://learn.microsoft.com/cli/azure/network/application-gateway (2025-03-25T06:59:00Z)
+            ☐ CDN https://learn.microsoft.com/azure/web-application-firewall/afds/waf-front-door-create-portal (2025-03-27T06:08:00Z)
+        REST API:
+            ☐ Front Door https://learn.microsoft.com/rest/api/frontdoorservice/webapplicationfirewall/policies (2025-04-25T22:11:00Z)
+            ☐ Application Gateway https://learn.microsoft.com/rest/api/application-gateway (2024-08-06T22:08:00Z)
+        ☐ .NET https://learn.microsoft.com/dotnet/api (2025-01-29T08:15:00Z)
+        ☐ Node.js https://azure.microsoft.com/develop/nodejs/#azure-sdk
+        ☐ Python https://azure.microsoft.com/develop/python/
+    Resources:
+        ☐ Microsoft Q&A https://learn.microsoft.com/answers/topics/azure-web-application-firewall.html
+        ☐ Azure Networking Blog https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog
+        ☐ Azure support https://azure.microsoft.com/support/
+        ☐ Pricing https://azure.microsoft.com/pricing/details/web-application-firewall/
+        ☐ Service updates https://azure.microsoft.com/updates?filters=%5B%22Web+Application+Firewall%22%5D
+        ☐ SLA https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services
+        ☐ Regional availability https://azure.microsoft.com/regions/services/
+        ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-waf
+

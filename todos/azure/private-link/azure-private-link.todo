@@ -1,0 +1,92 @@
+Private Link Documentation - Quickstarts, How to guides, and API references | Microsoft Learn:
+    ☐ Azure Private Link documentation https://learn.microsoft.com/en-us/azure/private-link/ (2025-03-26 05:06 PM)
+    Get started:
+        ☐ What is Azure Private Link? https://learn.microsoft.com/en-us/azure/private-link/private-link-overview (2025-03-26T17:06:00Z)
+        ☐ What is a private endpoint? https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-overview (2025-04-03T17:04:00Z)
+        ☐ Private Link service https://learn.microsoft.com/en-us/azure/private-link/private-link-service-overview (2025-01-24T05:34:00Z)
+        ☐ What is a network security perimeter? https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-concepts (2025-04-16T22:02:00Z)
+        ☐ Availability https://learn.microsoft.com/en-us/azure/private-link/availability (2025-03-26T17:06:00Z)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/private-link/private-link-faq (2025-03-26T17:06:00Z)
+    Configure:
+        Create a private endpoint:
+            ☐ Create a private endpoint - Azure portal https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-portal (2025-03-26T17:06:00Z)
+            ☐ Create a private endpoint - PowerShell https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-powershell (2025-03-26T17:06:00Z)
+            ☐ Create a private endpoint - Azure CLI https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-cli (2025-03-26T17:06:00Z)
+            ☐ Create a private endpoint - Bicep https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-bicep (2025-03-26T17:06:00Z)
+            ☐ Create a private endpoint - ARM template https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-template (2025-03-26T17:06:00Z)
+            ☐ Create a private endpoint - Terraform https://learn.microsoft.com/en-us/azure/private-link/create-private-endpoint-terraform (2025-03-26T17:06:00Z)
+        Create a Private Link service:
+            ☐ Create a Private Link service - Azure portal https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-portal (2025-04-10T22:11:00Z)
+            ☐ Create a Private Link service - PowerShell https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-powershell (2025-03-26T17:06:00Z)
+            ☐ Create a Private Link service - Azure CLI https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-cli (2025-03-26T17:06:00Z)
+            ☐ Create a Private Link service - Bicep https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-bicep (2025-03-26T17:06:00Z)
+            ☐ Create a Private Link service - ARM template https://learn.microsoft.com/en-us/azure/private-link/create-private-link-service-template (2025-03-26T17:06:00Z)
+        ☐ Disable SNAT for traffic through NVA https://learn.microsoft.com/en-us/azure/private-link/private-link-disable-snat (2025-03-17T22:05:00Z)
+        ☐ Increase Private Endpoint virtual network limits https://learn.microsoft.com/en-us/azure/private-link/increase-private-endpoint-vnet-limits (2025-04-02T22:06:00Z)
+        Create a network security perimeter:
+            ☐ Create a network security perimeter - Azure portal https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-portal (2025-03-26T17:06:00Z)
+            ☐ Create a network security perimeter - PowerShell https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-powershell (2025-03-26T17:06:00Z)
+            ☐ Create a network security perimeter - Azure CLI https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-cli (2025-03-26T17:06:00Z)
+            ☐ Create a network security perimeter - Bicep https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-bicep (2025-04-30T17:06:00Z)
+            ☐ Create a network security perimeter - ARM template https://learn.microsoft.com/en-us/azure/private-link/create-network-security-perimeter-template (2025-03-26T17:06:00Z)
+            ☐ Transition to a network security perimeter https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-transition (2025-03-07T23:05:00Z)
+        DNS:
+            ☐ Private DNS zone values https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns (2025-03-26T17:06:00Z)
+            ☐ Private endpoint DNS integration https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-dns-integration (2025-05-04T05:11:00Z)
+        ☐ Export private endpoint DNS records https://learn.microsoft.com/en-us/azure/private-link/private-endpoint-export-dns (2025-01-07T23:03:00Z)
+        ☐ Private Link and DNS in Azure Virtual WAN https://learn.microsoft.com/azure/architecture/guide/networking/private-link-virtual-wan-dns-guide?toc=/azure/private-link/toc.json (2025-05-12T17:32:00Z)
+    Deploy:
+        SQL:
+            ☐ Connect to a SQL server - Azure portal https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-portal (2025-03-26T17:06:00Z)
+            ☐ Connect to a SQL server - PowerShell https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-powershell (2025-01-07T23:03:00Z)
+            ☐ Connect to a SQL server - Azure CLI https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-sql-cli (2025-01-07T23:03:00Z)
+        ☐ Deploy a private endpoint with a private resolver https://learn.microsoft.com/en-us/azure/private-link/tutorial-dns-on-premises-private-resolver (2025-02-18T23:02:00Z)
+        ☐ Connect to a storage account https://learn.microsoft.com/en-us/azure/private-link/tutorial-private-endpoint-storage-portal (2025-03-26T17:06:00Z)
+        ☐ Connect to an Azure Cosmos DB account https://learn.microsoft.com/azure/cosmos-db/how-to-configure-private-endpoints?toc=/azure/private-link/toc.json (2024-09-27T11:13:00Z)
+        ☐ Approve private link connections across subscriptions https://learn.microsoft.com/en-us/azure/private-link/how-to-approve-private-link-cross-subscription (2025-03-26T17:06:00Z)
+    Operational excellence:
+        ☐ Monitor Private Link https://learn.microsoft.com/en-us/azure/private-link/monitor-private-link (2025-05-04T05:11:00Z)
+        ☐ Manage network policies for private endpoints https://learn.microsoft.com/en-us/azure/private-link/disable-private-endpoint-network-policy (2025-04-25T17:04:00Z)
+        ☐ Disable network policies for a Private Link service https://learn.microsoft.com/en-us/azure/private-link/disable-private-link-service-network-policy (2025-03-26T17:06:00Z)
+        ☐ Manage private endpoints https://learn.microsoft.com/en-us/azure/private-link/manage-private-endpoint (2025-03-26T17:06:00Z)
+        ☐ Relocate Private Link Service to another region https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-private-link?toc=/azure/private-link/toc.json (2025-04-11T22:03:00Z)
+        ☐ Azure Security blog https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog
+        Network security perimeter:
+            ☐ Diagnostic logs https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-diagnostic-logs (2025-04-16T11:18:00Z)
+    Security:
+        ☐ Configure an application security group https://learn.microsoft.com/en-us/azure/private-link/configure-asg-private-endpoint (2025-03-26T17:06:00Z)
+        ☐ Inspect private endpoint traffic with Azure Firewall https://learn.microsoft.com/en-us/azure/private-link/tutorial-inspect-traffic-azure-firewall (2025-02-18T23:02:00Z)
+        ☐ RBAC permissions https://learn.microsoft.com/en-us/azure/private-link/rbac-permissions (2025-03-26T17:06:00Z)
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/azure-private-link-security-baseline?toc=/azure/private-link/toc.json (2025-02-27T14:58:00Z)
+        ☐ Azure Security blog https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog
+        Network security perimeter:
+            ☐ Role-based access control permissions https://learn.microsoft.com/en-us/azure/private-link/network-security-perimeter-role-based-access-control-requirements (2025-03-07T23:05:00Z)
+    Troubleshoot:
+        ☐ Troubleshoot private endpoint connectivity problems https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-endpoint-connectivity (2025-02-18T23:02:00Z)
+        ☐ Troubleshoot Private Link service connectivity problems https://learn.microsoft.com/en-us/azure/private-link/troubleshoot-private-link-connectivity (2025-01-07T23:03:00Z)
+    Reference:
+        ☐ The Azure CLI https://learn.microsoft.com/cli/azure/network/private-link-service (2025-03-25T06:59:00Z)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network (2025-05-06T17:01:00Z)
+        ☐ .NET https://learn.microsoft.com/dotnet/api/overview/azure/virtual-network (2023-10-03T23:36:00Z)
+        ☐ Node.js https://learn.microsoft.com/javascript/azure#azure-sdk (2025-05-01T17:48:00Z)
+        ☐ Python https://azure.microsoft.com/develop/python/
+        ☐ REST https://learn.microsoft.com/rest/api/virtualnetwork/privateendpoints (2024-12-03T23:02:00Z)
+        ☐ Resource Manager template https://learn.microsoft.com/azure/templates/microsoft.network/allversions (2025-05-05T19:28:00Z)
+        ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/private-link/monitor-private-link-reference (2025-03-26T17:06:00Z)
+        ☐ Code samples https://azure.microsoft.com/resources/samples/?service=virtual-network (2024-11-01T20:16:00Z)
+        Network security perimeter:
+            ☐ Azure CLI https://learn.microsoft.com/azure/private-link/create-network-security-perimeter-cli (2025-03-26T17:06:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network (2025-05-06T17:01:00Z)
+            ☐ .NET https://learn.microsoft.com/azure/application-gateway/private-link (2025-05-06T22:03:00Z)
+            ☐ Node.js https://learn.microsoft.com/javascript/azure#azure-sdk (2025-05-01T17:48:00Z)
+            ☐ Python https://azure.microsoft.com/develop/python/
+            ☐ REST https://github.com/Azure/azure-rest-api-specs/blob/main/specification/network/resource-manager/Microsoft.Network/preview/2023-07-01-preview/networkSecurityPerimeter.json
+    Resources:
+        ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/ (2025-03-03T18:01:00Z)
+        ☐ Azure Networking blog https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog
+        ☐ Microsoft Q&A question page for Networking https://learn.microsoft.com/answers/topics/azure-virtual-network.html
+        ☐ Networking feedback https://feedback.azure.com/d365community/forum/8ae9bf04-8326-ec11-b6e6-000d3a4f0789
+        ☐ Pricing https://azure.microsoft.com/pricing/details/private-link/
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-virtual-network
+

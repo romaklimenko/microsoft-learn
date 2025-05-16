@@ -1,0 +1,505 @@
+Azure Functions documentation | Microsoft Learn:
+    ☐ Functions Documentation https://learn.microsoft.com/en-us/azure/azure-functions/ (2025-04-02 10:06 PM)
+    Overview:
+        ☐ Functions overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-overview (2025-03-25T22:04:00Z)
+        ☐ Scenarios https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenarios (2025-04-08T22:02:00Z)
+        ☐ Getting started https://learn.microsoft.com/en-us/azure/azure-functions/functions-get-started (2025-03-19T17:20:00Z)
+        ☐ Durable Functions https://learn.microsoft.com/en-us/azure/azure-functions/durable/durable-functions-overview (2025-04-06T05:14:00Z)
+        ☐ Serverless comparison https://learn.microsoft.com/en-us/azure/azure-functions/functions-compare-logic-apps-ms-flow-webjobs (2025-02-12T23:02:00Z)
+        ☐ Hosting plan options https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale (2025-05-09T05:16:00Z)
+    Quickstarts:
+        Create your first function:
+            C#:
+                ☐ Visual Studio https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-your-first-function-visual-studio (2025-05-02T11:13:00Z)
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-csharp (2024-07-18T17:07:00Z)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-csharp (2024-01-25T23:03:00Z)
+                ☐ Azure Developer CLI https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-csharp (2024-11-21T23:02:00Z)
+            Java:
+                ☐ Eclipse https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-eclipse (2025-02-18T18:02:00Z)
+                ☐ Gradle https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-java-gradle (2025-02-26T05:35:00Z)
+                ☐ IntelliJ IDEA https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-intellij (2025-02-26T05:35:00Z)
+                ☐ Maven https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-java (2024-01-31T05:39:00Z)
+                ☐ Quarkus https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-quarkus (2025-02-26T05:35:00Z)
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-java (2024-07-18T17:07:00Z)
+                ☐ Azure Developer CLI https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-java (2024-11-21T23:02:00Z)
+            JavaScript:
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-node (2024-07-18T17:07:00Z)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-node (2024-03-05T23:13:00Z)
+                ☐ Azure Developer CLI https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-javascript (2024-11-21T23:02:00Z)
+            PowerShell:
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-powershell (2024-07-18T17:07:00Z)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-powershell (2024-09-05T05:34:00Z)
+                ☐ Azure Developer CLI https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-powershell (2024-11-21T23:02:00Z)
+            Python:
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python (2025-05-09T05:16:00Z)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-python (2025-05-09T05:16:00Z)
+                ☐ Azure Developer CLI https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-python (2024-11-21T23:02:00Z)
+            TypeScript:
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-typescript (2024-12-06T05:38:00Z)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-cli-typescript (2024-06-10T17:07:00Z)
+                ☐ Azure Developer CLI https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-azure-developer-cli?pivots=programming-language-typescript (2024-11-21T23:02:00Z)
+            ☐ Other (Go/Rust) https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-other (2024-07-18T17:07:00Z)
+            Resource Manager:
+                ☐ Bicep https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-bicep (2025-03-20T11:11:00Z)
+                ☐ ARM template https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-resource-manager (2025-03-20T11:11:00Z)
+                ☐ Terraform https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-terraform (2025-05-01T22:41:00Z)
+            ☐ Azure Container Apps https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container-apps (2025-05-05T22:16:00Z)
+        Connect to storage:
+            C#:
+                ☐ Visual Studio https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs (2024-06-17T22:05:00Z)
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-csharp (2024-09-06T22:05:00Z)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-csharp (2025-02-05T23:02:00Z)
+            Java:
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-java (2024-09-06T22:05:00Z)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-java (2025-02-05T23:02:00Z)
+            JavaScript:
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-javascript (2024-09-06T22:05:00Z)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-javascript (2025-02-05T23:02:00Z)
+            PowerShell:
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-powershell (2024-09-06T22:05:00Z)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-powershell (2025-02-05T23:02:00Z)
+            Python:
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-python (2024-09-06T22:05:00Z)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-python (2025-02-05T23:02:00Z)
+            TypeScript:
+                ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code?pivots=programming-language-typescript (2024-09-06T22:05:00Z)
+                ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-typescript (2025-02-05T23:02:00Z)
+        Connect to a database:
+            C#:
+                ☐ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-csharp (2025-04-05T05:11:00Z)
+                ☐ Azure SQL https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-csharp (2025-02-05T23:02:00Z)
+            JavaScript:
+                ☐ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-javascript (2025-04-05T05:11:00Z)
+                ☐ Azure SQL https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-javascript (2025-02-05T23:02:00Z)
+            Python:
+                ☐ Azure Cosmos DB https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-cosmos-db-vs-code?pivots=programming-language-python (2025-04-05T05:11:00Z)
+                ☐ Azure SQL https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-azure-sql-vs-code?pivots=programming-language-python (2025-02-05T23:02:00Z)
+        Connect to OpenAI:
+            ☐ C# https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-csharp (2025-01-07T23:03:00Z)
+            ☐ Java https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-java (2025-01-07T23:03:00Z)
+            ☐ JavaScript https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-javascript (2025-01-07T23:03:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-powershell (2025-01-07T23:03:00Z)
+            ☐ Python https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-python (2025-01-07T23:03:00Z)
+            ☐ TypeScript https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion?pivots=programming-language-typescript (2025-01-07T23:03:00Z)
+    Tutorials:
+        ☐ Functions with Logic Apps https://learn.microsoft.com/en-us/azure/azure-functions/functions-twitter-email (2024-08-09T05:35:00Z)
+        ☐ Develop Python functions with VS Code https://learn.microsoft.com/en-us/azure/azure-functions/create-first-function-vs-code-python (2025-05-09T05:16:00Z)
+        ☐ Create serverless APIs using Visual Studio https://learn.microsoft.com/en-us/azure/azure-functions/openapi-apim-integrate-visual-studio (2024-08-07T22:04:00Z)
+        Networking:
+            ☐ Connect to a Virtual Network https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet (2025-05-13T05:03:00Z)
+            ☐ Establish private site access https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-private-site-access (2025-02-05T23:02:00Z)
+            ☐ Use an outbound NAT gateway https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-nat-gateway (2025-01-23T23:10:00Z)
+        Identity-based connections:
+            ☐ Use identity for host connections https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-based-connections-tutorial (2024-11-19T18:02:00Z)
+            ☐ Use identity for triggers and bindings https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-based-connections-tutorial-2 (2024-08-07T22:04:00Z)
+            ☐ Access Azure SQL with managed identity https://learn.microsoft.com/en-us/azure/azure-functions/functions-identity-access-azure-sql-with-managed-identity (2024-07-29T17:37:00Z)
+        ☐ Low-latency Blob trigger using Event Grid https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-grid-blob-trigger (2024-11-21T23:02:00Z)
+        ☐ Image resize with Event Grid https://learn.microsoft.com/en-us/azure/event-grid/resize-images-on-storage-blob-upload-event?toc=/azure/azure-functions/toc.json (2024-12-13T18:02:00Z)
+        ☐ Create a serverless web app https://learn.microsoft.com/training/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr/ (2025-05-02 05:53 PM)
+        Data + AI:
+            ☐ Azure OpenAI for text completion https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-openai-text-completion (2025-01-07T23:03:00Z)
+            ☐ Machine learning with TensorFlow https://learn.microsoft.com/en-us/azure/azure-functions/functions-machine-learning-tensorflow (2024-12-19T18:04:00Z)
+            ☐ Image classification with PyTorch https://learn.microsoft.com/en-us/azure/azure-functions/machine-learning-pytorch (2024-12-19T18:04:00Z)
+        ☐ Functions on IoT Edge device https://learn.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-function?toc=/azure/azure-functions/toc.json (2024-10-16T22:05:00Z)
+        ☐ Java with Azure Cosmos DB and Event Hubs https://learn.microsoft.com/en-us/azure/azure-functions/functions-event-hub-cosmos-db (2025-02-26T05:35:00Z)
+    Samples:
+        ☐ Azure Serverless Community Library https://www.serverlesslibrary.net/
+        Azure Samples:
+            ☐ C# https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=csharp (2024-11-01T20:16:00Z)
+            ☐ Java https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=java (2024-11-01T20:16:00Z)
+            ☐ JavaScript https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=javascript (2024-11-01T20:16:00Z)
+            ☐ PowerShell https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=azurepowershell (2024-11-01T20:16:00Z)
+            ☐ Python https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=python (2024-11-01T20:16:00Z)
+            ☐ TypeScript https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=typescript (2024-11-01T20:16:00Z)
+        Azure CLI:
+            ☐ CLI sample index https://learn.microsoft.com/en-us/azure/azure-functions/functions-cli-samples (2024-04-22T11:30:00Z)
+            Create function app:
+                ☐ Serverless function app https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-serverless (2024-06-27T17:04:00Z)
+                ☐ Serverless Python app https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-serverless-python (2024-06-27T17:04:00Z)
+                ☐ Scalable Premium plan app https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-premium-plan (2024-06-27T17:04:00Z)
+                ☐ Dedicated (App Service) plan app https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-app-service-plan (2024-06-27T17:04:00Z)
+            Integrate services:
+                ☐ Connect Azure Storage https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-function-app-connect-to-storage-account (2024-06-27T17:04:00Z)
+                ☐ Connect Azure Cosmos DB https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-function-app-connect-to-cosmos-db (2024-11-20T23:04:00Z)
+                ☐ Python mount Files share https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-mount-files-storage-linux (2024-06-27T17:04:00Z)
+            Continuous deployment:
+                ☐ GitHub deployment https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-function-app-github-continuous (2024-06-27T17:04:00Z)
+        ☐ Azure PowerShell https://learn.microsoft.com/en-us/azure/azure-functions/create-resources-azure-powershell (2024-06-27T17:04:00Z)
+    Concepts:
+        Best practices:
+            ☐ General best practices https://learn.microsoft.com/en-us/azure/azure-functions/functions-best-practices (2025-05-13T05:03:00Z)
+            ☐ Performance and reliability https://learn.microsoft.com/en-us/azure/azure-functions/performance-reliability (2023-03-20T17:06:00Z)
+            ☐ Manage connections https://learn.microsoft.com/en-us/azure/azure-functions/manage-connections (2024-08-14T18:47:00Z)
+            ☐ Storage considerations https://learn.microsoft.com/en-us/azure/azure-functions/storage-considerations (2025-05-12T22:03:00Z)
+            ☐ Error handling and function retries https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages (2025-05-12T22:03:00Z)
+            ☐ Security https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts (2025-05-12T22:03:00Z)
+        ☐ Compare runtime versions https://learn.microsoft.com/en-us/azure/azure-functions/functions-versions (2025-03-25T22:04:00Z)
+        Hosting and scale:
+            ☐ Consumption plan https://learn.microsoft.com/en-us/azure/azure-functions/consumption-plan (2025-05-12T22:03:00Z)
+            ☐ Flex Consumption plan https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-plan (2025-05-13T05:03:00Z)
+            ☐ Premium plan https://learn.microsoft.com/en-us/azure/azure-functions/functions-premium-plan (2025-05-02T11:13:00Z)
+            ☐ Dedicated plan https://learn.microsoft.com/en-us/azure/azure-functions/dedicated-plan (2024-12-03T23:07:00Z)
+            Container hosting:
+                ☐ Containerized functions https://learn.microsoft.com/en-us/azure/azure-functions/container-concepts (2025-05-12T22:03:00Z)
+                ☐ Azure Container Apps hosting https://learn.microsoft.com/en-us/azure/azure-functions/functions-container-apps-hosting (2025-04-29T05:40:00Z)
+        ☐ Deployment options https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-technologies (2025-05-12T22:03:00Z)
+        Events and messaging:
+            ☐ Connect to services https://learn.microsoft.com/en-us/azure/azure-functions/event-messaging-bindings (2022-11-11T23:05:00Z)
+            ☐ Event-driven scaling https://learn.microsoft.com/en-us/azure/azure-functions/event-driven-scaling (2024-11-21T23:02:00Z)
+            ☐ Target-based scaling https://learn.microsoft.com/en-us/azure/azure-functions/functions-target-based-scaling (2024-08-14T18:47:00Z)
+            ☐ Reliable event processing https://learn.microsoft.com/en-us/azure/azure-functions/functions-reliable-event-processing (2022-06-28T17:04:00Z)
+            ☐ Concurrency https://learn.microsoft.com/en-us/azure/azure-functions/functions-concurrency (2024-11-21T23:02:00Z)
+            ☐ Designing for identical input https://learn.microsoft.com/en-us/azure/azure-functions/functions-idempotent (2022-06-28T17:04:00Z)
+        Triggers and bindings:
+            ☐ About triggers and bindings https://learn.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings (2025-03-30T05:20:00Z)
+            ☐ Register binding extensions https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-register (2025-05-09T05:16:00Z)
+            ☐ Binding expression patterns https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-expressions-patterns (2024-09-10T22:03:00Z)
+            ☐ Handle binding errors https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-errors (2025-05-12T22:03:00Z)
+        Frameworks:
+            ☐ Express.js https://learn.microsoft.com/en-us/azure/azure-functions/shift-expressjs (2022-09-20T07:14:00Z)
+        Security:
+            ☐ Security overview https://learn.microsoft.com/en-us/azure/azure-functions/security-concepts (2025-05-12T22:03:00Z)
+            ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/functions-security-baseline?toc=/azure/azure-functions/TOC.json (2025-02-27T14:58:00Z)
+        Reliability:
+            ☐ Availability zones and disaster recovery https://learn.microsoft.com/en-us/azure/reliability/reliability-functions?toc=/azure/azure-functions/TOC.json (2025-05-13T05:03:00Z)
+            ☐ Migrate to a zone-redundant plan https://learn.microsoft.com/en-us/azure/reliability/migrate-functions?toc=/azure/azure-functions/toc.json (2025-05-13T05:03:00Z)
+        ☐ Diagnostics https://learn.microsoft.com/en-us/azure/azure-functions/functions-diagnostics (2021-11-03T11:03:00Z)
+        ☐ Consumption plan costs https://learn.microsoft.com/en-us/azure/azure-functions/functions-consumption-costs (2025-02-10T23:04:00Z)
+        ☐ Serverless REST APIs https://learn.microsoft.com/en-us/azure/azure-functions/functions-proxies (2023-07-11T22:03:00Z)
+        ☐ Networking options https://learn.microsoft.com/en-us/azure/azure-functions/functions-networking-options (2025-05-12T22:03:00Z)
+        ☐ IP addresses https://learn.microsoft.com/en-us/azure/azure-functions/ip-addresses (2025-05-12T22:03:00Z)
+        ☐ Custom handlers https://learn.microsoft.com/en-us/azure/azure-functions/functions-custom-handlers (2025-02-05T23:02:00Z)
+    Languages:
+        ☐ Supported languages https://learn.microsoft.com/en-us/azure/azure-functions/supported-languages (2025-05-13T05:03:00Z)
+        C#:
+            ☐ Isolated worker model https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-process-guide (2025-05-01T05:13:00Z)
+            ☐ .NET Aspire integration (Preview) https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-aspire-integration (2025-05-12T22:03:00Z)
+            Legacy models:
+                ☐ Execution mode comparison https://learn.microsoft.com/en-us/azure/azure-functions/dotnet-isolated-in-process-differences (2025-05-12T22:03:00Z)
+                ☐ In-process model https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-class-library (2025-05-08T17:04:00Z)
+                ☐ Script (.csx) https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-csharp (2025-02-05T23:02:00Z)
+        ☐ JavaScript https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=javascript (2025-05-12T22:03:00Z)
+        ☐ TypeScript https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-node?tabs=typescript (2025-05-12T22:03:00Z)
+        ☐ Java https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-java (2024-12-03T23:07:00Z)
+        ☐ PowerShell https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-powershell (2025-05-09T05:16:00Z)
+        Python:
+            ☐ Developer reference guide https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python (2025-02-05T23:02:00Z)
+            ☐ Programming models https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference-python#programming-model (2025-02-05T23:02:00Z)
+            ☐ Binding definitions for Python v2 https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-triggers-python (2025-02-05T23:02:00Z)
+            ☐ Python worker extensions https://learn.microsoft.com/en-us/azure/azure-functions/develop-python-worker-extensions (2023-04-25T11:20:00Z)
+            ☐ Scale and performance recommendations https://learn.microsoft.com/en-us/azure/azure-functions/python-scale-performance-reference (2023-10-26T22:02:00Z)
+            Troubleshooting:
+                ☐ General troubleshooting https://learn.microsoft.com/en-us/azure/azure-functions/recover-python-functions (2024-09-02T05:33:00Z)
+                ☐ Memory profiling https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference (2024-06-27T17:04:00Z)
+            ☐ Python library API reference for Functions https://learn.microsoft.com/python/api/azure-functions/azure.functions (2025-02-03T12:10:00Z)
+            ☐ Samples https://learn.microsoft.com/samples/browse/?products=azure-functions&languages=python (2024-11-01T20:16:00Z)
+    How-to guides:
+        Develop:
+            ☐ Developer guide https://learn.microsoft.com/en-us/azure/azure-functions/functions-reference (2024-12-03T23:07:00Z)
+            Local development:
+                ☐ Develop and debug locally https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-local (2025-03-21T05:38:00Z)
+                ☐ Visual Studio Code development https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs-code (2024-08-30T22:06:00Z)
+                ☐ Visual Studio development https://learn.microsoft.com/en-us/azure/azure-functions/functions-develop-vs (2025-04-06T05:14:00Z)
+                ☐ Core Tools development https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local (2025-03-21T05:38:00Z)
+            Create a function app:
+                ☐ Infrastructure as code https://learn.microsoft.com/en-us/azure/azure-functions/functions-infrastructure-as-code (2025-03-16T11:10:00Z)
+                ☐ Azure portal https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-function-app-portal (2025-05-13T05:03:00Z)
+                ☐ Azure CLI https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-serverless (2024-06-27T17:04:00Z)
+            Create functions:
+                HTTP trigger:
+                    ☐ Azure portal https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-http-endpoint (2025-05-13T05:03:00Z)
+                    ☐ Kotlin using IntelliJ https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-maven-kotlin-intellij (2024-06-27T17:04:00Z)
+                    ☐ Consumption plan https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-app-service-plan (2024-06-27T17:04:00Z)
+                    ☐ Premium plan https://learn.microsoft.com/en-us/azure/azure-functions/scripts/functions-cli-create-premium-plan (2024-06-27T17:04:00Z)
+                    ☐ Linux container (Premium) https://learn.microsoft.com/en-us/azure/azure-functions/functions-deploy-container (2025-02-05T23:02:00Z)
+                ☐ Azure Cosmos DB trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-cosmos-db-triggered-function (2025-04-06T05:14:00Z)
+                ☐ Blob storage trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-blob-triggered-function (2024-09-19T17:06:00Z)
+                ☐ Queue storage trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-storage-queue-triggered-function (2024-09-19T17:06:00Z)
+                ☐ Timer trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-scheduled-function (2025-05-13T05:03:00Z)
+            Connect to services:
+                ☐ How to connect to services https://learn.microsoft.com/en-us/azure/azure-functions/add-bindings-existing-function (2024-06-10T17:07:00Z)
+                ☐ Azure Cosmos DB - portal https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-store-unstructured-data-cosmosdb (2024-06-17T22:05:00Z)
+                Storage:
+                    ☐ Azure portal https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-storage-queue-output-binding (2024-07-02T22:19:00Z)
+                    ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code (2024-09-06T22:05:00Z)
+                    ☐ Visual Studio https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs (2024-06-17T22:05:00Z)
+                    ☐ Command line https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli (2025-02-05T23:02:00Z)
+            Debug:
+                ☐ Debug local PowerShell functions https://learn.microsoft.com/en-us/azure/azure-functions/functions-debug-powershell-local (2020-11-05T23:03:00Z)
+                ☐ Debug Event Grid trigger locally https://learn.microsoft.com/en-us/azure/azure-functions/functions-debug-event-grid-trigger-local (2024-11-21T23:02:00Z)
+            ☐ Load testing https://learn.microsoft.com/en-us/azure/load-testing/how-to-create-load-test-function-app?toc=/azure/azure-functions/toc.json (2025-04-25T11:15:00Z)
+            ☐ Dependency injection https://learn.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection (2025-05-13T05:03:00Z)
+            ☐ Manage connections https://learn.microsoft.com/en-us/azure/azure-functions/manage-connections (2024-08-14T18:47:00Z)
+            ☐ Error handling and retries https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages (2025-05-12T22:03:00Z)
+            ☐ Manually run a non HTTP-triggered function https://learn.microsoft.com/en-us/azure/azure-functions/functions-manually-run-non-http (2024-08-21T22:04:00Z)
+            ☐ Bring dependencies to function apps https://learn.microsoft.com/en-us/azure/azure-functions/bring-dependency-to-functions (2023-06-01T22:06:00Z)
+            ☐ Develop Python worker extensions https://learn.microsoft.com/en-us/azure/azure-functions/develop-python-worker-extensions (2023-04-25T11:20:00Z)
+        Deploy:
+            ☐ Continuous deployment https://learn.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment (2025-03-31T22:05:00Z)
+            ☐ Deployment slots https://learn.microsoft.com/en-us/azure/azure-functions/functions-deployment-slots (2025-05-13T05:03:00Z)
+            Containers:
+                ☐ Work with containers https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-custom-container (2025-02-24T23:03:00Z)
+                ☐ Create functions in containers https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-container-registry (2025-02-05T23:02:00Z)
+                ☐ Functions in Kubernetes https://learn.microsoft.com/en-us/azure/azure-functions/functions-kubernetes-keda (2024-08-20T22:03:00Z)
+            ☐ Build and deploy using Azure Pipelines https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-azure-devops (2025-03-05T18:03:00Z)
+            ☐ Build and deploy using GitHub Actions https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions (2024-11-12T18:06:00Z)
+            ☐ Zip deployment https://learn.microsoft.com/en-us/azure/azure-functions/deployment-zip-push (2025-05-12T22:03:00Z)
+            ☐ Run from package https://learn.microsoft.com/en-us/azure/azure-functions/run-functions-from-deployment-package (2025-01-21T23:02:00Z)
+            ☐ Deploy using the Jenkins plugin https://learn.microsoft.com/azure/developer/jenkins/deploy-to-azure-functions?toc=/azure/azure-functions/toc.json (2023-06-13T23:16:00Z)
+        Configure:
+            ☐ Manage a function app https://learn.microsoft.com/en-us/azure/azure-functions/functions-how-to-use-azure-function-app-settings (2024-11-21T23:02:00Z)
+            ☐ Work with Flex Consumption apps https://learn.microsoft.com/en-us/azure/azure-functions/flex-consumption-how-to (2025-05-12T22:03:00Z)
+            ☐ App Configuration references https://learn.microsoft.com/en-us/azure/app-service/app-service-configuration-references?toc=/azure/azure-functions/toc.json (2025-05-06T22:03:00Z)
+            ☐ Set the runtime version https://learn.microsoft.com/en-us/azure/azure-functions/set-runtime-version (2024-07-05T05:35:00Z)
+            ☐ Disable a function https://learn.microsoft.com/en-us/azure/azure-functions/disable-function (2024-07-18T17:07:00Z)
+            ☐ Networking https://learn.microsoft.com/en-us/azure/azure-functions/configure-networking-how-to (2025-05-12T22:03:00Z)
+            ☐ Work with legacy Functions Proxies https://learn.microsoft.com/en-us/azure/azure-functions/legacy-proxies (2024-12-03T23:07:00Z)
+        Monitor:
+            ☐ Monitor Azure Functions https://learn.microsoft.com/en-us/azure/azure-functions/monitor-functions (2024-08-12T22:07:00Z)
+            ☐ Monitor function executions https://learn.microsoft.com/en-us/azure/azure-functions/functions-monitoring (2025-05-13T05:03:00Z)
+            ☐ Configure monitoring https://learn.microsoft.com/en-us/azure/azure-functions/configure-monitoring (2025-05-09T05:16:00Z)
+            ☐ Analyze telemetry data https://learn.microsoft.com/en-us/azure/azure-functions/analyze-telemetry-data (2024-11-21T23:02:00Z)
+            ☐ Stream execution logs https://learn.microsoft.com/en-us/azure/azure-functions/streaming-logs (2024-11-06T12:14:00Z)
+            ☐ Work with OpenTelemetry https://learn.microsoft.com/en-us/azure/azure-functions/opentelemetry-howto (2025-05-05T22:16:00Z)
+        Authenticate:
+            Configure auth providers:
+                ☐ Authenticate with Microsoft Entra ID https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-aad?toc=/azure/azure-functions/toc.json (2025-04-15T17:03:00Z)
+                ☐ Authenticate with Facebook https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-facebook?toc=/azure/azure-functions/toc.json (2024-02-05T23:27:00Z)
+                ☐ Authenticate with GitHub https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-github?toc=/azure/azure-functions/toc.json (2023-09-04T21:44:00Z)
+                ☐ Authenticate with Google https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-google?toc=/azure/azure-functions/toc.json (2025-04-17T22:04:00Z)
+                ☐ Authenticate with X https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-twitter?toc=/azure/azure-functions/toc.json (2025-03-26T17:06:00Z)
+                ☐ Authenticate with an OpenID Connect provider https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-openid-connect?toc=/azure/azure-functions/toc.json (2025-04-22T22:03:00Z)
+                ☐ Authenticate using Sign in with Apple (Preview) https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-provider-apple?toc=/azure/azure-functions/toc.json (2025-04-03T17:04:00Z)
+            ☐ Customize sign-ins/outs https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-customize-sign-in-out?toc=/azure/azure-functions/toc.json (2025-04-04T05:11:00Z)
+            ☐ Access user identities https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-user-identities?toc=/azure/azure-functions/toc.json (2025-03-25T05:36:00Z)
+            ☐ Work with tokens https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-oauth-tokens?toc=/azure/azure-functions/toc.json (2025-03-25T05:36:00Z)
+            ☐ Manage API versions https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-api-version?toc=/azure/azure-functions/toc.json (2024-11-20T12:17:00Z)
+            ☐ File-based configuration https://learn.microsoft.com/en-us/azure/app-service/configure-authentication-file-based?toc=/azure/azure-functions/toc.json (2025-02-14T05:31:00Z)
+        Secure:
+            ☐ Work with access keys https://learn.microsoft.com/en-us/azure/azure-functions/function-keys-how-to (2025-05-09T05:16:00Z)
+            ☐ Add SSL cert https://learn.microsoft.com/en-us/azure/app-service/configure-ssl-certificate?toc=/azure/azure-functions/toc.json (2025-03-10T17:07:00Z)
+            ☐ Restrict IPs https://learn.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions?toc=/azure/azure-functions/toc.json (2025-03-31T22:05:00Z)
+            ☐ Use a managed identity https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?toc=/azure/azure-functions/toc.json (2025-03-27T22:02:00Z)
+            ☐ Reference secrets from Key Vault https://learn.microsoft.com/en-us/azure/app-service/app-service-key-vault-references?toc=/azure/azure-functions/toc.json (2025-04-15T22:03:00Z)
+            ☐ Encrypt site data https://learn.microsoft.com/en-us/azure/azure-functions/configure-encrypt-at-rest-using-cmk (2023-10-05T11:19:00Z)
+        Integrate:
+            Connect to services:
+                ☐ Azure Cosmos DB - portal https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-store-unstructured-data-cosmosdb (2024-06-17T22:05:00Z)
+                Azure Cache for Redis:
+                    ☐ Get started with VS Code https://learn.microsoft.com/en-us/azure/redis/tutorial-functions-getting-started?toc=/azure/azure-functions/toc.json (2025-03-31T22:36:00Z)
+                    ☐ Create a write-behind cache https://learn.microsoft.com/en-us/azure/redis/tutorial-write-behind?toc=/azure/azure-functions/toc.json (2025-03-31T22:36:00Z)
+                Storage:
+                    ☐ Azure portal https://learn.microsoft.com/en-us/azure/azure-functions/functions-integrate-storage-queue-output-binding (2024-07-02T22:19:00Z)
+                    ☐ Visual Studio Code https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs-code (2024-09-06T22:05:00Z)
+                    ☐ Visual Studio https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-vs (2024-06-17T22:05:00Z)
+                    ☐ Python https://learn.microsoft.com/en-us/azure/azure-functions/functions-add-output-binding-storage-queue-cli?pivots=programming-language-python (2025-02-05T23:02:00Z)
+                SignalR:
+                    ☐ C# https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-csharp?toc=/azure/azure-functions/toc.json (2024-12-11T23:02:00Z)
+                    ☐ Java https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-java?toc=/azure/azure-functions/toc.json (2024-12-11T23:02:00Z)
+                    ☐ JavaScript https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-javascript?toc=/azure/azure-functions/toc.json (2024-12-11T23:02:00Z)
+                    ☐ Python https://learn.microsoft.com/en-us/azure/azure-signalr/signalr-quickstart-azure-functions-python?toc=/azure/azure-functions/toc.json (2024-12-11T23:02:00Z)
+                ☐ Web PubSub https://learn.microsoft.com/en-us/azure/azure-web-pubsub/tutorial-serverless-notification?toc=/azure/azure-functions/toc.json (2024-12-11T23:02:00Z)
+                ☐ Work with Event Grid https://learn.microsoft.com/en-us/azure/azure-functions/event-grid-how-tos (2024-08-21T22:04:00Z)
+            Start/Stop VMs:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/overview (2024-09-19T18:07:00Z)
+                ☐ Deploy and configure https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/deploy (2024-12-03T23:07:00Z)
+                ☐ Manage and monitor https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/manage (2024-12-03T23:07:00Z)
+                ☐ Remove Start/Stop VMs https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/remove (2022-06-09T17:05:00Z)
+                ☐ Define pre-actions https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/pre-actions (2022-09-30T22:03:00Z)
+                ☐ Troubleshoot https://learn.microsoft.com/en-us/azure/azure-functions/start-stop-vms/troubleshoot (2024-10-29T17:03:00Z)
+            ☐ Connect to SQL Database https://learn.microsoft.com/en-us/azure/azure-functions/functions-scenario-database-table-cleanup (2025-01-23T23:10:00Z)
+            ☐ Connect to a virtual Network https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-vnet (2025-05-13T05:03:00Z)
+            Create OpenAPI definitions:
+                ☐ API Management integration (portal) https://learn.microsoft.com/en-us/azure/azure-functions/functions-openapi-definition (2025-05-01T11:17:00Z)
+                ☐ Visual Studio with API Management (C#) https://learn.microsoft.com/en-us/azure/azure-functions/openapi-apim-integrate-visual-studio (2024-08-07T22:04:00Z)
+            ☐ Use a managed identity https://learn.microsoft.com/en-us/azure/app-service/overview-managed-identity?toc=/azure/azure-functions/toc.json (2025-03-27T22:02:00Z)
+            ☐ Customize endpoints with legacy proxies https://learn.microsoft.com/en-us/azure/azure-functions/functions-create-serverless-api (2025-04-24T22:03:00Z)
+            ☐ Manage on-premises resources https://learn.microsoft.com/en-us/azure/azure-functions/functions-hybrid-powershell (2025-01-23T23:10:00Z)
+        Troubleshoot:
+            ☐ Storage connections https://learn.microsoft.com/en-us/azure/azure-functions/functions-recover-storage-account (2025-05-13T05:03:00Z)
+            ☐ Azure Cosmos DB bindings https://learn.microsoft.com/azure/cosmos-db/troubleshoot-changefeed-functions?toc=/azure/azure-functions/toc.json (2024-09-27T22:00:00Z)
+            ☐ Node.js https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-troubleshoot (2024-01-17T12:14:00Z)
+            Python:
+                ☐ General troubleshooting https://learn.microsoft.com/en-us/azure/azure-functions/recover-python-functions (2024-09-02T05:33:00Z)
+                ☐ Scale and performance https://learn.microsoft.com/en-us/azure/azure-functions/python-scale-performance-reference (2023-10-26T22:02:00Z)
+                ☐ Memory profiling https://learn.microsoft.com/en-us/azure/azure-functions/python-memory-profiler-reference (2024-06-27T17:04:00Z)
+    Migration guides:
+        Migrate from AWS Lambda:
+            ☐ Migrate from AWS Lambda https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-aws-lambda-to-azure-functions (2025-05-12T22:03:00Z)
+            ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-lambda-workloads-overview (2025-04-09T17:06:00Z)
+            ☐ Discover https://learn.microsoft.com/en-us/azure/azure-functions/migration/discover-lambda-workloads (2025-04-09T17:06:00Z)
+            ☐ Assess https://learn.microsoft.com/en-us/azure/azure-functions/migration/assess-lambda-workloads (2025-04-09T17:06:00Z)
+            ☐ Migrate https://learn.microsoft.com/en-us/azure/azure-functions/migration/migrate-lambda-workloads (2025-04-09T17:06:00Z)
+        Upgrade runtime versions:
+            ☐ Migrate v3.x to v4.x https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-3-version-4 (2025-05-13T05:03:00Z)
+            ☐ Migrate v1.x to v4.x https://learn.microsoft.com/en-us/azure/azure-functions/migrate-version-1-version-4 (2024-11-19T18:02:00Z)
+        Language version updates:
+            ☐ Update language versions https://learn.microsoft.com/en-us/azure/azure-functions/update-language-versions (2024-09-16T17:37:00Z)
+            ☐ Migrate Node.js to model v4.x https://learn.microsoft.com/en-us/azure/azure-functions/functions-node-upgrade-v4 (2024-12-06T05:38:00Z)
+        ☐ Migrate .NET apps to the isolated model https://learn.microsoft.com/en-us/azure/azure-functions/migrate-dotnet-to-isolated-model (2025-04-06T05:14:00Z)
+        Move resources:
+            ☐ Move between subscriptions https://learn.microsoft.com/azure/azure-resource-manager/management/move-resource-group-and-subscription?toc=%2Fazure%2Fazure-functions%2Ftoc.json (2025-02-12T05:33:00Z)
+            ☐ Move to other regions https://learn.microsoft.com/azure/operational-excellence/relocation-functions?toc=%2Fazure%2Fazure-functions%2Ftoc.json (2025-04-11T22:03:00Z)
+    Reference:
+        API references:
+            ☐ ARM template https://learn.microsoft.com/azure/templates/microsoft.web/2022-03-01/sites/functions (2025-04-28T19:58:00Z)
+            ☐ Azure CLI https://learn.microsoft.com/cli/azure/functionapp (2025-04-01T08:06:00Z)
+            ☐ Azure Functions Core Tools https://learn.microsoft.com/en-us/azure/azure-functions/functions-core-tools-reference (2024-12-03T23:07:00Z)
+            ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.functions/ (2025-05-06T17:01:00Z)
+            ☐ Python https://learn.microsoft.com/python/api/azure-functions/azure.functions (2025-02-03T12:10:00Z)
+        ☐ App settings reference https://learn.microsoft.com/en-us/azure/azure-functions/functions-app-settings (2025-05-09T05:16:00Z)
+        Triggers and bindings:
+            Azure Cache for Redis:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache (2025-03-31T22:36:00Z)
+                Trigger:
+                    ☐ Pub Sub https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-trigger-redispubsub (2025-03-31T22:36:00Z)
+                    ☐ List https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-trigger-redislist (2025-03-31T22:36:00Z)
+                    ☐ Stream https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-trigger-redisstream (2025-03-31T22:36:00Z)
+                ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-input (2025-03-31T22:36:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cache-output (2025-04-02T17:07:00Z)
+            Azure Cosmos DB:
+                ☐ Functions 1.x https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb (2025-02-05T23:02:00Z)
+                Functions 2.x and higher:
+                    ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2 (2024-08-14T18:47:00Z)
+                    ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-trigger (2024-08-14T18:47:00Z)
+                    ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-input (2024-09-29T11:22:00Z)
+                    ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-cosmosdb-v2-output (2024-06-17T22:05:00Z)
+                ☐ Migrate version 3.x to 4.x https://learn.microsoft.com/en-us/azure/azure-functions/migrate-cosmos-db-version-3-version-4 (2024-08-14T18:47:00Z)
+            Azure Data Explorer:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer (2025-02-05T23:02:00Z)
+                ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer-input (2025-02-05T23:02:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-data-explorer-output (2025-02-05T23:02:00Z)
+            Azure Database for MySQL:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql (2025-04-23T22:04:00Z)
+                ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql-input (2025-04-23T22:04:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql-output (2025-04-23T22:04:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-mysql-trigger (2025-04-23T22:04:00Z)
+            Azure OpenAI:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai (2024-08-28T19:22:00Z)
+                Assistants:
+                    ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistant-trigger (2025-01-14T23:03:00Z)
+                    ☐ Query input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantquery-input (2025-01-14T23:03:00Z)
+                    ☐ Create output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantcreate-output (2025-01-14T23:03:00Z)
+                    ☐ Post input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-assistantpost-input (2025-01-14T23:03:00Z)
+                Embeddings:
+                    ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddings-input (2025-01-14T23:03:00Z)
+                    ☐ Store output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-embeddingsstore-output (2025-01-14T23:03:00Z)
+                ☐ Semantic search input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-semanticsearch-input (2025-01-14T23:03:00Z)
+                ☐ Text Completion input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-openai-textcompletion-input (2024-08-28T19:22:00Z)
+            Azure SQL:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql (2025-02-05T23:02:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-trigger (2025-04-03T22:05:00Z)
+                ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-input (2025-02-05T23:02:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-azure-sql-output (2025-04-04T22:04:00Z)
+            Blob storage:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob (2025-05-01T05:13:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob-trigger (2024-07-24T17:08:00Z)
+                ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob-input (2024-06-17T22:05:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-blob-output (2024-06-17T22:05:00Z)
+            Dapr:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr (2024-05-21T15:00:00Z)
+                Trigger:
+                    ☐ Binding https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-trigger (2024-05-21T15:00:00Z)
+                    ☐ Service Invocation https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-trigger-svc-invoke (2024-05-21T15:00:00Z)
+                    ☐ Topic https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-trigger-topic (2024-05-21T15:00:00Z)
+                Input:
+                    ☐ State https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-input-state (2024-12-03T23:07:00Z)
+                    ☐ Secret https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-input-secret (2024-12-03T23:07:00Z)
+                Output:
+                    ☐ State https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-output-state (2024-05-21T15:00:00Z)
+                    ☐ Invoke https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-output-invoke (2024-05-21T15:00:00Z)
+                    ☐ Publish https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-output-publish (2024-05-21T15:00:00Z)
+                    ☐ Binding https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-dapr-output (2024-12-03T23:07:00Z)
+            Event Grid:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid (2024-06-17T22:05:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid-trigger (2024-10-14T22:04:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-grid-output (2024-08-07T22:04:00Z)
+            Event Hubs:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-hubs (2024-06-10T17:07:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-hubs-trigger (2024-06-10T17:07:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-hubs-output (2024-06-17T22:05:00Z)
+            HTTP and webhooks:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook (2024-07-01T22:04:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook-trigger (2025-05-09T05:16:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-http-webhook-output (2024-06-17T22:05:00Z)
+            IoT Hub:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-iot (2024-06-10T17:07:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-event-iot-trigger (2024-06-10T17:07:00Z)
+            Kafka:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka (2024-06-17T22:05:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-trigger (2024-06-17T22:05:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-kafka-output (2024-06-17T22:05:00Z)
+            ☐ Mobile Apps https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-mobile-apps (2024-04-02T22:08:00Z)
+            ☐ Notification Hubs https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-notification-hubs (2025-03-26T17:06:00Z)
+            Queue storage:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-queue (2025-05-01T05:13:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-queue-trigger (2024-06-17T22:05:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-queue-output (2024-08-15T05:40:00Z)
+            RabbitMQ:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-rabbitmq (2025-02-05T23:02:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-rabbitmq-trigger (2025-02-26T18:03:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-rabbitmq-output (2025-02-05T23:02:00Z)
+            ☐ SendGrid https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-sendgrid (2024-06-17T22:05:00Z)
+            Service Bus:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus (2025-05-01T05:13:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus-trigger (2024-06-17T22:05:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-service-bus-output (2024-12-03T23:07:00Z)
+                ☐ Migrate version 4.x to 5.x https://learn.microsoft.com/en-us/azure/azure-functions/migrate-service-bus-version-4-version-5 (2024-06-17T22:05:00Z)
+            SignalR Service:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service (2025-02-05T23:02:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service-trigger (2025-02-05T23:02:00Z)
+                ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service-input (2025-04-21T22:06:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-signalr-service-output (2025-02-05T23:02:00Z)
+            Table storage:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-table (2024-08-14T18:47:00Z)
+                ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-table-input (2024-08-14T18:47:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-storage-table-output (2024-08-14T18:47:00Z)
+            ☐ Timer https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-timer (2025-05-01T11:17:00Z)
+            ☐ Twilio https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-twilio (2024-06-17T22:05:00Z)
+            ☐ Warmup https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-warmup (2025-01-02T23:04:00Z)
+            Web PubSub:
+                ☐ Overview https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-web-pubsub (2025-02-05T23:02:00Z)
+                ☐ Trigger https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-web-pubsub-trigger (2025-02-05T23:02:00Z)
+                ☐ Input https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-web-pubsub-input (2025-02-05T23:02:00Z)
+                ☐ Output https://learn.microsoft.com/en-us/azure/azure-functions/functions-bindings-web-pubsub-output (2025-02-05T23:02:00Z)
+        Errors and diagnostics:
+            .NET worker rules:
+                ☐ AZFW0001 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/net-worker-rules/azfw0001 (2025-02-18T23:02:00Z)
+            SDK rules:
+                ☐ AZF0001 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/sdk-rules/azf0001 (2025-02-18T23:02:00Z)
+                ☐ AZF0002 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/sdk-rules/azf0002 (2025-02-18T23:02:00Z)
+            Diagnostic events:
+                ☐ AZFD0001 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0001 (2025-02-18T23:02:00Z)
+                ☐ AZFD0002 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0002 (2025-02-18T23:02:00Z)
+                ☐ AZFD0003 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0003 (2025-02-18T23:02:00Z)
+                ☐ AZFD0004 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0004 (2025-02-18T23:02:00Z)
+                ☐ AZFD0005 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0005 (2025-02-18T23:02:00Z)
+                ☐ AZFD0006 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0006 (2025-02-18T23:02:00Z)
+                ☐ AZFD0007 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0007 (2025-02-18T23:02:00Z)
+                ☐ AZFD0008 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0008 (2025-02-18T23:02:00Z)
+                ☐ AZFD0009 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0009 (2025-02-18T23:02:00Z)
+                ☐ AZFD0010 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0010 (2025-02-18T23:02:00Z)
+                ☐ AZFD0011 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0011 (2025-02-18T23:02:00Z)
+                ☐ AZFD0012 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0012 (2025-02-18T23:02:00Z)
+                ☐ AZFD0013 https://learn.microsoft.com/en-us/azure/azure-functions/errors-diagnostics/diagnostic-events/azfd0013 (2025-02-18T23:02:00Z)
+        ☐ host.json 2.x reference https://learn.microsoft.com/en-us/azure/azure-functions/functions-host-json (2025-05-09T05:16:00Z)
+        ☐ host.json 1.x reference https://learn.microsoft.com/en-us/azure/azure-functions/functions-host-json-v1 (2024-08-14T18:47:00Z)
+        ☐ Monitoring data reference https://learn.microsoft.com/en-us/azure/azure-functions/monitor-functions-reference (2024-12-03T23:07:00Z)
+        ☐ Networking FAQ https://learn.microsoft.com/en-us/azure/azure-functions/functions-networking-faq (2022-04-01T11:02:00Z)
+    Resources:
+        ☐ Build your skills with Microsoft Learn training https://learn.microsoft.com/training/browse/?products=azure-functions (2025-03-03T18:01:00Z)
+        ☐ Architecture guidance https://learn.microsoft.com/azure/architecture/serverless-quest/serverless-overview (2025-05-12T17:32:00Z)
+        ☐ Azure Roadmap https://azure.microsoft.com/roadmap/?category=compute
+        ☐ Pricing details https://azure.microsoft.com/pricing/details/functions/
+        ☐ Pricing calculator https://azure.microsoft.com/pricing/calculator/
+        ☐ Language support policy https://learn.microsoft.com/en-us/azure/azure-functions/language-support-policy (2025-04-01T17:03:00Z)
+        ☐ Quota information https://learn.microsoft.com/en-us/azure/azure-functions/functions-scale#service-limits (2025-05-09T05:16:00Z)
+        ☐ Regional availability https://azure.microsoft.com/global-infrastructure/services/
+        ☐ Videos https://www.youtube.com/@AzureDevelopers/search?query=functions
+        ☐ Microsoft Q&A question page https://learn.microsoft.com/answers/topics/azure-functions.html
+        ☐ Stack Overflow https://stackoverflow.com/questions/tagged/azure-functions
+        ☐ X https://x.com/azurefunctions
+        ☐ Provide product feedback https://feedback.azure.com/d365community/forum/9df02822-f224-ec11-b6e6-000d3a4f0da0
+        ☐ Azure Functions GitHub repository https://github.com/Azure/Azure-Functions/
+        ☐ Azure updates https://azure.microsoft.com/updates/?product=functions&updatetype=&platform=
+

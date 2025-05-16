@@ -1,0 +1,123 @@
+Azure Firewall documentation | Microsoft Learn:
+    ☐ Azure Firewall documentation https://learn.microsoft.com/en-us/azure/firewall/ (2025-03-19 10:09 PM)
+    Get started:
+        ☐ What is Azure Firewall? https://learn.microsoft.com/en-us/azure/firewall/overview (2025-03-26T05:33:00Z)
+        ☐ Well-Architected review of Azure Firewall https://learn.microsoft.com/azure/architecture/framework/services/networking/azure-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json (2025-02-24T18:00:00Z)
+        ☐ SKU comparison https://learn.microsoft.com/en-us/azure/firewall/choose-firewall-sku (2025-03-19T22:09:00Z)
+        ☐ Preview features https://learn.microsoft.com/en-us/azure/firewall/firewall-preview (2025-04-03T05:16:00Z)
+        ☐ FAQ https://learn.microsoft.com/en-us/azure/firewall/firewall-faq (2025-04-22T22:03:00Z)
+        ☐ Known issues and limitations https://learn.microsoft.com/en-us/azure/firewall/firewall-known-issues (2025-04-14T05:14:00Z)
+    Design & architecture:
+        Policy:
+            ☐ Policy rule sets https://learn.microsoft.com/en-us/azure/firewall/policy-rule-sets (2025-03-19T22:09:00Z)
+            ☐ Policy Analytics https://learn.microsoft.com/en-us/azure/firewall/policy-analytics (2025-02-25T05:34:00Z)
+        ☐ Infrastructure FQDNs https://learn.microsoft.com/en-us/azure/firewall/infrastructure-fqdns (2025-02-25T05:34:00Z)
+        ☐ IDPS signature rule categories https://learn.microsoft.com/en-us/azure/firewall/idps-signature-categories (2025-02-25T05:34:00Z)
+        ☐ Web categories https://learn.microsoft.com/en-us/azure/firewall/web-categories (2025-02-25T05:34:00Z)
+        ☐ Rule processing logic https://learn.microsoft.com/en-us/azure/firewall/rule-processing (2025-02-25T05:34:00Z)
+        ☐ Forced tunneling https://learn.microsoft.com/en-us/azure/firewall/forced-tunneling (2025-02-25T05:34:00Z)
+        ☐ Management NIC https://learn.microsoft.com/en-us/azure/firewall/management-nic (2025-02-25T05:34:00Z)
+        ☐ Certifications https://learn.microsoft.com/en-us/azure/firewall/compliance-certifications (2025-02-25T05:34:00Z)
+        ☐ FTP support https://learn.microsoft.com/en-us/azure/firewall/ftp-support (2025-02-25T05:34:00Z)
+        ☐ Performance https://learn.microsoft.com/en-us/azure/firewall/firewall-performance (2025-02-25T05:34:00Z)
+        ☐ TCP idle timeout behavior https://learn.microsoft.com/en-us/azure/firewall/tcp-session-behavior (2025-03-27T22:02:00Z)
+        ☐ Explicit Proxy https://learn.microsoft.com/en-us/azure/firewall/explicit-proxy (2025-02-11T23:03:00Z)
+        ☐ Multi hub and spoke https://learn.microsoft.com/en-us/azure/firewall/firewall-multi-hub-spoke (2025-03-19T22:09:00Z)
+        ☐ Central management https://learn.microsoft.com/en-us/azure/firewall/central-management (2025-02-25T05:34:00Z)
+        ☐ Integrate with load balancer https://learn.microsoft.com/en-us/azure/firewall/integrate-lb (2025-03-04T23:03:00Z)
+    Deploy:
+        Firewall Basic https://learn.microsoft.com/en-us/azure/firewall/deploy-firewall-basic-portal-policy (2025-02-25T05:34:00Z):
+            ☐ Features https://learn.microsoft.com/en-us/azure/firewall/basic-features (2025-02-25T05:34:00Z)
+        Firewall Standard:
+            ☐ Features https://learn.microsoft.com/en-us/azure/firewall/features (2025-02-25T05:34:00Z)
+            ☐ Portal https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal-policy (2025-02-25T05:34:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/firewall/deploy-ps (2025-02-25T05:34:00Z)
+            ☐ With Azure CLI https://learn.microsoft.com/en-us/azure/firewall/deploy-cli (2025-02-25T05:34:00Z)
+        Firewall Premium:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/firewall/premium-portal (2025-02-25T05:34:00Z)
+            ☐ Features https://learn.microsoft.com/en-us/azure/firewall/premium-features (2025-03-19T22:09:00Z)
+            ☐ Portal https://learn.microsoft.com/en-us/azure/firewall/premium-deploy (2025-02-11T23:03:00Z)
+            ☐ Certificates https://learn.microsoft.com/en-us/azure/firewall/premium-certificates (2025-02-25T05:34:00Z)
+            ☐ Enterprise CA Certificates https://learn.microsoft.com/en-us/azure/firewall/premium-deploy-certificates-enterprise-ca (2025-02-11T23:03:00Z)
+        To a hybrid Network:
+            ☐ Portal https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-portal-policy (2025-02-11T23:03:00Z)
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-ps (2025-02-25T05:34:00Z)
+        ☐ Firewall with inbound DNAT rules https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-dnat-policy (2025-03-25T22:04:00Z)
+        ☐ Firewall with DDoS protection https://learn.microsoft.com/en-us/azure/firewall/tutorial-protect-firewall (2024-08-01T17:04:00Z)
+        ☐ Integrate NAT gateway with Azure Firewall https://learn.microsoft.com/en-us/azure/virtual-network/nat-gateway/tutorial-hub-spoke-nat-firewall?toc=/azure/firewall/toc.json (2024-10-22T05:31:00Z)
+        Deploy with IP Groups:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/firewall/ip-groups (2025-03-20T22:03:00Z)
+            ☐ Portal, PowerShell, and CLI https://learn.microsoft.com/en-us/azure/firewall/create-ip-group (2025-02-25T05:34:00Z)
+            ☐ Bicep https://learn.microsoft.com/en-us/azure/firewall/quick-create-ipgroup-bicep (2025-02-25T05:34:00Z)
+            ☐ Terraform https://learn.microsoft.com/en-us/azure/firewall/quick-create-ipgroup-terraform (2025-02-25T05:34:00Z)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/firewall/quick-create-ipgroup-template (2025-02-11T23:03:00Z)
+        Deploy with multiple addresses:
+            ☐ PowerShell https://learn.microsoft.com/en-us/azure/firewall/deploy-multi-public-ip-powershell (2025-02-25T05:34:00Z)
+            ☐ Bicep https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-bicep (2024-08-02T17:06:00Z)
+            ☐ Terraform https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-terraform (2025-02-25T05:34:00Z)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/firewall/quick-create-multiple-ip-template (2025-02-25T05:34:00Z)
+        Deploy with Availability zones:
+            ☐ Deploy with Availability Zones https://learn.microsoft.com/en-us/azure/firewall/deploy-availability-zone-powershell (2025-02-25T05:34:00Z)
+            ☐ Bicep https://learn.microsoft.com/en-us/azure/firewall/deploy-bicep (2025-02-25T05:34:00Z)
+            ☐ Terraform https://learn.microsoft.com/en-us/azure/firewall/deploy-terraform (2025-02-25T05:34:00Z)
+            ☐ ARM template https://learn.microsoft.com/en-us/azure/firewall/deploy-template (2025-02-25T05:34:00Z)
+            ☐ Secured hub customer public IP https://learn.microsoft.com/en-us/azure/firewall/secured-hub-customer-public-ip (2025-02-25T05:34:00Z)
+        Azure policy:
+            ☐ Portal https://learn.microsoft.com/en-us/azure/firewall/firewall-azure-policy (2025-02-11T23:03:00Z)
+            ☐ CLI https://learn.microsoft.com/en-us/azure/firewall/deploy-ps-policy (2025-02-25T05:34:00Z)
+        Classic firewall rules:
+            ☐ Deploy and configure - classic https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-deploy-portal (2025-02-25T05:34:00Z)
+            ☐ Deploy in hybrid network - classic https://learn.microsoft.com/en-us/azure/firewall/tutorial-hybrid-portal (2025-02-11T23:03:00Z)
+            ☐ Filter inbound traffic with DNAT - classic https://learn.microsoft.com/en-us/azure/firewall/tutorial-firewall-dnat (2025-03-27T22:02:00Z)
+        ☐ Connectivity to Azure Storage with SFTP https://learn.microsoft.com/en-us/azure/firewall/firewall-sftp (2025-03-25T22:04:00Z)
+        ☐ Backup Azure Firewall https://techcommunity.microsoft.com/t5/azure-network-security-blog/backup-azure-firewall-and-azure-firewall-policy-with-logic-apps/ba-p/3613928
+    Configure:
+        ☐ Add or modify rules using PowerShell https://learn.microsoft.com/en-us/azure/firewall/deploy-rules-powershell (2025-02-25T05:34:00Z)
+        DNS proxy:
+            ☐ Overview https://learn.microsoft.com/en-us/azure/firewall/dns-details (2025-02-25T05:34:00Z)
+            ☐ DNS proxy settings https://learn.microsoft.com/en-us/azure/firewall/dns-settings (2025-02-11T23:03:00Z)
+        Tags:
+            ☐ FQDN tags https://learn.microsoft.com/en-us/azure/firewall/fqdn-tags (2025-02-25T05:34:00Z)
+            ☐ Service tags https://learn.microsoft.com/en-us/azure/firewall/service-tags (2025-03-19T22:09:00Z)
+            ☐ Scale outbound SNAT ports https://learn.microsoft.com/en-us/azure/firewall/integrate-with-nat-gateway (2025-02-25T05:34:00Z)
+        ☐ Application rules with SQL FQDNs https://learn.microsoft.com/en-us/azure/firewall/sql-fqdn-filtering (2025-02-11T23:03:00Z)
+        ☐ SNAT private ranges https://learn.microsoft.com/en-us/azure/firewall/snat-private-range (2025-03-19T22:09:00Z)
+    Migration and upgrades:
+        ☐ Migrate to Azure Firewall Premium https://learn.microsoft.com/en-us/azure/firewall/premium-migrate (2025-02-11T23:03:00Z)
+        ☐ Migrate to Premium using Terraform https://learn.microsoft.com/azure/developer/terraform/firewall-upgrade-premium?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json (2024-08-02T17:03:00Z)
+        ☐ Easy upgrade/downgrade https://learn.microsoft.com/en-us/azure/firewall/easy-upgrade (2025-02-25T05:34:00Z)
+    Security:
+        ☐ Security baseline https://learn.microsoft.com/security/benchmark/azure/baselines/firewall-security-baseline?toc=/azure/firewall/toc.json (2025-02-27T14:58:00Z)
+        ☐ Roles and permissions https://learn.microsoft.com/en-us/azure/firewall/roles-permissions (2025-02-25T05:34:00Z)
+        ☐ Microsoft Copilot for Security https://learn.microsoft.com/en-us/azure/firewall/firewall-copilot (2025-04-28T22:06:00Z)
+        Protect:
+            ☐ Protect Azure Virtual Desktop https://learn.microsoft.com/en-us/azure/firewall/protect-azure-virtual-desktop (2025-03-19T22:09:00Z)
+            ☐ Protect Azure Kubernetes Service (AKS) https://learn.microsoft.com/en-us/azure/firewall/protect-azure-kubernetes-service (2025-02-25T05:34:00Z)
+            ☐ Protect Office 365 https://learn.microsoft.com/en-us/azure/firewall/protect-office-365 (2025-04-03T05:16:00Z)
+            ☐ Azure Firewall with Microsoft Sentinel https://learn.microsoft.com/en-us/azure/firewall/firewall-sentinel-overview (2025-02-25T05:34:00Z)
+            ☐ Detect malware with Microsoft Sentinel https://learn.microsoft.com/en-us/azure/firewall/detect-malware-with-sentinel (2025-02-25T05:34:00Z)
+        ☐ Network security blog https://techcommunity.microsoft.com/category/azure-network-security/blog/azurenetworksecurityblog
+    Operational excellence:
+        Monitoring:
+            ☐ Logs and metrics https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall (2025-05-09T05:16:00Z)
+            ☐ Azure Firewall Workbooks https://learn.microsoft.com/en-us/azure/firewall/firewall-workbook (2025-02-25T05:34:00Z)
+        ☐ Threat intelligence https://learn.microsoft.com/en-us/azure/firewall/threat-intel (2025-02-11T23:03:00Z)
+        ☐ Best practices for performance https://learn.microsoft.com/en-us/azure/firewall/firewall-best-practices (2025-02-25T05:34:00Z)
+        ☐ Relocate to another region https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/relocation/relocation-firewall?toc=/azure/firewall/toc.json&bc=/azure/firewall/breadcrumb/toc.json (2025-04-11T22:03:00Z)
+        ☐ Remote work support https://learn.microsoft.com/en-us/azure/firewall/remote-work-support (2025-02-25T05:34:00Z)
+    Reference:
+        ☐ Azure CLI https://learn.microsoft.com/cli/azure/network/firewall (2025-03-25T06:59:00Z)
+        ☐ Azure PowerShell https://learn.microsoft.com/powershell/module/az.network/new-azfirewall (2025-05-06T17:01:00Z)
+        ☐ .NET https://learn.microsoft.com/dotnet/api (2025-01-29T08:15:00Z)
+        ☐ Node.js https://azure.microsoft.com/develop/nodejs/#azure-sdk
+        ☐ Python https://azure.microsoft.com/develop/python/
+        ☐ REST https://learn.microsoft.com/rest/api/firewall (2024-08-06T22:08:00Z)
+        ☐ Azure Resource Manager https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview (2025-03-31T22:05:00Z)
+        ☐ Monitoring dataWinRT reference https://learn.microsoft.com/en-us/azure/firewall/monitor-firewall-reference (2025-02-25T05:34:00Z)
+    Resources:
+        ☐ Networking blog https://techcommunity.microsoft.com/category/azure/blog/azurenetworkingblog
+        ☐ Author templates https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/syntax (2025-05-12T17:04:00Z)
+        ☐ Community templates https://azure.microsoft.com/documentation/templates
+        ☐ Pricing https://azure.microsoft.com/pricing/details/azure-firewall/
+        ☐ Regional availability https://azure.microsoft.com/regions/services/
+
